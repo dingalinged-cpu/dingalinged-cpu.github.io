@@ -15,7 +15,7 @@ La Fournette is a bakery in Chicago, IL at 1547 North Wells Street, Chicago, IL 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fournette-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fournette-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4214191958 (license ODbL-1.0); source data as of 2026-06-01

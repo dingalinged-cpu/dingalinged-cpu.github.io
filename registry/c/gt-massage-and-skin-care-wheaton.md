@@ -15,7 +15,7 @@ GT Massage & Skin Care is a massage studio in Wheaton, IL at 300 East Roosevelt 
 - Opening hours (OSM syntax): Mo-Th 11:30-20:00; Fr 09:00-17:00; Sa 08:00-15:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gt-massage-and-skin-care-wheaton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gt-massage-and-skin-care-wheaton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13462350232 (license ODbL-1.0); source data as of 2026-06-01

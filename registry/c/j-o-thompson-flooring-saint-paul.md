@@ -15,7 +15,7 @@ J.O. Thompson Flooring is a flooring company in Saint Paul, MN at 1558 Como Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/j-o-thompson-flooring-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/j-o-thompson-flooring-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1765669157 (license ODbL-1.0); source data as of 2026-07-24

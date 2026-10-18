@@ -15,7 +15,7 @@ WashU Car Wash is a car wash in Berwyn, IL at 2315 South Harlem Avenue, Berwyn, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/washu-car-wash-berwyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/washu-car-wash-berwyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1298886134 (license ODbL-1.0); source data as of 2026-07-28

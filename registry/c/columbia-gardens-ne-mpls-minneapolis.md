@@ -15,7 +15,7 @@ Columbia Gardens NE Mpls is a florist in Minneapolis, MN. Website: https://colum
 - Opening hours (OSM syntax): Su,Mo 09:00-16:00; We-Fr 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/columbia-gardens-ne-mpls-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/columbia-gardens-ne-mpls-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11064271224 (license ODbL-1.0); source data as of 2026-06-01

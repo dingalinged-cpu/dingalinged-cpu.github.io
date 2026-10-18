@@ -15,7 +15,7 @@ Kozlak-Radulovich Funeral Chapel is a funeral home in Minneapolis, MN at 1918 No
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kozlak-radulovich-funeral-chapel-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kozlak-radulovich-funeral-chapel-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/116781731 (license ODbL-1.0); source data as of 2026-06-01

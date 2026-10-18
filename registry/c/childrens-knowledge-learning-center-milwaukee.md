@@ -1,0 +1,23 @@
+Children's Knowledge Learning Center is a daycare in Milwaukee, WI at 3424 West North Avenue, Milwaukee, WI 53208.
+
+# Children's Knowledge Learning Center
+
+- Category: daycare
+- Services: daycare
+- Address: 3424 West North Avenue, Milwaukee, WI 53208
+- City: Milwaukee
+- State: WI
+- ZIP: 53208
+- Coordinates: 43.0607696, -87.9570815
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/childrens-knowledge-learning-center-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/childrens-knowledge-learning-center-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12600407408 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

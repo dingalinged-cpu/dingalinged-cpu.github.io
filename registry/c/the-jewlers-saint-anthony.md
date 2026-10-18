@@ -15,7 +15,7 @@ The Jewlers is a jewelry store in Saint Anthony, MN at 2902 Pentagon Drive, Sain
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-jewlers-saint-anthony/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-jewlers-saint-anthony.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13138450081 (license ODbL-1.0); source data as of 2026-06-01

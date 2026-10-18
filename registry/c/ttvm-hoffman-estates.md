@@ -15,7 +15,7 @@ TTVM is an auto repair shop in Hoffman Estates, IL at 1300 West Higgins Road, Ho
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ttvm-hoffman-estates/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ttvm-hoffman-estates.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/489429511 (license ODbL-1.0); source data as of 2026-06-01

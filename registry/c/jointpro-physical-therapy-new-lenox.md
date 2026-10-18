@@ -15,7 +15,7 @@ JointPro Physical Therapy is a physical therapy clinic in New Lenox, IL at 1405 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jointpro-physical-therapy-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jointpro-physical-therapy-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9195011942 (license ODbL-1.0); source data as of 2026-07-28

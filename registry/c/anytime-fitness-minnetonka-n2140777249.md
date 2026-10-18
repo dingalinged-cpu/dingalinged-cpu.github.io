@@ -15,7 +15,7 @@ Anytime Fitness is a gym in Minnetonka, MN at 11104 Cedar Lake Road, Minnetonka,
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-minnetonka-n2140777249/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-minnetonka-n2140777249.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2140777249 (license ODbL-1.0); source data as of 2026-07-15

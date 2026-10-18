@@ -1,0 +1,23 @@
+Firestone is an auto repair shop in Milwaukee, WI at 3534 South 27th Street, Milwaukee, WI.
+
+# Firestone
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 3534 South 27th Street, Milwaukee, WI
+- City: Milwaukee
+- State: WI
+- ZIP: n/a
+- Coordinates: 42.9804011, -87.9478786
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/firestone-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/firestone-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8223440608 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Porsche McKinney Service Center is an auto repair shop in McKinney, TX at 4801 South Hardin Boulevard, McKinney, TX 75070.
+
+# Porsche McKinney Service Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 4801 South Hardin Boulevard, McKinney, TX 75070
+- City: McKinney
+- State: TX
+- ZIP: 75070
+- Coordinates: 33.1527139, -96.6623938
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/porsche-mckinney-service-center-mckinney/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/porsche-mckinney-service-center-mckinney.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/983103479 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

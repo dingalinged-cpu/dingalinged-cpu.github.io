@@ -15,7 +15,7 @@ My Gym is a gym in Chicago, IL at 1730 West Fullerton Avenue #23, Chicago, IL 60
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/my-gym-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/my-gym-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1319737956 (license ODbL-1.0); source data as of 2026-06-01

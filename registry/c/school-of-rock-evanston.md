@@ -15,7 +15,7 @@ School of Rock is a music school in Evanston, IL at 1311 Sherman Place, Evanston
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/school-of-rock-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/school-of-rock-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2295218569 (license ODbL-1.0); source data as of 2026-07-28

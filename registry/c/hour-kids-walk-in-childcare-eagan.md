@@ -15,7 +15,7 @@ Hour Kids Walk-In Childcare is a daycare in Eagan, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hour-kids-walk-in-childcare-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hour-kids-walk-in-childcare-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9234733594 (license ODbL-1.0); source data as of 2026-07-24

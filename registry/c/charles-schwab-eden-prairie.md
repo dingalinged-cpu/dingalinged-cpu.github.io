@@ -15,7 +15,7 @@ Charles Schwab is a financial advisor in Eden Prairie, MN at 7914 Mitchell Road,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/charles-schwab-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6773408073 (license ODbL-1.0); source data as of 2026-05-31

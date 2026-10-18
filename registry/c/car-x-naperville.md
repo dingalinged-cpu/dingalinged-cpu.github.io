@@ -15,7 +15,7 @@ Car-X is an auto repair shop in Naperville, IL at 1156 East Ogden Avenue, Naperv
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:30; Sa 07:30-18:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/car-x-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/car-x-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/292642500 (license ODbL-1.0); source data as of 2026-06-01

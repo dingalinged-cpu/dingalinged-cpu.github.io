@@ -1,0 +1,23 @@
+Tide Cleaners is a dry cleaner in Pearland, TX at 9517 West Broadway Street #101, Pearland, TX.
+
+# Tide Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 9517 West Broadway Street #101, Pearland, TX
+- City: Pearland
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.5577174, -95.3674854
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/tide-cleaners-pearland/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tide-cleaners-pearland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7041289752 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

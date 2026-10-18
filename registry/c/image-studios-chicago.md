@@ -15,7 +15,7 @@ Image Studios is a hair salon in Chicago, IL. Website: https://imagestudios360.c
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/image-studios-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/image-studios-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13571658223 (license ODbL-1.0); source data as of 2026-06-01

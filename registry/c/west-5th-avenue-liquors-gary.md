@@ -15,7 +15,7 @@ West 5th Avenue Liquors is a liquor store in Gary, IN at 537 West 5th Avenue, Ga
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/west-5th-avenue-liquors-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/west-5th-avenue-liquors-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/203530332 (license ODbL-1.0); source data as of 2026-06-01

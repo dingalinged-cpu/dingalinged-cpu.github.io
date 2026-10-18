@@ -15,7 +15,7 @@ Milktooth Pediatric Dentistry is a dentist in Chicago, IL at 2127 West Chicago A
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/milktooth-pediatric-dentistry-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/milktooth-pediatric-dentistry-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11346962547 (license ODbL-1.0); source data as of 2026-07-28

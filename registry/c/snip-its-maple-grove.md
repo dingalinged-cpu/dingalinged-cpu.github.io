@@ -15,7 +15,7 @@ Snip-Its is a hair salon in Maple Grove, MN at 11634, Maple Grove, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/snip-its-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/snip-its-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5597424692 (license ODbL-1.0); source data as of 2026-06-01

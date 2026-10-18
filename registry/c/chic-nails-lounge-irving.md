@@ -1,0 +1,23 @@
+Chic Nails Lounge is a nail salon in Irving, TX.
+
+# Chic Nails Lounge
+
+- Category: nail salon
+- Services: nail salon
+- Address: Irving, TX
+- City: Irving
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.8963467, -96.9611486
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/chic-nails-lounge-irving/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/chic-nails-lounge-irving.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10245663421 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

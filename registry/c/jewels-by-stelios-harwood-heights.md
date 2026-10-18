@@ -15,7 +15,7 @@ Jewels by Stelios is a jewelry store in Harwood Heights, IL at 4721 North Harlem
 - Opening hours (OSM syntax): Mo Closed; Tu-Fr 10:30-17:30; Sa 10:30-17:00; Su Closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jewels-by-stelios-harwood-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jewels-by-stelios-harwood-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4929729038 (license ODbL-1.0); source data as of 2026-06-01

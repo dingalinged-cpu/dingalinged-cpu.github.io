@@ -15,7 +15,7 @@ Cermak Home For Funerals is a funeral home in Cicero, IL at 5844 West Cermak Roa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cermak-home-for-funerals-cicero/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cermak-home-for-funerals-cicero.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/451463969 (license ODbL-1.0); source data as of 2026-06-01

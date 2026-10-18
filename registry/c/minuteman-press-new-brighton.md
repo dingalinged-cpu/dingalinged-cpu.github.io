@@ -15,7 +15,7 @@ Minuteman Press is a printing service in New Brighton, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/minuteman-press-new-brighton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/minuteman-press-new-brighton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7360557230 (license ODbL-1.0); source data as of 2026-06-01

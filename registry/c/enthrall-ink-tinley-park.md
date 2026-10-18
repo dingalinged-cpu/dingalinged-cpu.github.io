@@ -15,7 +15,7 @@ Enthrall Ink is a tattoo shop in Tinley Park, IL at 7899 West 159th Street, Tinl
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/enthrall-ink-tinley-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/enthrall-ink-tinley-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11147691149 (license ODbL-1.0); source data as of 2026-06-01

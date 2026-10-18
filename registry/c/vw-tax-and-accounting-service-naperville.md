@@ -15,7 +15,7 @@ VW Tax & Accounting Service is an accountant in Naperville, IL at 800 West 5th A
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vw-tax-and-accounting-service-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vw-tax-and-accounting-service-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13714784320 (license ODbL-1.0); source data as of 2026-07-28

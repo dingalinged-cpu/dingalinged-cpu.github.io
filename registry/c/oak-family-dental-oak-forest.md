@@ -15,7 +15,7 @@ Oak Family Dental is a dentist in Oak Forest, IL at 6056 West 159th Street, Oak 
 - Opening hours (OSM syntax): Mo 00:00-19:00; We 10:00-18:00; Th 10:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oak-family-dental-oak-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oak-family-dental-oak-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11969203769 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+Katy Trails Family Dentistry is a dentist in Katy, TX at 23053 Clay Road #600, Katy, TX 77493.
+
+# Katy Trails Family Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 23053 Clay Road #600, Katy, TX 77493
+- City: Katy
+- State: TX
+- ZIP: 77493
+- Coordinates: 29.8310123, -95.77521
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/katy-trails-family-dentistry-katy/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/katy-trails-family-dentistry-katy.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13606936339 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

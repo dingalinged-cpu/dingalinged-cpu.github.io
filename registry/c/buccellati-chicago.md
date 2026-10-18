@@ -15,7 +15,7 @@ Buccellati is a jewelry store in Chicago, IL at 62 East Oak Street, Chicago, IL 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/buccellati-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/buccellati-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10866545600 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Earthman Resthaven Funeral Home is a funeral home in Houston, TX at 13102 North Freeway, Houston, TX 77060. Website: https://www.dignitymemorial.com/earthman-resthaven-funeral-home/en-us/index.page.
+
+# Earthman Resthaven Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 13102 North Freeway, Houston, TX 77060
+- City: Houston
+- State: TX
+- ZIP: 77060
+- Coordinates: 29.9610498, -95.4173427
+- Phone: n/a
+- Website: https://www.dignitymemorial.com/earthman-resthaven-funeral-home/en-us/index.page
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/earthman-resthaven-funeral-home-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/earthman-resthaven-funeral-home-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/421698606 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

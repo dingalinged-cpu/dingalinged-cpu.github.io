@@ -15,7 +15,7 @@ Touch of Health is a chiropractor in Hopkins, MN at 10417 Excelsior Boulevard #S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/touch-of-health-hopkins/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/touch-of-health-hopkins.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6640556651 (license ODbL-1.0); source data as of 2026-06-01

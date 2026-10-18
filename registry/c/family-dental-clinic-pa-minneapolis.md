@@ -15,7 +15,7 @@ Family Dental Clinic PA is a dentist in Minneapolis, MN at 4454 Chicago Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/family-dental-clinic-pa-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/family-dental-clinic-pa-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/231160037 (license ODbL-1.0); source data as of 2026-07-24

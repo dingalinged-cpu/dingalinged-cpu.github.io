@@ -15,7 +15,7 @@ Car Wash is a car wash in Gary, IN at 1508 Massachusetts Street, Gary, IN 46407.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/car-wash-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/car-wash-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1145431829 (license ODbL-1.0); source data as of 2026-07-28

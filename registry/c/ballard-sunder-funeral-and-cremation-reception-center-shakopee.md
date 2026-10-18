@@ -15,7 +15,7 @@ Ballard-Sunder Funeral and Cremation Reception Center is a funeral home in Shako
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ballard-sunder-funeral-and-cremation-reception-center-shakopee/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ballard-sunder-funeral-and-cremation-reception-center-shakopee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/246927895 (license ODbL-1.0); source data as of 2026-06-01

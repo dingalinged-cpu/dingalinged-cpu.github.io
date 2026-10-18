@@ -15,7 +15,7 @@ Lincoln Park Foot and Ankle Specialists is a podiatrist in Chicago, IL at 1718 N
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lincoln-park-foot-and-ankle-specialists-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lincoln-park-foot-and-ankle-specialists-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13574773774 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ East Lake Animal Clinic is a veterinarian in Minneapolis, MN at 4108 East Lake S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/east-lake-animal-clinic-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/east-lake-animal-clinic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/644438689 (license ODbL-1.0); source data as of 2026-07-24

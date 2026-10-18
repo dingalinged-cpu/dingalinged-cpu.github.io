@@ -15,7 +15,7 @@ Petco is a pet store in Skokie, IL at 9645 Skokie Boulevard, Skokie, IL 60077. P
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/petco-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/petco-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7429113695 (license ODbL-1.0); source data as of 2026-06-01

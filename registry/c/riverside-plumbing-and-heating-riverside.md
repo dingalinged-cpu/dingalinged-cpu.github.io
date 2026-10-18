@@ -15,7 +15,7 @@ Riverside Plumbing & Heating is a HVAC contractor in Riverside, IL at 3 Longcomm
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/riverside-plumbing-and-heating-riverside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/riverside-plumbing-and-heating-riverside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/232267103 (license ODbL-1.0); source data as of 2026-06-01

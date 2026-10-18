@@ -15,7 +15,7 @@ The Barber Shop is a barber shop in West Saint Paul, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-barber-shop-west-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-barber-shop-west-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12729435293 (license ODbL-1.0); source data as of 2026-06-01

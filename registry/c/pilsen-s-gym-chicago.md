@@ -15,7 +15,7 @@ Pilsen’s Gym is a gym in Chicago, IL at 1820 South Bishop Street, Chicago, IL 
 - Opening hours (OSM syntax): Mo-Fr 06:00-21:00; Sa-Su 07:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pilsen-s-gym-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pilsen-s-gym-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13259627303 (license ODbL-1.0); source data as of 2026-06-01

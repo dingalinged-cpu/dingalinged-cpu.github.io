@@ -15,7 +15,7 @@ White Pines Senior Living is an assisted living facility in Mendota Heights, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/white-pines-senior-living-mendota-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/white-pines-senior-living-mendota-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/529046048 (license ODbL-1.0); source data as of 2026-07-24

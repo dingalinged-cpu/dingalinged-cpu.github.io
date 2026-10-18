@@ -15,7 +15,7 @@ Del Galdo Law Group, LLC is a lawyer in Berwyn, IL at 1441 South Harlem Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/del-galdo-law-group-llc-berwyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/del-galdo-law-group-llc-berwyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4203603793 (license ODbL-1.0); source data as of 2026-07-28

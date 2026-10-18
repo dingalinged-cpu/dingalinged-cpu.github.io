@@ -15,7 +15,7 @@ Guild Row is a coworking space in Chicago, IL at 3130 North Rockwell Street, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/guild-row-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/guild-row-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8796076024 (license ODbL-1.0); source data as of 2026-07-28

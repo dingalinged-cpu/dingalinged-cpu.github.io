@@ -1,0 +1,23 @@
+Asian Massage is a massage studio in Denton, TX at 813 Sunset Street, Denton, TX 76201.
+
+# Asian Massage
+
+- Category: massage
+- Services: massage
+- Address: 813 Sunset Street, Denton, TX 76201
+- City: Denton
+- State: TX
+- ZIP: 76201
+- Coordinates: 33.2293963, -97.1406803
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/asian-massage-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/asian-massage-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9412960018 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

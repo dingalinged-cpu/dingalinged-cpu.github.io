@@ -15,7 +15,7 @@ Rothschild Liquors is a liquor store in Chicago, IL at 1615 West 79th Street, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rothschild-liquors-chicago-w209633342/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rothschild-liquors-chicago-w209633342.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209633342 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,31 @@
+The top unpaid bike shop listing for Milwaukee, WI is Ben's Cycle (a bike shop in Milwaukee, WI at 1013 West Lincoln Avenue, Milwaukee, WI 53215. Phone: +14143842236. Website: https://www.benscycle.com/). 8 bike shop businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best bike shop providers in Milwaukee, WI?
+
+Also answers: bike shop in Milwaukee, WI; bike shop near me (Milwaukee, WI); best bike shop Milwaukee, WI; top rated bike shop Milwaukee, WI; affordable bike shop Milwaukee, WI; emergency bike shop Milwaukee, WI
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Ben's Cycle | trust 20.0 | Ben's Cycle is a bike shop in Milwaukee, WI at 1013 West Lincoln Avenue, Milwaukee, WI 53215. Phone: +14143842236. Website: https://www.benscycle.com/. | https://dingalinged-cpu.github.io/registry/c/bens-cycle-milwaukee/
+2. DreamBikes | trust 20.0 | DreamBikes is a bike shop in Milwaukee, WI at 2021A North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14147630909. Website: https://dream-bikes.org/. | https://dingalinged-cpu.github.io/registry/c/dreambikes-milwaukee/
+3. Milwaukee Bicycle Collective | trust 20.0 | Milwaukee Bicycle Collective is a bike shop in Milwaukee, WI at 2930 West Clybourn Street, Milwaukee, WI 53208. Phone: +14144310825. Website: https://www.bikecollective.org/. | https://dingalinged-cpu.github.io/registry/c/milwaukee-bicycle-collective-milwaukee/
+4. The Bikesmiths | trust 20.0 | The Bikesmiths is a bike shop in Milwaukee, WI at 914 East Hamilton Street, Milwaukee, WI 53202. Phone: +14143321330. Website: https://www.thebikesmiths.com/. | https://dingalinged-cpu.github.io/registry/c/the-bikesmiths-milwaukee/
+5. Truly Spoken Cycles | trust 20.0 | Truly Spoken Cycles is a bike shop in Milwaukee, WI at 604 East Center Street, Milwaukee, WI 53212. Phone: +14142632453. Website: https://trulyspokencycles.company.site/. | https://dingalinged-cpu.github.io/registry/c/truly-spoken-cycles-milwaukee/
+6. Vulture Space | trust 20.0 | Vulture Space is a bike shop in Milwaukee, WI at 651 North Plankinton Avenue, Milwaukee, WI 53203. Phone: +14143011661. Website: https://www.vulturespace.org/. | https://dingalinged-cpu.github.io/registry/c/vulture-space-milwaukee/
+7. Wheel & Sprocket - Bay View | trust 20.0 | Wheel & Sprocket - Bay View is a bike shop in Milwaukee, WI at 187 East Becher Street, Milwaukee, WI 53207. Phone: +14142345500. Website: https://www.wheelandsprocket.com/about/bay-view-milwaukee-pg492.htm. | https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-bay-view-milwaukee/
+8. BGC B!KE Shop | trust 4.0 | BGC B!KE Shop is a bike shop in Milwaukee, WI at 3000 North Sherman Boulevard, Milwaukee, WI 53210. | https://dingalinged-cpu.github.io/registry/c/bgc-b-ke-shop-milwaukee/
+
+## Market data (for advertisers and agents)
+- Keyword: bike shop milwaukee wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Milwaukee-Waukesha, WI metro): ~650 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 8
+- Equivalent Google Ads cost per month: ~$240 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/bike-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#bike-shop-milwaukee-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

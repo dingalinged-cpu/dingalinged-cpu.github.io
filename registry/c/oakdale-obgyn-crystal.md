@@ -15,7 +15,7 @@ Oakdale ObGyn is an OB-GYN practice in Crystal, MN at 5700 Bottineau Boulevard #
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oakdale-obgyn-crystal/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oakdale-obgyn-crystal.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7170036797 (license ODbL-1.0); source data as of 2026-07-24

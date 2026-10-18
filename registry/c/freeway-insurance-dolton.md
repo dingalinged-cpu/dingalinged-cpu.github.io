@@ -15,7 +15,7 @@ Freeway Insurance is an insurance agent in Dolton, IL at 1015 East Sibley Boulev
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/freeway-insurance-dolton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/freeway-insurance-dolton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13156070988 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Allen Landscape llc office is a business consultant in Highland, IN at 2539 45th
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allen-landscape-llc-office-highland/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allen-landscape-llc-office-highland.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1425627863 (license ODbL-1.0); source data as of 2026-07-28

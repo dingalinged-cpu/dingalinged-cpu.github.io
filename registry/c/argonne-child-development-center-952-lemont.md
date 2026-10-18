@@ -15,7 +15,7 @@ Argonne Child Development Center (952) is a daycare in Lemont, IL at 9700 Cass A
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/argonne-child-development-center-952-lemont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/argonne-child-development-center-952-lemont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/557462685 (license ODbL-1.0); source data as of 2026-07-28

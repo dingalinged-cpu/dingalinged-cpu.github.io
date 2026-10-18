@@ -15,7 +15,7 @@ Gifted Barbershop is a barber shop in Bloomington, MN at 7700 West Old Shakopee 
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 11:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gifted-barbershop-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gifted-barbershop-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13716868489 (license ODbL-1.0); source data as of 2026-06-01

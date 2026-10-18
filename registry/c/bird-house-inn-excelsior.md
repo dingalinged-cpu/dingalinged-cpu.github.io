@@ -15,7 +15,7 @@ Bird House Inn is an event venue in Excelsior, MN at 371 Water Street, Excelsior
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bird-house-inn-excelsior/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bird-house-inn-excelsior.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/257684128 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Woody's Furniture is a furniture store in Saint Louis Park, MN at 5217 Excelsior
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-17:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/woodys-furniture-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/woodys-furniture-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2246717604 (license ODbL-1.0); source data as of 2026-06-01

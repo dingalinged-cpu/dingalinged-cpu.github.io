@@ -15,7 +15,7 @@ Bradshaw Funeral & Cremation Services is a funeral home in Minneapolis, MN at 31
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bradshaw-funeral-and-cremation-services-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bradshaw-funeral-and-cremation-services-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/319467187 (license ODbL-1.0); source data as of 2026-06-01

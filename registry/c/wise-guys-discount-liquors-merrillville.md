@@ -15,7 +15,7 @@ Wise Guys Discount Liquors is a liquor store in Merrillville, IN at 1634 East 80
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wise-guys-discount-liquors-merrillville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wise-guys-discount-liquors-merrillville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13772771262 (license ODbL-1.0); source data as of 2026-06-01

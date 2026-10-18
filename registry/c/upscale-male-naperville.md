@@ -15,7 +15,7 @@ Upscale Male is a hair salon in Naperville, IL at 1935 95th Street #123, Napervi
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr, Sa 09:00-16:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/upscale-male-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/upscale-male-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8905992114 (license ODbL-1.0); source data as of 2026-06-01

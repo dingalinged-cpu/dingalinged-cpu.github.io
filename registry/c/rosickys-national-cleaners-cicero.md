@@ -15,7 +15,7 @@ Rosicky's National Cleaners is a dry cleaner in Cicero, IL at West Cermak Road, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rosickys-national-cleaners-cicero/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rosickys-national-cleaners-cicero.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/451463984 (license ODbL-1.0); source data as of 2026-06-01

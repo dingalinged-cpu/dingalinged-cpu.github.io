@@ -15,7 +15,7 @@ Stephen's Self-Storage is a self-storage facility in Oakdale, MN at 5698 Hadley 
 - Opening hours (OSM syntax): Mo-We 09:30-13:00; Th-Fr 09:30-14:00; Sa 08:30-14:00; Su 09:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/stephens-self-storage-oakdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/stephens-self-storage-oakdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6636466353 (license ODbL-1.0); source data as of 2026-06-01

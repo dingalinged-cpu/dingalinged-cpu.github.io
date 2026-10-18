@@ -15,7 +15,7 @@ Life Time is a gym in Northbrook, IL at 1100 Skokie Boulevard, Northbrook, IL 60
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/life-time-northbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/life-time-northbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1305262369 (license ODbL-1.0); source data as of 2026-06-01

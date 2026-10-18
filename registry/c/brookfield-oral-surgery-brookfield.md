@@ -15,7 +15,7 @@ Brookfield Oral Surgery is a dentist in Brookfield, IL at 9240 Broadway Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brookfield-oral-surgery-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brookfield-oral-surgery-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10733645339 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+Alana K. Macalik, DDS is a dentist in Arlington, TX at 2265 West Green Oaks Boulevard, Arlington, TX 76013. Phone: +18174967899. Website: https://macalikdds.com/.
+
+# Alana K. Macalik, DDS
+
+- Category: dentist
+- Services: dentist
+- Address: 2265 West Green Oaks Boulevard, Arlington, TX 76013
+- City: Arlington
+- State: TX
+- ZIP: 76013
+- Coordinates: 32.7083433, -97.1903594
+- Phone: +18174967899
+- Website: https://macalikdds.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/alana-k-macalik-dds-arlington/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/alana-k-macalik-dds-arlington.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3831857816 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

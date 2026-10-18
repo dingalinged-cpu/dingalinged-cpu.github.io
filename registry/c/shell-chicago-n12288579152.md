@@ -15,7 +15,7 @@ Shell is a car wash in Chicago, IL at 3181 North Milwaukee Avenue, Chicago, IL 6
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shell-chicago-n12288579152/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shell-chicago-n12288579152.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12288579152 (license ODbL-1.0); source data as of 2026-07-28

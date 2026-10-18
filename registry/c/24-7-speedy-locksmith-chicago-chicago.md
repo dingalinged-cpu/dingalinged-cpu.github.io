@@ -15,7 +15,7 @@
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/24-7-speedy-locksmith-chicago-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/24-7-speedy-locksmith-chicago-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210221630 (license ODbL-1.0); source data as of 2026-06-01

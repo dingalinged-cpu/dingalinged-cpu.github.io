@@ -15,7 +15,7 @@ Amish Furniture Shoppe is a furniture store in Tinley Park, IL at 6807 159th Str
 - Opening hours (OSM syntax): Tu-Th 11:00-20:00, Fr 11:00-18:00, Sa 11:00-17:00, Su 12:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/amish-furniture-shoppe-tinley-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/amish-furniture-shoppe-tinley-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5956556032 (license ODbL-1.0); source data as of 2026-06-01

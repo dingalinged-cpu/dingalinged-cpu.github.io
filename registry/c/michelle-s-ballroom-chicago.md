@@ -15,7 +15,7 @@ Michelle’s Ballroom is an event venue in Chicago, IL at 2800 West Belmont Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/michelle-s-ballroom-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/michelle-s-ballroom-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10908928653 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ La-Z-Boy is a furniture store in Maple Grove, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-z-boy-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-z-boy-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/761529233 (license ODbL-1.0); source data as of 2026-06-01

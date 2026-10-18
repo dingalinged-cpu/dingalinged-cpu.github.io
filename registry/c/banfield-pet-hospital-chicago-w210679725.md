@@ -15,7 +15,7 @@ Banfield Pet Hospital is a veterinarian in Chicago, IL at 225 West Division Stre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-chicago-w210679725/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-chicago-w210679725.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210679725 (license ODbL-1.0); source data as of 2026-07-28

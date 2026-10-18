@@ -1,0 +1,23 @@
+Ashar Dentistry is a dentist in McKinney, TX.
+
+# Ashar Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: McKinney, TX
+- City: McKinney
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.1418626, -96.7326821
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ashar-dentistry-mckinney/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ashar-dentistry-mckinney.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13758833931 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

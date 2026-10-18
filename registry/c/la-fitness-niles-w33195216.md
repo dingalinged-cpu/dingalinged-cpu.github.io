@@ -15,7 +15,7 @@ LA Fitness is a gym in Niles, IL at 9210 North Milwaukee Avenue, Niles, IL 60714
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-niles-w33195216/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-niles-w33195216.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/33195216 (license ODbL-1.0); source data as of 2026-06-01

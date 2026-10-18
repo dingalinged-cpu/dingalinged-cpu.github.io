@@ -15,7 +15,7 @@ Shorin Ryu Minnesota Karate is a martial arts school in Saint Anthony, MN at 291
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shorin-ryu-minnesota-karate-saint-anthony/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shorin-ryu-minnesota-karate-saint-anthony.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/923857405 (license ODbL-1.0); source data as of 2026-07-15

@@ -15,7 +15,7 @@ Heavenly Massage & Spa is a massage studio in Mount Prospect, IL at 110 East Ran
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/heavenly-massage-and-spa-mount-prospect/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/heavenly-massage-and-spa-mount-prospect.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1221219768 (license ODbL-1.0); source data as of 2026-06-01

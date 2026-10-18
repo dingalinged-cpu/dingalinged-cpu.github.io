@@ -15,7 +15,7 @@ Chicagoland Car Wash is a car wash in Niles, IL at 7303 West Dempster Street, Ni
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chicagoland-car-wash-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicagoland-car-wash-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/194722554 (license ODbL-1.0); source data as of 2026-07-28

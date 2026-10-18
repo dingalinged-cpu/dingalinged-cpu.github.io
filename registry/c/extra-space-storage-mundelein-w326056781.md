@@ -15,7 +15,7 @@ Extra Space Storage is a self-storage facility in Mundelein, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-mundelein-w326056781/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-mundelein-w326056781.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/326056781 (license ODbL-1.0); source data as of 2026-06-01

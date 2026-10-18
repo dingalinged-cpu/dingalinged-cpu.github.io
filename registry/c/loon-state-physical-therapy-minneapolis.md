@@ -15,7 +15,7 @@ Loon State Physical Therapy is a physical therapy clinic in Minneapolis, MN at 4
 - Opening hours (OSM syntax): Mo-Th 07:00-18:00; Fr 07:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/loon-state-physical-therapy-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/loon-state-physical-therapy-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12125581142 (license ODbL-1.0); source data as of 2026-06-01

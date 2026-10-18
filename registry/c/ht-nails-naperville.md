@@ -15,7 +15,7 @@ HT Nails is a nail salon in Naperville, IL at 1015 West Ogden Avenue, Naperville
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ht-nails-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ht-nails-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8493340785 (license ODbL-1.0); source data as of 2026-06-01

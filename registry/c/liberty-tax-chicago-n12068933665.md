@@ -15,7 +15,7 @@ Liberty Tax is a tax preparation service in Chicago, IL at 6500 West Irving Park
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/liberty-tax-chicago-n12068933665/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/liberty-tax-chicago-n12068933665.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12068933665 (license ODbL-1.0); source data as of 2026-07-28

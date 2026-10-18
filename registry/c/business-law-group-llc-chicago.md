@@ -15,7 +15,7 @@ Business Law Group, LLC is a lawyer in Chicago, IL at 325 West Ohio Street, Chic
 - Opening hours (OSM syntax): Mo-Fr 8:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/business-law-group-llc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/business-law-group-llc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12296073853 (license ODbL-1.0); source data as of 2026-07-28

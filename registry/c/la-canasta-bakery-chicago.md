@@ -15,7 +15,7 @@ La Canasta Bakery is a bakery in Chicago, IL at 3575 West Armitage Avenue, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-canasta-bakery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-canasta-bakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6319898778 (license ODbL-1.0); source data as of 2026-06-01

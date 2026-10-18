@@ -15,7 +15,7 @@ Justicia Law is a lawyer in Minneapolis, MN at 3105 Hennepin Avenue South, Minne
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/justicia-law-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/justicia-law-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/88464294 (license ODbL-1.0); source data as of 2026-05-31

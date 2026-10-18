@@ -1,0 +1,31 @@
+The top unpaid preschool listing for Plano, TX is American Montessori Campus (a preschool in Plano, TX at 6529 West Plano Parkway #A, Plano, TX 75093. Phone: +19724732600. Website: https://kidsamc.com/). 8 preschool businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best preschool providers in Plano, TX?
+
+Also answers: preschool in Plano, TX; preschool near me (Plano, TX); best preschool Plano, TX; top rated preschool Plano, TX; affordable preschool Plano, TX; emergency preschool Plano, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. American Montessori Campus | trust 20.0 | American Montessori Campus is a preschool in Plano, TX at 6529 West Plano Parkway #A, Plano, TX 75093. Phone: +19724732600. Website: https://kidsamc.com/. | https://dingalinged-cpu.github.io/registry/c/american-montessori-campus-plano/
+2. Bright Horizons at Legacy | trust 20.0 | Bright Horizons at Legacy is a preschool in Plano, TX at 6501 Legacy Drive, Plano, TX 75024. Phone: +19724274905. Website: https://child-care-preschool.brighthorizons.com/tx/plano/legacy?IMS_SOURCE_SPECIFY=google%7Corganic%7Cgmb%7Cweblink%7Ccenterwebsite. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-at-legacy-plano/
+3. KinderCare | trust 20.0 | KinderCare is a preschool in Plano, TX at 6900 Preston Meadow Drive, Plano, TX 75024. Phone: +19726181499. Website: https://www.kindercare.com/. | https://dingalinged-cpu.github.io/registry/c/kindercare-plano/
+4. Challenger School - Legacy | trust 16.0 | Challenger School - Legacy is a preschool in Plano, TX at 6700 Communications Parkway, Plano, TX 75024. Phone: +14695730077. Website: https://www.challengerschool.com/campus/texas/plano/legacy. | https://dingalinged-cpu.github.io/registry/c/challenger-school-legacy-plano/
+5. Discovery Montessori Academy | trust 16.0 | Discovery Montessori Academy is a preschool in Plano, TX at 9105 Custer Road, Plano, TX 75025. Phone: +12145504910. Website: https://tydiscoverymontessori.com/. | https://dingalinged-cpu.github.io/registry/c/discovery-montessori-academy-plano/
+6. Legacy Learning Center | trust 0.0 | Legacy Learning Center is a preschool in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-learning-center-plano/
+7. Primrose School of Plano at Headquarters | trust 0.0 | Primrose School of Plano at Headquarters is a preschool in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/primrose-school-of-plano-at-headquarters-plano/
+8. The Children's Courtyard of Plano Legacy | trust 0.0 | The Children's Courtyard of Plano Legacy is a preschool in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-childrens-courtyard-of-plano-legacy-plano/
+
+## Market data (for advertisers and agents)
+- Keyword: preschool plano tx | category: Education & childcare | industry benchmark: Education & Instruction
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~5,500 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.81, median $4.81, high $6.23 (Education & Instruction median CPC 2026 $4.81 [https://www.localiq.com/blog/search-advertising-benchmarks]; Education & Instruction median CPC 2025 $6.23 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 8
+- Equivalent Google Ads cost per month: ~$1,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/preschool.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#preschool-plano-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

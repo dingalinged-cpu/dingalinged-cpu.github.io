@@ -15,7 +15,7 @@ Kenny the Kleener is a dry cleaner in Evanston, IL at 3330 Central Street #2, Ev
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kenny-the-kleener-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kenny-the-kleener-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2282191031 (license ODbL-1.0); source data as of 2026-06-01

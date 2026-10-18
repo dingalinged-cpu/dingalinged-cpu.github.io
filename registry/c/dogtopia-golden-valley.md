@@ -15,7 +15,7 @@ Dogtopia is a dog boarding facility in Golden Valley, MN at 9010 Olson Memorial 
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa-Su 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dogtopia-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dogtopia-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13205506610 (license ODbL-1.0); source data as of 2026-07-24

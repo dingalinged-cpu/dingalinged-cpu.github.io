@@ -15,7 +15,7 @@ Definite Dental Solutions is a dentist in Arlington Heights, IL at 806 E Kensing
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/definite-dental-solutions-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/definite-dental-solutions-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12870196489 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Sarah Jane's Bakery is a bakery in Minneapolis, MN at 2853 Northeast Johnson Str
 - Opening hours (OSM syntax): Tu-Fr 05:00-15:00; Sa 05:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sarah-janes-bakery-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sarah-janes-bakery-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6327759640 (license ODbL-1.0); source data as of 2026-06-01

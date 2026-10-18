@@ -15,7 +15,7 @@ Golly Gear is a pet store in Skokie, IL at 7951 Babb Avenue, Skokie, IL 60077.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/golly-gear-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/golly-gear-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6536443044 (license ODbL-1.0); source data as of 2026-06-01

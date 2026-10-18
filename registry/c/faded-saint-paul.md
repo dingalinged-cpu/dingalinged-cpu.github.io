@@ -15,7 +15,7 @@ Faded is a barber shop in Saint Paul, MN at 2227 University Avenue West #106, Sa
 - Opening hours (OSM syntax): Mo,Su off; Tu-Fr 10:00-18:00; Sa 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/faded-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/faded-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12813038123 (license ODbL-1.0); source data as of 2026-06-01

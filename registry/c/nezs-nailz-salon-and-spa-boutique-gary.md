@@ -15,7 +15,7 @@ Nez's Nailz Salon & Spa Boutique is a nail salon in Gary, IN at 1015 Broadway, G
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nezs-nailz-salon-and-spa-boutique-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nezs-nailz-salon-and-spa-boutique-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10684692891 (license ODbL-1.0); source data as of 2026-06-01

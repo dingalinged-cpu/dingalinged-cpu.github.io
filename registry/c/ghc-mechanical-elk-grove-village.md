@@ -15,7 +15,7 @@ GHC Mechanical is a HVAC contractor in Elk Grove Village, IL at 990 Pauly Drive,
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ghc-mechanical-elk-grove-village/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ghc-mechanical-elk-grove-village.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12992777074 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Baird & Warner is a real estate agency in Chicago, IL at 5430 West Devon Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/baird-and-warner-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/baird-and-warner-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/667799834 (license ODbL-1.0); source data as of 2026-07-28

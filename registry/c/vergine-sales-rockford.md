@@ -15,7 +15,7 @@ Vergine Sales is a furniture store in Rockford, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vergine-sales-rockford/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vergine-sales-rockford.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1234677074 (license ODbL-1.0); source data as of 2026-06-01

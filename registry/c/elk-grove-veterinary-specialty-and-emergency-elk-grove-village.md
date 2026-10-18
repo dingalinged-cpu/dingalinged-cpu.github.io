@@ -15,7 +15,7 @@ Elk Grove Veterinary Specialty & Emergency is a veterinarian in Elk Grove Villag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elk-grove-veterinary-specialty-and-emergency-elk-grove-village/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elk-grove-veterinary-specialty-and-emergency-elk-grove-village.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1241748813 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+Extra Space Storage is a self-storage facility in Houston, TX at 2412 West Holcombe Boulevard, Houston, TX.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 2412 West Holcombe Boulevard, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7066912, -95.4153041
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-houston-w384057170/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-houston-w384057170.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/384057170 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

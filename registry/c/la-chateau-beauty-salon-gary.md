@@ -15,7 +15,7 @@ La Chateau Beauty Salon is a hair salon in Gary, IN at 4981 Broadway, Gary, IN 4
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-chateau-beauty-salon-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-chateau-beauty-salon-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11274652825 (license ODbL-1.0); source data as of 2026-06-01

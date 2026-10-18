@@ -1,0 +1,23 @@
+Planned Parenthood is a therapy practice in Houston, TX.
+
+# Planned Parenthood
+
+- Category: therapist
+- Services: therapist
+- Address: Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.706514, -95.483132
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/planned-parenthood-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/planned-parenthood-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2696631229 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

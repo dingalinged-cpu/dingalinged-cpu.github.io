@@ -15,7 +15,7 @@ BluPrint Fitness is a gym in Chicago, IL at 1812 West Hubbard Street, Chicago, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bluprint-fitness-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bluprint-fitness-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2535218185 (license ODbL-1.0); source data as of 2026-06-01

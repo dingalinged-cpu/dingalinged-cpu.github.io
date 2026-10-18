@@ -15,7 +15,7 @@ Midas is an auto repair shop in Des Plaines, IL at 981 East Oakton Street, Des P
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midas-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midas-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/42293149 (license ODbL-1.0); source data as of 2026-06-01

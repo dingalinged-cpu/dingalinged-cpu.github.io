@@ -15,7 +15,7 @@ Simon Philips Men's Hair Salon is a hair salon in New Lenox, IL at 306 West Mapl
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/simon-philips-mens-hair-salon-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/simon-philips-mens-hair-salon-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1306998304 (license ODbL-1.0); source data as of 2026-06-01

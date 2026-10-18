@@ -15,7 +15,7 @@ Cardigan Ridge Senior Living is an assisted living facility in Shoreview, MN at 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cardigan-ridge-senior-living-shoreview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cardigan-ridge-senior-living-shoreview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1360570552 (license ODbL-1.0); source data as of 2026-07-24

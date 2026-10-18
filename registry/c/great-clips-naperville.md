@@ -15,7 +15,7 @@ Great Clips is a hair salon in Naperville, IL at 967 West 75th Street #107, Nape
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00, Sa 09:00-18:00, Su 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6876181025 (license ODbL-1.0); source data as of 2026-06-01

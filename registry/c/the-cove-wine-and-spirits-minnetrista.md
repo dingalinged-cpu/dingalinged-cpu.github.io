@@ -15,7 +15,7 @@ The Cove Wine & Spirits is a liquor store in Minnetrista, MN at 4751 Kings Point
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-cove-wine-and-spirits-minnetrista/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-cove-wine-and-spirits-minnetrista.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12123499328 (license ODbL-1.0); source data as of 2026-06-01

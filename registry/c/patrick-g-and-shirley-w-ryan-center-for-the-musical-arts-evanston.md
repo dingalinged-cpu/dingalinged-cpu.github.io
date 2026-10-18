@@ -15,7 +15,7 @@ Patrick G. and Shirley W. Ryan Center for the Musical Arts is a music school in 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/patrick-g-and-shirley-w-ryan-center-for-the-musical-arts-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/patrick-g-and-shirley-w-ryan-center-for-the-musical-arts-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/275849772 (license ODbL-1.0); source data as of 2026-07-28

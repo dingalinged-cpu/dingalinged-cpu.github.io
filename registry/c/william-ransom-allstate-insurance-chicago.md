@@ -15,7 +15,7 @@ William Ransom: Allstate Insurance is an insurance agent in Chicago, IL at 8452 
 - Opening hours (OSM syntax): Mon - Fri: 9:00am - 6:00 pm; Sat-Sun: Closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/william-ransom-allstate-insurance-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/william-ransom-allstate-insurance-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12483477398 (license ODbL-1.0); source data as of 2026-07-28

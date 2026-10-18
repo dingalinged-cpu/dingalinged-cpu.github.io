@@ -15,7 +15,7 @@ Hair 4 U Salon is a hair salon in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hair-4-u-salon-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hair-4-u-salon-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3283305692 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Sportsplex is a gym in Orland Park, IL at 11351 West 159th Street, Orland Park, 
 - Opening hours (OSM syntax): Mo-Fr 05:30-22:00, Sa 07:00-19:00, Su 08:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sportsplex-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sportsplex-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/957988055 (license ODbL-1.0); source data as of 2026-06-01

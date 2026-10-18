@@ -1,0 +1,23 @@
+Woodhouse Spa is a spa in Dallas, TX at 5331 East Mockingbird Lane #172, Dallas, TX 75206. Website: https://locations.woodhousespas.com/dir/tx/dallas/5331-e-mockingbird-ln-ste.-172.
+
+# Woodhouse Spa
+
+- Category: spa
+- Services: spa
+- Address: 5331 East Mockingbird Lane #172, Dallas, TX 75206
+- City: Dallas
+- State: TX
+- ZIP: 75206
+- Coordinates: 32.8376734, -96.776478
+- Phone: n/a
+- Website: https://locations.woodhousespas.com/dir/tx/dallas/5331-e-mockingbird-ln-ste.-172
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/woodhouse-spa-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/woodhouse-spa-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10653390102 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

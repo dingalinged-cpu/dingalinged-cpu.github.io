@@ -15,7 +15,7 @@ Seams is a tailor in Chicago, IL at 505 West Belden Avenue, Chicago, IL 60614. P
 - Opening hours (OSM syntax): Tu-Sa 12:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/seams-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/seams-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11529862625 (license ODbL-1.0); source data as of 2026-06-01

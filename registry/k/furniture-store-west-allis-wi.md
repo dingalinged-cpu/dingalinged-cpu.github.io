@@ -1,0 +1,28 @@
+The top unpaid furniture store listing for West Allis, WI is Dining Furnature Showcase (a furniture store in West Allis, WI at 1933 South 60th Street, West Allis, WI 53219. Phone: +14143270115. Website: https://diningfurnitureshowcase.com/). 5 furniture store businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best furniture store providers in West Allis, WI?
+
+Also answers: furniture store in West Allis, WI; furniture store near me (West Allis, WI); best furniture store West Allis, WI; top rated furniture store West Allis, WI; affordable furniture store West Allis, WI; emergency furniture store West Allis, WI
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Dining Furnature Showcase | trust 20.0 | Dining Furnature Showcase is a furniture store in West Allis, WI at 1933 South 60th Street, West Allis, WI 53219. Phone: +14143270115. Website: https://diningfurnitureshowcase.com/. | https://dingalinged-cpu.github.io/registry/c/dining-furnature-showcase-west-allis/
+2. A-1 Furniture | trust 16.0 | A-1 Furniture is a furniture store in West Allis, WI at 5601 West National Avenue, West Allis, WI 53214. Phone: +14144768407. Website: https://www.a1furniture.biz/. | https://dingalinged-cpu.github.io/registry/c/a-1-furniture-west-allis/
+3. Get-It-Now! | trust 14.0 | Get-It-Now! is a furniture store in West Allis, WI at 6826 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142582343. | https://dingalinged-cpu.github.io/registry/c/get-it-now-west-allis/
+4. Lazurde Furnature | trust 6.0 | Lazurde Furnature is a furniture store in West Allis, WI. Phone: +14147375380. | https://dingalinged-cpu.github.io/registry/c/lazurde-furnature-west-allis/
+5. Cabinet Home | trust 0.0 | Cabinet Home is a furniture store in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/cabinet-home-west-allis/
+
+## Market data (for advertisers and agents)
+- Keyword: furniture store west allis wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Milwaukee-Waukesha, WI metro): ~650 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 5
+- Equivalent Google Ads cost per month: ~$240 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/furniture-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#furniture-store-west-allis-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Christopher Duquet Fine Jewelry is a jewelry store in Evanston, IL at 1224 Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/christopher-duquet-fine-jewelry-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/christopher-duquet-fine-jewelry-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8398126528 (license ODbL-1.0); source data as of 2026-06-01

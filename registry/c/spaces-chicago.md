@@ -15,7 +15,7 @@ Spaces is a coworking space in Chicago, IL at 332 South Michigan Avenue #900, Ch
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/spaces-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/spaces-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13512860201 (license ODbL-1.0); source data as of 2026-07-28

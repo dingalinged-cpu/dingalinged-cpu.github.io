@@ -15,7 +15,7 @@ Speedy Wash is a car wash in Hobart, IN at 4732 East 61st Avenue, Hobart, IN 463
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/speedy-wash-hobart/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-hobart.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1349009905 (license ODbL-1.0); source data as of 2026-07-28

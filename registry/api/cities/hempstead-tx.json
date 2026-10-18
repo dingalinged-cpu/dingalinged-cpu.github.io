@@ -1,0 +1,262 @@
+{
+ "place": "Hempstead, TX",
+ "slug": "hempstead-tx",
+ "count": 8,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair hempstead tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-hempstead-tx.json"
+  },
+  {
+   "keyword": "chiropractor hempstead tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-hempstead-tx.json"
+  },
+  {
+   "keyword": "dentist hempstead tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-hempstead-tx.json"
+  },
+  {
+   "keyword": "furniture store hempstead tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-hempstead-tx.json"
+  },
+  {
+   "keyword": "liquor store hempstead tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-hempstead-tx.json"
+  },
+  {
+   "keyword": "mechanic hempstead tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-hempstead-tx.json"
+  },
+  {
+   "keyword": "storage units hempstead tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-hempstead-tx.json"
+  },
+  {
+   "keyword": "tire shop hempstead tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-hempstead-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "amigos-tire-hempstead",
+   "name": "Amigos Tire",
+   "summary": "Amigos Tire is a tire shop in Hempstead, TX.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/amigos-tire-hempstead/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/amigos-tire-hempstead.json",
+   "address": {
+    "addressLocality": "Hempstead",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Hempstead",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0975068,
+    "lon": -96.072327
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12762590458",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gomez-tire-shop-hempstead",
+   "name": "Gomez Tire Shop",
+   "summary": "Gomez Tire Shop is a tire shop in Hempstead, TX.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gomez-tire-shop-hempstead/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gomez-tire-shop-hempstead.json",
+   "address": {
+    "addressLocality": "Hempstead",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Hempstead",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0970067,
+    "lon": -96.0660113
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12762542385",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hempstead-dental-hempstead",
+   "name": "Hempstead Dental",
+   "summary": "Hempstead Dental is a dentist in Hempstead, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hempstead-dental-hempstead/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hempstead-dental-hempstead.json",
+   "address": {
+    "addressLocality": "Hempstead",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Hempstead",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0988645,
+    "lon": -96.0790622
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12381106960",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hempstead-mini-warehouses-hempstead",
+   "name": "Hempstead Mini Warehouses",
+   "summary": "Hempstead Mini Warehouses is a self-storage facility in Hempstead, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hempstead-mini-warehouses-hempstead/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hempstead-mini-warehouses-hempstead.json",
+   "address": {
+    "addressLocality": "Hempstead",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Hempstead",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0997321,
+    "lon": -96.0791663
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1354604715",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "james-newcomb-furniture-store-hempstead",
+   "name": "James Newcomb Furniture Store",
+   "summary": "James Newcomb Furniture Store is a furniture store in Hempstead, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-newcomb-furniture-store-hempstead/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-newcomb-furniture-store-hempstead.json",
+   "address": {
+    "addressLocality": "Hempstead",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Hempstead",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0976859,
+    "lon": -96.0806681
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12763184634",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valvoline-express-care-hempstead",
+   "name": "Valvoline Express Care",
+   "summary": "Valvoline Express Care is an auto repair shop in Hempstead, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-express-care-hempstead/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-express-care-hempstead.json",
+   "address": {
+    "addressLocality": "Hempstead",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Hempstead",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0931185,
+    "lon": -96.0595401
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12762506977",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waller-county-chiropractic-hempstead",
+   "name": "Waller County Chiropractic",
+   "summary": "Waller County Chiropractic is a chiropractor in Hempstead, TX.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waller-county-chiropractic-hempstead/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waller-county-chiropractic-hempstead.json",
+   "address": {
+    "addressLocality": "Hempstead",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Hempstead",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0935095,
+    "lon": -96.0795235
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12381110670",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zipps-liquor-hempstead",
+   "name": "Zipp's Liquor",
+   "summary": "Zipp's Liquor is a liquor store in Hempstead, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zipps-liquor-hempstead/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zipps-liquor-hempstead.json",
+   "address": {
+    "addressLocality": "Hempstead",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Hempstead",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1051166,
+    "lon": -96.0784061
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12328835049",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

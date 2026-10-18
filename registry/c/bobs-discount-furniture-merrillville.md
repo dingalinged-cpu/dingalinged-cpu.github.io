@@ -15,7 +15,7 @@ Bob's Discount Furniture is a furniture store in Merrillville, IN at 1488 East 7
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-merrillville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bobs-discount-furniture-merrillville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/821965912 (license ODbL-1.0); source data as of 2026-06-01

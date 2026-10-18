@@ -15,7 +15,7 @@ Apple Chevrolet Parts is an auto repair shop in Tinley Park, IL at 8585 West 159
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/apple-chevrolet-parts-tinley-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/apple-chevrolet-parts-tinley-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6894923515 (license ODbL-1.0); source data as of 2026-06-01

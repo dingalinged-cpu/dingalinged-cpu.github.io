@@ -15,7 +15,7 @@ Color's Flowers and Gifts is a gift shop in Chicago, IL at 2418 South Wentworth 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/colors-flowers-and-gifts-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/colors-flowers-and-gifts-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6726359273 (license ODbL-1.0); source data as of 2026-06-01

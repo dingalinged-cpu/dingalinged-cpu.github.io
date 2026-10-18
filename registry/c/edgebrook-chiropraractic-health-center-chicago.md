@@ -15,7 +15,7 @@ Edgebrook Chiropraractic Health Center is a chiropractor in Chicago, IL at 6139 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edgebrook-chiropraractic-health-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edgebrook-chiropraractic-health-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163246022 (license ODbL-1.0); source data as of 2026-07-28

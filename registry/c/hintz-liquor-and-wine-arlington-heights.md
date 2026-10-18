@@ -15,7 +15,7 @@ Hintz Liquor & Wine is a liquor store in Arlington Heights, IL at 1406 East Hint
 - Opening hours (OSM syntax): Su-Th 09:00-23:00; Fr-Sa 09:00-00:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hintz-liquor-and-wine-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hintz-liquor-and-wine-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13145533415 (license ODbL-1.0); source data as of 2026-06-01

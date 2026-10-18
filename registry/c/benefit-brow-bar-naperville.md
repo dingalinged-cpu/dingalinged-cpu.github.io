@@ -15,7 +15,7 @@ Benefit Brow Bar is a waxing salon in Naperville, IL at 214 South Main Street, N
 - Opening hours (OSM syntax): Mo-We 09:30-19:00; Th-Fr 10:00-19:00; Sa 09:00-19:00; Su 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/benefit-brow-bar-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/benefit-brow-bar-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1040101906 (license ODbL-1.0); source data as of 2026-06-01

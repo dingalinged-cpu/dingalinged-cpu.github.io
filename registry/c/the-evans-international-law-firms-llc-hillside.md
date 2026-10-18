@@ -15,7 +15,7 @@ The Evans International Law Firms, LLC is a lawyer in Hillside, IL at 4415 Harri
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-evans-international-law-firms-llc-hillside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-evans-international-law-firms-llc-hillside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4647424028 (license ODbL-1.0); source data as of 2026-07-28

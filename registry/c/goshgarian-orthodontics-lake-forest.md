@@ -15,7 +15,7 @@ Goshgarian Orthodontics is a dentist in Lake Forest, IL at 1400 North Western Av
 - Opening hours (OSM syntax): Mo-Th 08:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goshgarian-orthodontics-lake-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goshgarian-orthodontics-lake-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7687945042 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ YMCA is a yoga studio in Minneapolis, MN at 651 Nicollet Mall #300, Minneapolis,
 - Opening hours (OSM syntax): Mo-Th 05:30-20:00; Fr 05:30-19:00; Sa 07:00-15:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ymca-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ymca-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5646457667 (license ODbL-1.0); source data as of 2026-07-15

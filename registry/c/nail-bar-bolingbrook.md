@@ -15,7 +15,7 @@ Nail Bar is a nail salon in Bolingbrook, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nail-bar-bolingbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nail-bar-bolingbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8203576118 (license ODbL-1.0); source data as of 2026-06-01

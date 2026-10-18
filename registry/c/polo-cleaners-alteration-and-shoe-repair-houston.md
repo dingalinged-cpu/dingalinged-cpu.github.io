@@ -1,0 +1,23 @@
+Polo Cleaners Alteration & Shoe Repair is a tailor in Houston, TX.
+
+# Polo Cleaners Alteration & Shoe Repair
+
+- Category: tailor
+- Services: tailor
+- Address: Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.738057, -95.49338
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/polo-cleaners-alteration-and-shoe-repair-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/polo-cleaners-alteration-and-shoe-repair-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9383071430 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

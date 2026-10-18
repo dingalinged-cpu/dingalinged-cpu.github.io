@@ -15,7 +15,7 @@ McQuillan Home Services LLC. is a HVAC contractor in Saint Paul, MN at 1727 Minn
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mcquillan-home-services-llc-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mcquillan-home-services-llc-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13363443895 (license ODbL-1.0); source data as of 2026-07-24

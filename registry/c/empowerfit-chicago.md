@@ -15,7 +15,7 @@ EmpowerFit is a gym in Chicago, IL at 1824 West Wilson Avenue, Chicago, IL 60640
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/empowerfit-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/empowerfit-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12244765484 (license ODbL-1.0); source data as of 2026-06-01

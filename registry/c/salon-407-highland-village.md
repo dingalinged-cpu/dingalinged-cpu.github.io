@@ -1,0 +1,23 @@
+Salon 407 is a hair salon in Highland Village, TX at 1920 Sellmeyer Lane, Highland Village, TX.
+
+# Salon 407
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1920 Sellmeyer Lane, Highland Village, TX
+- City: Highland Village
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0725065, -97.0463881
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/salon-407-highland-village/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/salon-407-highland-village.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/481304545 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Beacon Hill Dental is a dentist in Crown Point, IN at 102 E 107th Ave, Crown Poi
 - Opening hours (OSM syntax): Mo,We,Th 09:00-17:00; Tu 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/beacon-hill-dental-crown-point/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/beacon-hill-dental-crown-point.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13457686814 (license ODbL-1.0); source data as of 2026-07-28

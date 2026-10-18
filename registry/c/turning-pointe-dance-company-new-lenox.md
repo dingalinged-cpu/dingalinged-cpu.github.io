@@ -15,7 +15,7 @@ Turning Pointe Dance Company is a dance studio in New Lenox, IL at 2351 Joliet H
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/turning-pointe-dance-company-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/turning-pointe-dance-company-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9195135862 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Ann Reid Early Childhood Center is a preschool in Naperville, IL. Phone: +163042
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ann-reid-early-childhood-center-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ann-reid-early-childhood-center-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/995767526 (license ODbL-1.0); source data as of 2026-07-28

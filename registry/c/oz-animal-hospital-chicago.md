@@ -15,7 +15,7 @@ Oz Animal Hospital is a veterinarian in Chicago, IL at 620 West Webster Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oz-animal-hospital-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oz-animal-hospital-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9929776582 (license ODbL-1.0); source data as of 2026-07-28

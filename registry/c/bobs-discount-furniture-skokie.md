@@ -15,7 +15,7 @@ Bob's Discount Furniture is a furniture store in Skokie, IL at 4825 Golf Road, S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bobs-discount-furniture-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4852338945 (license ODbL-1.0); source data as of 2026-06-01

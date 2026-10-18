@@ -15,7 +15,7 @@ Edward Jones is a financial advisor in Roseville, MN at 1751 Lexington Avenue No
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-jones-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1583379445 (license ODbL-1.0); source data as of 2026-05-31

@@ -15,7 +15,7 @@ Studio Dwell Architects is an architect in Chicago, IL at 1135 North California 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/studio-dwell-architects-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/studio-dwell-architects-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209388570 (license ODbL-1.0); source data as of 2026-07-28

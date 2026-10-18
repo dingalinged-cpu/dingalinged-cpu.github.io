@@ -15,7 +15,7 @@ Fearless Tattoo Removal is a tattoo shop in Maplewood, MN at 1973 Sloan Pl Ste 7
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fearless-tattoo-removal-maplewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fearless-tattoo-removal-maplewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11906093994 (license ODbL-1.0); source data as of 2026-06-01

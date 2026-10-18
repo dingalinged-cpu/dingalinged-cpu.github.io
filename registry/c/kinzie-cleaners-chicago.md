@@ -15,7 +15,7 @@ Kinzie Cleaners is a dry cleaner in Chicago, IL at 327 North Desplaines Street, 
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 09:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kinzie-cleaners-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kinzie-cleaners-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12323800961 (license ODbL-1.0); source data as of 2026-06-01

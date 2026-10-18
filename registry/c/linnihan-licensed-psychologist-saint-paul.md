@@ -15,7 +15,7 @@ Linnihan Licensed Psychologist is a therapy practice in Saint Paul, MN at 540 Fa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/linnihan-licensed-psychologist-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/linnihan-licensed-psychologist-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7202339973 (license ODbL-1.0); source data as of 2026-06-01

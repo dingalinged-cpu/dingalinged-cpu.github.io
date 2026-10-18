@@ -1,0 +1,23 @@
+LA Fitness is a gym in Lewisville, TX at 798 East Vista Ridge Mall Drive, Lewisville, TX 75067.
+
+# LA Fitness
+
+- Category: gym
+- Services: gym
+- Address: 798 East Vista Ridge Mall Drive, Lewisville, TX 75067
+- City: Lewisville
+- State: TX
+- ZIP: 75067
+- Coordinates: 33.0005676, -96.9651114
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 05:00-23:00; Fr 05:00-22:00; Sa-Su 08:00-20:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-lewisville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-lewisville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/555345424 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

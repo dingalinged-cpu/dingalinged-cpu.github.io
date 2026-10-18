@@ -15,7 +15,7 @@ Elegance Salon & Barbershop is a hair salon in Evanston, IL at 1704 Sherman Aven
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 08:00-20:00; Su 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elegance-salon-and-barbershop-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elegance-salon-and-barbershop-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2295226436 (license ODbL-1.0); source data as of 2026-06-01

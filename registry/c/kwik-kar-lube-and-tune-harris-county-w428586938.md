@@ -1,0 +1,23 @@
+Kwik Kar Lube & Tune is an auto repair shop in Harris County, TX.
+
+# Kwik Kar Lube & Tune
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Harris County, TX
+- City: Harris County
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.8303636, -95.6847791
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/kwik-kar-lube-and-tune-harris-county-w428586938/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kwik-kar-lube-and-tune-harris-county-w428586938.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/428586938 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

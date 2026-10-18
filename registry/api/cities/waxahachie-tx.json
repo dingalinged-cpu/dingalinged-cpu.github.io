@@ -1,0 +1,2706 @@
+{
+ "place": "Waxahachie, TX",
+ "slug": "waxahachie-tx",
+ "count": 84,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "architect waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/architect-waxahachie-tx.json"
+  },
+  {
+   "keyword": "attorney waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-waxahachie-tx.json"
+  },
+  {
+   "keyword": "auto repair waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-waxahachie-tx.json"
+  },
+  {
+   "keyword": "boutique waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/boutique-waxahachie-tx.json"
+  },
+  {
+   "keyword": "brake repair waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/brake-repair-waxahachie-tx.json"
+  },
+  {
+   "keyword": "car wash waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-waxahachie-tx.json"
+  },
+  {
+   "keyword": "daycare waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-waxahachie-tx.json"
+  },
+  {
+   "keyword": "dentist waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-waxahachie-tx.json"
+  },
+  {
+   "keyword": "driving school waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/driving-school-waxahachie-tx.json"
+  },
+  {
+   "keyword": "event venues waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-waxahachie-tx.json"
+  },
+  {
+   "keyword": "financial advisor waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-waxahachie-tx.json"
+  },
+  {
+   "keyword": "funeral home waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-waxahachie-tx.json"
+  },
+  {
+   "keyword": "furniture store waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-waxahachie-tx.json"
+  },
+  {
+   "keyword": "gym waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-waxahachie-tx.json"
+  },
+  {
+   "keyword": "hair salon waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-waxahachie-tx.json"
+  },
+  {
+   "keyword": "haircut waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-waxahachie-tx.json"
+  },
+  {
+   "keyword": "insurance agency waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-waxahachie-tx.json"
+  },
+  {
+   "keyword": "insurance agent waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-waxahachie-tx.json"
+  },
+  {
+   "keyword": "insurance agents waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-waxahachie-tx.json"
+  },
+  {
+   "keyword": "it support waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/it-support-waxahachie-tx.json"
+  },
+  {
+   "keyword": "lawyer waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-waxahachie-tx.json"
+  },
+  {
+   "keyword": "mattress store waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-waxahachie-tx.json"
+  },
+  {
+   "keyword": "mechanic waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-waxahachie-tx.json"
+  },
+  {
+   "keyword": "nail salon waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-waxahachie-tx.json"
+  },
+  {
+   "keyword": "oil change waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-waxahachie-tx.json"
+  },
+  {
+   "keyword": "plumber waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumber-waxahachie-tx.json"
+  },
+  {
+   "keyword": "plumbers waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbers-waxahachie-tx.json"
+  },
+  {
+   "keyword": "plumbing services waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbing-services-waxahachie-tx.json"
+  },
+  {
+   "keyword": "real estate agent waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-waxahachie-tx.json"
+  },
+  {
+   "keyword": "realtor waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-waxahachie-tx.json"
+  },
+  {
+   "keyword": "roofer waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-waxahachie-tx.json"
+  },
+  {
+   "keyword": "roofing contractor waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-waxahachie-tx.json"
+  },
+  {
+   "keyword": "staffing agency waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-waxahachie-tx.json"
+  },
+  {
+   "keyword": "storage units waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-waxahachie-tx.json"
+  },
+  {
+   "keyword": "tanning salon waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-waxahachie-tx.json"
+  },
+  {
+   "keyword": "tattoo shop waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-waxahachie-tx.json"
+  },
+  {
+   "keyword": "thrift store waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-waxahachie-tx.json"
+  },
+  {
+   "keyword": "tire shop waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-waxahachie-tx.json"
+  },
+  {
+   "keyword": "used cars for sale waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-waxahachie-tx.json"
+  },
+  {
+   "keyword": "vet waxahachie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-waxahachie-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "clay-jenkins-and-associates-car-and-truck-accident-attorneys-waxahachie",
+   "name": "Clay Jenkins & Associates, Car & Truck Accident Attorneys",
+   "summary": "Clay Jenkins & Associates, Car & Truck Accident Attorneys is a lawyer in Waxahachie, TX at 516 West Main Street, Waxahachie, TX 75165. Phone: +19729381234. Website: https://www.clayjenkins.com/personal-injury-lawyer/waxahachie-tx/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clay-jenkins-and-associates-car-and-truck-accident-attorneys-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clay-jenkins-and-associates-car-and-truck-accident-attorneys-waxahachie.json",
+   "address": {
+    "streetAddress": "516 West Main Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3884097,
+    "lon": -96.8519611
+   },
+   "phone": "+19729381234",
+   "website": "https://www.clayjenkins.com/personal-injury-lawyer/waxahachie-tx/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12966506055",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "golds-gym-waxahachie",
+   "name": "Gold's Gym",
+   "summary": "Gold's Gym is a gym in Waxahachie, TX at 507 North US Highway 77 #700, Waxahachie, TX 75165. Phone: +14692994846. Website: https://www.goldsgym.com/waxahachie/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golds-gym-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golds-gym-waxahachie.json",
+   "address": {
+    "streetAddress": "507 North US Highway 77 #700",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4078906,
+    "lon": -96.8437233
+   },
+   "phone": "+14692994846",
+   "website": "https://www.goldsgym.com/waxahachie/",
+   "opening_hours": "Mo-Th 16:00-20:00, Sa 10:00-22:00, Su 13:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6711637381",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-law-office-of-michael-j-crawford-criminal-defense-attorneys-waxahachie",
+   "name": "The Law Office of Michael J Crawford - Criminal Defense Attorneys",
+   "summary": "The Law Office of Michael J Crawford - Criminal Defense Attorneys is a lawyer in Waxahachie, TX at 1905 North US Highway 77 #110, Waxahachie, TX 75165. Phone: +12149037722. Website: https://www.michaeljcrawfordlaw.com/waxahachie-criminal-defense/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-law-office-of-michael-j-crawford-criminal-defense-attorneys-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-law-office-of-michael-j-crawford-criminal-defense-attorneys-waxahachie.json",
+   "address": {
+    "streetAddress": "1905 North US Highway 77 #110",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.43482,
+    "lon": -96.8384477
+   },
+   "phone": "+12149037722",
+   "website": "https://www.michaeljcrawfordlaw.com/waxahachie-criminal-defense/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13510279776",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "uptown-glow-airbrush-tanning-waxahachie",
+   "name": "Uptown Glow Airbrush Tanning",
+   "summary": "Uptown Glow Airbrush Tanning is a tanning salon in Waxahachie, TX at 110 Panorama Loop, Waxahachie, TX 75165. Phone: +19727520284. Website: https://uptown-glow.com/.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uptown-glow-airbrush-tanning-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uptown-glow-airbrush-tanning-waxahachie.json",
+   "address": {
+    "streetAddress": "110 Panorama Loop",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4651585,
+    "lon": -96.831735
+   },
+   "phone": "+19727520284",
+   "website": "https://uptown-glow.com/",
+   "opening_hours": "Tu-Th 09:00-20:00; Fr 07:00-20:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11291030870",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vera-roofing-and-construction-waxahachie",
+   "name": "Vera Roofing And Construction",
+   "summary": "Vera Roofing And Construction is a roofer in Waxahachie, TX at 1408 West Jefferson Street #5, Waxahachie, TX 75165. Phone: +19724600210. Website: https://veraroofingandconstruction.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vera-roofing-and-construction-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vera-roofing-and-construction-waxahachie.json",
+   "address": {
+    "streetAddress": "1408 West Jefferson Street #5",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3967749,
+    "lon": -96.8642132
+   },
+   "phone": "+19724600210",
+   "website": "https://veraroofingandconstruction.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12819979736",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-friends-waxahachie",
+   "name": "Salon Friends",
+   "summary": "Salon Friends is a hair salon in Waxahachie, TX at 106 West Main Street, Waxahachie, TX 75165. Phone: +19729374247. Website: https://salonfriends.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-friends-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-friends-waxahachie.json",
+   "address": {
+    "streetAddress": "106 West Main Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3859588,
+    "lon": -96.8475158
+   },
+   "phone": "+19729374247",
+   "website": "https://salonfriends.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4592167617",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wayne-boze-funeral-home-waxahachie",
+   "name": "Wayne Boze Funeral Home",
+   "summary": "Wayne Boze Funeral Home is a funeral home in Waxahachie, TX at 1826 West US 287 Business, Waxahachie, TX 75165. Phone: +19729232700. Website: https://www.waynebozefuneralhome.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wayne-boze-funeral-home-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wayne-boze-funeral-home-waxahachie.json",
+   "address": {
+    "streetAddress": "1826 West US 287 Business",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4040798,
+    "lon": -96.8671973
+   },
+   "phone": "+19729232700",
+   "website": "https://www.waynebozefuneralhome.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/579730562",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-waxahachie",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Waxahachie, TX at 1230 West US Highway 287 Bypass, Waxahachie, TX 75165. Phone: +19729371857.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-waxahachie.json",
+   "address": {
+    "streetAddress": "1230 West US Highway 287 Bypass",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.422048,
+    "lon": -96.8453099
+   },
+   "phone": "+19729371857",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/515732321",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hidden-waters-wedding-and-events-venue-waxahachie",
+   "name": "Hidden Waters Wedding and Events Venue",
+   "summary": "Hidden Waters Wedding and Events Venue is an event venue in Waxahachie, TX at 2220 Bells Chapel Road, Waxahachie, TX 75165. Website: https://hiddenwatersevents.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hidden-waters-wedding-and-events-venue-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hidden-waters-wedding-and-events-venue-waxahachie.json",
+   "address": {
+    "streetAddress": "2220 Bells Chapel Road",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4753516,
+    "lon": -96.7781775
+   },
+   "website": "https://hiddenwatersevents.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1079154794",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "national-tire-and-battery-waxahachie",
+   "name": "National Tire and Battery",
+   "summary": "National Tire and Battery is an auto repair shop in Waxahachie, TX at 1303 North US Highway 77, Waxahachie, TX 75165. Website: https://www.ntb.com/store/tx/waxahachie/1303-n-highway-77-75165/4520.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/national-tire-and-battery-waxahachie.json",
+   "address": {
+    "streetAddress": "1303 North US Highway 77",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4216,
+    "lon": -96.8408702
+   },
+   "website": "https://www.ntb.com/store/tx/waxahachie/1303-n-highway-77-75165/4520",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/515732315",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "southwest-data-solutions-waxahachie",
+   "name": "Southwest Data Solutions",
+   "summary": "Southwest Data Solutions is an IT support company in Waxahachie, TX at 217 South Rogers Street, Waxahachie, TX 75165. Website: https://iswdatacorp.azurewebsites.net/index.aspx.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southwest-data-solutions-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southwest-data-solutions-waxahachie.json",
+   "address": {
+    "streetAddress": "217 South Rogers Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3847029,
+    "lon": -96.8485481
+   },
+   "website": "https://iswdatacorp.azurewebsites.net/index.aspx",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/505973157",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valvoline-waxahachie",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Waxahachie, TX at 1740 North US Highway 77, Waxahachie, TX 75165. Website: https://store.vioc.com/tx/waxahachie/oil-change-070102.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-waxahachie.json",
+   "address": {
+    "streetAddress": "1740 North US Highway 77",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4308189,
+    "lon": -96.8378074
+   },
+   "website": "https://store.vioc.com/tx/waxahachie/oil-change-070102.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1129405320",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valvoline-express-care-waxahachie",
+   "name": "Valvoline Express Care",
+   "summary": "Valvoline Express Care is an auto repair shop in Waxahachie, TX at 411 Ferris Avenue, Waxahachie, TX 75165. Website: https://locations.expresscare.com/tx/waxahachie/0000655830/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-express-care-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-express-care-waxahachie.json",
+   "address": {
+    "streetAddress": "411 Ferris Avenue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3904668,
+    "lon": -96.8488359
+   },
+   "website": "https://locations.expresscare.com/tx/waxahachie/0000655830/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/509140822",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "a-and-e-automatic-transmissions-waxahachie",
+   "name": "A&E Automatic Transmissions",
+   "summary": "A&E Automatic Transmissions is an auto repair shop in Waxahachie, TX at 401 Farm-to-Market 1446, Cantrell Street, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-and-e-automatic-transmissions-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-and-e-automatic-transmissions-waxahachie.json",
+   "address": {
+    "streetAddress": "401 Farm-to-Market 1446, Cantrell Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.381057,
+    "lon": -96.8516342
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/513486785",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "all-about-tires-waxahachie",
+   "name": "All About Tires",
+   "summary": "All About Tires is a tire shop in Waxahachie, TX at 302 Howard Road, Waxahachie, TX 75165.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-about-tires-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-about-tires-waxahachie.json",
+   "address": {
+    "streetAddress": "302 Howard Road",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3793171,
+    "lon": -96.8500079
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/513491250",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "amanda-and-ashleys-resale-waxahachie",
+   "name": "Amanda & Ashley's Resale",
+   "summary": "Amanda & Ashley's Resale is a furniture store in Waxahachie, TX at 3280 Dallas Highway, Waxahachie, TX 75165.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/amanda-and-ashleys-resale-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/amanda-and-ashleys-resale-waxahachie.json",
+   "address": {
+    "streetAddress": "3280 Dallas Highway",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4651417,
+    "lon": -96.8323627
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/618996680",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "auto-tint-design-waxahachie",
+   "name": "Auto Tint Design",
+   "summary": "Auto Tint Design is an auto repair shop in Waxahachie, TX at 1111 Ferris Avenue, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/auto-tint-design-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/auto-tint-design-waxahachie.json",
+   "address": {
+    "streetAddress": "1111 Ferris Avenue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3990046,
+    "lon": -96.844095
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/540269021",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "baylor-auxiliary-thrift-store-waxahachie",
+   "name": "Baylor Auxiliary Thrift Store",
+   "summary": "Baylor Auxiliary Thrift Store is a thrift store in Waxahachie, TX at 431 North College Street, Waxahachie, TX 75165.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baylor-auxiliary-thrift-store-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baylor-auxiliary-thrift-store-waxahachie.json",
+   "address": {
+    "streetAddress": "431 North College Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.390544,
+    "lon": -96.8447957
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/512629092",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bell-scott-insurance-group-waxahachie",
+   "name": "Bell-Scott Insurance Group",
+   "summary": "Bell-Scott Insurance Group is an insurance agent in Waxahachie, TX at 138 Dallas Highway, Waxahachie, TX 75165.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bell-scott-insurance-group-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bell-scott-insurance-group-waxahachie.json",
+   "address": {
+    "streetAddress": "138 Dallas Highway",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4037497,
+    "lon": -96.8427531
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/533675947",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "big-thrift-waxahachie",
+   "name": "Big Thrift",
+   "summary": "Big Thrift is a thrift store in Waxahachie, TX at 109 North Elm Street, Waxahachie, TX 75165.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-thrift-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-thrift-waxahachie.json",
+   "address": {
+    "streetAddress": "109 North Elm Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3867836,
+    "lon": -96.8487883
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/506579588",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "birds-radiator-services-and-hydraulics-waxahachie",
+   "name": "Bird's Radiator Services & Hydraulics",
+   "summary": "Bird's Radiator Services & Hydraulics is an auto repair shop in Waxahachie, TX at 203 Howard Road, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/birds-radiator-services-and-hydraulics-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/birds-radiator-services-and-hydraulics-waxahachie.json",
+   "address": {
+    "streetAddress": "203 Howard Road",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3802534,
+    "lon": -96.8507445
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/513486792",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "black-rose-tattoo-waxahachie",
+   "name": "Black Rose Tattoo",
+   "summary": "Black Rose Tattoo is a tattoo shop in Waxahachie, TX at 201 East Main Street #205, Waxahachie, TX 75165.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/black-rose-tattoo-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/black-rose-tattoo-waxahachie.json",
+   "address": {
+    "streetAddress": "201 East Main Street #205",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.385331,
+    "lon": -96.8462443
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/506579581",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "blue-line-design-co-waxahachie",
+   "name": "Blue Line Design Co",
+   "summary": "Blue Line Design Co is an architect in Waxahachie, TX at 130 Chieftain Drive, Waxahachie, TX 75165.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blue-line-design-co-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blue-line-design-co-waxahachie.json",
+   "address": {
+    "streetAddress": "130 Chieftain Drive",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4091721,
+    "lon": -96.8222111
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/572456426",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "boze-mitchell-mckibbin-funeral-home-waxahachie",
+   "name": "Boze Mitchell McKibbin Funeral Home",
+   "summary": "Boze Mitchell McKibbin Funeral Home is a funeral home in Waxahachie, TX at 511 West Main Street, Waxahachie, TX 75165.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boze-mitchell-mckibbin-funeral-home-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boze-mitchell-mckibbin-funeral-home-waxahachie.json",
+   "address": {
+    "streetAddress": "511 West Main Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3876092,
+    "lon": -96.8520426
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/507660421",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brown-motor-company-waxahachie",
+   "name": "Brown Motor Company",
+   "summary": "Brown Motor Company is an used car dealer in Waxahachie, TX at 304 South Elm Street, Waxahachie, TX 75165.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brown-motor-company-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brown-motor-company-waxahachie.json",
+   "address": {
+    "streetAddress": "304 South Elm Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.384888,
+    "lon": -96.8500173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/575388950",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "christian-brothers-automotive-waxahachie",
+   "name": "Christian Brothers Automotive",
+   "summary": "Christian Brothers Automotive is an auto repair shop in Waxahachie, TX at 1300 West US Highway 287 Bypass, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christian-brothers-automotive-waxahachie.json",
+   "address": {
+    "streetAddress": "1300 West US Highway 287 Bypass",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4224248,
+    "lon": -96.8461858
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/515732322",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "condor-child-care-waxahachie",
+   "name": "Condor Child Care",
+   "summary": "Condor Child Care is a daycare in Waxahachie, TX at 102 Chambers Circle, Waxahachie, TX 75165.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/condor-child-care-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/condor-child-care-waxahachie.json",
+   "address": {
+    "streetAddress": "102 Chambers Circle",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4290633,
+    "lon": -96.8421247
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/515935534",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cooper-insures-waxahachie",
+   "name": "Cooper Insures",
+   "summary": "Cooper Insures is an insurance agent in Waxahachie, TX at 311 Ferris Avenue, Waxahachie, TX 75165.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cooper-insures-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cooper-insures-waxahachie.json",
+   "address": {
+    "streetAddress": "311 Ferris Avenue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3895773,
+    "lon": -96.8492998
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/508861892",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "davis-insurance-waxahachie",
+   "name": "Davis Insurance",
+   "summary": "Davis Insurance is an insurance agent in Waxahachie, TX at 517 Ferris Avenue, Waxahachie, TX 75165.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/davis-insurance-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/davis-insurance-waxahachie.json",
+   "address": {
+    "streetAddress": "517 Ferris Avenue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3917602,
+    "lon": -96.8481747
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/511891130",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-waxahachie",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Waxahachie, TX at 103 YMCA Drive, Waxahachie, TX 75165.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-waxahachie.json",
+   "address": {
+    "streetAddress": "103 YMCA Drive",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4274614,
+    "lon": -96.8406103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/515928125",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-waxahachie-w578226303",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Waxahachie, TX at 109 East Marvin Avenue, Waxahachie, TX 75165.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-waxahachie-w578226303/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-waxahachie-w578226303.json",
+   "address": {
+    "streetAddress": "109 East Marvin Avenue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3919527,
+    "lon": -96.8440233
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/578226303",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ellis-county-family-dentistry-waxahachie",
+   "name": "Ellis County Family Dentistry",
+   "summary": "Ellis County Family Dentistry is a dentist in Waxahachie, TX at 110 Park Place Court, Waxahachie, TX 75165.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ellis-county-family-dentistry-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ellis-county-family-dentistry-waxahachie.json",
+   "address": {
+    "streetAddress": "110 Park Place Court",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4078305,
+    "lon": -96.8236468
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/572456419",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ferguson-insurance-waxahachie",
+   "name": "Ferguson Insurance",
+   "summary": "Ferguson Insurance is an insurance agent in Waxahachie, TX at 305 Mc Millan Street, Waxahachie, TX 75165.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ferguson-insurance-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ferguson-insurance-waxahachie.json",
+   "address": {
+    "streetAddress": "305 Mc Millan Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3891791,
+    "lon": -96.848359
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/508861878",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-waxahachie",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Waxahachie, TX at 321 Stadium Drive, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-waxahachie.json",
+   "address": {
+    "streetAddress": "321 Stadium Drive",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4176059,
+    "lon": -96.8366049
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/517412792",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "furniture-by-sleep-quarters-waxahachie",
+   "name": "Furniture By Sleep Quarters",
+   "summary": "Furniture By Sleep Quarters is a furniture store in Waxahachie, TX at 500 Dallas Highway, Waxahachie, TX 75165.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furniture-by-sleep-quarters-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furniture-by-sleep-quarters-waxahachie.json",
+   "address": {
+    "streetAddress": "500 Dallas Highway",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4069193,
+    "lon": -96.8421195
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/510630319",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gus-and-gilbert-law-firm-waxahachie",
+   "name": "Gus & Gilbert Law Firm",
+   "summary": "Gus & Gilbert Law Firm is a lawyer in Waxahachie, TX at 209 East Main Street, Waxahachie, TX 75165.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gus-and-gilbert-law-firm-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gus-and-gilbert-law-firm-waxahachie.json",
+   "address": {
+    "streetAddress": "209 East Main Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3853302,
+    "lon": -96.846062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/506579578",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hachies-wheels-and-tires-waxahachie",
+   "name": "Hachie's Wheels and Tires",
+   "summary": "Hachie's Wheels and Tires is an auto repair shop in Waxahachie, TX at 200 South Highway 77, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hachies-wheels-and-tires-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hachies-wheels-and-tires-waxahachie.json",
+   "address": {
+    "streetAddress": "200 South Highway 77",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3789596,
+    "lon": -96.8525627
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/574183110",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "happys-home-furnishings-waxahachie",
+   "name": "Happy's Home Furnishings",
+   "summary": "Happy's Home Furnishings is a furniture store in Waxahachie, TX at 114 West Main Street, Waxahachie, TX 75165.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happys-home-furnishings-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happys-home-furnishings-waxahachie.json",
+   "address": {
+    "streetAddress": "114 West Main Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3860906,
+    "lon": -96.8478142
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/505964880",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hi-view-real-estate-waxahachie",
+   "name": "Hi View Real Estate",
+   "summary": "Hi View Real Estate is a real estate agency in Waxahachie, TX at 1007 Ferris Avenue, Waxahachie, TX 75165.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hi-view-real-estate-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hi-view-real-estate-waxahachie.json",
+   "address": {
+    "streetAddress": "1007 Ferris Avenue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3976993,
+    "lon": -96.8449076
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/578233801",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "immortal-inc-waxahachie",
+   "name": "Immortal Inc",
+   "summary": "Immortal Inc is a tattoo shop in Waxahachie, TX at 1702 US-287 Business, Waxahachie, TX 75165.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/immortal-inc-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/immortal-inc-waxahachie.json",
+   "address": {
+    "streetAddress": "1702 US-287 Business",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4001023,
+    "lon": -96.8657324
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/579730554",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-lube-waxahachie",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Waxahachie, TX at Ferris Avenue, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-waxahachie.json",
+   "address": {
+    "streetAddress": "Ferris Avenue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.396178,
+    "lon": -96.8450663
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/540269014",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "karens-hairstyling-waxahachie",
+   "name": "Karen's Hairstyling",
+   "summary": "Karen's Hairstyling is a hair salon in Waxahachie, TX at 519 Ferris Avenue, Waxahachie, TX 75165.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/karens-hairstyling-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/karens-hairstyling-waxahachie.json",
+   "address": {
+    "streetAddress": "519 Ferris Avenue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3919075,
+    "lon": -96.8480605
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/511891127",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-kar-waxahachie",
+   "name": "Kwik Kar",
+   "summary": "Kwik Kar is an auto repair shop in Waxahachie, TX at 2181 Dallas Highway, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-kar-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-kar-waxahachie.json",
+   "address": {
+    "streetAddress": "2181 Dallas Highway",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4381921,
+    "lon": -96.8380333
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/533738853",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "l-and-m-muffler-shop-waxahachie",
+   "name": "L&M Muffler Shop",
+   "summary": "L&M Muffler Shop is an auto repair shop in Waxahachie, TX at 300 North Elm Street, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-and-m-muffler-shop-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-and-m-muffler-shop-waxahachie.json",
+   "address": {
+    "streetAddress": "300 North Elm Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.388888,
+    "lon": -96.8484413
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/508861881",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "law-offices-of-j-martinez-waxahachie",
+   "name": "Law Offices of J Martinez",
+   "summary": "Law Offices of J Martinez is a lawyer in Waxahachie, TX at 107 Kaufman Street, Waxahachie, TX 75165.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/law-offices-of-j-martinez-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/law-offices-of-j-martinez-waxahachie.json",
+   "address": {
+    "streetAddress": "107 Kaufman Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3852274,
+    "lon": -96.8450268
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/509536903",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "leon-duckett-and-sons-plumbing-waxahachie",
+   "name": "Leon Duckett and Sons Plumbing",
+   "summary": "Leon Duckett and Sons Plumbing is a plumber in Waxahachie, TX at 501 West Jefferson Street, Waxahachie, TX 75165.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leon-duckett-and-sons-plumbing-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leon-duckett-and-sons-plumbing-waxahachie.json",
+   "address": {
+    "streetAddress": "501 West Jefferson Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3861772,
+    "lon": -96.8519209
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/508880749",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lost-veil-tattoo-waxahachie",
+   "name": "Lost Veil Tattoo",
+   "summary": "Lost Veil Tattoo is a tattoo shop in Waxahachie, TX at 300 North Interstate 35E, Waxahachie, TX 75165.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lost-veil-tattoo-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lost-veil-tattoo-waxahachie.json",
+   "address": {
+    "streetAddress": "300 North Interstate 35E",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.410862,
+    "lon": -96.871177
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/717923065",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lukes-auto-repair-waxahachie",
+   "name": "Luke's Auto Repair",
+   "summary": "Luke's Auto Repair is an auto repair shop in Waxahachie, TX at 301 Farm-to-Market 1446, Cantrell Street, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lukes-auto-repair-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lukes-auto-repair-waxahachie.json",
+   "address": {
+    "streetAddress": "301 Farm-to-Market 1446, Cantrell Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3807839,
+    "lon": -96.8512456
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/507408141",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "m-and-l-kwik-wash-waxahachie",
+   "name": "M&L Kwik Wash",
+   "summary": "M&L Kwik Wash is a car wash in Waxahachie, TX at 2701 Dallas Highway, Waxahachie, TX 75165.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/m-and-l-kwik-wash-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/m-and-l-kwik-wash-waxahachie.json",
+   "address": {
+    "streetAddress": "2701 Dallas Highway",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4496972,
+    "lon": -96.8360105
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/516480795",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "morgan-orthodontics-waxahachie",
+   "name": "Morgan Orthodontics",
+   "summary": "Morgan Orthodontics is a dentist in Waxahachie, TX at 104 Professional Place, Waxahachie, TX 75165.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morgan-orthodontics-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morgan-orthodontics-waxahachie.json",
+   "address": {
+    "streetAddress": "104 Professional Place",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4102003,
+    "lon": -96.8347743
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/537257447",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "moyas-auto-inspection-waxahachie",
+   "name": "Moya's Auto Inspection",
+   "summary": "Moya's Auto Inspection is an auto repair shop in Waxahachie, TX at 215 South Highway 77, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/moyas-auto-inspection-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/moyas-auto-inspection-waxahachie.json",
+   "address": {
+    "streetAddress": "215 South Highway 77",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3784116,
+    "lon": -96.8515492
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/574183113",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "munster-mansion-waxahachie",
+   "name": "Munster Mansion",
+   "summary": "Munster Mansion is an event venue in Waxahachie, TX at 3636 FM 813, Waxahachie, TX 75165.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/munster-mansion-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/munster-mansion-waxahachie.json",
+   "address": {
+    "streetAddress": "3636 FM 813",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.435604,
+    "lon": -96.8107715
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/717811243",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "performance-car-audio-waxahachie",
+   "name": "Performance Car Audio",
+   "summary": "Performance Car Audio is an auto repair shop in Waxahachie, TX at 106 Dallas Highway, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/performance-car-audio-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/performance-car-audio-waxahachie.json",
+   "address": {
+    "streetAddress": "106 Dallas Highway",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4010258,
+    "lon": -96.8433493
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/540269028",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "real-estate-centre-waxahachie",
+   "name": "Real Estate Centre",
+   "summary": "Real Estate Centre is a real estate agency in Waxahachie, TX at 1015 Ferris Avenue, Waxahachie, TX 75165.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/real-estate-centre-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/real-estate-centre-waxahachie.json",
+   "address": {
+    "streetAddress": "1015 Ferris Avenue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3982713,
+    "lon": -96.8445483
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/571468813",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "refuse-to-sink-boutique-waxahachie",
+   "name": "Refuse To Sink Boutique",
+   "summary": "Refuse To Sink Boutique is a boutique in Waxahachie, TX at 207 West Marvin Avenue, Waxahachie, TX 75165.",
+   "categories": [
+    "boutique"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/refuse-to-sink-boutique-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/refuse-to-sink-boutique-waxahachie.json",
+   "address": {
+    "streetAddress": "207 West Marvin Avenue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3928575,
+    "lon": -96.8458971
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/512629106",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "secure-more-storage-waxahachie",
+   "name": "Secure More Storage",
+   "summary": "Secure More Storage is a self-storage facility in Waxahachie, TX at 602 Farm-to-Market 1446, Cantrell Street, Waxahachie, TX 75165.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/secure-more-storage-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/secure-more-storage-waxahachie.json",
+   "address": {
+    "streetAddress": "602 Farm-to-Market 1446, Cantrell Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3820554,
+    "lon": -96.8543411
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/513389204",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "simply-chic-waxahachie",
+   "name": "Simply Chic",
+   "summary": "Simply Chic is a hair salon in Waxahachie, TX at 513 Ferris Avenue, Waxahachie, TX 75165.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/simply-chic-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/simply-chic-waxahachie.json",
+   "address": {
+    "streetAddress": "513 Ferris Avenue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3915579,
+    "lon": -96.8482747
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/511891129",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sleep-experts-waxahachie",
+   "name": "Sleep Experts",
+   "summary": "Sleep Experts is a mattress store in Waxahachie, TX at 791 North US Highway 77, Waxahachie, TX 75165.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-experts-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-experts-waxahachie.json",
+   "address": {
+    "streetAddress": "791 North US Highway 77",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4113999,
+    "lon": -96.8425248
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7068176735",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "souls-harbor-thrift-store-waxahachie",
+   "name": "Soul's Harbor Thrift Store",
+   "summary": "Soul's Harbor Thrift Store is a thrift store in Waxahachie, TX at 215 East Madison Street, Waxahachie, TX 75165.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/souls-harbor-thrift-store-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/souls-harbor-thrift-store-waxahachie.json",
+   "address": {
+    "streetAddress": "215 East Madison Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3833579,
+    "lon": -96.8471045
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/507399530",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specialty-auto-repair-inc-waxahachie",
+   "name": "Specialty Auto Repair Inc",
+   "summary": "Specialty Auto Repair Inc is an auto repair shop in Waxahachie, TX at 1804 West US 287 Business, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specialty-auto-repair-inc-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specialty-auto-repair-inc-waxahachie.json",
+   "address": {
+    "streetAddress": "1804 West US 287 Business",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4014709,
+    "lon": -96.8663586
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/579730561",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-waxahachie",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Waxahachie, TX at 903 Ferris Avenue, Waxahachie, TX 75165.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-waxahachie.json",
+   "address": {
+    "streetAddress": "903 Ferris Avenue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3964916,
+    "lon": -96.8456785
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/578233803",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-farm-bureau-insurance-waxahachie",
+   "name": "Texas Farm Bureau Insurance",
+   "summary": "Texas Farm Bureau Insurance is an insurance agent in Waxahachie, TX at 122 Dallas Highway, Waxahachie, TX 75165.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-farm-bureau-insurance-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-farm-bureau-insurance-waxahachie.json",
+   "address": {
+    "streetAddress": "122 Dallas Highway",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4024804,
+    "lon": -96.8431424
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/533675954",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-tires-waxahachie",
+   "name": "Texas Tires",
+   "summary": "Texas Tires is a tire shop in Waxahachie, TX at 110 Dallas Highway, Waxahachie, TX 75165.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-tires-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-tires-waxahachie.json",
+   "address": {
+    "streetAddress": "110 Dallas Highway",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4010592,
+    "lon": -96.8435102
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/540269023",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-graily-waxahachie",
+   "name": "The Graily",
+   "summary": "The Graily is an event venue in Waxahachie, TX at 716 Dunaway Street, Waxahachie, TX 75165.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-graily-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-graily-waxahachie.json",
+   "address": {
+    "streetAddress": "716 Dunaway Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3795755,
+    "lon": -96.8556055
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/717939329",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-hair-house-waxahachie",
+   "name": "The Hair House",
+   "summary": "The Hair House is a hair salon in Waxahachie, TX at 432 North Monroe Street, Waxahachie, TX 75165.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-hair-house-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-hair-house-waxahachie.json",
+   "address": {
+    "streetAddress": "432 North Monroe Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3912426,
+    "lon": -96.8466999
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/510033872",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-hale-law-firm-waxahachie",
+   "name": "The Hale Law Firm",
+   "summary": "The Hale Law Firm is a lawyer in Waxahachie, TX at 417 West Main Street, Waxahachie, TX 75165.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-hale-law-firm-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-hale-law-firm-waxahachie.json",
+   "address": {
+    "streetAddress": "417 West Main Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3870207,
+    "lon": -96.8510808
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/507660418",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-lords-gym-waxahachie",
+   "name": "The Lord's Gym",
+   "summary": "The Lord's Gym is a gym in Waxahachie, TX at 1312 West Main Street, Waxahachie, TX 75165.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-lords-gym-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-lords-gym-waxahachie.json",
+   "address": {
+    "streetAddress": "1312 West Main Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.39708,
+    "lon": -96.861886
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/537555644",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "thornhill-finance-waxahachie",
+   "name": "Thornhill Finance",
+   "summary": "Thornhill Finance is an used car dealer in Waxahachie, TX at 314 West Main Street, Waxahachie, TX 75165.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thornhill-finance-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thornhill-finance-waxahachie.json",
+   "address": {
+    "streetAddress": "314 West Main Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3867816,
+    "lon": -96.8490501
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/507408132",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tire-town-waxahachie",
+   "name": "Tire Town",
+   "summary": "Tire Town is a tire shop in Waxahachie, TX at 300 Water Street, Waxahachie, TX 75165.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tire-town-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tire-town-waxahachie.json",
+   "address": {
+    "streetAddress": "300 Water Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3872211,
+    "lon": -96.8485508
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/507408135",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "w-nail-spa-waxahachie",
+   "name": "W-Nail Spa",
+   "summary": "W-Nail Spa is a nail salon in Waxahachie, TX at 791 North US Highway 77 #501F, Waxahachie, TX 75165.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/w-nail-spa-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/w-nail-spa-waxahachie.json",
+   "address": {
+    "streetAddress": "791 North US Highway 77 #501F",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.411476,
+    "lon": -96.8430983
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7068176733",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waltons-muffler-brake-and-tire-waxahachie",
+   "name": "Walton's Muffler Brake & Tire",
+   "summary": "Walton's Muffler Brake & Tire is an auto repair shop in Waxahachie, TX at 1530 West US Highway 287 Bypass, Waxahachie, TX 75165.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waltons-muffler-brake-and-tire-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waltons-muffler-brake-and-tire-waxahachie.json",
+   "address": {
+    "streetAddress": "1530 West US Highway 287 Bypass",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4239936,
+    "lon": -96.8513203
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/517412798",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waxahachie-driving-school-waxahachie",
+   "name": "Waxahachie Driving School",
+   "summary": "Waxahachie Driving School is a driving school in Waxahachie, TX at 106 South Jackson Street, Waxahachie, TX 75165.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waxahachie-driving-school-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waxahachie-driving-school-waxahachie.json",
+   "address": {
+    "streetAddress": "106 South Jackson Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.3850773,
+    "lon": -96.8468804
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/505981650",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waxahachie-express-car-wash-waxahachie",
+   "name": "Waxahachie Express Car Wash",
+   "summary": "Waxahachie Express Car Wash is a car wash in Waxahachie, TX at Dallas Highway, Waxahachie, TX 75165.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waxahachie-express-car-wash-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waxahachie-express-car-wash-waxahachie.json",
+   "address": {
+    "streetAddress": "Dallas Highway",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4015975,
+    "lon": -96.8441983
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/578233813",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waxahachie-family-dentistry-waxahachie",
+   "name": "Waxahachie Family Dentistry",
+   "summary": "Waxahachie Family Dentistry is a dentist in Waxahachie, TX at 125 Park Place Parkway, Waxahachie, TX 75165.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waxahachie-family-dentistry-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waxahachie-family-dentistry-waxahachie.json",
+   "address": {
+    "streetAddress": "125 Park Place Parkway",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4088779,
+    "lon": -96.8218696
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/572456422",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waxahachie-funeral-home-waxahachie",
+   "name": "Waxahachie Funeral Home",
+   "summary": "Waxahachie Funeral Home is a funeral home in Waxahachie, TX at 1201 West US Highway 287 Bypass, Waxahachie, TX 75165.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waxahachie-funeral-home-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waxahachie-funeral-home-waxahachie.json",
+   "address": {
+    "streetAddress": "1201 West US Highway 287 Bypass",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4207043,
+    "lon": -96.8484351
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/533519701",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waxahachie-veterinary-clinic-waxahachie",
+   "name": "Waxahachie Veterinary Clinic",
+   "summary": "Waxahachie Veterinary Clinic is a veterinarian in Waxahachie, TX at 2300 Brown Street, Waxahachie, TX 75165.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waxahachie-veterinary-clinic-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waxahachie-veterinary-clinic-waxahachie.json",
+   "address": {
+    "streetAddress": "2300 Brown Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4160465,
+    "lon": -96.8234956
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/517431224",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "willow-creek-wedding-and-events-venue-waxahachie",
+   "name": "Willow Creek Wedding & Events Venue",
+   "summary": "Willow Creek Wedding & Events Venue is an event venue in Waxahachie, TX at 401 South Westmoreland Road #Venue, Waxahachie, TX 75167.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/willow-creek-wedding-and-events-venue-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/willow-creek-wedding-and-events-venue-waxahachie.json",
+   "address": {
+    "streetAddress": "401 South Westmoreland Road #Venue",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75167",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75167",
+   "geo": {
+    "lat": 32.4752306,
+    "lon": -96.8751075
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/891954987",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "workforce-solutions-for-north-central-texas-waxahachie",
+   "name": "Workforce Solutions for North Central Texas",
+   "summary": "Workforce Solutions for North Central Texas is a staffing agency in Waxahachie, TX at 1712 US-287 Business, Waxahachie, TX 75165.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/workforce-solutions-for-north-central-texas-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/workforce-solutions-for-north-central-texas-waxahachie.json",
+   "address": {
+    "streetAddress": "1712 US-287 Business",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4012778,
+    "lon": -96.8658458
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/579730556",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zippys-car-wash-waxahachie",
+   "name": "Zippy's Car Wash",
+   "summary": "Zippy's Car Wash is a car wash in Waxahachie, TX at 1560 North US Highway 77, Waxahachie, TX 75165.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zippys-car-wash-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zippys-car-wash-waxahachie.json",
+   "address": {
+    "streetAddress": "1560 North US Highway 77",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "postalCode": "75165",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "zip": "75165",
+   "geo": {
+    "lat": 32.4260668,
+    "lon": -96.8384756
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/515928108",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "macho-self-storage-waxahachie",
+   "name": "Macho Self Storage",
+   "summary": "Macho Self Storage is a self-storage facility in Waxahachie, TX at 3467 North US Highway 77, Waxahachie, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/macho-self-storage-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/macho-self-storage-waxahachie.json",
+   "address": {
+    "streetAddress": "3467 North US Highway 77",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.4706696,
+    "lon": -96.8315183
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/905225897",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "paaco-automotive-group-waxahachie",
+   "name": "PAACO Automotive Group",
+   "summary": "PAACO Automotive Group is an used car dealer in Waxahachie, TX at 400 West Main Street, Waxahachie, TX.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paaco-automotive-group-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paaco-automotive-group-waxahachie.json",
+   "address": {
+    "streetAddress": "400 West Main Street",
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.3869909,
+    "lon": -96.8497363
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/507433967",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "delek-waxahachie",
+   "name": "Delek",
+   "summary": "Delek is a car wash in Waxahachie, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/delek-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/delek-waxahachie.json",
+   "address": {
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.393227,
+    "lon": -96.8467625
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/717817880",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "exxon-car-wash-inc-short-visits-waxahachie",
+   "name": "Exxon Car Wash (Inc. Short-Visits)",
+   "summary": "Exxon Car Wash (Inc. Short-Visits) is a car wash in Waxahachie, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/exxon-car-wash-inc-short-visits-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/exxon-car-wash-inc-short-visits-waxahachie.json",
+   "address": {
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.3940164,
+    "lon": -96.8463454
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/717922046",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "promise-child-development-center-waxahachie",
+   "name": "Promise Child Development Center",
+   "summary": "Promise Child Development Center is a daycare in Waxahachie, TX.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/promise-child-development-center-waxahachie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/promise-child-development-center-waxahachie.json",
+   "address": {
+    "addressLocality": "Waxahachie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Waxahachie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.4102564,
+    "lon": -96.811271
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/905121858",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

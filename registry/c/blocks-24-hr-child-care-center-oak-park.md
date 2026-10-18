@@ -15,7 +15,7 @@ Blocks 24 hr Child Care Center is a daycare in Oak Park, IL at 815 South Oak Par
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/blocks-24-hr-child-care-center-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/blocks-24-hr-child-care-center-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4993727721 (license ODbL-1.0); source data as of 2026-07-28

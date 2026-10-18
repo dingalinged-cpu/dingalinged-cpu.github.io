@@ -15,7 +15,7 @@ Valvoline is an auto repair shop in Chicago, IL at 4846 South Archer Avenue, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/valvoline-chicago-w163669141/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/valvoline-chicago-w163669141.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163669141 (license ODbL-1.0); source data as of 2026-06-01

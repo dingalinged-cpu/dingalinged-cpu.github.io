@@ -15,7 +15,7 @@ Law and Professional Center is a lawyer in Orland Hills, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/law-and-professional-center-orland-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/law-and-professional-center-orland-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1023800958 (license ODbL-1.0); source data as of 2026-07-28

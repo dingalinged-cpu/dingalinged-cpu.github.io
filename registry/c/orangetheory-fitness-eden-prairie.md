@@ -15,7 +15,7 @@ Orangetheory Fitness is a gym in Eden Prairie, MN at 8264 Commonwealth Drive, Ed
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4145440395 (license ODbL-1.0); source data as of 2026-07-15

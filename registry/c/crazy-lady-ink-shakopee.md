@@ -15,7 +15,7 @@ Crazy Lady Ink is a tattoo shop in Shakopee, MN at 110 1st Avenue East, Shakopee
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crazy-lady-ink-shakopee/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crazy-lady-ink-shakopee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9024231938 (license ODbL-1.0); source data as of 2026-06-01

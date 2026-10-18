@@ -15,7 +15,7 @@ Southtown Nails is a nail salon in Bloomington, MN at 7991 Southtown Center, Blo
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 9:30-19:00; Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/southtown-nails-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/southtown-nails-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6412456042 (license ODbL-1.0); source data as of 2026-06-01

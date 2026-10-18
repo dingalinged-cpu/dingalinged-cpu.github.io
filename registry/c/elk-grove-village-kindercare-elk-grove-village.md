@@ -15,7 +15,7 @@ Elk Grove Village KinderCare is a preschool in Elk Grove Village, IL at 800 Sout
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elk-grove-village-kindercare-elk-grove-village/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elk-grove-village-kindercare-elk-grove-village.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/48863107 (license ODbL-1.0); source data as of 2026-07-28

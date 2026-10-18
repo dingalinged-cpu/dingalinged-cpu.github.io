@@ -1,0 +1,23 @@
+Venetian Nail Spa is a nail salon in Allen, TX at 929 Watters Creek Boulevard, Allen, TX 75013.
+
+# Venetian Nail Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 929 Watters Creek Boulevard, Allen, TX 75013
+- City: Allen
+- State: TX
+- ZIP: 75013
+- Coordinates: 33.0873462, -96.6837187
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/venetian-nail-spa-allen/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/venetian-nail-spa-allen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12365938920 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

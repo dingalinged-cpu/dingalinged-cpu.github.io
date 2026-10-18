@@ -15,7 +15,7 @@ B M Jewelry is a jewelry store in Chicago, IL at 9147 South Commercial Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/b-m-jewelry-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/b-m-jewelry-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7055438580 (license ODbL-1.0); source data as of 2026-06-01

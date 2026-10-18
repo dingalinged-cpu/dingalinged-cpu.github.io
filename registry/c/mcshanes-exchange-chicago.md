@@ -15,7 +15,7 @@ McShane's Exchange is a thrift store in Chicago, IL at 815 West Armitage Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mcshanes-exchange-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mcshanes-exchange-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9288618227 (license ODbL-1.0); source data as of 2026-06-01

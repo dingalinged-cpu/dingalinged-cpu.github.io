@@ -15,7 +15,7 @@ Speedy Wash is a car wash in Frankfort, IL at 11151 Lincoln Highway, Frankfort, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/speedy-wash-frankfort/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-frankfort.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/984553910 (license ODbL-1.0); source data as of 2026-07-28

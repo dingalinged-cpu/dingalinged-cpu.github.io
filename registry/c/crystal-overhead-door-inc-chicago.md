@@ -15,7 +15,7 @@ Crystal Overhead Door Inc is a window installer in Chicago, IL at 5030 West Lawr
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crystal-overhead-door-inc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crystal-overhead-door-inc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10053506307 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Howard Street Animal Hospital is a veterinarian in Evanston, IL at 715 Howard St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/howard-street-animal-hospital-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/howard-street-animal-hospital-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/823635260 (license ODbL-1.0); source data as of 2026-07-28

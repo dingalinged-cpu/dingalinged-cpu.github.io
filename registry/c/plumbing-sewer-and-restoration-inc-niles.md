@@ -15,7 +15,7 @@ Plumbing Sewer and Restoration Inc is a plumber in Niles, IL at 7831 North Nora 
 - Opening hours (OSM syntax): Mo-Su 12:00-23:45
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/plumbing-sewer-and-restoration-inc-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/plumbing-sewer-and-restoration-inc-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5047751751 (license ODbL-1.0); source data as of 2026-06-01

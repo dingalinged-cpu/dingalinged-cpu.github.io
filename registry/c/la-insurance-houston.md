@@ -1,0 +1,23 @@
+LA Insurance is an insurance agent in Houston, TX at 6500 North Freeway #100-101, Houston, TX.
+
+# LA Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 6500 North Freeway #100-101, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.8601848, -95.4022752
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/la-insurance-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-insurance-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3768496259 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

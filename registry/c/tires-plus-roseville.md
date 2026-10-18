@@ -15,7 +15,7 @@ Tires Plus is a tire shop in Roseville, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tires-plus-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tires-plus-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/148018347 (license ODbL-1.0); source data as of 2026-06-01

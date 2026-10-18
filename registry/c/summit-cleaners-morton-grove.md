@@ -15,7 +15,7 @@ Summit Cleaners is a dry cleaner in Morton Grove, IL at 6222 Lincoln Avenue, Mor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/summit-cleaners-morton-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/summit-cleaners-morton-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/672818886 (license ODbL-1.0); source data as of 2026-06-01

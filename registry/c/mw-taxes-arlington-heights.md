@@ -15,7 +15,7 @@ MW Taxes is a tax preparation service in Arlington Heights, IL at 524 West North
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mw-taxes-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mw-taxes-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12660977704 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Citgo is a car wash in Chicago, IL at 3159 North Kostner Avenue, Chicago, IL 606
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/citgo-chicago-w162436018/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/citgo-chicago-w162436018.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162436018 (license ODbL-1.0); source data as of 2026-07-28

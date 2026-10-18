@@ -15,7 +15,7 @@ Skreko Dentistry is a dentist in Indian Head Park, IL. Website: https://www.drsk
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/skreko-dentistry-indian-head-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/skreko-dentistry-indian-head-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10684391123 (license ODbL-1.0); source data as of 2026-07-28

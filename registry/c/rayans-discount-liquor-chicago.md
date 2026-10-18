@@ -15,7 +15,7 @@ Rayan's Discount Liquor is a liquor store in Chicago, IL at 1532 West Montrose A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rayans-discount-liquor-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rayans-discount-liquor-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1719743409 (license ODbL-1.0); source data as of 2026-06-01

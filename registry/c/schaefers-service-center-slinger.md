@@ -1,0 +1,23 @@
+Schaefer's Service Center is an auto repair shop in Slinger, WI.
+
+# Schaefer's Service Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Slinger, WI
+- City: Slinger
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.3256971, -88.2630498
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/schaefers-service-center-slinger/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/schaefers-service-center-slinger.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/732745676 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

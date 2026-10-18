@@ -15,7 +15,7 @@ Edina Reality is a real estate agency in Blaine, MN at 10945 Club West Parkway N
 - Opening hours (OSM syntax): 08:30-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edina-reality-blaine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edina-reality-blaine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/458350093 (license ODbL-1.0); source data as of 2026-05-31

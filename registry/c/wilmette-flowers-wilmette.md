@@ -15,7 +15,7 @@ Wilmette Flowers is a florist in Wilmette, IL at 3223 Lake Avenue #13C, Wilmette
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wilmette-flowers-wilmette/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wilmette-flowers-wilmette.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4484930407 (license ODbL-1.0); source data as of 2026-06-01

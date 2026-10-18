@@ -15,7 +15,7 @@ GO Health Chiropractic is a chiropractor in Robbinsdale, MN. Phone: +17635339997
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/go-health-chiropractic-robbinsdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/go-health-chiropractic-robbinsdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11376121503 (license ODbL-1.0); source data as of 2026-06-01

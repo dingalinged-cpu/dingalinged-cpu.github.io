@@ -15,7 +15,7 @@ Magic Touch Nail Salon & Spa is a nail salon in Chicago, IL at 2915 West Addison
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/magic-touch-nail-salon-and-spa-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/magic-touch-nail-salon-and-spa-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9313311013 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Liberty Tax is a tax preparation service in Chicago, IL at 9419 South Ashland Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/liberty-tax-chicago-w210049675/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/liberty-tax-chicago-w210049675.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210049675 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Betty's and Nick's Family Hair is a hair salon in Skokie, IL at 4110 Oakton Stre
 - Opening hours (OSM syntax): 09:00-18:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bettys-and-nicks-family-hair-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bettys-and-nicks-family-hair-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1030817835 (license ODbL-1.0); source data as of 2026-06-01

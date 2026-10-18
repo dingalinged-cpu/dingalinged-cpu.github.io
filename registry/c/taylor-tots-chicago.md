@@ -15,7 +15,7 @@ Taylor Tots is a daycare in Chicago, IL at 1417 West Taylor Street, Chicago, IL 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/taylor-tots-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/taylor-tots-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7550187385 (license ODbL-1.0); source data as of 2026-07-28

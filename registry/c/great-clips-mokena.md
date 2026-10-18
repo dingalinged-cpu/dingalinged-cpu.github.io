@@ -15,7 +15,7 @@ Great Clips is a hair salon in Mokena, IL at 11240 Lincoln Highway, Mokena, IL 6
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-mokena/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-mokena.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9708698810 (license ODbL-1.0); source data as of 2026-06-01

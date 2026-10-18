@@ -15,7 +15,7 @@ Rhode Island KinderCare is a daycare in Bloomington, MN at 10801 Rhode Island Av
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rhode-island-kindercare-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rhode-island-kindercare-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/363001407 (license ODbL-1.0); source data as of 2026-07-24

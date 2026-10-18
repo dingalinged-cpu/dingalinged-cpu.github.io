@@ -15,7 +15,7 @@ Sarabande Chicago is an event venue in Chicago, IL at 2726 West Roscoe Street, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sarabande-chicago-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sarabande-chicago-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13743123598 (license ODbL-1.0); source data as of 2026-07-28

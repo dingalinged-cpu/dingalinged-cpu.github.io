@@ -15,7 +15,7 @@ Heritage Cleaners is a dry cleaner in Naperville, IL at 1212 South Naper Bouleva
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/heritage-cleaners-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/heritage-cleaners-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1441749338 (license ODbL-1.0); source data as of 2026-06-01

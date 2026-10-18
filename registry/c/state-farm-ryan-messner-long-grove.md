@@ -15,7 +15,7 @@ State Farm - Ryan Messner is an insurance agent in Long Grove, IL at 437 Robert 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-ryan-messner-long-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-ryan-messner-long-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1103222122 (license ODbL-1.0); source data as of 2026-07-28

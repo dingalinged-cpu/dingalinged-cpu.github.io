@@ -15,7 +15,7 @@ Second Shift is a coworking space in Chicago, IL at 3432 West Diversey Avenue #2
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/second-shift-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/second-shift-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6173309676 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Alexandru Hardwood Flooring is a flooring company in Glenview, IL at 1807 Glenvi
 - Opening hours (OSM syntax): Su off; Mo-Sa 09:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/alexandru-hardwood-flooring-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/alexandru-hardwood-flooring-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11020129277 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Washburn-McReavy - Nokomis Park Funeral Chapel is a funeral home in Minneapolis,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-nokomis-park-funeral-chapel-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-nokomis-park-funeral-chapel-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/84506738 (license ODbL-1.0); source data as of 2026-06-01

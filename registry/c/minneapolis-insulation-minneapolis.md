@@ -15,7 +15,7 @@ Minneapolis Insulation is an insulation contractor in Minneapolis, MN at 2400 No
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/minneapolis-insulation-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/minneapolis-insulation-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12049419545 (license ODbL-1.0); source data as of 2026-07-24

@@ -1,0 +1,23 @@
+ClearWater Express Wash is a car wash in Sachse, TX at 8060 Woodbridge Parkway, Sachse, TX 75048.
+
+# ClearWater Express Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 8060 Woodbridge Parkway, Sachse, TX 75048
+- City: Sachse
+- State: TX
+- ZIP: 75048
+- Coordinates: 32.9938427, -96.5735068
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 07:00-20:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/clearwater-express-wash-sachse/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/clearwater-express-wash-sachse.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1425203726 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

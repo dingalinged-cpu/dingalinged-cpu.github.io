@@ -15,7 +15,7 @@ Orangetheory Fitness is a gym in Evanston, IL at 2800 Central Street, Evanston, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2295249905 (license ODbL-1.0); source data as of 2026-06-01

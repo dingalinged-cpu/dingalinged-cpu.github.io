@@ -15,7 +15,7 @@ Lakeside Mortgage is a real estate agency in Chicago, IL at 3025 North Western A
 - Opening hours (OSM syntax): Mo-Fri 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lakeside-mortgage-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lakeside-mortgage-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12142130809 (license ODbL-1.0); source data as of 2026-07-28

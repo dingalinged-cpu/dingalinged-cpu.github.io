@@ -15,7 +15,7 @@ Jackson Hewitt is a tax preparation service in Lombard, IL at 717 East Roosevelt
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9681866420 (license ODbL-1.0); source data as of 2026-07-28

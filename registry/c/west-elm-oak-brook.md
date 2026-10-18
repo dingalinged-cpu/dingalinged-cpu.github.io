@@ -15,7 +15,7 @@ west elm is a furniture store in Oak Brook, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/west-elm-oak-brook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/west-elm-oak-brook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9380966204 (license ODbL-1.0); source data as of 2026-06-01

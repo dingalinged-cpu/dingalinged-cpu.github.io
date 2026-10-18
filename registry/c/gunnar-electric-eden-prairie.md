@@ -15,7 +15,7 @@ Gunnar Electric is an electrician in Eden Prairie, MN at 14850 Martin Drive, Ede
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gunnar-electric-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gunnar-electric-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/43411682 (license ODbL-1.0); source data as of 2026-07-24

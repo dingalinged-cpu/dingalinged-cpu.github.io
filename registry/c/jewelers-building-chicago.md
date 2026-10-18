@@ -15,7 +15,7 @@ Jewelers Building is a jewelry store in Chicago, IL at 15 South Wabash Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jewelers-building-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jewelers-building-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/147478106 (license ODbL-1.0); source data as of 2026-06-01

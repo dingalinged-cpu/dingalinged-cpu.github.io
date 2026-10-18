@@ -1,0 +1,23 @@
+Texas Foot and Ankle Specialists is a podiatrist in Katy, TX at 24022 Cinco Village Center Boulevard #240, Katy, TX 77494. Phone: +18323768600. Website: https://www.txfootankle.com/.
+
+# Texas Foot and Ankle Specialists
+
+- Category: podiatrist
+- Services: podiatrist
+- Address: 24022 Cinco Village Center Boulevard #240, Katy, TX 77494
+- City: Katy
+- State: TX
+- ZIP: 77494
+- Coordinates: 29.7402825, -95.7774517
+- Phone: +18323768600
+- Website: https://www.txfootankle.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/texas-foot-and-ankle-specialists-katy/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/texas-foot-and-ankle-specialists-katy.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7700090222 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

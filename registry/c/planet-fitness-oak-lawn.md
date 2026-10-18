@@ -15,7 +15,7 @@ Planet Fitness is a gym in Oak Lawn, IL at 9503 South Cicero Avenue, Oak Lawn, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7246715770 (license ODbL-1.0); source data as of 2026-06-01

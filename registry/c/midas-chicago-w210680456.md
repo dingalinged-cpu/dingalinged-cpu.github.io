@@ -15,7 +15,7 @@ Midas is an auto repair shop in Chicago, IL at 158 West Grand Avenue, Chicago, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midas-chicago-w210680456/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midas-chicago-w210680456.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210680456 (license ODbL-1.0); source data as of 2026-06-01

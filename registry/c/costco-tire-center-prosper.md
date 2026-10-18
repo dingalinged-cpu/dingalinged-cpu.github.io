@@ -1,0 +1,23 @@
+Costco Tire Center is a tire shop in Prosper, TX at 5620 West University Drive, Prosper, TX 75078. Phone: +19723466120. Website: https://www.costco.com/w/-/tx/prosper/1694.
+
+# Costco Tire Center
+
+- Category: tire shop
+- Services: tire shop
+- Address: 5620 West University Drive, Prosper, TX 75078
+- City: Prosper
+- State: TX
+- ZIP: 75078
+- Coordinates: 33.2218866, -96.8950446
+- Phone: +19723466120
+- Website: https://www.costco.com/w/-/tx/prosper/1694
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/costco-tire-center-prosper/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/costco-tire-center-prosper.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13299210266 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

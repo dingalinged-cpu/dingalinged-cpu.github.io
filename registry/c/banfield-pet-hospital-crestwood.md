@@ -15,7 +15,7 @@ Banfield Pet Hospital is a veterinarian in Crestwood, IL at 4975 Cal Sag Road, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-crestwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-crestwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11642991464 (license ODbL-1.0); source data as of 2026-07-28

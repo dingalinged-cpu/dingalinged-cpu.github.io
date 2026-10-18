@@ -15,7 +15,7 @@ Lady Jane's Haircuts for Men is a hair salon in Darien, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lady-janes-haircuts-for-men-darien/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lady-janes-haircuts-for-men-darien.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9455369396 (license ODbL-1.0); source data as of 2026-06-01

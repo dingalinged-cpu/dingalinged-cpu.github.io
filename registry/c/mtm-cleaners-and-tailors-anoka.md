@@ -15,7 +15,7 @@ MTM Cleaners & Tailors is a dry cleaner in Anoka, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mtm-cleaners-and-tailors-anoka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mtm-cleaners-and-tailors-anoka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5595314599 (license ODbL-1.0); source data as of 2026-06-01

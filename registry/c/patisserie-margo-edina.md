@@ -15,7 +15,7 @@ Patisserie Margo is a bakery in Edina, MN at 4510 Valley View Road, Edina, MN 55
 - Opening hours (OSM syntax): Tu-Fr 07:00-14:00; Sa-Su 08:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/patisserie-margo-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/patisserie-margo-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8804218236 (license ODbL-1.0); source data as of 2026-06-01

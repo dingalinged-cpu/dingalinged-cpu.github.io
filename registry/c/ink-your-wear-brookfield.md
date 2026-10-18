@@ -15,7 +15,7 @@ Ink Your Wear is a printing service in Brookfield, IL at 8838 Brookfield Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ink-your-wear-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ink-your-wear-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12026744969 (license ODbL-1.0); source data as of 2026-06-01

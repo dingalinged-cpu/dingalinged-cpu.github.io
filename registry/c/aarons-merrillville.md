@@ -15,7 +15,7 @@ Aaron's is a furniture store in Merrillville, IN at 6071 Broadway, Merrillville,
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/aarons-merrillville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/aarons-merrillville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11528618087 (license ODbL-1.0); source data as of 2026-06-01

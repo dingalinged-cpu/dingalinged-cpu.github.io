@@ -15,7 +15,7 @@ Country Financial is an insurance agent in Wauconda, IL at 118 North Main Street
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; "by appointment"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/country-financial-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/country-financial-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9821590713 (license ODbL-1.0); source data as of 2026-07-28

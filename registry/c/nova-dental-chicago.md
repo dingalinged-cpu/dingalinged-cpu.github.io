@@ -15,7 +15,7 @@ Nova Dental is a dentist in Chicago, IL at 5489 North Milwaukee Avenue, Chicago,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nova-dental-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nova-dental-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163222049 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ City Looks is a hair salon in Minnetonka, MN at 13135 Ridgedale Drive, Minnetonk
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/city-looks-minnetonka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/city-looks-minnetonka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3482425093 (license ODbL-1.0); source data as of 2026-06-01

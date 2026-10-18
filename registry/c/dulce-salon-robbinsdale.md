@@ -15,7 +15,7 @@ Dulce Salon is a hair salon in Robbinsdale, MN at 3754 West Broadway Avenue, Rob
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dulce-salon-robbinsdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dulce-salon-robbinsdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11487200629 (license ODbL-1.0); source data as of 2026-06-01

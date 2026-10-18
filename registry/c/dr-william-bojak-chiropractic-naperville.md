@@ -15,7 +15,7 @@ Dr. William Bojak Chiropractic is a chiropractor in Naperville, IL at 229 West O
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-william-bojak-chiropractic-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-william-bojak-chiropractic-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8498743238 (license ODbL-1.0); source data as of 2026-07-28

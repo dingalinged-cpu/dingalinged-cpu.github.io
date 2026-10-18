@@ -15,7 +15,7 @@ Wicker Park Veterinary Clinic is a veterinarian in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wicker-park-veterinary-clinic-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wicker-park-veterinary-clinic-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3652941310 (license ODbL-1.0); source data as of 2026-07-28

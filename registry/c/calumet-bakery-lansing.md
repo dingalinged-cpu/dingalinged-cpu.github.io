@@ -15,7 +15,7 @@ Calumet Bakery is a bakery in Lansing, IL at 18349 Torrence Avenue, Lansing, IL 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/calumet-bakery-lansing/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/calumet-bakery-lansing.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1329496106 (license ODbL-1.0); source data as of 2026-06-01

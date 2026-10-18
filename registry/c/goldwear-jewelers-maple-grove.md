@@ -15,7 +15,7 @@ Goldwear Jewelers is a jewelry store in Maple Grove, MN at 13689 Grove Drive Nor
 - Opening hours (OSM syntax): Mo-Th 10:00-17:00; Fr 10:00-19:00;Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goldwear-jewelers-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goldwear-jewelers-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5782225991 (license ODbL-1.0); source data as of 2026-06-01

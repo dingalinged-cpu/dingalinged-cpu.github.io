@@ -1,0 +1,23 @@
+Hilker & Associates is an accountant in Milwaukee, WI at 1320 North Jackson Street, Milwaukee, WI 53202. Phone: +14142645330. Website: https://hilkerassociates.com/.
+
+# Hilker & Associates
+
+- Category: accountant
+- Services: accountant, accounting services
+- Address: 1320 North Jackson Street, Milwaukee, WI 53202
+- City: Milwaukee
+- State: WI
+- ZIP: 53202
+- Coordinates: 43.0475837, -87.9045003
+- Phone: +14142645330
+- Website: https://hilkerassociates.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hilker-and-associates-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hilker-and-associates-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3988926187 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

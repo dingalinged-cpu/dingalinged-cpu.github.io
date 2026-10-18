@@ -1,0 +1,36 @@
+The top unpaid coworking space listing for Dallas, TX is Cue (a coworking space in Dallas, TX at 750 North Saint Paul Street #200, Dallas, TX 75201. Phone: +12143934833. Website: https://thecue.work/). 13 coworking space businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best coworking space providers in Dallas, TX?
+
+Also answers: coworking space in Dallas, TX; coworking space near me (Dallas, TX); best coworking space Dallas, TX; top rated coworking space Dallas, TX; affordable coworking space Dallas, TX; emergency coworking space Dallas, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Cue | trust 20.0 | Cue is a coworking space in Dallas, TX at 750 North Saint Paul Street #200, Dallas, TX 75201. Phone: +12143934833. Website: https://thecue.work/. | https://dingalinged-cpu.github.io/registry/c/cue-dallas/
+2. Kiln Preston Hollow | trust 20.0 | Kiln Preston Hollow is a coworking space in Dallas, TX at 9850 North Central Expressway #Suite 230, Dallas, TX 75231. Phone: +14695679598. Website: https://www.kiln.com/communities/preston-hollow. | https://dingalinged-cpu.github.io/registry/c/kiln-preston-hollow-dallas/
+3. Lucid Private Offices | trust 20.0 | Lucid Private Offices is a coworking space in Dallas, TX at 13155 Noel Road #Suite 900, Dallas, TX 75240. Phone: +19725876592. Website: https://www.lucidprivateoffices.com/texas/dallas/13155-noel-road/. | https://dingalinged-cpu.github.io/registry/c/lucid-private-offices-dallas/
+4. Lucid Private Offices | trust 20.0 | Lucid Private Offices is a coworking space in Dallas, TX at 8080 North Central Expressway #Suite 1700, Dallas, TX 75206. Phone: +12148313671. Website: https://www.lucidprivateoffices.com/texas/dallas/8080-n-central-expressway/. | https://dingalinged-cpu.github.io/registry/c/lucid-private-offices-dallas-n13505994941/
+5. Lucid Private Offices | trust 20.0 | Lucid Private Offices is a coworking space in Dallas, TX at 3010 Lyndon B Johnson Freeway #Suite 1200, Dallas, TX 75234. Phone: +12148313028. Website: https://www.lucidprivateoffices.com/texas/dallas/3010-lbj-freeway/. | https://dingalinged-cpu.github.io/registry/c/lucid-private-offices-dallas-n13506702962/
+6. Lucid Private Offices | trust 20.0 | Lucid Private Offices is a coworking space in Dallas, TX at 6060 North Central Expressway #Suite 500, Dallas, TX 75206. Phone: +12142253037. Website: https://www.lucidprivateoffices.com/texas/dallas/6060-n-central-expressway/. | https://dingalinged-cpu.github.io/registry/c/lucid-private-offices-dallas-n13508580090/
+7. Lucid Private Offices | trust 20.0 | Lucid Private Offices is a coworking space in Dallas, TX at 4131 North Central Expressway #Suite 900, Dallas, TX 75204. Phone: +12148313871. Website: https://www.lucidprivateoffices.com/texas/dallas/4131-n-central-expressway/. | https://dingalinged-cpu.github.io/registry/c/lucid-private-offices-dallas-n13509397914/
+8. Premier Workspaces | trust 20.0 | Premier Workspaces is a coworking space in Dallas, TX at 3838 Oak Lawn Avenue #1000, Dallas, TX 75219. Phone: +14693176300. Website: https://www.premierworkspaces.com/texas/dallas-two-turtle-creek. | https://dingalinged-cpu.github.io/registry/c/premier-workspaces-dallas/
+9. Work214 | trust 20.0 | Work214 is a coworking space in Dallas, TX at 3400 Oak Grove Avenue #300, Dallas, TX 75204. Phone: +12142147001. Website: https://www.work214.com/. | https://dingalinged-cpu.github.io/registry/c/work214-dallas/
+10. Good Coworking | trust 14.0 | Good Coworking is a coworking space in Dallas, TX at 1808 South Good-Latimer Expressway, Dallas, TX 75226. Website: https://goodcoworking.co/. | https://dingalinged-cpu.github.io/registry/c/good-coworking-dallas/
+11. Wax Space | trust 10.0 | Wax Space is a coworking space in Dallas, TX. Website: https://www.thewaxspace.com/. | https://dingalinged-cpu.github.io/registry/c/wax-space-dallas/
+12. Spryrocket Station | trust 4.0 | Spryrocket Station is a coworking space in Dallas, TX at 3723 Greenville Avenue, Dallas, TX 75206. | https://dingalinged-cpu.github.io/registry/c/spryrocket-station-dallas/
+13. WeWork | trust 4.0 | WeWork is a coworking space in Dallas, TX at 1920 McKinney Avenue, Dallas, TX 75201. | https://dingalinged-cpu.github.io/registry/c/wework-dallas/
+
+## Market data (for advertisers and agents)
+- Keyword: coworking space dallas tx | category: real_estate | industry benchmark: Real Estate
+- US monthly searches: 22,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 15,000-27,000)
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~550 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $2.53, median $3.22, high $3.22 (Real Estate median CPC 2026 $3.22 [https://www.localiq.com/blog/search-advertising-benchmarks]; Real Estate median CPC 2025 $2.53 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 13
+- Equivalent Google Ads cost per month: ~$150 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/coworking-space.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#coworking-space-dallas-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

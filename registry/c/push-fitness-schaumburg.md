@@ -15,7 +15,7 @@ Push Fitness is a gym in Schaumburg, IL at 1105 Remington Road #D, Schaumburg, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/push-fitness-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/push-fitness-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4913231550 (license ODbL-1.0); source data as of 2026-06-01

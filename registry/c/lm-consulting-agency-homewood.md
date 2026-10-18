@@ -15,7 +15,7 @@ LM Consulting Agency is a business consultant in Homewood, IL at 17475 Jovanna S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lm-consulting-agency-homewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lm-consulting-agency-homewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10289532746 (license ODbL-1.0); source data as of 2026-07-28

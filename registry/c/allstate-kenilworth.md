@@ -15,7 +15,7 @@ Allstate is an insurance agent in Kenilworth, IL at 404 Green Bay Road, Kenilwor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-kenilworth/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-kenilworth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10179247442 (license ODbL-1.0); source data as of 2026-07-28

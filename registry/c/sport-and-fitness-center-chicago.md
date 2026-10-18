@@ -15,7 +15,7 @@ Sport and Fitness Center is a gym in Chicago, IL at 829 South Damen Avenue, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sport-and-fitness-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sport-and-fitness-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209810830 (license ODbL-1.0); source data as of 2026-06-01

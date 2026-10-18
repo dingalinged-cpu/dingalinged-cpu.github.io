@@ -15,7 +15,7 @@ Sew Biz Tailoring is a tailor in Minneapolis, MN at 706 2nd Avenue South, Minnea
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sew-biz-tailoring-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sew-biz-tailoring-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4679771192 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Gary's First Class Car Care is an auto repair shop in Excelsior, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/garys-first-class-car-care-excelsior/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/garys-first-class-car-care-excelsior.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/445081477 (license ODbL-1.0); source data as of 2026-06-01

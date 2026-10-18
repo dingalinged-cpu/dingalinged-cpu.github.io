@@ -1,0 +1,789 @@
+{
+ "place": "Cudahy, WI",
+ "slug": "cudahy-wi",
+ "count": 22,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-cudahy-wi.json"
+  },
+  {
+   "keyword": "attorney cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-cudahy-wi.json"
+  },
+  {
+   "keyword": "auto repair cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-cudahy-wi.json"
+  },
+  {
+   "keyword": "barber shop cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-cudahy-wi.json"
+  },
+  {
+   "keyword": "bike shop cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-cudahy-wi.json"
+  },
+  {
+   "keyword": "car wash cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-cudahy-wi.json"
+  },
+  {
+   "keyword": "dance studio cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-cudahy-wi.json"
+  },
+  {
+   "keyword": "dentist cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-cudahy-wi.json"
+  },
+  {
+   "keyword": "dog groomer cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-cudahy-wi.json"
+  },
+  {
+   "keyword": "event venues cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-cudahy-wi.json"
+  },
+  {
+   "keyword": "furniture store cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-cudahy-wi.json"
+  },
+  {
+   "keyword": "gym cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-cudahy-wi.json"
+  },
+  {
+   "keyword": "haircut cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-cudahy-wi.json"
+  },
+  {
+   "keyword": "heating and air cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-cudahy-wi.json"
+  },
+  {
+   "keyword": "hvac repair cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-cudahy-wi.json"
+  },
+  {
+   "keyword": "lawyer cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-cudahy-wi.json"
+  },
+  {
+   "keyword": "liquor store cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-cudahy-wi.json"
+  },
+  {
+   "keyword": "locksmith cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/locksmith-cudahy-wi.json"
+  },
+  {
+   "keyword": "mechanic cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-cudahy-wi.json"
+  },
+  {
+   "keyword": "movers cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/movers-cudahy-wi.json"
+  },
+  {
+   "keyword": "moving company cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/moving-company-cudahy-wi.json"
+  },
+  {
+   "keyword": "physical therapy cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-cudahy-wi.json"
+  },
+  {
+   "keyword": "staffing agency cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-cudahy-wi.json"
+  },
+  {
+   "keyword": "storage units cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-cudahy-wi.json"
+  },
+  {
+   "keyword": "thrift store cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-cudahy-wi.json"
+  },
+  {
+   "keyword": "used cars for sale cudahy wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-cudahy-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "affordable-heating-and-air-conditioning-cudahy",
+   "name": "Affordable Heating & Air Conditioning",
+   "summary": "Affordable Heating & Air Conditioning is a HVAC contractor in Cudahy, WI at 4630 South Kinnickinnic Avenue, Cudahy, WI 53110. Phone: +14144812727. Website: https://www.affordablehtg.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/affordable-heating-and-air-conditioning-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/affordable-heating-and-air-conditioning-cudahy.json",
+   "address": {
+    "streetAddress": "4630 South Kinnickinnic Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9606098,
+    "lon": -87.864234
+   },
+   "phone": "+14144812727",
+   "website": "https://www.affordablehtg.com/",
+   "opening_hours": "Mo-Fr 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/663979862",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "south-shore-cyclery-cudahy",
+   "name": "South Shore Cyclery",
+   "summary": "South Shore Cyclery is a bike shop in Cudahy, WI at 4758 South Packard Avenue, Cudahy, WI 53110. Phone: +14148310211. Website: https://www.southshorecyclery.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/south-shore-cyclery-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/south-shore-cyclery-cudahy.json",
+   "address": {
+    "streetAddress": "4758 South Packard Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9578475,
+    "lon": -87.8596868
+   },
+   "phone": "+14148310211",
+   "website": "https://www.southshorecyclery.com/",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664002633",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anytime-fitness-cudahy",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Cudahy, WI at 5879 South Packard Avenue, Cudahy, WI 53110. Phone: +14144831921. Website: https://www.anytimefitness.com/gyms/864/cudahy-wi-53110/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-cudahy.json",
+   "address": {
+    "streetAddress": "5879 South Packard Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9378986,
+    "lon": -87.8619373
+   },
+   "phone": "+14144831921",
+   "website": "https://www.anytimefitness.com/gyms/864/cudahy-wi-53110/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10902762473",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "charlies-liquor-and-tobacco-mart-cudahy",
+   "name": "Charlie's Liquor & Tobacco Mart",
+   "summary": "Charlie's Liquor & Tobacco Mart is a liquor store in Cudahy, WI at 6143,6145 South Packard Avenue, Cudahy, WI 53110. Phone: +14147689249. Website: https://www.charliesliquor-tobacco.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charlies-liquor-and-tobacco-mart-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charlies-liquor-and-tobacco-mart-cudahy.json",
+   "address": {
+    "streetAddress": "6143,6145 South Packard Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9326837,
+    "lon": -87.8617232
+   },
+   "phone": "+14147689249",
+   "website": "https://www.charliesliquor-tobacco.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10242423465",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dresden-castle-on-underwood-cudahy",
+   "name": "Dresden Castle on Underwood",
+   "summary": "Dresden Castle on Underwood is an event venue in Cudahy, WI at 3775 East Underwood Avenue, Cudahy, WI 53110. Phone: +14145221880. Website: https://www.dresdencastle.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dresden-castle-on-underwood-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dresden-castle-on-underwood-cudahy.json",
+   "address": {
+    "streetAddress": "3775 East Underwood Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9498487,
+    "lon": -87.8552902
+   },
+   "phone": "+14145221880",
+   "website": "https://www.dresdencastle.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664004643",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "key-magician-cudahy",
+   "name": "Key Magician",
+   "summary": "Key Magician is a locksmith in Cudahy, WI at 4716 South Packard Avenue, Cudahy, WI 53110. Phone: +14144816606. Website: https://keymagician.com/.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/key-magician-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/key-magician-cudahy.json",
+   "address": {
+    "streetAddress": "4716 South Packard Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9586394,
+    "lon": -87.8598865
+   },
+   "phone": "+14144816606",
+   "website": "https://keymagician.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10241140464",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lions-auto-body-cudahy",
+   "name": "Lion's Auto Body",
+   "summary": "Lion's Auto Body is an auto repair shop in Cudahy, WI at 3101 East Carpenter Avenue, Cudahy, WI 53110. Phone: +14144813336.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lions-auto-body-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lions-auto-body-cudahy.json",
+   "address": {
+    "streetAddress": "3101 East Carpenter Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9553107,
+    "lon": -87.8714599
+   },
+   "phone": "+14144813336",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13915057801",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ademi-and-fruchter-llp-cudahy",
+   "name": "Ademi & Fruchter LLP",
+   "summary": "Ademi & Fruchter LLP is a lawyer in Cudahy, WI. Phone: +14144828000. Website: https://www.ademilaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ademi-and-fruchter-llp-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ademi-and-fruchter-llp-cudahy.json",
+   "address": {
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "geo": {
+    "lat": 42.959291,
+    "lon": -87.8593514
+   },
+   "phone": "+14144828000",
+   "website": "https://www.ademilaw.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13430964578",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "showcase-dance-sudio-cudahy",
+   "name": "Showcase Dance Sudio",
+   "summary": "Showcase Dance Sudio is a dance studio in Cudahy, WI. Phone: +14148038228. Website: https://www.showcasedance.org/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/showcase-dance-sudio-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/showcase-dance-sudio-cudahy.json",
+   "address": {
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9589218,
+    "lon": -87.8652436
+   },
+   "phone": "+14148038228",
+   "website": "https://www.showcasedance.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13433192918",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cudahy-dental-cudahy",
+   "name": "Cudahy Dental",
+   "summary": "Cudahy Dental is a dentist in Cudahy, WI at 6217 South Packard Avenue, Cudahy, WI 53110. Website: https://cudahydentalassociates.net/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cudahy-dental-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cudahy-dental-cudahy.json",
+   "address": {
+    "streetAddress": "6217 South Packard Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9314762,
+    "lon": -87.8622053
+   },
+   "website": "https://cudahydentalassociates.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664236351",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ewalds-venus-ford-cudahy",
+   "name": "Ewald's Venus Ford",
+   "summary": "Ewald's Venus Ford is an used car dealer in Cudahy, WI at 2727 East Layton Avenue, Cudahy, WI 53110. Website: https://www.ewaldsvenusford.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ewalds-venus-ford-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ewalds-venus-ford-cudahy.json",
+   "address": {
+    "streetAddress": "2727 East Layton Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9584871,
+    "lon": -87.8764646
+   },
+   "website": "https://www.ewaldsvenusford.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9521986958",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mister-car-wash-cudahy",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Cudahy, WI at 5506,5510 South Packard Avenue, Cudahy, WI 53110. Website: https://www.way.com/carwashdetails/6313675/Mister-Car-Wash-Cudahy.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-cudahy.json",
+   "address": {
+    "streetAddress": "5506,5510 South Packard Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9442408,
+    "lon": -87.8594955
+   },
+   "website": "https://www.way.com/carwashdetails/6313675/Mister-Car-Wash-Cudahy",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664232802",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mr-pauls-hairstyling-cudahy",
+   "name": "Mr Paul's Hairstyling",
+   "summary": "Mr Paul's Hairstyling is a barber shop in Cudahy, WI. Phone: +14144838478.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mr-pauls-hairstyling-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mr-pauls-hairstyling-cudahy.json",
+   "address": {
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9592813,
+    "lon": -87.859251
+   },
+   "phone": "+14144838478",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13430964577",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "affordable-family-storage-cudahy",
+   "name": "Affordable Family Storage",
+   "summary": "Affordable Family Storage is a self-storage facility in Cudahy, WI at 5851 South Packard Avenue, Cudahy, WI 53110.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/affordable-family-storage-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/affordable-family-storage-cudahy.json",
+   "address": {
+    "streetAddress": "5851 South Packard Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9382384,
+    "lon": -87.8620409
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10241140424",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cora-physical-therapy-cudahy",
+   "name": "Cora Physical Therapy",
+   "summary": "Cora Physical Therapy is a physical therapy clinic in Cudahy, WI at 3503 East Layton Avenue, Cudahy, WI 53110.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cora-physical-therapy-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cora-physical-therapy-cudahy.json",
+   "address": {
+    "streetAddress": "3503 East Layton Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9589505,
+    "lon": -87.8620568
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10241140437",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cudahy-place-senior-living-cudahy",
+   "name": "Cudahy Place Senior Living",
+   "summary": "Cudahy Place Senior Living is an assisted living facility in Cudahy, WI at 3460 East Barnard Avenue, Cudahy, WI 53110.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cudahy-place-senior-living-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cudahy-place-senior-living-cudahy.json",
+   "address": {
+    "streetAddress": "3460 East Barnard Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9580665,
+    "lon": -87.8641894
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1173112962",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eddies-liquidation-center-cudahy",
+   "name": "Eddie's Liquidation Center",
+   "summary": "Eddie's Liquidation Center is a furniture store in Cudahy, WI at 5656 South Packard Avenue #8, Cudahy, WI 53110.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eddies-liquidation-center-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eddies-liquidation-center-cudahy.json",
+   "address": {
+    "streetAddress": "5656 South Packard Avenue #8",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9421531,
+    "lon": -87.8584947
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1173500492",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fancy-paws-dog-grooming-cudahy",
+   "name": "Fancy Paws Dog Grooming",
+   "summary": "Fancy Paws Dog Grooming is a dog groomer in Cudahy, WI at 3524 East Layton Avenue, Cudahy, WI 53110.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fancy-paws-dog-grooming-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fancy-paws-dog-grooming-cudahy.json",
+   "address": {
+    "streetAddress": "3524 East Layton Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9592845,
+    "lon": -87.8617892
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13433192930",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "taj-palace-restaurant-and-banquet-cudahy",
+   "name": "Taj Palace Restaurant & Banquet",
+   "summary": "Taj Palace Restaurant & Banquet is an event venue in Cudahy, WI at 3665 East Grange Avenue, Cudahy, WI 53110.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/taj-palace-restaurant-and-banquet-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/taj-palace-restaurant-and-banquet-cudahy.json",
+   "address": {
+    "streetAddress": "3665 East Grange Avenue",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9442629,
+    "lon": -87.8579259
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664232799",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-salvation-army-cudahy",
+   "name": "The Salvation Army",
+   "summary": "The Salvation Army is a thrift store in Cudahy, WI at 5656 South Packard Avenue #7, Cudahy, WI 53110.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-cudahy.json",
+   "address": {
+    "streetAddress": "5656 South Packard Avenue #7",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "postalCode": "53110",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "zip": "53110",
+   "geo": {
+    "lat": 42.9421976,
+    "lon": -87.8586295
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1173500491",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "college-hunks-hauling-junk-and-moving-cudahy",
+   "name": "College Hunks Hauling Junk & Moving",
+   "summary": "College Hunks Hauling Junk & Moving is a moving company in Cudahy, WI at 5656 South Packard Avenue #22, Cudahy, WI.",
+   "categories": [
+    "movers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/college-hunks-hauling-junk-and-moving-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/college-hunks-hauling-junk-and-moving-cudahy.json",
+   "address": {
+    "streetAddress": "5656 South Packard Avenue #22",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9405109,
+    "lon": -87.8578284
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1173500506",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "masterson-staffing-solutions-cudahy",
+   "name": "Masterson Staffing Solutions",
+   "summary": "Masterson Staffing Solutions is a staffing agency in Cudahy, WI at 5656 South Packard Avenue #9, Cudahy, WI.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/masterson-staffing-solutions-cudahy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/masterson-staffing-solutions-cudahy.json",
+   "address": {
+    "streetAddress": "5656 South Packard Avenue #9",
+    "addressLocality": "Cudahy",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cudahy",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9421538,
+    "lon": -87.8583279
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1173500493",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

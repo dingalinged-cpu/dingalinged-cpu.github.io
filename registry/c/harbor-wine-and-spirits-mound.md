@@ -15,7 +15,7 @@ Harbor Wine & Spirits is a liquor store in Mound, MN at 2135 Commerce Boulevard,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/harbor-wine-and-spirits-mound/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/harbor-wine-and-spirits-mound.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12123499329 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Denton Florist is a florist in Denton, TX at 2926 East University Drive #Suite 103, Denton, TX 76209. Phone: +19403876191.
+
+# Denton Florist
+
+- Category: florist
+- Services: florist
+- Address: 2926 East University Drive #Suite 103, Denton, TX 76209
+- City: Denton
+- State: TX
+- ZIP: 76209
+- Coordinates: 33.2325321, -97.0913568
+- Phone: +19403876191
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/denton-florist-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/denton-florist-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/664742497 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

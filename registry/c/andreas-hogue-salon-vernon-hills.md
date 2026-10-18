@@ -15,7 +15,7 @@ ANDREAS HOGUE SALON is a hair salon in Vernon Hills, IL at 901 North Milwaukee A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/andreas-hogue-salon-vernon-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/andreas-hogue-salon-vernon-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/687473900 (license ODbL-1.0); source data as of 2026-06-01

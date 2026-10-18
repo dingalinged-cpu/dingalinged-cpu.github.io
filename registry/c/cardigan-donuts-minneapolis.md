@@ -15,7 +15,7 @@ Cardigan Donuts is a bakery in Minneapolis, MN at 40 South 7th Street #207, Minn
 - Opening hours (OSM syntax): Mo-Fr 06:30-17:30; Sa 08:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cardigan-donuts-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cardigan-donuts-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5955582349 (license ODbL-1.0); source data as of 2026-06-01

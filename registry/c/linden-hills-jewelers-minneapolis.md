@@ -15,7 +15,7 @@ Linden Hills Jewelers is a jewelry store in Minneapolis, MN at 4305 Upton Avenue
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 10:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/linden-hills-jewelers-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/linden-hills-jewelers-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3532499012 (license ODbL-1.0); source data as of 2026-06-01

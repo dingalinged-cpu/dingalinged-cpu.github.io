@@ -15,7 +15,7 @@ New Zion Childcare Academy is a daycare in Chicago, IL at 1900 West 13th Street,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-zion-childcare-academy-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-zion-childcare-academy-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209810588 (license ODbL-1.0); source data as of 2026-07-28

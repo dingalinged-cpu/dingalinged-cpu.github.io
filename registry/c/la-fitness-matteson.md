@@ -15,7 +15,7 @@ LA Fitness is a gym in Matteson, IL at 4701 Lincoln Mall Drive, Matteson, IL 604
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-matteson/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-matteson.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/482799967 (license ODbL-1.0); source data as of 2026-06-01

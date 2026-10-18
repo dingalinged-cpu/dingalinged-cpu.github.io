@@ -15,7 +15,7 @@ Children's Land Learning Center is a preschool in Glenview, IL at 222 Greenwood 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/childrens-land-learning-center-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/childrens-land-learning-center-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1050687063 (license ODbL-1.0); source data as of 2026-07-28

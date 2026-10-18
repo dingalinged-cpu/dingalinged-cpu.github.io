@@ -15,7 +15,7 @@ Cryptid Hair Parlour is a hair salon in Minneapolis, MN at 2358 Stinson Parkway,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cryptid-hair-parlour-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cryptid-hair-parlour-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1038718417 (license ODbL-1.0); source data as of 2026-06-01

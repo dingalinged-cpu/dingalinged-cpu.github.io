@@ -15,7 +15,7 @@ Berwyn Kia is an used car dealer in Berwyn, IL at 7050 Ogden Avenue, Berwyn, IL 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/berwyn-kia-berwyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/berwyn-kia-berwyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/700154426 (license ODbL-1.0); source data as of 2026-06-01

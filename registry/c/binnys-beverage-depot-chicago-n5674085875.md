@@ -15,7 +15,7 @@ Binny's Beverage Depot is a liquor store in Chicago, IL at 1240 East 47th Street
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-chicago-n5674085875/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/binnys-beverage-depot-chicago-n5674085875.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5674085875 (license ODbL-1.0); source data as of 2026-06-01

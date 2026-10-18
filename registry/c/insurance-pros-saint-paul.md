@@ -15,7 +15,7 @@ Insurance Pros is an insurance agent in Saint Paul, MN at 1408 Arcade Street, Sa
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/insurance-pros-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/insurance-pros-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/605096312 (license ODbL-1.0); source data as of 2026-05-31

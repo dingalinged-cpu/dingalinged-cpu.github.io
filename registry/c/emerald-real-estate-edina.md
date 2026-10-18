@@ -15,7 +15,7 @@ Emerald Real Estate is a real estate agency in Edina, MN. Website: https://www.c
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/emerald-real-estate-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/emerald-real-estate-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12139088885 (license ODbL-1.0); source data as of 2026-05-31

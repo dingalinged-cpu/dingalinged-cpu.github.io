@@ -15,7 +15,7 @@ Milagro's Beauty Salon is a hair salon in New Hope, MN at 4341 Winnetka Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/milagros-beauty-salon-new-hope/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/milagros-beauty-salon-new-hope.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7090897687 (license ODbL-1.0); source data as of 2026-06-01

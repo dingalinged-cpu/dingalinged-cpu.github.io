@@ -15,7 +15,7 @@ Spahl Dentistry is a dentist in Saint Paul, MN at 1199, Saint Paul, MN. Phone: +
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/spahl-dentistry-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/spahl-dentistry-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/490000269 (license ODbL-1.0); source data as of 2026-07-24

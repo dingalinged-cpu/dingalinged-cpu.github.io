@@ -15,7 +15,7 @@ Real Health Chiropractic Clinic is a chiropractor in Eden Prairie, MN at 8901 Az
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/real-health-chiropractic-clinic-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/real-health-chiropractic-clinic-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/772803431 (license ODbL-1.0); source data as of 2026-06-01

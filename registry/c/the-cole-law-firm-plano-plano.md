@@ -1,0 +1,23 @@
+The Cole Law Firm - Plano is a lawyer in Plano, TX at 7161 Bishop Rd, Plano, TX. Phone: +19727358412. Website: https://colelawfirm.com/.
+
+# The Cole Law Firm - Plano
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 7161 Bishop Rd, Plano, TX
+- City: Plano
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0754652, -96.8217268
+- Phone: +19727358412
+- Website: https://colelawfirm.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-cole-law-firm-plano-plano/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-cole-law-firm-plano-plano.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6699384684 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

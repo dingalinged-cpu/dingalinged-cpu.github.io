@@ -15,7 +15,7 @@ Richfield Liquor - Downtown is a liquor store in Richfield, MN at 6445 Lyndale A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/richfield-liquor-downtown-richfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/richfield-liquor-downtown-richfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1155595509 (license ODbL-1.0); source data as of 2026-06-01

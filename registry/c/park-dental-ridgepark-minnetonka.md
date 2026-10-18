@@ -15,7 +15,7 @@ Park Dental Ridgepark is a dentist in Minnetonka, MN at 13059 Ridgedale Drive, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/park-dental-ridgepark-minnetonka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/park-dental-ridgepark-minnetonka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2503125447 (license ODbL-1.0); source data as of 2026-07-24

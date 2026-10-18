@@ -15,7 +15,7 @@ WW Studio is a therapy practice in Eden Prairie, MN at 8250 Commonwealth Drive, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ww-studio-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ww-studio-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4145440399 (license ODbL-1.0); source data as of 2026-06-01

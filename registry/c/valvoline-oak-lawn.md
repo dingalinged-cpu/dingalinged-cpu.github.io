@@ -15,7 +15,7 @@ Valvoline is an auto repair shop in Oak Lawn, IL at 6645 West 95th Street, Oak L
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/valvoline-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/valvoline-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1214359891 (license ODbL-1.0); source data as of 2026-06-01

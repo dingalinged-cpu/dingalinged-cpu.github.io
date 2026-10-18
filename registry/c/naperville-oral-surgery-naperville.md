@@ -15,7 +15,7 @@ Naperville Oral Surgery is a dentist in Naperville, IL at 605 South Washington S
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/naperville-oral-surgery-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/naperville-oral-surgery-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/479628535 (license ODbL-1.0); source data as of 2026-07-28

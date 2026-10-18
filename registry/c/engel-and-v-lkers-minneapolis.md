@@ -15,7 +15,7 @@ Engel & Völkers is a real estate agency in Minneapolis, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/engel-and-v-lkers-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/engel-and-v-lkers-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12513647698 (license ODbL-1.0); source data as of 2026-05-31

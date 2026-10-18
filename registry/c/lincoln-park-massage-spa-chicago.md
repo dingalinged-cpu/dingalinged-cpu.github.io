@@ -15,7 +15,7 @@ Lincoln Park Massage Spa is a massage studio in Chicago, IL at 630 West Webster 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lincoln-park-massage-spa-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lincoln-park-massage-spa-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9929776595 (license ODbL-1.0); source data as of 2026-06-01

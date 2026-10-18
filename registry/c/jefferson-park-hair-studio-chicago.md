@@ -15,7 +15,7 @@ Jefferson Park Hair Studio is a hair salon in Chicago, IL at 5506 West Lawrence 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jefferson-park-hair-studio-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jefferson-park-hair-studio-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4238691731 (license ODbL-1.0); source data as of 2026-06-01

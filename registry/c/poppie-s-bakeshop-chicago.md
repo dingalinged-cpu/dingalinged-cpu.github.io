@@ -15,7 +15,7 @@ Poppie’s Bakeshop is a bakery in Chicago, IL at 2600 West 35th Street, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/poppie-s-bakeshop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/poppie-s-bakeshop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6300482040 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,72 @@
+{
+ "place": "Grimes County, TX",
+ "slug": "grimes-county-tx",
+ "count": 2,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "event venues grimes county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-grimes-county-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "bishop-doyle-center-grimes-county",
+   "name": "Bishop Doyle Center",
+   "summary": "Bishop Doyle Center is an event venue in Grimes County, TX.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bishop-doyle-center-grimes-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bishop-doyle-center-grimes-county.json",
+   "address": {
+    "addressLocality": "Grimes County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grimes County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.238745,
+    "lon": -95.9675268
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1067230348",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lakeside-meeting-center-grimes-county",
+   "name": "Lakeside Meeting Center",
+   "summary": "Lakeside Meeting Center is an event venue in Grimes County, TX.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakeside-meeting-center-grimes-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakeside-meeting-center-grimes-county.json",
+   "address": {
+    "addressLocality": "Grimes County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grimes County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2399692,
+    "lon": -95.9736979
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1067230334",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

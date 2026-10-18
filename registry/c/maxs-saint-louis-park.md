@@ -15,7 +15,7 @@ Max's is a jewelry store in Saint Louis Park, MN at 3826 Grand Way, Saint Louis 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/maxs-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/maxs-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4124161390 (license ODbL-1.0); source data as of 2026-06-01

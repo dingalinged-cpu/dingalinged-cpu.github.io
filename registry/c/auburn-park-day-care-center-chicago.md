@@ -15,7 +15,7 @@ Auburn Park Day Care Center is a daycare in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/auburn-park-day-care-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/auburn-park-day-care-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/354228254 (license ODbL-1.0); source data as of 2026-07-28

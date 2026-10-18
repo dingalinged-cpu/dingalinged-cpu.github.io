@@ -15,7 +15,7 @@ Edina Family Chiropractic is a chiropractor in Edina, MN. Website: https://edina
 - Opening hours (OSM syntax): Mo 09:00-16:30; Tu 08:00-13:00; We 12:00-17:30; Th 09:00-16:30; Fr 09:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edina-family-chiropractic-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edina-family-chiropractic-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12139088882 (license ODbL-1.0); source data as of 2026-06-01

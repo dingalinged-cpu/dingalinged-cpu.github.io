@@ -15,7 +15,7 @@ BP is a car wash in Chanhassen, MN at 7755 West 78th Street, Chanhassen, MN 5531
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bp-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bp-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/52255159 (license ODbL-1.0); source data as of 2026-07-24

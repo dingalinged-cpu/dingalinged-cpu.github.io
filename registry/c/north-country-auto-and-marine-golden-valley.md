@@ -15,7 +15,7 @@ North Country Auto & Marine is an electrician in Golden Valley, MN at 710 Pennsy
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/north-country-auto-and-marine-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-country-auto-and-marine-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/411529136 (license ODbL-1.0); source data as of 2026-07-24

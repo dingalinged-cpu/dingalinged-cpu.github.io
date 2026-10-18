@@ -15,7 +15,7 @@ Floral Art by Tim is a florist in Minneapolis, MN at 4751 Chicago Avenue South, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/floral-art-by-tim-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/floral-art-by-tim-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7651142711 (license ODbL-1.0); source data as of 2026-06-01

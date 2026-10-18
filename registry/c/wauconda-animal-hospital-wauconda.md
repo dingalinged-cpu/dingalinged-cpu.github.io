@@ -15,7 +15,7 @@ Wauconda Animal Hospital is a veterinarian in Wauconda, IL at 197 Thomas Court, 
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; We 07:30-17:00; Sa 08:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wauconda-animal-hospital-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wauconda-animal-hospital-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1039482411 (license ODbL-1.0); source data as of 2026-07-28

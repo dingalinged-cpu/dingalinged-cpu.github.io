@@ -15,7 +15,7 @@ The Center for Dental Healing is a dentist in Glenview, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-center-for-dental-healing-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-center-for-dental-healing-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12505265420 (license ODbL-1.0); source data as of 2026-07-28

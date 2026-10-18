@@ -15,7 +15,7 @@ Polish'd Nail & Hair Studio is a nail salon in Wauconda, IL. Phone: +18474698584
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/polishd-nail-and-hair-studio-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/polishd-nail-and-hair-studio-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9802943935 (license ODbL-1.0); source data as of 2026-06-01

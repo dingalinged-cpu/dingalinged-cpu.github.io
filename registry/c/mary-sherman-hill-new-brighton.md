@@ -15,7 +15,7 @@ Mary Sherman Hill is a lawyer in New Brighton, MN at 888 County Road D  West #30
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mary-sherman-hill-new-brighton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mary-sherman-hill-new-brighton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12968381348 (license ODbL-1.0); source data as of 2026-05-31

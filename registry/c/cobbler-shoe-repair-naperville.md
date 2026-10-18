@@ -15,7 +15,7 @@ Cobbler Shoe Repair is a shoe repair in Naperville, IL at 1031 West Ogden Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cobbler-shoe-repair-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cobbler-shoe-repair-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1167160392 (license ODbL-1.0); source data as of 2026-06-01

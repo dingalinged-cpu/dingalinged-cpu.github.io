@@ -15,7 +15,7 @@ Grace's Massage Therapy is a massage studio in Roseville, MN at 1734 Lexington A
 - Opening hours (OSM syntax): Mo-Su 09:30-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/graces-massage-therapy-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/graces-massage-therapy-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7147169434 (license ODbL-1.0); source data as of 2026-06-01

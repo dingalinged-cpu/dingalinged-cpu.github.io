@@ -1,0 +1,23 @@
+Richmond Senior Village is an assisted living facility in Houston, TX at 5615 Richmond Avenue, Houston, TX 77057. Website: https://www.richmondseniorvillage.com/.
+
+# Richmond Senior Village
+
+- Category: assisted living
+- Services: assisted living
+- Address: 5615 Richmond Avenue, Houston, TX 77057
+- City: Houston
+- State: TX
+- ZIP: 77057
+- Coordinates: 29.7308339, -95.4773646
+- Phone: n/a
+- Website: https://www.richmondseniorvillage.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/richmond-senior-village-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/richmond-senior-village-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1393144585 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

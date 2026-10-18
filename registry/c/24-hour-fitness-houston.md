@@ -1,0 +1,23 @@
+24 Hour Fitness is a gym in Houston, TX at 5070 Richmond Avenue, Houston, TX 77056. Phone: +17139639644. Website: https://www.24hourfitness.com/gyms/houston-tx/galleria-sport.
+
+# 24 Hour Fitness
+
+- Category: gym
+- Services: gym
+- Address: 5070 Richmond Avenue, Houston, TX 77056
+- City: Houston
+- State: TX
+- ZIP: 77056
+- Coordinates: 29.7328731, -95.4629351
+- Phone: +17139639644
+- Website: https://www.24hourfitness.com/gyms/houston-tx/galleria-sport
+- Email: n/a
+- Opening hours (OSM syntax): Su-Sa 05:00-23:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/24-hour-fitness-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2375571241 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

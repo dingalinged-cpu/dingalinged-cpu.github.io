@@ -15,7 +15,7 @@ HF Racquet and Fitness Club is a gym in Homewood, IL at 2920 183rd Street, Homew
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hf-racquet-and-fitness-club-homewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hf-racquet-and-fitness-club-homewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/744627110 (license ODbL-1.0); source data as of 2026-06-01

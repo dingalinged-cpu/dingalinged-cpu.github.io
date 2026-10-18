@@ -15,7 +15,7 @@ James Sotheby's International is a real estate agency in Chicago, IL at 425 West
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/james-sothebys-international-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/james-sothebys-international-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210686111 (license ODbL-1.0); source data as of 2026-06-01

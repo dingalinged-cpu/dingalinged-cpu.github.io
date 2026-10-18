@@ -15,7 +15,7 @@ Nuri's Cleaners & Tailor is a dry cleaner in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nuris-cleaners-and-tailor-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nuris-cleaners-and-tailor-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11959072570 (license ODbL-1.0); source data as of 2026-06-01

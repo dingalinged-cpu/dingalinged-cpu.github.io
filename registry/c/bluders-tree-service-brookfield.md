@@ -15,7 +15,7 @@ Bluder's Tree Service is a landscaping company in Brookfield, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bluders-tree-service-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bluders-tree-service-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9511674236 (license ODbL-1.0); source data as of 2026-06-01

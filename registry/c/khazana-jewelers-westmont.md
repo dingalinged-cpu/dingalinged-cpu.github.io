@@ -15,7 +15,7 @@ Khazana Jewelers is a jewelry store in Westmont, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/khazana-jewelers-westmont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/khazana-jewelers-westmont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7246503175 (license ODbL-1.0); source data as of 2026-06-01

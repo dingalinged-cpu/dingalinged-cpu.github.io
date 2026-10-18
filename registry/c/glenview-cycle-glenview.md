@@ -15,7 +15,7 @@ Glenview Cycle is a bike shop in Glenview, IL at 1011 Harlem Avenue, Glenview, I
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 11:00-17:00; Sa 10:00-17:00; Su 11:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/glenview-cycle-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/glenview-cycle-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8174117001 (license ODbL-1.0); source data as of 2026-06-01

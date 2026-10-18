@@ -15,7 +15,7 @@ Mowery & Schoenfeld Wealth Management is a financial advisor in Lake Forest, IL 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mowery-and-schoenfeld-wealth-management-lake-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mowery-and-schoenfeld-wealth-management-lake-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1509807539 (license ODbL-1.0); source data as of 2026-07-28

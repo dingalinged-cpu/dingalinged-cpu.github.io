@@ -1,0 +1,23 @@
+Fashion Home Furniture is a furniture store in Garland, TX at 336 West Interstate 30, Garland, TX 75043.
+
+# Fashion Home Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: 336 West Interstate 30, Garland, TX 75043
+- City: Garland
+- State: TX
+- ZIP: 75043
+- Coordinates: 32.8415665, -96.5900224
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/fashion-home-furniture-garland/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fashion-home-furniture-garland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/645030309 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

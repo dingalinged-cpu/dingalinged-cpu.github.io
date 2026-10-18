@@ -15,7 +15,7 @@ State Farm is an insurance agent in Naperville, IL at 1009 West Ogden Avenue #B,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8493340799 (license ODbL-1.0); source data as of 2026-07-28

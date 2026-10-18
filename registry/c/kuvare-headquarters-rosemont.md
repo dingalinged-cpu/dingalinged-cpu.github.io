@@ -15,7 +15,7 @@ Kuvare Headquarters is an insurance agent in Rosemont, IL at 5600 North River Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kuvare-headquarters-rosemont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kuvare-headquarters-rosemont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12780128401 (license ODbL-1.0); source data as of 2026-07-28

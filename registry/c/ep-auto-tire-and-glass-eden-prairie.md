@@ -15,7 +15,7 @@ EP Auto, Tire & Glass is a tire shop in Eden Prairie, MN at 12479 Plaza Drive, E
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:30; Sa,Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ep-auto-tire-and-glass-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ep-auto-tire-and-glass-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2699285065 (license ODbL-1.0); source data as of 2026-06-01

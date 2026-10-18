@@ -15,7 +15,7 @@ Mastertech Auto & Tire is an auto repair shop in Newport, MN at 1206 Hastings Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mastertech-auto-and-tire-newport/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mastertech-auto-and-tire-newport.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/607537301 (license ODbL-1.0); source data as of 2026-06-01

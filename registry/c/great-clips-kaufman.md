@@ -1,0 +1,23 @@
+Great Clips is a hair salon in Kaufman, TX at 100 Kings Fort Parkway, Kaufman, TX 75142.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 100 Kings Fort Parkway, Kaufman, TX 75142
+- City: Kaufman
+- State: TX
+- ZIP: 75142
+- Coordinates: 32.5709185, -96.3083074
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-kaufman/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-kaufman.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8272957476 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

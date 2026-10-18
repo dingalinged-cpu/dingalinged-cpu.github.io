@@ -15,7 +15,7 @@ Boulevard Collision is an auto repair shop in Golden Valley, MN at 6901 Laurel A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/boulevard-collision-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/boulevard-collision-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/410084636 (license ODbL-1.0); source data as of 2026-06-01

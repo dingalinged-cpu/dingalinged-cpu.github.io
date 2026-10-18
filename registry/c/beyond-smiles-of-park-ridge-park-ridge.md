@@ -15,7 +15,7 @@ Beyond Smiles of Park Ridge is a dentist in Park Ridge, IL at 650 North Northwes
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/beyond-smiles-of-park-ridge-park-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/beyond-smiles-of-park-ridge-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7350247417 (license ODbL-1.0); source data as of 2026-07-28

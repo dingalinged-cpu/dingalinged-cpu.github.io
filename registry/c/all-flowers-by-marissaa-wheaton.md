@@ -15,7 +15,7 @@ All Flowers By Marissaa is a florist in Wheaton, IL at 26w225 Geneva Road, Wheat
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/all-flowers-by-marissaa-wheaton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/all-flowers-by-marissaa-wheaton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2798968574 (license ODbL-1.0); source data as of 2026-06-01

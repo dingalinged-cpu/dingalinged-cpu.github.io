@@ -15,7 +15,7 @@ Kensho Martial Arts is a martial arts school in Chicago, IL at 1030 West North A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kensho-martial-arts-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kensho-martial-arts-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6187957239 (license ODbL-1.0); source data as of 2026-07-28

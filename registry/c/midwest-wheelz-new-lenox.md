@@ -15,7 +15,7 @@ Midwest Wheelz is an auto repair shop in New Lenox, IL at 290 East Lincoln Highw
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midwest-wheelz-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midwest-wheelz-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/995777688 (license ODbL-1.0); source data as of 2026-06-01

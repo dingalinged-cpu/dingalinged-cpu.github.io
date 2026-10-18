@@ -15,7 +15,7 @@ Bicycles Etc. is a bike shop in Lisle, IL at 6460 College Road, Lisle, IL 60532.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bicycles-etc-lisle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bicycles-etc-lisle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2488199601 (license ODbL-1.0); source data as of 2026-06-01

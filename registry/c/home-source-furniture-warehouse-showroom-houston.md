@@ -1,0 +1,23 @@
+Home Source Furniture Warehouse Showroom is a furniture store in Houston, TX at 1055 West Sam Houston Parkway North #112, Houston, TX 77043.
+
+# Home Source Furniture Warehouse Showroom
+
+- Category: furniture store
+- Services: furniture store
+- Address: 1055 West Sam Houston Parkway North #112, Houston, TX 77043
+- City: Houston
+- State: TX
+- ZIP: 77043
+- Coordinates: 29.7879955, -95.5649775
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/home-source-furniture-warehouse-showroom-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/home-source-furniture-warehouse-showroom-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6733357455 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

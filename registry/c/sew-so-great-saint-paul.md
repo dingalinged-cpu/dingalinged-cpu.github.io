@@ -15,7 +15,7 @@ Sew So Great is a tailor in Saint Paul, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sew-so-great-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sew-so-great-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2684468152 (license ODbL-1.0); source data as of 2026-07-24

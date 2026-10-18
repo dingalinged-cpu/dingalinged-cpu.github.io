@@ -1,0 +1,23 @@
+VCA Animal Hospital is a veterinarian in Flower Mound, TX at 3041 Long Prairie Road, Flower Mound, TX. Phone: +19725391800.
+
+# VCA Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: 3041 Long Prairie Road, Flower Mound, TX
+- City: Flower Mound
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0273715, -97.0714225
+- Phone: +19725391800
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-15:00; PH closed
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-flower-mound/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-flower-mound.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/707941327 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

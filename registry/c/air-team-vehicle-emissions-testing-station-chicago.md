@@ -15,7 +15,7 @@ Air Team Vehicle Emissions Testing Station is a vehicle inspection station in Ch
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00 ; Sa 07:30-13:00 ; Su off ; PH off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/air-team-vehicle-emissions-testing-station-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/air-team-vehicle-emissions-testing-station-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163305553 (license ODbL-1.0); source data as of 2026-07-28

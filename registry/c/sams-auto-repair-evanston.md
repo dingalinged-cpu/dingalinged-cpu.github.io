@@ -15,7 +15,7 @@ Sam's Auto Repair is an auto repair shop in Evanston, IL at 2311 Main Street, Ev
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sams-auto-repair-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sams-auto-repair-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2294252530 (license ODbL-1.0); source data as of 2026-06-01

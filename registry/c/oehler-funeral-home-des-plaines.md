@@ -15,7 +15,7 @@ Oehler Funeral Home is a funeral home in Des Plaines, IL at 2099 Miner Street, D
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oehler-funeral-home-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oehler-funeral-home-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2298844581 (license ODbL-1.0); source data as of 2026-06-01

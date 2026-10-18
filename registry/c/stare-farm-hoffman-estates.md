@@ -15,7 +15,7 @@ Stare Farm is an insurance agent in Hoffman Estates, IL at 2338 West Higgins Roa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/stare-farm-hoffman-estates/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/stare-farm-hoffman-estates.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1319298244 (license ODbL-1.0); source data as of 2026-07-28

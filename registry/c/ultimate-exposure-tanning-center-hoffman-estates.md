@@ -15,7 +15,7 @@ Ultimate Exposure Tanning Center is a tanning salon in Hoffman Estates, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ultimate-exposure-tanning-center-hoffman-estates/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ultimate-exposure-tanning-center-hoffman-estates.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5047141149 (license ODbL-1.0); source data as of 2026-06-01

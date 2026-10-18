@@ -15,7 +15,7 @@ Shinin' Brightly Electric LLC is an electrician in White Bear Lake, MN at 2130 1
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shinin-brightly-electric-llc-white-bear-lake/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shinin-brightly-electric-llc-white-bear-lake.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13735737138 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Shell Rapid Lube is an auto repair shop in Eagan, MN at 1570 Thomas Center Drive
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shell-rapid-lube-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shell-rapid-lube-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/528933335 (license ODbL-1.0); source data as of 2026-06-01

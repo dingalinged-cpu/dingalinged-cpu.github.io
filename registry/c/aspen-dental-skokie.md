@@ -15,7 +15,7 @@ Aspen Dental is a dentist in Skokie, IL at 5225-5227 West Touhy Avenue, Skokie, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/aspen-dental-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/aspen-dental-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1500632383 (license ODbL-1.0); source data as of 2026-07-28

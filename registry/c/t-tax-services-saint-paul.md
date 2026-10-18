@@ -15,7 +15,7 @@ T-Tax Services is a tax preparation service in Saint Paul, MN at 1233 Payne Aven
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-17:00; Tu,Th 16:00-18:00; Sa,Su 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/t-tax-services-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/t-tax-services-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/605070010 (license ODbL-1.0); source data as of 2026-05-31

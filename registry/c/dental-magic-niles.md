@@ -15,7 +15,7 @@ Dental Magic is a dentist in Niles, IL at 5622 West Touhy Avenue, Niles, IL 6071
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dental-magic-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dental-magic-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/688483251 (license ODbL-1.0); source data as of 2026-07-28

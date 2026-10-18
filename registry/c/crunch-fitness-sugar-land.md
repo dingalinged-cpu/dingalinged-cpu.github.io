@@ -1,0 +1,23 @@
+Crunch Fitness is a gym in Sugar Land, TX at 15385 Southwest Freeway, Sugar Land, TX.
+
+# Crunch Fitness
+
+- Category: gym
+- Services: gym
+- Address: 15385 Southwest Freeway, Sugar Land, TX
+- City: Sugar Land
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.6033521, -95.6134071
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/crunch-fitness-sugar-land/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/crunch-fitness-sugar-land.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9998550517 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

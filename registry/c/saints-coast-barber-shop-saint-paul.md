@@ -15,7 +15,7 @@ Saints Coast Barber Shop is a barber shop in Saint Paul, MN at 666 7th Street We
 - Opening hours (OSM syntax): Tu-Fr 09:00-18:00; Sa 10:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/saints-coast-barber-shop-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/saints-coast-barber-shop-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13697081467 (license ODbL-1.0); source data as of 2026-06-01

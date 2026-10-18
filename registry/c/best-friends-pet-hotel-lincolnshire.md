@@ -15,7 +15,7 @@ Best Friends Pet Hotel is a dog boarding facility in Lincolnshire, IL at 22096 N
 - Opening hours (OSM syntax): 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/best-friends-pet-hotel-lincolnshire/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/best-friends-pet-hotel-lincolnshire.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1222801067 (license ODbL-1.0); source data as of 2026-07-28

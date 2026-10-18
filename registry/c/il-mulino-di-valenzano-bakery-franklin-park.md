@@ -15,7 +15,7 @@ Il Mulino Di Valenzano Bakery is a bakery in Franklin Park, IL at 3853 Carnation
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/il-mulino-di-valenzano-bakery-franklin-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/il-mulino-di-valenzano-bakery-franklin-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11837316004 (license ODbL-1.0); source data as of 2026-06-01

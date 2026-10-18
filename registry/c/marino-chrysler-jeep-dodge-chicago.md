@@ -15,7 +15,7 @@ Marino Chrysler Jeep Dodge is an used car dealer in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/marino-chrysler-jeep-dodge-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/marino-chrysler-jeep-dodge-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/762167390 (license ODbL-1.0); source data as of 2026-06-01

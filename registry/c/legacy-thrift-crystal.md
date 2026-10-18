@@ -15,7 +15,7 @@ Legacy Thrift is a thrift store in Crystal, MN at 4713 36th Avenue North, Crysta
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/legacy-thrift-crystal/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/legacy-thrift-crystal.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1170959650 (license ODbL-1.0); source data as of 2026-06-01

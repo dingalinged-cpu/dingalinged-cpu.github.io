@@ -1,0 +1,23 @@
+Goodyear is an auto repair shop in Glendale, WI at 6130 North Port Washington Road, Glendale, WI 53217.
+
+# Goodyear
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 6130 North Port Washington Road, Glendale, WI 53217
+- City: Glendale
+- State: WI
+- ZIP: 53217
+- Coordinates: 43.1284002, -87.9123842
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/goodyear-glendale/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodyear-glendale.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/73903962 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

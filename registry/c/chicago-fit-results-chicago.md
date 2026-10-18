@@ -15,7 +15,7 @@ Chicago Fit Results is a gym in Chicago, IL at 731 South Plymouth Court, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chicago-fit-results-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicago-fit-results-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11175366175 (license ODbL-1.0); source data as of 2026-06-01

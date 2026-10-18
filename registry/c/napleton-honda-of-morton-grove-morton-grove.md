@@ -15,7 +15,7 @@ Napleton Honda of Morton Grove is an auto repair shop in Morton Grove, IL at 690
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/napleton-honda-of-morton-grove-morton-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/napleton-honda-of-morton-grove-morton-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1216097957 (license ODbL-1.0); source data as of 2026-06-01

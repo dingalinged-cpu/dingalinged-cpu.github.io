@@ -15,7 +15,7 @@ Solidcore is a gym in Chicago, IL at 325 East Illinois Street, Chicago, IL 60611
 - Opening hours (OSM syntax): Mo-Su 05:30-19:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/solidcore-chicago-n13323155202/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/solidcore-chicago-n13323155202.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13323155202 (license ODbL-1.0); source data as of 2026-06-01

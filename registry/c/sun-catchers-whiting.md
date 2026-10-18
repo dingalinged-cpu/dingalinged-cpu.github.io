@@ -15,7 +15,7 @@ Sun Catchers is a gift shop in Whiting, IN at 1348 119th Street, Whiting, IN 463
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sun-catchers-whiting/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sun-catchers-whiting.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1232071700 (license ODbL-1.0); source data as of 2026-06-01

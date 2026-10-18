@@ -15,7 +15,7 @@ MINISO is a gift shop in Bloomington, MN at 212 East Broadway, Bloomington, MN.
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/miniso-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/miniso-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13723837417 (license ODbL-1.0); source data as of 2026-06-01

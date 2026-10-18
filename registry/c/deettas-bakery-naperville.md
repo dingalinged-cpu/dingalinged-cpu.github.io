@@ -15,7 +15,7 @@ DeEtta's Bakery is a bakery in Naperville, IL at 428 West 5th Avenue, Naperville
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00; Sa 06:30-14:00; Su 07:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/deettas-bakery-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/deettas-bakery-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8307889441 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Millington Financial Advisors is a financial advisor in Naperville, IL at 222 So
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/millington-financial-advisors-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/millington-financial-advisors-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9217000172 (license ODbL-1.0); source data as of 2026-07-28

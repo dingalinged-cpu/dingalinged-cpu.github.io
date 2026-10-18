@@ -15,7 +15,7 @@ CycleBar is a gym in Burr Ridge, IL at 124 Burr Ridge Parkway, Burr Ridge, IL 60
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cyclebar-burr-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cyclebar-burr-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10837806887 (license ODbL-1.0); source data as of 2026-06-01

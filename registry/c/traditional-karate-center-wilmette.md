@@ -15,7 +15,7 @@ Traditional Karate Center is a martial arts school in Wilmette, IL at 3545 Lake 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/traditional-karate-center-wilmette/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/traditional-karate-center-wilmette.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10178940796 (license ODbL-1.0); source data as of 2026-07-28

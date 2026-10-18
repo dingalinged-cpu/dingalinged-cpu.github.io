@@ -15,7 +15,7 @@ Canine Coach is a dog boarding facility in Saint Paul, MN at 1044 Front Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/canine-coach-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/canine-coach-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/700718800 (license ODbL-1.0); source data as of 2026-07-24

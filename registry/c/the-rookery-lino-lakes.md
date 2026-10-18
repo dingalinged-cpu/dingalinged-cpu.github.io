@@ -15,7 +15,7 @@ The Rookery is a gym in Lino Lakes, MN. Website: https://linolakes.us/158/The-Ro
 - Opening hours (OSM syntax): Mo-Fr 05:00-22:00; Sa,Su 06:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-rookery-lino-lakes/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-rookery-lino-lakes.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6416096001 (license ODbL-1.0); source data as of 2026-07-15

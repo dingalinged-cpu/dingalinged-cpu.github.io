@@ -15,7 +15,7 @@ Chicago Cat Clinic is a veterinarian in Chicago, IL at 5301 West Devon Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chicago-cat-clinic-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicago-cat-clinic-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162836587 (license ODbL-1.0); source data as of 2026-07-28

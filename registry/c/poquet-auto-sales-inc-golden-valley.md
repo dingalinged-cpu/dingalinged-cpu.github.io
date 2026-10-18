@@ -15,7 +15,7 @@ Poquet Auto Sales, Inc. is an used car dealer in Golden Valley, MN at 800 Lilac 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/poquet-auto-sales-inc-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/poquet-auto-sales-inc-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/434772760 (license ODbL-1.0); source data as of 2026-06-01

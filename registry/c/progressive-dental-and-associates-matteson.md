@@ -15,7 +15,7 @@ Progressive Dental & Associates is a dentist in Matteson, IL at 20402 Crawford A
 - Opening hours (OSM syntax): Mo,We,Th 08:00-17:00; Tu,Fr 08:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/progressive-dental-and-associates-matteson/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/progressive-dental-and-associates-matteson.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9737492752 (license ODbL-1.0); source data as of 2026-07-28

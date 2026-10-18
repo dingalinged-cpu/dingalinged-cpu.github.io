@@ -15,7 +15,7 @@ Master Collision Group is an auto repair shop in Chanhassen, MN at 227 West 79th
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/master-collision-group-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/master-collision-group-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/42850386 (license ODbL-1.0); source data as of 2026-06-01

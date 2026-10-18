@@ -15,7 +15,7 @@ Mattress Firm is a mattress store in Mount Prospect, IL at 1020 East Central Roa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-mount-prospect/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-mount-prospect.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1171896990 (license ODbL-1.0); source data as of 2026-06-01

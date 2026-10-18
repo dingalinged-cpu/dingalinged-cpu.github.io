@@ -1,0 +1,23 @@
+McKinney Locksmith is a locksmith in McKinney, TX at 400 North Central Expressway, McKinney, TX 75070. Phone: +14697125600. Website: https://www.mckinneylocksmiths.net/.
+
+# McKinney Locksmith
+
+- Category: locksmith
+- Services: locksmith
+- Address: 400 North Central Expressway, McKinney, TX 75070
+- City: McKinney
+- State: TX
+- ZIP: 75070
+- Coordinates: 33.1998297, -96.6370833
+- Phone: +14697125600
+- Website: https://www.mckinneylocksmiths.net/
+- Email: woodword@mckinneylocksmiths.net
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mckinney-locksmith-mckinney/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mckinney-locksmith-mckinney.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5442931663 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

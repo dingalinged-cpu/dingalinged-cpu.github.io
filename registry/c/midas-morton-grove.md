@@ -15,7 +15,7 @@ Midas is an auto repair shop in Morton Grove, IL at 5610 West Dempster Street, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midas-morton-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midas-morton-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1009325115 (license ODbL-1.0); source data as of 2026-06-01

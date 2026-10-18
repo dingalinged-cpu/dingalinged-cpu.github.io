@@ -15,7 +15,7 @@ Extra Space Storage is a self-storage facility in River Grove, IL at 3000 Des Pl
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-river-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-river-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/284682429 (license ODbL-1.0); source data as of 2026-06-01

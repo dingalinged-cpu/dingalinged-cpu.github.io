@@ -15,7 +15,7 @@ Cardinal Wine & Spirit is a liquor store in Chicago, IL at 4905 North Lincoln Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cardinal-wine-and-spirit-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cardinal-wine-and-spirit-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6280499755 (license ODbL-1.0); source data as of 2026-06-01

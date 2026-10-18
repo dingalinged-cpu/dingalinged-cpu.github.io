@@ -15,7 +15,7 @@ Storchak Cleaners is a dry cleaner in Minneapolis, MN at 705 Douglas Avenue, Min
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/storchak-cleaners-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/storchak-cleaners-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9336288137 (license ODbL-1.0); source data as of 2026-06-01

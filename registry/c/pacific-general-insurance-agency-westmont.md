@@ -15,7 +15,7 @@ Pacific General Insurance Agency is an insurance agent in Westmont, IL at 210 Qu
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pacific-general-insurance-agency-westmont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pacific-general-insurance-agency-westmont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6189323494 (license ODbL-1.0); source data as of 2026-07-28

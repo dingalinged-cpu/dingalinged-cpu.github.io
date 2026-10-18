@@ -1,0 +1,58 @@
+Keyword market for Franklin, WI: 42 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Milwaukee-Waukesha, WI metro (US volume x population share).
+
+# Top keywords in Franklin, WI
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage franklin wi | searches/mo 23,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-franklin-wi/
+2. car wash franklin wi | searches/mo 8,400 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-franklin-wi/
+3. dentist franklin wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-franklin-wi/
+4. gym franklin wi | searches/mo 8,400 (est) | CPC $1.67 | value $14,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/gym-franklin-wi/
+5. oil change franklin wi | searches/mo 8,400 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-franklin-wi/
+6. hair salon franklin wi | searches/mo 6,900 (est) | CPC $0.55 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/hair-salon-franklin-wi/
+7. nail salon franklin wi | searches/mo 4,600 (est) | CPC $0.61 | value $2,800 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/nail-salon-franklin-wi/
+8. mechanic franklin wi | searches/mo 3,100 (est) | CPC $4.35 | value $13,000 | Google Ads equiv $750/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/mechanic-franklin-wi/
+9. tire shop franklin wi | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tire-shop-franklin-wi/
+10. vet franklin wi | searches/mo 2,500 (est) | CPC $4.06 | value $10,000 | Google Ads equiv $670/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-franklin-wi/
+11. dog groomer franklin wi | searches/mo 2,100 (est) | CPC $4.06 | value $8,500 | Google Ads equiv $560/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-franklin-wi/
+12. haircut franklin wi | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-franklin-wi/
+13. auto repair franklin wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/auto-repair-franklin-wi/
+14. chiropractor franklin wi | searches/mo 1,100 (est) | CPC $4.76 | value $5,200 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/chiropractor-franklin-wi/
+15. financial advisor franklin wi | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-franklin-wi/
+
+## By CPC
+1. storage units franklin wi | searches/mo 1,000 (est) | CPC $8.33 | value $8,300 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/storage-units-franklin-wi/
+2. martial arts franklin wi | searches/mo 1,400 (est) | CPC $6.17 | value $8,600 | Google Ads equiv $620/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/martial-arts-franklin-wi/
+3. tax preparer franklin wi | searches/mo 280 (est) | CPC $5.87 | value $1,600 | Google Ads equiv $93.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-franklin-wi/
+4. daycare franklin wi | searches/mo 1,000 (est) | CPC $4.81 | value $4,800 | Google Ads equiv $280/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/daycare-franklin-wi/
+5. preschool franklin wi | searches/mo 1,000 (est) | CPC $4.81 | value $4,800 | Google Ads equiv $280/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/preschool-franklin-wi/
+6. chiropractor franklin wi | searches/mo 1,100 (est) | CPC $4.76 | value $5,200 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/chiropractor-franklin-wi/
+7. dermatologist franklin wi | searches/mo 1,000 (est) | CPC $4.76 | value $4,800 | Google Ads equiv $320/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dermatologist-franklin-wi/
+8. physical therapy franklin wi | searches/mo 1,000 (est) | CPC $4.76 | value $4,800 | Google Ads equiv $320/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/physical-therapy-franklin-wi/
+9. plastic surgeon franklin wi | searches/mo 150 (est) | CPC $4.76 | value $710 | Google Ads equiv $48.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plastic-surgeon-franklin-wi/
+10. dentist franklin wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-franklin-wi/
+11. haircut franklin wi | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-franklin-wi/
+12. massage franklin wi | searches/mo 23,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-franklin-wi/
+13. tanning salon franklin wi | searches/mo 140 (est) | CPC $4.62 | value $650 | Google Ads equiv $37.00/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tanning-salon-franklin-wi/
+14. auto body shop franklin wi | searches/mo 280 (est) | CPC $4.35 | value $1,200 | Google Ads equiv $68.00/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-body-shop-franklin-wi/
+15. auto repair franklin wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/auto-repair-franklin-wi/
+
+## By value (searches x CPC)
+1. massage franklin wi | searches/mo 23,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-franklin-wi/
+2. dentist franklin wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-franklin-wi/
+3. car wash franklin wi | searches/mo 8,400 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-franklin-wi/
+4. oil change franklin wi | searches/mo 8,400 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-franklin-wi/
+5. gym franklin wi | searches/mo 8,400 (est) | CPC $1.67 | value $14,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/gym-franklin-wi/
+6. mechanic franklin wi | searches/mo 3,100 (est) | CPC $4.35 | value $13,000 | Google Ads equiv $750/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/mechanic-franklin-wi/
+7. tire shop franklin wi | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tire-shop-franklin-wi/
+8. vet franklin wi | searches/mo 2,500 (est) | CPC $4.06 | value $10,000 | Google Ads equiv $670/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-franklin-wi/
+9. dog groomer franklin wi | searches/mo 2,100 (est) | CPC $4.06 | value $8,500 | Google Ads equiv $560/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-franklin-wi/
+10. haircut franklin wi | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-franklin-wi/
+11. auto repair franklin wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/auto-repair-franklin-wi/
+12. chiropractor franklin wi | searches/mo 1,100 (est) | CPC $4.76 | value $5,200 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/chiropractor-franklin-wi/
+13. hair salon franklin wi | searches/mo 6,900 (est) | CPC $0.55 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/hair-salon-franklin-wi/
+14. financial advisor franklin wi | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-franklin-wi/
+15. real estate agent franklin wi | searches/mo 930 (est) | CPC $3.61 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-franklin-wi/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

@@ -15,7 +15,7 @@ MPLS Roofing is a roofer in Minneapolis, MN at 600 North Washington Avenue, Minn
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mpls-roofing-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mpls-roofing-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10295009752 (license ODbL-1.0); source data as of 2026-07-24

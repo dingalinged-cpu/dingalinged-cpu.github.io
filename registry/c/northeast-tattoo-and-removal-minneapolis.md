@@ -15,7 +15,7 @@ Northeast Tattoo & Removal is a tattoo shop in Minneapolis, MN at 800 Northeast 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northeast-tattoo-and-removal-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northeast-tattoo-and-removal-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1127930816 (license ODbL-1.0); source data as of 2026-06-01

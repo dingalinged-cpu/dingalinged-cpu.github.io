@@ -15,7 +15,7 @@ Mary Meyer School is a preschool in Chicago, IL. Website: https://www.marymeyer.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mary-meyer-school-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mary-meyer-school-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/354234739 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ North Central Mosquito Control Association is a pest control company in Saint Pa
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/north-central-mosquito-control-association-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-central-mosquito-control-association-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/125699640 (license ODbL-1.0); source data as of 2026-05-31

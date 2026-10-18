@@ -15,7 +15,7 @@ LA Nails is a nail salon in Saint Paul, MN at 1102 Grand Avenue, Saint Paul, MN 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-nails-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-nails-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1313773983 (license ODbL-1.0); source data as of 2026-06-01

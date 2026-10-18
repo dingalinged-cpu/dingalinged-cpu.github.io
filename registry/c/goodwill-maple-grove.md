@@ -15,7 +15,7 @@ Goodwill is a thrift store in Maple Grove, MN at 9530 Dunkirk Lane North, Maple 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7098674059 (license ODbL-1.0); source data as of 2026-06-01

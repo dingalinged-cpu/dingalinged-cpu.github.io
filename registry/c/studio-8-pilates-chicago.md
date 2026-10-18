@@ -15,7 +15,7 @@ Studio 8 Pilates is a pilates studio in Chicago, IL at 3656 North Lincoln Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/studio-8-pilates-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/studio-8-pilates-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9865431826 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ ColorMe Nails is a nail salon in Naperville, IL at 43 87th Street #115, Napervil
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/colorme-nails-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/colorme-nails-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/998234216 (license ODbL-1.0); source data as of 2026-06-01

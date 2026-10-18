@@ -15,7 +15,7 @@ Chicagoland Bicycle is a bike shop in Chicago, IL at 10355 South Kedzie Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chicagoland-bicycle-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicagoland-bicycle-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/165052990 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Brother's Barber Shop is a barber shop in Mundelein, IL at 439 North Lake Street
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brothers-barber-shop-mundelein/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brothers-barber-shop-mundelein.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/570024043 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Professional Truck Driving School is a driving school in Summit, IL at 6246 Sout
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/professional-truck-driving-school-summit/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/professional-truck-driving-school-summit.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9958528349 (license ODbL-1.0); source data as of 2026-07-28

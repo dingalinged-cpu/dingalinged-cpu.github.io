@@ -15,7 +15,7 @@ YogaFit is a yoga studio in Edina, MN at 4507 France Avenue South, Edina, MN 554
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/yogafit-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/yogafit-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1308726159 (license ODbL-1.0); source data as of 2026-07-15

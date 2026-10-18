@@ -15,7 +15,7 @@ American Family Insurance is an insurance agent in Chanhassen, MN at 7955 Stone 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/american-family-insurance-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6734428576 (license ODbL-1.0); source data as of 2026-05-31

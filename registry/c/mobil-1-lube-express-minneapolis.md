@@ -15,7 +15,7 @@ Mobil 1 Lube Express is an auto repair shop in Minneapolis, MN at 328 Cedar Lake
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-1-lube-express-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-1-lube-express-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9104267168 (license ODbL-1.0); source data as of 2026-06-01

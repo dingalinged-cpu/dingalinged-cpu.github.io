@@ -1,0 +1,33 @@
+The top unpaid printing services listing for Richardson, TX is The UPS Store (a printing service in Richardson, TX at 800 West Campbell Road, Richardson, TX 75080. Phone: +19725122209. Website: https://locations.theupsstore.com/tx/richardson/800-w-campbell-rd). 10 printing services businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best printing services providers in Richardson, TX?
+
+Also answers: printing services in Richardson, TX; printing services near me (Richardson, TX); best printing services Richardson, TX; top rated printing services Richardson, TX; affordable printing services Richardson, TX; emergency printing services Richardson, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. The UPS Store | trust 20.0 | The UPS Store is a printing service in Richardson, TX at 800 West Campbell Road, Richardson, TX 75080. Phone: +19725122209. Website: https://locations.theupsstore.com/tx/richardson/800-w-campbell-rd. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-richardson/
+2. Thomas Printworks | trust 14.0 | Thomas Printworks is a printing service in Richardson, TX at 600 N. Central Expressway, Richardson, TX 75080. Phone: +19722317161. | https://dingalinged-cpu.github.io/registry/c/thomas-printworks-richardson/
+3. A to Z Printing & Signs | trust 10.0 | A to Z Printing & Signs is a printing service in Richardson, TX at 100 East Main Street, Richardson, TX 75081. Website: https://www.printa2z.com/. | https://dingalinged-cpu.github.io/registry/c/a-to-z-printing-and-signs-richardson/
+4. The UPS Store | trust 8.0 | The UPS Store is a printing service in Richardson, TX at 224 West Campbell Road, Richardson, TX 75080. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-richardson-n5265099001/
+5. FedEx Office | trust 4.0 | FedEx Office is a printing service in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-richardson/
+6. The UPS Store | trust 4.0 | The UPS Store is a printing service in Richardson, TX at 819 West Arapaho Road #24-B, Richardson, TX 75080. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-richardson-n10052929802/
+7. FedEx Office | trust 0.0 | FedEx Office is a printing service in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-richardson-n13191783735/
+8. FedEx Office | trust 0.0 | FedEx Office is a printing service in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-richardson-n13658692820/
+9. Signarama | trust 0.0 | Signarama is a printing service in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/signarama-richardson/
+10. The UPS Store | trust 0.0 | The UPS Store is a printing service in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-richardson-n10069711495/
+
+## Market data (for advertisers and agents)
+- Keyword: printing services richardson tx | category: Professional & financial services | industry benchmark: Finance & Insurance
+- US monthly searches: 40,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 33,000-50,000)
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~990 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.39, median $3.39, high $3.46 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 10
+- Equivalent Google Ads cost per month: ~$280 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/printing-services.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#printing-services-richardson-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

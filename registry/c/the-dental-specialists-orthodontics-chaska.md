@@ -15,7 +15,7 @@ The Dental Specialists Orthodontics is a dentist in Chaska, MN at 1150 Hazeltine
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-dental-specialists-orthodontics-chaska/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-dental-specialists-orthodontics-chaska.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1021270932 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ St. Croix Cleaners is a dry cleaner in Saint Paul, MN at 300 Snelling Avenue Sou
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/st-croix-cleaners-saint-paul-n8663748457/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/st-croix-cleaners-saint-paul-n8663748457.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8663748457 (license ODbL-1.0); source data as of 2026-06-01

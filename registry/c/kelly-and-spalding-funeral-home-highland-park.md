@@ -15,7 +15,7 @@ Kelly & Spalding Funeral Home is a funeral home in Highland Park, IL at 1787 Dee
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kelly-and-spalding-funeral-home-highland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kelly-and-spalding-funeral-home-highland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/545554090 (license ODbL-1.0); source data as of 2026-06-01

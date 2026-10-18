@@ -15,7 +15,7 @@ MPX Elite Fitness is a gym in Homer Glen, IL at 15301 South Bell Road, Homer Gle
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mpx-elite-fitness-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mpx-elite-fitness-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/293320381 (license ODbL-1.0); source data as of 2026-06-01

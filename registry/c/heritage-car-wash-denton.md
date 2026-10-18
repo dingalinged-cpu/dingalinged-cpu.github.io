@@ -1,0 +1,23 @@
+Heritage Car Wash is a car wash in Denton, TX.
+
+# Heritage Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: Denton, TX
+- City: Denton
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.1894048, -97.1025725
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/heritage-car-wash-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/heritage-car-wash-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/298346626 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

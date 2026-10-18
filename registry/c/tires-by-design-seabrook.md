@@ -1,0 +1,23 @@
+Tires By Design is a tire shop in Seabrook, TX at 2801 East NASA Parkway, Seabrook, TX 77586.
+
+# Tires By Design
+
+- Category: tire shop
+- Services: tire shop
+- Address: 2801 East NASA Parkway, Seabrook, TX 77586
+- City: Seabrook
+- State: TX
+- ZIP: 77586
+- Coordinates: 29.5594233, -95.0369688
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/tires-by-design-seabrook/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tires-by-design-seabrook.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/769868915 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

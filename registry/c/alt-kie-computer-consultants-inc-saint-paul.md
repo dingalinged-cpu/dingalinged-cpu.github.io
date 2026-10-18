@@ -15,7 +15,7 @@ Alt-Kie Computer Consultants, Inc. is a business consultant in Saint Paul, MN at
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/alt-kie-computer-consultants-inc-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/alt-kie-computer-consultants-inc-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7150081730 (license ODbL-1.0); source data as of 2026-05-31

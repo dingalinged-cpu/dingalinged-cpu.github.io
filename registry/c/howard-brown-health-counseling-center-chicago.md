@@ -15,7 +15,7 @@ Howard Brown Health Counseling Center is a therapy practice in Chicago, IL at 39
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00, Fr 09:00-17:00, Sa 09:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/howard-brown-health-counseling-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/howard-brown-health-counseling-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/743752078 (license ODbL-1.0); source data as of 2026-07-28

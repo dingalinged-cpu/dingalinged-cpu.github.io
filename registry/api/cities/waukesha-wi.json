@@ -1,0 +1,2487 @@
+{
+ "place": "Waukesha, WI",
+ "slug": "waukesha-wi",
+ "count": 80,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-waukesha-wi.json"
+  },
+  {
+   "keyword": "accounting services waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-waukesha-wi.json"
+  },
+  {
+   "keyword": "attorney waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-waukesha-wi.json"
+  },
+  {
+   "keyword": "auto body shop waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-waukesha-wi.json"
+  },
+  {
+   "keyword": "auto repair waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-waukesha-wi.json"
+  },
+  {
+   "keyword": "bike shop waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-waukesha-wi.json"
+  },
+  {
+   "keyword": "business consultant waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/business-consultant-waukesha-wi.json"
+  },
+  {
+   "keyword": "car wash waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-waukesha-wi.json"
+  },
+  {
+   "keyword": "chiropractor waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-waukesha-wi.json"
+  },
+  {
+   "keyword": "daycare waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-waukesha-wi.json"
+  },
+  {
+   "keyword": "dentist waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-waukesha-wi.json"
+  },
+  {
+   "keyword": "dry cleaners waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-waukesha-wi.json"
+  },
+  {
+   "keyword": "electrician waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/electrician-waukesha-wi.json"
+  },
+  {
+   "keyword": "facial waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-waukesha-wi.json"
+  },
+  {
+   "keyword": "financial advisor waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-waukesha-wi.json"
+  },
+  {
+   "keyword": "flooring companies waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-waukesha-wi.json"
+  },
+  {
+   "keyword": "florist waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-waukesha-wi.json"
+  },
+  {
+   "keyword": "general contractor waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/general-contractor-waukesha-wi.json"
+  },
+  {
+   "keyword": "gift shop waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-waukesha-wi.json"
+  },
+  {
+   "keyword": "gym waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-waukesha-wi.json"
+  },
+  {
+   "keyword": "hair salon waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-waukesha-wi.json"
+  },
+  {
+   "keyword": "haircut waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-waukesha-wi.json"
+  },
+  {
+   "keyword": "insurance agency waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-waukesha-wi.json"
+  },
+  {
+   "keyword": "insurance agent waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-waukesha-wi.json"
+  },
+  {
+   "keyword": "insurance agents waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-waukesha-wi.json"
+  },
+  {
+   "keyword": "it support waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/it-support-waukesha-wi.json"
+  },
+  {
+   "keyword": "lawyer waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-waukesha-wi.json"
+  },
+  {
+   "keyword": "liquor store waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-waukesha-wi.json"
+  },
+  {
+   "keyword": "massage waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-waukesha-wi.json"
+  },
+  {
+   "keyword": "mechanic waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-waukesha-wi.json"
+  },
+  {
+   "keyword": "pet store waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-waukesha-wi.json"
+  },
+  {
+   "keyword": "physical therapy waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-waukesha-wi.json"
+  },
+  {
+   "keyword": "preschool waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-waukesha-wi.json"
+  },
+  {
+   "keyword": "printing services waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-waukesha-wi.json"
+  },
+  {
+   "keyword": "spa waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/spa-waukesha-wi.json"
+  },
+  {
+   "keyword": "tattoo shop waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-waukesha-wi.json"
+  },
+  {
+   "keyword": "therapist waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-waukesha-wi.json"
+  },
+  {
+   "keyword": "thrift store waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-waukesha-wi.json"
+  },
+  {
+   "keyword": "tire shop waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-waukesha-wi.json"
+  },
+  {
+   "keyword": "used cars for sale waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-waukesha-wi.json"
+  },
+  {
+   "keyword": "vet waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-waukesha-wi.json"
+  },
+  {
+   "keyword": "yoga classes waukesha wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-waukesha-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "anytime-fitness-waukesha",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Waukesha, WI at 2144 East Moreland Boulevard, Waukesha, WI 53186. Phone: +12624466797. Website: https://www.anytimefitness.com/gyms/2836/waukesha-wi-53186/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-waukesha.json",
+   "address": {
+    "streetAddress": "2144 East Moreland Boulevard",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0294227,
+    "lon": -88.1863338
+   },
+   "phone": "+12624466797",
+   "website": "https://www.anytimefitness.com/gyms/2836/waukesha-wi-53186/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559496827",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "badger-health-center-waukesha",
+   "name": "Badger Health Center",
+   "summary": "Badger Health Center is a chiropractor in Waukesha, WI at S31W24757 Sunset Drive, Waukesha, WI 53189. Phone: +12625472250. Website: https://badgerhealth.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/badger-health-center-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/badger-health-center-waukesha.json",
+   "address": {
+    "streetAddress": "S31W24757 Sunset Drive",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53189",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53189",
+   "geo": {
+    "lat": 42.9879145,
+    "lon": -88.2425544
+   },
+   "phone": "+12625472250",
+   "website": "https://badgerhealth.com/",
+   "opening_hours": "Mo 09:00-19:00, Tu 12:30-19:00, We-Th 09:00-19:00, Fr 09:00-12:30, Sa 09:00-11:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9677177062",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-liquor-waukesha",
+   "name": "Discount Liquor",
+   "summary": "Discount Liquor is a liquor store in Waukesha, WI at 919 North Barstow Street, Waukesha, WI 53186. Phone: +12625477525. Website: https://www.discountliquorinc.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-liquor-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-liquor-waukesha.json",
+   "address": {
+    "streetAddress": "919 North Barstow Street",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0127341,
+    "lon": -88.2290193
+   },
+   "phone": "+12625477525",
+   "website": "https://www.discountliquorinc.com/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3566889937",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petco-waukesha",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Waukesha, WI at 1240 West Sunset Drive #102, Waukesha, WI 53189. Phone: +12625211926. Website: https://stores.petco.com/wi/waukesha/pet-supplies-waukesha-wi-1686.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-waukesha.json",
+   "address": {
+    "streetAddress": "1240 West Sunset Drive #102",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53189",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53189",
+   "geo": {
+    "lat": 42.990795,
+    "lon": -88.2592635
+   },
+   "phone": "+12625211926",
+   "website": "https://stores.petco.com/wi/waukesha/pet-supplies-waukesha-wi-1686.html",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9139617875",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "saint-vincent-de-paul-thrift-store-waukesha",
+   "name": "Saint Vincent de Paul Thrift Store",
+   "summary": "Saint Vincent de Paul Thrift Store is a thrift store in Waukesha, WI at S30 W24896 Sunset Drive, Waukesha, WI 53189. Phone: +12625473281. Website: https://www.svdpthrift.net/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saint-vincent-de-paul-thrift-store-waukesha.json",
+   "address": {
+    "streetAddress": "S30 W24896 Sunset Drive",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53189",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53189",
+   "geo": {
+    "lat": 42.9895261,
+    "lon": -88.2443757
+   },
+   "phone": "+12625473281",
+   "website": "https://www.svdpthrift.net/",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3276996584",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sterling-lawyers-llc-waukesha",
+   "name": "Sterling Lawyers, LLC",
+   "summary": "Sterling Lawyers, LLC is a lawyer in Waukesha, WI at N19W24400 Riverwood Drive ##350, Waukesha, WI 53188. Phone: +12622218435. Website: https://www.sterlinglawyers.com/wisconsin/locations/waukesha/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sterling-lawyers-llc-waukesha.json",
+   "address": {
+    "streetAddress": "N19W24400 Riverwood Drive ##350",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53188",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53188",
+   "geo": {
+    "lat": 43.0559003,
+    "lon": -88.2348702
+   },
+   "phone": "+12622218435",
+   "website": "https://www.sterlinglawyers.com/wisconsin/locations/waukesha/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11070036528",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-barbershop-waukesha",
+   "name": "The Barbershop",
+   "summary": "The Barbershop is a hair salon in Waukesha, WI at 204 East Sunset Drive, Waukesha, WI 53189. Phone: +12624082133. Website: https://thebarbershops.com/waukesha/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-barbershop-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-barbershop-waukesha.json",
+   "address": {
+    "streetAddress": "204 East Sunset Drive",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53189",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53189",
+   "geo": {
+    "lat": 42.989458,
+    "lon": -88.223205
+   },
+   "phone": "+12624082133",
+   "website": "https://thebarbershops.com/waukesha/",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11271879868",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ulta-beauty-waukesha",
+   "name": "Ulta Beauty",
+   "summary": "Ulta Beauty is a skin care studio in Waukesha, WI at 1160 West Sunset Drive #134, Waukesha, WI 53189. Phone: +12625740387. Website: https://www.ulta.com/stores/waukesha-wi-591.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ulta-beauty-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-waukesha.json",
+   "address": {
+    "streetAddress": "1160 West Sunset Drive #134",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53189",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53189",
+   "geo": {
+    "lat": 42.9913817,
+    "lon": -88.2562165
+   },
+   "phone": "+12625740387",
+   "website": "https://www.ulta.com/stores/waukesha-wi-591",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9139617871",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waukesha-animal-hospital-waukesha",
+   "name": "Waukesha Animal Hospital",
+   "summary": "Waukesha Animal Hospital is a veterinarian in Waukesha, WI at W237N660 Oakridge Drive, Waukesha, WI 53188. Phone: +12625422541. Website: https://waukeshaanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waukesha-animal-hospital-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waukesha-animal-hospital-waukesha.json",
+   "address": {
+    "streetAddress": "W237N660 Oakridge Drive",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53188",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53188",
+   "geo": {
+    "lat": 43.0390955,
+    "lon": -88.2198415
+   },
+   "phone": "+12625422541",
+   "website": "https://waukeshaanimalhospital.com/",
+   "opening_hours": "Mo-Th 09:00-18:00, Fr 08:00-17:00, Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010409742",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wvrc-waukesha-waukesha",
+   "name": "WVRC - Waukesha",
+   "summary": "WVRC - Waukesha is a veterinarian in Waukesha, WI at W293 N1046 Pewaukee Road, Waukesha, WI 53188. Phone: +12625423241. Website: https://www.wvrcwi.com/locations/waukesha/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wvrc-waukesha-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wvrc-waukesha-waukesha.json",
+   "address": {
+    "streetAddress": "W293 N1046 Pewaukee Road",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53188",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53188",
+   "geo": {
+    "lat": 43.04515,
+    "lon": -88.2242729
+   },
+   "phone": "+12625423241",
+   "website": "https://www.wvrcwi.com/locations/waukesha/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1459662986",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "outdoor-living-unlimited-waukesha",
+   "name": "Outdoor Living Unlimited",
+   "summary": "Outdoor Living Unlimited is a general contractor in Waukesha, WI at 665 Larry Court, Waukesha, WI 53186. Phone: +12625674513. Website: https://outdoorlivingunlimited.com/.",
+   "categories": [
+    "general contractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/outdoor-living-unlimited-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/outdoor-living-unlimited-waukesha.json",
+   "address": {
+    "streetAddress": "665 Larry Court",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0387396,
+    "lon": -88.1759256
+   },
+   "phone": "+12625674513",
+   "website": "https://outdoorlivingunlimited.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/760455956",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tech-fusion-inc-waukesha",
+   "name": "Tech Fusion, Inc",
+   "summary": "Tech Fusion, Inc is an IT support company in Waukesha, WI at 20900 Swenson Drive, Waukesha, WI 53186. Phone: +14144550000. Website: https://www.tech-fusion.us/.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tech-fusion-inc-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tech-fusion-inc-waukesha.json",
+   "address": {
+    "streetAddress": "20900 Swenson Drive",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0332123,
+    "lon": -88.1729769
+   },
+   "phone": "+14144550000",
+   "website": "https://www.tech-fusion.us/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3018847224",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "utility-truck-equipment-and-parts-waukesha",
+   "name": "Utility Truck Equipment & Parts",
+   "summary": "Utility Truck Equipment & Parts is an auto repair shop in Waukesha, WI at 576 Elizabeth Street, Waukesha, WI 53186. Phone: +12625423801. Website: https://www.buckettruckrepair.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/utility-truck-equipment-and-parts-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/utility-truck-equipment-and-parts-waukesha.json",
+   "address": {
+    "streetAddress": "576 Elizabeth Street",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0047766,
+    "lon": -88.2405567
+   },
+   "phone": "+12625423801",
+   "website": "https://www.buckettruckrepair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1338259818",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chudy-chiropractic-clinic-waukesha",
+   "name": "Chudy Chiropractic Clinic",
+   "summary": "Chudy Chiropractic Clinic is a chiropractor in Waukesha, WI. Phone: +12625604977. Website: https://chudychiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chudy-chiropractic-clinic-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chudy-chiropractic-clinic-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0342813,
+    "lon": -88.2563311
+   },
+   "phone": "+12625604977",
+   "website": "https://chudychiropractic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5334308211",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "boucher-cadillac-of-waukesha-waukesha",
+   "name": "Boucher Cadillac of Waukesha",
+   "summary": "Boucher Cadillac of Waukesha is an used car dealer in Waukesha, WI at 2145 East Moreland Boulevard, Waukesha, WI 53186. Website: https://www.bouchercadillac.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boucher-cadillac-of-waukesha-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boucher-cadillac-of-waukesha-waukesha.json",
+   "address": {
+    "streetAddress": "2145 East Moreland Boulevard",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0274684,
+    "lon": -88.1854328
+   },
+   "website": "https://www.bouchercadillac.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/301974482",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crunch-fitness-waukesha",
+   "name": "Crunch Fitness",
+   "summary": "Crunch Fitness is a gym in Waukesha, WI at 120 East Sunset Drive, Waukesha, WI 53189. Website: https://www.crunch.com/locations/waukesha.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crunch-fitness-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crunch-fitness-waukesha.json",
+   "address": {
+    "streetAddress": "120 East Sunset Drive",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53189",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53189",
+   "geo": {
+    "lat": 42.9896528,
+    "lon": -88.2260019
+   },
+   "website": "https://www.crunch.com/locations/waukesha",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13246180901",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fittech-hosting-waukesha",
+   "name": "FitTech Hosting",
+   "summary": "FitTech Hosting is an IT support company in Waukesha, WI at 237 South Street #114, Waukesha, WI 53186. Website: https://fittechhosting.com/waukesha/.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fittech-hosting-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fittech-hosting-waukesha.json",
+   "address": {
+    "streetAddress": "237 South Street #114",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0105314,
+    "lon": -88.2301506
+   },
+   "website": "https://fittechhosting.com/waukesha/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5492524958",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mokros-cycle-waukesha",
+   "name": "Mokros Cycle",
+   "summary": "Mokros Cycle is a bike shop in Waukesha, WI at N6W23757 Bluemound Road, Waukesha, WI 53188. Phone: +12625211300.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mokros-cycle-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mokros-cycle-waukesha.json",
+   "address": {
+    "streetAddress": "N6W23757 Bluemound Road",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53188",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53188",
+   "geo": {
+    "lat": 43.0396068,
+    "lon": -88.2207909
+   },
+   "phone": "+12625211300",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11980007511",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nancy-roozen-and-associates-llc-allstate-insurance-waukesha",
+   "name": "Nancy Roozen & Associates, LLC: Allstate Insurance",
+   "summary": "Nancy Roozen & Associates, LLC: Allstate Insurance is an insurance agent in Waukesha, WI at 100 East Sunset Drive, Waukesha, WI 53189. Website: https://agents.allstate.com/nancy-roozen--associates-llc-waukesha-wi.html.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nancy-roozen-and-associates-llc-allstate-insurance-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nancy-roozen-and-associates-llc-allstate-insurance-waukesha.json",
+   "address": {
+    "streetAddress": "100 East Sunset Drive",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53189",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53189",
+   "geo": {
+    "lat": 42.9887564,
+    "lon": -88.2268141
+   },
+   "website": "https://agents.allstate.com/nancy-roozen--associates-llc-waukesha-wi.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8392024055",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valvoline-waukesha",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Waukesha, WI at 1951 East Main Street, Waukesha, WI 53186. Website: https://store.vioc.com/wi/waukesha/oil-change-gr0065.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-waukesha.json",
+   "address": {
+    "streetAddress": "1951 East Main Street",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0263074,
+    "lon": -88.1891307
+   },
+   "website": "https://store.vioc.com/wi/waukesha/oil-change-gr0065.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/307090845",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waukesha-walk-in-vet-clinic-waukesha",
+   "name": "Waukesha Walk-in Vet Clinic",
+   "summary": "Waukesha Walk-in Vet Clinic is a veterinarian in Waukesha, WI at 1710 Paramount Drive, Waukesha, WI 53186. Phone: +12625492000.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waukesha-walk-in-vet-clinic-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waukesha-walk-in-vet-clinic-waukesha.json",
+   "address": {
+    "streetAddress": "1710 Paramount Drive",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.024982,
+    "lon": -88.199652
+   },
+   "phone": "+12625492000",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10571176109",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "todays-lifestyle-solutions-llc-waukesha",
+   "name": "Today's Lifestyle Solutions, LLC",
+   "summary": "Today's Lifestyle Solutions, LLC is a business consultant in Waukesha, WI at 303 Sentry Drive #100, Waukesha, WI 53186.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/todays-lifestyle-solutions-llc-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/todays-lifestyle-solutions-llc-waukesha.json",
+   "address": {
+    "streetAddress": "303 Sentry Drive #100",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0001637,
+    "lon": -88.2484938
+   },
+   "opening_hours": "We 10:00-18:00; Fr 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7527371488",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-trip-waukesha",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Waukesha, WI. Website: https://www.kwiktrip.com/locator/store?id=436.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9944988,
+    "lon": -88.2017115
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=436",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7183405005",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-trip-waukesha-w380913922",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Waukesha, WI. Website: https://www.kwiktrip.com/locator/store?id=970.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-waukesha-w380913922/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-waukesha-w380913922.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9762056,
+    "lon": -88.2369067
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=970",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/380913922",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "walkowicz-boczkiewicz-and-co-s-c-waukesha",
+   "name": "Walkowicz, Boczkiewicz & Co., S.C.",
+   "summary": "Walkowicz, Boczkiewicz & Co., S.C. is an accountant in Waukesha, WI. Website: https://www.wbcosc.com/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walkowicz-boczkiewicz-and-co-s-c-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walkowicz-boczkiewicz-and-co-s-c-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0237757,
+    "lon": -88.1958918
+   },
+   "website": "https://www.wbcosc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559496838",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carmax-waukesha",
+   "name": "Carmax",
+   "summary": "Carmax is an used car dealer in Waukesha, WI at 2441 Kossow Road, Waukesha, WI 53186.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-waukesha.json",
+   "address": {
+    "streetAddress": "2441 Kossow Road",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0355394,
+    "lon": -88.1773777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/301094178",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-waukesha",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Waukesha, WI at 1111 Spring City Lane, Waukesha, WI 53186.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-waukesha.json",
+   "address": {
+    "streetAddress": "1111 Spring City Lane",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 42.9888964,
+    "lon": -88.2538007
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/840007795",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fox-river-sports-waukesha",
+   "name": "Fox River Sports",
+   "summary": "Fox River Sports is a bike shop in Waukesha, WI at 143 East North Street, Waukesha, WI 53188.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fox-river-sports-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fox-river-sports-waukesha.json",
+   "address": {
+    "streetAddress": "143 East North Street",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53188",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53188",
+   "geo": {
+    "lat": 43.0140719,
+    "lon": -88.2346331
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11535277912",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-waukesha",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Waukesha, WI at 2015 Meadow Lane, Waukesha, WI 53072.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-waukesha.json",
+   "address": {
+    "streetAddress": "2015 Meadow Lane",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53072",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53072",
+   "geo": {
+    "lat": 43.041105,
+    "lon": -88.259706
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010416478",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-waukesha-w1014267624",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Waukesha, WI at 1400 Nike Drive, Waukesha, WI 53186.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-waukesha-w1014267624/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-waukesha-w1014267624.json",
+   "address": {
+    "streetAddress": "1400 Nike Drive",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.020969,
+    "lon": -88.198097
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1014267624",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "griffin-collision-waukesha",
+   "name": "Griffin Collision",
+   "summary": "Griffin Collision is an auto repair shop in Waukesha, WI at 1706 Pearl Street, Waukesha, WI 53186.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/griffin-collision-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/griffin-collision-waukesha.json",
+   "address": {
+    "streetAddress": "1706 Pearl Street",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0082237,
+    "lon": -88.1983616
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9839885912",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midas-waukesha",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Waukesha, WI at 2009 East Moreland Boulevard, Waukesha, WI 53186.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-waukesha.json",
+   "address": {
+    "streetAddress": "2009 East Moreland Boulevard",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0266103,
+    "lon": -88.1902448
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/307090843",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-world-waukesha",
+   "name": "Pet World",
+   "summary": "Pet World is a pet store in Waukesha, WI at 2410 East Moreland Boulevard, Waukesha, WI 53186.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-world-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-world-waukesha.json",
+   "address": {
+    "streetAddress": "2410 East Moreland Boulevard",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0333201,
+    "lon": -88.1770265
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/299280920",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "planet-fitness-waukesha",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Waukesha, WI at 1510 East Main Street, Waukesha, WI 53186.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-waukesha.json",
+   "address": {
+    "streetAddress": "1510 East Main Street",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0200745,
+    "lon": -88.2056929
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/951578349",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "planned-parenthood-waukesha",
+   "name": "Planned Parenthood",
+   "summary": "Planned Parenthood is a therapy practice in Waukesha, WI at 412 West Main Street, Waukesha, WI 53186.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planned-parenthood-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planned-parenthood-waukesha.json",
+   "address": {
+    "streetAddress": "412 West Main Street",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0109479,
+    "lon": -88.2345702
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/450151086",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "west-wood-health-and-fitness-center-waukesha",
+   "name": "West Wood Health & Fitness Center",
+   "summary": "West Wood Health & Fitness Center is a gym in Waukesha, WI at 2900 Golf Road, Waukesha, WI 53072.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-wood-health-and-fitness-center-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-wood-health-and-fitness-center-waukesha.json",
+   "address": {
+    "streetAddress": "2900 Golf Road",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53072",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53072",
+   "geo": {
+    "lat": 43.0491867,
+    "lon": -88.2791126
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/190324470",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-family-insurance-leticia-guzman-waukesha",
+   "name": "American Family Insurance - Leticia Guzman",
+   "summary": "American Family Insurance - Leticia Guzman is an insurance agent in Waukesha, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-leticia-guzman-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-leticia-guzman-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0106328,
+    "lon": -88.2317129
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3566889936",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ashtanga-yoga-waukesha",
+   "name": "Ashtanga Yoga",
+   "summary": "Ashtanga Yoga is a yoga studio in Waukesha, WI.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashtanga-yoga-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashtanga-yoga-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0248945,
+    "lon": -88.1939801
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559496836",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aspen-dental-waukesha",
+   "name": "Aspen Dental",
+   "summary": "Aspen Dental is a dentist in Waukesha, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aspen-dental-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aspen-dental-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0315179,
+    "lon": -88.1801401
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559460446",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ati-physical-therapy-waukesha",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Waukesha, WI.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9897646,
+    "lon": -88.256509
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9139617873",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "b-i-c-automotive-waukesha",
+   "name": "B.I.C. Automotive",
+   "summary": "B.I.C. Automotive is an auto repair shop in Waukesha, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/b-i-c-automotive-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/b-i-c-automotive-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.997262,
+    "lon": -88.2081582
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920660597",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "barsamian-dental-waukesha",
+   "name": "Barsamian dental",
+   "summary": "Barsamian dental is a dentist in Waukesha, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barsamian-dental-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barsamian-dental-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9879425,
+    "lon": -88.2296117
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5334030651",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bergman-chiropractic-waukesha",
+   "name": "Bergman chiropractic",
+   "summary": "Bergman chiropractic is a chiropractor in Waukesha, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bergman-chiropractic-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bergman-chiropractic-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9879425,
+    "lon": -88.2299121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5334030650",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bluemound-child-care-waukesha",
+   "name": "Bluemound Child Care",
+   "summary": "Bluemound Child Care is a daycare in Waukesha, WI.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bluemound-child-care-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bluemound-child-care-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9968066,
+    "lon": -88.2063096
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920660398",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "charlie-s-east-coast-hair-designs-waukesha",
+   "name": "Charlie’s East Coast Hair Designs",
+   "summary": "Charlie’s East Coast Hair Designs is a hair salon in Waukesha, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charlie-s-east-coast-hair-designs-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charlie-s-east-coast-hair-designs-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0076386,
+    "lon": -88.2221626
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920840287",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "compass-screen-and-graphics-waukesha",
+   "name": "Compass Screen & Graphics",
+   "summary": "Compass Screen & Graphics is a printing service in Waukesha, WI.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/compass-screen-and-graphics-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/compass-screen-and-graphics-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9781548,
+    "lon": -88.2352758
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8423677498",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cramer-multhauf-and-hammes-llp-waukesha",
+   "name": "Cramer, Multhauf & Hammes, LLP",
+   "summary": "Cramer, Multhauf & Hammes, LLP is a lawyer in Waukesha, WI.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cramer-multhauf-and-hammes-llp-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cramer-multhauf-and-hammes-llp-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9965291,
+    "lon": -88.2032646
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7918434906",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dental-care-of-waukesha-waukesha",
+   "name": "Dental Care of Waukesha",
+   "summary": "Dental Care of Waukesha is a dentist in Waukesha, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-care-of-waukesha-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-care-of-waukesha-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9878587,
+    "lon": -88.2199515
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8382124017",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-waukesha",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Waukesha, WI.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0074755,
+    "lon": -88.221465
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920840244",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-waukesha-n9559496841",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Waukesha, WI.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-waukesha-n9559496841/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-waukesha-n9559496841.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0237827,
+    "lon": -88.1955729
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559496841",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "elect-tech-inc-waukesha",
+   "name": "Elect-Tech, Inc.",
+   "summary": "Elect-Tech, Inc. is an electrician in Waukesha, WI.",
+   "categories": [
+    "electrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elect-tech-inc-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elect-tech-inc-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9797242,
+    "lon": -88.2351936
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8413077510",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "golds-gym-waukesha",
+   "name": "Gold's Gym",
+   "summary": "Gold's Gym is a gym in Waukesha, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golds-gym-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golds-gym-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0241616,
+    "lon": -88.2428876
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/668445240",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-waukesha",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Waukesha, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9922801,
+    "lon": -88.2651824
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9198107542",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hallmark-waukesha",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Waukesha, WI.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9906249,
+    "lon": -88.2592527
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9139617876",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "harlfinger-s-service-waukesha",
+   "name": "Harlfinger’s Service",
+   "summary": "Harlfinger’s Service is an auto repair shop in Waukesha, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harlfinger-s-service-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harlfinger-s-service-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9969698,
+    "lon": -88.207246
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920660599",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "heffernan-chiropractic-clinic-waukesha",
+   "name": "Heffernan Chiropractic Clinic",
+   "summary": "Heffernan Chiropractic Clinic is a chiropractor in Waukesha, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heffernan-chiropractic-clinic-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heffernan-chiropractic-clinic-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0244306,
+    "lon": -88.1944883
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559496837",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hillcrestt-family-dental-waukesha",
+   "name": "Hillcrestt Family Dental",
+   "summary": "Hillcrestt Family Dental is a dentist in Waukesha, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hillcrestt-family-dental-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hillcrestt-family-dental-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0219937,
+    "lon": -88.1964134
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9575878777",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jedi-tattoo-waukesha",
+   "name": "Jedi Tattoo",
+   "summary": "Jedi Tattoo is a tattoo shop in Waukesha, WI.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jedi-tattoo-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jedi-tattoo-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0111654,
+    "lon": -88.2335638
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3566996408",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jo-mar-flowers-and-gifts-waukesha",
+   "name": "Jo-Mar Flowers & Gifts",
+   "summary": "Jo-Mar Flowers & Gifts is a florist in Waukesha, WI.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jo-mar-flowers-and-gifts-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jo-mar-flowers-and-gifts-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9974049,
+    "lon": -88.2095265
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920660395",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jon-bonow-state-farm-insurance-agent-waukesha",
+   "name": "Jon Bonow State Farm Insurance Agent",
+   "summary": "Jon Bonow State Farm Insurance Agent is an insurance agent in Waukesha, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jon-bonow-state-farm-insurance-agent-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jon-bonow-state-farm-insurance-agent-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.996459,
+    "lon": -88.2032182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7918435148",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "klinke-cleaners-waukesha",
+   "name": "Klinke Cleaners",
+   "summary": "Klinke Cleaners is a dry cleaner in Waukesha, WI.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/klinke-cleaners-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/klinke-cleaners-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0277694,
+    "lon": -88.1894092
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559496832",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kuchler-and-cotton-s-c-waukesha",
+   "name": "Kuchler & Cotton, S.C.",
+   "summary": "Kuchler & Cotton, S.C. is a lawyer in Waukesha, WI.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kuchler-and-cotton-s-c-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kuchler-and-cotton-s-c-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9968403,
+    "lon": -88.2060571
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920660505",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "law-offices-of-julie-m-gay-waukesha",
+   "name": "Law Offices of Julie M. Gay",
+   "summary": "Law Offices of Julie M. Gay is a lawyer in Waukesha, WI.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/law-offices-of-julie-m-gay-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/law-offices-of-julie-m-gay-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0086222,
+    "lon": -88.2319263
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920966096",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "maaco-collision-repair-and-auto-painting-waukesha",
+   "name": "Maaco Collision Repair & Auto Painting",
+   "summary": "Maaco Collision Repair & Auto Painting is an auto repair shop in Waukesha, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maaco-collision-repair-and-auto-painting-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maaco-collision-repair-and-auto-painting-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9810946,
+    "lon": -88.2354074
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8413045707",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "maggie-bringa-insurance-agency-inc-waukesha",
+   "name": "Maggie Bringa Insurance Agency Inc.",
+   "summary": "Maggie Bringa Insurance Agency Inc. is an insurance agent in Waukesha, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maggie-bringa-insurance-agency-inc-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maggie-bringa-insurance-agency-inc-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0237783,
+    "lon": -88.1957998
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559496839",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mens-hairhouse-waukesha",
+   "name": "Men's Hairhouse",
+   "summary": "Men's Hairhouse is a hair salon in Waukesha, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mens-hairhouse-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mens-hairhouse-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9890267,
+    "lon": -88.2575535
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4160202003",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nirvana-hair-studio-waukesha",
+   "name": "Nirvana Hair Studio",
+   "summary": "Nirvana Hair Studio is a hair salon in Waukesha, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nirvana-hair-studio-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nirvana-hair-studio-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9970769,
+    "lon": -88.2085441
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920660475",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rec-sports-waukesha",
+   "name": "REC Sports",
+   "summary": "REC Sports is a gym in Waukesha, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rec-sports-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rec-sports-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0031801,
+    "lon": -88.2321987
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7894350054",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-duo-and-co-llc-waukesha",
+   "name": "Salon Duo & Co. LLC",
+   "summary": "Salon Duo & Co. LLC is a spa in Waukesha, WI.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-duo-and-co-llc-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-duo-and-co-llc-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0237759,
+    "lon": -88.1956931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559496840",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "signature-salon-and-spa-waukesha",
+   "name": "Signature Salon & Spa",
+   "summary": "Signature Salon & Spa is a hair salon in Waukesha, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/signature-salon-and-spa-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/signature-salon-and-spa-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9875139,
+    "lon": -88.2245954
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5378891654",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "speedy-wash-waukesha",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Waukesha, WI.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9872329,
+    "lon": -88.206255
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478660197",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-waukesha",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Waukesha, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0316011,
+    "lon": -88.1799693
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559460447",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "st-luke-s-preschool-waukesha",
+   "name": "St. Luke’s Preschool",
+   "summary": "St. Luke’s Preschool is a preschool in Waukesha, WI.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-luke-s-preschool-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-luke-s-preschool-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0081231,
+    "lon": -88.2323692
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920966123",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "still-point-massage-waukesha",
+   "name": "Still Point Massage",
+   "summary": "Still Point Massage is a massage studio in Waukesha, WI.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/still-point-massage-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/still-point-massage-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0073965,
+    "lon": -88.2219752
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920840403",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stus-flooring-waukesha",
+   "name": "Stu's Flooring",
+   "summary": "Stu's Flooring is a flooring company in Waukesha, WI.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stus-flooring-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stus-flooring-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0293345,
+    "lon": -88.1866184
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559496828",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-waukesha",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Waukesha, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.989998,
+    "lon": -88.2565152
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9139617874",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-waukesha-n9559496833",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Waukesha, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-waukesha-n9559496833/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-waukesha-n9559496833.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0277549,
+    "lon": -88.1895773
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559496833",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "thelen-and-associates-waukesha",
+   "name": "Thelen & Associates",
+   "summary": "Thelen & Associates is a lawyer in Waukesha, WI.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thelen-and-associates-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thelen-and-associates-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9967439,
+    "lon": -88.2050122
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920660446",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wade-family-dental-waukesha",
+   "name": "Wade Family Dental",
+   "summary": "Wade Family Dental is a dentist in Waukesha, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wade-family-dental-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wade-family-dental-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9967234,
+    "lon": -88.2052988
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920660472",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "xperience-fitness-waukesha",
+   "name": "Xperience Fitness",
+   "summary": "Xperience Fitness is a gym in Waukesha, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/xperience-fitness-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/xperience-fitness-waukesha.json",
+   "address": {
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9896445,
+    "lon": -88.2260164
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5335539135",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

@@ -15,7 +15,7 @@ Tangletown Bike Shop is a bike shop in Minneapolis, MN at 816 West 50th Street, 
 - Opening hours (OSM syntax): Tu-Th 11:00-19:00; Fr-Sa 10:00-16:00; Su 11:00-16:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tangletown-bike-shop-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tangletown-bike-shop-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5357231926 (license ODbL-1.0); source data as of 2026-06-01

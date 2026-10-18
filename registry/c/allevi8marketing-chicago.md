@@ -15,7 +15,7 @@ allevi8marketing is a marketing agency in Chicago, IL at 6127 South University A
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allevi8marketing-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allevi8marketing-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13596342225 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Orthodontic Experts is a dentist in Arlington Heights, IL at 1020 South Arlingto
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/orthodontic-experts-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/orthodontic-experts-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5428103758 (license ODbL-1.0); source data as of 2026-07-28

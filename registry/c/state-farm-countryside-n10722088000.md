@@ -15,7 +15,7 @@ State Farm is an insurance agent in Countryside, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-countryside-n10722088000/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-countryside-n10722088000.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10722088000 (license ODbL-1.0); source data as of 2026-07-28

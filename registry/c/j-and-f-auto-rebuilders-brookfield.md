@@ -15,7 +15,7 @@ J&F Auto Rebuilders is an auto repair shop in Brookfield, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/j-and-f-auto-rebuilders-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/j-and-f-auto-rebuilders-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9499927287 (license ODbL-1.0); source data as of 2026-06-01

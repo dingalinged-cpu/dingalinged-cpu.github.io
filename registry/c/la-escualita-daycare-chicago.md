@@ -15,7 +15,7 @@ La Escualita Daycare is a daycare in Chicago, IL at 3001-3007 West Diversey Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-escualita-daycare-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-escualita-daycare-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209456936 (license ODbL-1.0); source data as of 2026-07-28

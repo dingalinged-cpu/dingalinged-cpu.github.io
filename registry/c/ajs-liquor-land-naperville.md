@@ -15,7 +15,7 @@ AJ's Liquor Land is a liquor store in Naperville, IL at 1474 East Chicago Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ajs-liquor-land-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ajs-liquor-land-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1421473664 (license ODbL-1.0); source data as of 2026-06-01

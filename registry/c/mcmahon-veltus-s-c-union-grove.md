@@ -1,0 +1,23 @@
+McMahon Veltus S.C. is an accountant in Union Grove, WI.
+
+# McMahon Veltus S.C.
+
+- Category: accountant
+- Services: accountant, accounting services
+- Address: Union Grove, WI
+- City: Union Grove
+- State: WI
+- ZIP: n/a
+- Coordinates: 42.6890407, -88.0514771
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mcmahon-veltus-s-c-union-grove/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mcmahon-veltus-s-c-union-grove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4995144236 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

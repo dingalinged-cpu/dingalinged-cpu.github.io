@@ -15,7 +15,7 @@ Accurate Personnel is a staffing agency in Park Ridge, IL at 35 South Prospect A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/accurate-personnel-park-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/accurate-personnel-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6239206866 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Healthy Minds is a therapy practice in Saint Paul, MN at 400 Selby Avenue #Suite
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/healthy-minds-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/healthy-minds-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12818285047 (license ODbL-1.0); source data as of 2026-06-01

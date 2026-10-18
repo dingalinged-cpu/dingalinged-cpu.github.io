@@ -15,7 +15,7 @@ Kiki's Korner is a pet store in Winfield, IL at 27W460 Beecher Ave, #A & B, Winf
 - Opening hours (OSM syntax): Mo-We,Fr 10:00-18:00, Th 10:00-19:00, Sa 10:00-17:00, Su 10:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kikis-korner-winfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kikis-korner-winfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9684523426 (license ODbL-1.0); source data as of 2026-06-01

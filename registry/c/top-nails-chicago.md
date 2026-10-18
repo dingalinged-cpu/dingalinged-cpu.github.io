@@ -15,7 +15,7 @@ Top Nails is a nail salon in Chicago, IL at 6344 North Milwaukee Avenue, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/top-nails-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/top-nails-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1426733667 (license ODbL-1.0); source data as of 2026-06-01

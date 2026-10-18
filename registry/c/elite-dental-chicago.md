@@ -15,7 +15,7 @@ Elite Dental is a dentist in Chicago, IL at 4142 North Sheridan Road, Chicago, I
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 09:00-16:00; Sa 09:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elite-dental-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elite-dental-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11234489179 (license ODbL-1.0); source data as of 2026-07-28

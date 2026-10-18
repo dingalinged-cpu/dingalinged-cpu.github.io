@@ -15,7 +15,7 @@ Vi at The Glen is an assisted living facility in Glenview, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vi-at-the-glen-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vi-at-the-glen-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1080783255 (license ODbL-1.0); source data as of 2026-07-28

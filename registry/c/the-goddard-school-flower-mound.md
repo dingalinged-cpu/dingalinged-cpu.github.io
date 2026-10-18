@@ -1,0 +1,23 @@
+The Goddard School is a preschool in Flower Mound, TX at 4051 Cross Timbers Road, Flower Mound, TX.
+
+# The Goddard School
+
+- Category: preschool
+- Services: preschool
+- Address: 4051 Cross Timbers Road, Flower Mound, TX
+- City: Flower Mound
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0400713, -97.0933055
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-goddard-school-flower-mound/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-goddard-school-flower-mound.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/901591928 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

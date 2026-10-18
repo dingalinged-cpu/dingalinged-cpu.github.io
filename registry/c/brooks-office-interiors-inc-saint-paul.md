@@ -15,7 +15,7 @@ Brooks Office Interiors Inc. is a furniture store in Saint Paul, MN at 2299 West
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brooks-office-interiors-inc-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brooks-office-interiors-inc-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6264993931 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ The CHAP Store is a thrift store in Burnsville, MN at 2020 Highway 13 East, Burn
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-chap-store-burnsville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-chap-store-burnsville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11423603306 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Patina is a gift shop in Roseville, MN at 2397 Fairview Avenue North, Roseville,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/patina-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/patina-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13570301415 (license ODbL-1.0); source data as of 2026-06-01

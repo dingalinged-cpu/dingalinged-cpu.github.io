@@ -1,0 +1,23 @@
+Club4 Fitness Coppell is a gym in Coppell, TX at 820 South MacArthur Boulevard, Coppell, TX 75019. Phone: +14698442580. Website: https://www.club4fitness.com/location/coppell/.
+
+# Club4 Fitness Coppell
+
+- Category: gym
+- Services: gym
+- Address: 820 South MacArthur Boulevard, Coppell, TX 75019
+- City: Coppell
+- State: TX
+- ZIP: 75019
+- Coordinates: 32.9513722, -96.9557606
+- Phone: +14698442580
+- Website: https://www.club4fitness.com/location/coppell/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 05:00-23:00; Fr 05:00-21:00; Sa-Su 08:00-20:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/club4-fitness-coppell-coppell/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/club4-fitness-coppell-coppell.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12688794602 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

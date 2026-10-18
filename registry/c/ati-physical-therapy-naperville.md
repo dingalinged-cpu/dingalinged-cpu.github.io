@@ -15,7 +15,7 @@ ATI Physical Therapy is a physical therapy clinic in Naperville, IL at 790 Royal
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8515825911 (license ODbL-1.0); source data as of 2026-07-28

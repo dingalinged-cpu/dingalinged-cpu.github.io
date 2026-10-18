@@ -15,7 +15,7 @@ BP is a car wash in Roselle, IL at 5 Irving Park Road, Roselle, IL 60172.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bp-roselle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bp-roselle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/832382218 (license ODbL-1.0); source data as of 2026-07-28

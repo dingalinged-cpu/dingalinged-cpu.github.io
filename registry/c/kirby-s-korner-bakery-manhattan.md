@@ -15,7 +15,7 @@ Kirby’s Korner Bakery is a bakery in Manhattan, IL at 165 South State Street, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kirby-s-korner-bakery-manhattan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kirby-s-korner-bakery-manhattan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7242800100 (license ODbL-1.0); source data as of 2026-06-01

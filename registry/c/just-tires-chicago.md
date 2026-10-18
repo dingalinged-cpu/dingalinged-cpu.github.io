@@ -15,7 +15,7 @@ Just Tires is a tire shop in Chicago, IL at 4809 North Broadway, Chicago, IL 606
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/just-tires-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/just-tires-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210382279 (license ODbL-1.0); source data as of 2026-06-01

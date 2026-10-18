@@ -15,7 +15,7 @@ Hanshaw Custom Tailoring & Alterations is a tailor in Chicago, IL at 3748 North 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hanshaw-custom-tailoring-and-alterations-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hanshaw-custom-tailoring-and-alterations-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11205367032 (license ODbL-1.0); source data as of 2026-06-01

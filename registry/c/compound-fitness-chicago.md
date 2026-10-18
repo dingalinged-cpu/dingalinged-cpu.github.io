@@ -15,7 +15,7 @@ Compound Fitness is a gym in Chicago, IL at 1954 South Troy Street, Chicago, IL 
 - Opening hours (OSM syntax): Mo-Fr 05:00-19:00; Sa 08:30-10:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/compound-fitness-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/compound-fitness-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11601380377 (license ODbL-1.0); source data as of 2026-06-01

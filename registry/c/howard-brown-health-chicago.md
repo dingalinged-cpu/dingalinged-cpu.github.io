@@ -15,7 +15,7 @@ Howard Brown Health is a family medicine practice in Chicago, IL at 1525 East 55
 - Opening hours (OSM syntax): Mo 09:00-17:00, Tu 10:00-20:00, We 09:00-17:00, Th 09:00-20:00, Fr 09:00-17:00, Sa 14:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/howard-brown-health-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/howard-brown-health-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6960829677 (license ODbL-1.0); source data as of 2026-07-28

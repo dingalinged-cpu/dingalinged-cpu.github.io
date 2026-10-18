@@ -15,7 +15,7 @@ Westchester Eye Surgeons is an eye care practice in Westchester, IL at 10439 Wes
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/westchester-eye-surgeons-westchester/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/westchester-eye-surgeons-westchester.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11735116357 (license ODbL-1.0); source data as of 2026-07-28

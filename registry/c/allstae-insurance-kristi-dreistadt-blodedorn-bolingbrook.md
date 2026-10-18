@@ -15,7 +15,7 @@ Allstae Insurance: Kristi Dreistadt - Blodedorn is an insurance agent in Bolingb
 - Opening hours (OSM syntax): open; 18:00+ closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allstae-insurance-kristi-dreistadt-blodedorn-bolingbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstae-insurance-kristi-dreistadt-blodedorn-bolingbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4299148951 (license ODbL-1.0); source data as of 2026-07-28

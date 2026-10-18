@@ -15,7 +15,7 @@ Jenny Craig is a therapy practice in Chicago, IL at 8067 South Cicero Avenue, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jenny-craig-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jenny-craig-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7778295815 (license ODbL-1.0); source data as of 2026-07-28

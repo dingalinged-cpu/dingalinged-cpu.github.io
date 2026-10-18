@@ -15,7 +15,7 @@ Rolled Around Bakery - Corporate is a bakery in Chicago, IL at 710 West Roscoe S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rolled-around-bakery-corporate-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rolled-around-bakery-corporate-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6321771781 (license ODbL-1.0); source data as of 2026-06-01

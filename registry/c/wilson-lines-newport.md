@@ -15,7 +15,7 @@ Wilson Lines is a moving company in Newport, MN at 2131 2nd Avenue, Newport, MN 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wilson-lines-newport/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wilson-lines-newport.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/493780979 (license ODbL-1.0); source data as of 2026-05-31

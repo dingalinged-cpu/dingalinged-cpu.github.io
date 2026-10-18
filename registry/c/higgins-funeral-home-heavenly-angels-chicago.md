@@ -15,7 +15,7 @@ Higgins Funeral Home (Heavenly Angels) is a funeral home in Chicago, IL at 244 E
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/higgins-funeral-home-heavenly-angels-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/higgins-funeral-home-heavenly-angels-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210688041 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Los Pequenos Angelitos Day Care is a daycare in Chicago, IL at 3711 West 55th St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/los-pequenos-angelitos-day-care-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/los-pequenos-angelitos-day-care-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163667917 (license ODbL-1.0); source data as of 2026-07-28

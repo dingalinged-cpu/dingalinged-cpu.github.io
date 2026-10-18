@@ -15,7 +15,7 @@ China Doll Tattoo & Piercing is a tattoo shop in Hammond, IN at 7346 Calumet Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/china-doll-tattoo-and-piercing-hammond/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/china-doll-tattoo-and-piercing-hammond.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1346049611 (license ODbL-1.0); source data as of 2026-06-01

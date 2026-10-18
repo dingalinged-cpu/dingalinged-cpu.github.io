@@ -15,7 +15,7 @@ Donohoe Pediatrics is a pediatrician in Chicago, IL at 3916 North Damen Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/donohoe-pediatrics-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/donohoe-pediatrics-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13143196003 (license ODbL-1.0); source data as of 2026-07-28

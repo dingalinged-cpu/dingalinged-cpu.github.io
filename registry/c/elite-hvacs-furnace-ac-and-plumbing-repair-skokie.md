@@ -15,7 +15,7 @@ Elite HVACS Furnace, AC & Plumbing Repair is a HVAC contractor in Skokie, IL at 
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elite-hvacs-furnace-ac-and-plumbing-repair-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elite-hvacs-furnace-ac-and-plumbing-repair-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13674894504 (license ODbL-1.0); source data as of 2026-06-01

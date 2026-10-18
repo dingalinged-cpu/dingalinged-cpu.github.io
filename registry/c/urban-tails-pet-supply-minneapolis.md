@@ -15,7 +15,7 @@ Urban Tails Pet Supply is a pet store in Minneapolis, MN at 2106 Lyndale Avenue 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/urban-tails-pet-supply-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/urban-tails-pet-supply-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5287908887 (license ODbL-1.0); source data as of 2026-06-01

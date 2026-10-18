@@ -15,7 +15,7 @@ Mau's House is a dog groomer in Chicago, IL at 901 South Plymouth Court, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/maus-house-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/maus-house-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6323222488 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Granholm & Gynac LLC is a lawyer in Joliet, IL at 58 North Chicago Street #305, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/granholm-and-gynac-llc-joliet/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/granholm-and-gynac-llc-joliet.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6997500112 (license ODbL-1.0); source data as of 2026-07-28

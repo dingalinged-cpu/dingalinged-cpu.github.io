@@ -15,7 +15,7 @@ Wirepro Tech is an electrician in Glenview, IL at 4306 Regency Drive, Glenview, 
 - Opening hours (OSM syntax): Mo-Fr 07:30-19:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wirepro-tech-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wirepro-tech-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9701935996 (license ODbL-1.0); source data as of 2026-06-01

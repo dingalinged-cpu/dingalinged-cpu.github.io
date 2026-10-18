@@ -15,7 +15,7 @@ The House of Glunz is a liquor store in Chicago, IL at 1206 North Wells Street, 
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 14:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-house-of-glunz-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-house-of-glunz-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210679363 (license ODbL-1.0); source data as of 2026-06-01

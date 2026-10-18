@@ -15,7 +15,7 @@ Tommy's Express Car Wash (Inc. Short-Visits) is a car wash in Mounds View, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-inc-short-visits-mounds-view/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tommys-express-car-wash-inc-short-visits-mounds-view.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/925111825 (license ODbL-1.0); source data as of 2026-07-24

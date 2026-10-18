@@ -15,7 +15,7 @@ Eden Prairie Montessori is a daycare in Eden Prairie, MN at 8098 Glen Lane, Eden
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/eden-prairie-montessori-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/eden-prairie-montessori-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/52094588 (license ODbL-1.0); source data as of 2026-07-24

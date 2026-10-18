@@ -15,7 +15,7 @@ Banquets at the Mayor's Mansion is an event venue in Chicago, IL at 5433 South H
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/banquets-at-the-mayors-mansion-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/banquets-at-the-mayors-mansion-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163255667 (license ODbL-1.0); source data as of 2026-07-28

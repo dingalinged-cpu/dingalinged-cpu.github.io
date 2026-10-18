@@ -15,7 +15,7 @@ Housing Authority of Cook County;Central Management Office is a property managem
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/housing-authority-of-cook-county-central-management-office-chicago-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/housing-authority-of-cook-county-central-management-office-chicago-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1291873834 (license ODbL-1.0); source data as of 2026-07-28

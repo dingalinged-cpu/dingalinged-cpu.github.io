@@ -15,7 +15,7 @@ ChiroCenter Chiropractic is a chiropractor in Minneapolis, MN at 2112 Lyndale Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chirocenter-chiropractic-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chirocenter-chiropractic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5287908890 (license ODbL-1.0); source data as of 2026-06-01

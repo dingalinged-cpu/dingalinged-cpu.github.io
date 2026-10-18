@@ -15,7 +15,7 @@ Jeff's Auto & Truck Repair is an auto repair shop in Riverside, IL at 20 East Qu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jeffs-auto-and-truck-repair-riverside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jeffs-auto-and-truck-repair-riverside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/232267098 (license ODbL-1.0); source data as of 2026-06-01

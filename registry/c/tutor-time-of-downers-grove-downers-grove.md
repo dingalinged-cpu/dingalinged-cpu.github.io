@@ -15,7 +15,7 @@ Tutor Time of Downers Grove is a preschool in Downers Grove, IL at 460 75th Stre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tutor-time-of-downers-grove-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tutor-time-of-downers-grove-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/556060708 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Z-Tech Window Tinting is an auto repair shop in Naperville, IL at 1572 West Ogde
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/z-tech-window-tinting-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/z-tech-window-tinting-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/312151992 (license ODbL-1.0); source data as of 2026-06-01

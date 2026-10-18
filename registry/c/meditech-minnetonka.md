@@ -15,7 +15,7 @@ MEDITECH is an IT support company in Minnetonka, MN at 5130 County Road 101, Min
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/meditech-minnetonka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/meditech-minnetonka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/88146185 (license ODbL-1.0); source data as of 2026-05-31

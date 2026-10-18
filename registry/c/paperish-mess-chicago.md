@@ -15,7 +15,7 @@ Paperish Mess is a gift shop in Chicago, IL at 1945 West Chicago Avenue, Chicago
 - Opening hours (OSM syntax): Mo-Su 12:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/paperish-mess-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/paperish-mess-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12714810059 (license ODbL-1.0); source data as of 2026-06-01

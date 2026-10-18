@@ -15,7 +15,7 @@ Chicago Center For Restorative Dentistry is a dentist in Chicago, IL at 4810 Nor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chicago-center-for-restorative-dentistry-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicago-center-for-restorative-dentistry-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162704611 (license ODbL-1.0); source data as of 2026-07-28

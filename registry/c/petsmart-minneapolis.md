@@ -15,7 +15,7 @@ PetSmart is a pet store in Minneapolis, MN at 1640 New Brighton Boulevard, Minne
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/petsmart-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/petsmart-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/575329296 (license ODbL-1.0); source data as of 2026-06-01

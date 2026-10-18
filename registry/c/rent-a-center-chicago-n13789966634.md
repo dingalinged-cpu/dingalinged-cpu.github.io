@@ -15,7 +15,7 @@ Rent-A-Center is a furniture store in Chicago, IL at 800 North Kedzie Avenue #20
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rent-a-center-chicago-n13789966634/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rent-a-center-chicago-n13789966634.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13789966634 (license ODbL-1.0); source data as of 2026-06-01

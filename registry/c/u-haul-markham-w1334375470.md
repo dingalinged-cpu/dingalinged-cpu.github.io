@@ -15,7 +15,7 @@ U-Haul is a self-storage facility in Markham, IL at 2915 West 159th Street, Mark
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/u-haul-markham-w1334375470/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-haul-markham-w1334375470.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1334375470 (license ODbL-1.0); source data as of 2026-06-01

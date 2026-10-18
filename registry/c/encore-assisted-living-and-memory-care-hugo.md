@@ -15,7 +15,7 @@ Encore Assisted Living & Memory Care is an assisted living facility in Hugo, MN 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/encore-assisted-living-and-memory-care-hugo/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/encore-assisted-living-and-memory-care-hugo.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/488551896 (license ODbL-1.0); source data as of 2026-07-24

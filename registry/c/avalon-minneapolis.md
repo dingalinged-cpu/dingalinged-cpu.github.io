@@ -15,7 +15,7 @@ AVALON is a gift shop in Minneapolis, MN at 168 13th Ave NE, Minneapolis, MN 554
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/avalon-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/avalon-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11699113333 (license ODbL-1.0); source data as of 2026-06-01

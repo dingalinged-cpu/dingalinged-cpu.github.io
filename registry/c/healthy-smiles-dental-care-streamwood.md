@@ -15,7 +15,7 @@ Healthy Smiles Dental Care is a dentist in Streamwood, IL at 906 East Irving Par
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/healthy-smiles-dental-care-streamwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/healthy-smiles-dental-care-streamwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/318899670 (license ODbL-1.0); source data as of 2026-07-28

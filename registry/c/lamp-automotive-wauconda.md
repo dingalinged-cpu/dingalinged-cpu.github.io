@@ -15,7 +15,7 @@ Lamp Automotive is an auto repair shop in Wauconda, IL at 390 West Liberty Stree
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lamp-automotive-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lamp-automotive-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1028241765 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Kanellos Shoe Repair is a shoe repair in Chicago, IL at 6325 North Central Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kanellos-shoe-repair-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kanellos-shoe-repair-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1426743365 (license ODbL-1.0); source data as of 2026-06-01

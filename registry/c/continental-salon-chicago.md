@@ -15,7 +15,7 @@ Continental Salon is a hair salon in Chicago, IL at 5533 North Milwaukee Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/continental-salon-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/continental-salon-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163222389 (license ODbL-1.0); source data as of 2026-06-01

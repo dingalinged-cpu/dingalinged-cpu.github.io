@@ -15,7 +15,7 @@ WEST Superior Training is a gym in Willowbrook, IL at 7580 Quincy Street, Willow
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/west-superior-training-willowbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/west-superior-training-willowbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/556873581 (license ODbL-1.0); source data as of 2026-06-01

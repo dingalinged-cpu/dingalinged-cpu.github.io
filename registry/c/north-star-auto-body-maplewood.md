@@ -15,7 +15,7 @@ North Star Auto Body is an auto repair shop in Maplewood, MN at 2672 Maplewood D
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/north-star-auto-body-maplewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-star-auto-body-maplewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/695844811 (license ODbL-1.0); source data as of 2026-06-01

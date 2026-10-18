@@ -15,7 +15,7 @@ RCK Law Firm is a lawyer in Naperville, IL at 210 West Ogden Avenue, Naperville,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rck-law-firm-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rck-law-firm-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/687202868 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ PetSmart is a pet store in Richfield, MN at 1100 West 78th Street, Richfield, MN
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/petsmart-richfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/petsmart-richfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/89080706 (license ODbL-1.0); source data as of 2026-06-01

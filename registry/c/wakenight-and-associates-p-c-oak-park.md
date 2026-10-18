@@ -15,7 +15,7 @@ Wakenight & Associates, P.C. is a lawyer in Oak Park, IL at 1100 Lake Street #12
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wakenight-and-associates-p-c-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wakenight-and-associates-p-c-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9678876927 (license ODbL-1.0); source data as of 2026-07-28

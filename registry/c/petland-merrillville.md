@@ -15,7 +15,7 @@ Petland is a pet store in Merrillville, IN at 1736 East 80th Avenue, Merrillvill
 - Opening hours (OSM syntax): Mo-Sa 11:00-21:00; Su 12:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/petland-merrillville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/petland-merrillville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9959057498 (license ODbL-1.0); source data as of 2026-06-01

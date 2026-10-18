@@ -1,0 +1,23 @@
+Electrified Tattoo is a tattoo shop in Webster, TX at 803 East NASA Parkway #156, Webster, TX.
+
+# Electrified Tattoo
+
+- Category: tattoo shop
+- Services: tattoo shop
+- Address: 803 East NASA Parkway #156, Webster, TX
+- City: Webster
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.5455735, -95.1087907
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/electrified-tattoo-webster/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/electrified-tattoo-webster.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12666231833 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

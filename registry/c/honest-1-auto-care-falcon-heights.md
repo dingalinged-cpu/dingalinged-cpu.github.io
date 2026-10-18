@@ -15,7 +15,7 @@ Honest-1 Auto Care is an auto repair shop in Falcon Heights, MN at 1565 Hamline 
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 08:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/honest-1-auto-care-falcon-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/honest-1-auto-care-falcon-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/159114538 (license ODbL-1.0); source data as of 2026-06-01

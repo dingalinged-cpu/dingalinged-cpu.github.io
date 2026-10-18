@@ -15,7 +15,7 @@ Jiffy Lube is an auto repair shop in Bloomington, MN at 7999 Penn Avenue S, Bloo
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/89080634 (license ODbL-1.0); source data as of 2026-06-01

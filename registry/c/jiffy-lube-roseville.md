@@ -15,7 +15,7 @@ Jiffy Lube is an auto repair shop in Roseville, MN at 1585 West County Road C, R
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00,Sa 7:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/148018364 (license ODbL-1.0); source data as of 2026-06-01

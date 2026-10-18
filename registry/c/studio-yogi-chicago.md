@@ -15,7 +15,7 @@ Studio Yogi is a yoga studio in Chicago, IL at 1840 East 71st Street, Chicago, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/studio-yogi-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/studio-yogi-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3292745986 (license ODbL-1.0); source data as of 2026-06-01

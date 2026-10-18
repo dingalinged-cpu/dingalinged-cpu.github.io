@@ -1,0 +1,23 @@
+Edible Arrangements is a gift shop in Dallas, TX. Phone: +12143618600. Website: https://www.ediblearrangements.com/stores/10455-n-central-expy-ste-103-dallas-tx-75231.
+
+# Edible Arrangements
+
+- Category: gift shop
+- Services: gift shop
+- Address: Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.887779, -96.7719386
+- Phone: +12143618600
+- Website: https://www.ediblearrangements.com/stores/10455-n-central-expy-ste-103-dallas-tx-75231
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-18:00; Su 09:00-15:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/edible-arrangements-dallas-n13252351571/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-dallas-n13252351571.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13252351571 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ US Storage Center is a self-storage facility in Crystal, MN at 5217 Hanson Court
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/us-storage-center-crystal/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/us-storage-center-crystal.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/171280470 (license ODbL-1.0); source data as of 2026-06-01

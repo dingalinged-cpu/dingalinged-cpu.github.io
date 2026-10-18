@@ -15,7 +15,7 @@ Mattress Firm is a mattress store in Evergreen Park, IL at 2442 West 95th Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-evergreen-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-evergreen-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7161491670 (license ODbL-1.0); source data as of 2026-06-01

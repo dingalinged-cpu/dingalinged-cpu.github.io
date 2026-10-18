@@ -1,0 +1,58 @@
+Keyword market for Waukesha, WI: 42 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Milwaukee-Waukesha, WI metro (US volume x population share).
+
+# Top keywords in Waukesha, WI
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage waukesha wi | searches/mo 23,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-waukesha-wi/
+2. car wash waukesha wi | searches/mo 8,400 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-waukesha-wi/
+3. dentist waukesha wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-waukesha-wi/
+4. gym waukesha wi | searches/mo 8,400 (est) | CPC $1.67 | value $14,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/gym-waukesha-wi/
+5. hair salon waukesha wi | searches/mo 6,900 (est) | CPC $0.55 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/hair-salon-waukesha-wi/
+6. mechanic waukesha wi | searches/mo 3,100 (est) | CPC $4.35 | value $13,000 | Google Ads equiv $750/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/mechanic-waukesha-wi/
+7. tire shop waukesha wi | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tire-shop-waukesha-wi/
+8. vet waukesha wi | searches/mo 2,500 (est) | CPC $4.06 | value $10,000 | Google Ads equiv $670/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/vet-waukesha-wi/
+9. haircut waukesha wi | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/haircut-waukesha-wi/
+10. auto repair waukesha wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/auto-repair-waukesha-wi/
+11. chiropractor waukesha wi | searches/mo 1,100 (est) | CPC $4.76 | value $5,200 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/chiropractor-waukesha-wi/
+12. electrician waukesha wi | searches/mo 1,100 (est) | CPC $12.18 | value $13,000 | Google Ads equiv $850/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-waukesha-wi/
+13. financial advisor waukesha wi | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-waukesha-wi/
+14. spa waukesha wi | searches/mo 1,100 (est) | CPC $4.62 | value $5,100 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/spa-waukesha-wi/
+15. insurance agency waukesha wi | searches/mo 420 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-waukesha-wi/
+
+## By CPC
+1. electrician waukesha wi | searches/mo 1,100 (est) | CPC $12.18 | value $13,000 | Google Ads equiv $850/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-waukesha-wi/
+2. attorney waukesha wi | searches/mo 340 (est) | CPC $9.87 | value $3,400 | Google Ads equiv $200/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/attorney-waukesha-wi/
+3. lawyer waukesha wi | searches/mo 230 (est) | CPC $9.87 | value $2,300 | Google Ads equiv $140/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/lawyer-waukesha-wi/
+4. flooring companies waukesha wi | searches/mo 83.00 (est) | CPC $8.33 | value $690 | Google Ads equiv $44.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-waukesha-wi/
+5. florist waukesha wi | searches/mo 1,000 (est) | CPC $7.17 | value $7,200 | Google Ads equiv $550/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/florist-waukesha-wi/
+6. accounting services waukesha wi | searches/mo 56.00 (est) | CPC $5.87 | value $330 | Google Ads equiv $19.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/accounting-services-waukesha-wi/
+7. business consultant waukesha wi | searches/mo 83.00 (est) | CPC $5.87 | value $490 | Google Ads equiv $28.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/business-consultant-waukesha-wi/
+8. general contractor waukesha wi | searches/mo 83.00 (est) | CPC $5.31 | value $440 | Google Ads equiv $28.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/general-contractor-waukesha-wi/
+9. accountant waukesha wi | searches/mo 150 (est) | CPC $5.23 | value $780 | Google Ads equiv $44.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/accountant-waukesha-wi/
+10. daycare waukesha wi | searches/mo 1,000 (est) | CPC $4.81 | value $4,800 | Google Ads equiv $280/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/daycare-waukesha-wi/
+11. preschool waukesha wi | searches/mo 1,000 (est) | CPC $4.81 | value $4,800 | Google Ads equiv $280/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/preschool-waukesha-wi/
+12. chiropractor waukesha wi | searches/mo 1,100 (est) | CPC $4.76 | value $5,200 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/chiropractor-waukesha-wi/
+13. physical therapy waukesha wi | searches/mo 1,000 (est) | CPC $4.76 | value $4,800 | Google Ads equiv $320/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/physical-therapy-waukesha-wi/
+14. therapist waukesha wi | searches/mo 1,000 (est) | CPC $4.76 | value $4,800 | Google Ads equiv $320/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/therapist-waukesha-wi/
+15. dentist waukesha wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-waukesha-wi/
+
+## By value (searches x CPC)
+1. massage waukesha wi | searches/mo 23,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-waukesha-wi/
+2. dentist waukesha wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-waukesha-wi/
+3. car wash waukesha wi | searches/mo 8,400 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-waukesha-wi/
+4. gym waukesha wi | searches/mo 8,400 (est) | CPC $1.67 | value $14,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/gym-waukesha-wi/
+5. electrician waukesha wi | searches/mo 1,100 (est) | CPC $12.18 | value $13,000 | Google Ads equiv $850/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-waukesha-wi/
+6. mechanic waukesha wi | searches/mo 3,100 (est) | CPC $4.35 | value $13,000 | Google Ads equiv $750/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/mechanic-waukesha-wi/
+7. tire shop waukesha wi | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tire-shop-waukesha-wi/
+8. vet waukesha wi | searches/mo 2,500 (est) | CPC $4.06 | value $10,000 | Google Ads equiv $670/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/vet-waukesha-wi/
+9. haircut waukesha wi | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/haircut-waukesha-wi/
+10. auto repair waukesha wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/auto-repair-waukesha-wi/
+11. chiropractor waukesha wi | searches/mo 1,100 (est) | CPC $4.76 | value $5,200 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/chiropractor-waukesha-wi/
+12. spa waukesha wi | searches/mo 1,100 (est) | CPC $4.62 | value $5,100 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/spa-waukesha-wi/
+13. hair salon waukesha wi | searches/mo 6,900 (est) | CPC $0.55 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/hair-salon-waukesha-wi/
+14. financial advisor waukesha wi | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-waukesha-wi/
+15. attorney waukesha wi | searches/mo 340 (est) | CPC $9.87 | value $3,400 | Google Ads equiv $200/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/attorney-waukesha-wi/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

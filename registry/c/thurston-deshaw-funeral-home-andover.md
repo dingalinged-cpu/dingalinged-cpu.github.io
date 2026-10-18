@@ -15,7 +15,7 @@ Thurston DeShaw Funeral Home is a funeral home in Andover, MN at 13817 Jay Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/thurston-deshaw-funeral-home-andover/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/thurston-deshaw-funeral-home-andover.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9054132621 (license ODbL-1.0); source data as of 2026-06-01

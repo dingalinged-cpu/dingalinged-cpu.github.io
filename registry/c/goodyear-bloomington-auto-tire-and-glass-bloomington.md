@@ -15,7 +15,7 @@ Goodyear Bloomington Auto, Tire & Glass is an auto repair shop in Bloomington, M
 - Opening hours (OSM syntax): Mo-Fr 07:30 – 17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goodyear-bloomington-auto-tire-and-glass-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodyear-bloomington-auto-tire-and-glass-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12520236990 (license ODbL-1.0); source data as of 2026-06-01

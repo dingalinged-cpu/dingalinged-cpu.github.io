@@ -15,7 +15,7 @@ Alex & A Auto Repair is an auto repair shop in Chicago, IL at 936 West 31st Stre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/alex-and-a-auto-repair-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/alex-and-a-auto-repair-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210171868 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ CD One Price Cleaners is a dry cleaner in Lincolnwood, IL at 3320 West Devon Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-lincolnwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cd-one-price-cleaners-lincolnwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/130693561 (license ODbL-1.0); source data as of 2026-06-01

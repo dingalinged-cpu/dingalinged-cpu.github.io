@@ -15,7 +15,7 @@ Momentum Physical Therapy is a physical therapy clinic in Naperville, IL at 1512
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/momentum-physical-therapy-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/momentum-physical-therapy-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/993474297 (license ODbL-1.0); source data as of 2026-07-28

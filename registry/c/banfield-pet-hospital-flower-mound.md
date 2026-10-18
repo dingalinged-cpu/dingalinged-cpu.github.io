@@ -1,0 +1,23 @@
+Banfield Pet Hospital is a veterinarian in Flower Mound, TX. Phone: +12142851974.
+
+# Banfield Pet Hospital
+
+- Category: vet
+- Services: vet
+- Address: Flower Mound, TX
+- City: Flower Mound
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0348317, -97.0713042
+- Phone: +12142851974
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 07:00-18:00; Su 09:00-17:00; PH off
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-flower-mound/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-flower-mound.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11535164812 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Beardsley's Barber Shop is a hair salon in Naperville, IL at 1224 West Ogden Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/beardsleys-barber-shop-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/beardsleys-barber-shop-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1339760462 (license ODbL-1.0); source data as of 2026-06-01

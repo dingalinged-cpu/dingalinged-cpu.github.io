@@ -15,7 +15,7 @@ MBD Martial Arts Academy is a martial arts school in Des Plaines, IL at Miner St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mbd-martial-arts-academy-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mbd-martial-arts-academy-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1022754607 (license ODbL-1.0); source data as of 2026-07-28

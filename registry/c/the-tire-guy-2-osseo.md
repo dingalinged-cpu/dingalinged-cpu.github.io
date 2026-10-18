@@ -15,7 +15,7 @@ The Tire Guy 2 is a tire shop in Osseo, MN at 108 Broadway Street West, Osseo, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-tire-guy-2-osseo/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-tire-guy-2-osseo.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/769457882 (license ODbL-1.0); source data as of 2026-06-01

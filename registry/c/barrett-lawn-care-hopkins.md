@@ -15,7 +15,7 @@ Barrett Lawn Care is a landscaping company in Hopkins, MN at 1415 5th Street Sou
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/barrett-lawn-care-hopkins/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/barrett-lawn-care-hopkins.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13988141649 (license ODbL-1.0); source data as of 2026-07-24

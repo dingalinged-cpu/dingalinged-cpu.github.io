@@ -15,7 +15,7 @@ Anytime Fitness is a gym in Chicago, IL at 1346 West Devon Avenue, Chicago, IL 6
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-chicago-w209951145/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-chicago-w209951145.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209951145 (license ODbL-1.0); source data as of 2026-06-01

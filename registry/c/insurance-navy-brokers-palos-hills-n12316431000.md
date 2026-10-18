@@ -15,7 +15,7 @@ Insurance Navy Brokers is an insurance agent in Palos Hills, IL at 7229 W 103rd 
 - Opening hours (OSM syntax): Mo-Sa 08:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-palos-hills-n12316431000/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-palos-hills-n12316431000.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12316431000 (license ODbL-1.0); source data as of 2026-07-28

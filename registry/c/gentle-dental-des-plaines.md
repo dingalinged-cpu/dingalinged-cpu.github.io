@@ -15,7 +15,7 @@ Gentle Dental is a dentist in Des Plaines, IL at 640 West Algonquin Road, Des Pl
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gentle-dental-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gentle-dental-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8691775762 (license ODbL-1.0); source data as of 2026-07-28

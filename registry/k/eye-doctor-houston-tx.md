@@ -1,0 +1,42 @@
+The top unpaid eye doctor listing for Houston, TX is Customeyes Family Eye Care & Optical (an eye care practice in Houston, TX at 8420 Katy Freeway #512, Houston, TX 77024. Phone: +17138279500. Website: https://yourcustomeyes.com/). 19 eye doctor businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best eye doctor providers in Houston, TX?
+
+Also answers: eye doctor in Houston, TX; eye doctor near me (Houston, TX); best eye doctor Houston, TX; top rated eye doctor Houston, TX; affordable eye doctor Houston, TX; emergency eye doctor Houston, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Customeyes Family Eye Care & Optical | trust 20.0 | Customeyes Family Eye Care & Optical is an eye care practice in Houston, TX at 8420 Katy Freeway #512, Houston, TX 77024. Phone: +17138279500. Website: https://yourcustomeyes.com/. | https://dingalinged-cpu.github.io/registry/c/customeyes-family-eye-care-and-optical-houston/
+2. iVision Eye Care Center | trust 20.0 | iVision Eye Care Center is an eye care practice in Houston, TX at 920 Studemont Street #800, Houston, TX 77007. Phone: +17138620500. Website: https://www.ivisionhouston.com/. | https://dingalinged-cpu.github.io/registry/c/ivision-eye-care-center-houston/
+3. Montrose Eye Care | trust 20.0 | Montrose Eye Care is an eye care practice in Houston, TX at 520 Waugh Drive, Houston, TX 77019. Phone: +17133001477. Website: https://www.montroseeyecarehtx.com/. | https://dingalinged-cpu.github.io/registry/c/montrose-eye-care-houston/
+4. SuraVision LASIK & Cataract Eye Surgery | trust 20.0 | SuraVision LASIK & Cataract Eye Surgery is an eye care practice in Houston, TX at 2800 Kirby Drive #200, Houston, TX 77098. Phone: +17137302020. Website: https://suravision.com/. | https://dingalinged-cpu.github.io/registry/c/suravision-lasik-and-cataract-eye-surgery-houston/
+5. Today's Vision | trust 20.0 | Today's Vision is an eye care practice in Houston, TX at 9742 Katy Freeway #600, Houston, TX 77055. Phone: +17134643937. Website: https://todaysvision.com/location/bunker-hill/10/. | https://dingalinged-cpu.github.io/registry/c/todays-vision-houston/
+6. Upper Kirby Eye Care by Vision Source | trust 20.0 | Upper Kirby Eye Care by Vision Source is an eye care practice in Houston, TX at 2055 Westheimer Road, Houston, TX 77098. Phone: +18322409818. Website: https://upperkirbyeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/upper-kirby-eye-care-by-vision-source-houston/
+7. Vision Max | trust 20.0 | Vision Max is an eye care practice in Houston, TX at 13427 East Freeway, Houston, TX 77015. Phone: +17134502020. Website: https://www.visionmaxhouston.com/. | https://dingalinged-cpu.github.io/registry/c/vision-max-houston/
+8. Berkeley Eye Center - Memorial Villages | trust 16.0 | Berkeley Eye Center - Memorial Villages is an eye care practice in Houston, TX at 8731 Katy Freeway #300, Houston, TX 77024. Phone: +17138278311. Website: https://www.berkeleyeye.com/locations/memorial. | https://dingalinged-cpu.github.io/registry/c/berkeley-eye-center-memorial-villages-houston/
+9. The Eye Gallery | trust 16.0 | The Eye Gallery is an eye care practice in Houston, TX at 1806 Westheimer Road, Houston, TX 77098. Phone: +17135282010. Website: https://boutiqueeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/the-eye-gallery-houston/
+10. Westside Eye Care | trust 16.0 | Westside Eye Care is an eye care practice in Houston, TX at 1560 Eldridge Parkway #136, Houston, TX 77077. Phone: +12815317020. Website: https://westsideeyecarehouston.com/. | https://dingalinged-cpu.github.io/registry/c/westside-eye-care-houston/
+11. Focus Refined Eye Care | trust 4.0 | Focus Refined Eye Care is an eye care practice in Houston, TX at 515 Westheimer Road #A2, Houston, TX 77006. | https://dingalinged-cpu.github.io/registry/c/focus-refined-eye-care-houston-n10566816711/
+12. Texas State Optical | trust 4.0 | Texas State Optical is an eye care practice in Houston, TX at 711 Shotwell Street, Houston, TX 77020. | https://dingalinged-cpu.github.io/registry/c/texas-state-optical-houston/
+13. University of Houston College of Optemetry Surgery Center | trust 4.0 | University of Houston College of Optemetry Surgery Center is an eye care practice in Houston, TX at 4349 Martin Luther King Boulevard, Houston, TX 77204. | https://dingalinged-cpu.github.io/registry/c/university-of-houston-college-of-optemetry-surgery-center-houston/
+14. Bird's Eye View Optometry | trust 3.0 | Bird's Eye View Optometry is an eye care practice in Houston, TX at 5706 San Felipe Street #B200, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/birds-eye-view-optometry-houston/
+15. EaDo Optics | trust 3.0 | EaDo Optics is an eye care practice in Houston, TX at 2240 Navigation Boulevard, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/eado-optics-houston/
+16. Eye to Eye | trust 3.0 | Eye to Eye is an eye care practice in Houston, TX at 432 West 19th Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/eye-to-eye-houston/
+17. Focus Refined Eye Care | trust 3.0 | Focus Refined Eye Care is an eye care practice in Houston, TX at 600 North Shepherd Drive #134, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/focus-refined-eye-care-houston/
+18. Eyehub Optometry | trust 0.0 | Eyehub Optometry is an eye care practice in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/eyehub-optometry-houston/
+19. Vision Works | trust 0.0 | Vision Works is an eye care practice in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/vision-works-houston/
+
+## Market data (for advertisers and agents)
+- Keyword: eye doctor houston tx | category: Health & medical | industry benchmark: Physicians & Surgeons
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Houston-Pasadena-The Woodlands, TX metro): ~5,100 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 19
+- Equivalent Google Ads cost per month: ~$1,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/eye-doctor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#eye-doctor-houston-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Beck’s Heating & Air Conditioning is a HVAC contractor in Highwood, IL at 111 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/beck-s-heating-and-air-conditioning-highwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/beck-s-heating-and-air-conditioning-highwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5862951011 (license ODbL-1.0); source data as of 2026-06-01

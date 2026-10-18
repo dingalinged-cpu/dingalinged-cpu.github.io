@@ -15,7 +15,7 @@ Hometown Gift Shop is a gift shop in Wauconda, IL at 118 North Main Street #2, W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hometown-gift-shop-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hometown-gift-shop-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9559480212 (license ODbL-1.0); source data as of 2026-06-01

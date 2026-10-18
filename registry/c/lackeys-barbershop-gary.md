@@ -15,7 +15,7 @@ Lackey's Barbershop is a hair salon in Gary, IN at 2057 Grant Street, Gary, IN 4
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lackeys-barbershop-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lackeys-barbershop-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1148665858 (license ODbL-1.0); source data as of 2026-06-01

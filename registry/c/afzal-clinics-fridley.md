@@ -15,7 +15,7 @@ Afzal Clinics is a plastic surgeon in Fridley, MN at 7362 University Avenue Nort
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/afzal-clinics-fridley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/afzal-clinics-fridley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13626243801 (license ODbL-1.0); source data as of 2026-07-24

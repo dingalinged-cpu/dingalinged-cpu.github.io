@@ -1,0 +1,611 @@
+{
+ "place": "Brazoria County, TX",
+ "slug": "brazoria-county-tx",
+ "count": 19,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "barber shop brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "car wash brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "dentist brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "dry cleaners brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "facial brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "haircut brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "insurance agency brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "insurance agent brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "insurance agents brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "locksmith brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/locksmith-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "martial arts brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "mechanic brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "nail salon brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "physical therapy brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "preschool brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "real estate agent brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "realtor brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-brazoria-county-tx.json"
+  },
+  {
+   "keyword": "waxing brazoria county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-brazoria-county-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "morenos-auto-repair-brazoria-county",
+   "name": "Morenos Auto Repair",
+   "summary": "Morenos Auto Repair is an auto repair shop in Brazoria County, TX at 2306 Donley Drive, Brazoria County, TX 77583.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morenos-auto-repair-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morenos-auto-repair-brazoria-county.json",
+   "address": {
+    "streetAddress": "2306 Donley Drive",
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "postalCode": "77583",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "zip": "77583",
+   "geo": {
+    "lat": 29.5144117,
+    "lon": -95.4172166
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12900259806",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "divine-nails-and-spa-brazoria-county",
+   "name": "Divine Nails & Spa",
+   "summary": "Divine Nails & Spa is a nail salon in Brazoria County, TX at 11540 Magnolia Parkway #C, Brazoria County, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/divine-nails-and-spa-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/divine-nails-and-spa-brazoria-county.json",
+   "address": {
+    "streetAddress": "11540 Magnolia Parkway #C",
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5406299,
+    "lon": -95.3988431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9441778728",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "greentree-cleaners-brazoria-county",
+   "name": "Greentree Cleaners",
+   "summary": "Greentree Cleaners is a dry cleaner in Brazoria County, TX at 11642 Magnolia Parkway #I, Brazoria County, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greentree-cleaners-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greentree-cleaners-brazoria-county.json",
+   "address": {
+    "streetAddress": "11642 Magnolia Parkway #I",
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.54062,
+    "lon": -95.3992953
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9441778733",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hc-taekwondo-brazoria-county",
+   "name": "HC Taekwondo",
+   "summary": "HC Taekwondo is a martial arts school in Brazoria County, TX at 11540 Magnolia Parkway #D, Brazoria County, TX.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hc-taekwondo-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hc-taekwondo-brazoria-county.json",
+   "address": {
+    "streetAddress": "11540 Magnolia Parkway #D",
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5406278,
+    "lon": -95.3989068
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9441778729",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "live-to-move-brazoria-county",
+   "name": "Live to Move",
+   "summary": "Live to Move is a physical therapy clinic in Brazoria County, TX at 11540 Magnolia Parkway #G, Brazoria County, TX.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/live-to-move-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/live-to-move-brazoria-county.json",
+   "address": {
+    "streetAddress": "11540 Magnolia Parkway #G",
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5406238,
+    "lon": -95.3991263
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9441778732",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pomona-dental-brazoria-county",
+   "name": "Pomona Dental",
+   "summary": "Pomona Dental is a dentist in Brazoria County, TX at 11540 Magnolia Parkway #E, Brazoria County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pomona-dental-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pomona-dental-brazoria-county.json",
+   "address": {
+    "streetAddress": "11540 Magnolia Parkway #E",
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5406244,
+    "lon": -95.3989925
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9441778730",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anglia-homes-marthas-vineyard-brazoria-county",
+   "name": "Anglia Homes Martha's Vineyard",
+   "summary": "Anglia Homes Martha's Vineyard is a real estate agency in Brazoria County, TX.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anglia-homes-marthas-vineyard-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anglia-homes-marthas-vineyard-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.4527533,
+    "lon": -95.3014113
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7320980489",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "castlerock-communities-marthas-vineyard-brazoria-county",
+   "name": "Castlerock Communities Martha's Vineyard",
+   "summary": "Castlerock Communities Martha's Vineyard is a real estate agency in Brazoria County, TX.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/castlerock-communities-marthas-vineyard-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/castlerock-communities-marthas-vineyard-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.452003,
+    "lon": -95.3015147
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7320980488",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "change-barber-studio-brazoria-county",
+   "name": "Change Barber Studio",
+   "summary": "Change Barber Studio is a barber shop in Brazoria County, TX.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/change-barber-studio-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/change-barber-studio-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5568355,
+    "lon": -95.3657779
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12605651579",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "circle-k-brazoria-county",
+   "name": "Circle K",
+   "summary": "Circle K is a car wash in Brazoria County, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/circle-k-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/circle-k-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5404543,
+    "lon": -95.399455
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1023897136",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "designer-smiles-dentistry-family-practice-brazoria-county",
+   "name": "Designer Smiles Dentistry Family Practice",
+   "summary": "Designer Smiles Dentistry Family Practice is a dentist in Brazoria County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/designer-smiles-dentistry-family-practice-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/designer-smiles-dentistry-family-practice-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5568994,
+    "lon": -95.365106
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12605651574",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-brazoria-county",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Brazoria County, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5556581,
+    "lon": -95.3686393
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/627672979",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "guidepost-montessori-brazoria-county",
+   "name": "Guidepost Montessori",
+   "summary": "Guidepost Montessori is a preschool in Brazoria County, TX.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/guidepost-montessori-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/guidepost-montessori-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5513094,
+    "lon": -95.3668655
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1212381280",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "havoline-xpress-lube-brazoria-county",
+   "name": "Havoline Xpress Lube",
+   "summary": "Havoline Xpress Lube is an auto repair shop in Brazoria County, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/havoline-xpress-lube-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/havoline-xpress-lube-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5556611,
+    "lon": -95.3711365
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5925538345",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-lube-brazoria-county",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Brazoria County, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5405694,
+    "lon": -95.398364
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10159950780",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "logos-automotive-repair-brazoria-county",
+   "name": "Logos Automotive Repair",
+   "summary": "Logos Automotive Repair is an auto repair shop in Brazoria County, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/logos-automotive-repair-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/logos-automotive-repair-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5556855,
+    "lon": -95.3718089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5925538344",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "primrose-school-of-pearland-brazoria-county",
+   "name": "Primrose School of Pearland",
+   "summary": "Primrose School of Pearland is a preschool in Brazoria County, TX.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/primrose-school-of-pearland-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/primrose-school-of-pearland-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5536732,
+    "lon": -95.3784718
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1024102311",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "replace-lost-keys-in-pearland-brazoria-county",
+   "name": "Replace Lost Keys In Pearland",
+   "summary": "Replace Lost Keys In Pearland is a locksmith in Brazoria County, TX.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/replace-lost-keys-in-pearland-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/replace-lost-keys-in-pearland-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5557505,
+    "lon": -95.3719771
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5925536478",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-brazoria-county",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Brazoria County, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-brazoria-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-brazoria-county.json",
+   "address": {
+    "addressLocality": "Brazoria County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brazoria County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5568334,
+    "lon": -95.3658477
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12605651580",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

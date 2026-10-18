@@ -15,7 +15,7 @@ High Dynasty Fade Barbershop is a hair salon in Chicago, IL at 5041 West Belmont
 - Opening hours (OSM syntax): Mo-Th 10:00-18:30; Fr-Sa 09:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/high-dynasty-fade-barbershop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/high-dynasty-fade-barbershop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8263256649 (license ODbL-1.0); source data as of 2026-06-01

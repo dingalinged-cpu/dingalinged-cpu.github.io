@@ -15,7 +15,7 @@ Pet Supplies Plus is a pet store in Chicago, IL at 3757 North Lincoln Avenue, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-chicago-n9354635439/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-chicago-n9354635439.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9354635439 (license ODbL-1.0); source data as of 2026-06-01

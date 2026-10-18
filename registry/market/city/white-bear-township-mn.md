@@ -2,7 +2,7 @@ Keyword market for White Bear Township, MN: 9 service keywords with search volum
 
 # Top keywords in White Bear Township, MN
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
 
 ## By monthly searches
 1. mechanic white bear township mn | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-white-bear-township-mn/

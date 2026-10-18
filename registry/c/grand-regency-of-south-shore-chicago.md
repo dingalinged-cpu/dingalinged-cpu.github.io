@@ -15,7 +15,7 @@ Grand Regency Of South Shore is an assisted living facility in Chicago, IL at 74
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/grand-regency-of-south-shore-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/grand-regency-of-south-shore-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211319558 (license ODbL-1.0); source data as of 2026-07-28

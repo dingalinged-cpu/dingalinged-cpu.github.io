@@ -15,7 +15,7 @@ DiChristofano & DiChristofano Dental Care of Norridge is a dentist in Norridge, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dichristofano-and-dichristofano-dental-care-of-norridge-norridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dichristofano-and-dichristofano-dental-care-of-norridge-norridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13034143860 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,45 @@
+{
+ "place": "Brookshire, TX",
+ "slug": "brookshire-tx",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "car wash brookshire tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-brookshire-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "truck-wash-brookshire",
+   "name": "Truck Wash",
+   "summary": "Truck Wash is a car wash in Brookshire, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/truck-wash-brookshire/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/truck-wash-brookshire.json",
+   "address": {
+    "addressLocality": "Brookshire",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Brookshire",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7769322,
+    "lon": -95.952365
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/691565346",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

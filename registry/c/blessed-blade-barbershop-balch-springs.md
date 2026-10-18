@@ -1,0 +1,23 @@
+Blessed Blade Barbershop is a hair salon in Balch Springs, TX at 12111 Seagoville Road #C, Balch Springs, TX 75180.
+
+# Blessed Blade Barbershop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 12111 Seagoville Road #C, Balch Springs, TX 75180
+- City: Balch Springs
+- State: TX
+- ZIP: 75180
+- Coordinates: 32.7053916, -96.6173105
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/blessed-blade-barbershop-balch-springs/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/blessed-blade-barbershop-balch-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13627940216 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

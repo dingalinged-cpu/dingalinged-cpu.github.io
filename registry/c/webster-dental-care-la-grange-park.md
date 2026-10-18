@@ -15,7 +15,7 @@ Webster Dental Care is a dentist in La Grange Park, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/webster-dental-care-la-grange-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/webster-dental-care-la-grange-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9731074102 (license ODbL-1.0); source data as of 2026-07-28

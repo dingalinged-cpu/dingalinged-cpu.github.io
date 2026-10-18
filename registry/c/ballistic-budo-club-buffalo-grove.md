@@ -15,7 +15,7 @@ Ballistic Budo Club is a martial arts school in Buffalo Grove, IL at 1148 West L
 - Opening hours (OSM syntax): Mo-We 15:00-21:00, Th 15:00-21:30, Fr 15:00-21:00, Sa 10:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ballistic-budo-club-buffalo-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ballistic-budo-club-buffalo-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11512046626 (license ODbL-1.0); source data as of 2026-07-28

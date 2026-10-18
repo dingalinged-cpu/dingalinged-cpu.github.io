@@ -15,7 +15,7 @@ Floyd's 99 Barbershop is a hair salon in Chicago, IL at 1953 North Clybourn Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-chicago-n5761907307/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/floyds-99-barbershop-chicago-n5761907307.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5761907307 (license ODbL-1.0); source data as of 2026-06-01

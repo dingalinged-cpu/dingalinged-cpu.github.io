@@ -1,0 +1,23 @@
+Urban Om is a yoga studio in Milwaukee, WI at 2410 North Farwell Avenue, Milwaukee, WI 53211. Phone: +14145335108. Website: https://www.urbanommke.com/.
+
+# Urban Om
+
+- Category: yoga classes
+- Services: yoga classes
+- Address: 2410 North Farwell Avenue, Milwaukee, WI 53211
+- City: Milwaukee
+- State: WI
+- ZIP: 53211
+- Coordinates: 43.0615993, -87.8838248
+- Phone: +14145335108
+- Website: https://www.urbanommke.com/
+- Email: yoga@urbanommke.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/urban-om-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/urban-om-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6532858638 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

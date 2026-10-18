@@ -15,7 +15,7 @@ Flooring Expo by Carpet King is a flooring company in Saint Louis Park, MN at 82
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/flooring-expo-by-carpet-king-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/flooring-expo-by-carpet-king-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9604315568 (license ODbL-1.0); source data as of 2026-06-01

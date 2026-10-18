@@ -15,7 +15,7 @@ St. Paul Family Dentistry is a dentist in Saint Paul, MN at 1050 Larpenteur Aven
 - Opening hours (OSM syntax): Mo 06:30-17:00; Tu 06:30-20:00; We-Th 06:30-19:00; Fr 06:30-14:00; Sa 09:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/st-paul-family-dentistry-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/st-paul-family-dentistry-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7147762889 (license ODbL-1.0); source data as of 2026-07-24

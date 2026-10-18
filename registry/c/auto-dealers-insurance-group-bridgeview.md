@@ -15,7 +15,7 @@ Auto Dealers Insurance Group is an insurance agent in Bridgeview, IL at 7213 Wes
 - Opening hours (OSM syntax): Mo - Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/auto-dealers-insurance-group-bridgeview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/auto-dealers-insurance-group-bridgeview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12531533262 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+James D. Rouse Agency, Inc. is an insurance agent in Milwaukee, WI at 8201 West Capitol Drive, Milwaukee, WI 53222. Phone: +14145273011. Website: https://www.amfam.com/agents/wisconsin/milwaukee/james-rouse.
+
+# James D. Rouse Agency, Inc.
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 8201 West Capitol Drive, Milwaukee, WI 53222
+- City: Milwaukee
+- State: WI
+- ZIP: 53222
+- Coordinates: 43.0896356, -88.0155102
+- Phone: +14145273011
+- Website: https://www.amfam.com/agents/wisconsin/milwaukee/james-rouse
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/james-d-rouse-agency-inc-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/james-d-rouse-agency-inc-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12638365627 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

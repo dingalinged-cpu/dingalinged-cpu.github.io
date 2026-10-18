@@ -1,0 +1,23 @@
+Wade Family Funeral Home is a funeral home in Arlington, TX at 4140 Pioneer Parkway, Arlington, TX 76013. Phone: +18172749233. Website: https://www.wadefamilyfuneralhome.com/.
+
+# Wade Family Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 4140 Pioneer Parkway, Arlington, TX 76013
+- City: Arlington
+- State: TX
+- ZIP: 76013
+- Coordinates: 32.7159395, -97.1705755
+- Phone: +18172749233
+- Website: https://www.wadefamilyfuneralhome.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/wade-family-funeral-home-arlington/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wade-family-funeral-home-arlington.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/713696522 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

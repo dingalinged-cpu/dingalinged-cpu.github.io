@@ -15,7 +15,7 @@ Lyn-Lake Psychotherapy and Wellness is a therapy practice in Minneapolis, MN at 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lyn-lake-psychotherapy-and-wellness-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lyn-lake-psychotherapy-and-wellness-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13706216736 (license ODbL-1.0); source data as of 2026-06-01

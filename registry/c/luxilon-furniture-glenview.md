@@ -15,7 +15,7 @@ Luxilon Furniture is a furniture store in Glenview, IL at 3222 Glenview Road, Gl
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/luxilon-furniture-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/luxilon-furniture-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10962466459 (license ODbL-1.0); source data as of 2026-06-01

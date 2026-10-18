@@ -15,7 +15,7 @@ Vesper is a dermatologist in Chicago, IL at 3916 North Broadway, Chicago, IL 606
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 10:00-15:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vesper-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vesper-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11224124187 (license ODbL-1.0); source data as of 2026-07-28

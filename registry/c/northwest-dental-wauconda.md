@@ -15,7 +15,7 @@ Northwest Dental is a dentist in Wauconda, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northwest-dental-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northwest-dental-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4354682549 (license ODbL-1.0); source data as of 2026-07-28

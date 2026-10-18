@@ -15,7 +15,7 @@ Extra Space Storage is a self-storage facility in Midlothian, IL at 3657 147th S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-midlothian/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-midlothian.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1026070875 (license ODbL-1.0); source data as of 2026-06-01

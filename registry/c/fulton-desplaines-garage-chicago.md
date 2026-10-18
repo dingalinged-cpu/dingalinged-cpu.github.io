@@ -15,7 +15,7 @@ Fulton-Desplaines Garage is an auto repair shop in Chicago, IL at 225 North Desp
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fulton-desplaines-garage-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fulton-desplaines-garage-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13055170347 (license ODbL-1.0); source data as of 2026-06-01

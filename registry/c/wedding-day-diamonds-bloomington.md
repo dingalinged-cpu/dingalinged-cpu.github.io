@@ -15,7 +15,7 @@ Wedding Day Diamonds is a jewelry store in Bloomington, MN at 7901 Penn Avenue S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wedding-day-diamonds-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wedding-day-diamonds-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/306604847 (license ODbL-1.0); source data as of 2026-06-01

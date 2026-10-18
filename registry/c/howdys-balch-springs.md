@@ -1,0 +1,23 @@
+Howdys is a liquor store in Balch Springs, TX at 3620 Shepherd Lane, Balch Springs, TX 75180.
+
+# Howdys
+
+- Category: liquor store
+- Services: liquor store
+- Address: 3620 Shepherd Lane, Balch Springs, TX 75180
+- City: Balch Springs
+- State: TX
+- ZIP: 75180
+- Coordinates: 32.7213583, -96.6135847
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/howdys-balch-springs/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/howdys-balch-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/673938960 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

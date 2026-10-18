@@ -15,7 +15,7 @@ H&R Block is a tax preparation service in Chicago, IL at 5837 West Madison Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/h-and-r-block-chicago-n7550953112/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-chicago-n7550953112.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7550953112 (license ODbL-1.0); source data as of 2026-07-28

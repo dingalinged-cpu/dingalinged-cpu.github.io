@@ -1,0 +1,23 @@
+Andrews Law Office is a lawyer in Houston, TX.
+
+# Andrews Law Office
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7840119, -95.3879218
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/andrews-law-office-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/andrews-law-office-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1087622158 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

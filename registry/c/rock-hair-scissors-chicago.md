@@ -15,7 +15,7 @@ Rock Hair Scissors is a hair salon in Chicago, IL at 5508 West Devon Avenue, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rock-hair-scissors-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rock-hair-scissors-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6237432715 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Choice Salon & Spa is a hair salon in Little Canada, MN at 2900 Rice Street, Lit
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/choice-salon-and-spa-little-canada/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/choice-salon-and-spa-little-canada.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12148759950 (license ODbL-1.0); source data as of 2026-06-01

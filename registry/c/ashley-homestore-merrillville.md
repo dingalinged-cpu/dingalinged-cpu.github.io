@@ -15,7 +15,7 @@ Ashley HomeStore is a furniture store in Merrillville, IN at 1550 East 81st Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ashley-homestore-merrillville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-merrillville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/821965920 (license ODbL-1.0); source data as of 2026-06-01

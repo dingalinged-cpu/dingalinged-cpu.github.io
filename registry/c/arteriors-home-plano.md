@@ -1,0 +1,23 @@
+Arteriors Home is a furniture store in Plano, TX at 3400 Preston Road #205, Plano, TX 75093. Phone: +19725190518.
+
+# Arteriors Home
+
+- Category: furniture store
+- Services: furniture store
+- Address: 3400 Preston Road #205, Plano, TX 75093
+- City: Plano
+- State: TX
+- ZIP: 75093
+- Coordinates: 33.0446106, -96.7929442
+- Phone: +19725190518
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Sa 10:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/arteriors-home-plano/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/arteriors-home-plano.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13725658259 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

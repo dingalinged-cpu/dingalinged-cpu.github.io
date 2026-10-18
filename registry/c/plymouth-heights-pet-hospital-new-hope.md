@@ -15,7 +15,7 @@ Plymouth Heights Pet Hospital is a veterinarian in New Hope, MN at 9200 49th Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/plymouth-heights-pet-hospital-new-hope/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/plymouth-heights-pet-hospital-new-hope.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/773589529 (license ODbL-1.0); source data as of 2026-07-24

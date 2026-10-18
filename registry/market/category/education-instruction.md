@@ -2,7 +2,7 @@ Keyword market for Education & Instruction: 29 national keywords (each also sold
 
 # Top Education & Instruction keywords
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
 
 ## By US monthly searches
 1. online courses | searches/mo 110,000 | CPC $4.81 | value $530,000 | Google Ads equiv $30,000/mo | our featured min $100/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#online-courses
@@ -27,11 +27,11 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 11. corporate training | searches/mo 1,600 (est) | CPC $4.81 | value $7,700 | Google Ads equiv $440/mo | our featured min $100/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#corporate-training
 12. cpr certification | searches/mo 18,000 (est) | CPC $4.81 | value $87,000 | Google Ads equiv $5,000/mo | our featured min $100/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#cpr-certification
 13. cpr classes | searches/mo 40,000 (est) | CPC $4.81 | value $190,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#cpr-classes
-14. daycare | searches/mo 220,000 (est) | CPC $4.81 | value $1,100,000 | Google Ads equiv $61,000/mo | our featured min $100/mo | registry competitors 187 | https://dingalinged-cpu.github.io/registry/k/daycare/
-15. driving school | searches/mo 40,000 (est) | CPC $4.81 | value $190,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 29 | https://dingalinged-cpu.github.io/registry/k/driving-school/
+14. daycare | searches/mo 220,000 (est) | CPC $4.81 | value $1,100,000 | Google Ads equiv $61,000/mo | our featured min $100/mo | registry competitors 462 | https://dingalinged-cpu.github.io/registry/k/daycare/
+15. driving school | searches/mo 40,000 (est) | CPC $4.81 | value $190,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 53 | https://dingalinged-cpu.github.io/registry/k/driving-school/
 16. math tutor | searches/mo 18,000 (est) | CPC $4.81 | value $87,000 | Google Ads equiv $5,000/mo | our featured min $100/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#math-tutor
 17. mba programs online | searches/mo 1,300 | CPC $4.81 | value $6,300 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#mba-programs-online
-18. music lessons | searches/mo 40,000 (est) | CPC $4.81 | value $190,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 67 | https://dingalinged-cpu.github.io/registry/k/music-lessons/
+18. music lessons | searches/mo 40,000 (est) | CPC $4.81 | value $190,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 103 | https://dingalinged-cpu.github.io/registry/k/music-lessons/
 19. nursing programs | searches/mo 60,500 | CPC $4.81 | value $290,000 | Google Ads equiv $17,000/mo | our featured min $100/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#nursing-programs
 20. online courses | searches/mo 110,000 | CPC $4.81 | value $530,000 | Google Ads equiv $30,000/mo | our featured min $100/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#online-courses
 

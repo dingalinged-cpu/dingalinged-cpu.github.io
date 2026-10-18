@@ -15,7 +15,7 @@ Kolatek’s Bakery & Deli is a bakery in Chicago, IL at 2445 North Harlem Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kolatek-s-bakery-and-deli-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kolatek-s-bakery-and-deli-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6319763174 (license ODbL-1.0); source data as of 2026-06-01

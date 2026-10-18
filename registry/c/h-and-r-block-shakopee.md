@@ -15,7 +15,7 @@ H&R Block is a tax preparation service in Shakopee, MN at 102 1st Avenue East, S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/h-and-r-block-shakopee/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-shakopee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9024231939 (license ODbL-1.0); source data as of 2026-05-31

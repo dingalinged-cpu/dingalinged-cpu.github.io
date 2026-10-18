@@ -15,7 +15,7 @@ The Hive on Hubbard is an event venue in Chicago, IL at 1843 West Hubbard Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-hive-on-hubbard-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-hive-on-hubbard-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6773226689 (license ODbL-1.0); source data as of 2026-07-28

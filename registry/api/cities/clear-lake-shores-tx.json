@@ -1,0 +1,49 @@
+{
+ "place": "Clear Lake Shores, TX",
+ "slug": "clear-lake-shores-tx",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "tire shop clear lake shores tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-clear-lake-shores-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "discount-tire-clear-lake-shores",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Clear Lake Shores, TX at 405 Marina Bay Drive, Clear Lake Shores, TX 77565. Phone: +12815389100.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-clear-lake-shores/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-clear-lake-shores.json",
+   "address": {
+    "streetAddress": "405 Marina Bay Drive",
+    "addressLocality": "Clear Lake Shores",
+    "addressRegion": "TX",
+    "postalCode": "77565",
+    "addressCountry": "US"
+   },
+   "city": "Clear Lake Shores",
+   "state": "TX",
+   "zip": "77565",
+   "geo": {
+    "lat": 29.5401549,
+    "lon": -95.0263482
+   },
+   "phone": "+12815389100",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1024422086",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

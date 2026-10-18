@@ -15,7 +15,7 @@ Urban Touch Barbers is a hair salon in Minneapolis, MN at 1401 East 38th Street,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/urban-touch-barbers-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/urban-touch-barbers-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/200093211 (license ODbL-1.0); source data as of 2026-06-01

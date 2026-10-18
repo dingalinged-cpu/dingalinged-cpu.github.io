@@ -15,7 +15,7 @@ Goldie's Flowers & Gifts is a florist in Chicago, IL at 3744 North Broadway, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goldies-flowers-and-gifts-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goldies-flowers-and-gifts-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11205367034 (license ODbL-1.0); source data as of 2026-06-01

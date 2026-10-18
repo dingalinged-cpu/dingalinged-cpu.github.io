@@ -15,7 +15,7 @@ Odd Couple Team Keller Williams Integrity Realty is a real estate agency in Sain
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/odd-couple-team-keller-williams-integrity-realty-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/odd-couple-team-keller-williams-integrity-realty-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/332987926 (license ODbL-1.0); source data as of 2026-05-31

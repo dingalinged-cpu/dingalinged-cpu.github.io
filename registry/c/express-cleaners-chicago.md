@@ -15,7 +15,7 @@ Express Cleaners is a dry cleaner in Chicago, IL at 1850 West North Avenue, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/express-cleaners-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/express-cleaners-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209867430 (license ODbL-1.0); source data as of 2026-06-01

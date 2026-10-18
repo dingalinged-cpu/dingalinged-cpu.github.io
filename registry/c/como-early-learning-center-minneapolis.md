@@ -15,7 +15,7 @@ Como Early Learning Center is a daycare in Minneapolis, MN at 1024 27th Avenue S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/como-early-learning-center-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/como-early-learning-center-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9757636478 (license ODbL-1.0); source data as of 2026-07-24

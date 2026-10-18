@@ -15,7 +15,7 @@ Pure Barre is a gym in Naperville, IL at 130 West Jefferson Avenue #212, Napervi
 - Opening hours (OSM syntax): Mo 08:30-20:30; Tu, Th 05:30-20:00; We 06:00-20:30; Fr 06:00-17:30; Sa 08:00-12:30; Su 07:00-12:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pure-barre-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pure-barre-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1040101911 (license ODbL-1.0); source data as of 2026-06-01

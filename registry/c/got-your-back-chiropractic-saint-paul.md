@@ -15,7 +15,7 @@ Got Your Back Chiropractic is a chiropractor in Saint Paul, MN at 1821 Universit
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/got-your-back-chiropractic-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/got-your-back-chiropractic-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7202339960 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Aaron's is a furniture store in Cicero, IL at 1800 South Cicero Avenue, Cicero, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/aarons-cicero/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/aarons-cicero.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7520892161 (license ODbL-1.0); source data as of 2026-06-01

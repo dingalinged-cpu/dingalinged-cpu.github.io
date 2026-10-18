@@ -15,7 +15,7 @@ An Orange Moon is a furniture store in Chicago, IL at 2418 West North Avenue, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/an-orange-moon-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/an-orange-moon-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3652955073 (license ODbL-1.0); source data as of 2026-06-01

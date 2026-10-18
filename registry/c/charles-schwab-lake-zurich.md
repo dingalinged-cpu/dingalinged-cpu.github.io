@@ -15,7 +15,7 @@ Charles Schwab is a financial advisor in Lake Zurich, IL at 430 Rand Road #140, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/charles-schwab-lake-zurich/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-lake-zurich.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12569824297 (license ODbL-1.0); source data as of 2026-07-28

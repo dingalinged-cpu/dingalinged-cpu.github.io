@@ -1,0 +1,23 @@
+Camille Milner - Milner Law is a lawyer in Denton, TX at 620 West Hickory Street, Denton, TX 76201. Phone: +19403832674. Website: https://milner-law.com/.
+
+# Camille Milner - Milner Law
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 620 West Hickory Street, Denton, TX 76201
+- City: Denton
+- State: TX
+- ZIP: 76201
+- Coordinates: 33.2148698, -97.1389914
+- Phone: +19403832674
+- Website: https://milner-law.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/camille-milner-milner-law-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/camille-milner-milner-law-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6230694774 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

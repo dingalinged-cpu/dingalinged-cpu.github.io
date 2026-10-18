@@ -15,7 +15,7 @@ Brennan Massage & Spa is a massage studio in Brookfield, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brennan-massage-and-spa-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brennan-massage-and-spa-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9735798717 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Sonrisa Family Dental is a dentist in Chicago, IL at 3948 W 26th St, #101, Chica
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 08:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sonrisa-family-dental-chicago-n12979935971/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sonrisa-family-dental-chicago-n12979935971.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12979935971 (license ODbL-1.0); source data as of 2026-07-28

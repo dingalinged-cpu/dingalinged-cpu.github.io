@@ -15,7 +15,7 @@ AutoBank is an used car dealer in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/autobank-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/autobank-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12964266703 (license ODbL-1.0); source data as of 2026-06-01

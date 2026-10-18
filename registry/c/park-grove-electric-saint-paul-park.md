@@ -15,7 +15,7 @@ Park Grove Electric is an electrician in Saint Paul Park, MN at 520 Pullman Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/park-grove-electric-saint-paul-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/park-grove-electric-saint-paul-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1185155219 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Veracity Technologies‎ - Minneapolis IT Services is an IT support company in M
 - Opening hours (OSM syntax): Mo-Fr 07:00 - 18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/veracity-technologies-minneapolis-it-services-minnetonka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/veracity-technologies-minneapolis-it-services-minnetonka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12488354253 (license ODbL-1.0); source data as of 2026-05-31

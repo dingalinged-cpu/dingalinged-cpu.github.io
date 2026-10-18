@@ -1,0 +1,23 @@
+ATI Physical Therapy is a physical therapy clinic in Whitefish Bay, WI at 106 West Silver Spring Drive #C, Whitefish Bay, WI.
+
+# ATI Physical Therapy
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 106 West Silver Spring Drive #C, Whitefish Bay, WI
+- City: Whitefish Bay
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.1187906, -87.9109316
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-whitefish-bay/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-whitefish-bay.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1153329594 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Pure Energy Therapy is a massage studio in Spring, TX at 303 Main Street, Spring, TX 77373. Phone: +18322761100. Website: https://places.singleplatform.com/pure-energy-therapy/menu.
+
+# Pure Energy Therapy
+
+- Category: massage
+- Services: massage
+- Address: 303 Main Street, Spring, TX 77373
+- City: Spring
+- State: TX
+- ZIP: 77373
+- Coordinates: 30.0790288, -95.4200219
+- Phone: +18322761100
+- Website: https://places.singleplatform.com/pure-energy-therapy/menu
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/pure-energy-therapy-spring/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pure-energy-therapy-spring.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11735568508 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

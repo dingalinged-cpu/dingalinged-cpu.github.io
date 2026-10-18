@@ -15,7 +15,7 @@ Valvoline is an auto repair shop in Minneapolis, MN at 600 East Lake Street, Min
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/valvoline-minneapolis-w93142326/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/valvoline-minneapolis-w93142326.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/93142326 (license ODbL-1.0); source data as of 2026-06-01

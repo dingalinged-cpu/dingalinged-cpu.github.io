@@ -15,7 +15,7 @@ AIR Aerial Fitness is a gym in Chicago, IL at 1317 South Michigan Avenue, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/air-aerial-fitness-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/air-aerial-fitness-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13290160978 (license ODbL-1.0); source data as of 2026-06-01

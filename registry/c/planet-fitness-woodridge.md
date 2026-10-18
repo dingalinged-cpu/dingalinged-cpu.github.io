@@ -15,7 +15,7 @@ Planet Fitness is a gym in Woodridge, IL at 8625 Woodward Avenue, Woodridge, IL 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-woodridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-woodridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/311857390 (license ODbL-1.0); source data as of 2026-06-01

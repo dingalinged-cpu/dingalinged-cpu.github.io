@@ -15,7 +15,7 @@ Northbrain is an IT support company in Golden Valley, MN at 7600 Wayzata Bouleva
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northbrain-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northbrain-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11135681322 (license ODbL-1.0); source data as of 2026-05-31

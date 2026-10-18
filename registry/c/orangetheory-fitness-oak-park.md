@@ -15,7 +15,7 @@ Orangetheory Fitness is a gym in Oak Park, IL at 7121 West North Avenue, Oak Par
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7150353980 (license ODbL-1.0); source data as of 2026-06-01

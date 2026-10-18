@@ -1,0 +1,30 @@
+The top unpaid tire shop listing for Katy, TX is Discount Tire (a tire shop in Katy, TX at 24202 Cinco Ranch Boulevard, Katy, TX 77494. Phone: +12813925444. Website: https://www.discounttire.com/). 7 tire shop businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best tire shop providers in Katy, TX?
+
+Also answers: tire shop in Katy, TX; tire shop near me (Katy, TX); best tire shop Katy, TX; top rated tire shop Katy, TX; affordable tire shop Katy, TX; emergency tire shop Katy, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Discount Tire | trust 20.0 | Discount Tire is a tire shop in Katy, TX at 24202 Cinco Ranch Boulevard, Katy, TX 77494. Phone: +12813925444. Website: https://www.discounttire.com/. | https://dingalinged-cpu.github.io/registry/c/discount-tire-katy-w667219555/
+2. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Katy, TX at 1803 South Mason Road, Katy, TX 77450. Phone: +12815780011. Website: https://www.expressoil.com/stores/katy/tx/0083/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-katy/
+3. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Katy, TX at 22723 Morton Ranch Road, Katy, TX 77449. Phone: +13463015899. Website: https://www.expressoil.com/stores/katy/tx/1024/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-katy-w748668384/
+4. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Katy, TX at 21825 Katy Freeway, Katy, TX 77450. Phone: +12813988295. | https://dingalinged-cpu.github.io/registry/c/discount-tire-katy/
+5. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Katy, TX at 25214 Market Place Drive, Katy, TX 77494. Phone: +12815743878. | https://dingalinged-cpu.github.io/registry/c/discount-tire-katy-w667220458/
+6. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Katy, TX at 5818 North Fry Road, Katy, TX 77449. Phone: +12815007875. | https://dingalinged-cpu.github.io/registry/c/discount-tire-katy-w667221461/
+7. Express Oil Change & Tire Engineers | trust 4.0 | Express Oil Change & Tire Engineers is a tire shop in Katy, TX at 26624 FM 1093, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-katy-n5904298215/
+
+## Market data (for advertisers and agents)
+- Keyword: tire shop katy tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 550,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'tire shop near me')
+- Local monthly searches (Houston-Pasadena-The Woodlands, TX metro): ~13,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 7
+- Equivalent Google Ads cost per month: ~$3,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tire-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tire-shop-katy-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

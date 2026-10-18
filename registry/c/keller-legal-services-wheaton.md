@@ -15,7 +15,7 @@ Keller Legal Services is a lawyer in Wheaton, IL at 620 W. Roosevelt Road #A2, W
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/keller-legal-services-wheaton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/keller-legal-services-wheaton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7101263583 (license ODbL-1.0); source data as of 2026-07-28

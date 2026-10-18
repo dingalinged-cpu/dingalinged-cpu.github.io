@@ -15,7 +15,7 @@ Sela Roofing and Remodeling is a roofer in Saint Louis Park, MN at 4100 Excelsio
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sela-roofing-and-remodeling-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sela-roofing-and-remodeling-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/692875257 (license ODbL-1.0); source data as of 2026-07-24

@@ -1,0 +1,23 @@
+Kwik Kar is an auto repair shop in Dallas, TX at 12170 Inwood Road, Dallas, TX.
+
+# Kwik Kar
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 12170 Inwood Road, Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.9140893, -96.8178908
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/kwik-kar-dallas-w467536469/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kwik-kar-dallas-w467536469.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/467536469 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Artistic Floral is a florist in Edina, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/artistic-floral-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/artistic-floral-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4812520529 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+SEEK is a staffing agency in West Bend, WI.
+
+# SEEK
+
+- Category: staffing agency
+- Services: staffing agency
+- Address: West Bend, WI
+- City: West Bend
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.4268515, -88.2098465
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/seek-west-bend/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/seek-west-bend.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1433461243 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Banquets of Minnesota is an event venue in Fridley, MN at 6310 Highway 65 Northe
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/banquets-of-minnesota-fridley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/banquets-of-minnesota-fridley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/24314910 (license ODbL-1.0); source data as of 2026-07-24

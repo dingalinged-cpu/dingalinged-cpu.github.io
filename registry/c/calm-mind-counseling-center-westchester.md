@@ -15,7 +15,7 @@ Calm Mind Counseling Center is a therapy practice in Westchester, IL. Phone: +17
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/calm-mind-counseling-center-westchester/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/calm-mind-counseling-center-westchester.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11735116358 (license ODbL-1.0); source data as of 2026-07-28

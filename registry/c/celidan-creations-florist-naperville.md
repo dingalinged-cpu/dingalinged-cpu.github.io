@@ -15,7 +15,7 @@ Celidan Creations Florist is a florist in Naperville, IL at 152 West Gartner Roa
 - Opening hours (OSM syntax): Mo-Sa 09:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/celidan-creations-florist-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/celidan-creations-florist-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8591829850 (license ODbL-1.0); source data as of 2026-06-01

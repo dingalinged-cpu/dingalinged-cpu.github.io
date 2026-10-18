@@ -15,7 +15,7 @@ Muller's Woodfield Acura is an used car dealer in Hoffman Estates, IL at 1099 We
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mullers-woodfield-acura-hoffman-estates/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mullers-woodfield-acura-hoffman-estates.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/239695311 (license ODbL-1.0); source data as of 2026-06-01

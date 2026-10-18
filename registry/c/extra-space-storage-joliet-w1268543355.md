@@ -15,7 +15,7 @@ Extra Space Storage is a self-storage facility in Joliet, IL at 2100 Essington R
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-joliet-w1268543355/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-joliet-w1268543355.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1268543355 (license ODbL-1.0); source data as of 2026-06-01

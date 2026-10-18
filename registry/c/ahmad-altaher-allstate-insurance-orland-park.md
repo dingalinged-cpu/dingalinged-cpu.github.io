@@ -15,7 +15,7 @@ AHMAD ALTAHER: Allstate Insurance is an insurance agent in Orland Park, IL at 17
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ahmad-altaher-allstate-insurance-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ahmad-altaher-allstate-insurance-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13619006095 (license ODbL-1.0); source data as of 2026-07-28

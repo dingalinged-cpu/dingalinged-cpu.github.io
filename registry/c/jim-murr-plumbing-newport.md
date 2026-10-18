@@ -15,7 +15,7 @@ Jim Murr Plumbing is a plumber in Newport, MN at 780 19th Street, Newport, MN 55
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jim-murr-plumbing-newport/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jim-murr-plumbing-newport.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/977596212 (license ODbL-1.0); source data as of 2026-07-24

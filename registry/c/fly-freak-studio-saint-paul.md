@@ -15,7 +15,7 @@ Fly Freak Studio is a yoga studio in Saint Paul, MN at 755 North Prior Avenue #2
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fly-freak-studio-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fly-freak-studio-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11904495604 (license ODbL-1.0); source data as of 2026-07-15

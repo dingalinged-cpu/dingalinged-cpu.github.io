@@ -15,7 +15,7 @@ Burnham Nationwide is a business consultant in Chicago, IL at 111 West Washingto
 - Opening hours (OSM syntax): Mo-Fr 8:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/burnham-nationwide-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/burnham-nationwide-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11336634066 (license ODbL-1.0); source data as of 2026-07-28

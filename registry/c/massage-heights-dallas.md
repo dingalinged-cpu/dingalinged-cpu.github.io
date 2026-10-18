@@ -1,0 +1,23 @@
+Massage Heights is a massage studio in Dallas, TX at 5290 Belt Line Road #122B, Dallas, TX 75254.
+
+# Massage Heights
+
+- Category: massage
+- Services: massage
+- Address: 5290 Belt Line Road #122B, Dallas, TX 75254
+- City: Dallas
+- State: TX
+- ZIP: 75254
+- Coordinates: 32.9530645, -96.8167581
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/massage-heights-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/massage-heights-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11809864140 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

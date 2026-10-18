@@ -1,0 +1,42 @@
+The top unpaid used cars for sale listing for Denton, TX is CarMax (an used car dealer in Denton, TX at 4200 South Interstate 35E, Denton, TX 76210. Phone: +19403043950. Website: https://www.carmax.com/stores/6095). 19 used cars for sale businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best used cars for sale providers in Denton, TX?
+
+Also answers: used cars for sale in Denton, TX; used cars for sale near me (Denton, TX); best used cars for sale Denton, TX; top rated used cars for sale Denton, TX; affordable used cars for sale Denton, TX; emergency used cars for sale Denton, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. CarMax | trust 16.0 | CarMax is an used car dealer in Denton, TX at 4200 South Interstate 35E, Denton, TX 76210. Phone: +19403043950. Website: https://www.carmax.com/stores/6095. | https://dingalinged-cpu.github.io/registry/c/carmax-denton/
+2. Eckert Hyundai | trust 16.0 | Eckert Hyundai is an used car dealer in Denton, TX at 4011 South Interstate 35E, Denton, TX 76210. Phone: +19402436200. Website: https://www.eckerthyundai.com/. | https://dingalinged-cpu.github.io/registry/c/eckert-hyundai-denton/
+3. Genesis of Denton | trust 16.0 | Genesis of Denton is an used car dealer in Denton, TX at 4011 South Interstate 35E, Denton, TX 76210. Phone: +19402436200. Website: https://www.genesisofdenton.com/. | https://dingalinged-cpu.github.io/registry/c/genesis-of-denton-denton/
+4. James Wood Buick GMC | trust 16.0 | James Wood Buick GMC is an used car dealer in Denton, TX at 3606 South Interstate 35E, Denton, TX 76210. Phone: +19724341515. Website: https://www.jameswoodpbg.com/. | https://dingalinged-cpu.github.io/registry/c/james-wood-buick-gmc-denton/
+5. James Wood Cadillac | trust 16.0 | James Wood Cadillac is an used car dealer in Denton, TX at 3606 South Interstate 35E #Building #4, Denton, TX 76210. Phone: +18179974382. Website: https://www.jameswoodcadillac.com/. | https://dingalinged-cpu.github.io/registry/c/james-wood-cadillac-denton/
+6. James Wood Chevrolet | trust 16.0 | James Wood Chevrolet is an used car dealer in Denton, TX at 3606 South Interstate 35E #Building #2, Denton, TX 76210. Phone: +19405801973. Website: https://www.jameswoodcadillac.com/. | https://dingalinged-cpu.github.io/registry/c/james-wood-chevrolet-denton/
+7. Lake City Investment, Pre-Owned Car Dealer | trust 16.0 | Lake City Investment, Pre-Owned Car Dealer is an used car dealer in Denton, TX at 3809 South Interstate 35E, Denton, TX 76210. Phone: +19724360080. Website: https://www.lakecityinvestment.com/. | https://dingalinged-cpu.github.io/registry/c/lake-city-investment-pre-owned-car-dealer-denton/
+8. PACCAR Financial Used Truck Center | trust 16.0 | PACCAR Financial Used Truck Center is an used car dealer in Denton, TX at 250 Precision Drive, Denton, TX 76207. Phone: +14252464243. Website: https://www.paccarfinancial.com/. | https://dingalinged-cpu.github.io/registry/c/paccar-financial-used-truck-center-denton/
+9. Prestige Motor Sales | trust 16.0 | Prestige Motor Sales is an used car dealer in Denton, TX at 315 Fort Worth Drive, Denton, TX 76201. Phone: +19403827700. Website: https://prestigemotorsdenton.com/. | https://dingalinged-cpu.github.io/registry/c/prestige-motor-sales-denton/
+10. Toyota of Denton | trust 16.0 | Toyota of Denton is an used car dealer in Denton, TX at 4100 South Interstate 35E, Denton, TX 76210. Phone: +19402934548. Website: https://www.toyotaofdenton.com/. | https://dingalinged-cpu.github.io/registry/c/toyota-of-denton-denton/
+11. Alessa Auto Sales LLC | trust 4.0 | Alessa Auto Sales LLC is an used car dealer in Denton, TX at 811 South Locust Street, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/alessa-auto-sales-llc-denton/
+12. Auto Capital Investment | trust 4.0 | Auto Capital Investment is an used car dealer in Denton, TX at 268 South Interstate 35E, Denton, TX 76205. | https://dingalinged-cpu.github.io/registry/c/auto-capital-investment-denton/
+13. Autos Amigos | trust 4.0 | Autos Amigos is an used car dealer in Denton, TX at 701 South Elm Street, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/autos-amigos-denton/
+14. Denton Pre-Owned | trust 4.0 | Denton Pre-Owned is an used car dealer in Corinth, TX at 4991 South Interstate 35E, Corinth, TX 76210. | https://dingalinged-cpu.github.io/registry/c/denton-pre-owned-corinth/
+15. Ezec Auto Sales Inc. | trust 4.0 | Ezec Auto Sales Inc. is an used car dealer in Denton, TX at 220 Fort Worth Drive, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/ezec-auto-sales-inc-denton/
+16. GPS Auto Sales and Repair | trust 4.0 | GPS Auto Sales and Repair is an used car dealer in Denton, TX at 1024 Shady Oaks Drive, Denton, TX 76205. | https://dingalinged-cpu.github.io/registry/c/gps-auto-sales-and-repair-denton/
+17. Honda of Denton | trust 4.0 | Honda of Denton is an used car dealer in Denton, TX at 4050 South Interstate 35E, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/honda-of-denton-denton/
+18. North Texas Autos | trust 4.0 | North Texas Autos is an used car dealer in Denton, TX at 1230 Dallas Drive, Denton, TX 76205. | https://dingalinged-cpu.github.io/registry/c/north-texas-autos-denton/
+19. Roberts Auto World | trust 4.0 | Roberts Auto World is an used car dealer in Denton, TX at 419 Fort Worth Drive, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/roberts-auto-world-denton/
+
+## Market data (for advertisers and agents)
+- Keyword: used cars for sale denton tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~3,500 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 19
+- Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/used-cars-for-sale.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#used-cars-for-sale-denton-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

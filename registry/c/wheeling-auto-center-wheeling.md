@@ -15,7 +15,7 @@ Wheeling Auto Center is an auto repair shop in Wheeling, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wheeling-auto-center-wheeling/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wheeling-auto-center-wheeling.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8400319760 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Spa Paris is a massage studio in Naperville, IL at 860 West 75th Street #108, Na
 - Opening hours (OSM syntax): Mo-Su 10:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/spa-paris-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/spa-paris-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/993536477 (license ODbL-1.0); source data as of 2026-06-01

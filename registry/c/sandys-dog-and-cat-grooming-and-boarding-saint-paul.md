@@ -15,7 +15,7 @@ Sandy's Dog and Cat Grooming and Boarding is a dog groomer in Saint Paul, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sandys-dog-and-cat-grooming-and-boarding-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sandys-dog-and-cat-grooming-and-boarding-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2605653755 (license ODbL-1.0); source data as of 2026-06-01

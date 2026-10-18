@@ -1,0 +1,962 @@
+{
+ "place": "Town Of Brookfield, WI",
+ "slug": "town-of-brookfield-wi",
+ "count": 30,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "auto repair town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "car wash town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "financial advisor town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "furniture store town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "general contractor town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/general-contractor-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "gift shop town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "gym town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "insurance agency town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "insurance agent town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "insurance agents town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "it support town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/it-support-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "jewelry store town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "lawyer town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "martial arts town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "mattress store town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "mechanic town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "nail salon town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "physical therapy town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "plastic surgeon town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plastic-surgeon-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "real estate agent town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "realtor town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "spa town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/spa-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "storage units town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "tanning salon town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "tire shop town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "vet town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-town-of-brookfield-wi.json"
+  },
+  {
+   "keyword": "window repair town of brookfield wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-repair-town-of-brookfield-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "freedom-wealth-alliance-brookfield",
+   "name": "Freedom Wealth Alliance",
+   "summary": "Freedom Wealth Alliance is a financial advisor in Brookfield, WI at 675 North Barker Road ##220, Brookfield, WI 53045. Phone: +12627987979. Website: https://freedomwealthalliance.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freedom-wealth-alliance-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freedom-wealth-alliance-brookfield.json",
+   "address": {
+    "streetAddress": "675 North Barker Road ##220",
+    "addressLocality": "Brookfield",
+    "addressRegion": "WI",
+    "postalCode": "53045",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "WI",
+   "zip": "53045",
+   "geo": {
+    "lat": 43.038854,
+    "lon": -88.1677554
+   },
+   "phone": "+12627987979",
+   "website": "https://freedomwealthalliance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/760455958",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "outdoor-living-unlimited-waukesha",
+   "name": "Outdoor Living Unlimited",
+   "summary": "Outdoor Living Unlimited is a general contractor in Waukesha, WI at 665 Larry Court, Waukesha, WI 53186. Phone: +12625674513. Website: https://outdoorlivingunlimited.com/.",
+   "categories": [
+    "general contractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/outdoor-living-unlimited-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/outdoor-living-unlimited-waukesha.json",
+   "address": {
+    "streetAddress": "665 Larry Court",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0387396,
+    "lon": -88.1759256
+   },
+   "phone": "+12625674513",
+   "website": "https://outdoorlivingunlimited.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/760455956",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tech-fusion-inc-waukesha",
+   "name": "Tech Fusion, Inc",
+   "summary": "Tech Fusion, Inc is an IT support company in Waukesha, WI at 20900 Swenson Drive, Waukesha, WI 53186. Phone: +14144550000. Website: https://www.tech-fusion.us/.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tech-fusion-inc-waukesha/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tech-fusion-inc-waukesha.json",
+   "address": {
+    "streetAddress": "20900 Swenson Drive",
+    "addressLocality": "Waukesha",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Waukesha",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.0332123,
+    "lon": -88.1729769
+   },
+   "phone": "+14144550000",
+   "website": "https://www.tech-fusion.us/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3018847224",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "westown-vet-clinic-town-of-brookfield",
+   "name": "Westown Vet Clinic",
+   "summary": "Westown Vet Clinic is a veterinarian in Town of Brookfield, WI at 21675 #200 Longview Drive, Town of Brookfield, WI 53186. Phone: +12627982780.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/westown-vet-clinic-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/westown-vet-clinic-town-of-brookfield.json",
+   "address": {
+    "streetAddress": "21675 #200 Longview Drive",
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "postalCode": "53186",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "zip": "53186",
+   "geo": {
+    "lat": 43.029504,
+    "lon": -88.1815951
+   },
+   "phone": "+12627982780",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9581366496",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cannon-and-dunphy-brookfield",
+   "name": "Cannon & Dunphy",
+   "summary": "Cannon & Dunphy is a lawyer in Brookfield, WI at 595 North Barker Road, Brookfield, WI 53045.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cannon-and-dunphy-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cannon-and-dunphy-brookfield.json",
+   "address": {
+    "streetAddress": "595 North Barker Road",
+    "addressLocality": "Brookfield",
+    "addressRegion": "WI",
+    "postalCode": "53045",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "WI",
+   "zip": "53045",
+   "geo": {
+    "lat": 43.0375405,
+    "lon": -88.1676081
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/551293677",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mister-car-wash-brookfield",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Brookfield, WI at 19050 West Bluemound Road, Brookfield, WI 53045.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-brookfield.json",
+   "address": {
+    "streetAddress": "19050 West Bluemound Road",
+    "addressLocality": "Brookfield",
+    "addressRegion": "WI",
+    "postalCode": "53045",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "WI",
+   "zip": "53045",
+   "geo": {
+    "lat": 43.0369067,
+    "lon": -88.1498226
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/69751401",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "athletico-physical-therapy-town-of-brookfield",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Town of Brookfield, WI at West Bluemound Road, Town of Brookfield, WI.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-town-of-brookfield.json",
+   "address": {
+    "streetAddress": "West Bluemound Road",
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0373187,
+    "lon": -88.1374769
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4584267991",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aaa-insurance-town-of-brookfield",
+   "name": "AAA Insurance",
+   "summary": "AAA Insurance is an insurance agent in Town of Brookfield, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aaa-insurance-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aaa-insurance-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0301789,
+    "lon": -88.1801505
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9581366498",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "alex-colque-m-d-plastic-surgery-town-of-brookfield",
+   "name": "Alex Colque M.D. Plastic Surgery",
+   "summary": "Alex Colque M.D. Plastic Surgery is a plastic surgeon in Town of Brookfield, WI.",
+   "categories": [
+    "plastic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alex-colque-m-d-plastic-surgery-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alex-colque-m-d-plastic-surgery-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0294559,
+    "lon": -88.1817823
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9581366494",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-taekwondo-center-town-of-brookfield",
+   "name": "American Taekwondo Center",
+   "summary": "American Taekwondo Center is a martial arts school in Town of Brookfield, WI.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-taekwondo-center-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-taekwondo-center-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0365978,
+    "lon": -88.1577958
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559451587",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anthony-vinc-nail-spa-town-of-brookfield",
+   "name": "Anthony Vincé Nail Spa",
+   "summary": "Anthony Vincé Nail Spa is a nail salon in Town of Brookfield, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anthony-vinc-nail-spa-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anthony-vinc-nail-spa-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0348402,
+    "lon": -88.1645404
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7103804360",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "arhaus-town-of-brookfield",
+   "name": "Arhaus",
+   "summary": "Arhaus is a furniture store in Town of Brookfield, WI.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arhaus-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arhaus-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0352709,
+    "lon": -88.1628174
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7103721463",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bluemound-self-storage-an-and-supply-town-of-brookfield",
+   "name": "Bluemound Self Storage an& Supply",
+   "summary": "Bluemound Self Storage an& Supply is a self-storage facility in Town of Brookfield, WI.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bluemound-self-storage-an-and-supply-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bluemound-self-storage-an-and-supply-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0375932,
+    "lon": -88.1383411
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9557291438",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "california-closets-town-of-brookfield",
+   "name": "California Closets",
+   "summary": "California Closets is a furniture store in Town of Brookfield, WI.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/california-closets-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/california-closets-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0379194,
+    "lon": -88.1479263
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2163135286",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cyclebar-town-of-brookfield",
+   "name": "CycleBar",
+   "summary": "CycleBar is a gym in Town of Brookfield, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cyclebar-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cyclebar-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0343,
+    "lon": -88.1644405
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7103804355",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dana-investmint-advisors-town-of-brookfield",
+   "name": "Dana Investmint Advisors",
+   "summary": "Dana Investmint Advisors is a financial advisor in Town of Brookfield, WI.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dana-investmint-advisors-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dana-investmint-advisors-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0334013,
+    "lon": -88.1702721
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9607758861",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "donovan-morr-glass-town-of-brookfield",
+   "name": "Donovan Morr-Glass",
+   "summary": "Donovan Morr-Glass is a window repair service in Town of Brookfield, WI.",
+   "categories": [
+    "window repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/donovan-morr-glass-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/donovan-morr-glass-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0366842,
+    "lon": -88.1577966
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559451589",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edible-arrangements-town-of-brookfield",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Town of Brookfield, WI.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0379739,
+    "lon": -88.1477898
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2163135270",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "f-and-f-tire-world-town-of-brookfield",
+   "name": "F&F Tire World",
+   "summary": "F&F Tire World is a tire shop in Town of Brookfield, WI.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/f-and-f-tire-world-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/f-and-f-tire-world-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0366938,
+    "lon": -88.163488
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9581366490",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "g-form-fitness-town-of-brookfield",
+   "name": "G-Form Fitness",
+   "summary": "G-Form Fitness is a gym in Town of Brookfield, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/g-form-fitness-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/g-form-fitness-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0366575,
+    "lon": -88.1576709
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559451588",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hassleless-mattress-town-of-brookfield",
+   "name": "HassleLess Mattress",
+   "summary": "HassleLess Mattress is a mattress store in Town of Brookfield, WI.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hassleless-mattress-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hassleless-mattress-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0355933,
+    "lon": -88.1477366
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559451568",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kendra-scott-town-of-brookfield",
+   "name": "Kendra Scott",
+   "summary": "Kendra Scott is a jewelry store in Town of Brookfield, WI.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kendra-scott-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kendra-scott-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0343261,
+    "lon": -88.1639405
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7103791016",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "maui-tan-town-of-brookfield",
+   "name": "Maui Tan",
+   "summary": "Maui Tan is a tanning salon in Town of Brookfield, WI.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maui-tan-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maui-tan-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0374762,
+    "lon": -88.1351704
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9581366465",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "point-real-estate-town-of-brookfield",
+   "name": "Point Real Estate",
+   "summary": "Point Real Estate is a real estate agency in Town of Brookfield, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/point-real-estate-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/point-real-estate-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0367563,
+    "lon": -88.1490961
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7659579952",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "skin-deep-spa-town-of-brookfield",
+   "name": "Skin Deep Spa",
+   "summary": "Skin Deep Spa is a spa in Town of Brookfield, WI.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/skin-deep-spa-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/skin-deep-spa-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0372412,
+    "lon": -88.1383061
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9557291436",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "super-lube-town-of-brookfield",
+   "name": "Super Lube",
+   "summary": "Super Lube is an auto repair shop in Town of Brookfield, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/super-lube-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/super-lube-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0378815,
+    "lon": -88.1362415
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4584267990",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-barre-code-town-of-brookfield",
+   "name": "The Barre Code",
+   "summary": "The Barre Code is a gym in Town of Brookfield, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-barre-code-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-barre-code-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0374816,
+    "lon": -88.137534
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4584267687",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "three-sixty-jiu-jitsu-academy-town-of-brookfield",
+   "name": "Three Sixty Jiu Jitsu Academy",
+   "summary": "Three Sixty Jiu Jitsu Academy is a martial arts school in Town of Brookfield, WI.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/three-sixty-jiu-jitsu-academy-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/three-sixty-jiu-jitsu-academy-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.034278,
+    "lon": -88.1503693
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9817739322",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tony-and-frinds-salon-and-spa-town-of-brookfield",
+   "name": "Tony & Frinds Salon & Spa",
+   "summary": "Tony & Frinds Salon & Spa is a spa in Town of Brookfield, WI.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tony-and-frinds-salon-and-spa-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tony-and-frinds-salon-and-spa-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0365967,
+    "lon": -88.1576718
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559451586",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ultimos-salon-and-spa-town-of-brookfield",
+   "name": "Ultimos Salon & Spa",
+   "summary": "Ultimos Salon & Spa is a spa in Town of Brookfield, WI.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ultimos-salon-and-spa-town-of-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ultimos-salon-and-spa-town-of-brookfield.json",
+   "address": {
+    "addressLocality": "Town of Brookfield",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Town of Brookfield",
+   "state": "WI",
+   "geo": {
+    "lat": 43.0367303,
+    "lon": -88.157681
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559451590",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

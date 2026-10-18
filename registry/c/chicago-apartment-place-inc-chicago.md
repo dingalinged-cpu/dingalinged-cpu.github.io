@@ -15,7 +15,7 @@ Chicago Apartment Place Inc is a real estate agency in Chicago, IL at 3654 North
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chicago-apartment-place-inc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicago-apartment-place-inc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12297090001 (license ODbL-1.0); source data as of 2026-07-28

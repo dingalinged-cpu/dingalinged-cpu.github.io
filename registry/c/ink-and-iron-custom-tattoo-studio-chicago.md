@@ -15,7 +15,7 @@ Ink and Iron Custom Tattoo Studio is a tattoo shop in Chicago, IL at 3700 North 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ink-and-iron-custom-tattoo-studio-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ink-and-iron-custom-tattoo-studio-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5918109735 (license ODbL-1.0); source data as of 2026-06-01

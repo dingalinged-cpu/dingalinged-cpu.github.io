@@ -15,7 +15,7 @@ Orland Park Chiropractic is a chiropractor in Orland Park, IL at 10751 W 143rd S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/orland-park-chiropractic-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/orland-park-chiropractic-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13367321289 (license ODbL-1.0); source data as of 2026-07-28

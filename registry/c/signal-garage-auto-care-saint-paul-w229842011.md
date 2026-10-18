@@ -15,7 +15,7 @@ Signal Garage Auto Care is an auto repair shop in Saint Paul, MN at 2050 Grand A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/signal-garage-auto-care-saint-paul-w229842011/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/signal-garage-auto-care-saint-paul-w229842011.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/229842011 (license ODbL-1.0); source data as of 2026-06-01

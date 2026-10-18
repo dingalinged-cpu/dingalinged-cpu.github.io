@@ -15,7 +15,7 @@ Shell is a car wash in Dolton, IL at 1445 East Sibley Boulevard, Dolton, IL 6041
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shell-dolton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shell-dolton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1331500002 (license ODbL-1.0); source data as of 2026-07-28

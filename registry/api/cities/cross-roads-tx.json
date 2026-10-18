@@ -1,0 +1,307 @@
+{
+ "place": "Cross Roads, TX",
+ "slug": "cross-roads-tx",
+ "count": 9,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop cross roads tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-cross-roads-tx.json"
+  },
+  {
+   "keyword": "auto repair cross roads tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-cross-roads-tx.json"
+  },
+  {
+   "keyword": "car wash cross roads tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-cross-roads-tx.json"
+  },
+  {
+   "keyword": "hair salon cross roads tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-cross-roads-tx.json"
+  },
+  {
+   "keyword": "haircut cross roads tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-cross-roads-tx.json"
+  },
+  {
+   "keyword": "mattress store cross roads tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-cross-roads-tx.json"
+  },
+  {
+   "keyword": "mechanic cross roads tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-cross-roads-tx.json"
+  },
+  {
+   "keyword": "tire shop cross roads tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-cross-roads-tx.json"
+  },
+  {
+   "keyword": "vet cross roads tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-cross-roads-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "take-5-car-wash-cross-roads",
+   "name": "Take 5 Car Wash",
+   "summary": "Take 5 Car Wash is a car wash in Cross Roads, TX at 10005 University Drive, Cross Roads, TX 76227. Phone: +19403333878. Website: https://take5carwash.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-car-wash-cross-roads/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-car-wash-cross-roads.json",
+   "address": {
+    "streetAddress": "10005 University Drive",
+    "addressLocality": "Cross Roads",
+    "addressRegion": "TX",
+    "postalCode": "76227",
+    "addressCountry": "US"
+   },
+   "city": "Cross Roads",
+   "state": "TX",
+   "zip": "76227",
+   "geo": {
+    "lat": 33.224623,
+    "lon": -96.9767406
+   },
+   "phone": "+19403333878",
+   "website": "https://take5carwash.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10282970274",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-cross-roads",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Cross Roads, TX at 3001 University Drive, Cross Roads, TX 76227. Phone: +19403659330.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-cross-roads/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-cross-roads.json",
+   "address": {
+    "streetAddress": "3001 University Drive",
+    "addressLocality": "Cross Roads",
+    "addressRegion": "TX",
+    "postalCode": "76227",
+    "addressCountry": "US"
+   },
+   "city": "Cross Roads",
+   "state": "TX",
+   "zip": "76227",
+   "geo": {
+    "lat": 33.2343225,
+    "lon": -97.0152235
+   },
+   "phone": "+19403659330",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/707474839",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "big-brand-tire-and-service-cross-roads",
+   "name": "Big Brand Tire & Service",
+   "summary": "Big Brand Tire & Service is an auto repair shop in Cross Roads, TX at 100 Naylor Road, Cross Roads, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-brand-tire-and-service-cross-roads/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-brand-tire-and-service-cross-roads.json",
+   "address": {
+    "streetAddress": "100 Naylor Road",
+    "addressLocality": "Cross Roads",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Cross Roads",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2247091,
+    "lon": -96.9887955
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1132011246",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "caliber-car-wash-cross-roads",
+   "name": "Caliber Car Wash",
+   "summary": "Caliber Car Wash is a car wash in Cross Roads, TX at 11960 Highway 380, Cross Roads, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-car-wash-cross-roads/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-car-wash-cross-roads.json",
+   "address": {
+    "streetAddress": "11960 Highway 380",
+    "addressLocality": "Cross Roads",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Cross Roads",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2254324,
+    "lon": -96.981189
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1486258710",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "caliber-collision-cross-roads",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Cross Roads, TX at 11751 US Highway 380 East, Cross Roads, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-cross-roads/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-cross-roads.json",
+   "address": {
+    "streetAddress": "11751 US Highway 380 East",
+    "addressLocality": "Cross Roads",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Cross Roads",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2241229,
+    "lon": -96.9835632
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1251834480",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-cross-roads",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Cross Roads, TX at 11980 Highway 380, Cross Roads, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-cross-roads/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-cross-roads.json",
+   "address": {
+    "streetAddress": "11980 Highway 380",
+    "addressLocality": "Cross Roads",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Cross Roads",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2260299,
+    "lon": -96.9806724
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1132011255",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "village-veterinary-center-cross-roads",
+   "name": "Village Veterinary Center",
+   "summary": "Village Veterinary Center is a veterinarian in Cross Roads, TX at 11930 Highway 380, Cross Roads, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-veterinary-center-cross-roads/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-veterinary-center-cross-roads.json",
+   "address": {
+    "streetAddress": "11930 Highway 380",
+    "addressLocality": "Cross Roads",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Cross Roads",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2262664,
+    "lon": -96.982258
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1132011249",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-cross-roads",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Cross Roads, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-cross-roads/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-cross-roads.json",
+   "address": {
+    "addressLocality": "Cross Roads",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Cross Roads",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2257856,
+    "lon": -96.9838622
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13624751972",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-cross-roads",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Cross Roads, TX.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-cross-roads/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-cross-roads.json",
+   "address": {
+    "addressLocality": "Cross Roads",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Cross Roads",
+   "state": "TX",
+   "geo": {
+    "lat": 33.226257,
+    "lon": -96.9868513
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13624751970",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

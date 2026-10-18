@@ -15,7 +15,7 @@ Allstate is an insurance agent in Glenview, IL at 630 Milwaukee Avenue #100, Gle
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13128747560 (license ODbL-1.0); source data as of 2026-07-28

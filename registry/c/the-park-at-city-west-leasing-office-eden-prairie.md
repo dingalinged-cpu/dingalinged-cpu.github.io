@@ -15,7 +15,7 @@ The Park at City West Leasing Office is a property management company in Eden Pr
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-park-at-city-west-leasing-office-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-park-at-city-west-leasing-office-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/931731417 (license ODbL-1.0); source data as of 2026-05-31

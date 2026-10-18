@@ -1,0 +1,23 @@
+Furniture By Sleep Quarters is a furniture store in Waxahachie, TX at 500 Dallas Highway, Waxahachie, TX 75165.
+
+# Furniture By Sleep Quarters
+
+- Category: furniture store
+- Services: furniture store
+- Address: 500 Dallas Highway, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.4069193, -96.8421195
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/furniture-by-sleep-quarters-waxahachie/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/furniture-by-sleep-quarters-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/510630319 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

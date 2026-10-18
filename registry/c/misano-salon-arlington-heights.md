@@ -15,7 +15,7 @@ Misano Salon is a hair salon in Arlington Heights, IL at 1434 East Hintz Road, A
 - Opening hours (OSM syntax): Mo-Th 09:00-21:00; Fr 09:00-17:00; Sa 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/misano-salon-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/misano-salon-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13145533412 (license ODbL-1.0); source data as of 2026-06-01

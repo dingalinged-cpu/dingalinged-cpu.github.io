@@ -15,7 +15,7 @@ Tire Zone & Auto Repair is an auto repair shop in New Lenox, IL at 204 North Ced
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tire-zone-and-auto-repair-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tire-zone-and-auto-repair-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/995777700 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Tasca Chevrolet is an used car dealer in Wheeling, IL at 700 West Dundee Road, W
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:00; Sa 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tasca-chevrolet-wheeling/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tasca-chevrolet-wheeling.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/344305073 (license ODbL-1.0); source data as of 2026-06-01

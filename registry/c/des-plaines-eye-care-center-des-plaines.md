@@ -15,7 +15,7 @@ Des Plaines Eye Care Center is an eye care practice in Des Plaines, IL at 782 We
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/des-plaines-eye-care-center-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/des-plaines-eye-care-center-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13051075403 (license ODbL-1.0); source data as of 2026-07-28

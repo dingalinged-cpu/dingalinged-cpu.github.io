@@ -1,4 +1,4 @@
-The top unpaid motorcycle repair listing for the United States is Blue Cat Motorcycle Repair (a motorcycle repair shop in Saint Paul, MN at 460 North Prior Avenue, Saint Paul, MN 55104. Phone: +16516451172. Website: https://www.bluecatmotorcycle.com/). 5 motorcycle repair businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid motorcycle repair listing for the United States is Blue Cat Motorcycle Repair (a motorcycle repair shop in Saint Paul, MN at 460 North Prior Avenue, Saint Paul, MN 55104. Phone: +16516451172. Website: https://www.bluecatmotorcycle.com/). 17 motorcycle repair businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best motorcycle repair providers in the United States?
 
@@ -7,21 +7,33 @@ Also answers: motorcycle repair in the United States; motorcycle repair near me 
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
 1. Blue Cat Motorcycle Repair | trust 20.0 | Blue Cat Motorcycle Repair is a motorcycle repair shop in Saint Paul, MN at 460 North Prior Avenue, Saint Paul, MN 55104. Phone: +16516451172. Website: https://www.bluecatmotorcycle.com/. | https://dingalinged-cpu.github.io/registry/c/blue-cat-motorcycle-repair-saint-paul/
-2. Honda Town | trust 20.0 | Honda Town is a motorcycle repair shop in Minneapolis, MN at 4215 East Lake Street, Minneapolis, MN 55406. Phone: +16127221110. Website: https://www.hondatown.net/. | https://dingalinged-cpu.github.io/registry/c/honda-town-minneapolis/
-3. Parts Hub | trust 4.0 | Parts Hub is a motorcycle repair shop in Newport, MN at 1668 Hastings Avenue, Newport, MN 55055. | https://dingalinged-cpu.github.io/registry/c/parts-hub-newport/
-4. Distant Brothers | trust 0.0 | Distant Brothers is a motorcycle repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/distant-brothers-lyons/
-5. Suicidal Cycle Works | trust 0.0 | Suicidal Cycle Works is a motorcycle repair shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/suicidal-cycle-works-brookfield/
+2. Cycle Gear | trust 20.0 | Cycle Gear is a motorcycle repair shop in Houston, TX at 7204 Southwest Freeway, Houston, TX 77074. Phone: +17132715201. Website: https://cyclegear.com/. | https://dingalinged-cpu.github.io/registry/c/cycle-gear-houston/
+3. Cycle Gear | trust 20.0 | Cycle Gear is a motorcycle repair shop in Katy, TX at 24727 Katy Freeway, Katy, TX 77494. Phone: +12817697055. Website: https://cyclegear.com/. | https://dingalinged-cpu.github.io/registry/c/cycle-gear-katy/
+4. Cycle Gear | trust 20.0 | Cycle Gear is a motorcycle repair shop in Shenandoah, TX at 19075 Interstate 45 South #900, Shenandoah, TX 77385. Phone: +12815031588. Website: https://www.cyclegear.com/. | https://dingalinged-cpu.github.io/registry/c/cycle-gear-shenandoah/
+5. Honda Town | trust 20.0 | Honda Town is a motorcycle repair shop in Minneapolis, MN at 4215 East Lake Street, Minneapolis, MN 55406. Phone: +16127221110. Website: https://www.hondatown.net/. | https://dingalinged-cpu.github.io/registry/c/honda-town-minneapolis/
+6. P1 Racing | trust 20.0 | P1 Racing is a motorcycle repair shop in Tomball, TX at 256 South Persimmon Street #100, Tomball, TX 77375. Phone: +12812556004. Website: https://www.p-1race.com/. | https://dingalinged-cpu.github.io/registry/c/p1-racing-tomball/
+7. Mancuso Crossroads Harley-Davidson Service | trust 16.0 | Mancuso Crossroads Harley-Davidson Service is a motorcycle repair shop in Harris County, TX. Phone: +12818977152. Website: https://www.mancusocrossroads.com/we-repair-your-harley-davidson-motorcycle-with-certified-technicians--service. | https://dingalinged-cpu.github.io/registry/c/mancuso-crossroads-harley-davidson-service-harris-county/
+8. In & Out Cycles | trust 14.0 | In & Out Cycles is a motorcycle repair shop in Houston, TX at 9034 Sweetwater Lane #A, Houston, TX 77037. Phone: +18324179060. | https://dingalinged-cpu.github.io/registry/c/in-and-out-cycles-houston/
+9. JRG Motorcycle Repair | trust 14.0 | JRG Motorcycle Repair is a motorcycle repair shop in Grand Prairie, TX at 1921 Curtiss Street, Grand Prairie, TX 75050. Phone: +14693593392. | https://dingalinged-cpu.github.io/registry/c/jrg-motorcycle-repair-grand-prairie/
+10. Harley-Davidson | trust 12.0 | Harley-Davidson is a motorcycle repair shop in Carrollton, TX. Phone: +19728455768. Website: https://www.maverickhd.com/service/. | https://dingalinged-cpu.github.io/registry/c/harley-davidson-carrollton/
+11. Service Department | trust 12.0 | Service Department is a motorcycle repair shop in Pasadena, TX. Phone: +17133640827. Website: https://www.stubbshd.com/Departments/Service-Department. | https://dingalinged-cpu.github.io/registry/c/service-department-pasadena/
+12. Harley-Davidson | trust 8.0 | Harley-Davidson is a motorcycle repair shop in Allen, TX at 1007 State Highway 121, Allen, TX 75013. | https://dingalinged-cpu.github.io/registry/c/harley-davidson-allen/
+13. Parts Hub | trust 4.0 | Parts Hub is a motorcycle repair shop in Newport, MN at 1668 Hastings Avenue, Newport, MN 55055. | https://dingalinged-cpu.github.io/registry/c/parts-hub-newport/
+14. A Bikers Garage | trust 0.0 | A Bikers Garage is a motorcycle repair shop in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/a-bikers-garage-roanoke/
+15. Cycle Worx | trust 0.0 | Cycle Worx is a motorcycle repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cycle-worx-harris-county/
+16. Distant Brothers | trust 0.0 | Distant Brothers is a motorcycle repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/distant-brothers-lyons/
+17. Suicidal Cycle Works | trust 0.0 | Suicidal Cycle Works is a motorcycle repair shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/suicidal-cycle-works-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
-- US monthly searches: 22,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 22,000-60,000)
+- US monthly searches: 22,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 22,000-60,000)
 - CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 5
+- Registry businesses competing: 17
 - Equivalent Google Ads cost per month: ~$5,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/motorcycle-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#motorcycle-repair | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/motorcycle-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#motorcycle-repair | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

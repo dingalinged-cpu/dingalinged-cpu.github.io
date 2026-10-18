@@ -1,0 +1,23 @@
+Earthwise Pet is a pet store in Southlake, TX at 100 West Southlake Boulevard #150, Southlake, TX. Phone: +18179121471.
+
+# Earthwise Pet
+
+- Category: pet store
+- Services: pet store
+- Address: 100 West Southlake Boulevard #150, Southlake, TX
+- City: Southlake
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.9424297, -97.1524678
+- Phone: +18179121471
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-18:00; Su off
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/earthwise-pet-southlake/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/earthwise-pet-southlake.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12148436710 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

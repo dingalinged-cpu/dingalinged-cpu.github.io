@@ -15,7 +15,7 @@ C'zar Salon & Spa is a hair salon in Naperville, IL at 237 West Jefferson Avenue
 - Opening hours (OSM syntax): Tu-Th 09:00-20:00, Fr 09:00-19:00, Sa 08:30-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/czar-salon-and-spa-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/czar-salon-and-spa-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/239197563 (license ODbL-1.0); source data as of 2026-06-01

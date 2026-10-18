@@ -15,7 +15,7 @@ Richard's Bicycles is a bike shop in Palos Heights, IL at 11933 Harlem Avenue, P
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/richards-bicycles-palos-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/richards-bicycles-palos-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/242559322 (license ODbL-1.0); source data as of 2026-06-01

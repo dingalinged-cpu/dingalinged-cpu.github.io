@@ -15,7 +15,7 @@ J.L.O is a hair salon in Mundelein, IL at 26290, Mundelein, IL. Phone: +18478378
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 09:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/j-l-o-mundelein/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/j-l-o-mundelein.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9809669576 (license ODbL-1.0); source data as of 2026-06-01

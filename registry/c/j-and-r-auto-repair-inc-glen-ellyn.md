@@ -15,7 +15,7 @@ J & R Auto Repair, Inc. is an auto repair shop in Glen Ellyn, IL at 574 Pennsylv
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/j-and-r-auto-repair-inc-glen-ellyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/j-and-r-auto-repair-inc-glen-ellyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12996827772 (license ODbL-1.0); source data as of 2026-06-01

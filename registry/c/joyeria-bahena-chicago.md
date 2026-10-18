@@ -15,7 +15,7 @@ Joyeria Bahena is a jewelry store in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/joyeria-bahena-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/joyeria-bahena-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3641096471 (license ODbL-1.0); source data as of 2026-06-01

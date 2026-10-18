@@ -15,7 +15,7 @@ Planet Fitness is a gym in Chicago, IL at 3636 North Broadway, Chicago, IL 60613
 - Opening hours (OSM syntax): Mo-Th 00:00-24:00; Fr 00:00-21:00; Sa 07:00-19:00; Su 07:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-chicago-n11209251925/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-chicago-n11209251925.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11209251925 (license ODbL-1.0); source data as of 2026-06-01

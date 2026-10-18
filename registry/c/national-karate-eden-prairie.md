@@ -15,7 +15,7 @@ National Karate is a martial arts school in Eden Prairie, MN at 8423 Joiner Way,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/national-karate-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/national-karate-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12021287797 (license ODbL-1.0); source data as of 2026-07-24

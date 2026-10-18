@@ -15,7 +15,7 @@ Companion Animal Hospital is a veterinarian in Eagan, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/companion-animal-hospital-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1374555601 (license ODbL-1.0); source data as of 2026-07-24

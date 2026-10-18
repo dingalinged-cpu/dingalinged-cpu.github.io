@@ -15,7 +15,7 @@ InPowered Therapy + Yoga is a therapy practice in Chicago, IL at 2220 West Lawre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/inpowered-therapy-yoga-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/inpowered-therapy-yoga-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12560744501 (license ODbL-1.0); source data as of 2026-07-28

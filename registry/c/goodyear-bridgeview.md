@@ -15,7 +15,7 @@ Goodyear is an auto repair shop in Bridgeview, IL at 9200 Harlem Avenue, Bridgev
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goodyear-bridgeview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodyear-bridgeview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1176342436 (license ODbL-1.0); source data as of 2026-06-01

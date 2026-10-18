@@ -15,7 +15,7 @@ Bicycle Chain is a bike shop in Roseville, MN at 1712 Lexington Avenue North, Ro
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bicycle-chain-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bicycle-chain-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1914627254 (license ODbL-1.0); source data as of 2026-06-01

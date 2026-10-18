@@ -15,7 +15,7 @@ Zales is a jewelry store in Norridge, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/zales-norridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/zales-norridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10014702717 (license ODbL-1.0); source data as of 2026-06-01

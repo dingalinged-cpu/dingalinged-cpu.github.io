@@ -15,7 +15,7 @@ Larpenteur Manor Apartments Management Office is a property management company i
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/larpenteur-manor-apartments-management-office-falcon-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/larpenteur-manor-apartments-management-office-falcon-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13799110507 (license ODbL-1.0); source data as of 2026-05-31

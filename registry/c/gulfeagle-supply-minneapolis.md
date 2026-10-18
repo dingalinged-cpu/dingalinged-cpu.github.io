@@ -15,7 +15,7 @@ Gulfeagle Supply is a roofer in Minneapolis, MN at 900 Glenwood Avenue, Minneapo
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gulfeagle-supply-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gulfeagle-supply-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/240869821 (license ODbL-1.0); source data as of 2026-07-24

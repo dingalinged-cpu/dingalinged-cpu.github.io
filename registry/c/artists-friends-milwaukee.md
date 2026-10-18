@@ -1,0 +1,23 @@
+Artists' Friends is a jewelry store in Milwaukee, WI at 2207 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142487085.
+
+# Artists' Friends
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 2207 North Farwell Avenue, Milwaukee, WI 53202
+- City: Milwaukee
+- State: WI
+- ZIP: 53202
+- Coordinates: 43.0595495, -87.8861783
+- Phone: +14142487085
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/artists-friends-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/artists-friends-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2103445407 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Vernon Hills Gymnastics is a gym in Vernon Hills, IL at 645 Lakeview Parkway #10
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vernon-hills-gymnastics-vernon-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vernon-hills-gymnastics-vernon-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7175470397 (license ODbL-1.0); source data as of 2026-06-01

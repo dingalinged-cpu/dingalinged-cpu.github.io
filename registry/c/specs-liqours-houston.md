@@ -1,0 +1,23 @@
+Spec's Liqours is a liquor store in Houston, TX at 12901 Queensbury Lane, Houston, TX 77079. Website: https://www.specsonline.com/cgi-bin/showmap?store=49.
+
+# Spec's Liqours
+
+- Category: liquor store
+- Services: liquor store
+- Address: 12901 Queensbury Lane, Houston, TX 77079
+- City: Houston
+- State: TX
+- ZIP: 77079
+- Coordinates: 29.7776063, -95.5635707
+- Phone: n/a
+- Website: https://www.specsonline.com/cgi-bin/showmap?store=49
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/specs-liqours-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/specs-liqours-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/173714107 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

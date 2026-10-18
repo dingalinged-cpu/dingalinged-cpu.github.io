@@ -15,7 +15,7 @@ Discount Tire is a tire shop in Homer Glen, IL at 14011 South Bell Road, Homer G
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/discount-tire-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5631145037 (license ODbL-1.0); source data as of 2026-06-01

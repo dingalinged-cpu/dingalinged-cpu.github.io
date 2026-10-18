@@ -15,7 +15,7 @@ Willow Insurance Services Inc is an insurance agent in La Grange, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/willow-insurance-services-inc-la-grange/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/willow-insurance-services-inc-la-grange.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8944618111 (license ODbL-1.0); source data as of 2026-07-28

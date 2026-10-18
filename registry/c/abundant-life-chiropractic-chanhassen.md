@@ -15,7 +15,7 @@ Abundant Life Chiropractic is a chiropractor in Chanhassen, MN at 7945 Stone Cre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/abundant-life-chiropractic-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/abundant-life-chiropractic-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6734428569 (license ODbL-1.0); source data as of 2026-06-01

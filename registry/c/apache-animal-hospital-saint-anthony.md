@@ -15,7 +15,7 @@ Apache Animal Hospital is a veterinarian in Saint Anthony, MN at 2503 37th Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/apache-animal-hospital-saint-anthony/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/apache-animal-hospital-saint-anthony.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13139770975 (license ODbL-1.0); source data as of 2026-07-24

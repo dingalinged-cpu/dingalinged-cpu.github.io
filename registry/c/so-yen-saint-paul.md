@@ -15,7 +15,7 @@ So Yen is a bakery in Saint Paul, MN at 275 4th Street East, Saint Paul, MN 5510
 - Opening hours (OSM syntax): Fr-Su 09:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/so-yen-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/so-yen-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13806880201 (license ODbL-1.0); source data as of 2026-06-01

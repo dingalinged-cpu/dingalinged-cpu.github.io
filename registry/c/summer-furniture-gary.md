@@ -15,7 +15,7 @@ Summer Furniture is a furniture store in Gary, IN at 3320 Grant Street, Gary, IN
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/summer-furniture-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/summer-furniture-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10788395606 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+S.P.O.R.T. Orthopedic Urgent Care is an orthopedic surgeon in Frisco, TX at 9255 Dallas Parkway #120, Frisco, TX.
+
+# S.P.O.R.T. Orthopedic Urgent Care
+
+- Category: orthopedic surgeon
+- Services: orthopedic surgeon
+- Address: 9255 Dallas Parkway #120, Frisco, TX
+- City: Frisco
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.1550991, -96.8412107
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/s-p-o-r-t-orthopedic-urgent-care-frisco/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/s-p-o-r-t-orthopedic-urgent-care-frisco.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13320213952 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

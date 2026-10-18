@@ -15,7 +15,7 @@ Schaumburg Pre-Driven Used Cars is an used car dealer in Schaumburg, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/schaumburg-pre-driven-used-cars-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/schaumburg-pre-driven-used-cars-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/654051951 (license ODbL-1.0); source data as of 2026-06-01

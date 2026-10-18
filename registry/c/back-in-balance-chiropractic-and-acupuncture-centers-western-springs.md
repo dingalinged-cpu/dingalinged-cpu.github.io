@@ -15,7 +15,7 @@ Back In Balance Chiropractic & Acupuncture Centers is a chiropractor in Western 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/back-in-balance-chiropractic-and-acupuncture-centers-western-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/back-in-balance-chiropractic-and-acupuncture-centers-western-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9603287967 (license ODbL-1.0); source data as of 2026-07-28

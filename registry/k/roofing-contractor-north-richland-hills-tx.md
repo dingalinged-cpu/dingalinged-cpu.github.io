@@ -1,0 +1,30 @@
+The top unpaid roofing contractor listing for North Richland Hills, TX is Hammerhead Roof (a roofer in North Richland Hills, TX at 4925 Davis Boulevard #216, North Richland Hills, TX 76180. Phone: +18174756882. Website: https://hammerheadroof.com/). 6 roofing contractor businesses are listed for North Richland Hills, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best roofing contractor providers in North Richland Hills, TX?
+
+Also answers: roofing contractor in North Richland Hills, TX; roofing contractor near me (North Richland Hills, TX); best roofing contractor North Richland Hills, TX; top rated roofing contractor North Richland Hills, TX; affordable roofing contractor North Richland Hills, TX; emergency roofing contractor North Richland Hills, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Hammerhead Roof | trust 20.0 | Hammerhead Roof is a roofer in North Richland Hills, TX at 4925 Davis Boulevard #216, North Richland Hills, TX 76180. Phone: +18174756882. Website: https://hammerheadroof.com/. | https://dingalinged-cpu.github.io/registry/c/hammerhead-roof-north-richland-hills/
+2. Ahlers Roofing and Construction | trust 16.0 | Ahlers Roofing and Construction is a roofer in North Richland Hills, TX at 7709 Davis Boulevard, North Richland Hills, TX 76182. Phone: +12142147663. Website: https://www.ahlersroofing.com/roofing-and-construction-in-north-richland-hills-texas. | https://dingalinged-cpu.github.io/registry/c/ahlers-roofing-and-construction-north-richland-hills/
+3. Gotcha Covered Contracting | trust 16.0 | Gotcha Covered Contracting is a roofer in North Richland Hills, TX at 8204 Northeast Parkway #124, North Richland Hills, TX 76182. Phone: +18178122703. Website: https://www.gccroofers.com/texas/. | https://dingalinged-cpu.github.io/registry/c/gotcha-covered-contracting-north-richland-hills/
+4. Precision Construction & Roofing | trust 16.0 | Precision Construction & Roofing is a roofer in North Richland Hills, TX at 7605 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18175198985. Website: https://precisionconstructionandroofing.com/. | https://dingalinged-cpu.github.io/registry/c/precision-construction-and-roofing-north-richland-hills/
+5. Acme Roof Systems Inc | trust 13.0 | Acme Roof Systems Inc is a roofer in North Richland Hills, TX at 9128 Belshire Drive, North Richland Hills, TX. Website: https://acmeroofsystems.com/contact-us/. | https://dingalinged-cpu.github.io/registry/c/acme-roof-systems-inc-north-richland-hills/
+6. Deluxe Roofing & Construction | trust 10.0 | Deluxe Roofing & Construction is a roofer in North Richland Hills, TX at 8032 Main Street, North Richland Hills, TX 76182. Website: https://deluxeroofingdfw.com/contact/. | https://dingalinged-cpu.github.io/registry/c/deluxe-roofing-and-construction-north-richland-hills/
+
+## Market data (for advertisers and agents)
+- Keyword: roofing contractor north richland hills tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement
+- US monthly searches: 135,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'roofing contractor')
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~3,300 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $7.85, median $10.70, high $10.70 (Home & Home Improvement median CPC 2026 $8.33 [https://www.localiq.com/blog/search-advertising-benchmarks]; Home & Home Improvement median CPC 2025 $7.85 [https://www.wordstream.com/blog/2025-google-ads-benchmarks]; Home services subcategory 'Roofing' CPC 2025 $10.70 [https://localiq.com/blog/home-services-search-advertising-benchmarks/])
+- Google Keyword Planner top-of-page bid for 'roofing contractor': $11.79-$60.00 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: low (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 6
+- Equivalent Google Ads cost per month: ~$2,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/roofing-contractor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#roofing-contractor-north-richland-hills-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

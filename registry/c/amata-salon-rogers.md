@@ -15,7 +15,7 @@ Amata Salon is a hair salon in Rogers, MN at 21333 John Milless Drive, Rogers, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/amata-salon-rogers/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/amata-salon-rogers.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10776256303 (license ODbL-1.0); source data as of 2026-06-01

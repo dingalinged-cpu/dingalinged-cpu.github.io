@@ -1,0 +1,23 @@
+Unique Kids Pediatric Dentistry is a dentist in New Caney, TX at 22118 Market Place Drive #500, New Caney, TX 77357. Website: https://www.uniquekidsdentistry.com/.
+
+# Unique Kids Pediatric Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 22118 Market Place Drive #500, New Caney, TX 77357
+- City: New Caney
+- State: TX
+- ZIP: 77357
+- Coordinates: 30.1316237, -95.2378728
+- Phone: n/a
+- Website: https://www.uniquekidsdentistry.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/unique-kids-pediatric-dentistry-new-caney/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/unique-kids-pediatric-dentistry-new-caney.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10114908020 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

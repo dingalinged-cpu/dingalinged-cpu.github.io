@@ -15,7 +15,7 @@ Skin MD is a dermatologist in Orland Park, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/skin-md-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/skin-md-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1000064861 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Zembar Jewelrs is a jewelry store in New Lenox, IL at 2457 East Joliet Highway, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/zembar-jewelrs-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/zembar-jewelrs-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9195135857 (license ODbL-1.0); source data as of 2026-06-01

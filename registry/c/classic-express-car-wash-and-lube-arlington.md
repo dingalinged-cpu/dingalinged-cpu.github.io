@@ -1,0 +1,23 @@
+Classic Express Car Wash and Lube is a car wash in Arlington, TX.
+
+# Classic Express Car Wash and Lube
+
+- Category: car wash
+- Services: car wash
+- Address: Arlington, TX
+- City: Arlington
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.6643007, -97.1350079
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/classic-express-car-wash-and-lube-arlington/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/classic-express-car-wash-and-lube-arlington.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/433207797 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

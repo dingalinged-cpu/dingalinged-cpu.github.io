@@ -1,0 +1,23 @@
+First Impressions Barber/Salon is a hair salon in Milwaukee, WI at 2214 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14143729638.
+
+# First Impressions Barber/Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 2214 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212
+- City: Milwaukee
+- State: WI
+- ZIP: 53212
+- Coordinates: 43.0594899, -87.9139345
+- Phone: +14143729638
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Fr 08:00-18:00; Sa 06:00-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/first-impressions-barber-salon-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/first-impressions-barber-salon-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12169644167 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

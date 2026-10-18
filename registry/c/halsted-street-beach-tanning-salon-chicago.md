@@ -15,7 +15,7 @@ Halsted Street Beach Tanning Salon is a tanning salon in Chicago, IL at 3741 Nor
 - Opening hours (OSM syntax): Mo-Th 10:00-21:00; Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/halsted-street-beach-tanning-salon-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/halsted-street-beach-tanning-salon-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10093717975 (license ODbL-1.0); source data as of 2026-06-01

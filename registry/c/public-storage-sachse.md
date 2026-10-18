@@ -1,0 +1,23 @@
+Public Storage is a self-storage facility in Sachse, TX at 5760 Bunker Hill Road, Sachse, TX 75048.
+
+# Public Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 5760 Bunker Hill Road, Sachse, TX 75048
+- City: Sachse
+- State: TX
+- ZIP: 75048
+- Coordinates: 32.9670295, -96.6072169
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-sachse/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-sachse.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1299985569 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

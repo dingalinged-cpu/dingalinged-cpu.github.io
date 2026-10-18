@@ -15,7 +15,7 @@ Omni Cosmetic is a plastic surgeon in Wayzata, MN at 935 Glenbrook Road North, W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/omni-cosmetic-wayzata/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/omni-cosmetic-wayzata.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/715620025 (license ODbL-1.0); source data as of 2026-07-24

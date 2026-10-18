@@ -15,7 +15,7 @@ All American Pet Grooming is a dog groomer in Mokena, IL at 19117 Wolf Road, Mok
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/all-american-pet-grooming-mokena/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/all-american-pet-grooming-mokena.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13306276680 (license ODbL-1.0); source data as of 2026-06-01

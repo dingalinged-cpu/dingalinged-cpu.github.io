@@ -15,7 +15,7 @@ Mon Cheri Chitown is a nail salon in Chicago, IL at 845 West Monroe Street #1B, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mon-cheri-chitown-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mon-cheri-chitown-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12479624268 (license ODbL-1.0); source data as of 2026-06-01

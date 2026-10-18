@@ -15,7 +15,7 @@ Broadway Auto Tech is an auto repair shop in Robbinsdale, MN at 4033 West Broadw
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/broadway-auto-tech-robbinsdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/broadway-auto-tech-robbinsdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1214436998 (license ODbL-1.0); source data as of 2026-06-01

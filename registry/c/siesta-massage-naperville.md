@@ -15,7 +15,7 @@ Siesta Massage is a massage studio in Naperville, IL at 616 East Ogden Avenue, N
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/siesta-massage-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/siesta-massage-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1242412264 (license ODbL-1.0); source data as of 2026-06-01

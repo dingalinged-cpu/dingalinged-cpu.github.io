@@ -15,7 +15,7 @@ Wiklanski’s Bakery is a bakery in Chicago, IL at 6006 West Belmont Avenue, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wiklanski-s-bakery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wiklanski-s-bakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6316899187 (license ODbL-1.0); source data as of 2026-06-01

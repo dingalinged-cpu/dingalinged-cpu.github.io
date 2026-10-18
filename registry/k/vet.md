@@ -1,4 +1,4 @@
-The top unpaid vet listing for the United States is All Paws Animal Hospital (a veterinarian in Saint Louis Park, MN at 5225, 5301 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19528480913. Website: https://www.allpawsvets.com/?y_source=1_MTg0MjgxMjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D). 214 vet businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for the United States is All Paws Animal Hospital (a veterinarian in Saint Louis Park, MN at 5225, 5301 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19528480913. Website: https://www.allpawsvets.com/?y_source=1_MTg0MjgxMjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D). 607 vet businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in the United States?
 
@@ -7,219 +7,253 @@ Also answers: vet in the United States; vet near me (the United States); best ve
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
 1. All Paws Animal Hospital | trust 20.0 | All Paws Animal Hospital is a veterinarian in Saint Louis Park, MN at 5225, 5301 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19528480913. Website: https://www.allpawsvets.com/?y_source=1_MTg0MjgxMjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D. | https://dingalinged-cpu.github.io/registry/c/all-paws-animal-hospital-saint-louis-park/
-2. Animal Hospital of West Lake Forest | trust 20.0 | Animal Hospital of West Lake Forest is a veterinarian in Lake Forest, IL at 1089 Conway Road, Lake Forest, IL 60045. Phone: +18472342110. Website: https://lakeforestvets.com/. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-of-west-lake-forest-lake-forest/
-3. Animal Medical Center of Itasca | trust 20.0 | Animal Medical Center of Itasca is a veterinarian in Itasca, IL at 220 Catalpa Avenue, Itasca, IL 60143. Phone: +16307732040. Website: https://www.amcitasca.com/. | https://dingalinged-cpu.github.io/registry/c/animal-medical-center-of-itasca-itasca/
-4. Banfield Pet Hospital | trust 20.0 | Banfield Pet Hospital is a veterinarian in Bloomington, MN at 10538 France Avenue South, Bloomington, MN 55431. Phone: +19528881586. Website: https://banfield.com/. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-bloomington/
-5. Banfield Pet Hospital | trust 20.0 | Banfield Pet Hospital is a veterinarian in Eagan, MN at 1278 Town Centre Drive, Eagan, MN 55123. Phone: +16516883001. Website: https://www.banfield.com/locations/veterinarians/mn/eagan/eag/. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-eagan/
-6. Bush Lake Pet Hospital | trust 20.0 | Bush Lake Pet Hospital is a veterinarian in Eden Prairie, MN at 10140 Hennepin Town Road #100, Eden Prairie, MN 55347. Phone: +19529445320. Website: https://bushlakepethospital.com/. | https://dingalinged-cpu.github.io/registry/c/bush-lake-pet-hospital-eden-prairie/
-7. Companion Animal Hospital River North | trust 20.0 | Companion Animal Hospital River North is a veterinarian in Chicago, IL at 749 North Clark Street, Chicago, IL 60654. Phone: +13126432901. Website: https://companionrn.com/. | https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-river-north-chicago/
-8. County Line Animal Hospital | trust 20.0 | County Line Animal Hospital is a veterinarian in Naperville, IL at 2200 South Washington Street, Naperville, IL 60565. Phone: +16309835551. Website: https://napervillevets.com/. | https://dingalinged-cpu.github.io/registry/c/county-line-animal-hospital-naperville/
-9. Forest Glen Animal Hospital | trust 20.0 | Forest Glen Animal Hospital is a veterinarian in Chicago, IL at 5330 North Elston Avenue, Chicago, IL 60630. Phone: +17732832443. Website: https://www.forestglenanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/forest-glen-animal-hospital-chicago/
-10. France Avenue Pet Hospital | trust 20.0 | France Avenue Pet Hospital is a veterinarian in Bloomington, MN at 3701 West Old Shakopee Road #280, Bloomington, MN 55431. Phone: +19527469296. Website: https://franceavepethospital.com/. | https://dingalinged-cpu.github.io/registry/c/france-avenue-pet-hospital-bloomington/
-11. Lake Forest Animal Clinic | trust 20.0 | Lake Forest Animal Clinic is a veterinarian in Lake Forest, IL at 1391 North Western Avenue, Lake Forest, IL 60045. Phone: +18472344011. Website: https://www.lfanimalclinic.com/. | https://dingalinged-cpu.github.io/registry/c/lake-forest-animal-clinic-lake-forest/
-12. Lake Harriet Veterinary | trust 20.0 | Lake Harriet Veterinary is a veterinarian in Minneapolis, MN at 4249 Bryant Avenue South, Minneapolis, MN 55419. Phone: +18128221545. Website: https://lakeharrietvet.com/. | https://dingalinged-cpu.github.io/registry/c/lake-harriet-veterinary-minneapolis/
-13. Lincoln Square Animal Hospital | trust 20.0 | Lincoln Square Animal Hospital is a veterinarian in Chicago, IL at 4501 North Lincoln Avenue, Chicago, IL 60625. Phone: +17732715901. Website: https://lincolnsquareanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/lincoln-square-animal-hospital-chicago/
-14. March Animal Hospital | trust 20.0 | March Animal Hospital is a veterinarian in Arlington Heights, IL at 1000 East Central Road, Arlington Heights, IL 60005. Phone: +18476708470. Website: https://www.marchanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/march-animal-hospital-arlington-heights/
-15. Naperville Animal Hospital | trust 20.0 | Naperville Animal Hospital is a veterinarian in Naperville, IL at 1023 East Ogden Avenue, Naperville, IL 60563. Phone: +16303555300. Website: https://www.napervilleanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/naperville-animal-hospital-naperville/
-16. Near North Animal Hospital | trust 20.0 | Near North Animal Hospital is a veterinarian in Chicago, IL at 1207 North Wells Street, Chicago, IL 60610. Phone: +13129445350. Website: https://www.nearnorthanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/near-north-animal-hospital-chicago/
-17. Paws & Claws Pet Hospital | trust 20.0 | Paws & Claws Pet Hospital is a veterinarian in Maple Grove, MN at 13640 Grove Drive North, Maple Grove, MN 55311. Phone: +17634209711. Website: https://pawsandclawspethospital.com/. | https://dingalinged-cpu.github.io/registry/c/paws-and-claws-pet-hospital-maple-grove/
-18. Pet Doctors | trust 20.0 | Pet Doctors is a veterinarian in Minneapolis, MN at 25 East Franklin Avenue, Minneapolis, MN 55404. Phone: +16126070044. Website: https://petdoctorsanimalclinic.com/. | https://dingalinged-cpu.github.io/registry/c/pet-doctors-minneapolis/
-19. Pet Vets Animal Hospital | trust 20.0 | Pet Vets Animal Hospital is a veterinarian in Oak Park, IL at 342 Harrison Street, Oak Park, IL 60304. Phone: +17084459988. Website: https://www.petvets-oakpark.com/. | https://dingalinged-cpu.github.io/registry/c/pet-vets-animal-hospital-oak-park/
-20. Roscoe Village Animal Hospital | trust 20.0 | Roscoe Village Animal Hospital is a veterinarian in Chicago, IL at 3131 North Clybourn Avenue, Chicago, IL 60618. Phone: +17735493131. Website: https://www.roscoevillageanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/roscoe-village-animal-hospital-chicago/
-21. Silver Lake Animal Hospital | trust 20.0 | Silver Lake Animal Hospital is a veterinarian in Oakdale, MN at 5707 Hadley Avenue North, Oakdale, MN 55128. Phone: +16517481900. Website: https://silverlakeanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/silver-lake-animal-hospital-oakdale/
-22. Snip Society | trust 20.0 | Snip Society is a veterinarian in Joliet, IL at 2201 Glenwood Avenue, Joliet, IL 60435. Phone: +18156304411. Website: https://www.snipsociety.org/. | https://dingalinged-cpu.github.io/registry/c/snip-society-joliet/
-23. South Hyland Pet Hospital | trust 20.0 | South Hyland Pet Hospital is a veterinarian in Bloomington, MN at 5400 West Old Shakopee Road, Bloomington, MN 55437. Phone: +19528841868. Website: https://www.southhyland.com/. | https://dingalinged-cpu.github.io/registry/c/south-hyland-pet-hospital-bloomington/
-24. Sploot Veterinary Care - Logan Square | trust 20.0 | Sploot Veterinary Care - Logan Square is a veterinarian in Chicago, IL at 2510 North Milwaukee Avenue, Chicago, IL 60647. Phone: +13127790720. Website: https://www.splootvets.com/locations/chicago/logan-square. | https://dingalinged-cpu.github.io/registry/c/sploot-veterinary-care-logan-square-chicago/
-25. The-vet.net Animal Clinic | trust 20.0 | The-vet.net Animal Clinic is a veterinarian in Naperville, IL at 1827 Wehrli Road, Naperville, IL 60565. Phone: +16305443333. Website: https://naperville-veterinarian.business.site/. | https://dingalinged-cpu.github.io/registry/c/the-vet-net-animal-clinic-naperville/
-26. Townline Animal Hospital | trust 20.0 | Townline Animal Hospital is a veterinarian in Vernon Hills, IL at 555 Townline Road, Vernon Hills, IL 60061. Phone: +18475493187. Website: https://townlineah.com/. | https://dingalinged-cpu.github.io/registry/c/townline-animal-hospital-vernon-hills/
-27. VCA Animal Hospital | trust 20.0 | VCA Animal Hospital is a veterinarian in Naperville, IL at 1586 West Ogden Avenue, Naperville, IL 60540. Phone: +16304209155. Website: https://vcahospitals.com/boulder-terrace. | https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-naperville/
-28. Vetique | trust 20.0 | Vetique is a veterinarian in Chicago, IL at 77 West Chestnut Street, Chicago, IL 60610. Phone: +13122919656. Website: https://vetique.com/. | https://dingalinged-cpu.github.io/registry/c/vetique-chicago/
-29. Wauconda Animal Hospital | trust 20.0 | Wauconda Animal Hospital is a veterinarian in Wauconda, IL at 197 Thomas Court, Wauconda, IL 60084. Phone: +18475262727. Website: https://waucondaah.com/. | https://dingalinged-cpu.github.io/registry/c/wauconda-animal-hospital-wauconda/
-30. Westgate Pet Clinic | trust 20.0 | Westgate Pet Clinic is a veterinarian in Minneapolis, MN at 4345 France Avenue South, Minneapolis, MN 55410. Phone: +16129251121. Website: https://wagsandwhiskers.com/. | https://dingalinged-cpu.github.io/registry/c/westgate-pet-clinic-minneapolis/
-31. Wrigglyville Veterinary | trust 20.0 | Wrigglyville Veterinary is a veterinarian in Chicago, IL at 3651 North Halsted Street, Chicago, IL 60613. Phone: +17736987525. Website: https://wrigleyvillevet.com/. | https://dingalinged-cpu.github.io/registry/c/wrigglyville-veterinary-chicago/
-32. Ark Pet Hospital | trust 19.0 | Ark Pet Hospital is a veterinarian in New Brighton, MN at 151 Silver Lake Road Northwest #109, New Brighton, MN. Phone: +16516330567. Website: https://newbrightonpethospital.com/. | https://dingalinged-cpu.github.io/registry/c/ark-pet-hospital-new-brighton/
-33. BLVD Vet River North | trust 19.0 | BLVD Vet River North is a veterinarian in Chicago, IL at 375 West Erie Street, Chicago, IL. Phone: +13128883630. Website: https://www.blvd.vet/. | https://dingalinged-cpu.github.io/registry/c/blvd-vet-river-north-chicago/
-34. Brighton Veterinary Hospital | trust 19.0 | Brighton Veterinary Hospital is a veterinarian in New Brighton, MN at 2615 Mississippi Street, New Brighton, MN. Phone: +16516361063. Website: https://www.brightonvethospital.com/. | https://dingalinged-cpu.github.io/registry/c/brighton-veterinary-hospital-new-brighton/
-35. MetroPet Animal Hospital | trust 19.0 | MetroPet Animal Hospital is a veterinarian in Minneapolis, MN at 2603 Hennepin Avenue South, Minneapolis, MN. Phone: +16123744414. Website: https://metropetmn.com/. | https://dingalinged-cpu.github.io/registry/c/metropet-animal-hospital-minneapolis/
-36. Midway Animal Hospital | trust 19.0 | Midway Animal Hospital is a veterinarian in Saint Paul, MN at 731 Snelling Avenue, Saint Paul, MN. Phone: +16516442100. Website: https://midwayanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/midway-animal-hospital-saint-paul/
-37. Minnepau Veterinary Clinic | trust 19.0 | Minnepau Veterinary Clinic is a veterinarian in Saint Paul, MN at 918 Raymond Avenue #Suite 100, Saint Paul, MN. Phone: +16123143969. Website: https://www.minnepau.com/. | https://dingalinged-cpu.github.io/registry/c/minnepau-veterinary-clinic-saint-paul/
-38. Animal Hospital of Streamwood | trust 16.0 | Animal Hospital of Streamwood is a veterinarian in Streamwood, IL at 904 East Irving Park Road, Streamwood, IL 60107. Phone: +16308374400. Website: https://animalhospitalofstreamwood.com/. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-of-streamwood-streamwood/
-39. Arlington Heights Animal Hospital | trust 16.0 | Arlington Heights Animal Hospital is a veterinarian in Arlington Heights, IL at 412 West Algonquin Road, Arlington Heights, IL 60005. Phone: +18475931898. Website: https://www.ahah.biz/. | https://dingalinged-cpu.github.io/registry/c/arlington-heights-animal-hospital-arlington-heights/
-40. Banfield Pet Hospital | trust 16.0 | Banfield Pet Hospital is a veterinarian in Chicago, IL at 1415 North Kingsbury Street, Chicago, IL 60642. Phone: +13126422194. Website: https://www.banfield.com/veterinarians/il/chicago/slp. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-chicago/
-41. Broadway Animal Hospital | trust 16.0 | Broadway Animal Hospital is a veterinarian in Chicago, IL at 6211 North Broadway, Chicago, IL 60660. Phone: +17732625445. Website: https://broadwayanimalhosp.com/. | https://dingalinged-cpu.github.io/registry/c/broadway-animal-hospital-chicago/
-42. Carey Animal Clinic | trust 16.0 | Carey Animal Clinic is a veterinarian in New Lenox, IL at 205 Church Street, New Lenox, IL 60451. Phone: +18154622731. Website: https://careyanimalclinic.net/. | https://dingalinged-cpu.github.io/registry/c/carey-animal-clinic-new-lenox/
-43. City Cat Clinic & Condos | trust 16.0 | City Cat Clinic & Condos is a veterinarian in Saint Louis Park, MN at 4813 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529250035. Website: https://www.citycatclinic.com/. | https://dingalinged-cpu.github.io/registry/c/city-cat-clinic-and-condos-saint-louis-park/
-44. Downers Grove Animal Hospital | trust 16.0 | Downers Grove Animal Hospital is a veterinarian in Downers Grove, IL at 635 Ogden Avenue, Downers Grove, IL 60515. Phone: +16309682812. Website: https://www.dganimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/downers-grove-animal-hospital-downers-grove/
-45. Glen Lake Animal Hospital | trust 16.0 | Glen Lake Animal Hospital is a veterinarian in Minnetonka, MN at 14805 Excelsior Boulevard, Minnetonka, MN 55345. Phone: +19529351232. Website: https://glenlakeanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/glen-lake-animal-hospital-minnetonka/
-46. Grand Avenue Veterinary Center | trust 16.0 | Grand Avenue Veterinary Center is a veterinarian in Saint Paul, MN at 1140 Grand Avenue, Saint Paul, MN 55105. Phone: +16512243038. Website: https://www.grandavevet.com/. | https://dingalinged-cpu.github.io/registry/c/grand-avenue-veterinary-center-saint-paul/
-47. Hanover Park Animal Care Center | trust 16.0 | Hanover Park Animal Care Center is a veterinarian in Hanover Park, IL at 1920 Ontarioville Road, Hanover Park, IL 60133. Phone: +16308306620. Website: https://www.hanoverparkvet.com/. | https://dingalinged-cpu.github.io/registry/c/hanover-park-animal-care-center-hanover-park/
-48. Harper Animal Hospital | trust 16.0 | Harper Animal Hospital is a veterinarian in Palatine, IL at 1460 West Algonquin Road, Palatine, IL 60067. Phone: +18473586767. Website: https://harperanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/harper-animal-hospital-palatine/
-49. Kenwood Pet Clinic | trust 16.0 | Kenwood Pet Clinic is a veterinarian in Minneapolis, MN at 2107 Penn Avenue South, Minneapolis, MN 55405. Phone: +16123775551. Website: https://www.kenwoodpetclinic.com/. | https://dingalinged-cpu.github.io/registry/c/kenwood-pet-clinic-minneapolis/
-50. Main Street Veterinary Service | trust 16.0 | Main Street Veterinary Service is a veterinarian in Shakopee, MN at 536 1st Avenue East, Shakopee, MN 55379. Phone: +19524455222. Website: https://msvets.com/. | https://dingalinged-cpu.github.io/registry/c/main-street-veterinary-service-shakopee/
-51. Marschall Road Animal Hospital | trust 16.0 | Marschall Road Animal Hospital is a veterinarian in Shakopee, MN at 1176 Vierling Drive East, Shakopee, MN 55379. Phone: +19524457956. Website: https://www.marschallroadvet.com/. | https://dingalinged-cpu.github.io/registry/c/marschall-road-animal-hospital-shakopee/
-52. Merrick Animal Hospital | trust 16.0 | Merrick Animal Hospital is a veterinarian in Brookfield, IL at 9115 Ogden Avenue, Brookfield, IL 60513. Phone: +17084856500. Website: https://brookfieldvets.net/. | https://dingalinged-cpu.github.io/registry/c/merrick-animal-hospital-brookfield/
-53. Minnehaha Animal Hospital | trust 16.0 | Minnehaha Animal Hospital is a veterinarian in Minneapolis, MN at 4809 Chicago Avenue, Minneapolis, MN 55417. Phone: +16128254427. Website: https://minnehahaanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/minnehaha-animal-hospital-minneapolis/
-54. Nighthawk Veterinary Clinic | trust 16.0 | Nighthawk Veterinary Clinic is a veterinarian in Mokena, IL at 11600 Francis Road, Mokena, IL 60448. Phone: +17084786482. Website: https://www.nighthawkvet.com/. | https://dingalinged-cpu.github.io/registry/c/nighthawk-veterinary-clinic-mokena/
-55. Partners Animal Hopsital | trust 16.0 | Partners Animal Hopsital is a veterinarian in Chicago, IL at 550 South Dearborn Street, Chicago, IL 60605. Phone: +13123198004. Website: https://partnersvetsl.com/. | https://dingalinged-cpu.github.io/registry/c/partners-animal-hopsital-chicago/
-56. Pet Central Animal Hospital | trust 16.0 | Pet Central Animal Hospital is a veterinarian in Minneapolis, MN at 2700 Northeast Central Avenue, Minneapolis, MN 55418. Phone: +16127816941. Website: https://www.petcentralanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/pet-central-animal-hospital-minneapolis/
-57. Ravenswood Animal Hospital LLC | trust 16.0 | Ravenswood Animal Hospital LLC is a veterinarian in Chicago, IL at 2752 West Montrose Avenue, Chicago, IL 60618. Phone: +17735397387. Website: https://www.ravenswoodvet.com/. | https://dingalinged-cpu.github.io/registry/c/ravenswood-animal-hospital-llc-chicago/
-58. VCA Feist Animal Hospital | trust 16.0 | VCA Feist Animal Hospital is a veterinarian in Saint Paul, MN at 1430 Marshall Avenue, Saint Paul, MN 55104. Phone: +16516467257. Website: https://vcahospitals.com/feist. | https://dingalinged-cpu.github.io/registry/c/vca-feist-animal-hospital-saint-paul/
-59. Vet Partners Pet Hospital | trust 16.0 | Vet Partners Pet Hospital is a veterinarian in Minneapolis, MN at 1030 Washington Avenue South, Minneapolis, MN 55415. Phone: +16127460300. Website: https://myvetpartners.com/. | https://dingalinged-cpu.github.io/registry/c/vet-partners-pet-hospital-minneapolis/
-60. Allied Veterinary Emergency & Referral | trust 14.0 | Allied Veterinary Emergency & Referral is a veterinarian in Eden Prairie, MN at 8300 Flying Cloud Drive, Eden Prairie, MN 55344. Phone: +19524520025. | https://dingalinged-cpu.github.io/registry/c/allied-veterinary-emergency-and-referral-eden-prairie/
-61. Banfield Pet Hospital | trust 14.0 | Banfield Pet Hospital is a veterinarian in Edina, MN at 5103 Gus Young Lane, Edina, MN 55436. Website: https://www.banfield.com/locations/veterinarians/mn/edina/edi/. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-edina/
-62. Companion Animal Hospital | trust 14.0 | Companion Animal Hospital is a veterinarian in Lake Zurich, IL at 917 Rand Road, Lake Zurich, IL 60047. Website: https://companionlz.com/. | https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-lake-zurich/
-63. Country Court Animal Hospital | trust 14.0 | Country Court Animal Hospital is a veterinarian in Buffalo Grove, IL at 125 West Dundee Road, Buffalo Grove, IL 60089. Phone: +18475204110. | https://dingalinged-cpu.github.io/registry/c/country-court-animal-hospital-buffalo-grove/
-64. GoodVets Streeterville | trust 14.0 | GoodVets Streeterville is a veterinarian in Chicago, IL at 227 East Grand Avenue, Chicago, IL 60611. Website: https://goodvets.com/locations/chicago/streeterville. | https://dingalinged-cpu.github.io/registry/c/goodvets-streeterville-chicago/
-65. Kitty Klinic | trust 14.0 | Kitty Klinic is a veterinarian in Minneapolis, MN at 3447 Lyndale Avenue South, Minneapolis, MN 55408. Website: https://www.kittyklinicmpls.com/. | https://dingalinged-cpu.github.io/registry/c/kitty-klinic-minneapolis/
-66. Lyndale Animal Hospital | trust 14.0 | Lyndale Animal Hospital is a veterinarian in Minneapolis, MN at 2544 Lyndale Avenue South, Minneapolis, MN 55405. Website: https://lyndaleanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/lyndale-animal-hospital-minneapolis/
-67. Old Town Animal Care Center | trust 14.0 | Old Town Animal Care Center is a veterinarian in Chicago, IL at 511 West North Avenue, Chicago, IL 60610. Website: https://www.oldtownvetcare.com/. | https://dingalinged-cpu.github.io/registry/c/old-town-animal-care-center-chicago/
-68. Rum River Veterinary Clinic | trust 14.0 | Rum River Veterinary Clinic is a veterinarian in Anoka, MN at 100 West Main Street, Anoka, MN 55303. Website: https://rumrivervet.com/. | https://dingalinged-cpu.github.io/registry/c/rum-river-veterinary-clinic-anoka/
-69. Uptown Veterinarian | trust 14.0 | Uptown Veterinarian is a veterinarian in Minneapolis, MN at 3131 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16128256859. | https://dingalinged-cpu.github.io/registry/c/uptown-veterinarian-minneapolis/
-70. Vet Partners Edina | trust 14.0 | Vet Partners Edina is a veterinarian in Edina, MN at 7101 France Avenue South #Suite 117, Edina, MN 55435. Website: https://myvetpartners.com/edina-2/. | https://dingalinged-cpu.github.io/registry/c/vet-partners-edina-edina/
-71. Village West Veterinary | trust 14.0 | Village West Veterinary is a veterinarian in Chicago, IL at 840 North Western Avenue, Chicago, IL 60622. Website: https://www.villagewestvet.com/. | https://dingalinged-cpu.github.io/registry/c/village-west-veterinary-chicago/
-72. Animal Medical Center | trust 10.0 | Animal Medical Center is a veterinarian in Skokie, IL at 8343 Skokie Boulevard, Skokie, IL 60077. Website: https://www.amcskokie.com/. | https://dingalinged-cpu.github.io/registry/c/animal-medical-center-skokie/
-73. Banfield Pet Hospital | trust 10.0 | Banfield Pet Hospital is a veterinarian in Chicago, IL at 225 West Division Street, Chicago, IL 60610. Phone: +13123377387. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-chicago-w210679725/
-74. BondVet | trust 10.0 | BondVet is a veterinarian in Glenview, IL at 5 Waukegan Road, Glenview, IL 60025. Website: https://bondvet.com/c/glenview-animal-hospital. | https://dingalinged-cpu.github.io/registry/c/bondvet-glenview/
-75. Burnham Park Animal Hospital | trust 10.0 | Burnham Park Animal Hospital is a veterinarian in Chicago, IL at 1025 South State Street, Chicago, IL 60605. Website: https://www.burnhamparkvet.com/. | https://dingalinged-cpu.github.io/registry/c/burnham-park-animal-hospital-chicago/
-76. Chicago Equine Medical Center | trust 10.0 | Chicago Equine Medical Center is a veterinarian in Wauconda, IL at 26996 North Darrell Road, Wauconda, IL 60084. Website: https://chicagoequine.com/. | https://dingalinged-cpu.github.io/registry/c/chicago-equine-medical-center-wauconda/
-77. Christensen Animal Hospital | trust 10.0 | Christensen Animal Hospital is a veterinarian in Wilmette, IL at 730 Hibbard Road, Wilmette, IL 60091. Website: https://www.pawdr.com/. | https://dingalinged-cpu.github.io/registry/c/christensen-animal-hospital-wilmette/
-78. Como Park Animal Hospital | trust 10.0 | Como Park Animal Hospital is a veterinarian in Roseville, MN at 621 Larpenteur Avenue West, Roseville, MN 55113. Website: https://www.comoparkanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/como-park-animal-hospital-roseville/
-79. Danada Veterinary Hospital | trust 10.0 | Danada Veterinary Hospital is a veterinarian in Wheaton, IL at 10 West Loop Road, Wheaton, IL 60189. Website: https://www.danadavet.com/. | https://dingalinged-cpu.github.io/registry/c/danada-veterinary-hospital-wheaton/
-80. DeVries Animal Hospital | trust 10.0 | DeVries Animal Hospital is a veterinarian in Elmhurst, IL at 528 Spring Road, Elmhurst, IL 60126. Website: https://www.devriesanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/devries-animal-hospital-elmhurst/
-81. Flying Cloud Animal Hospital | trust 10.0 | Flying Cloud Animal Hospital is a veterinarian in Eden Prairie, MN at 12365 Singletree Lane, Eden Prairie, MN 55344. Website: https://www.flyingcloudanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/flying-cloud-animal-hospital-eden-prairie/
-82. Fox Animal Hospital | trust 10.0 | Fox Animal Hospital is a veterinarian in Evanston, IL at 2107 Crawford Avenue, Evanston, IL 60201. Website: https://foxanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/fox-animal-hospital-evanston/
-83. Howard Street Animal Hospital | trust 10.0 | Howard Street Animal Hospital is a veterinarian in Evanston, IL at 715 Howard Street, Evanston, IL 60202. Website: https://howard-hospital.edan.io/. | https://dingalinged-cpu.github.io/registry/c/howard-street-animal-hospital-evanston/
-84. Kragness Animal Hospital | trust 10.0 | Kragness Animal Hospital is a veterinarian in Chicago, IL at 11332 South Doty Avenue, Chicago, IL 60628. Website: https://www.kragnessanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/kragness-animal-hospital-chicago/
-85. Livewell Animal Hospital | trust 10.0 | Livewell Animal Hospital is a veterinarian in Minneapolis, MN at 307 1st Avenue Northeast, Minneapolis, MN 55413. Website: https://www.livewellanimal.com/our-locations/minneapolis-mn/st-anthony/. | https://dingalinged-cpu.github.io/registry/c/livewell-animal-hospital-minneapolis/
-86. Niels Animal Hospital | trust 10.0 | Niels Animal Hospital is a veterinarian in Niles, IL at 7278 North Milwaukee Avenue, Niles, IL 60714. Website: https://nilesanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/niels-animal-hospital-niles/
-87. Nova Veterinary Clinic | trust 10.0 | Nova Veterinary Clinic is a veterinarian in Bloomington, MN at 9056 Penn Avenue South, Bloomington, MN 55431. Website: https://www.novavetclinic.com/. | https://dingalinged-cpu.github.io/registry/c/nova-veterinary-clinic-bloomington/
-88. Oak Lawn Animal Hospital | trust 10.0 | Oak Lawn Animal Hospital is a veterinarian in Oak Lawn, IL at 9244 South Cicero Avenue, Oak Lawn, IL 60453. Website: https://www.oaklawnvet.com/. | https://dingalinged-cpu.github.io/registry/c/oak-lawn-animal-hospital-oak-lawn/
-89. Park Animal Hospital | trust 10.0 | Park Animal Hospital is a veterinarian in Elmwood Park, IL at 2540 North Harlem Avenue, Elmwood Park, IL 60707. Website: https://www.parksanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/park-animal-hospital-elmwood-park/
-90. Riser Animal Hospital | trust 10.0 | Riser Animal Hospital is a veterinarian in Skokie, IL at 5335 West Touhy Avenue, Skokie, IL 60077. Website: https://www.riserah.com/. | https://dingalinged-cpu.github.io/registry/c/riser-animal-hospital-skokie/
-91. Seven Seas Pet Care Center | trust 10.0 | Seven Seas Pet Care Center is a veterinarian in Chicago, IL at 13311 South Brandon Avenue, Chicago, IL 60633. Website: https://www.7seaspets.com/. | https://dingalinged-cpu.github.io/registry/c/seven-seas-pet-care-center-chicago/
-92. Summit Animal Hospital | trust 10.0 | Summit Animal Hospital is a veterinarian in Summit, IL at 6050 South Harlem Avenue, Summit, IL 60501. Website: https://www.summitanimalhospitals.com/. | https://dingalinged-cpu.github.io/registry/c/summit-animal-hospital-summit/
-93. VCA Animal Hospital | trust 10.0 | VCA Animal Hospital is a veterinarian in Chicago, IL at 1545 West Devon Avenue, Chicago, IL 60660. Website: https://vcahospitals.com/misener-holley. | https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-chicago-n11337004569/
-94. VCA Animal Hospital | trust 10.0 | VCA Animal Hospital is a veterinarian in Franklin Park, IL at 9846 West Grand Avenue, Franklin Park, IL 60131. Website: https://vcahospitals.com/franklin-park/. | https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-franklin-park/
-95. VCA Animal Hospital | trust 10.0 | VCA Animal Hospital is a veterinarian in University Park, IL at 24341 South Western Avenue, University Park, IL 60484. Website: https://vcahospitals.com/forest-south. | https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-university-park/
-96. VCA Animal Hospital | trust 10.0 | VCA Animal Hospital is a veterinarian in Vernon Hills, IL at 203 US 45, Vernon Hills, IL 60061. Phone: +18473620780. | https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-vernon-hills/
-97. VCA Cairo Animal Hospital | trust 10.0 | VCA Cairo Animal Hospital is a veterinarian in Highland Park, IL at 1170 Park Avenue West, Highland Park, IL 60035. Website: https://vcahospitals.com/cairo. | https://dingalinged-cpu.github.io/registry/c/vca-cairo-animal-hospital-highland-park/
-98. Vernon Hills Animal Hospital | trust 10.0 | Vernon Hills Animal Hospital is a veterinarian in Mundelein, IL at 1260 South Butterfield Road, Mundelein, IL 60060. Phone: +18473674070. | https://dingalinged-cpu.github.io/registry/c/vernon-hills-animal-hospital-mundelein/
-99. Century Animal Clinic | trust 9.0 | Century Animal Clinic is a veterinarian in Maplewood, MN at 839 Century Avenue North, Maplewood, MN. Website: https://www.centuryanimalclinic.com/. | https://dingalinged-cpu.github.io/registry/c/century-animal-clinic-maplewood/
-100. GoodVets | trust 8.0 | GoodVets is a veterinarian in Chicago, IL at 901 West Jackson Boulevard, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/goodvets-chicago/
-101. MedVet Chicago | trust 8.0 | MedVet Chicago is a veterinarian in Chicago, IL at 3305 North California Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/medvet-chicago-chicago/
-102. Edinburgh Pet Health Center | trust 6.0 | Edinburgh Pet Health Center is a veterinarian in Brooklyn Park, MN. Phone: +17634939080. | https://dingalinged-cpu.github.io/registry/c/edinburgh-pet-health-center-brooklyn-park/
-103. All Creatures Animal Hospital | trust 4.0 | All Creatures Animal Hospital is a veterinarian in Lake Zurich, IL at 1210 Main Street, Lake Zurich, IL 60047. | https://dingalinged-cpu.github.io/registry/c/all-creatures-animal-hospital-lake-zurich/
-104. Animal 911 | trust 4.0 | Animal 911 is a veterinarian in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/animal-911-skokie/
-105. Animal Care Center of Buffalo Grove | trust 4.0 | Animal Care Center of Buffalo Grove is a veterinarian in Buffalo Grove, IL at 600 McHenry Road, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/animal-care-center-of-buffalo-grove-buffalo-grove/
-106. Animal Care Clinic of Homer Glen | trust 4.0 | Animal Care Clinic of Homer Glen is a veterinarian in Homer Glen, IL at 13061 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/animal-care-clinic-of-homer-glen-homer-glen/
-107. Anti-Cruelty Society | trust 4.0 | Anti-Cruelty Society is a veterinarian in Chicago, IL at 153 West Grand Avenue, Chicago, IL 60654. | https://dingalinged-cpu.github.io/registry/c/anti-cruelty-society-chicago/
-108. Apache Animal Hospital | trust 4.0 | Apache Animal Hospital is a veterinarian in Saint Anthony, MN at 2503 37th Avenue Northeast, Saint Anthony, MN 55421. | https://dingalinged-cpu.github.io/registry/c/apache-animal-hospital-saint-anthony/
-109. Arcade Animal Hospital | trust 4.0 | Arcade Animal Hospital is a veterinarian in Saint Paul, MN at 1144 Arcade Street, Saint Paul, MN 55106. | https://dingalinged-cpu.github.io/registry/c/arcade-animal-hospital-saint-paul/
-110. Arden Shoreview Animal Hospital | trust 4.0 | Arden Shoreview Animal Hospital is a veterinarian in Saint Paul, MN at 1261 County Road E West, Saint Paul, MN 55112. | https://dingalinged-cpu.github.io/registry/c/arden-shoreview-animal-hospital-saint-paul/
-111. Avondale Animal Hospital | trust 4.0 | Avondale Animal Hospital is a veterinarian in Chicago, IL at 6146 North Northwest Highway, Chicago, IL 60631. | https://dingalinged-cpu.github.io/registry/c/avondale-animal-hospital-chicago/
-112. Banfield Pet Hospital | trust 4.0 | Banfield Pet Hospital is a veterinarian in Chicago, IL at 645 West Roosevelt Road, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-chicago-n10045011965/
-113. Banfield Pet Hospital | trust 4.0 | Banfield Pet Hospital is a veterinarian in Crestwood, IL at 4975 Cal Sag Road, Crestwood, IL 60445. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-crestwood/
-114. Banfield Pet Hospital | trust 4.0 | Banfield Pet Hospital is a veterinarian in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-minneapolis/
-115. Banfield Pet Hospital | trust 4.0 | Banfield Pet Hospital is a veterinarian in Richfield, MN. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-richfield/
-116. Banfield Pet Hospital | trust 4.0 | Banfield Pet Hospital is a veterinarian in Roseville, MN at 1136 Larpenteur Avenue West, Roseville, MN 55113. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-roseville/
-117. Banfield Pet Hospital | trust 4.0 | Banfield Pet Hospital is a veterinarian in Schererville, IN at 711 Indianapolis Boulevard, Schererville, IN 46375. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-schererville/
-118. Banfield Pet Hospital | trust 4.0 | Banfield Pet Hospital is a veterinarian in Skokie, IL at 5485 West Touhy Avenue #17, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-skokie/
-119. Barrington Animal Hospital | trust 4.0 | Barrington Animal Hospital is a veterinarian in Barrington, IL at 216 South Northwest Highway, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/barrington-animal-hospital-barrington/
-120. Belmont Animal Hospital | trust 4.0 | Belmont Animal Hospital is a veterinarian in Chicago, IL at 1212 West Belmont Avenue, Chicago, IL 60657. | https://dingalinged-cpu.github.io/registry/c/belmont-animal-hospital-chicago/
-121. BluePearl | trust 4.0 | BluePearl is a veterinarian in Arden Hills, MN at 1285 Grey Fox Road, Arden Hills, MN 55112. | https://dingalinged-cpu.github.io/registry/c/bluepearl-arden-hills/
-122. Bramer Animal Hospital | trust 4.0 | Bramer Animal Hospital is a veterinarian in Evanston, IL at 1021 Davis Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/bramer-animal-hospital-evanston/
-123. Brighton Park Animal Hospital | trust 4.0 | Brighton Park Animal Hospital is a veterinarian in Chicago, IL at 3779 South Archer Avenue, Chicago, IL 60632. | https://dingalinged-cpu.github.io/registry/c/brighton-park-animal-hospital-chicago/
-124. Broadway Robbinsdale Animal Hospital | trust 4.0 | Broadway Robbinsdale Animal Hospital is a veterinarian in Minneapolis, MN at 2727 West Broadway Avenue, Minneapolis, MN 55411. | https://dingalinged-cpu.github.io/registry/c/broadway-robbinsdale-animal-hospital-minneapolis/
-125. Bronzeville Animal Clinic | trust 4.0 | Bronzeville Animal Clinic is a veterinarian in Chicago, IL at 203 East 31st Street, Chicago, IL 60616. | https://dingalinged-cpu.github.io/registry/c/bronzeville-animal-clinic-chicago/
-126. Carol Stream Animal Hospital | trust 4.0 | Carol Stream Animal Hospital is a veterinarian in Carol Stream, IL at 140 West Elk Trail, Carol Stream, IL 60188. | https://dingalinged-cpu.github.io/registry/c/carol-stream-animal-hospital-carol-stream/
-127. Chicago Cat Clinic | trust 4.0 | Chicago Cat Clinic is a veterinarian in Chicago, IL at 5301 West Devon Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/chicago-cat-clinic-chicago/
-128. Chicago Exotics Animal Hospital | trust 4.0 | Chicago Exotics Animal Hospital is a veterinarian in Skokie, IL at 3757 Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/chicago-exotics-animal-hospital-skokie/
-129. Cliff Lake Veterinary Clinic | trust 4.0 | Cliff Lake Veterinary Clinic is a veterinarian in Eagan, MN at 1960 Cliff Lake Road, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/cliff-lake-veterinary-clinic-eagan/
-130. Colonial Manor Animal Hospital | trust 4.0 | Colonial Manor Animal Hospital is a veterinarian in Homer Glen, IL at 13726 West 159th Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/colonial-manor-animal-hospital-homer-glen/
-131. Companion Animal Hospital of Norridge | trust 4.0 | Companion Animal Hospital of Norridge is a veterinarian in Norridge, IL at 4321 North Harlem Avenue, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-of-norridge-norridge/
-132. Des Plaines Valley Animal Hospital | trust 4.0 | Des Plaines Valley Animal Hospital is a veterinarian in Buffalo Grove, IL at 155 North Milwaukee Avenue, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/des-plaines-valley-animal-hospital-buffalo-grove/
-133. Douglas Animal Hospital | trust 4.0 | Douglas Animal Hospital is a veterinarian in Osseo, MN at 116 Central Avenue, Osseo, MN 55369. | https://dingalinged-cpu.github.io/registry/c/douglas-animal-hospital-osseo/
-134. Eagan Pet Clinic | trust 4.0 | Eagan Pet Clinic is a veterinarian in Eagan, MN at 4395 Rahn Road, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/eagan-pet-clinic-eagan/
-135. East Lake Animal Clinic | trust 4.0 | East Lake Animal Clinic is a veterinarian in Minneapolis, MN at 4108 East Lake Street, Minneapolis, MN 55406. | https://dingalinged-cpu.github.io/registry/c/east-lake-animal-clinic-minneapolis/
-136. Elk Grove Veterinary Specialty & Emergency | trust 4.0 | Elk Grove Veterinary Specialty & Emergency is a veterinarian in Elk Grove Village, IL at 1050 Bonaventure Drive, Elk Grove Village, IL 60007. | https://dingalinged-cpu.github.io/registry/c/elk-grove-veterinary-specialty-and-emergency-elk-grove-village/
-137. Evanston Animal Hospital | trust 4.0 | Evanston Animal Hospital is a veterinarian in Evanston, IL at 516 Dempster Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/evanston-animal-hospital-evanston/
-138. Finan Animal Hospital | trust 4.0 | Finan Animal Hospital is a veterinarian in Woodridge, IL at Lemont Road, Woodridge, IL 60516. | https://dingalinged-cpu.github.io/registry/c/finan-animal-hospital-woodridge/
-139. Golf Rose Animal Hospital | trust 4.0 | Golf Rose Animal Hospital is a veterinarian in Schaumburg, IL at 51 Remington Road, Schaumburg, IL 60173. | https://dingalinged-cpu.github.io/registry/c/golf-rose-animal-hospital-schaumburg/
-140. Hyde Park Animal Hospital | trust 4.0 | Hyde Park Animal Hospital is a veterinarian in Chicago, IL at 6937 South Stony Island Avenue, Chicago, IL 60649. | https://dingalinged-cpu.github.io/registry/c/hyde-park-animal-hospital-chicago/
-141. Inver Grove Heights Animal Hospital | trust 4.0 | Inver Grove Heights Animal Hospital is a veterinarian in Inver Grove Heights, MN at 7135 Cahill Avenue, Inver Grove Heights, MN 55076. | https://dingalinged-cpu.github.io/registry/c/inver-grove-heights-animal-hospital-inver-grove-heights/
-142. Lake Animal Hospital | trust 4.0 | Lake Animal Hospital is a veterinarian in White Bear Township, MN at 5900 Highway 61, White Bear Township, MN 55110. | https://dingalinged-cpu.github.io/registry/c/lake-animal-hospital-white-bear-township/
-143. Logan Square Animal Hospital | trust 4.0 | Logan Square Animal Hospital is a veterinarian in Chicago, IL at 2543 North Milwaukee Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/logan-square-animal-hospital-chicago/
-144. Metropolitan Veterinary Clinic | trust 4.0 | Metropolitan Veterinary Clinic is a veterinarian in Chicago, IL at 1556 South Michigan Avenue #100, Chicago, IL 60605. | https://dingalinged-cpu.github.io/registry/c/metropolitan-veterinary-clinic-chicago/
-145. Nokomis Pet Clinic | trust 4.0 | Nokomis Pet Clinic is a veterinarian in Minneapolis, MN at 2917 East 42nd Street, Minneapolis, MN 55406. | https://dingalinged-cpu.github.io/registry/c/nokomis-pet-clinic-minneapolis/
-146. Oz Animal Hospital | trust 4.0 | Oz Animal Hospital is a veterinarian in Chicago, IL at 620 West Webster Avenue, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/oz-animal-hospital-chicago/
-147. Pilot Knob Animal Hospital | trust 4.0 | Pilot Knob Animal Hospital is a veterinarian in Eagan, MN at 4145 Knob Drive, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/pilot-knob-animal-hospital-eagan/
-148. Plymouth Heights Pet Hospital | trust 4.0 | Plymouth Heights Pet Hospital is a veterinarian in New Hope, MN at 9200 49th Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/plymouth-heights-pet-hospital-new-hope/
-149. Preiser Animal Hospital | trust 4.0 | Preiser Animal Hospital is a veterinarian in Northbrook, IL at 2975 Milwaukee Avenue, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/preiser-animal-hospital-northbrook/
-150. Randhurst Animal Hospital | trust 4.0 | Randhurst Animal Hospital is a veterinarian in Mount Prospect, IL at 212 East Rand Road, Mount Prospect, IL 60056. | https://dingalinged-cpu.github.io/registry/c/randhurst-animal-hospital-mount-prospect/
-151. River Forest Animal Hospital | trust 4.0 | River Forest Animal Hospital is a veterinarian in River Forest, IL at 7515 Lake Street, River Forest, IL 60305. | https://dingalinged-cpu.github.io/registry/c/river-forest-animal-hospital-river-forest/
-152. Skadron Animal Hospital | trust 4.0 | Skadron Animal Hospital is a veterinarian in West Saint Paul, MN at 178 Marie Avenue East, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/skadron-animal-hospital-west-saint-paul/
-153. Skokie Animal Hospital | trust 4.0 | Skokie Animal Hospital is a veterinarian in Skokie, IL at 7550 Lincoln Avenue, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/skokie-animal-hospital-skokie/
-154. Southview Animal Hospital | trust 4.0 | Southview Animal Hospital is a veterinarian in Inver Grove Heights, MN at 32 Mendota Road East, Inver Grove Heights, MN 55077. | https://dingalinged-cpu.github.io/registry/c/southview-animal-hospital-inver-grove-heights/
-155. St Boni Pet Hospital | trust 4.0 | St Boni Pet Hospital is a veterinarian in Saint Bonifacius, MN at 8801 Partridge Road, Saint Bonifacius, MN 55375. | https://dingalinged-cpu.github.io/registry/c/st-boni-pet-hospital-saint-bonifacius/
-156. Tails Of Persia Pet Spa | trust 4.0 | Tails Of Persia Pet Spa is a veterinarian in Minneapolis, MN at 2501 37th Avenue Northeast, Minneapolis, MN 55421. | https://dingalinged-cpu.github.io/registry/c/tails-of-persia-pet-spa-minneapolis/
-157. Thrive Pet Healthcare | trust 4.0 | Thrive Pet Healthcare is a veterinarian in Oak Lawn, IL at 9701 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/thrive-pet-healthcare-oak-lawn/
-158. Touhy Animal Hospital | trust 4.0 | Touhy Animal Hospital is a veterinarian in Park Ridge, IL at West Touhy Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/touhy-animal-hospital-park-ridge/
-159. VCA Animal Hospital | trust 4.0 | VCA Animal Hospital is a veterinarian in Berwyn, IL at 2845 South Harlem Avenue, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-berwyn/
-160. VCA Animal Hospital | trust 4.0 | VCA Animal Hospital is a veterinarian in Chicago, IL at 2851 West Irving Park Road, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-chicago/
-161. VCA Lake Shore Animal Hospital | trust 4.0 | VCA Lake Shore Animal Hospital is a veterinarian in Chicago, IL at 960 West Chicago Avenue, Chicago, IL 60642. | https://dingalinged-cpu.github.io/registry/c/vca-lake-shore-animal-hospital-chicago/
-162. Vet Eye Pros | trust 4.0 | Vet Eye Pros is a veterinarian in Eagan, MN at 1380 Duckwood Drive #109, Eagan, MN 55123. | https://dingalinged-cpu.github.io/registry/c/vet-eye-pros-eagan/
-163. Veterinary Emergency Group | trust 4.0 | Veterinary Emergency Group is a veterinarian in Chicago, IL at 1114 South Clinton Street #B-C, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/veterinary-emergency-group-chicago-n13474977203/
-164. Village Veterinary Practice | trust 4.0 | Village Veterinary Practice is a veterinarian in Western Springs, IL at 500 Hillgrove Avenue, Western Springs, IL 60558. | https://dingalinged-cpu.github.io/registry/c/village-veterinary-practice-western-springs/
-165. VSx Veterinary Surgery | trust 4.0 | VSx Veterinary Surgery is a veterinarian in Chicago, IL at 2015-2025 West Irving Park Road, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/vsx-veterinary-surgery-chicago/
-166. West Loop Veterinary Care | trust 4.0 | West Loop Veterinary Care is a veterinarian in Chicago, IL at 815 West Randolph Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/west-loop-veterinary-care-chicago/
-167. Abbot Animal Hospital | trust 3.0 | Abbot Animal Hospital is a veterinarian in Chicago, IL at 6721 West Archer Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/abbot-animal-hospital-chicago/
-168. Animal Advocate Pet Hospital | trust 3.0 | Animal Advocate Pet Hospital is a veterinarian in Chicago, IL at 1061 West Jackson Boulevard #A, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/animal-advocate-pet-hospital-chicago/
-169. Banfield Pet Hospital | trust 3.0 | Banfield Pet Hospital is a veterinarian in Saint Paul, MN at 2032 Ford Parkway, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-saint-paul/
-170. Blaine Area Pet Hospital | trust 3.0 | Blaine Area Pet Hospital is a veterinarian in Blaine, MN at 11850 Aberdeen St. NE, Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/blaine-area-pet-hospital-blaine/
-171. Lovet Pet Health Care | trust 3.0 | Lovet Pet Health Care is a veterinarian in Chicago, IL at 802 West Fulton Market, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/lovet-pet-health-care-chicago/
-172. North Center Animal Hospital | trust 3.0 | North Center Animal Hospital is a veterinarian in Chicago, IL at 1800-1808 West Addison Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/north-center-animal-hospital-chicago/
-173. Pomeroy's Animal Hospital | trust 3.0 | Pomeroy's Animal Hospital is a veterinarian in Saint Paul, MN at 178, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/pomeroys-animal-hospital-saint-paul/
-174. Precious Bond Animal Hospital | trust 3.0 | Precious Bond Animal Hospital is a veterinarian in Chicago, IL at 3901 North Lincoln Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/precious-bond-animal-hospital-chicago/
-175. Rockford Veterinary Clinic | trust 3.0 | Rockford Veterinary Clinic is a veterinarian in Rockford, MN at Ash Street, Rockford, MN. | https://dingalinged-cpu.github.io/registry/c/rockford-veterinary-clinic-rockford/
-176. Veterinary Emergency Group | trust 3.0 | Veterinary Emergency Group is a veterinarian in Chicago, IL at 755 West North Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/veterinary-emergency-group-chicago/
-177. Access Veterinary Care | trust 0.0 | Access Veterinary Care is a veterinarian in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/access-veterinary-care-crystal/
-178. Animal Clinic of Romeoville | trust 0.0 | Animal Clinic of Romeoville is a veterinarian in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/animal-clinic-of-romeoville-romeoville/
-179. Animal Hospital | trust 0.0 | Animal Hospital is a veterinarian in Shoreview, MN. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-shoreview/
-180. Animal Hospital | trust 0.0 | Animal Hospital is a veterinarian in Western Springs, IL. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-western-springs/
-181. Animal Medical Center | trust 0.0 | Animal Medical Center is a veterinarian in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/animal-medical-center-orland-park/
-182. Arbor Animal Hospital | trust 0.0 | Arbor Animal Hospital is a veterinarian in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/arbor-animal-hospital-la-grange-park/
-183. Banfield Pet Hospital | trust 0.0 | Banfield Pet Hospital is a veterinarian in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-minnetonka/
-184. Banfield Pet Hospital | trust 0.0 | Banfield Pet Hospital is a veterinarian in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-minnetonka-n11098487980/
-185. Bass Lake Pet Hospital | trust 0.0 | Bass Lake Pet Hospital is a veterinarian in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/bass-lake-pet-hospital-new-hope/
-186. Blue Cross Animal Hospital | trust 0.0 | Blue Cross Animal Hospital is a veterinarian in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/blue-cross-animal-hospital-minneapolis/
-187. Bond Vet | trust 0.0 | Bond Vet is a veterinarian in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/bond-vet-chicago/
-188. Boughton Square Animal Clinic | trust 0.0 | Boughton Square Animal Clinic is a veterinarian in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/boughton-square-animal-clinic-bolingbrook/
-189. Boulevard Veterinary | trust 0.0 | Boulevard Veterinary is a veterinarian in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/boulevard-veterinary-chicago/
-190. Buffalo Grove Animal Hospital | trust 0.0 | Buffalo Grove Animal Hospital is a veterinarian in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/buffalo-grove-animal-hospital-buffalo-grove/
-191. Carlson Animal Hospital | trust 0.0 | Carlson Animal Hospital is a veterinarian in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/carlson-animal-hospital-oak-park/
-192. Champlin Park Pet Hospital | trust 0.0 | Champlin Park Pet Hospital is a veterinarian in Champlin, MN. | https://dingalinged-cpu.github.io/registry/c/champlin-park-pet-hospital-champlin/
-193. Companion Animal Hospital | trust 0.0 | Companion Animal Hospital is a veterinarian in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-eagan/
-194. Countryside Veterinary Center | trust 0.0 | Countryside Veterinary Center is a veterinarian in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/countryside-veterinary-center-countryside/
-195. CZS Vetranary Hospital | trust 0.0 | CZS Vetranary Hospital is a veterinarian in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/czs-vetranary-hospital-brookfield/
-196. Des Plaines Veterenaty Hospital | trust 0.0 | Des Plaines Veterenaty Hospital is a veterinarian in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/des-plaines-veterenaty-hospital-des-plaines/
-197. Elk Grove Pet Clinic | trust 0.0 | Elk Grove Pet Clinic is a veterinarian in Elk Grove Village, IL. | https://dingalinged-cpu.github.io/registry/c/elk-grove-pet-clinic-elk-grove-village/
-198. Ellis Veterinary Clinic | trust 0.0 | Ellis Veterinary Clinic is a veterinarian in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/ellis-veterinary-clinic-chicago/
-199. Family Pet Animal Hospital | trust 0.0 | Family Pet Animal Hospital is a veterinarian in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/family-pet-animal-hospital-chicago/
-200. Fort Road Animal Clinic | trust 0.0 | Fort Road Animal Clinic is a veterinarian in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/fort-road-animal-clinic-saint-paul/
-201. Golden Veterinary Care | trust 0.0 | Golden Veterinary Care is a veterinarian in Wayzata, MN. | https://dingalinged-cpu.github.io/registry/c/golden-veterinary-care-wayzata/
-202. Green Paws | trust 0.0 | Green Paws is a veterinarian in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/green-paws-la-grange/
-203. Hopkins Pet Hospital | trust 0.0 | Hopkins Pet Hospital is a veterinarian in Hopkins, MN. | https://dingalinged-cpu.github.io/registry/c/hopkins-pet-hospital-hopkins/
-204. Lombard Animal Clinic | trust 0.0 | Lombard Animal Clinic is a veterinarian in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/lombard-animal-clinic-lombard/
-205. Moneka Animal Clinic | trust 0.0 | Moneka Animal Clinic is a veterinarian in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/moneka-animal-clinic-mokena/
-206. New Hope Animal Hospital | trust 0.0 | New Hope Animal Hospital is a veterinarian in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/new-hope-animal-hospital-new-hope/
-207. Pets First | trust 0.0 | Pets First is a veterinarian in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/pets-first-chicago/
-208. Scenic Hills Animal Hospital | trust 0.0 | Scenic Hills Animal Hospital is a veterinarian in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/scenic-hills-animal-hospital-saint-paul/
-209. Spring Valley Veterinary Clinic | trust 0.0 | Spring Valley Veterinary Clinic is a veterinarian in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/spring-valley-veterinary-clinic-schaumburg/
-210. Village Animal Hospital | trust 0.0 | Village Animal Hospital is a veterinarian in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/village-animal-hospital-minnetonka/
-211. WellHaven Pet Health | trust 0.0 | WellHaven Pet Health is a veterinarian in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/wellhaven-pet-health-maple-grove/
-212. Wheaton Cat Clinic | trust 0.0 | Wheaton Cat Clinic is a veterinarian in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/wheaton-cat-clinic-wheaton/
-213. Wicker Park Veterinary Clinic | trust 0.0 | Wicker Park Veterinary Clinic is a veterinarian in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/wicker-park-veterinary-clinic-chicago/
-214. Willowbrook Wildlife Hospital | trust 0.0 | Willowbrook Wildlife Hospital is a veterinarian in Glen Ellyn, IL. | https://dingalinged-cpu.github.io/registry/c/willowbrook-wildlife-hospital-glen-ellyn/
+2. Animal Healthcare Clinic | trust 20.0 | Animal Healthcare Clinic is a veterinarian in Southlake, TX at 1615 East Southlake Boulevard, Southlake, TX 76092. Phone: +18174811382. Website: https://www.animalhealthcaresouthlake.com/. | https://dingalinged-cpu.github.io/registry/c/animal-healthcare-clinic-southlake/
+3. Animal Hospital of West Lake Forest | trust 20.0 | Animal Hospital of West Lake Forest is a veterinarian in Lake Forest, IL at 1089 Conway Road, Lake Forest, IL 60045. Phone: +18472342110. Website: https://lakeforestvets.com/. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-of-west-lake-forest-lake-forest/
+4. Animal Hospital On Teasley Lane | trust 20.0 | Animal Hospital On Teasley Lane is a veterinarian in Denton, TX at 3537 Teasley Lane, Denton, TX 76210. Phone: +19403826939. Website: https://www.animalhospitalteasley.com/. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-on-teasley-lane-denton/
+5. Animal Medical Center of Itasca | trust 20.0 | Animal Medical Center of Itasca is a veterinarian in Itasca, IL at 220 Catalpa Avenue, Itasca, IL 60143. Phone: +16307732040. Website: https://www.amcitasca.com/. | https://dingalinged-cpu.github.io/registry/c/animal-medical-center-of-itasca-itasca/
+6. Atascocita Animal Hospital | trust 20.0 | Atascocita Animal Hospital is a veterinarian in Humble, TX at 7819 FM 1960, Humble, TX 77346. Phone: +12816024092. Website: https://www.atascocitavet.com/. | https://dingalinged-cpu.github.io/registry/c/atascocita-animal-hospital-humble/
+7. Banfield Pet Hospital | trust 20.0 | Banfield Pet Hospital is a veterinarian in Bloomington, MN at 10538 France Avenue South, Bloomington, MN 55431. Phone: +19528881586. Website: https://banfield.com/. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-bloomington/
+8. Banfield Pet Hospital | trust 20.0 | Banfield Pet Hospital is a veterinarian in Eagan, MN at 1278 Town Centre Drive, Eagan, MN 55123. Phone: +16516883001. Website: https://www.banfield.com/locations/veterinarians/mn/eagan/eag/. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-eagan/
+9. Banfield Pet Hospital | trust 20.0 | Banfield Pet Hospital is a veterinarian in Greenfield, WI at 5005 South 76th Street, Greenfield, WI 53220. Phone: +14142464380. Website: https://www.banfield.com/locations/veterinarians/wi/greenfield/adg. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-greenfield/
+10. Bay Area Veterinary Specialists | trust 20.0 | Bay Area Veterinary Specialists is a veterinarian in Houston, TX at 12855 Gulf Freeway, Houston, TX 77034. Phone: +12814643554. Website: https://www.bayareaveterinaryspecialists.com/. | https://dingalinged-cpu.github.io/registry/c/bay-area-veterinary-specialists-houston/
+11. BluePearl | trust 20.0 | BluePearl is a veterinarian in Spring, TX at 1646 Spring Cypress Road, Spring, TX 77388. Phone: +18326165000. Website: https://bluepearlvet.com/hospital/spring-tx/. | https://dingalinged-cpu.github.io/registry/c/bluepearl-spring/
+12. Brook-Falls Veterinary Hospital & Exotic Care, Inc. | trust 20.0 | Brook-Falls Veterinary Hospital & Exotic Care, Inc. is a veterinarian in Menomonee Falls, WI at N48W14850 Lisbon Road, Menomonee Falls, WI 53051. Phone: +12627815277. Website: https://brookfallsveterinary.com/. | https://dingalinged-cpu.github.io/registry/c/brook-falls-veterinary-hospital-and-exotic-care-inc-menomonee-falls/
+13. Bush Lake Pet Hospital | trust 20.0 | Bush Lake Pet Hospital is a veterinarian in Eden Prairie, MN at 10140 Hennepin Town Road #100, Eden Prairie, MN 55347. Phone: +19529445320. Website: https://bushlakepethospital.com/. | https://dingalinged-cpu.github.io/registry/c/bush-lake-pet-hospital-eden-prairie/
+14. Carrollton West Pet Hospital | trust 20.0 | Carrollton West Pet Hospital is a veterinarian in Carrollton, TX at 3729 Old Denton Road, Carrollton, TX 75007. Phone: +19724921828. Website: https://carrolltonwestpet.com/. | https://dingalinged-cpu.github.io/registry/c/carrollton-west-pet-hospital-carrollton/
+15. CityVet + Urgent Care | trust 20.0 | CityVet + Urgent Care is a veterinarian in Dallas, TX at 11661 Preston Road, Dallas, TX 75230. Phone: +12143610444. Website: https://www.cityvet.com/location/preston-forest/. | https://dingalinged-cpu.github.io/registry/c/cityvet-urgent-care-dallas/
+16. Companion Animal Hospital River North | trust 20.0 | Companion Animal Hospital River North is a veterinarian in Chicago, IL at 749 North Clark Street, Chicago, IL 60654. Phone: +13126432901. Website: https://companionrn.com/. | https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-river-north-chicago/
+17. County Line Animal Hospital | trust 20.0 | County Line Animal Hospital is a veterinarian in Naperville, IL at 2200 South Washington Street, Naperville, IL 60565. Phone: +16309835551. Website: https://napervillevets.com/. | https://dingalinged-cpu.github.io/registry/c/county-line-animal-hospital-naperville/
+18. Dallas Animal Urgent Care | trust 20.0 | Dallas Animal Urgent Care is a veterinarian in Dallas, TX at 12835 Preston Road #405, Dallas, TX 75230. Phone: +19729102890. Website: https://dallasanimalurgentcare.com/. | https://dingalinged-cpu.github.io/registry/c/dallas-animal-urgent-care-dallas/
+19. Dickinson Animal Hospital | trust 20.0 | Dickinson Animal Hospital is a veterinarian in Dickinson, TX at 1100 FM 517 West, Dickinson, TX 77539. Phone: +12813374535. Website: https://www.dickinsonanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/dickinson-animal-hospital-dickinson/
+20. Downtown Veterinary Clinic | trust 20.0 | Downtown Veterinary Clinic is a veterinarian in Milwaukee, WI at 931 East Ogden Avenue, Milwaukee, WI 53202. Phone: +14143237587. Website: https://milwaukeedowntownvet.com/. | https://dingalinged-cpu.github.io/registry/c/downtown-veterinary-clinic-milwaukee/
+21. East Dallas Veterinary Clinic | trust 20.0 | East Dallas Veterinary Clinic is a veterinarian in Dallas, TX at 8541 Ferguson Road, Dallas, TX 75228. Phone: +12143289935. Website: https://www.eastdallasvetclinic.com/. | https://dingalinged-cpu.github.io/registry/c/east-dallas-veterinary-clinic-dallas/
+22. Eldorado Animal Hospital | trust 20.0 | Eldorado Animal Hospital is a veterinarian in McKinney, TX at 3170 Eldorado Parkway, McKinney, TX 75070. Phone: +19725291367. Website: https://eldoradovets.com/. | https://dingalinged-cpu.github.io/registry/c/eldorado-animal-hospital-mckinney/
+23. Family Pet Care | trust 20.0 | Family Pet Care is a veterinarian in Sugar Land, TX at 16111 Kensington Drive, Sugar Land, TX 77479. Phone: +12812320628. Website: https://familypetcaresugarland.com/. | https://dingalinged-cpu.github.io/registry/c/family-pet-care-sugar-land/
+24. Family Pet Clinic | trust 20.0 | Family Pet Clinic is a veterinarian in North Richland Hills, TX at 6724 Mid Cities Boulevard, North Richland Hills, TX 76148. Phone: +18177882525. Website: https://www.fpcnorthrichlandvet.com/. | https://dingalinged-cpu.github.io/registry/c/family-pet-clinic-north-richland-hills/
+25. Family Pet Clinic of Grapevine | trust 20.0 | Family Pet Clinic of Grapevine is a veterinarian in Grapevine, TX at 303 East Northwest Highway #A, Grapevine, TX 76051. Phone: +18174884618. Website: https://www.fpcgrapevinevet.com/. | https://dingalinged-cpu.github.io/registry/c/family-pet-clinic-of-grapevine-grapevine/
+26. Forest Glen Animal Hospital | trust 20.0 | Forest Glen Animal Hospital is a veterinarian in Chicago, IL at 5330 North Elston Avenue, Chicago, IL 60630. Phone: +17732832443. Website: https://www.forestglenanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/forest-glen-animal-hospital-chicago/
+27. Four Seasons Animal Hospital | trust 20.0 | Four Seasons Animal Hospital is a veterinarian in Spring, TX at 3730 FM 2920 #110, Spring, TX 77388. Phone: +12818254994. Website: https://vcahospitals.com/four-seasons. | https://dingalinged-cpu.github.io/registry/c/four-seasons-animal-hospital-spring/
+28. France Avenue Pet Hospital | trust 20.0 | France Avenue Pet Hospital is a veterinarian in Bloomington, MN at 3701 West Old Shakopee Road #280, Bloomington, MN 55431. Phone: +19527469296. Website: https://franceavepethospital.com/. | https://dingalinged-cpu.github.io/registry/c/france-avenue-pet-hospital-bloomington/
+29. Gosling Road Veterinary Clinic | trust 20.0 | Gosling Road Veterinary Clinic is a veterinarian in Spring, TX at 22707 Gosling Road, Spring, TX 77389. Phone: +12813508488. Website: https://www.goslingroadvet.com/. | https://dingalinged-cpu.github.io/registry/c/gosling-road-veterinary-clinic-spring/
+30. Guardian Pet Hospital and Lodge | trust 20.0 | Guardian Pet Hospital and Lodge is a veterinarian in Denton, TX at 5248 Edwards Road, Denton, TX 76208. Phone: +19405665595. Website: https://guardianpethospital.com/. | https://dingalinged-cpu.github.io/registry/c/guardian-pet-hospital-and-lodge-denton/
+31. Healty Paws | trust 20.0 | Healty Paws is a veterinarian in Greenfield, WI at 4805 South 74th Street #Suite C, Greenfield, WI 53220. Phone: +14143237755. Website: https://www.healthypawsclinics.com/l. | https://dingalinged-cpu.github.io/registry/c/healty-paws-greenfield/
+32. Hearthstone Animal Clinic | trust 20.0 | Hearthstone Animal Clinic is a veterinarian in Houston, TX at 14606 Spencer Road, Houston, TX 77095. Phone: +12818599244. Website: https://hearthstonevet.com/. | https://dingalinged-cpu.github.io/registry/c/hearthstone-animal-clinic-houston/
+33. Houston Animal Hospital | trust 20.0 | Houston Animal Hospital is a veterinarian in Sugar Land, TX at 11629 Highway 6 South, Sugar Land, TX 77498. Phone: +18329994151. Website: https://www.houstonanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/houston-animal-hospital-sugar-land/
+34. Houston SPCA Wildlife Center | trust 20.0 | Houston SPCA Wildlife Center is a veterinarian in Houston, TX at 7007 Old Katy Road, Houston, TX 77024. Phone: +17138619453. Website: https://www.houstonspca.org/. | https://dingalinged-cpu.github.io/registry/c/houston-spca-wildlife-center-houston/
+35. Kings Crossing Animal Hospital | trust 20.0 | Kings Crossing Animal Hospital is a veterinarian in Houston, TX at 3425 West Lake Houston Parkway, Houston, TX 77339. Phone: +12813605550. Website: https://www.vitalpet.com/locations/kings-crossing-animal-hospital/. | https://dingalinged-cpu.github.io/registry/c/kings-crossing-animal-hospital-houston/
+36. Kitten to Cat Hospital | trust 20.0 | Kitten to Cat Hospital is a veterinarian in Southlake, TX at 711 East Southlake Blvd #Suite 100, Southlake, TX 76092. Phone: +18174882272. Website: https://www.kittentocathospital.com/. | https://dingalinged-cpu.github.io/registry/c/kitten-to-cat-hospital-southlake/
+37. Lake Forest Animal Clinic | trust 20.0 | Lake Forest Animal Clinic is a veterinarian in Lake Forest, IL at 1391 North Western Avenue, Lake Forest, IL 60045. Phone: +18472344011. Website: https://www.lfanimalclinic.com/. | https://dingalinged-cpu.github.io/registry/c/lake-forest-animal-clinic-lake-forest/
+38. Lake Harriet Veterinary | trust 20.0 | Lake Harriet Veterinary is a veterinarian in Minneapolis, MN at 4249 Bryant Avenue South, Minneapolis, MN 55419. Phone: +18128221545. Website: https://lakeharrietvet.com/. | https://dingalinged-cpu.github.io/registry/c/lake-harriet-veterinary-minneapolis/
+39. Lake Lavon Animal Hospital | trust 20.0 | Lake Lavon Animal Hospital is a veterinarian in Wylie, TX at 456 North Country Club Road #110, Wylie, TX 75098. Phone: +19724297901. Website: https://www.lakelavonanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/lake-lavon-animal-hospital-wylie/
+40. Lake Olympia Aminal hostpital | trust 20.0 | Lake Olympia Aminal hostpital is a veterinarian in Missouri City, TX at 20413 S university Boulevard, Missouri City, TX 77459. Phone: +12814997242. Website: https://lakeolympiaanimal.com/. | https://dingalinged-cpu.github.io/registry/c/lake-olympia-aminal-hostpital-missouri-city/
+41. Lancers Square Animal Clinic | trust 20.0 | Lancers Square Animal Clinic is a veterinarian in Plano, TX at 3207 Independence Pkwy, Plano, TX 75075. Phone: +19725963413. Website: https://lancersvet.com/. | https://dingalinged-cpu.github.io/registry/c/lancers-square-animal-clinic-plano/
+42. Lewisville Animal Hospital | trust 20.0 | Lewisville Animal Hospital is a veterinarian in Lewisville, TX at 890 Bellaire Boulevard, Lewisville, TX 75067. Phone: +19724366518. Website: https://www.lewisvillevet.com/. | https://dingalinged-cpu.github.io/registry/c/lewisville-animal-hospital-lewisville/
+43. Lincoln Square Animal Hospital | trust 20.0 | Lincoln Square Animal Hospital is a veterinarian in Chicago, IL at 4501 North Lincoln Avenue, Chicago, IL 60625. Phone: +17732715901. Website: https://lincolnsquareanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/lincoln-square-animal-hospital-chicago/
+44. Local Vet Urgent Care | trust 20.0 | Local Vet Urgent Care is a veterinarian in Missouri City, TX at 9402 Highway 6, Missouri City, TX 77459. Phone: +12817104230. Website: https://localvettx.com/. | https://dingalinged-cpu.github.io/registry/c/local-vet-urgent-care-missouri-city/
+45. March Animal Hospital | trust 20.0 | March Animal Hospital is a veterinarian in Arlington Heights, IL at 1000 East Central Road, Arlington Heights, IL 60005. Phone: +18476708470. Website: https://www.marchanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/march-animal-hospital-arlington-heights/
+46. McKinney Animal Hospital | trust 20.0 | McKinney Animal Hospital is a veterinarian in McKinney, TX at 4630 Eldorado Parkway, McKinney, TX 75070. Phone: +19725480749. Website: https://mckinneyanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/mckinney-animal-hospital-mckinney/
+47. MedVet | trust 20.0 | MedVet is a veterinarian in Richardson, TX at 401 President George Bush Highway #113, Richardson, TX 75080. Phone: +19724799110. Website: https://www.medvetforpets.com/location/medvet-richardson/. | https://dingalinged-cpu.github.io/registry/c/medvet-richardson/
+48. Modern Animal - Addisom | trust 20.0 | Modern Animal - Addisom is a veterinarian in Dallas, TX at 5290 Belt Line Road #134, Dallas, TX 75254. Phone: +14693739338. Website: https://www.modernanimal.com/clinics/addison. | https://dingalinged-cpu.github.io/registry/c/modern-animal-addisom-dallas/
+49. Modern Animal - Park Cities | trust 20.0 | Modern Animal - Park Cities is a veterinarian in Dallas, TX at 5301 West Lovers Lane, Dallas, TX 75209. Phone: +14693739338. Website: https://www.modernanimal.com/clinics/park-cities/. | https://dingalinged-cpu.github.io/registry/c/modern-animal-park-cities-dallas/
+50. Naperville Animal Hospital | trust 20.0 | Naperville Animal Hospital is a veterinarian in Naperville, IL at 1023 East Ogden Avenue, Naperville, IL 60563. Phone: +16303555300. Website: https://www.napervilleanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/naperville-animal-hospital-naperville/
+
+## More vet listings (607 total; top 50 unpaid shown)
+- Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/vet.jsonl
+- Chicago, IL: 51 listings: https://dingalinged-cpu.github.io/registry/k/vet-chicago-il/
+- Dallas, TX: 48 listings: https://dingalinged-cpu.github.io/registry/k/vet-dallas-tx/
+- Houston, TX: 44 listings: https://dingalinged-cpu.github.io/registry/k/vet-houston-tx/
+- Frisco, TX: 21 listings: https://dingalinged-cpu.github.io/registry/k/vet-frisco-tx/
+- Harris County, TX: 18 listings: https://dingalinged-cpu.github.io/registry/k/vet-harris-county-tx/
+- Minneapolis, MN: 18 listings: https://dingalinged-cpu.github.io/registry/k/vet-minneapolis-mn/
+- Plano, TX: 14 listings: https://dingalinged-cpu.github.io/registry/k/vet-plano-tx/
+- Mckinney, TX: 11 listings: https://dingalinged-cpu.github.io/registry/k/vet-mckinney-tx/
+- Saint Paul, MN: 11 listings: https://dingalinged-cpu.github.io/registry/k/vet-saint-paul-mn/
+- Fort Bend County, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/vet-fort-bend-county-tx/
+- Denton, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/vet-denton-tx/
+- Milwaukee, WI: 8 listings: https://dingalinged-cpu.github.io/registry/k/vet-milwaukee-wi/
+- Lewisville, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/vet-lewisville-tx/
+- Richardson, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/vet-richardson-tx/
+- Rockwall, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/vet-rockwall-tx/
+- Carrollton, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/vet-carrollton-tx/
+- Flower Mound, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/vet-flower-mound-tx/
+- Arlington, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/vet-arlington-tx/
+- Skokie, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/vet-skokie-il/
+- Eagan, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/vet-eagan-mn/
+- Montgomery County, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/vet-montgomery-county-tx/
+- North Richland Hills, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/vet-north-richland-hills-tx/
+- Mesquite, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/vet-mesquite-tx/
+- Irving, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/vet-irving-tx/
+- Greenfield, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/vet-greenfield-wi/
+- Bedford, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/vet-bedford-tx/
+- The Woodlands, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/vet-the-woodlands-tx/
+- Southlake, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/vet-southlake-tx/
+- Humble, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/vet-humble-tx/
+- Richmond, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/vet-richmond-tx/
+- Sugar Land, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/vet-sugar-land-tx/
+- Buffalo Grove, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/vet-buffalo-grove-il/
+- Evanston, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/vet-evanston-il/
+- Naperville, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/vet-naperville-il/
+- Bloomington, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/vet-bloomington-mn/
+- Minnetonka, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/vet-minnetonka-mn/
+- Wauwatosa, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/vet-wauwatosa-wi/
+- Coppell, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/vet-coppell-tx/
+- Forney, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/vet-forney-tx/
+- Allen, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/vet-allen-tx/
+- Grand Prairie, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/vet-grand-prairie-tx/
+- League City, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/vet-league-city-tx/
+- Addison, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/vet-addison-tx/
+- Wylie, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/vet-wylie-tx/
+- Tomball, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/vet-tomball-tx/
+- Eden Prairie, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/vet-eden-prairie-mn/
+- New Hope, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/vet-new-hope-mn/
+- Oak Creek, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/vet-oak-creek-wi/
+- Waukesha, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/vet-waukesha-wi/
+- Farmersville, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-farmersville-tx/
+- Mansfield, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-mansfield-tx/
+- Cedar Hill, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-cedar-hill-tx/
+- Prosper, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-prosper-tx/
+- Grapevine, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-grapevine-tx/
+- Hurst, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-hurst-tx/
+- Missouri City, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-missouri-city-tx/
+- Sachse, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-sachse-tx/
+- Duncanville, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-duncanville-tx/
+- Farmers Branch, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-farmers-branch-tx/
+- Lake Zurich, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-lake-zurich-il/
+- Homer Glen, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-homer-glen-il/
+- Lake Forest, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-lake-forest-il/
+- Western Springs, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-western-springs-il/
+- Arlington Heights, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-arlington-heights-il/
+- Oak Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-oak-park-il/
+- Wauconda, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-wauconda-il/
+- Brookfield, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-brookfield-il/
+- Wheaton, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-wheaton-il/
+- Elk Grove Village, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-elk-grove-village-il/
+- Schaumburg, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-schaumburg-il/
+- Mokena, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-mokena-il/
+- Oak Lawn, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-oak-lawn-il/
+- Vernon Hills, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-vernon-hills-il/
+- Saint Louis Park, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-saint-louis-park-mn/
+- Saint Anthony, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-saint-anthony-mn/
+- Arden Hills, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-arden-hills-mn/
+- New Brighton, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-new-brighton-mn/
+- Edina, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-edina-mn/
+- Roseville, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-roseville-mn/
+- Inver Grove Heights, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-inver-grove-heights-mn/
+- Shakopee, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-shakopee-mn/
+- Maple Grove, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-maple-grove-mn/
+- Franklin, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-franklin-wi/
+- Sussex, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-sussex-wi/
+- Shorewood, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-shorewood-wi/
+- Menomonee Falls, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-menomonee-falls-wi/
+- Caledonia, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-caledonia-wi/
+- West Bend, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-west-bend-wi/
+- Town Of Jackson, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-town-of-jackson-wi/
+- City Of Pewaukee, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/vet-city-of-pewaukee-wi/
+- Alvarado, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-alvarado-tx/
+- Conroe, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-conroe-tx/
+- Heath, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-heath-tx/
+- Argyle, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-argyle-tx/
+- Baytown, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-baytown-tx/
+- Northlake, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-northlake-tx/
+- Seabrook, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-seabrook-tx/
+- Corinth, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-corinth-tx/
+- Hickory Creek, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-hickory-creek-tx/
+- Royse City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-royse-city-tx/
+- Keller, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-keller-tx/
+- Westlake, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-westlake-tx/
+- Balch Springs, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-balch-springs-tx/
+- Dickinson, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-dickinson-tx/
+- East Bernard, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-east-bernard-tx/
+- Lucas, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-lucas-tx/
+- Murphy, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-murphy-tx/
+- Oak Ridge North, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-oak-ridge-north-tx/
+- Garland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-garland-tx/
+- Rowlett, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-rowlett-tx/
+- Roanoke, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-roanoke-tx/
+- Simonton, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-simonton-tx/
+- Fairview, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-fairview-tx/
+- Colleyville, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-colleyville-tx/
+- The Colony, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-the-colony-tx/
+- Webster, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-webster-tx/
+- Sunnyvale, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-sunnyvale-tx/
+- Pearland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-pearland-tx/
+- Cross Roads, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-cross-roads-tx/
+- Waxahachie, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-waxahachie-tx/
+- Wharton, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-wharton-tx/
+- Romeoville, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-romeoville-il/
+- Streamwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-streamwood-il/
+- Itasca, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-itasca-il/
+- Orland Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-orland-park-il/
+- La Grange Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-la-grange-park-il/
+- Crestwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-crestwood-il/
+- Barrington, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-barrington-il/
+- Glenview, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-glenview-il/
+- Bolingbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-bolingbrook-il/
+- New Lenox, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-new-lenox-il/
+- Carol Stream, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-carol-stream-il/
+- Wilmette, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-wilmette-il/
+- Norridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-norridge-il/
+- Countryside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-countryside-il/
+- Des Plaines, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-des-plaines-il/
+- Elmhurst, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-elmhurst-il/
+- Downers Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-downers-grove-il/
+- Woodridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-woodridge-il/
+- La Grange, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-la-grange-il/
+- Hanover Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-hanover-park-il/
+- Palatine, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-palatine-il/
+- Lombard, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-lombard-il/
+- Niles, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-niles-il/
+- Elmwood Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-elmwood-park-il/
+- Prospect Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-prospect-heights-il/
+- Northbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-northbrook-il/
+- Mount Prospect, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-mount-prospect-il/
+- River Forest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-river-forest-il/
+- Joliet, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-joliet-il/
+- Summit, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-summit-il/
+- Park Ridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-park-ridge-il/
+- Berwyn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-berwyn-il/
+- Franklin Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-franklin-park-il/
+- University Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-university-park-il/
+- Highland Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-highland-park-il/
+- Mundelein, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-mundelein-il/
+- Glen Ellyn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-glen-ellyn-il/
+- Crystal, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-crystal-mn/
+- Shoreview, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-shoreview-mn/
+- Richfield, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-richfield-mn/
+- Blaine, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-blaine-mn/
+- Maplewood, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-maplewood-mn/
+- Champlin, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-champlin-mn/
+- Osseo, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-osseo-mn/
+- Brooklyn Park, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-brooklyn-park-mn/
+- Wayzata, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-wayzata-mn/
+- Hopkins, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-hopkins-mn/
+- White Bear Township, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-white-bear-township-mn/
+- Rockford, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-rockford-mn/
+- Anoka, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-anoka-mn/
+- Oakdale, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-oakdale-mn/
+- West Saint Paul, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-west-saint-paul-mn/
+- Saint Bonifacius, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-saint-bonifacius-mn/
+- Saint Francis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-saint-francis-wi/
+- Mount Pleasant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-mount-pleasant-wi/
+- Town Of Dover, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-town-of-dover-wi/
+- Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-brookfield-wi/
+- Glendale, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-glendale-wi/
+- Cedarburg, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-cedarburg-wi/
+- Town Of Burlington, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-town-of-burlington-wi/
+- Mequon, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-mequon-wi/
+- Rochester, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-rochester-wi/
+- Greendale, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-greendale-wi/
+- Sturtevant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-sturtevant-wi/
+- Burlington, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-burlington-wi/
+- Port Washington, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-port-washington-wi/
+- Racine, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-racine-wi/
+- Village Of Richfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-village-of-richfield-wi/
+- West Allis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-west-allis-wi/
+- Thiensville, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-thiensville-wi/
+- Saukville, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-saukville-wi/
+- Town Of Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-town-of-brookfield-wi/
+- Town Of Norway, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-town-of-norway-wi/
+- Schererville, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/vet-schererville-in/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet | category: Pets | industry benchmark: Animals & Pets
@@ -227,10 +261,10 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - CPC benchmark: low $3.97, median $4.06, high $4.06 (Animals & Pets median CPC 2026 $4.06 [https://www.localiq.com/blog/search-advertising-benchmarks]; Animals & Pets median CPC 2025 $3.97 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 214
+- Registry businesses competing: 607
 - Equivalent Google Ads cost per month: ~$150,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

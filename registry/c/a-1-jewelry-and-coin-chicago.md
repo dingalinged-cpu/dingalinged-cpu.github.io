@@ -15,7 +15,7 @@ A-1 Jewelry & Coin is a jewelry store in Chicago, IL at 1827 West Irving Park Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/a-1-jewelry-and-coin-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-1-jewelry-and-coin-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12312843601 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Thompson Moving & Storage, Inc. ILCC7337MC is a moving company in Orland Park, I
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00, Sa 09:00-12:00, Su Closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/thompson-moving-and-storage-inc-ilcc7337mc-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/thompson-moving-and-storage-inc-ilcc7337mc-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13401718504 (license ODbL-1.0); source data as of 2026-07-28

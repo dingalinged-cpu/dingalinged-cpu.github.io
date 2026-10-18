@@ -15,7 +15,7 @@ C.J Nails is a nail salon in Darien, IL at 7511 Lemont Road, Darien, IL 60561.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/c-j-nails-darien/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/c-j-nails-darien.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5256928059 (license ODbL-1.0); source data as of 2026-06-01

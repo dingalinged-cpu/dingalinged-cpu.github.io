@@ -15,7 +15,7 @@ Victor Hlavacek Florist is a florist in Winnetka, IL at 746 Green Bay Road, Winn
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/victor-hlavacek-florist-winnetka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/victor-hlavacek-florist-winnetka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1361002087 (license ODbL-1.0); source data as of 2026-06-01

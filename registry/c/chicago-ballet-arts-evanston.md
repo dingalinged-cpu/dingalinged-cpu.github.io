@@ -15,7 +15,7 @@ Chicago Ballet Arts is a dance studio in Evanston, IL at 915 Foster Street, Evan
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chicago-ballet-arts-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicago-ballet-arts-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2295266029 (license ODbL-1.0); source data as of 2026-06-01

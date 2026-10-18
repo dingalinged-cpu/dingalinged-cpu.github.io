@@ -15,7 +15,7 @@ Peter Troost Monument Company is a funeral home in Justice, IL at 7200 Archer Ro
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/peter-troost-monument-company-justice/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/peter-troost-monument-company-justice.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1199970156 (license ODbL-1.0); source data as of 2026-06-01

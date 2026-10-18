@@ -15,7 +15,7 @@ Skokie Nails & Spa is a nail salon in Skokie, IL at 4950 Oakton Street, Skokie, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/skokie-nails-and-spa-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/skokie-nails-and-spa-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6550738767 (license ODbL-1.0); source data as of 2026-06-01

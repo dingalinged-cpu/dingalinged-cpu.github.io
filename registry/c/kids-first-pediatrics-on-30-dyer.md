@@ -15,7 +15,7 @@ Kids First Pediatrics on 30 is a pediatrician in Dyer, IN at 1160 Joliet Street 
 - Opening hours (OSM syntax): Mo-Th 08:30-19:00; Fr 08:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kids-first-pediatrics-on-30-dyer/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kids-first-pediatrics-on-30-dyer.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11482067360 (license ODbL-1.0); source data as of 2026-07-28

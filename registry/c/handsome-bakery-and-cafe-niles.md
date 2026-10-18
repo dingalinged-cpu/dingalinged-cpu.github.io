@@ -15,7 +15,7 @@ Handsome Bakery & Cafe is a bakery in Niles, IL at 8502 West Golf Road, Niles, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/handsome-bakery-and-cafe-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/handsome-bakery-and-cafe-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11225940396 (license ODbL-1.0); source data as of 2026-06-01

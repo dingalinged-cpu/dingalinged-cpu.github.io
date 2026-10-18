@@ -15,7 +15,7 @@ Bradshaw Funeral is a funeral home in Saint Paul, MN at 1078 Rice Street #Room B
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bradshaw-funeral-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bradshaw-funeral-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6555480859 (license ODbL-1.0); source data as of 2026-06-01

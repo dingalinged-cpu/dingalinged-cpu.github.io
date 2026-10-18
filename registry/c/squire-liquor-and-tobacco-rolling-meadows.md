@@ -15,7 +15,7 @@ Squire Liquor & Tobacco is a liquor store in Rolling Meadows, IL at 1929 South P
 - Opening hours (OSM syntax): Mo-Fr 10:00-22:00; Fr-Sa 10:00-23:00; Su 11:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/squire-liquor-and-tobacco-rolling-meadows/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/squire-liquor-and-tobacco-rolling-meadows.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11425147074 (license ODbL-1.0); source data as of 2026-06-01

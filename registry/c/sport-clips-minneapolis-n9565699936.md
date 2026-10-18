@@ -15,7 +15,7 @@ Sport Clips is a hair salon in Minneapolis, MN at 1730 New Brighton Boulevard #S
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sport-clips-minneapolis-n9565699936/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-minneapolis-n9565699936.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9565699936 (license ODbL-1.0); source data as of 2026-06-01

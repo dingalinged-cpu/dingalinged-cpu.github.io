@@ -15,7 +15,7 @@ Phillips Chevrolet of Lansing is an auto repair shop in Lansing, IL at 17730 Tor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/phillips-chevrolet-of-lansing-lansing/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/phillips-chevrolet-of-lansing-lansing.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1329496114 (license ODbL-1.0); source data as of 2026-06-01

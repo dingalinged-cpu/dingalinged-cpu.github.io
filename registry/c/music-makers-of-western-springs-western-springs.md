@@ -15,7 +15,7 @@ Music Makers of Western Springs is a music school in Western Springs, IL at 4332
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/music-makers-of-western-springs-western-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/music-makers-of-western-springs-western-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9603287972 (license ODbL-1.0); source data as of 2026-07-28

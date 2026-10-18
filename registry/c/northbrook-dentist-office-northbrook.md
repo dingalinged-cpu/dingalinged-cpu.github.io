@@ -15,7 +15,7 @@ Northbrook Dentist Office is a dentist in Northbrook, IL at 1535 Lake Cook Road 
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northbrook-dentist-office-northbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northbrook-dentist-office-northbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5232422085 (license ODbL-1.0); source data as of 2026-07-28

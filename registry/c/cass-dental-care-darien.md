@@ -15,7 +15,7 @@ Cass Dental Care is a dentist in Darien, IL at 7702 Cass Avenue #Suite 210, Dari
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cass-dental-care-darien/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cass-dental-care-darien.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11848580468 (license ODbL-1.0); source data as of 2026-07-28

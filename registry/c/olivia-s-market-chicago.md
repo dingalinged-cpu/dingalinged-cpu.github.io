@@ -15,7 +15,7 @@ Olivia’s Market is a bakery in Chicago, IL at 2014 West Wabansia Avenue, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/olivia-s-market-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/olivia-s-market-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6323990645 (license ODbL-1.0); source data as of 2026-06-01

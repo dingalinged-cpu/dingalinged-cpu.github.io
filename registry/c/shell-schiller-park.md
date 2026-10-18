@@ -15,7 +15,7 @@ Shell is a car wash in Schiller Park, IL at 4758 Des Plaines River Road, Schille
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shell-schiller-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shell-schiller-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/983561580 (license ODbL-1.0); source data as of 2026-07-28

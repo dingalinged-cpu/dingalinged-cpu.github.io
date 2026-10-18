@@ -15,7 +15,7 @@ Valentini Chiropractic Clinic is a chiropractor in New Hope, MN at 4900 Highway 
 - Opening hours (OSM syntax): Mo-Fr 11:30-20:00; Sa 14:00-20:00; Su 15:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/valentini-chiropractic-clinic-new-hope/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/valentini-chiropractic-clinic-new-hope.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9705008824 (license ODbL-1.0); source data as of 2026-06-01

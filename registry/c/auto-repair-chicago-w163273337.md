@@ -15,7 +15,7 @@ Auto Repair is an auto repair shop in Chicago, IL at 6630 West Wrightwood Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/auto-repair-chicago-w163273337/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/auto-repair-chicago-w163273337.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163273337 (license ODbL-1.0); source data as of 2026-06-01

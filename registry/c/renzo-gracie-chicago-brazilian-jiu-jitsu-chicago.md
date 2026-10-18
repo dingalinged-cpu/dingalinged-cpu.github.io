@@ -15,7 +15,7 @@ Renzo Gracie Chicago Brazilian Jiu-Jitsu is a martial arts school in Chicago, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/renzo-gracie-chicago-brazilian-jiu-jitsu-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/renzo-gracie-chicago-brazilian-jiu-jitsu-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7732070033 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Bake for Me is a bakery in Chicago, IL at 4305 South Halsted Street, Chicago, IL
 - Opening hours (OSM syntax): We-Sa 10:00-18:00; Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bake-for-me-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bake-for-me-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210164724 (license ODbL-1.0); source data as of 2026-06-01

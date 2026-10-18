@@ -15,7 +15,7 @@ Glass Masters Auto Glass is a window installer in Saint Bonifacius, MN at 4141 M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/glass-masters-auto-glass-saint-bonifacius/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/glass-masters-auto-glass-saint-bonifacius.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/590636431 (license ODbL-1.0); source data as of 2026-07-24

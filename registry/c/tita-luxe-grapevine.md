@@ -1,0 +1,23 @@
+Tita Luxe is a nail salon in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051.
+
+# Tita Luxe
+
+- Category: nail salon
+- Services: nail salon
+- Address: 3000 Grapevine Mills Parkway, Grapevine, TX 76051
+- City: Grapevine
+- State: TX
+- ZIP: 76051
+- Coordinates: 32.9644373, -97.0440367
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/tita-luxe-grapevine/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tita-luxe-grapevine.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10798167037 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

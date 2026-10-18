@@ -15,7 +15,7 @@ Frank Gironda Salon is a hair salon in Naperville, IL at 1212 South Naper Boulev
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/frank-gironda-salon-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/frank-gironda-salon-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1441749337 (license ODbL-1.0); source data as of 2026-06-01

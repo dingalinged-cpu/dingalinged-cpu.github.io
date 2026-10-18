@@ -15,7 +15,7 @@ CD Liquors is a liquor store in Romeoville, IL at 322 Independence Boulevard, Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cd-liquors-romeoville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cd-liquors-romeoville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3208423761 (license ODbL-1.0); source data as of 2026-06-01

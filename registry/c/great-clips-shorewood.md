@@ -15,7 +15,7 @@ Great Clips is a hair salon in Shorewood, MN at 23760 Minnesota State Highway 7,
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00, Sa 09:00-17:00, Su 09:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-shorewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-shorewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11215362528 (license ODbL-1.0); source data as of 2026-06-01

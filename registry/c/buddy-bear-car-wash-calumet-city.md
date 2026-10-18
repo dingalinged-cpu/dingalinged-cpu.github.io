@@ -15,7 +15,7 @@ Buddy Bear Car Wash is a car wash in Calumet City, IL at 382 Torrence Avenue, Ca
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/buddy-bear-car-wash-calumet-city/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/buddy-bear-car-wash-calumet-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1323903570 (license ODbL-1.0); source data as of 2026-07-28

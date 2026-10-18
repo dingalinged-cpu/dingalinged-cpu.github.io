@@ -15,7 +15,7 @@ Pet Wants is a pet store in Naperville, IL at 630 East Ogden Avenue, Naperville,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pet-wants-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pet-wants-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1242412260 (license ODbL-1.0); source data as of 2026-06-01

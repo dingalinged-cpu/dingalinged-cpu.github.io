@@ -15,7 +15,7 @@ Chris Okeleye: Allstate Insurance is an insurance agent in Saint Paul, MN. Phone
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chris-okeleye-allstate-insurance-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chris-okeleye-allstate-insurance-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8914957195 (license ODbL-1.0); source data as of 2026-05-31

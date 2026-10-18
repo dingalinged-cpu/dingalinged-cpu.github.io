@@ -1,0 +1,23 @@
+Fancy Pants Pet Salon is a dog groomer in Wauwatosa, WI at 6421 West North Avenue, Wauwatosa, WI 53213. Phone: +14149053647. Website: https://www.fancypantspetsalon.com/.
+
+# Fancy Pants Pet Salon
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: 6421 West North Avenue, Wauwatosa, WI 53213
+- City: Wauwatosa
+- State: WI
+- ZIP: 53213
+- Coordinates: 43.0605777, -87.9928825
+- Phone: +14149053647
+- Website: https://www.fancypantspetsalon.com/
+- Email: erin@fancypantspetsalon.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/fancy-pants-pet-salon-wauwatosa/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fancy-pants-pet-salon-wauwatosa.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12617795270 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

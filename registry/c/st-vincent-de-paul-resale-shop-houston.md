@@ -1,0 +1,23 @@
+St. Vincent de Paul Resale Shop is a thrift store in Houston, TX at 6654 Gulf Freeway, Houston, TX.
+
+# St. Vincent de Paul Resale Shop
+
+- Category: thrift store
+- Services: thrift store
+- Address: 6654 Gulf Freeway, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7055342, -95.3032719
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/st-vincent-de-paul-resale-shop-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/st-vincent-de-paul-resale-shop-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/47116360 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

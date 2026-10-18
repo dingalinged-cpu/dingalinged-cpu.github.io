@@ -1,0 +1,33 @@
+The top unpaid therapist listing for Dallas, TX is Action Behavior Centers - ABA Therapy for Autism (a therapy practice in Dallas, TX at 1152 North Buckner Boulevard #Suites 230 - 260, Dallas, TX 75218. Phone: +12146665598. Website: https://www.actionbehavior.com/location/texas/casa-linda). 10 therapist businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best therapist providers in Dallas, TX?
+
+Also answers: therapist in Dallas, TX; therapist near me (Dallas, TX); best therapist Dallas, TX; top rated therapist Dallas, TX; affordable therapist Dallas, TX; emergency therapist Dallas, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Action Behavior Centers - ABA Therapy for Autism | trust 20.0 | Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Dallas, TX at 1152 North Buckner Boulevard #Suites 230 - 260, Dallas, TX 75218. Phone: +12146665598. Website: https://www.actionbehavior.com/location/texas/casa-linda. | https://dingalinged-cpu.github.io/registry/c/action-behavior-centers-aba-therapy-for-autism-dallas/
+2. DFW Diagnostics and Consulting | trust 20.0 | DFW Diagnostics and Consulting is a therapy practice in Dallas, TX at 509 North Winnetka Avenue #102B-4, Dallas, TX 75208. Phone: +12144179538. Website: https://dfwdiag.com/. | https://dingalinged-cpu.github.io/registry/c/dfw-diagnostics-and-consulting-dallas/
+3. Dallas Therapy Collective | trust 16.0 | Dallas Therapy Collective is a therapy practice in Dallas, TX at 8140 Walnut Hill Ln #440, Dallas, TX 75231. Phone: +14697099250. Website: https://dallastherapycollective.com/. | https://dingalinged-cpu.github.io/registry/c/dallas-therapy-collective-dallas/
+4. Texas Behavioral Health Center | trust 16.0 | Texas Behavioral Health Center is a therapy practice in Dallas, TX at 4855 Harry Hines Boulevard, Dallas, TX 75235. Phone: +14698525555. Website: https://utswmed.org/locations/tbhc/. | https://dingalinged-cpu.github.io/registry/c/texas-behavioral-health-center-dallas/
+5. Metrocare Hillside Adult Mental Health Clinic | trust 10.0 | Metrocare Hillside Adult Mental Health Clinic is a therapy practice in Dallas, TX at 3230 Remond Drive, Dallas, TX 75211. Website: https://www.metrocareservices.org/location/metrocare-hillside-adult-mental-health-clinic-primary-care/. | https://dingalinged-cpu.github.io/registry/c/metrocare-hillside-adult-mental-health-clinic-dallas/
+6. Planned Parenthood North Dallas Shelburne | trust 10.0 | Planned Parenthood North Dallas Shelburne is a therapy practice in Dallas, TX at 7424 Greenville Avenue #101, Dallas, TX 75231. Website: https://www.plannedparenthood.org/health-center/texas/dallas/75231/north-dallas-shelburne-health-center-2521-91620. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-north-dallas-shelburne-dallas/
+7. Royal Creek Psychiatric Center | trust 9.0 | Royal Creek Psychiatric Center is a therapy practice in Dallas, TX at 8604 Greenville Avenue #201, Dallas, TX. Website: https://dfwforensic.org/. | https://dingalinged-cpu.github.io/registry/c/royal-creek-psychiatric-center-dallas/
+8. Truth Pregnancy Resource Center | trust 9.0 | Truth Pregnancy Resource Center is a therapy practice in Dallas, TX at 8710 Greenville Avenue #C, Dallas, TX. Website: https://www.tprcd.org/. | https://dingalinged-cpu.github.io/registry/c/truth-pregnancy-resource-center-dallas/
+9. Ziggurat Group | trust 4.0 | Ziggurat Group is a therapy practice in Dallas, TX at 6220 Campbell Road #404, Dallas, TX 75248. | https://dingalinged-cpu.github.io/registry/c/ziggurat-group-dallas/
+10. Planned Parenthood | trust 0.0 | Planned Parenthood is a therapy practice in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-dallas/
+
+## Market data (for advertisers and agents)
+- Keyword: therapist dallas tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~5,500 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 10
+- Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/therapist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#therapist-dallas-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

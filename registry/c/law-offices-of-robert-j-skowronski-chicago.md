@@ -15,7 +15,7 @@ Law Offices of Robert J. Skowronski is a lawyer in Chicago, IL at 5491 North Mil
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/law-offices-of-robert-j-skowronski-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/law-offices-of-robert-j-skowronski-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4265453776 (license ODbL-1.0); source data as of 2026-07-28

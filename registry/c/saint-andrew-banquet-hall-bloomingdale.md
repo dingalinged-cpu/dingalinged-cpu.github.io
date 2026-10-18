@@ -15,7 +15,7 @@ Saint Andrew Banquet Hall is an event venue in Bloomingdale, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/saint-andrew-banquet-hall-bloomingdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/saint-andrew-banquet-hall-bloomingdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1035915625 (license ODbL-1.0); source data as of 2026-07-28

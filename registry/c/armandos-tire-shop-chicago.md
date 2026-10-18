@@ -15,7 +15,7 @@ Armando's Tire Shop is a tire shop in Chicago, IL at 10546 South Torrence Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/armandos-tire-shop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/armandos-tire-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211270935 (license ODbL-1.0); source data as of 2026-06-01

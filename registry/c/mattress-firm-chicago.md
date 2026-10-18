@@ -15,7 +15,7 @@ Mattress Firm is a mattress store in Chicago, IL at 3650 North Western Avenue #B
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4240308926 (license ODbL-1.0); source data as of 2026-06-01

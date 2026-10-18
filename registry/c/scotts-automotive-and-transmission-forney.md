@@ -1,0 +1,23 @@
+Scotts Automotive and Transmission is an auto repair shop in Forney, TX at 12020 Currency Circle, Forney, TX 75126.
+
+# Scotts Automotive and Transmission
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 12020 Currency Circle, Forney, TX 75126
+- City: Forney
+- State: TX
+- ZIP: 75126
+- Coordinates: 32.7337275, -96.4421135
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/scotts-automotive-and-transmission-forney/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/scotts-automotive-and-transmission-forney.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/714112621 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

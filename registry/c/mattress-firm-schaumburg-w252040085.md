@@ -15,7 +15,7 @@ Mattress Firm is a mattress store in Schaumburg, IL at 62 East Golf Road, Schaum
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-schaumburg-w252040085/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-schaumburg-w252040085.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/252040085 (license ODbL-1.0); source data as of 2026-06-01

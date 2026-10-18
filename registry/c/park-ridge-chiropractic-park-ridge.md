@@ -15,7 +15,7 @@ Park Ridge Chiropractic is a chiropractor in Park Ridge, IL at 32 Main Street, P
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/park-ridge-chiropractic-park-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/park-ridge-chiropractic-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1046404695 (license ODbL-1.0); source data as of 2026-07-28

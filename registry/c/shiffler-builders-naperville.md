@@ -15,7 +15,7 @@ Shiffler Builders is a general contractor in Naperville, IL at 25 East North Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shiffler-builders-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shiffler-builders-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/958739962 (license ODbL-1.0); source data as of 2026-06-01

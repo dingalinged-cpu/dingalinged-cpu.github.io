@@ -15,7 +15,7 @@ A Step By Step is a daycare in Evanston, IL at 1909 Howard Street, Evanston, IL 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/a-step-by-step-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-step-by-step-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2294089967 (license ODbL-1.0); source data as of 2026-07-28

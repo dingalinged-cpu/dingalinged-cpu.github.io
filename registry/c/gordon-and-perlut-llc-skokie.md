@@ -15,7 +15,7 @@ Gordon & Perlut, LLC is a lawyer in Skokie, IL at 5250 Old Orchard Road #300, Sk
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gordon-and-perlut-llc-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gordon-and-perlut-llc-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7150905991 (license ODbL-1.0); source data as of 2026-07-28

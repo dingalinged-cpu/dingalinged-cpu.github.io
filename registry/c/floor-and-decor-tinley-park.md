@@ -15,7 +15,7 @@ Floor & Decor is a flooring company in Tinley Park, IL at 7061 West 159th Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/floor-and-decor-tinley-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/floor-and-decor-tinley-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13389673250 (license ODbL-1.0); source data as of 2026-06-01

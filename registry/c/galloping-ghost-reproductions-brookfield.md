@@ -15,7 +15,7 @@ Galloping Ghost Reproductions is a printing service in Brookfield, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/galloping-ghost-reproductions-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/galloping-ghost-reproductions-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/967109542 (license ODbL-1.0); source data as of 2026-06-01

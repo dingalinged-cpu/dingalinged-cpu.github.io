@@ -15,7 +15,7 @@ Massage Envy is a massage studio in Chicago, IL at 345 East Ohio Street, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n12563653526/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-chicago-n12563653526.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12563653526 (license ODbL-1.0); source data as of 2026-06-01

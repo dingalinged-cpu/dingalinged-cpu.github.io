@@ -15,7 +15,7 @@ Daley Electric is an electrician in Newport, MN at 222 21st Street, Newport, MN 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/daley-electric-newport/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/daley-electric-newport.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/493780963 (license ODbL-1.0); source data as of 2026-07-24

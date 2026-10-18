@@ -15,7 +15,7 @@ Fabricare on Broadway is a dry cleaner in Chicago, IL at 3710 North Broadway, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fabricare-on-broadway-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fabricare-on-broadway-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11209281847 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Chuck & Don's Pet Food & Supplies is a pet store in Chanhassen, MN at 7818 Marke
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-and-supplies-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-pet-food-and-supplies-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6391789947 (license ODbL-1.0); source data as of 2026-06-01

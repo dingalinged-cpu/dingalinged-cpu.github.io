@@ -15,7 +15,7 @@ FedEx Office is a printing service in Merrillville, IN at 95 West 81st Avenue, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fedex-office-merrillville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-merrillville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1333871005 (license ODbL-1.0); source data as of 2026-06-01

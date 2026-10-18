@@ -15,7 +15,7 @@ CJ Barbers Shop is a hair salon in Gary, IN at 4444 Broadway #A3, Gary, IN 46408
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cj-barbers-shop-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cj-barbers-shop-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10804444813 (license ODbL-1.0); source data as of 2026-06-01

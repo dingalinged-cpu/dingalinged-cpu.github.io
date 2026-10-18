@@ -15,7 +15,7 @@ Farmers Insurance - Anna Lebiecka-Helma is an insurance agent in Villa Park, IL 
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/farmers-insurance-anna-lebiecka-helma-villa-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-anna-lebiecka-helma-villa-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5961090382 (license ODbL-1.0); source data as of 2026-07-28

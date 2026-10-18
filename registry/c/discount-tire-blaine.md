@@ -15,7 +15,7 @@ Discount Tire is a tire shop in Blaine, MN at 9450 Baltimore Street Northeast, B
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/discount-tire-blaine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-blaine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/608993087 (license ODbL-1.0); source data as of 2026-06-01

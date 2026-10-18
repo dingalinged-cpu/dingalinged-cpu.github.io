@@ -15,7 +15,7 @@ Bomstad Dental is a dentist in Hopkins, MN at 911 1st Street North, Hopkins, MN 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bomstad-dental-hopkins/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bomstad-dental-hopkins.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12099767280 (license ODbL-1.0); source data as of 2026-07-24

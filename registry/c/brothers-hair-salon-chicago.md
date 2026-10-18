@@ -15,7 +15,7 @@ Brothers Hair Salon is a hair salon in Chicago, IL at 3133 North Milwaukee Avenu
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:30; Sa 09:00-17:30; Su 10:00-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brothers-hair-salon-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brothers-hair-salon-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6157956179 (license ODbL-1.0); source data as of 2026-06-01

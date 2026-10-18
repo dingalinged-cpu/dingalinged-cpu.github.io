@@ -15,7 +15,7 @@ Yesterday's Gentlemen is a hair salon in Flossmoor, IL.
 - Opening hours (OSM syntax): Tu 10:00-18:00; We-Fr 09:00-18:00; Sa 07:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/yesterdays-gentlemen-flossmoor/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/yesterdays-gentlemen-flossmoor.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12161943556 (license ODbL-1.0); source data as of 2026-06-01

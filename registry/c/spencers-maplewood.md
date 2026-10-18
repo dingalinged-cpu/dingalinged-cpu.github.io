@@ -15,7 +15,7 @@ Spencer's is a gift shop in Maplewood, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/spencers-maplewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/spencers-maplewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5196408043 (license ODbL-1.0); source data as of 2026-06-01

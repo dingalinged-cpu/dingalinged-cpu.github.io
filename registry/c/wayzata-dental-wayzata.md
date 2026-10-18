@@ -15,7 +15,7 @@ Wayzata Dental is a dentist in Wayzata, MN at 250 Central Avenue North #202, Way
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wayzata-dental-wayzata/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wayzata-dental-wayzata.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6236126673 (license ODbL-1.0); source data as of 2026-07-24

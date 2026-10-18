@@ -15,7 +15,7 @@ Domowe Przedszkole w Des Plaines is a preschool in Des Plaines, IL at 31 Terrace
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/domowe-przedszkole-w-des-plaines-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/domowe-przedszkole-w-des-plaines-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10909613719 (license ODbL-1.0); source data as of 2026-07-28

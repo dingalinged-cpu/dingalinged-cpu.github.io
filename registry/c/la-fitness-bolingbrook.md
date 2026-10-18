@@ -15,7 +15,7 @@ LA Fitness is a gym in Bolingbrook, IL at 506 Janes Avenue, Bolingbrook, IL 6044
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-bolingbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-bolingbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/352332500 (license ODbL-1.0); source data as of 2026-06-01

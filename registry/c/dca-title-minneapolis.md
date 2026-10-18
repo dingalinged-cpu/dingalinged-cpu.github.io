@@ -15,7 +15,7 @@ DCA Title is a real estate agency in Minneapolis, MN.
 - Opening hours (OSM syntax): Mo-Fr 8:00-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dca-title-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dca-title-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/771701351 (license ODbL-1.0); source data as of 2026-05-31

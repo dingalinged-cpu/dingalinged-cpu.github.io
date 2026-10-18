@@ -15,7 +15,7 @@ The RoomPlace is a furniture store in Orland Park, IL at 14920 South La Grange R
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-roomplace-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-roomplace-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6883785641 (license ODbL-1.0); source data as of 2026-06-01

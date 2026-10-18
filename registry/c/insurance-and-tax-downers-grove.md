@@ -15,7 +15,7 @@ Insurance & Tax is an insurance agent in Downers Grove, IL at 6305 Woodward Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/insurance-and-tax-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/insurance-and-tax-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9046308338 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ National Karate is a martial arts school in Crystal, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/national-karate-crystal/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/national-karate-crystal.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7129455340 (license ODbL-1.0); source data as of 2026-07-24

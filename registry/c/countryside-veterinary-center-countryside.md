@@ -15,7 +15,7 @@ Countryside Veterinary Center is a veterinarian in Countryside, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/countryside-veterinary-center-countryside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/countryside-veterinary-center-countryside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/543768993 (license ODbL-1.0); source data as of 2026-07-28

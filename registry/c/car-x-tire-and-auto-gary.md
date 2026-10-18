@@ -15,7 +15,7 @@ Car-X Tire & Auto is an auto repair shop in Gary, IN at 3700 Grant Street, Gary,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/car-x-tire-and-auto-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/car-x-tire-and-auto-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1243267974 (license ODbL-1.0); source data as of 2026-06-01

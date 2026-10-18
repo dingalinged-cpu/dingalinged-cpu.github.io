@@ -15,7 +15,7 @@ Tierra Encantada is a daycare in Minneapolis, MN at 4012 Minnehaha Avenue, Minne
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tierra-encantada-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tierra-encantada-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/943062726 (license ODbL-1.0); source data as of 2026-07-24

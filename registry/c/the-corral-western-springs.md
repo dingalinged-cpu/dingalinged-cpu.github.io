@@ -15,7 +15,7 @@ The Corral is an event venue in Western Springs, IL at 4940 South Willow Springs
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-corral-western-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-corral-western-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/228290304 (license ODbL-1.0); source data as of 2026-07-28

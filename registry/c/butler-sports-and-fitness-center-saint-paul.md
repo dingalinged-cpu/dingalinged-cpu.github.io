@@ -15,7 +15,7 @@ Butler Sports and Fitness Center is a gym in Saint Paul, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/butler-sports-and-fitness-center-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/butler-sports-and-fitness-center-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/58869692 (license ODbL-1.0); source data as of 2026-07-15

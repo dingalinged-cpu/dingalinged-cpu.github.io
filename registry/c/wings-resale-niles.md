@@ -15,7 +15,7 @@ WINGS Resale is a thrift store in Niles, IL at 8349 West Golf Road, Niles, IL 60
 - Opening hours (OSM syntax): Su 11:00-16:00; Mo-Fr 10:00-17:00; Sa 10:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wings-resale-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wings-resale-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1180501361 (license ODbL-1.0); source data as of 2026-06-01

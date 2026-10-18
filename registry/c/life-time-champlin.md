@@ -15,7 +15,7 @@ Life Time is a gym in Champlin, MN at 11989 Champlin Drive, Champlin, MN 55316. 
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/life-time-champlin/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/life-time-champlin.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/136885646 (license ODbL-1.0); source data as of 2026-07-15

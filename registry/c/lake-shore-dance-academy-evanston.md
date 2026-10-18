@@ -15,7 +15,7 @@ Lake Shore Dance Academy is a dance studio in Evanston, IL at 915 Foster Street,
 - Opening hours (OSM syntax): Mo-Sa 08:00-22:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lake-shore-dance-academy-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lake-shore-dance-academy-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6191675266 (license ODbL-1.0); source data as of 2026-07-28

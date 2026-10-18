@@ -15,7 +15,7 @@ Planet Fitness is a gym in Chicago, IL at 521 South State Street, Chicago, IL 60
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-chicago-n12279687696/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-chicago-n12279687696.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12279687696 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Byline Bank Aragon Ballroom is an event venue in Chicago, IL at 1106 West Lawren
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/byline-bank-aragon-ballroom-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/byline-bank-aragon-ballroom-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/31293839 (license ODbL-1.0); source data as of 2026-07-28

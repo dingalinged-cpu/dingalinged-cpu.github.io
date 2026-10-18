@@ -15,7 +15,7 @@ Stellar Cycleworks is a bike shop in Chicago, IL.
 - Opening hours (OSM syntax): Mo,We-Fr 10:00-17:00; Sa 11:00-17:00; Tu 10:00-16:45
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/stellar-cycleworks-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/stellar-cycleworks-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10863671452 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Elizabeth Meyer School is a preschool in Skokie, IL at 8100 Tripp Avenue, Skokie
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elizabeth-meyer-school-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elizabeth-meyer-school-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/236322043 (license ODbL-1.0); source data as of 2026-07-28

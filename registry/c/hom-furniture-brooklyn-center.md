@@ -15,7 +15,7 @@ HOM Furniture is a furniture store in Brooklyn Center, MN at 2501 County Road 10
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hom-furniture-brooklyn-center/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hom-furniture-brooklyn-center.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/126102163 (license ODbL-1.0); source data as of 2026-06-01

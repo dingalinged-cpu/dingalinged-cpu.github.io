@@ -15,7 +15,7 @@ DentalWorks is a dentist in Chicago, IL.
 - Opening hours (OSM syntax): Mo-Fr 08:45-15:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dentalworks-chicago-n12650152717/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dentalworks-chicago-n12650152717.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12650152717 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Luther Collision & Glass is an auto repair shop in Plymouth, MN. Phone: +1763331
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/luther-collision-and-glass-plymouth-n12277395832/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/luther-collision-and-glass-plymouth-n12277395832.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12277395832 (license ODbL-1.0); source data as of 2026-06-01

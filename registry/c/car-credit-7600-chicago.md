@@ -15,7 +15,7 @@ Car Credit 7600 is an used car dealer in Chicago, IL at 7630 South Western Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/car-credit-7600-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/car-credit-7600-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209636572 (license ODbL-1.0); source data as of 2026-06-01

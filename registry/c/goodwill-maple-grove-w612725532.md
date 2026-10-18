@@ -15,7 +15,7 @@ Goodwill is a thrift store in Maple Grove, MN at 13605 80th Circle North, Maple 
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-maple-grove-w612725532/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-maple-grove-w612725532.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/612725532 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Supercuts is a hair salon in Chicago, IL at 5851 South Archer Avenue, Chicago, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/supercuts-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/supercuts-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7698484726 (license ODbL-1.0); source data as of 2026-06-01

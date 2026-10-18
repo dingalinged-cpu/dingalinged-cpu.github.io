@@ -15,7 +15,7 @@ Legacy Art & Gifts is a gift shop in Saint Paul, MN at 1209 Grand Avenue, Saint 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/legacy-art-and-gifts-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/legacy-art-and-gifts-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8920602089 (license ODbL-1.0); source data as of 2026-06-01

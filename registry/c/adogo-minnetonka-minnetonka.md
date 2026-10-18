@@ -15,7 +15,7 @@ Adogo Minnetonka is a dog boarding facility in Minnetonka, MN at 6133 Baker Road
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa,Su 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/adogo-minnetonka-minnetonka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/adogo-minnetonka-minnetonka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/742756433 (license ODbL-1.0); source data as of 2026-07-24

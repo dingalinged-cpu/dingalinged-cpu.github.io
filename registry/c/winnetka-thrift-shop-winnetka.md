@@ -15,7 +15,7 @@ Winnetka Thrift Shop is a thrift store in Winnetka, IL at 992 Green Bay Road, Wi
 - Opening hours (OSM syntax): Mo-Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/winnetka-thrift-shop-winnetka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/winnetka-thrift-shop-winnetka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1180247468 (license ODbL-1.0); source data as of 2026-06-01

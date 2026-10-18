@@ -15,7 +15,7 @@ Valvoline Instant Oil is an auto repair shop in Eagan, MN at 1180 Yankee Doodle 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/valvoline-instant-oil-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/valvoline-instant-oil-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/533507273 (license ODbL-1.0); source data as of 2026-06-01

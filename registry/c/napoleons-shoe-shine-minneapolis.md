@@ -15,7 +15,7 @@ Napoleon's Shoe Shine is a shoe repair in Minneapolis, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/napoleons-shoe-shine-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/napoleons-shoe-shine-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13451758102 (license ODbL-1.0); source data as of 2026-07-24

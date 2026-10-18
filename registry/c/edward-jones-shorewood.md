@@ -1,0 +1,23 @@
+Edward Jones is a financial advisor in Shorewood, WI at 2323 East Capitol Drive, Shorewood, WI 53211. Phone: +14149638727. Website: https://www.edwardjones.com/us-en/financial-advisor/michael-obrien.
+
+# Edward Jones
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: 2323 East Capitol Drive, Shorewood, WI 53211
+- City: Shorewood
+- State: WI
+- ZIP: 53211
+- Coordinates: 43.0890744, -87.8804472
+- Phone: +14149638727
+- Website: https://www.edwardjones.com/us-en/financial-advisor/michael-obrien
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:00-16:00; Fr 08:00-15:00; Sa,Su off
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-jones-shorewood/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-shorewood.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12914935773 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

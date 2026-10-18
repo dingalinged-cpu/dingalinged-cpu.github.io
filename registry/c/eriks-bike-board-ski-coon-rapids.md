@@ -15,7 +15,7 @@ ERIK'S Bike Board Ski is a bike shop in Coon Rapids, MN at 2120 Northdale Boulev
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/eriks-bike-board-ski-coon-rapids/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/eriks-bike-board-ski-coon-rapids.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6575710317 (license ODbL-1.0); source data as of 2026-06-01

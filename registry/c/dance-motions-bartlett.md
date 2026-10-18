@@ -15,7 +15,7 @@ Dance Motions is a dance studio in Bartlett, IL at 301 West Railroad Avenue, Bar
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dance-motions-bartlett/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dance-motions-bartlett.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7118216430 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ The UPS Store is a printing service in Minneapolis, MN at 3109 West 50th Street,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-minneapolis-n13020020613/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-minneapolis-n13020020613.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13020020613 (license ODbL-1.0); source data as of 2026-06-01

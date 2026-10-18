@@ -1,0 +1,23 @@
+Chad T. Fletcher, D.D.S is a dentist in Dallas, TX at 1110 North Buckner Boulevard #102, Dallas, TX.
+
+# Chad T. Fletcher, D.D.S
+
+- Category: dentist
+- Services: dentist
+- Address: 1110 North Buckner Boulevard #102, Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.8355358, -96.7037242
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/chad-t-fletcher-d-d-s-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/chad-t-fletcher-d-d-s-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13887660718 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

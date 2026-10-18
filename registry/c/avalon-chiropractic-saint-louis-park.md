@@ -15,7 +15,7 @@ Avalon Chiropractic is a chiropractor in Saint Louis Park, MN at 7900 Minnesota 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/avalon-chiropractic-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/avalon-chiropractic-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/993142825 (license ODbL-1.0); source data as of 2026-06-01

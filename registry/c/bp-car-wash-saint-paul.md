@@ -15,7 +15,7 @@ BP Car Wash is a car wash in Saint Paul, MN at 5990 Hodgson Road, Saint Paul, MN
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bp-car-wash-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bp-car-wash-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1318525268 (license ODbL-1.0); source data as of 2026-07-24

@@ -1,0 +1,23 @@
+Sunny Dental is a dentist in Lancaster, TX at 3250 West Pleasant Run Road #190, Lancaster, TX 75146.
+
+# Sunny Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 3250 West Pleasant Run Road #190, Lancaster, TX 75146
+- City: Lancaster
+- State: TX
+- ZIP: 75146
+- Coordinates: 32.6033168, -96.8213972
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/sunny-dental-lancaster/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sunny-dental-lancaster.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13152941366 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

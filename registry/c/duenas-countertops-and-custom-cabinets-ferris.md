@@ -1,0 +1,23 @@
+Duenas Countertops & Custom Cabinets is a furniture store in Ferris, TX at 3028 FM 660, Ferris, TX 75251. Phone: +19728423404.
+
+# Duenas Countertops & Custom Cabinets
+
+- Category: furniture store
+- Services: furniture store
+- Address: 3028 FM 660, Ferris, TX 75251
+- City: Ferris
+- State: TX
+- ZIP: 75251
+- Coordinates: 32.5184696, -96.6248742
+- Phone: +19728423404
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/duenas-countertops-and-custom-cabinets-ferris/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/duenas-countertops-and-custom-cabinets-ferris.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13583565354 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

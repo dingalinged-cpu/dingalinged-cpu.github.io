@@ -1,0 +1,23 @@
+Kim's College of Tae Kwon Do is a martial arts school in Richardson, TX at 818 South Central Expressway #5, Richardson, TX.
+
+# Kim's College of Tae Kwon Do
+
+- Category: martial arts
+- Services: martial arts
+- Address: 818 South Central Expressway #5, Richardson, TX
+- City: Richardson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.9408998, -96.7463901
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/kims-college-of-tae-kwon-do-richardson/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kims-college-of-tae-kwon-do-richardson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13658720133 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

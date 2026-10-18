@@ -15,7 +15,7 @@ McCahill Painting is a painting contractor in Romeoville, IL at 324, Romeoville,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mccahill-painting-romeoville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mccahill-painting-romeoville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/374338850 (license ODbL-1.0); source data as of 2026-06-01

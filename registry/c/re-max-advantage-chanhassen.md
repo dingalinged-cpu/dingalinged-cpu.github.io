@@ -15,7 +15,7 @@ Re/Max Advantage is a real estate agency in Chanhassen, MN at 7811 Great Plains 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/re-max-advantage-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/re-max-advantage-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/100494267 (license ODbL-1.0); source data as of 2026-05-31

@@ -1,0 +1,23 @@
+Richardson Bike Mart is a bike shop in Frisco, TX at 8820 John Hickman Parkway, Frisco, TX. Phone: +19723357600. Website: https://www.bikemart.com/.
+
+# Richardson Bike Mart
+
+- Category: bike shop
+- Services: bike shop
+- Address: 8820 John Hickman Parkway, Frisco, TX
+- City: Frisco
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.1137253, -96.8071982
+- Phone: +19723357600
+- Website: https://www.bikemart.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 11:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/richardson-bike-mart-frisco/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/richardson-bike-mart-frisco.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/624626257 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

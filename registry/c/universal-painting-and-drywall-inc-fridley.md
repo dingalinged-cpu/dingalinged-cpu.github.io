@@ -15,7 +15,7 @@ Universal Painting & Drywall, Inc. is a painting contractor in Fridley, MN at 53
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/universal-painting-and-drywall-inc-fridley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/universal-painting-and-drywall-inc-fridley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13140376157 (license ODbL-1.0); source data as of 2026-07-24

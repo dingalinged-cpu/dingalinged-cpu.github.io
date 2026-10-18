@@ -15,7 +15,7 @@ Diversey Day Care is a daycare in Chicago, IL at 3149-3157 West Diversey Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/diversey-day-care-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/diversey-day-care-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163895836 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,1628 @@
+{
+ "place": "Sachse, TX",
+ "slug": "sachse-tx",
+ "count": 49,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-sachse-tx.json"
+  },
+  {
+   "keyword": "auto body shop sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-sachse-tx.json"
+  },
+  {
+   "keyword": "auto repair sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-sachse-tx.json"
+  },
+  {
+   "keyword": "brake repair sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/brake-repair-sachse-tx.json"
+  },
+  {
+   "keyword": "business consultant sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/business-consultant-sachse-tx.json"
+  },
+  {
+   "keyword": "car wash sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-sachse-tx.json"
+  },
+  {
+   "keyword": "chiropractor sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-sachse-tx.json"
+  },
+  {
+   "keyword": "daycare sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-sachse-tx.json"
+  },
+  {
+   "keyword": "dentist sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-sachse-tx.json"
+  },
+  {
+   "keyword": "dog groomer sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-sachse-tx.json"
+  },
+  {
+   "keyword": "dry cleaners sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-sachse-tx.json"
+  },
+  {
+   "keyword": "facial sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-sachse-tx.json"
+  },
+  {
+   "keyword": "family doctor sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-sachse-tx.json"
+  },
+  {
+   "keyword": "flooring companies sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-sachse-tx.json"
+  },
+  {
+   "keyword": "funeral home sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-sachse-tx.json"
+  },
+  {
+   "keyword": "gift shop sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-sachse-tx.json"
+  },
+  {
+   "keyword": "gym sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-sachse-tx.json"
+  },
+  {
+   "keyword": "hair salon sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-sachse-tx.json"
+  },
+  {
+   "keyword": "haircut sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-sachse-tx.json"
+  },
+  {
+   "keyword": "insurance agency sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-sachse-tx.json"
+  },
+  {
+   "keyword": "insurance agent sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-sachse-tx.json"
+  },
+  {
+   "keyword": "insurance agents sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-sachse-tx.json"
+  },
+  {
+   "keyword": "liquor store sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-sachse-tx.json"
+  },
+  {
+   "keyword": "martial arts sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-sachse-tx.json"
+  },
+  {
+   "keyword": "massage sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-sachse-tx.json"
+  },
+  {
+   "keyword": "mechanic sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-sachse-tx.json"
+  },
+  {
+   "keyword": "nail salon sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-sachse-tx.json"
+  },
+  {
+   "keyword": "oil change sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-sachse-tx.json"
+  },
+  {
+   "keyword": "physical therapy sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-sachse-tx.json"
+  },
+  {
+   "keyword": "primary care physician sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-sachse-tx.json"
+  },
+  {
+   "keyword": "printing services sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-sachse-tx.json"
+  },
+  {
+   "keyword": "real estate agent sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-sachse-tx.json"
+  },
+  {
+   "keyword": "realtor sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-sachse-tx.json"
+  },
+  {
+   "keyword": "storage units sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-sachse-tx.json"
+  },
+  {
+   "keyword": "thrift store sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-sachse-tx.json"
+  },
+  {
+   "keyword": "tire shop sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-sachse-tx.json"
+  },
+  {
+   "keyword": "transmission repair sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/transmission-repair-sachse-tx.json"
+  },
+  {
+   "keyword": "vet sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-sachse-tx.json"
+  },
+  {
+   "keyword": "waxing sachse tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-sachse-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "aesthetic-spa-and-salon-sachse",
+   "name": "Aesthetic Spa & Salon",
+   "summary": "Aesthetic Spa & Salon is a nail salon in Sachse, TX at 5250 State Highway 78 #600, Sachse, TX 75048. Phone: +12143803240. Website: https://www.aestheticsalonandspa.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aesthetic-spa-and-salon-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aesthetic-spa-and-salon-sachse.json",
+   "address": {
+    "streetAddress": "5250 State Highway 78 #600",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9698467,
+    "lon": -96.6030068
+   },
+   "phone": "+12143803240",
+   "website": "https://www.aestheticsalonandspa.com/",
+   "opening_hours": "Mo,Tu,We,Th,Fr 10:30-18:30; Sa 10:00-18:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7176018343",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "baylor-scott-and-white-primary-care-sachse-sachse",
+   "name": "Baylor Scott & White Primary Care - Sachse",
+   "summary": "Baylor Scott & White Primary Care - Sachse is a family medicine practice in Sachse, TX at 5250 State Highway 78 #850, Sachse, TX 75048. Phone: +14698002450. Website: https://www.bswhealth.com/locations/clinic/primary-care-sachse.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baylor-scott-and-white-primary-care-sachse-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baylor-scott-and-white-primary-care-sachse-sachse.json",
+   "address": {
+    "streetAddress": "5250 State Highway 78 #850",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9703384,
+    "lon": -96.6029712
+   },
+   "phone": "+14698002450",
+   "website": "https://www.bswhealth.com/locations/clinic/primary-care-sachse",
+   "opening_hours": "Mo-Fr 08:00-16:00; Sa,Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7176018340",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "beyond-braces-sachse",
+   "name": "Beyond Braces",
+   "summary": "Beyond Braces is a dentist in Sachse, TX at 5120 State Highway 78 #800, Sachse, TX 75048. Phone: +19729289477. Website: https://beyondbracestx.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beyond-braces-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beyond-braces-sachse.json",
+   "address": {
+    "streetAddress": "5120 State Highway 78 #800",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.968629,
+    "lon": -96.60451
+   },
+   "phone": "+19729289477",
+   "website": "https://beyondbracestx.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa \"by appointment\"; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7721738908",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "caliber-auto-care-sachse",
+   "name": "Caliber Auto Care",
+   "summary": "Caliber Auto Care is an auto repair shop in Sachse, TX at 5444 State Highway 78 South, Sachse, TX 75048. Phone: +12149784414. Website: https://www.caliber.com/find-a-location/cac-sachse.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-auto-care-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-auto-care-sachse.json",
+   "address": {
+    "streetAddress": "5444 State Highway 78 South",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9735142,
+    "lon": -96.5988193
+   },
+   "phone": "+12149784414",
+   "website": "https://www.caliber.com/find-a-location/cac-sachse",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1279205633",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hallmark-sachse",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Sachse, TX at 5120 State Highway 78 #900, Sachse, TX 75048. Phone: +19725303311. Website: https://stores.hallmark.com/tx/sachse/trudys-hallmark-shop-sachse-tx-019422.html.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-sachse.json",
+   "address": {
+    "streetAddress": "5120 State Highway 78 #900",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9686846,
+    "lon": -96.6044043
+   },
+   "phone": "+19725303311",
+   "website": "https://stores.hallmark.com/tx/sachse/trudys-hallmark-shop-sachse-tx-019422.html",
+   "opening_hours": "Mo-Sa 10:00-20:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7721738909",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "newbyginnings-cash-for-houses-dallas-sachse",
+   "name": "Newbyginnings - Cash for Houses Dallas",
+   "summary": "Newbyginnings - Cash for Houses Dallas is a real estate agency in Sachse, TX at 5250 State Highway 78 #750-208, Sachse, TX 75048. Phone: +14693366862. Website: https://www.newbyginnings.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/newbyginnings-cash-for-houses-dallas-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/newbyginnings-cash-for-houses-dallas-sachse.json",
+   "address": {
+    "streetAddress": "5250 State Highway 78 #750-208",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9700126,
+    "lon": -96.6028395
+   },
+   "phone": "+14693366862",
+   "website": "https://www.newbyginnings.com/",
+   "opening_hours": "Mo-Su 07:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9225402963",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "oak-tree-dental-sachse",
+   "name": "Oak Tree Dental",
+   "summary": "Oak Tree Dental is a dentist in Sachse, TX at 5120 State Highway 78 #400, Sachse, TX 75048. Phone: +19724142300. Website: https://oaktreedentaltx.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oak-tree-dental-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oak-tree-dental-sachse.json",
+   "address": {
+    "streetAddress": "5120 State Highway 78 #400",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9684593,
+    "lon": -96.604782
+   },
+   "phone": "+19724142300",
+   "website": "https://oaktreedentaltx.com/",
+   "opening_hours": "Mo \"by appointment\"; Tu-Fr 08:00-17:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7721738907",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "simply-liquor-sachse-sachse",
+   "name": "Simply Liquor Sachse",
+   "summary": "Simply Liquor Sachse is a liquor store in Sachse, TX at 5120 State Highway 78 #500, Sachse, TX 75048. Phone: +14699296114. Website: https://holiq.store/simplyliquorsachse.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/simply-liquor-sachse-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/simply-liquor-sachse-sachse.json",
+   "address": {
+    "streetAddress": "5120 State Highway 78 #500",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9685016,
+    "lon": -96.6047099
+   },
+   "phone": "+14699296114",
+   "website": "https://holiq.store/simplyliquorsachse",
+   "opening_hours": "Mo-Sa 10:00-21:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13517850387",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specs-sachse-w1454240784",
+   "name": "Spec's",
+   "summary": "Spec's is a liquor store in Sachse, TX at 4205 President George Bush Highway, Sachse, TX 75048. Phone: +19728400089. Website: https://specsonline.com/liquor-stores/dallas/sachse-gwb/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specs-sachse-w1454240784/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specs-sachse-w1454240784.json",
+   "address": {
+    "streetAddress": "4205 President George Bush Highway",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9499253,
+    "lon": -96.5841542
+   },
+   "phone": "+19728400089",
+   "website": "https://specsonline.com/liquor-stores/dallas/sachse-gwb/",
+   "opening_hours": "Mo-Sa 10:00-21:00; Su off; Dec 25 off; Jan 01 off; Nov Th[4] off; PH \"https://specsonline.com/liquor-stores/dallas/sachse-gwb/\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1454240784",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-sachse",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Sachse, TX at 5250 State Highway 78 #750, Sachse, TX 75048. Phone: +19724957666. Website: https://locations.theupsstore.com/tx/sachse/5250-hwy-78.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-sachse.json",
+   "address": {
+    "streetAddress": "5250 State Highway 78 #750",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9700116,
+    "lon": -96.6030075
+   },
+   "phone": "+19724957666",
+   "website": "https://locations.theupsstore.com/tx/sachse/5250-hwy-78",
+   "opening_hours": "Su 11:00-16:00; Mo,Tu,We,Th,Fr 08:00-19:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2412608608",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "thrive-dental-and-orthodontics-sachse",
+   "name": "Thrive Dental and Orthodontics",
+   "summary": "Thrive Dental and Orthodontics is a dentist in Sachse, TX at 7900 Woodbridge Parkway, Sachse, TX 75048. Phone: +14696491101. Website: https://thrivedentist.com/locations/sachse/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thrive-dental-and-orthodontics-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thrive-dental-and-orthodontics-sachse.json",
+   "address": {
+    "streetAddress": "7900 Woodbridge Parkway",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9924188,
+    "lon": -96.5714535
+   },
+   "phone": "+14696491101",
+   "website": "https://thrivedentist.com/locations/sachse/",
+   "opening_hours": "Mo-Th 10:00-18:00; Fr 10:00-17:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11895936332",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tx-medical-staffing-sachse",
+   "name": "TX Medical Staffing",
+   "summary": "TX Medical Staffing is a business consultant in Sachse, TX at 6114 Ben Road, Sachse, TX 75048. Phone: +19728853418. Website: https://www.1stoprecruiting.com/texas-medical-staffing-agency/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tx-medical-staffing-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tx-medical-staffing-sachse.json",
+   "address": {
+    "streetAddress": "6114 Ben Road",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9696834,
+    "lon": -96.5652897
+   },
+   "phone": "+19728853418",
+   "website": "https://www.1stoprecruiting.com/texas-medical-staffing-agency/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7503798483",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cubesmart-sachse",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Sachse, TX at 7970 Woodbridge Parkway, Sachse, TX 75048. Phone: +18444271409. Website: https://www.cubesmart.com/texas-self-storage/sachse-self-storage/4666.html.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-sachse.json",
+   "address": {
+    "streetAddress": "7970 Woodbridge Parkway",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.99301,
+    "lon": -96.5710402
+   },
+   "phone": "+18444271409",
+   "website": "https://www.cubesmart.com/texas-self-storage/sachse-self-storage/4666.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1312650521",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kidstrong-sachse",
+   "name": "KidStrong",
+   "summary": "KidStrong is a gym in Sachse, TX at 5250 State Highway 78 #300, Sachse, TX 75048. Phone: +14693847714. Website: https://sachse.kidstrong.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kidstrong-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kidstrong-sachse.json",
+   "address": {
+    "streetAddress": "5250 State Highway 78 #300",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.969641,
+    "lon": -96.6030122
+   },
+   "phone": "+14693847714",
+   "website": "https://sachse.kidstrong.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7721723265",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "splunxter-inc-sachse",
+   "name": "Splunxter, Inc.",
+   "summary": "Splunxter, Inc. is a business consultant in Sachse, TX at 5706 Pecan Grove Drive, Sachse, TX 75048. Phone: +14692568363. Website: https://www.splunxter.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/splunxter-inc-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/splunxter-inc-sachse.json",
+   "address": {
+    "streetAddress": "5706 Pecan Grove Drive",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9750897,
+    "lon": -96.6108089
+   },
+   "phone": "+14692568363",
+   "website": "https://www.splunxter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12081698102",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "white-tiger-sachse",
+   "name": "White Tiger",
+   "summary": "White Tiger is a martial arts school in Sachse, TX at 5250 State Highway 78 #700, Sachse, TX 75048. Website: https://mywhitetigermartialarts.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/white-tiger-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/white-tiger-sachse.json",
+   "address": {
+    "streetAddress": "5250 State Highway 78 #700",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9699131,
+    "lon": -96.6030054
+   },
+   "website": "https://mywhitetigermartialarts.com/",
+   "opening_hours": "Mo 13:00-20:15; Tu,We,Th,Fr 13:00-19:30; Sa 09:00-12:00, Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7176018342",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-sachse",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Sachse, TX at 5440 State Highway 78, Sachse, TX 75048. Phone: +19724952627.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-sachse.json",
+   "address": {
+    "streetAddress": "5440 State Highway 78",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.97323,
+    "lon": -96.5994251
+   },
+   "phone": "+19724952627",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/495947115",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "national-tire-and-battery-sachse",
+   "name": "National Tire and Battery",
+   "summary": "National Tire and Battery is an auto repair shop in Sachse, TX at 5420 State Highway 78, Sachse, TX 75048. Website: https://www.ntb.com/store/tx/sachse/5420-highway-78-75048/4512.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/national-tire-and-battery-sachse.json",
+   "address": {
+    "streetAddress": "5420 State Highway 78",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9714037,
+    "lon": -96.6021517
+   },
+   "website": "https://www.ntb.com/store/tx/sachse/5420-highway-78-75048/4512",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/495947112",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "clearwater-express-wash-sachse",
+   "name": "ClearWater Express Wash",
+   "summary": "ClearWater Express Wash is a car wash in Sachse, TX at 8060 Woodbridge Parkway, Sachse, TX 75048.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clearwater-express-wash-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clearwater-express-wash-sachse.json",
+   "address": {
+    "streetAddress": "8060 Woodbridge Parkway",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9938427,
+    "lon": -96.5735068
+   },
+   "opening_hours": "Mo-Su 07:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1425203726",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mr-clean-cleaners-sachse",
+   "name": "Mr Clean Cleaners",
+   "summary": "Mr Clean Cleaners is a dry cleaner in Sachse, TX at 5250 State Highway 78 #770, Sachse, TX 75048.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mr-clean-cleaners-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mr-clean-cleaners-sachse.json",
+   "address": {
+    "streetAddress": "5250 State Highway 78 #770",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9700689,
+    "lon": -96.6030067
+   },
+   "opening_hours": "Su-Sa 07:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7176018341",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bliss-nail-lounge-sachse",
+   "name": "Bliss Nail Lounge",
+   "summary": "Bliss Nail Lounge is a nail salon in Sachse, TX at 7910 South State Highway 78 #Suite 110, Sachse, TX 75048.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bliss-nail-lounge-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bliss-nail-lounge-sachse.json",
+   "address": {
+    "streetAddress": "7910 South State Highway 78 #Suite 110",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9924396,
+    "lon": -96.5692321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957225108",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-fitness-sachse",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Sachse, TX at 7720 TX-78, Sachse, TX 75048.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-sachse.json",
+   "address": {
+    "streetAddress": "7720 TX-78",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.98948,
+    "lon": -96.5716288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/495947120",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lumi-family-dentistry-sachse",
+   "name": "Lumi Family Dentistry",
+   "summary": "Lumi Family Dentistry is a dentist in Sachse, TX at 8010 South State Highway 78 #Suite 210, Sachse, TX 75048.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lumi-family-dentistry-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lumi-family-dentistry-sachse.json",
+   "address": {
+    "streetAddress": "8010 South State Highway 78 #Suite 210",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9927437,
+    "lon": -96.5687425
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957225111",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petbar-boutique-sachse",
+   "name": "Petbar Boutique",
+   "summary": "Petbar Boutique is a dog groomer in Sachse, TX at 8010 South State Highway 78 #Suite 220, Sachse, TX 75048.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petbar-boutique-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petbar-boutique-sachse.json",
+   "address": {
+    "streetAddress": "8010 South State Highway 78 #Suite 220",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9927857,
+    "lon": -96.5686742
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957225112",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-sachse",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Sachse, TX at 5760 Bunker Hill Road, Sachse, TX 75048.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-sachse.json",
+   "address": {
+    "streetAddress": "5760 Bunker Hill Road",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9670295,
+    "lon": -96.6072169
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1299985569",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sachse-family-dentistry-sachse",
+   "name": "Sachse Family Dentistry",
+   "summary": "Sachse Family Dentistry is a dentist in Sachse, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sachse-family-dentistry-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sachse-family-dentistry-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9933049,
+    "lon": -96.5724957
+   },
+   "opening_hours": "Mo 08:00-18:00; Tu 07:00-16:00; We 09:00-18:00; Th 07:00-18:00; Fr 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8147736139",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sachse-veterinary-hospital-sachse",
+   "name": "Sachse Veterinary Hospital",
+   "summary": "Sachse Veterinary Hospital is a veterinarian in Sachse, TX at 4730 Ranch Road, Sachse, TX 75048.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sachse-veterinary-hospital-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sachse-veterinary-hospital-sachse.json",
+   "address": {
+    "streetAddress": "4730 Ranch Road",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9887102,
+    "lon": -96.5779213
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/705245535",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-learning-experience-sachse",
+   "name": "The Learning Experience",
+   "summary": "The Learning Experience is a daycare in Sachse, TX at 7950 South State Highway 78, Sachse, TX 75048.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-learning-experience-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-learning-experience-sachse.json",
+   "address": {
+    "streetAddress": "7950 South State Highway 78",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9917193,
+    "lon": -96.5685694
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1410161464",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woodbridge-montessori-academy-sachse",
+   "name": "Woodbridge Montessori Academy",
+   "summary": "Woodbridge Montessori Academy is a daycare in Sachse, TX at 4510 Ranch Road, Sachse, TX 75048.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodbridge-montessori-academy-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodbridge-montessori-academy-sachse.json",
+   "address": {
+    "streetAddress": "4510 Ranch Road",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9886057,
+    "lon": -96.5811167
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/824011527",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "athletico-physical-therapy-sachse",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Sachse, TX at 5250 State Highway 78 #200, Sachse, TX.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-sachse.json",
+   "address": {
+    "streetAddress": "5250 State Highway 78 #200",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9695493,
+    "lon": -96.6030806
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7721723264",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specs-sachse",
+   "name": "Spec's",
+   "summary": "Spec's is a liquor store in Sachse, TX at 8110 South State Highway 78, Sachse, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specs-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specs-sachse.json",
+   "address": {
+    "streetAddress": "8110 South State Highway 78",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9930763,
+    "lon": -96.5680655
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1312650524",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "a-hair-tech-sachse",
+   "name": "A Hair Tech",
+   "summary": "A Hair Tech is a hair salon in Sachse, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-hair-tech-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-hair-tech-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9744534,
+    "lon": -96.5976927
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7721761838",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "advantage-storage-sachse",
+   "name": "Advantage Storage",
+   "summary": "Advantage Storage is a self-storage facility in Sachse, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/advantage-storage-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/advantage-storage-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9705399,
+    "lon": -96.6024613
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/707089437",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ariel-pointe-of-sachse-senior-living-sachse",
+   "name": "Ariel Pointe of Sachse Senior Living",
+   "summary": "Ariel Pointe of Sachse Senior Living is an assisted living facility in Sachse, TX.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ariel-pointe-of-sachse-senior-living-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ariel-pointe-of-sachse-senior-living-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9556823,
+    "lon": -96.581991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/17841171",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "atr-floors-and-decor-sachse",
+   "name": "ATR Floors and Decor",
+   "summary": "ATR Floors and Decor is a flooring company in Sachse, TX.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atr-floors-and-decor-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atr-floors-and-decor-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9756819,
+    "lon": -96.5954987
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7721761845",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "charles-w-smith-and-sons-funeral-home-sachse",
+   "name": "Charles W. Smith & Sons Funeral Home",
+   "summary": "Charles W. Smith & Sons Funeral Home is a funeral home in Sachse, TX.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-w-smith-and-sons-funeral-home-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-w-smith-and-sons-funeral-home-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9779008,
+    "lon": -96.5950997
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/364584438",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-insurance-sachse",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Sachse, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.974387,
+    "lon": -96.5977906
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7721761836",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-sachse",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Sachse, TX.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9909924,
+    "lon": -96.5714382
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13937461667",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-sachse",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Sachse, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9933765,
+    "lon": -96.5726129
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8147736136",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-kar-lube-and-auto-repair-sachse",
+   "name": "Kwik Kar Lube & Auto Repair",
+   "summary": "Kwik Kar Lube & Auto Repair is an auto repair shop in Sachse, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-kar-lube-and-auto-repair-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-kar-lube-and-auto-repair-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9767174,
+    "lon": -96.5941705
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/364584435",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-bliss-and-cyro-sachse",
+   "name": "Massage Bliss & Cyro",
+   "summary": "Massage Bliss & Cyro is a massage studio in Sachse, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-bliss-and-cyro-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-bliss-and-cyro-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9932622,
+    "lon": -96.5724193
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8147736138",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "murphy-road-animal-hospital-sachse",
+   "name": "Murphy Road Animal Hospital",
+   "summary": "Murphy Road Animal Hospital is a veterinarian in Sachse, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/murphy-road-animal-hospital-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/murphy-road-animal-hospital-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9788675,
+    "lon": -96.6129141
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/698967828",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pure-massage-sachse",
+   "name": "Pure Massage",
+   "summary": "Pure Massage is a massage studio in Sachse, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pure-massage-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pure-massage-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9743667,
+    "lon": -96.5978295
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7721761835",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "quick-n-clean-car-wash-sachse",
+   "name": "Quick N Clean Car Wash",
+   "summary": "Quick N Clean Car Wash is a car wash in Sachse, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quick-n-clean-car-wash-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quick-n-clean-car-wash-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9845541,
+    "lon": -96.5812026
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1312650519",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sachse-chiropractic-sachse",
+   "name": "Sachse Chiropractic",
+   "summary": "Sachse Chiropractic is a chiropractor in Sachse, TX.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sachse-chiropractic-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sachse-chiropractic-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9745445,
+    "lon": -96.5975466
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7721761841",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sachse-tire-sachse",
+   "name": "Sachse Tire",
+   "summary": "Sachse Tire is an auto repair shop in Sachse, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sachse-tire-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sachse-tire-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9753959,
+    "lon": -96.5959158
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/707895637",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-sachse",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Sachse, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9739617,
+    "lon": -96.5983915
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7721761833",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "take-5-oil-change-sachse",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Sachse, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9907631,
+    "lon": -96.5720052
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1410161466",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "twinnails-sachse",
+   "name": "Twin'Nails",
+   "summary": "Twin'Nails is a nail salon in Sachse, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twinnails-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twinnails-sachse.json",
+   "address": {
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9754851,
+    "lon": -96.5958206
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7721761842",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

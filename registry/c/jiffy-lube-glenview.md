@@ -15,7 +15,7 @@ Jiffy Lube is an auto repair shop in Glenview, IL at 3232 Glenview Road, Glenvie
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/804810561 (license ODbL-1.0); source data as of 2026-06-01

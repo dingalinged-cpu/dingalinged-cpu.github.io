@@ -15,7 +15,7 @@ Waldeland Jewelers is a jewelry store in Eagan, MN at 1340 Duckwood Drive #11, E
 - Opening hours (OSM syntax): Mo,Su off; Tu-Fr 12:00-17:00; Sa 10:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/waldeland-jewelers-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/waldeland-jewelers-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1719957771 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+TKA Dojo is a martial arts school in Plano, TX at 308 Coit Road #400, Plano, TX 75075.
+
+# TKA Dojo
+
+- Category: martial arts
+- Services: martial arts
+- Address: 308 Coit Road #400, Plano, TX 75075
+- City: Plano
+- State: TX
+- ZIP: 75075
+- Coordinates: 33.0014879, -96.7649103
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/tka-dojo-plano/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tka-dojo-plano.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8260733304 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Affordable Self Storage is a self-storage facility in Denton, TX at 518 Smith Street, Denton, TX 76205.
+
+# Affordable Self Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 518 Smith Street, Denton, TX 76205
+- City: Denton
+- State: TX
+- ZIP: 76205
+- Coordinates: 33.2018704, -97.1262311
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/affordable-self-storage-denton-w1069561110/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/affordable-self-storage-denton-w1069561110.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1069561110 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

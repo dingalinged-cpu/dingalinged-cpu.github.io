@@ -15,7 +15,7 @@ Car Wash is a car wash in New Lenox, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/car-wash-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/car-wash-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1211889494 (license ODbL-1.0); source data as of 2026-07-28

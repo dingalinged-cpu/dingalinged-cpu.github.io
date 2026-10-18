@@ -15,7 +15,7 @@ Westgate Flower and Plant Shop is a florist in Oak Park, IL at 841 South Oak Par
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/westgate-flower-and-plant-shop-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/westgate-flower-and-plant-shop-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4895991021 (license ODbL-1.0); source data as of 2026-06-01

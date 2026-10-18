@@ -15,7 +15,7 @@ Concorde Banquets is an event venue in Kildeer, IL at 20922 North Rand Road, Kil
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/concorde-banquets-kildeer/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/concorde-banquets-kildeer.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/447975126 (license ODbL-1.0); source data as of 2026-07-28

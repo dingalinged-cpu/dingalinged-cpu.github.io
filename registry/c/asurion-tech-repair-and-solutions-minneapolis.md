@@ -15,7 +15,7 @@ Asurion Tech Repair & Solutions is a phone repair shop in Minneapolis, MN. Phone
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/asurion-tech-repair-and-solutions-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10243480659 (license ODbL-1.0); source data as of 2026-07-24

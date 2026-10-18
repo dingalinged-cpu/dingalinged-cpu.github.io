@@ -15,7 +15,7 @@ Fresh Farms International Market is a bakery in Chicago, IL at 2626 West Devon A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fresh-farms-international-market-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fresh-farms-international-market-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6291539806 (license ODbL-1.0); source data as of 2026-06-01

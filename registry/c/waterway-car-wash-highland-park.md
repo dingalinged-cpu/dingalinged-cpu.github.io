@@ -15,7 +15,7 @@ Waterway Car Wash is a car wash in Highland Park, IL at 64 Skokie Valley Road, H
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/waterway-car-wash-highland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/waterway-car-wash-highland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1369390939 (license ODbL-1.0); source data as of 2026-07-28

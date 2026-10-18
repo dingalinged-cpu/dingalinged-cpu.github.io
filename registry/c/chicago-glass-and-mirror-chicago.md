@@ -15,7 +15,7 @@ Chicago Glass & Mirror is a window repair service in Chicago, IL at 3956 North E
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chicago-glass-and-mirror-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicago-glass-and-mirror-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163910334 (license ODbL-1.0); source data as of 2026-06-01

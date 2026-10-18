@@ -1,0 +1,45 @@
+{
+ "place": "Jackson, WI",
+ "slug": "jackson-wi",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "general contractor jackson wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/general-contractor-jackson-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "abc-building-supplies-jackson",
+   "name": "ABC Building Supplies",
+   "summary": "ABC Building Supplies is a general contractor in Jackson, WI.",
+   "categories": [
+    "general contractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/abc-building-supplies-jackson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/abc-building-supplies-jackson.json",
+   "address": {
+    "addressLocality": "Jackson",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Jackson",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3356844,
+    "lon": -88.1720506
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10212862537",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

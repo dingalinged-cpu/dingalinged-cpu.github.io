@@ -15,7 +15,7 @@ Allstate is an insurance agent in Chicago, IL at 2101 West 95th Street #1, Chica
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-chicago-n5878671803/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-chicago-n5878671803.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5878671803 (license ODbL-1.0); source data as of 2026-07-28

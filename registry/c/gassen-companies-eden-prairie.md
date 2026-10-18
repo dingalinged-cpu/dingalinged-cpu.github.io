@@ -15,7 +15,7 @@ Gassen Companies is a property management company in Eden Prairie, MN at 6438 Ci
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gassen-companies-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gassen-companies-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/292799352 (license ODbL-1.0); source data as of 2026-05-31

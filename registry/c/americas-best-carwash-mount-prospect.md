@@ -15,7 +15,7 @@ America's Best Carwash is a car wash in Mount Prospect, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/americas-best-carwash-mount-prospect/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/americas-best-carwash-mount-prospect.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/683765901 (license ODbL-1.0); source data as of 2026-07-28

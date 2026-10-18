@@ -15,7 +15,7 @@ State Farm is an insurance agent in Chicago, IL. Phone: +13126495559.
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 10:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-chicago-n10003154319/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-chicago-n10003154319.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10003154319 (license ODbL-1.0); source data as of 2026-07-28

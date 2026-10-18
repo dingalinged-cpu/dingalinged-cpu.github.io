@@ -15,7 +15,7 @@ Oromia Barber is a hair salon in Minneapolis, MN at East Lake Street, Minneapoli
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oromia-barber-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oromia-barber-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13626364860 (license ODbL-1.0); source data as of 2026-06-01

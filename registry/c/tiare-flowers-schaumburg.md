@@ -15,7 +15,7 @@ Tiare Flowers is a florist in Schaumburg, IL at 17 West Weathersfield Way, Schau
 - Opening hours (OSM syntax): Su 09:00-14:00, Mo & Th CLOSED, Tu, We, Fr & Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tiare-flowers-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tiare-flowers-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13888721380 (license ODbL-1.0); source data as of 2026-06-01

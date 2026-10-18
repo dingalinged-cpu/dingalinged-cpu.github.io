@@ -15,7 +15,7 @@ Doyle Designed Salon is a hair salon in Flossmoor, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/doyle-designed-salon-flossmoor/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/doyle-designed-salon-flossmoor.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12161713560 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Northwest Lube is an auto repair shop in Norridge, IL at 4928 North Cumberland A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northwest-lube-norridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northwest-lube-norridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1422150331 (license ODbL-1.0); source data as of 2026-06-01

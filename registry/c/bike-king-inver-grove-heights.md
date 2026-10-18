@@ -15,7 +15,7 @@ Bike King is a bike shop in Inver Grove Heights, MN at 6489 Cahill Avenue, Inver
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bike-king-inver-grove-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bike-king-inver-grove-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4483217810 (license ODbL-1.0); source data as of 2026-06-01

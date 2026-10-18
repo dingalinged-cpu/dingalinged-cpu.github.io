@@ -15,7 +15,7 @@ MACKHARD Barber Shop is a hair salon in Naperville, IL at 25 South Washington St
 - Opening hours (OSM syntax): Mo 09:00-19:00; Tu, We 09:00-18:00; Th, Fr 09:00-19:00; Sa 07:30-18:00; Su 11:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mackhard-barber-shop-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mackhard-barber-shop-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8955564498 (license ODbL-1.0); source data as of 2026-06-01

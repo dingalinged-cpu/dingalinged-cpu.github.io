@@ -1,0 +1,23 @@
+Promont Dental Design is a dentist in Frisco, TX.
+
+# Promont Dental Design
+
+- Category: dentist
+- Services: dentist
+- Address: Frisco, TX
+- City: Frisco
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.1756623, -96.7691691
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/promont-dental-design-frisco/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/promont-dental-design-frisco.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10246896548 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

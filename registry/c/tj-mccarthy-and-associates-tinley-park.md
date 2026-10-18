@@ -15,7 +15,7 @@ TJ McCarthy & Associates is a real estate agency in Tinley Park, IL at 7903 West
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tj-mccarthy-and-associates-tinley-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tj-mccarthy-and-associates-tinley-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11147691152 (license ODbL-1.0); source data as of 2026-07-28

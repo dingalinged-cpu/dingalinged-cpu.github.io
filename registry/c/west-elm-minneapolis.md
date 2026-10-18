@@ -15,7 +15,7 @@ west elm is a furniture store in Minneapolis, MN at 128 North 2nd Street, Minnea
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00 Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/west-elm-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/west-elm-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11298730913 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Vasilatos Injury Law is a lawyer in Evanston, IL at 2200 Central Street, Evansto
 - Opening hours (OSM syntax): "Appointment Only"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vasilatos-injury-law-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vasilatos-injury-law-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4313575071 (license ODbL-1.0); source data as of 2026-07-28

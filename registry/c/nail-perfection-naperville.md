@@ -15,7 +15,7 @@ Nail Perfection is a nail salon in Naperville, IL at 1547 North Aurora Road #111
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nail-perfection-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nail-perfection-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8462909490 (license ODbL-1.0); source data as of 2026-06-01

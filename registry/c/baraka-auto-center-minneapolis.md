@@ -15,7 +15,7 @@ Baraka Auto Center is an auto repair shop in Minneapolis, MN at 100 Northeast 5t
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/baraka-auto-center-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/baraka-auto-center-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/89531612 (license ODbL-1.0); source data as of 2026-06-01

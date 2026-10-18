@@ -15,7 +15,7 @@ Visual Expressions Graphic Design & Printing, Inc. is a printing service in Minn
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/visual-expressions-graphic-design-and-printing-inc-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/visual-expressions-graphic-design-and-printing-inc-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9757513564 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ CarMax is an used car dealer in Hillside, IL at 101 North Wolf Road, Hillside, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/carmax-hillside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/carmax-hillside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/195027213 (license ODbL-1.0); source data as of 2026-06-01

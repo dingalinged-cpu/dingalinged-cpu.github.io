@@ -15,7 +15,7 @@ Illinois Skin Center is a dermatologist in Chicago, IL at 2202 North Halsted Str
 - Opening hours (OSM syntax): Mo,Tu,We,Fr 15:00-19:00; Sa 12:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/illinois-skin-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/illinois-skin-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13688794118 (license ODbL-1.0); source data as of 2026-07-28

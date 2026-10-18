@@ -15,7 +15,7 @@ Once Upon A Child is a daycare in Crest Hill, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/once-upon-a-child-crest-hill/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/once-upon-a-child-crest-hill.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/96767847 (license ODbL-1.0); source data as of 2026-07-28

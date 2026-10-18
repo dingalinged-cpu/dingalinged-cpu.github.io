@@ -15,7 +15,7 @@ Circle Park Apartments is a property management company in Chicago, IL at 1111 S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/circle-park-apartments-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/circle-park-apartments-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11970546334 (license ODbL-1.0); source data as of 2026-07-28

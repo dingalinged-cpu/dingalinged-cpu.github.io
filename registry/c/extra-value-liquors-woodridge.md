@@ -15,7 +15,7 @@ Extra Value Liquors is a liquor store in Woodridge, IL at 8286 Janes Avenue, Woo
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-value-liquors-woodridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-value-liquors-woodridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9896537751 (license ODbL-1.0); source data as of 2026-06-01

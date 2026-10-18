@@ -15,7 +15,7 @@ North Coast Dental of Northfield is a dentist in Northfield, IL at 191 Waukegan 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/north-coast-dental-of-northfield-northfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-coast-dental-of-northfield-northfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13023114045 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Marszalek Dental Clinic is a dentist in Chicago, IL at 5948-5946 West Lawrence A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/marszalek-dental-clinic-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/marszalek-dental-clinic-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4134476933 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Edward Jones is a financial advisor in Edina, MN. Website: https://www.edwardjon
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-jones-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12142678231 (license ODbL-1.0); source data as of 2026-05-31

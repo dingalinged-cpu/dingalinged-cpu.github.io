@@ -15,7 +15,7 @@ Chicagoland 1031 Exchange is a financial advisor in Schaumburg, IL at 1827 Walde
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chicagoland-1031-exchange-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicagoland-1031-exchange-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11192930161 (license ODbL-1.0); source data as of 2026-07-28

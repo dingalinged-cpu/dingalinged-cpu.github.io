@@ -15,7 +15,7 @@ Wall's Flower Shop is a florist in Chicago, IL at 5862 West Higgins Avenue, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/walls-flower-shop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/walls-flower-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163179995 (license ODbL-1.0); source data as of 2026-06-01

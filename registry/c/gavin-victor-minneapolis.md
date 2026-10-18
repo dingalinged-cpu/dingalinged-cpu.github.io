@@ -15,7 +15,7 @@ Gavin Victor is a hair salon in Minneapolis, MN at 2827 1/2 Hennepin Avenue Sout
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gavin-victor-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gavin-victor-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/118880492 (license ODbL-1.0); source data as of 2026-06-01

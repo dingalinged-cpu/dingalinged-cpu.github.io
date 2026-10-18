@@ -15,7 +15,7 @@ Drupe Designs - Metaverse Marketing is a marketing agency in Chicago, IL at 1035
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/drupe-designs-metaverse-marketing-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/drupe-designs-metaverse-marketing-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9652747537 (license ODbL-1.0); source data as of 2026-07-28

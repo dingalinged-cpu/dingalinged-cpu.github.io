@@ -15,7 +15,7 @@ Recovery Bike Shop is a bike shop in Minneapolis, MN at 2504 Central Avenue Nort
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa-Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/recovery-bike-shop-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/recovery-bike-shop-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1827525822 (license ODbL-1.0); source data as of 2026-06-01

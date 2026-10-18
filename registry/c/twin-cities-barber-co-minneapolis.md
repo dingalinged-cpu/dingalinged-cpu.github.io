@@ -15,7 +15,7 @@ Twin Cities Barber Co is a hair salon in Minneapolis, MN at 3745 Bloomington Ave
 - Opening hours (OSM syntax): Mo 10:00-18:00; Tu-Th 08:00-18:30; Fr 08:00-18:30; Sa 08:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/twin-cities-barber-co-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/twin-cities-barber-co-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13409118301 (license ODbL-1.0); source data as of 2026-06-01

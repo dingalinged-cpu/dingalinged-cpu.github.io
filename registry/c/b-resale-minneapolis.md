@@ -15,7 +15,7 @@ b. resale is a thrift store in Minneapolis, MN at 2613 Nicollet Avenue South, Mi
 - Opening hours (OSM syntax): Tu-Sa 11:00-19:00; We-Th 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/b-resale-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/b-resale-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4619562336 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ WeCare In Home Care is an assisted living facility in Skokie, IL at 5360 Fargo A
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wecare-in-home-care-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wecare-in-home-care-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13962563269 (license ODbL-1.0); source data as of 2026-07-28

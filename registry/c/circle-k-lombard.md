@@ -15,7 +15,7 @@ Circle K is a car wash in Lombard, IL at 930 East Roosevelt Road, Lombard, IL 60
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/circle-k-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/circle-k-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9716348383 (license ODbL-1.0); source data as of 2026-07-28

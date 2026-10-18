@@ -15,7 +15,7 @@ UChicago Child Development Center - Drexel is a preschool in Chicago, IL at 5610
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/uchicago-child-development-center-drexel-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/uchicago-child-development-center-drexel-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/387213839 (license ODbL-1.0); source data as of 2026-07-28

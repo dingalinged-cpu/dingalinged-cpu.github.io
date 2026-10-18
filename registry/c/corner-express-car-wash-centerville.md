@@ -15,7 +15,7 @@ Corner Express Car Wash is a car wash in Centerville, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/corner-express-car-wash-centerville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/corner-express-car-wash-centerville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1001891128 (license ODbL-1.0); source data as of 2026-07-24

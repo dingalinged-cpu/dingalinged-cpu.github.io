@@ -15,7 +15,7 @@ Kraftsmen Auto Body is an auto repair shop in Chicago, IL at 3149-3151 North Cly
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kraftsmen-auto-body-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kraftsmen-auto-body-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209457519 (license ODbL-1.0); source data as of 2026-06-01

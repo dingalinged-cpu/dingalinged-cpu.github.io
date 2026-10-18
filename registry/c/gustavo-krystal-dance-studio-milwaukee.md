@@ -1,0 +1,23 @@
+Gustavo Krystal Dance Studio is a dance studio in Milwaukee, WI at 132 West Mineral Street, Milwaukee, WI 53204. Phone: +14142949494. Website: https://gustavokrystaldance.com/.
+
+# Gustavo Krystal Dance Studio
+
+- Category: dance studio
+- Services: dance studio
+- Address: 132 West Mineral Street, Milwaukee, WI 53204
+- City: Milwaukee
+- State: WI
+- ZIP: 53204
+- Coordinates: 43.0212997, -87.9121751
+- Phone: +14142949494
+- Website: https://gustavokrystaldance.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/gustavo-krystal-dance-studio-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gustavo-krystal-dance-studio-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11268771818 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

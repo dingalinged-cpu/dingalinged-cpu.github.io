@@ -15,7 +15,7 @@ Dog Days Daycare & Boarding is a dog boarding facility in Saint Paul, MN. Phone:
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dog-days-daycare-and-boarding-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dog-days-daycare-and-boarding-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8825834065 (license ODbL-1.0); source data as of 2026-07-24

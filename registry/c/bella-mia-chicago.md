@@ -15,7 +15,7 @@ Bella Mia is a nail salon in Chicago, IL at 1529 South State Street, Chicago, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bella-mia-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bella-mia-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11711904495 (license ODbL-1.0); source data as of 2026-06-01

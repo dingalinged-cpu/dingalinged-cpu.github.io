@@ -15,7 +15,7 @@ Liberty Tax is a tax preparation service in Chicago, IL at 8557 South Cottage Gr
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/liberty-tax-chicago-n10045419620/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/liberty-tax-chicago-n10045419620.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10045419620 (license ODbL-1.0); source data as of 2026-07-28

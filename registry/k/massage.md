@@ -1,4 +1,4 @@
-The top unpaid massage listing for the United States is Bettye O Day Spa (a massage studio in Chicago, IL at 1424 East 53rd Street, Chicago, IL 60615. Phone: +17737523600. Website: https://www.bettyeodayspa.com/). 124 massage businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for the United States is Asian Foot & Body Massage (a massage studio in Wauwatosa, WI at 7120 West North Avenue, Wauwatosa, WI 53213. Phone: +14142421556. Website: https://asianfootbodymassage.squarespace.com/). 434 massage businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in the United States?
 
@@ -6,130 +6,177 @@ Also answers: massage in the United States; massage near me (the United States);
 
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
-1. Bettye O Day Spa | trust 20.0 | Bettye O Day Spa is a massage studio in Chicago, IL at 1424 East 53rd Street, Chicago, IL 60615. Phone: +17737523600. Website: https://www.bettyeodayspa.com/. | https://dingalinged-cpu.github.io/registry/c/bettye-o-day-spa-chicago/
-2. Body Healing Services | trust 20.0 | Body Healing Services is a massage studio in Minneapolis, MN at 5037 France Avenue South #Suite 203, Minneapolis, MN 55410. Phone: +16129861207. Website: https://www.bodyhealingservices.com/. | https://dingalinged-cpu.github.io/registry/c/body-healing-services-minneapolis/
-3. Escape To Paradise LLC | trust 20.0 | Escape To Paradise LLC is a massage studio in Minneapolis, MN at 3249 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16122979609. Website: https://escapetoparadisellc.com/. | https://dingalinged-cpu.github.io/registry/c/escape-to-paradise-llc-minneapolis/
-4. Grace's Massage Therapy | trust 20.0 | Grace's Massage Therapy is a massage studio in Roseville, MN at 1734 Lexington Avenue N, Roseville, MN 55113. Phone: +17633372188. Website: https://www.gracesmassagetherapy.com/. | https://dingalinged-cpu.github.io/registry/c/graces-massage-therapy-roseville/
-5. GT Massage & Skin Care | trust 20.0 | GT Massage & Skin Care is a massage studio in Wheaton, IL at 300 East Roosevelt Road #110, Wheaton, IL 60187. Phone: +16302922061. Website: https://gtmassageandskincare.com/. | https://dingalinged-cpu.github.io/registry/c/gt-massage-and-skin-care-wheaton/
-6. Holistic Kneads | trust 20.0 | Holistic Kneads is a massage studio in Minneapolis, MN at 3609 Bryant Avenue South, Minneapolis, MN 55408. Phone: +16128279557. Website: https://www.holistickneads.net/. | https://dingalinged-cpu.github.io/registry/c/holistic-kneads-minneapolis/
-7. House of Hands | trust 20.0 | House of Hands is a massage studio in Chicago, IL at 4500, #3 South Cottage Grove Avenue, Chicago, IL 60653. Phone: +17082942662. Website: https://www.chicagoswedishmassage.com/. | https://dingalinged-cpu.github.io/registry/c/house-of-hands-chicago/
-8. Jai Dee | trust 20.0 | Jai Dee is a massage studio in Osseo, MN at 233 1st Avenue Northeast, Osseo, MN 55369. Phone: +17636006957. Website: https://www.jaideewellness.com/. | https://dingalinged-cpu.github.io/registry/c/jai-dee-osseo/
-9. M SPA | trust 20.0 | M SPA is a massage studio in Naperville, IL at 1803 Wehrli Road, Naperville, IL 60565. Phone: +16303408259. Website: https://mspa-naperville.com/. | https://dingalinged-cpu.github.io/registry/c/m-spa-naperville/
-10. Massage & Spa Sae Body | trust 20.0 | Massage & Spa Sae Body is a massage studio in Streamwood, IL at 500 South Bartlett Road, Streamwood, IL 60107. Phone: +13529100628. Website: https://www.save-body.com/. | https://dingalinged-cpu.github.io/registry/c/massage-and-spa-sae-body-streamwood/
-11. Massage Cult Bodywork | trust 20.0 | Massage Cult Bodywork is a massage studio in Barrington, IL at 525 West Old Northwest Highway #302C, Barrington, IL 60010. Phone: +17735109315. Website: https://www.massagecult.com/. | https://dingalinged-cpu.github.io/registry/c/massage-cult-bodywork-barrington/
-12. Massage Envy | trust 20.0 | Massage Envy is a massage studio in Edina, MN at 7101 France Avenue South, Edina, MN 55435. Phone: +19529558228. Website: https://www.massageenvy.com/clinics/MN/Edina-.aspx. | https://dingalinged-cpu.github.io/registry/c/massage-envy-edina/
-13. Massage Envy | trust 20.0 | Massage Envy is a massage studio in Maple Grove, MN at 8091 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634251777. Website: https://locations.massageenvy.com/minnesota/maple-grove/8091-wedgewood-lane-north.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-maple-grove/
-14. Massage Envy | trust 20.0 | Massage Envy is a massage studio in Minneapolis, MN at 3254 Lake Street West, Minneapolis, MN 55416. Phone: +16124559000. Website: https://locations.massageenvy.com/minnesota/minneapolis/3254-west-lake-street.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-minneapolis/
-15. Massage Evolved | trust 20.0 | Massage Evolved is a massage studio in Chicago, IL at 118 North Clinton Street #205, Chicago, IL 60661. Phone: +13128181901. Website: https://www.massageevolved.com/. | https://dingalinged-cpu.github.io/registry/c/massage-evolved-chicago/
-16. Massage Xcape | trust 20.0 | Massage Xcape is a massage studio in Roseville, MN at 1767 Lexington Avenue North, Roseville, MN 55113. Phone: +16519641112. Website: https://www.massage-xcape.business.site/. | https://dingalinged-cpu.github.io/registry/c/massage-xcape-roseville/
-17. Spa Paris | trust 20.0 | Spa Paris is a massage studio in Naperville, IL at 860 West 75th Street #108, Naperville, IL 60565. Phone: +16309990669. Website: https://spaparis.net/. | https://dingalinged-cpu.github.io/registry/c/spa-paris-naperville/
-18. Sun Spa | trust 20.0 | Sun Spa is a massage studio in Champlin, MN at 514 Jefferson Highway North, Champlin, MN 55316. Phone: +17634329139. Website: https://sunspamn.com/. | https://dingalinged-cpu.github.io/registry/c/sun-spa-champlin/
-19. Yucheng Foot Spa | trust 20.0 | Yucheng Foot Spa is a massage studio in Naperville, IL at 1017 West Ogden Avenue, Naperville, IL 60563. Phone: +13312042031. Website: https://yuchengspa.business.site/. | https://dingalinged-cpu.github.io/registry/c/yucheng-foot-spa-naperville/
-20. Zen Spa Asian Massage | trust 20.0 | Zen Spa Asian Massage is a massage studio in Naperville, IL at 1592 West Ogden Avenue #120, Naperville, IL 60540. Phone: +16303642999. Website: https://zen-spa-asian-massage.business.site/. | https://dingalinged-cpu.github.io/registry/c/zen-spa-asian-massage-naperville/
-21. Avivage Massage | trust 16.0 | Avivage Massage is a massage studio in Saint Paul, MN at 649 Grand Avenue #2, Saint Paul, MN 55105. Phone: +16512228222. Website: https://avivagemassage.com/. | https://dingalinged-cpu.github.io/registry/c/avivage-massage-saint-paul/
-22. Center For A Balanced Life Inc | trust 16.0 | Center For A Balanced Life Inc is a massage studio in West Saint Paul, MN at 1545 Livingston Avenue #100, West Saint Paul, MN 55118. Phone: +16514550473. Website: https://centerforabalancedlifeincmn.com/. | https://dingalinged-cpu.github.io/registry/c/center-for-a-balanced-life-inc-west-saint-paul/
-23. Clear Holistic Therapies | trust 16.0 | Clear Holistic Therapies is a massage studio in Minneapolis, MN at 406 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +16123777677. Website: https://www.clearholistictherapies.com/. | https://dingalinged-cpu.github.io/registry/c/clear-holistic-therapies-minneapolis/
-24. Elements Massage | trust 16.0 | Elements Massage is a massage studio in Chicago, IL at 1160 South Michigan Avenue, Chicago, IL 60605. Phone: +13124362408. Website: https://elementsmassage.com/south-loop. | https://dingalinged-cpu.github.io/registry/c/elements-massage-chicago/
-25. Elements Massage | trust 16.0 | Elements Massage is a massage studio in Saint Louis Park, MN at 5640 36th Street West, Saint Louis Park, MN 55416. Phone: +19523535674. Website: https://elementsmassage.com/st-louis-park/how-much-does-a-massage-cost?y_source=1_MTU1OTg3MjctNzE1LWxvY2F0aW9uLm1lbnVfdXJs. | https://dingalinged-cpu.github.io/registry/c/elements-massage-saint-louis-park/
-26. Epic Bodyworks Massage & Skin Care Clinic | trust 16.0 | Epic Bodyworks Massage & Skin Care Clinic is a massage studio in Saint Louis Park, MN at 6726 Walker Street, Saint Louis Park, MN 55426. Phone: +19525461364. Website: https://www.epicbodyworks.com/. | https://dingalinged-cpu.github.io/registry/c/epic-bodyworks-massage-and-skin-care-clinic-saint-louis-park/
-27. Garden of Eden Spa | trust 16.0 | Garden of Eden Spa is a massage studio in Oakdale, MN at 5695 Geneva Avenue North, Oakdale, MN 55128. Phone: +16514930261. Website: https://gardenofeden.grouppayless.com/. | https://dingalinged-cpu.github.io/registry/c/garden-of-eden-spa-oakdale/
-28. Heart Life Massage | trust 16.0 | Heart Life Massage is a massage studio in Saint Paul, MN at 1887 Grand Avenue #10, Saint Paul, MN 55105. Phone: +16516981022. Website: https://www.heartlifemassage.com/. | https://dingalinged-cpu.github.io/registry/c/heart-life-massage-saint-paul/
-29. Hush Therapeutic Massage | trust 16.0 | Hush Therapeutic Massage is a massage studio in Saint Paul, MN at 1053 Grand Avenue, Saint Paul, MN 55105. Phone: +16519643446. Website: https://hushstudio.com/. | https://dingalinged-cpu.github.io/registry/c/hush-therapeutic-massage-saint-paul/
-30. Lavender Spa | trust 16.0 | Lavender Spa is a massage studio in Buffalo Grove, IL at 61 Buffalo Grove Road, Buffalo Grove, IL 60089. Phone: +18472438766. Website: https://www.lavenderspachi.com/. | https://dingalinged-cpu.github.io/registry/c/lavender-spa-buffalo-grove/
-31. Massage Envy | trust 16.0 | Massage Envy is a massage studio in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16309104500. Website: https://locations.massageenvy.com/illinois/darien/2445-75th-street-unit-e.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-darien/
-32. Massage Envy | trust 16.0 | Massage Envy is a massage studio in Naperville, IL at 1212 South Naper Boulevard #106, Naperville, IL 60540. Phone: +16307183700. Website: https://locations.massageenvy.com/illinois/naperville/1212-s-naper-blvd.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-naperville/
-33. Peace is at Hand Massage Therapy & Bodywork | trust 16.0 | Peace is at Hand Massage Therapy & Bodywork is a massage studio in Minneapolis, MN at 3300 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +19522400724. Website: https://www.peaceisathand.com/. | https://dingalinged-cpu.github.io/registry/c/peace-is-at-hand-massage-therapy-and-bodywork-minneapolis/
-34. Relax Massage | trust 16.0 | Relax Massage is a massage studio in Naperville, IL at 805 East Ogden Avenue, Naperville, IL 60563. Phone: +16304325959. Website: https://www.napervillemassagesalon.com/. | https://dingalinged-cpu.github.io/registry/c/relax-massage-naperville/
-35. Sakura Massage | trust 16.0 | Sakura Massage is a massage studio in Darien, IL at 2121 75th Street, Darien, IL 60561. Phone: +16306358888. Website: https://sakuramassage888.com/. | https://dingalinged-cpu.github.io/registry/c/sakura-massage-darien/
-36. U Spa | trust 16.0 | U Spa is a massage studio in Naperville, IL at 1220 West Ogden Avenue #A, Naperville, IL 60563. Phone: +16305506655. Website: https://uspailusa.wixsite.com/website. | https://dingalinged-cpu.github.io/registry/c/u-spa-naperville/
-37. Valley Sport Massage | trust 16.0 | Valley Sport Massage is a massage studio in Naperville, IL at 116 South Webster Street #2B, Naperville, IL 60540. Phone: +16305441070. Website: https://valleysportmassage.com/. | https://dingalinged-cpu.github.io/registry/c/valley-sport-massage-naperville/
-38. Lovey Nail | trust 14.0 | Lovey Nail is a massage studio in Evanston, IL at 953 Howard Street, Evanston, IL 60202. Phone: +18474919557. | https://dingalinged-cpu.github.io/registry/c/lovey-nail-evanston/
-39. Massage Envy | trust 14.0 | Massage Envy is a massage studio in Blaine, MN at 10450 Baltimore Street Northeast, Blaine, MN 55449. Website: https://www.massageenvy.com/. | https://dingalinged-cpu.github.io/registry/c/massage-envy-blaine/
-40. Seidou Spa | trust 14.0 | Seidou Spa is a massage studio in Shorewood, MN at 24000 Minnesota State Highway 7 #201, Shorewood, MN 55331. Phone: +19523569410. | https://dingalinged-cpu.github.io/registry/c/seidou-spa-shorewood/
-41. Vida Bodywork | trust 14.0 | Vida Bodywork is a massage studio in Minneapolis, MN at 611 West Lake Street, Minneapolis, MN 55408. Website: https://www.vidabodywork.com/. | https://dingalinged-cpu.github.io/registry/c/vida-bodywork-minneapolis/
-42. Relaxing Massage | trust 13.0 | Relaxing Massage is a massage studio in Bloomington, MN at 367 North Garden, Bloomington, MN. Phone: +19528544815. | https://dingalinged-cpu.github.io/registry/c/relaxing-massage-bloomington/
-43. D'Vine Massage Health & Wellness | trust 12.0 | D'Vine Massage Health & Wellness is a massage studio in Saint Paul, MN. Phone: +16514345889. Website: https://www.facebook.com/pages/category/Medical---Health/DVine-Massage-Health-Wellness-2341398262766646/. | https://dingalinged-cpu.github.io/registry/c/dvine-massage-health-and-wellness-saint-paul/
-44. Alpha Massage | trust 10.0 | Alpha Massage is a massage studio in Minneapolis, MN at 115 North 1st Street, Minneapolis, MN 55401. Website: https://alphamassage.co/. | https://dingalinged-cpu.github.io/registry/c/alpha-massage-minneapolis/
-45. Axon Movement | trust 10.0 | Axon Movement is a massage studio in Edina, MN at 4820 West 77th Street #100, Edina, MN 55435. Website: https://www.axon-movement.com/. | https://dingalinged-cpu.github.io/registry/c/axon-movement-edina/
-46. Broadway Massage | trust 10.0 | Broadway Massage is a massage studio in Chicago, IL at 4125 North Broadway, Chicago, IL 60613. Website: https://broadwaymassage.wixsite.com/bestspa. | https://dingalinged-cpu.github.io/registry/c/broadway-massage-chicago/
-47. Chinese Foot Massage | trust 10.0 | Chinese Foot Massage is a massage studio in Naperville, IL at 1234 West Ogden Avenue, Naperville, IL 60563. Phone: +16308579518. | https://dingalinged-cpu.github.io/registry/c/chinese-foot-massage-naperville/
-48. Lincoln Park Massage Spa | trust 10.0 | Lincoln Park Massage Spa is a massage studio in Chicago, IL at 630 West Webster Avenue, Chicago, IL 60614. Website: https://www.lincolnparkmassage.com/. | https://dingalinged-cpu.github.io/registry/c/lincoln-park-massage-spa-chicago/
-49. Massage Envy | trust 10.0 | Massage Envy is a massage studio in Chicago, IL at 1136 South Delano Court #E201, Chicago, IL 60605. Website: https://locations.massageenvy.com/illinois/chicago/1136-s--delano-ct-west.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n12681960565/
-50. Massage Envy | trust 10.0 | Massage Envy is a massage studio in Frankfort, IL at 11061 Lincoln Highway, Frankfort, IL 60423. Phone: +18152775151. | https://dingalinged-cpu.github.io/registry/c/massage-envy-frankfort/
-51. Red Sky Massage | trust 10.0 | Red Sky Massage is a massage studio in Chaska, MN at 808 Yellow Brick Road, Chaska, MN 55318. Phone: +19527158080. | https://dingalinged-cpu.github.io/registry/c/red-sky-massage-chaska/
-52. Siesta Massage | trust 10.0 | Siesta Massage is a massage studio in Naperville, IL at 616 East Ogden Avenue, Naperville, IL 60563. Website: https://www.fresha.com/a/siesta-massage-spa-naperville-616-east-ogden-avenue-pikuqf3l. | https://dingalinged-cpu.github.io/registry/c/siesta-massage-naperville/
-53. Massage & Healing by Mary and Friends | trust 9.0 | Massage & Healing by Mary and Friends is a massage studio in Minneapolis, MN at 2848 Northeast Johnson Street, Minneapolis, MN. Phone: +16129649366. | https://dingalinged-cpu.github.io/registry/c/massage-and-healing-by-mary-and-friends-minneapolis/
-54. Heavenly Massage & Spa | trust 8.0 | Heavenly Massage & Spa is a massage studio in Mount Prospect, IL at 110 East Rand Road, Mount Prospect, IL 60056. | https://dingalinged-cpu.github.io/registry/c/heavenly-massage-and-spa-mount-prospect/
-55. Shiatsu Renu | trust 7.0 | Shiatsu Renu is a massage studio in Bloomington, MN at 390 West Market, Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/shiatsu-renu-bloomington/
-56. BioNature Studio | trust 6.0 | BioNature Studio is a massage studio in Willow Springs, IL. Website: https://www.bionaturestudio.com/. | https://dingalinged-cpu.github.io/registry/c/bionature-studio-willow-springs/
-57. BOON Thai Spa | trust 6.0 | BOON Thai Spa is a massage studio in Chicago, IL. Phone: +17738126666. | https://dingalinged-cpu.github.io/registry/c/boon-thai-spa-chicago/
-58. Golden Dream Spa | trust 6.0 | Golden Dream Spa is a massage studio in Chicago, IL. Phone: +13129180665. | https://dingalinged-cpu.github.io/registry/c/golden-dream-spa-chicago/
-59. Kuma Health and Wellness | trust 6.0 | Kuma Health and Wellness is a massage studio in La Grange, IL. Website: https://kumahealthandwellness.com/. | https://dingalinged-cpu.github.io/registry/c/kuma-health-and-wellness-la-grange/
-60. Massage | trust 6.0 | Massage is a massage studio in Burnsville, MN. Phone: +16123687910. | https://dingalinged-cpu.github.io/registry/c/massage-burnsville/
-61. Posh Spa | trust 6.0 | Posh Spa is a massage studio in Minneapolis, MN. Phone: +16123152267. | https://dingalinged-cpu.github.io/registry/c/posh-spa-minneapolis/
-62. Aervita Integrative Medicine + Hyperbarics | trust 4.0 | Aervita Integrative Medicine + Hyperbarics is a massage studio in Edina, MN at 4820 West 77th Street #150, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/aervita-integrative-medicine-hyperbarics-edina/
-63. Best Foot Massage Spa | trust 4.0 | Best Foot Massage Spa is a massage studio in Morton Grove, IL at 6030 West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/best-foot-massage-spa-morton-grove/
-64. Elements Massage | trust 4.0 | Elements Massage is a massage studio in Eden Prairie, MN at 10165 Hennepin Town Road #103, Eden Prairie, MN 55347. | https://dingalinged-cpu.github.io/registry/c/elements-massage-eden-prairie/
-65. European Massage Therapy | trust 4.0 | European Massage Therapy is a massage studio in Hopkins, MN at 901 1st Street North, Hopkins, MN 55343. | https://dingalinged-cpu.github.io/registry/c/european-massage-therapy-hopkins/
-66. Foot Smile Spa | trust 4.0 | Foot Smile Spa is a massage studio in Chicago, IL at 1513 West Fullerton Avenue, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/foot-smile-spa-chicago/
-67. Hand & Stone Massage and Facial Spa | trust 4.0 | Hand & Stone Massage and Facial Spa is a massage studio in Park Ridge, IL at 168 North Northwest Highway, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-park-ridge/
-68. Integrative Massage Edina | trust 4.0 | Integrative Massage Edina is a massage studio in Edina, MN at 4820 West 77th Street #150, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/integrative-massage-edina-edina/
-69. Magic Spa | trust 4.0 | Magic Spa is a massage studio in Naperville, IL at 1224 West Ogden Avenue #C, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/magic-spa-naperville/
-70. Mama Patricia Hair Inc | trust 4.0 | Mama Patricia Hair Inc is a massage studio in Evanston, IL at 743 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/mama-patricia-hair-inc-evanston/
-71. Massage | trust 4.0 | Massage is a massage studio in Chaska, MN at 150 Pioneer Trail, Chaska, MN 55318. | https://dingalinged-cpu.github.io/registry/c/massage-chaska/
-72. Massage | trust 4.0 | Massage is a massage studio in Niles, IL at 7033 North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/massage-niles/
-73. Massage Envy | trust 4.0 | Massage Envy is a massage studio in Chicago, IL at 1845 North Clybourn Avenue, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago/
-74. Massage Envy | trust 4.0 | Massage Envy is a massage studio in Chicago, IL at 1222 North Wells Street, Chicago, IL 60610. | https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n11518279815/
-75. Massage Envy | trust 4.0 | Massage Envy is a massage studio in Chicago, IL at 808 West Monroe Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n12431624130/
-76. Massage Envy | trust 4.0 | Massage Envy is a massage studio in Chicago, IL at 345 East Ohio Street, Chicago, IL 60611. | https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n12563653526/
-77. Massage Envy | trust 4.0 | Massage Envy is a massage studio in Niles, IL at 5661 West Touhy Avenue #146, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/massage-envy-niles/
-78. Massage Envy | trust 4.0 | Massage Envy is a massage studio in Oak Lawn, IL at 11022 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/massage-envy-oak-lawn/
-79. Massage Envy | trust 4.0 | Massage Envy is a massage studio in Orland Park, IL at 15159 South La Grange Road #200, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/massage-envy-orland-park/
-80. Massage Envy | trust 4.0 | Massage Envy is a massage studio in Park Ridge, IL at 110 South Northwest Highway, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/massage-envy-park-ridge/
-81. Massage Envy | trust 4.0 | Massage Envy is a massage studio in River Forest, IL at 7341 Lake Street, River Forest, IL 60305. | https://dingalinged-cpu.github.io/registry/c/massage-envy-river-forest/
-82. Massage Envy | trust 4.0 | Massage Envy is a massage studio in Wilmette, IL at 3232 Lake Avenue #165, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/massage-envy-wilmette/
-83. Massage Retreat & Spa | trust 4.0 | Massage Retreat & Spa is a massage studio in Plymouth, MN at 4445 Nathan Lane North #Suite B, Plymouth, MN 55442. | https://dingalinged-cpu.github.io/registry/c/massage-retreat-and-spa-plymouth/
-84. Massage Therapy | trust 4.0 | Massage Therapy is a massage studio in Wheeling, IL at 765C West Dundee Road, Wheeling, IL 60090. | https://dingalinged-cpu.github.io/registry/c/massage-therapy-wheeling/
-85. Natural Resistance Spa | trust 4.0 | Natural Resistance Spa is a massage studio in Chicago, IL at 2109 West Touhy Avenue, Chicago, IL 60645. | https://dingalinged-cpu.github.io/registry/c/natural-resistance-spa-chicago/
-86. Serenity Massage | trust 4.0 | Serenity Massage is a massage studio in Saint Paul, MN at 400 Selby Avenue #Suite F, Saint Paul, MN 55102. | https://dingalinged-cpu.github.io/registry/c/serenity-massage-saint-paul/
-87. Sunny Spa Massage | trust 4.0 | Sunny Spa Massage is a massage studio in Oak Park, IL at 1053 Madison Street, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/sunny-spa-massage-oak-park/
-88. Terminal Getaway Spa | trust 4.0 | Terminal Getaway Spa is a massage studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/terminal-getaway-spa-chicago/
-89. The NOW | trust 4.0 | The NOW is a massage studio in Chicago, IL at 9 South Halsted Street, Chicago, IL 60661. | https://dingalinged-cpu.github.io/registry/c/the-now-chicago-n12580485269/
-90. TY Spa | trust 4.0 | TY Spa is a massage studio in Orland Park, IL at 11225 West 159th Street #A, Orland Park, IL 60467. | https://dingalinged-cpu.github.io/registry/c/ty-spa-orland-park/
-91. Eagan Massage Center | trust 3.0 | Eagan Massage Center is a massage studio in Eagan, MN at 3424, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/eagan-massage-center-eagan/
-92. Hand and Stone | trust 3.0 | Hand and Stone is a massage studio in Maple Grove, MN at 11647, Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-maple-grove/
-93. hush Therapeutic Massage | trust 3.0 | hush Therapeutic Massage is a massage studio in Mendota Heights, MN at 776, Mendota Heights, MN. | https://dingalinged-cpu.github.io/registry/c/hush-therapeutic-massage-mendota-heights/
-94. Massage Retreat & Spa | trust 3.0 | Massage Retreat & Spa is a massage studio in Eden Prairie, MN at 8248 Commonwealth Drive, Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/massage-retreat-and-spa-eden-prairie/
-95. Pink Spa | trust 3.0 | Pink Spa is a massage studio in Chicago, IL at 3748 North Ashland Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/pink-spa-chicago/
-96. Resinosa Massage | trust 3.0 | Resinosa Massage is a massage studio in Eagan, MN at 3410 Federal Drive, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/resinosa-massage-eagan/
-97. Bozena Day Spa | trust 0.0 | Bozena Day Spa is a massage studio in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/bozena-day-spa-indian-head-park/
-98. Brennan Massage & Spa | trust 0.0 | Brennan Massage & Spa is a massage studio in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/brennan-massage-and-spa-brookfield/
-99. CS Massage | trust 0.0 | CS Massage is a massage studio in Berwyn, IL. | https://dingalinged-cpu.github.io/registry/c/cs-massage-berwyn/
-100. Elements Therapeutic Massage | trust 0.0 | Elements Therapeutic Massage is a massage studio in Western Springs, IL. | https://dingalinged-cpu.github.io/registry/c/elements-therapeutic-massage-western-springs/
-101. Enjoying Massage Spa | trust 0.0 | Enjoying Massage Spa is a massage studio in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/enjoying-massage-spa-westmont/
-102. Fit Foot | trust 0.0 | Fit Foot is a massage studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/fit-foot-chicago/
-103. Hand And Stone | trust 0.0 | Hand And Stone is a massage studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-chicago/
-104. Heavenly Massage & Spa | trust 0.0 | Heavenly Massage & Spa is a massage studio in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/heavenly-massage-and-spa-orland-park/
-105. Kingston Reflexology | trust 0.0 | Kingston Reflexology is a massage studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/kingston-reflexology-chicago/
-106. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n11244738350/
-107. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n12434614036/
-108. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/massage-envy-eagan/
-109. Massage Envy | trust 0.0 | Massage Envy is a massage studio in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/massage-envy-la-grange/
-110. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/massage-envy-minnetonka/
-111. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/massage-envy-minnetonka-n11098487967/
-112. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/massage-envy-mount-prospect/
-113. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/massage-envy-wheaton/
-114. Massage Spa | trust 0.0 | Massage Spa is a massage studio in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/massage-spa-gary/
-115. No Knots Massage and Bodywork | trust 0.0 | No Knots Massage and Bodywork is a massage studio in Saint Paul Park, MN. | https://dingalinged-cpu.github.io/registry/c/no-knots-massage-and-bodywork-saint-paul-park/
-116. Renew Foot Massage | trust 0.0 | Renew Foot Massage is a massage studio in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/renew-foot-massage-oak-park/
-117. Setox Foot Massage | trust 0.0 | Setox Foot Massage is a massage studio in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/setox-foot-massage-westmont/
-118. Sir Spa | trust 0.0 | Sir Spa is a massage studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/sir-spa-chicago/
-119. Thai Massage | trust 0.0 | Thai Massage is a massage studio in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/thai-massage-crystal/
-120. The Chiroport Chiropractic | trust 0.0 | The Chiroport Chiropractic is a massage studio in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/the-chiroport-chiropractic-fort-snelling-unorganized-territory/
-121. The Great Metropolitan Back Rub | trust 0.0 | The Great Metropolitan Back Rub is a massage studio in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-great-metropolitan-back-rub-saint-paul/
-122. The Now | trust 0.0 | The Now is a massage studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-now-chicago/
-123. Tokyo Spa | trust 0.0 | Tokyo Spa is a massage studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/tokyo-spa-chicago/
-124. XpresSpa | trust 0.0 | XpresSpa is a massage studio in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/xpresspa-fort-snelling-unorganized-territory/
+1. Asian Foot & Body Massage | trust 20.0 | Asian Foot & Body Massage is a massage studio in Wauwatosa, WI at 7120 West North Avenue, Wauwatosa, WI 53213. Phone: +14142421556. Website: https://asianfootbodymassage.squarespace.com/. | https://dingalinged-cpu.github.io/registry/c/asian-foot-and-body-massage-wauwatosa/
+2. Bamboo Isle Massage | trust 20.0 | Bamboo Isle Massage is a massage studio in New Berlin, WI at 3560 South Moorland Road, New Berlin, WI 53151. Phone: +14148928996. Website: https://nbgad2022.wixsite.com/bamboo-isle-massage. | https://dingalinged-cpu.github.io/registry/c/bamboo-isle-massage-new-berlin/
+3. Bettye O Day Spa | trust 20.0 | Bettye O Day Spa is a massage studio in Chicago, IL at 1424 East 53rd Street, Chicago, IL 60615. Phone: +17737523600. Website: https://www.bettyeodayspa.com/. | https://dingalinged-cpu.github.io/registry/c/bettye-o-day-spa-chicago/
+4. Body Healing Services | trust 20.0 | Body Healing Services is a massage studio in Minneapolis, MN at 5037 France Avenue South #Suite 203, Minneapolis, MN 55410. Phone: +16129861207. Website: https://www.bodyhealingservices.com/. | https://dingalinged-cpu.github.io/registry/c/body-healing-services-minneapolis/
+5. Daisy Massage & Spa | trust 20.0 | Daisy Massage & Spa is a massage studio in Plano, TX at 6101 Windhaven Parkway #155, Plano, TX 75093. Phone: +14694476969. Website: https://daisymassage.com/. | https://dingalinged-cpu.github.io/registry/c/daisy-massage-and-spa-plano/
+6. Escape To Paradise LLC | trust 20.0 | Escape To Paradise LLC is a massage studio in Minneapolis, MN at 3249 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16122979609. Website: https://escapetoparadisellc.com/. | https://dingalinged-cpu.github.io/registry/c/escape-to-paradise-llc-minneapolis/
+7. Far East Healing & Spa | trust 20.0 | Far East Healing & Spa is a massage studio in Wauwatosa, WI at 737 North Mayfair Road, Wauwatosa, WI 53226. Phone: +14146880188. Website: https://www.facebook.com/people/Far-east-healing-SPA-in-Milwaukee/100070208288302/. | https://dingalinged-cpu.github.io/registry/c/far-east-healing-and-spa-wauwatosa/
+8. Foot Palace | trust 20.0 | Foot Palace is a massage studio in Trophy Club, TX at 301 Trophy Lake Drive #124, Trophy Club, TX 76262. Phone: +18175000558. Website: https://footpalacespa.online/. | https://dingalinged-cpu.github.io/registry/c/foot-palace-trophy-club/
+9. FT Massage | trust 20.0 | FT Massage is a massage studio in Spring, TX at 5015 FM 2920, Spring, TX 77388. Phone: +18329579777. Website: https://ft.asian-massage-spa.com/. | https://dingalinged-cpu.github.io/registry/c/ft-massage-spring/
+10. Grace's Massage Therapy | trust 20.0 | Grace's Massage Therapy is a massage studio in Roseville, MN at 1734 Lexington Avenue N, Roseville, MN 55113. Phone: +17633372188. Website: https://www.gracesmassagetherapy.com/. | https://dingalinged-cpu.github.io/registry/c/graces-massage-therapy-roseville/
+11. GT Massage & Skin Care | trust 20.0 | GT Massage & Skin Care is a massage studio in Wheaton, IL at 300 East Roosevelt Road #110, Wheaton, IL 60187. Phone: +16302922061. Website: https://gtmassageandskincare.com/. | https://dingalinged-cpu.github.io/registry/c/gt-massage-and-skin-care-wheaton/
+12. Hand & Stone Massage and Facial Spa | trust 20.0 | Hand & Stone Massage and Facial Spa is a massage studio in Oak Creek, WI at 7956 South Main Street, Oak Creek, WI 53154. Phone: +14145195286. Website: https://handandstone.com/locations/oak-creek/. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-oak-creek/
+13. Hand & Stone Massage and Facial Spa | trust 20.0 | Hand & Stone Massage and Facial Spa is a massage studio in Sugar Land, TX at 16525 Lexington Boulevard #150, Sugar Land, TX 77479. Phone: +12812650065. Website: https://handandstone.com/locations/sugar-land-first-colony/. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-sugar-land/
+14. Healthy Foot Care Massage | trust 20.0 | Healthy Foot Care Massage is a massage studio in Southlake, TX at 2140 East Southlake Boulevard #Suite O, Southlake, TX 76092. Phone: +18175066888. Website: https://www.healthyfootcaresouthlake.com/. | https://dingalinged-cpu.github.io/registry/c/healthy-foot-care-massage-southlake/
+15. Holistic Kneads | trust 20.0 | Holistic Kneads is a massage studio in Minneapolis, MN at 3609 Bryant Avenue South, Minneapolis, MN 55408. Phone: +16128279557. Website: https://www.holistickneads.net/. | https://dingalinged-cpu.github.io/registry/c/holistic-kneads-minneapolis/
+16. Hot Spring Foot Massage | trust 20.0 | Hot Spring Foot Massage is a massage studio in Roanoke, TX at 1224 North US Highway 377 #Suite 207, Roanoke, TX 76262. Phone: +16822372313. Website: https://www.hotspringfootmassage.net/. | https://dingalinged-cpu.github.io/registry/c/hot-spring-foot-massage-roanoke/
+17. House of Hands | trust 20.0 | House of Hands is a massage studio in Chicago, IL at 4500, #3 South Cottage Grove Avenue, Chicago, IL 60653. Phone: +17082942662. Website: https://www.chicagoswedishmassage.com/. | https://dingalinged-cpu.github.io/registry/c/house-of-hands-chicago/
+18. J McCoy LMT | trust 20.0 | J McCoy LMT is a massage studio in Wauwatosa, WI at 2306 N 66th Street, Wauwatosa, WI 53213. Phone: +14142200498. Website: https://www.jmccoylmt.com/. | https://dingalinged-cpu.github.io/registry/c/j-mccoy-lmt-wauwatosa/
+19. Jai Dee | trust 20.0 | Jai Dee is a massage studio in Osseo, MN at 233 1st Avenue Northeast, Osseo, MN 55369. Phone: +17636006957. Website: https://www.jaideewellness.com/. | https://dingalinged-cpu.github.io/registry/c/jai-dee-osseo/
+20. M SPA | trust 20.0 | M SPA is a massage studio in Naperville, IL at 1803 Wehrli Road, Naperville, IL 60565. Phone: +16303408259. Website: https://mspa-naperville.com/. | https://dingalinged-cpu.github.io/registry/c/m-spa-naperville/
+21. Magnolia Massage and Bodyworks | trust 20.0 | Magnolia Massage and Bodyworks is a massage studio in Magnolia, TX at 33130 Magnolia Circle #A-18, Magnolia, TX 77354. Phone: +12816404875. Website: https://www.massagebook.com/therapists/magnoliamassageandbodyworks. | https://dingalinged-cpu.github.io/registry/c/magnolia-massage-and-bodyworks-magnolia/
+22. Mara Pitcher | trust 20.0 | Mara Pitcher is a massage studio in McKinney, TX at 7951 Collin McKinney Parkway #121, McKinney, TX 75070. Phone: +14695928028. Website: https://marapitcherlmt.com/. | https://dingalinged-cpu.github.io/registry/c/mara-pitcher-mckinney/
+23. Massage & Spa Sae Body | trust 20.0 | Massage & Spa Sae Body is a massage studio in Streamwood, IL at 500 South Bartlett Road, Streamwood, IL 60107. Phone: +13529100628. Website: https://www.save-body.com/. | https://dingalinged-cpu.github.io/registry/c/massage-and-spa-sae-body-streamwood/
+24. Massage Cult Bodywork | trust 20.0 | Massage Cult Bodywork is a massage studio in Barrington, IL at 525 West Old Northwest Highway #302C, Barrington, IL 60010. Phone: +17735109315. Website: https://www.massagecult.com/. | https://dingalinged-cpu.github.io/registry/c/massage-cult-bodywork-barrington/
+25. Massage Envy | trust 20.0 | Massage Envy is a massage studio in Arlington, TX at 3900 Arlington Highlands Blvd. #125, Arlington, TX 76018. Phone: +18174653456. Website: https://www.massageenvy.com/. | https://dingalinged-cpu.github.io/registry/c/massage-envy-arlington-w1032456143/
+26. Massage Envy | trust 20.0 | Massage Envy is a massage studio in Edina, MN at 7101 France Avenue South, Edina, MN 55435. Phone: +19529558228. Website: https://www.massageenvy.com/clinics/MN/Edina-.aspx. | https://dingalinged-cpu.github.io/registry/c/massage-envy-edina/
+27. Massage Envy | trust 20.0 | Massage Envy is a massage studio in Houston, TX at 9758 Katy Freeway #700, Houston, TX 77055. Phone: +17134573689. Website: https://locations.massageenvy.com/texas/houston/9758-katy-freeway.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-houston-n9646888071/
+28. Massage Envy | trust 20.0 | Massage Envy is a massage studio in Maple Grove, MN at 8091 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634251777. Website: https://locations.massageenvy.com/minnesota/maple-grove/8091-wedgewood-lane-north.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-maple-grove/
+29. Massage Envy | trust 20.0 | Massage Envy is a massage studio in Minneapolis, MN at 3254 Lake Street West, Minneapolis, MN 55416. Phone: +16124559000. Website: https://locations.massageenvy.com/minnesota/minneapolis/3254-west-lake-street.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-minneapolis/
+30. Massage Envy | trust 20.0 | Massage Envy is a massage studio in Rockwall, TX at 2951 Ridge Road #Suite 101, Rockwall, TX 75032. Phone: +19727229595. Website: https://locations.massageenvy.com/texas/rockwall/2951-ridge-rd.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-rockwall/
+31. Massage Evolved | trust 20.0 | Massage Evolved is a massage studio in Chicago, IL at 118 North Clinton Street #205, Chicago, IL 60661. Phone: +13128181901. Website: https://www.massageevolved.com/. | https://dingalinged-cpu.github.io/registry/c/massage-evolved-chicago/
+32. Massage Heights | trust 20.0 | Massage Heights is a massage studio in Houston, TX at 13410 Briar Forest Drive #198, Houston, TX 77077. Phone: +17135977706. Website: https://www.massageheights.com/parkway-village/. | https://dingalinged-cpu.github.io/registry/c/massage-heights-houston-n11430373596/
+33. Massage Heights | trust 20.0 | Massage Heights is a massage studio in Houston, TX at 103 Yale Street #700, Houston, TX 77007. Phone: +17134895772. Website: https://www.massageheights.com/washington-heights/. | https://dingalinged-cpu.github.io/registry/c/massage-heights-houston-n9718451088/
+34. Massage Heights | trust 20.0 | Massage Heights is a massage studio in Sugar Land, TX at 1875 State Highway 6 #500, Sugar Land, TX 77478. Phone: +12815328702. Website: https://www.massageheights.com/sugarland/. | https://dingalinged-cpu.github.io/registry/c/massage-heights-sugar-land/
+35. Massage Life Center | trust 20.0 | Massage Life Center is a massage studio in The Colony, TX at 2801 Plano Parkway #130, The Colony, TX 75056. Phone: +14694211200. Website: https://massagelifecenter.com/. | https://dingalinged-cpu.github.io/registry/c/massage-life-center-the-colony/
+36. Massage Xcape | trust 20.0 | Massage Xcape is a massage studio in Roseville, MN at 1767 Lexington Avenue North, Roseville, MN 55113. Phone: +16519641112. Website: https://www.massage-xcape.business.site/. | https://dingalinged-cpu.github.io/registry/c/massage-xcape-roseville/
+37. Memorial Heights Reflexology | trust 20.0 | Memorial Heights Reflexology is a massage studio in Houston, TX at 920 Studemont Street #400, Houston, TX 77007. Phone: +12819484895. Website: https://memorialheightsreflexology.com/. | https://dingalinged-cpu.github.io/registry/c/memorial-heights-reflexology-houston/
+38. Midtown Reflexology | trust 20.0 | Midtown Reflexology is a massage studio in Houston, TX at 542 Waugh Drive, Houston, TX 77019. Phone: +18324600632. Website: https://www.midtownreflexology.com/. | https://dingalinged-cpu.github.io/registry/c/midtown-reflexology-houston/
+39. O.D. Wellness | trust 20.0 | O.D. Wellness is a massage studio in Dallas, TX at 11661 Preston Road #151, Dallas, TX 75230. Phone: +14692480777. Website: https://odwellnessusa.com/. | https://dingalinged-cpu.github.io/registry/c/o-d-wellness-dallas/
+40. Petal & Brow Threading and Spa | trust 20.0 | Petal & Brow Threading and Spa is a massage studio in Grand Prairie, TX at 7535 Lake Ridge Parkway #150, Grand Prairie, TX 75054. Phone: +16822227005. Website: https://petalandbrowco.com/. | https://dingalinged-cpu.github.io/registry/c/petal-and-brow-threading-and-spa-grand-prairie/
+41. Refined Therapeutic Massage | trust 20.0 | Refined Therapeutic Massage is a massage studio in Tomball, TX at 23902 FM 2978, Tomball, TX 77375. Phone: +17138874558. Website: https://www.refinedmassage.us/. | https://dingalinged-cpu.github.io/registry/c/refined-therapeutic-massage-tomball/
+42. River Oaks Beauty and Weight Loss Center | trust 20.0 | River Oaks Beauty and Weight Loss Center is a massage studio in Houston, TX at 510 Waugh Drive, Houston, TX 77019. Phone: +18329916772. Website: https://www.loseweightgainbeauty.com/. | https://dingalinged-cpu.github.io/registry/c/river-oaks-beauty-and-weight-loss-center-houston/
+43. Royal Massage Parlor | trust 20.0 | Royal Massage Parlor is a massage studio in Milwaukee, WI at 7511 West Oklahoma Avenue, Milwaukee, WI 53219. Phone: +14143171862. Website: https://royalmassageparlor.com/. | https://dingalinged-cpu.github.io/registry/c/royal-massage-parlor-milwaukee/
+44. Spa Paris | trust 20.0 | Spa Paris is a massage studio in Naperville, IL at 860 West 75th Street #108, Naperville, IL 60565. Phone: +16309990669. Website: https://spaparis.net/. | https://dingalinged-cpu.github.io/registry/c/spa-paris-naperville/
+45. Sun Spa | trust 20.0 | Sun Spa is a massage studio in Champlin, MN at 514 Jefferson Highway North, Champlin, MN 55316. Phone: +17634329139. Website: https://sunspamn.com/. | https://dingalinged-cpu.github.io/registry/c/sun-spa-champlin/
+46. Tani Spa | trust 20.0 | Tani Spa is a massage studio in Richardson, TX at 328 West Campbell Road, Richardson, TX 75080. Phone: +19722353338. Website: https://www.tanispa.com/. | https://dingalinged-cpu.github.io/registry/c/tani-spa-richardson/
+47. Tao Tantra | trust 20.0 | Tao Tantra is a massage studio in Coppell, TX at 160 West Sandy Lake Road #142, Coppell, TX 75019. Phone: +14697390446. Website: https://taotantra.com/. | https://dingalinged-cpu.github.io/registry/c/tao-tantra-coppell/
+48. The Now Massage Boutique | trust 20.0 | The Now Massage Boutique is a massage studio in Dallas, TX at 11661 Preston Road #119, Dallas, TX 75230. Phone: +12142955679. Website: https://www.thenowmassage.com/. | https://dingalinged-cpu.github.io/registry/c/the-now-massage-boutique-dallas/
+49. Therapeutic Healing | trust 20.0 | Therapeutic Healing is a massage studio in Garland, TX at 605 West State Street, Garland, TX 75040. Phone: +19724858759. Website: https://www.therapeutichealing.com/. | https://dingalinged-cpu.github.io/registry/c/therapeutic-healing-garland/
+50. Touch Method Massage and Body Works | trust 20.0 | Touch Method Massage and Body Works is a massage studio in Houston, TX at 2401 Yale Street, Houston, TX 77008. Phone: +18325605116. Website: https://www.touchmethod.us/. | https://dingalinged-cpu.github.io/registry/c/touch-method-massage-and-body-works-houston/
+
+## More massage listings (434 total; top 50 unpaid shown)
+- Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/massage.jsonl
+- Houston, TX: 53 listings: https://dingalinged-cpu.github.io/registry/k/massage-houston-tx/
+- Dallas, TX: 33 listings: https://dingalinged-cpu.github.io/registry/k/massage-dallas-tx/
+- Chicago, IL: 26 listings: https://dingalinged-cpu.github.io/registry/k/massage-chicago-il/
+- Harris County, TX: 20 listings: https://dingalinged-cpu.github.io/registry/k/massage-harris-county-tx/
+- Plano, TX: 14 listings: https://dingalinged-cpu.github.io/registry/k/massage-plano-tx/
+- Flower Mound, TX: 12 listings: https://dingalinged-cpu.github.io/registry/k/massage-flower-mound-tx/
+- Naperville, IL: 11 listings: https://dingalinged-cpu.github.io/registry/k/massage-naperville-il/
+- Minneapolis, MN: 10 listings: https://dingalinged-cpu.github.io/registry/k/massage-minneapolis-mn/
+- Mckinney, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/massage-mckinney-tx/
+- Wauwatosa, WI: 9 listings: https://dingalinged-cpu.github.io/registry/k/massage-wauwatosa-wi/
+- Frisco, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/massage-frisco-tx/
+- Lewisville, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/massage-lewisville-tx/
+- Addison, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/massage-addison-tx/
+- Denton, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/massage-denton-tx/
+- Richardson, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/massage-richardson-tx/
+- Euless, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/massage-euless-tx/
+- Coppell, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/massage-coppell-tx/
+- Saint Paul, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/massage-saint-paul-mn/
+- Milwaukee, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/massage-milwaukee-wi/
+- Cedar Hill, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/massage-cedar-hill-tx/
+- Sugar Land, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/massage-sugar-land-tx/
+- North Richland Hills, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/massage-north-richland-hills-tx/
+- Irving, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/massage-irving-tx/
+- Carrollton, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/massage-carrollton-tx/
+- Tomball, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/massage-tomball-tx/
+- Edina, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/massage-edina-mn/
+- Greenfield, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/massage-greenfield-wi/
+- Montgomery County, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/massage-montgomery-county-tx/
+- Bedford, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/massage-bedford-tx/
+- Murphy, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/massage-murphy-tx/
+- Rockwall, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/massage-rockwall-tx/
+- Southlake, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/massage-southlake-tx/
+- Arlington, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/massage-arlington-tx/
+- The Woodlands, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/massage-the-woodlands-tx/
+- Eagan, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/massage-eagan-mn/
+- West Allis, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/massage-west-allis-wi/
+- Orland Park, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/massage-orland-park-il/
+- Roanoke, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-roanoke-tx/
+- Little Elm, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-little-elm-tx/
+- Conroe, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-conroe-tx/
+- Magnolia, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-magnolia-tx/
+- Sachse, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-sachse-tx/
+- Garland, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-garland-tx/
+- Eden Prairie, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-eden-prairie-mn/
+- Saint Louis Park, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-saint-louis-park-mn/
+- Roseville, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-roseville-mn/
+- Maple Grove, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-maple-grove-mn/
+- Chaska, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-chaska-mn/
+- Minnetonka, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-minnetonka-mn/
+- Bloomington, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-bloomington-mn/
+- Fort Snelling Unorganized Territory, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-fort-snelling-unorganized-territory-mn/
+- Westmont, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-westmont-il/
+- Wheaton, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-wheaton-il/
+- Park Ridge, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-park-ridge-il/
+- Mount Prospect, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-mount-prospect-il/
+- La Grange, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-la-grange-il/
+- Evanston, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-evanston-il/
+- Darien, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-darien-il/
+- Niles, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-niles-il/
+- Oak Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/massage-oak-park-il/
+- Pantego, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-pantego-tx/
+- Allen, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-allen-tx/
+- Spring Valley Village, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-spring-valley-village-tx/
+- Highland Village, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-highland-village-tx/
+- Trophy Club, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-trophy-club-tx/
+- Hurst, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-hurst-tx/
+- Lake Dallas, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-lake-dallas-tx/
+- Prosper, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-prosper-tx/
+- Richmond, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-richmond-tx/
+- Fairview, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-fairview-tx/
+- Corinth, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-corinth-tx/
+- Katy, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-katy-tx/
+- Mansfield, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-mansfield-tx/
+- Pearland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-pearland-tx/
+- The Colony, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-the-colony-tx/
+- Fate, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-fate-tx/
+- Grand Prairie, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-grand-prairie-tx/
+- Humble, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-humble-tx/
+- Hitchcock, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-hitchcock-tx/
+- West Saint Paul, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-west-saint-paul-mn/
+- Hopkins, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-hopkins-mn/
+- Oakdale, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-oakdale-mn/
+- Mendota Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-mendota-heights-mn/
+- Osseo, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-osseo-mn/
+- Burnsville, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-burnsville-mn/
+- Blaine, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-blaine-mn/
+- Plymouth, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-plymouth-mn/
+- Saint Paul Park, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-saint-paul-park-mn/
+- Shorewood, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-shorewood-mn/
+- Champlin, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-champlin-mn/
+- Crystal, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-crystal-mn/
+- New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-new-berlin-wi/
+- Whitefish Bay, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-whitefish-bay-wi/
+- Oak Creek, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-oak-creek-wi/
+- Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-brookfield-wi/
+- Mount Pleasant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-mount-pleasant-wi/
+- Franklin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-franklin-wi/
+- Saint Francis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-saint-francis-wi/
+- Racine, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-racine-wi/
+- Waukesha, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-waukesha-wi/
+- Union Grove, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-union-grove-wi/
+- South Milwaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-south-milwaukee-wi/
+- Village Of Germantown, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-village-of-germantown-wi/
+- Morton Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-morton-grove-il/
+- Willow Springs, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-willow-springs-il/
+- Indian Head Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-indian-head-park-il/
+- Brookfield, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-brookfield-il/
+- Berwyn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-berwyn-il/
+- Western Springs, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-western-springs-il/
+- Buffalo Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-buffalo-grove-il/
+- Streamwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-streamwood-il/
+- Barrington, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-barrington-il/
+- Frankfort, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-frankfort-il/
+- Oak Lawn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-oak-lawn-il/
+- River Forest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-river-forest-il/
+- Wilmette, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-wilmette-il/
+- Wheeling, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-wheeling-il/
+- Gary, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/massage-gary-in/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -137,10 +184,10 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 124
+- Registry businesses competing: 434
 - Equivalent Google Ads cost per month: ~$1,300,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/massage.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#massage | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/massage.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#massage | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Allison's Petite Pastries Bakery is a bakery in Ramsey, MN at 14037 Saint Franci
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allisons-petite-pastries-bakery-ramsey/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allisons-petite-pastries-bakery-ramsey.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13504705533 (license ODbL-1.0); source data as of 2026-06-01

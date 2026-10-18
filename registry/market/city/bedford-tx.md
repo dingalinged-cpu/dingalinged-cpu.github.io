@@ -1,0 +1,58 @@
+Keyword market for Bedford, TX: 42 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+
+# Top keywords in Bedford, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage bedford tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/massage-bedford-tx/
+2. car wash bedford tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/car-wash-bedford-tx/
+3. dentist bedford tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/dentist-bedford-tx/
+4. gym bedford tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/gym-bedford-tx/
+5. oil change bedford tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-bedford-tx/
+6. hair salon bedford tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/hair-salon-bedford-tx/
+7. nail salon bedford tx | searches/mo 25,000 (est) | CPC $0.61 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/nail-salon-bedford-tx/
+8. barber shop bedford tx | searches/mo 17,000 (est) | CPC $0.70 | value $12,000 | Google Ads equiv $680/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/barber-shop-bedford-tx/
+9. mechanic bedford tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/mechanic-bedford-tx/
+10. tire shop bedford tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/tire-shop-bedford-tx/
+11. vet bedford tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/vet-bedford-tx/
+12. haircut bedford tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-bedford-tx/
+13. auto repair bedford tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/auto-repair-bedford-tx/
+14. insurance agency bedford tx | searches/mo 2,200 (est) | CPC $3.39 | value $7,500 | Google Ads equiv $620/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-bedford-tx/
+15. pediatrician bedford tx | searches/mo 2,200 (est) | CPC $4.76 | value $10,000 | Google Ads equiv $700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pediatrician-bedford-tx/
+
+## By CPC
+1. attorney bedford tx | searches/mo 1,800 (est) | CPC $9.87 | value $18,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/attorney-bedford-tx/
+2. lawyer bedford tx | searches/mo 1,200 (est) | CPC $9.87 | value $12,000 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/lawyer-bedford-tx/
+3. storage units bedford tx | searches/mo 5,500 (est) | CPC $8.33 | value $46,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/storage-units-bedford-tx/
+4. bakery bedford tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/bakery-bedford-tx/
+5. staffing agency bedford tx | searches/mo 3,500 (est) | CPC $5.87 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/staffing-agency-bedford-tx/
+6. tax preparer bedford tx | searches/mo 1,500 (est) | CPC $5.87 | value $8,800 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-bedford-tx/
+7. daycare bedford tx | searches/mo 5,500 (est) | CPC $4.81 | value $26,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/daycare-bedford-tx/
+8. driving school bedford tx | searches/mo 990 (est) | CPC $4.81 | value $4,800 | Google Ads equiv $270/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/driving-school-bedford-tx/
+9. assisted living bedford tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/assisted-living-bedford-tx/
+10. family doctor bedford tx | searches/mo 820 (est) | CPC $4.76 | value $3,900 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/family-doctor-bedford-tx/
+11. pediatrician bedford tx | searches/mo 2,200 (est) | CPC $4.76 | value $10,000 | Google Ads equiv $700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pediatrician-bedford-tx/
+12. podiatrist bedford tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/podiatrist-bedford-tx/
+13. primary care physician bedford tx | searches/mo 670 (est) | CPC $4.76 | value $3,200 | Google Ads equiv $210/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/primary-care-physician-bedford-tx/
+14. therapist bedford tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/therapist-bedford-tx/
+15. dentist bedford tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/dentist-bedford-tx/
+
+## By value (searches x CPC)
+1. massage bedford tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/massage-bedford-tx/
+2. dentist bedford tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/dentist-bedford-tx/
+3. car wash bedford tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/car-wash-bedford-tx/
+4. oil change bedford tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-bedford-tx/
+5. gym bedford tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/gym-bedford-tx/
+6. mechanic bedford tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/mechanic-bedford-tx/
+7. tire shop bedford tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/tire-shop-bedford-tx/
+8. vet bedford tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/vet-bedford-tx/
+9. haircut bedford tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-bedford-tx/
+10. auto repair bedford tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/auto-repair-bedford-tx/
+11. hair salon bedford tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/hair-salon-bedford-tx/
+12. attorney bedford tx | searches/mo 1,800 (est) | CPC $9.87 | value $18,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/attorney-bedford-tx/
+13. nail salon bedford tx | searches/mo 25,000 (est) | CPC $0.61 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/nail-salon-bedford-tx/
+14. barber shop bedford tx | searches/mo 17,000 (est) | CPC $0.70 | value $12,000 | Google Ads equiv $680/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/barber-shop-bedford-tx/
+15. lawyer bedford tx | searches/mo 1,200 (est) | CPC $9.87 | value $12,000 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/lawyer-bedford-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

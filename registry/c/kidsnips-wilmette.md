@@ -15,7 +15,7 @@ KidSnips is a hair salon in Wilmette, IL at 3232 Skokie Boulevard #170, Wilmette
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kidsnips-wilmette/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kidsnips-wilmette.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13099173112 (license ODbL-1.0); source data as of 2026-06-01

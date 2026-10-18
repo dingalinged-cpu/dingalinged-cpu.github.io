@@ -1,0 +1,23 @@
+Prasser-Kleczka Funeral Home is a funeral home in Milwaukee, WI at 6080 South 27th Street, Milwaukee, WI 53221. Phone: +14142826080. Website: https://www.pkfuneralhomes.com/.
+
+# Prasser-Kleczka Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 6080 South 27th Street, Milwaukee, WI 53221
+- City: Milwaukee
+- State: WI
+- ZIP: 53221
+- Coordinates: 42.9342021, -87.9485288
+- Phone: +14142826080
+- Website: https://www.pkfuneralhomes.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/prasser-kleczka-funeral-home-milwaukee-w610920127/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/prasser-kleczka-funeral-home-milwaukee-w610920127.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/610920127 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

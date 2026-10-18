@@ -15,7 +15,7 @@ HealthPartners Specialty Center 435 Building is a podiatrist in Saint Paul, MN a
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/healthpartners-specialty-center-435-building-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/healthpartners-specialty-center-435-building-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/100183925 (license ODbL-1.0); source data as of 2026-07-24

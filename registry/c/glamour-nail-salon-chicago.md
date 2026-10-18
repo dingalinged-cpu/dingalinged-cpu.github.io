@@ -15,7 +15,7 @@ Glamour Nail Salon is a nail salon in Chicago, IL at 3708 North Broadway, Chicag
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/glamour-nail-salon-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/glamour-nail-salon-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11209228078 (license ODbL-1.0); source data as of 2026-06-01

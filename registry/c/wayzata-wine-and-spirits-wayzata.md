@@ -15,7 +15,7 @@ Wayzata Wine & Spirits is a liquor store in Wayzata, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wayzata-wine-and-spirits-wayzata/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wayzata-wine-and-spirits-wayzata.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4117121581 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Knowledge Beginnings is a preschool in Glenview, IL at 2401 Compass Road, Glenvi
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/knowledge-beginnings-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/knowledge-beginnings-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/802251212 (license ODbL-1.0); source data as of 2026-07-28

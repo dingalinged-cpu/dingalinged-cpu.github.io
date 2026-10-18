@@ -15,7 +15,7 @@ William White: Allstate Insurance is an insurance agent in Burnsville, MN at 119
 - Opening hours (OSM syntax): Mon - Fri: 9:00am - 6:00pm; Sat - Sun: Closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/william-white-allstate-insurance-burnsville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/william-white-allstate-insurance-burnsville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12508880840 (license ODbL-1.0); source data as of 2026-05-31

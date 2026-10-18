@@ -15,7 +15,7 @@ Healthy Hood is a dance studio in Chicago, IL at 2242 South Damen Avenue, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/healthy-hood-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/healthy-hood-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6171193418 (license ODbL-1.0); source data as of 2026-06-01

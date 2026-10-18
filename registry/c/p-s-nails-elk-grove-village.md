@@ -15,7 +15,7 @@ P.S Nails is a nail salon in Elk Grove Village, IL at 1057 Rohlwing Road, Elk Gr
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/p-s-nails-elk-grove-village/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/p-s-nails-elk-grove-village.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1241748803 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Auto Works Inc. is an auto repair shop in Saint Louis Park, MN at 6407 West Lake
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/auto-works-inc-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/auto-works-inc-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/509546046 (license ODbL-1.0); source data as of 2026-06-01

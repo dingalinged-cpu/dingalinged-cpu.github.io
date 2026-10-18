@@ -15,7 +15,7 @@ uBreakiFix is a phone repair shop in Darien, IL at 7531 Lemont Road #B, Darien, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ubreakifix-darien/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-darien.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8989207174 (license ODbL-1.0); source data as of 2026-06-01

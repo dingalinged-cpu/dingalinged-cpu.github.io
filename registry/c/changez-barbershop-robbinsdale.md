@@ -15,7 +15,7 @@ Changez Barbershop is a hair salon in Robbinsdale, MN at 3747 West Broadway Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/changez-barbershop-robbinsdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/changez-barbershop-robbinsdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1225734290 (license ODbL-1.0); source data as of 2026-06-01

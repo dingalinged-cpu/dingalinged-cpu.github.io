@@ -15,7 +15,7 @@ Canterbury Car Wash‎ is a car wash in Shakopee, MN at 612 1st Avenue East, Sha
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/canterbury-car-wash-shakopee/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/canterbury-car-wash-shakopee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/42789259 (license ODbL-1.0); source data as of 2026-07-24

@@ -1,0 +1,23 @@
+Total Eyecare & Eyewear Gallery is an eye care practice in Denton, TX at 3111 Unicorn Lake Boulevard #Suite 100, Denton, TX 76210.
+
+# Total Eyecare & Eyewear Gallery
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: 3111 Unicorn Lake Boulevard #Suite 100, Denton, TX 76210
+- City: Denton
+- State: TX
+- ZIP: 76210
+- Coordinates: 33.1745358, -97.0964786
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/total-eyecare-and-eyewear-gallery-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/total-eyecare-and-eyewear-gallery-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9465853533 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

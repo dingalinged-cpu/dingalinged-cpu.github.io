@@ -15,7 +15,7 @@ Hair Cuttery is a hair salon in Harwood Heights, IL at 4747 North Harlem Avenue 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hair-cuttery-harwood-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hair-cuttery-harwood-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7509300905 (license ODbL-1.0); source data as of 2026-06-01

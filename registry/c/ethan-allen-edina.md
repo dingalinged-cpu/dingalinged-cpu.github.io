@@ -15,7 +15,7 @@ Ethan Allen is a furniture store in Edina, MN at 7101 France Avenue South #Suite
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 12:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ethan-allen-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ethan-allen-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12810902034 (license ODbL-1.0); source data as of 2026-06-01

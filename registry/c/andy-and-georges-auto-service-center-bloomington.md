@@ -15,7 +15,7 @@ Andy & George's Auto Service Center is an auto repair shop in Bloomington, MN at
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/andy-and-georges-auto-service-center-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/andy-and-georges-auto-service-center-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11383607533 (license ODbL-1.0); source data as of 2026-06-01

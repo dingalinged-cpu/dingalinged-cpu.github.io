@@ -15,7 +15,7 @@ Arlington Advanced Dentistry is a dentist in Arlington Heights, IL at 1845 East 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/arlington-advanced-dentistry-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/arlington-advanced-dentistry-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13173798067 (license ODbL-1.0); source data as of 2026-07-28

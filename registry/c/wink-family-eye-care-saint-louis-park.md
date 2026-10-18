@@ -15,7 +15,7 @@ Wink Family Eye Care is an eye care practice in Saint Louis Park, MN at 3840 Gra
 - Opening hours (OSM syntax): Mo,We 10:00-19:00; Tu,Th-Fr 08:00-17:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wink-family-eye-care-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wink-family-eye-care-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4124161392 (license ODbL-1.0); source data as of 2026-07-24

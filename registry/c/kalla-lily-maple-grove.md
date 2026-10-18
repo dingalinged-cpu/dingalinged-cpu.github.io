@@ -15,7 +15,7 @@ Kalla Lily is a spa in Maple Grove, MN at 9851 Maple Grove Parkway, Maple Grove,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kalla-lily-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kalla-lily-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9291222005 (license ODbL-1.0); source data as of 2026-06-01

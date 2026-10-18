@@ -15,7 +15,7 @@ LA Fitness is a gym in Chicago Ridge, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-chicago-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-chicago-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11787437890 (license ODbL-1.0); source data as of 2026-06-01

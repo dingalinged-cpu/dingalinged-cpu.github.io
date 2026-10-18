@@ -1,4 +1,4 @@
-The top unpaid haircut listing for the United States is 1 Brett Petersen @225 barbers (a barber shop in Minneapolis, MN at 225 South 6th Street #280, Minneapolis, MN 55402. Phone: +16122819084. Website: https://brett-petersen.square.site/). 1075 haircut businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for the United States is 1 Brett Petersen @225 barbers (a barber shop in Minneapolis, MN at 225 South 6th Street #280, Minneapolis, MN 55402. Phone: +16122819084. Website: https://brett-petersen.square.site/). 2387 haircut businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in the United States?
 
@@ -7,1080 +7,349 @@ Also answers: haircut in the United States; haircut near me (the United States);
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
 1. 1 Brett Petersen @225 barbers | trust 20.0 | 1 Brett Petersen @225 barbers is a barber shop in Minneapolis, MN at 225 South 6th Street #280, Minneapolis, MN 55402. Phone: +16122819084. Website: https://brett-petersen.square.site/. | https://dingalinged-cpu.github.io/registry/c/1-brett-petersen-225-barbers-minneapolis/
-2. A&O Hair Braiding | trust 20.0 | A&O Hair Braiding is a hair salon in Woodridge, IL at 8276 Janes Avenue, Woodridge, IL 60517. Phone: +16306997607. Website: https://aobraidingshop.com/. | https://dingalinged-cpu.github.io/registry/c/a-and-o-hair-braiding-woodridge/
-3. a.salon | trust 20.0 | a.salon is a hair salon in Chicago, IL at 1301 West 18th Street, Chicago, IL 60608. Phone: +13129294401. Website: https://asalonchicago.com/. | https://dingalinged-cpu.github.io/registry/c/a-salon-chicago/
-4. Africa Hair Braiding | trust 20.0 | Africa Hair Braiding is a hair salon in Chicago, IL at 102 East 47th Street, Chicago, IL 60653. Phone: +17736244405. Website: https://africahairbraiding.com/. | https://dingalinged-cpu.github.io/registry/c/africa-hair-braiding-chicago/
-5. Amber Waves | trust 20.0 | Amber Waves is a hair salon in Naperville, IL at 144 West Jefferson Avenue, Naperville, IL 60540. Phone: +16309611108. Website: https://amberwavessalon.com/. | https://dingalinged-cpu.github.io/registry/c/amber-waves-naperville/
-6. Angie's Hair Studio | trust 20.0 | Angie's Hair Studio is a hair salon in Chicago, IL at 8251 West Irving Park Road, Chicago, IL 60634. Phone: +17735894288. Website: https://www.angieshairstudio.us/. | https://dingalinged-cpu.github.io/registry/c/angies-hair-studio-chicago/
-7. Anthony Lullo's Hair Designs | trust 20.0 | Anthony Lullo's Hair Designs is a hair salon in Oak Park, IL at 721 South Boulevard, Oak Park, IL 60302. Phone: +17088484455. Website: https://anthonylullohairdesigns.com/. | https://dingalinged-cpu.github.io/registry/c/anthony-lullos-hair-designs-oak-park/
-8. Art's Barber Shop | trust 20.0 | Art's Barber Shop is a hair salon in Roseville, MN at 1129 1/2 Larpenteur Avenue West, Roseville, MN 55113. Phone: +16514891411. Website: https://artsbarbershop-barbershop.business.site/. | https://dingalinged-cpu.github.io/registry/c/arts-barber-shop-roseville/
-9. Artistic Creations | trust 20.0 | Artistic Creations is a hair salon in Naperville, IL at 22 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303575467. Website: https://www.artisticcreationssalon.com/. | https://dingalinged-cpu.github.io/registry/c/artistic-creations-naperville/
-10. Benny’s Barber Shop | trust 20.0 | Benny’s Barber Shop is a hair salon in White Bear Lake, MN at 4758 Washington Avenue, White Bear Lake, MN 55110. Phone: +16514261082. Website: https://www.bennyshaircut.com/. | https://dingalinged-cpu.github.io/registry/c/benny-s-barber-shop-white-bear-lake/
-11. Blend Salon & Skincare | trust 20.0 | Blend Salon & Skincare is a hair salon in Lisle, IL at 1111 Burlington Avenue #102, Lisle, IL 60532. Phone: +16302169296. Website: https://www.blendhairandskincare.com/. | https://dingalinged-cpu.github.io/registry/c/blend-salon-and-skincare-lisle/
-12. Blendz Barbershop | trust 20.0 | Blendz Barbershop is a barber shop in Saint Paul, MN at 741 University Avenue #2, Saint Paul, MN 55104. Phone: +16513302469. Website: https://www.facebook.com/p/Blendz-Barbershop-Mn-100063960067000/. | https://dingalinged-cpu.github.io/registry/c/blendz-barbershop-saint-paul/
-13. Boho Blonde Chicago | trust 20.0 | Boho Blonde Chicago is a hair salon in Chicago, IL at 3740 North Broadway, Chicago, IL 60613. Phone: +17738570913. Website: https://bohoblondechicago.com/. | https://dingalinged-cpu.github.io/registry/c/boho-blonde-chicago-chicago/
-14. BoRics | trust 20.0 | BoRics is a hair salon in Niles, IL at 8474 West Golf Road, Niles, IL 60714. Phone: +18474708586. Website: https://www.signaturestyle.com/locations/il/niles/borics-hair-care-golf-road-plaza-haircuts-75388. | https://dingalinged-cpu.github.io/registry/c/borics-niles/
-15. C'zar Salon & Spa | trust 20.0 | C'zar Salon & Spa is a hair salon in Naperville, IL at 237 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303573444. Website: https://czarspa.com/locations/naperville/. | https://dingalinged-cpu.github.io/registry/c/czar-salon-and-spa-naperville/
-16. Caroline's Hair Design | trust 20.0 | Caroline's Hair Design is a hair salon in Elmwood Park, IL at 12.5 Conti Parkway, Elmwood Park, IL 60707. Phone: +17084531967. Website: https://carolineshairdesign.com/. | https://dingalinged-cpu.github.io/registry/c/carolines-hair-design-elmwood-park/
-17. Charbella Salon | trust 20.0 | Charbella Salon is a hair salon in Chicago, IL at 749 West Irving Park Road, Chicago, IL 60613. Phone: +17739353373. Website: https://www.charbellasalon.com/services. | https://dingalinged-cpu.github.io/registry/c/charbella-salon-chicago/
-18. Chroma Beauty | trust 20.0 | Chroma Beauty is a hair salon in Palos Hills, IL at 10600 South Roberts Road, Palos Hills, IL 60465. Phone: +17085773776. Website: https://chroma-beauty-salon.com/. | https://dingalinged-cpu.github.io/registry/c/chroma-beauty-palos-hills/
-19. Ciara’s Hair Magic | trust 20.0 | Ciara’s Hair Magic is a hair salon in Minneapolis, MN at 4547 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +15072000511. Website: https://ciaras-hair-magic.square.site/. | https://dingalinged-cpu.github.io/registry/c/ciara-s-hair-magic-minneapolis/
-20. City Looks | trust 20.0 | City Looks is a hair salon in Roseville, MN at 1684 Lexington Avenue North, Roseville, MN 55113. Phone: +16514885559. Website: https://www.signaturestyle.com/locations/mn/roseville/city-looks-city-looks-haircuts-16702.html. | https://dingalinged-cpu.github.io/registry/c/city-looks-roseville/
-21. Clean Cuts | trust 20.0 | Clean Cuts is a hair salon in Saint Paul, MN at 1728 University Avenue, Saint Paul, MN 55104. Phone: +16519173060. Website: https://cleancutsbarbershops.com/. | https://dingalinged-cpu.github.io/registry/c/clean-cuts-saint-paul/
-22. Coil and Bloom at Image Studios | trust 20.0 | Coil and Bloom at Image Studios is a hair salon in Chicago, IL at 460 West Chicago Avenue #135, Chicago, IL 60654. Phone: +12246318979. Website: https://coilandbloom.com/. | https://dingalinged-cpu.github.io/registry/c/coil-and-bloom-at-image-studios-chicago/
-23. Company Bliss Salon | trust 20.0 | Company Bliss Salon is a hair salon in Naperville, IL at 1160 East Ogden Avenue #104, Naperville, IL 60563. Phone: +13314724747. Website: https://www.companyblisssalon.com/. | https://dingalinged-cpu.github.io/registry/c/company-bliss-salon-naperville/
-24. Dick's Sports Barbers | trust 20.0 | Dick's Sports Barbers is a barber shop in Edina, MN at 4404 France Avenue South, Edina, MN 55410. Phone: +19529266924. Website: https://www.dicksbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/dicks-sports-barbers-edina/
-25. Doll Revolution | trust 20.0 | Doll Revolution is a hair salon in Chicago, IL at 3635 West Montrose Avenue, Chicago, IL 60618. Phone: +17737705908. Website: https://www.iamdollrevolution.com/. | https://dingalinged-cpu.github.io/registry/c/doll-revolution-chicago/
-26. Element Barbershop | trust 20.0 | Element Barbershop is a barber shop in Buffalo Grove, IL at 1142 Lake Cook Road, Buffalo Grove, IL 60089. Phone: +12245845072. Website: https://element-barbershop.com/. | https://dingalinged-cpu.github.io/registry/c/element-barbershop-buffalo-grove/
-27. Elite Salon Suites | trust 20.0 | Elite Salon Suites is a hair salon in Plymouth, MN at 10700 Highway 55 #100, Plymouth, MN 55441. Phone: +16124045588. Website: https://elite-salons.com/. | https://dingalinged-cpu.github.io/registry/c/elite-salon-suites-plymouth/
-28. EnhancingJay | trust 20.0 | EnhancingJay is a barber shop in Maywood, IL at 1200 South 17th Avenue, Maywood, IL 60153. Phone: +17089657758. Website: https://enhancingjay.square.site/. | https://dingalinged-cpu.github.io/registry/c/enhancingjay-maywood/
-29. Eugenija's Hair Design | trust 20.0 | Eugenija's Hair Design is a hair salon in Naperville, IL at 929 East Ogden Avenue #115, Naperville, IL 60563. Phone: +16305480100. Website: https://www.eugenijashairdesign.com/. | https://dingalinged-cpu.github.io/registry/c/eugenijas-hair-design-naperville/
-30. Fantastic Sams | trust 20.0 | Fantastic Sams is a hair salon in Naperville, IL at 8 West Gartner Road #136, Naperville, IL 60540. Phone: +16303552168. Website: https://www.fantasticsams.com/about/regions/chicago-il/fantastic-sams-naperville-il. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-naperville/
-31. Fantastic Sams | trust 20.0 | Fantastic Sams is a hair salon in Roseville, MN at 1750 Lexington Avenue North #Ste B, Roseville, MN 55113. Phone: +16513407281. Website: https://www.fantasticsams.com/about/regions/minneapolis-st-paul-mn/fantastic-sams-roseville-mn-0. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-roseville/
-32. Flawless Presentations | trust 20.0 | Flawless Presentations is a hair salon in Saint Paul, MN at 1199 North Albemarle Street, Saint Paul, MN 55117. Phone: +16514872887. Website: https://flawlesspresentation.com/. | https://dingalinged-cpu.github.io/registry/c/flawless-presentations-saint-paul/
-33. Floyd's 99 Barbershop | trust 20.0 | Floyd's 99 Barbershop is a hair salon in Minneapolis, MN at 1220 West Lake Street, Minneapolis, MN 55408. Phone: +16128222240. Website: https://www.floydsbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-minneapolis/
-34. Floyd's Barber Shop | trust 20.0 | Floyd's Barber Shop is a hair salon in Naperville, IL at 20 East Jefferson Avenue, Naperville, IL 60540. Phone: +13312485247. Website: https://www.floydsbarbershop.com/naperville/. | https://dingalinged-cpu.github.io/registry/c/floyds-barber-shop-naperville/
-35. Forbici | trust 20.0 | Forbici is a hair salon in Arlington Heights, IL at 7 South Highland Avenue, Arlington Heights, IL 60005. Phone: +18473982887. Website: https://www.forbicisalonandspa.com/. | https://dingalinged-cpu.github.io/registry/c/forbici-arlington-heights/
-36. Freshly Cut Barbers | trust 20.0 | Freshly Cut Barbers is a barber shop in Minneapolis, MN at 4555 34th Avenue South, Minneapolis, MN 55406. Phone: +16127244677. Website: https://freshlycutbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/freshly-cut-barbers-minneapolis/
-37. Gente Bella Beauty Salon Inc | trust 20.0 | Gente Bella Beauty Salon Inc is a hair salon in Chicago, IL at 4346 West 26th Street, Chicago, IL 60623. Phone: +17739401170. Website: https://haircoloringchicago.com/. | https://dingalinged-cpu.github.io/registry/c/gente-bella-beauty-salon-inc-chicago/
-38. Gifted Barbershop | trust 20.0 | Gifted Barbershop is a barber shop in Bloomington, MN at 7700 West Old Shakopee Road #210, Bloomington, MN 55438. Phone: +19525824817. Website: https://www.giftedbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/gifted-barbershop-bloomington/
-39. Global Braids and Hair Salon | trust 20.0 | Global Braids and Hair Salon is a hair salon in Saint Paul, MN at 1821 University Avenue, Saint Paul, MN 55104. Phone: +16516465854. Website: https://www.globalbraidsalon.com/. | https://dingalinged-cpu.github.io/registry/c/global-braids-and-hair-salon-saint-paul/
-40. Golden Cuts Barber Shop | trust 20.0 | Golden Cuts Barber Shop is a barber shop in Oak Lawn, IL at 9546 Southwest Highway, Oak Lawn, IL 60453. Phone: +17084152778. Website: https://goldencuts.online/. | https://dingalinged-cpu.github.io/registry/c/golden-cuts-barber-shop-oak-lawn/
-41. Good Barbers Barbershop | trust 20.0 | Good Barbers Barbershop is a barber shop in Oak Forest, IL at 15524 S Cicero Avenue #Suite 1B, Oak Forest, IL 60452. Phone: +17085778524. Website: https://donxbarber.booksy.com/a/. | https://dingalinged-cpu.github.io/registry/c/good-barbers-barbershop-oak-forest/
-42. Great Clips | trust 20.0 | Great Clips is a hair salon in Coon Rapids, MN at 2032 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17638624015. Website: https://salons.greatclips.com/us/mn/coon-rapids/2032-northdale-blvd. | https://dingalinged-cpu.github.io/registry/c/great-clips-coon-rapids-n9191803479/
-43. Great Clips | trust 20.0 | Great Clips is a hair salon in Eagan, MN at 1380 Duckwood Drive, Eagan, MN 55123. Phone: +16514529676. Website: https://salons.greatclips.com/us/mn/eagan/1380-duckwood-dr. | https://dingalinged-cpu.github.io/registry/c/great-clips-eagan/
-44. Great Clips | trust 20.0 | Great Clips is a hair salon in Eagan, MN at 1016 Diffley Road #200, Eagan, MN 55123. Phone: +16514056740. Website: https://www.greatclips.com/. | https://dingalinged-cpu.github.io/registry/c/great-clips-eagan-n9464286591/
-45. Great Clips | trust 20.0 | Great Clips is a hair salon in Homer Glen, IL at 14230 South Bell Road, Homer Glen, IL 60491. Phone: +17083018299. Website: https://www.greatclips.com/salons/2158. | https://dingalinged-cpu.github.io/registry/c/great-clips-homer-glen/
-46. Great Clips | trust 20.0 | Great Clips is a hair salon in Maple Grove, MN at 13550 Grove Drive North, Maple Grove, MN 55311. Phone: +17634207800. Website: https://www.greatclips.com/. | https://dingalinged-cpu.github.io/registry/c/great-clips-maple-grove-w610036228/
-47. Great Clips | trust 20.0 | Great Clips is a hair salon in Minneapolis, MN at 1312 Southeast 5th Street, Minneapolis, MN 55414. Phone: +16123790430. Website: https://www.greatclips.com/. | https://dingalinged-cpu.github.io/registry/c/great-clips-minneapolis-n4343817369/
-48. Great Clips | trust 20.0 | Great Clips is a hair salon in Minnetonka, MN at 4761 County Road 101, Minnetonka, MN 55345. Phone: +19529330019. Website: https://salons.greatclips.com/. | https://dingalinged-cpu.github.io/registry/c/great-clips-minnetonka/
-49. Great Clips | trust 20.0 | Great Clips is a hair salon in Naperville, IL at 967 West 75th Street #107, Naperville, IL 60565. Phone: +16307170976. Website: https://salons.greatclips.com/us/il/naperville/967-w-75th-st. | https://dingalinged-cpu.github.io/registry/c/great-clips-naperville/
-50. Great Clips | trust 20.0 | Great Clips is a hair salon in Naperville, IL at 1552 North Aurora Road #110, Naperville, IL 60563. Phone: +16309615088. Website: https://salons.greatclips.com/us/il/naperville/1552-n-aurora-rd. | https://dingalinged-cpu.github.io/registry/c/great-clips-naperville-w1102263883/
-51. Great Clips | trust 20.0 | Great Clips is a hair salon in Roseville, MN at 1789 Lexington Avenue North, Roseville, MN 55113. Phone: +16514885918. Website: https://www.greatclips.com/salons/8916. | https://dingalinged-cpu.github.io/registry/c/great-clips-roseville/
-52. Great Clips | trust 20.0 | Great Clips is a hair salon in Saint Louis Park, MN at 8136 Minnesota State Highway 7, Saint Louis Park, MN 55426. Phone: +19529337525. Website: https://salons.greatclips.com/us/mn/st-louis-park/8136-hwy-7. | https://dingalinged-cpu.github.io/registry/c/great-clips-saint-louis-park-n2249045442/
-53. Great Clips | trust 20.0 | Great Clips is a hair salon in Shorewood, MN at 23760 Minnesota State Highway 7, Shorewood, MN 55331. Phone: +19524705390. Website: https://salons.greatclips.com/us/mn/shorewood/23760-highway-7. | https://dingalinged-cpu.github.io/registry/c/great-clips-shorewood/
-54. Great Clips | trust 20.0 | Great Clips is a hair salon in Wauconda, IL at 563 West Liberty Street, Wauconda, IL 60084. Phone: +18474874177. Website: https://salons.greatclips.com/us/il/wauconda/563-w-liberty-st. | https://dingalinged-cpu.github.io/registry/c/great-clips-wauconda/
-55. Hair Cuttery | trust 20.0 | Hair Cuttery is a hair salon in Naperville, IL at 215 East Ogden Avenue #105, Naperville, IL 60563. Phone: +16303053226. Website: https://locations.haircuttery.com/il/naperville/215-east-ogden-avenue-suite-105.html. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-naperville/
-56. Hair District | trust 20.0 | Hair District is a hair salon in Saint Louis Park, MN at 3725 Grand Way, Saint Louis Park, MN 55416. Phone: +19529296900. Website: https://www.thehairdistrict.com/st-louis-park/. | https://dingalinged-cpu.github.io/registry/c/hair-district-saint-louis-park/
-57. Hair Is II | trust 20.0 | Hair Is II is a hair salon in Minneapolis, MN at 2201 Nicollet Avenue, Minneapolis, MN 55404. Phone: +16128726688. Website: https://www.hairisii.com/. | https://dingalinged-cpu.github.io/registry/c/hair-is-ii-minneapolis/
-58. Hairazors Salon | trust 20.0 | Hairazors Salon is a hair salon in Shorewood, MN at 23690 Minnesota State Highway 7, Shorewood, MN 55331. Phone: +19524010207. Website: https://hairazorssalon.spacecrafted.com/. | https://dingalinged-cpu.github.io/registry/c/hairazors-salon-shorewood/
-59. Head to Toe | trust 20.0 | Head to Toe is a hair salon in Minneapolis, MN at 2445 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128710303. Website: https://locu.com/. | https://dingalinged-cpu.github.io/registry/c/head-to-toe-minneapolis/
-60. Henczel's Barber Shop | trust 20.0 | Henczel's Barber Shop is a hair salon in Naperville, IL at 109 Jackson Avenue, Naperville, IL 60540. Phone: +16303554847. Website: https://downtownnaperville.com/business/henczels-barber-shop/. | https://dingalinged-cpu.github.io/registry/c/henczels-barber-shop-naperville/
-61. Hour Rose Salon | trust 20.0 | Hour Rose Salon is a hair salon in Saint Louis Park, MN at 6600 West Lake Street, Saint Louis Park, MN 55426. Phone: +16122327805. Website: https://www.hourrosesalon.com/. | https://dingalinged-cpu.github.io/registry/c/hour-rose-salon-saint-louis-park/
-62. Isbbar Salon | trust 20.0 | Isbbar Salon is a hair salon in Orland Park, IL at 14724 South La Grange Road #19, Orland Park, IL 60462. Phone: +16302832101. Website: https://www.isbbarsalon.com/. | https://dingalinged-cpu.github.io/registry/c/isbbar-salon-orland-park/
-63. Jadé Salon | trust 20.0 | Jadé Salon is a hair salon in Oakdale, MN at 5711 Hadley Avenue North, Oakdale, MN 55128. Phone: +16517797447. Website: https://jadesalonmn.com/. | https://dingalinged-cpu.github.io/registry/c/jad-salon-oakdale/
-64. Juut Salonspa | trust 20.0 | Juut Salonspa is a hair salon in Saint Paul, MN at 791 Grand Avenue, Saint Paul, MN 55105. Phone: +16512224121. Website: https://juut.com/locations/saint-paul-salon-spa/. | https://dingalinged-cpu.github.io/registry/c/juut-salonspa-saint-paul/
-65. Kiddo Cuts | trust 20.0 | Kiddo Cuts is a hair salon in Lombard, IL at 157H Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16308270300. Website: https://kiddocuts.com/. | https://dingalinged-cpu.github.io/registry/c/kiddo-cuts-lombard/
-66. KidSnips Lincoln Park | trust 20.0 | KidSnips Lincoln Park is a hair salon in Chicago, IL at 1953 North Clybourn Avenue #F, Chicago, IL 60614. Phone: +17739359999. Website: https://kidsnips.com/. | https://dingalinged-cpu.github.io/registry/c/kidsnips-lincoln-park-chicago/
-67. Lee's Barbershop | trust 20.0 | Lee's Barbershop is a hair salon in Naperville, IL at 1010 North Washington Street #B, Naperville, IL 60563. Phone: +16303553936. Website: https://lees64barbershop.com/. | https://dingalinged-cpu.github.io/registry/c/lees-barbershop-naperville/
-68. Legendary Fades | trust 20.0 | Legendary Fades is a hair salon in Villa Park, IL at 1019 North Avenue, Villa Park, IL 60181. Phone: +16307856972. Website: https://www.legendaryfades.com/. | https://dingalinged-cpu.github.io/registry/c/legendary-fades-villa-park/
-69. Luxhair US | trust 20.0 | Luxhair US is a hair salon in Arlington Heights, IL at 4236 Terramere Plaza, Arlington Heights, IL 60004. Phone: +12242772538. Website: https://luxhairusllc.com/. | https://dingalinged-cpu.github.io/registry/c/luxhair-us-arlington-heights/
-70. LV's Barber Shop | trust 20.0 | LV's Barber Shop is a barber shop in Minneapolis, MN at 2518 Northeast Central Avenue, Minneapolis, MN 55418. Phone: +16127216551. Website: https://lvsbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/lvs-barber-shop-minneapolis/
-71. Lyn-Lake Barbershop | trust 20.0 | Lyn-Lake Barbershop is a hair salon in Minneapolis, MN at 3019 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128226584. Website: https://www.lyn-lakebarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/lyn-lake-barbershop-minneapolis/
-72. MACKHARD Barber Shop | trust 20.0 | MACKHARD Barber Shop is a hair salon in Naperville, IL at 25 South Washington Street #100, Naperville, IL 60540. Phone: +13312319863. Website: https://mackhard.com/. | https://dingalinged-cpu.github.io/registry/c/mackhard-barber-shop-naperville/
-73. Max & Co Hair Designs | trust 20.0 | Max & Co Hair Designs is a hair salon in Chicago, IL at 1453 East Hyde Park Boulevard, Chicago, IL 60615. Phone: +17732882255. Website: https://max-co-hair-design.edan.io/. | https://dingalinged-cpu.github.io/registry/c/max-and-co-hair-designs-chicago/
-74. Merchant & Rhoades | trust 20.0 | Merchant & Rhoades is a hair salon in Chicago, IL at 900 North Michigan Avenue, Chicago, IL 60611. Phone: +13123372525. Website: https://merchantandrhoades.com/. | https://dingalinged-cpu.github.io/registry/c/merchant-and-rhoades-chicago/
-75. Misano Salon | trust 20.0 | Misano Salon is a hair salon in Arlington Heights, IL at 1434 East Hintz Road, Arlington Heights, IL 60004. Phone: +18475779005. Website: https://www.misanosalon.com/. | https://dingalinged-cpu.github.io/registry/c/misano-salon-arlington-heights/
-76. Nela's Beauty Salon | trust 20.0 | Nela's Beauty Salon is a hair salon in Norridge, IL at 8542 West Lawrence Avenue, Norridge, IL 60706. Phone: +17737069348. Website: https://nelasbeautysalon.com/. | https://dingalinged-cpu.github.io/registry/c/nelas-beauty-salon-norridge/
-77. Neo Bella Salon | trust 20.0 | Neo Bella Salon is a hair salon in Naperville, IL at 1292 Rickert Drive #136, Naperville, IL 60540. Phone: +16307178966. Website: https://neobellasalon.com/. | https://dingalinged-cpu.github.io/registry/c/neo-bella-salon-naperville/
-78. Nine Keys Apothecary | trust 20.0 | Nine Keys Apothecary is a hair salon in Minneapolis, MN at 4547 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +16124058413. Website: https://www.ninekeysapothecary.com/. | https://dingalinged-cpu.github.io/registry/c/nine-keys-apothecary-minneapolis/
-79. Northbrook Barber Shop | trust 20.0 | Northbrook Barber Shop is a hair salon in Northbrook, IL at 1519 Shermer Road, Northbrook, IL 60062. Phone: +18472723880. Website: https://www.northbrookbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/northbrook-barber-shop-northbrook/
-80. Old Town Barbershop | trust 20.0 | Old Town Barbershop is a hair salon in Chicago, IL at 630 West Lake Street, Chicago, IL 60661. Phone: +13127865044. Website: https://www.oldtownbarbershopchicago.com/. | https://dingalinged-cpu.github.io/registry/c/old-town-barbershop-chicago-n11673117989/
-81. Planet Color Hair Salon | trust 20.0 | Planet Color Hair Salon is a hair salon in Frankfort, IL at 10179 West Lincoln Hwy, Frankfort, IL 60423. Phone: +17084798966. Website: https://planetcolorsalonandsuites.com/. | https://dingalinged-cpu.github.io/registry/c/planet-color-hair-salon-frankfort/
-82. R Barber Shoppe & Salon | trust 20.0 | R Barber Shoppe & Salon is a barber shop in Chicago, IL at 4757 North Clark Street, Chicago, IL 60640. Phone: +17736810616. Website: https://rbarbershoppeandsalon.com/. | https://dingalinged-cpu.github.io/registry/c/r-barber-shoppe-and-salon-chicago/
-83. Razor Cuts Barber Shop | trust 20.0 | Razor Cuts Barber Shop is a barber shop in Tinley Park, IL at 15958 South Harlem Ave, Tinley Park, IL 60477. Phone: +17089003373. Website: https://razorcutstinleypark.com/. | https://dingalinged-cpu.github.io/registry/c/razor-cuts-barber-shop-tinley-park/
-84. Saints Coast Barber Shop | trust 20.0 | Saints Coast Barber Shop is a barber shop in Saint Paul, MN at 666 7th Street West, Saint Paul, MN 55102. Phone: +16512212413. Website: https://saintscoast.com/. | https://dingalinged-cpu.github.io/registry/c/saints-coast-barber-shop-saint-paul/
-85. Salam Barber | trust 20.0 | Salam Barber is a barber shop in Minneapolis, MN at 2215 Northeast Central Avenue, Minneapolis, MN 55418. Phone: +16127813956. Website: https://salaambarber.com/. | https://dingalinged-cpu.github.io/registry/c/salam-barber-minneapolis/
-86. Salon 51 | trust 20.0 | Salon 51 is a hair salon in Norridge, IL at 7539 West Montrose Avenue, Norridge, IL 60706. Phone: +17737751424. Website: https://app.salonrunner.com/customer/login.htm?id=28460. | https://dingalinged-cpu.github.io/registry/c/salon-51-norridge/
-87. Salon de Vive | trust 20.0 | Salon de Vive is a hair salon in Chicago, IL at 2137 West Belmont Avenue, Chicago, IL 60618. Phone: +17734777535. Website: https://places.singleplatform.com/salon-de-vive/menu?ref=google. | https://dingalinged-cpu.github.io/registry/c/salon-de-vive-chicago/
-88. Salon George | trust 20.0 | Salon George is a hair salon in Saint Paul, MN at 856 Raymond Avenue #A, Saint Paul, MN 55114. Phone: +16513791414. Website: https://www.salongeorgestpaul.com/. | https://dingalinged-cpu.github.io/registry/c/salon-george-saint-paul/
-89. Salon Sen | trust 20.0 | Salon Sen is a hair salon in Chicago, IL at 3740 North Halsted Street, Chicago, IL 60613. Phone: +17738571999. Website: https://www.salonsen.com/. | https://dingalinged-cpu.github.io/registry/c/salon-sen-chicago/
-90. Salon Yangmi | trust 20.0 | Salon Yangmi is a hair salon in Niles, IL at 9620 North Milwaukee Avenue, Niles, IL 60714. Phone: +18478272662. Website: https://www.salonyangmi.com/. | https://dingalinged-cpu.github.io/registry/c/salon-yangmi-niles/
-91. SalonCentric | trust 20.0 | SalonCentric is a hair salon in Naperville, IL at 620 East Ogden Avenue, Naperville, IL 60563. Phone: +16307787760. Website: https://stores.saloncentric.com/il/naperville/4123. | https://dingalinged-cpu.github.io/registry/c/saloncentric-naperville/
-92. Sanchez Barber Shop | trust 20.0 | Sanchez Barber Shop is a hair salon in Chicago, IL at 907 West Irving Park Road, Chicago, IL 60613. Phone: +17733276035. Website: https://sanchezbarbershop.business.site/. | https://dingalinged-cpu.github.io/registry/c/sanchez-barber-shop-chicago/
-93. Sanctuary Salonspa | trust 20.0 | Sanctuary Salonspa is a hair salon in Excelsior, MN at 5647 Manitou Road, Excelsior, MN 55331. Phone: +19524744412. Website: https://www.sanctuaryspa.com/locations/tonka-bay/. | https://dingalinged-cpu.github.io/registry/c/sanctuary-salonspa-excelsior/
-94. Sloane's Beauty Bar | trust 20.0 | Sloane's Beauty Bar is a hair salon in Edina, MN at 4388 France Avenue South, Edina, MN 55410. Phone: +16129203341. Website: https://www.sloanesbeautybar.com/. | https://dingalinged-cpu.github.io/registry/c/sloanes-beauty-bar-edina/
-95. Sola Salon Studios | trust 20.0 | Sola Salon Studios is a hair salon in Minneapolis, MN at 3034 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +17632589675. Website: https://www.solasalonstudios.com/. | https://dingalinged-cpu.github.io/registry/c/sola-salon-studios-minneapolis/
-96. Sport Clips | trust 20.0 | Sport Clips is a hair salon in Bloomingdale, IL at 383 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16308939510. Website: https://sportclips.com/us-il-bloomingdale-il105. | https://dingalinged-cpu.github.io/registry/c/sport-clips-bloomingdale/
-97. Sport Clips | trust 20.0 | Sport Clips is a hair salon in Bolingbrook, IL at 139 North Weber Road, Bolingbrook, IL 60490. Phone: +16307710007. Website: https://haircutmenlandingsofbolingbrookil.com/. | https://dingalinged-cpu.github.io/registry/c/sport-clips-bolingbrook-w998234261/
-98. Sport Clips | trust 20.0 | Sport Clips is a hair salon in Eagan, MN at 1270 Promenade Place, Eagan, MN 55121. Phone: +16514521232. Website: https://sportclips.com/us-mn-eagan-mn109. | https://dingalinged-cpu.github.io/registry/c/sport-clips-eagan/
-99. Sport Clips | trust 20.0 | Sport Clips is a hair salon in Homer Glen, IL at 14005 South Bell Road, Homer Glen, IL 60491. Phone: +17086457005. Website: https://haircutmenhomerglenil.com/. | https://dingalinged-cpu.github.io/registry/c/sport-clips-homer-glen/
-100. Studio Q at Salon Lofts | trust 20.0 | Studio Q at Salon Lofts is a hair salon in Hoffman Estates, IL at 977 North Roselle Road #15, Hoffman Estates, IL 60169. Phone: +18474952050. Website: https://salonlofts.com/studio_q_salon_nicole_q. | https://dingalinged-cpu.github.io/registry/c/studio-q-at-salon-lofts-hoffman-estates/
-101. Suite Hub | trust 20.0 | Suite Hub is a hair salon in New Lenox, IL at 352 West Maple Street, New Lenox, IL 60451. Phone: +17089060641. Website: https://mysuitehub.com/. | https://dingalinged-cpu.github.io/registry/c/suite-hub-new-lenox/
-102. Tafoya Salon | trust 20.0 | Tafoya Salon is a hair salon in Coon Rapids, MN at 2160 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17634270511. Website: https://tafoyasalon.info/. | https://dingalinged-cpu.github.io/registry/c/tafoya-salon-coon-rapids/
-103. Talisman Hair Studio | trust 20.0 | Talisman Hair Studio is a hair salon in Maple Grove, MN at 8125 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634209533. Website: https://talismanhairstudio.com/. | https://dingalinged-cpu.github.io/registry/c/talisman-hair-studio-maple-grove/
-104. The Beauty Lounge Minneapolis | trust 20.0 | The Beauty Lounge Minneapolis is a hair salon in Minneapolis, MN at 3501 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16122279363. Website: https://mplsbeautylounge.com/. | https://dingalinged-cpu.github.io/registry/c/the-beauty-lounge-minneapolis-minneapolis/
-105. The Braid Factory | trust 20.0 | The Braid Factory is a hair salon in Minneapolis, MN at 4600 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16128242243. Website: https://www.braidfactorymn.com/. | https://dingalinged-cpu.github.io/registry/c/the-braid-factory-minneapolis/
-106. The Chair | trust 20.0 | The Chair is a hair salon in Minneapolis, MN at 3255 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128232900. Website: https://www.chairsalon.com/. | https://dingalinged-cpu.github.io/registry/c/the-chair-minneapolis/
-107. The Fade Goat | trust 20.0 | The Fade Goat is a barber shop in Minneapolis, MN at 2329 Hennepin Avenue Bikeway #1, Minneapolis, MN 55405. Phone: +16127187704. Website: https://www.thefadegoat.com/. | https://dingalinged-cpu.github.io/registry/c/the-fade-goat-minneapolis/
-108. The Golden Touch Studios | trust 20.0 | The Golden Touch Studios is a hair salon in Joliet, IL at 151 Springfield Avenue #8H, Joliet, IL 60435. Phone: +17088647707. Website: https://thegoldentouchstudiosil.com/. | https://dingalinged-cpu.github.io/registry/c/the-golden-touch-studios-joliet/
-109. The Hair District | trust 20.0 | The Hair District is a hair salon in Eden Prairie, MN at 12573 Castlemoor Drive, Eden Prairie, MN 55344. Phone: +19529035353. Website: https://www.thehairdistrict.com/. | https://dingalinged-cpu.github.io/registry/c/the-hair-district-eden-prairie/
-110. Tiara Salon & Spa | trust 20.0 | Tiara Salon & Spa is a hair salon in Lake Forest, IL at 1385 North Western Avenue, Lake Forest, IL 60045. Phone: +18472348211. Website: https://tiarasalon.com/. | https://dingalinged-cpu.github.io/registry/c/tiara-salon-and-spa-lake-forest/
-111. Tillverkare | trust 20.0 | Tillverkare is a hair salon in Saint Louis Park, MN at 4608 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16129292381. Website: https://www.tillverkareforhair.com/. | https://dingalinged-cpu.github.io/registry/c/tillverkare-saint-louis-park/
-112. Tricoci Salon & Spa | trust 20.0 | Tricoci Salon & Spa is a hair salon in Naperville, IL at 1512 Naper Boulevard, Naperville, IL 60563. Phone: +18472021900. Website: https://www.tricoci.com/pages/naperville. | https://dingalinged-cpu.github.io/registry/c/tricoci-salon-and-spa-naperville/
-113. Twin Cities Barber Co | trust 20.0 | Twin Cities Barber Co is a hair salon in Minneapolis, MN at 3745 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +16123610801. Website: https://tcbarberco.com/. | https://dingalinged-cpu.github.io/registry/c/twin-cities-barber-co-minneapolis/
-114. Upscale Male | trust 20.0 | Upscale Male is a hair salon in Naperville, IL at 1935 95th Street #123, Naperville, IL 60564. Phone: +16303642085. Website: https://www.upscalemale.com/. | https://dingalinged-cpu.github.io/registry/c/upscale-male-naperville/
-115. Waleed Barber Shop | trust 20.0 | Waleed Barber Shop is a hair salon in Naperville, IL at 1220 West Ogden Avenue #E, Naperville, IL 60563. Phone: +16308547499. Website: https://waleedbarbershop.wordpress.com/. | https://dingalinged-cpu.github.io/registry/c/waleed-barber-shop-naperville/
-116. Willow Salon | trust 20.0 | Willow Salon is a hair salon in Maple Grove, MN at 13555 Grove Drive North, Maple Grove, MN 55311. Phone: +17634940399. Website: https://www.thewillowsalon.com/. | https://dingalinged-cpu.github.io/registry/c/willow-salon-maple-grove/
-117. Faded | trust 19.0 | Faded is a barber shop in Saint Paul, MN at 2227 University Avenue West #106, Saint Paul, MN. Phone: +16513136298. Website: https://fadedtwincities.com/stpaul. | https://dingalinged-cpu.github.io/registry/c/faded-saint-paul/
-118. Great Clips | trust 19.0 | Great Clips is a hair salon in Roseville, MN at 2401 Fairview Avenue North, Roseville, MN. Phone: +16516390665. Website: https://salons.greatclips.com/us/mn/roseville/2401-fairview-ave-n. | https://dingalinged-cpu.github.io/registry/c/great-clips-roseville-n12994941463/
-119. Great Clips | trust 19.0 | Great Clips is a hair salon in Saint Anthony, MN at 3916 Silver Lake Road Northeast, Saint Anthony, MN. Phone: +16127884971. Website: https://salons.greatclips.com/us/mn/saint-anthony/3916-silver-lake-rd. | https://dingalinged-cpu.github.io/registry/c/great-clips-saint-anthony/
-120. Juut | trust 19.0 | Juut is a hair salon in Roseville, MN at 1641 West County Road C, Roseville, MN. Phone: +16516390576. Website: https://juut.com/locations/roseville/. | https://dingalinged-cpu.github.io/registry/c/juut-roseville/
-121. Old Town Barbershop | trust 19.0 | Old Town Barbershop is a hair salon in Chicago, IL at 1339 North Wells Street, Chicago, IL. Phone: +13125733809. Website: https://oldtownbarbershopchicago.com/. | https://dingalinged-cpu.github.io/registry/c/old-town-barbershop-chicago/
-122. Pusch Salon | trust 19.0 | Pusch Salon is a hair salon in Saint Paul, MN at 2040 Marshall Avenue, Saint Paul, MN. Phone: +16519170154. Website: https://www.puschsalon.com/. | https://dingalinged-cpu.github.io/registry/c/pusch-salon-saint-paul/
-123. Sport Clips | trust 19.0 | Sport Clips is a hair salon in Bannockburn, IL at 2563 Waukegan Road, Bannockburn, IL. Phone: +18479140200. Website: https://sportclips.com/us-il-bannockburn-il143. | https://dingalinged-cpu.github.io/registry/c/sport-clips-bannockburn/
-124. 18|8 Fine Men's Salon | trust 16.0 | 18|8 Fine Men's Salon is a hair salon in Naperville, IL at 1763 Freedom Drive #109, Naperville, IL 60563. Phone: +16304571880. Website: https://www.188finemenssalonil.com/. | https://dingalinged-cpu.github.io/registry/c/18-8-fine-mens-salon-naperville/
-125. Allen L Salon | trust 16.0 | Allen L Salon is a hair salon in Saint Paul, MN at 1824 Grand Avenue, Saint Paul, MN 55105. Phone: +16516995266. Website: https://www.allenlsalon.com/. | https://dingalinged-cpu.github.io/registry/c/allen-l-salon-saint-paul/
-126. Andy's Hair Studio | trust 16.0 | Andy's Hair Studio is a hair salon in Chicago, IL at 1421 South Wabash Avenue, Chicago, IL 60605. Phone: +13126758295. Website: https://www.yelp.com/biz/andys-hair-studio-chicago. | https://dingalinged-cpu.github.io/registry/c/andys-hair-studio-chicago/
-127. Antonia's Beauty Salon | trust 16.0 | Antonia's Beauty Salon is a hair salon in Chicago, IL at 3525 South Halsted Street, Chicago, IL 60609. Phone: +17738475236. Website: https://www.antoniasbeautysalon.com/. | https://dingalinged-cpu.github.io/registry/c/antonias-beauty-salon-chicago/
-128. Barbara & Barbara | trust 16.0 | Barbara & Barbara is a hair salon in Chicago, IL. Phone: +17733846244. Website: https://www.barbaraandbarbara.com/. | https://dingalinged-cpu.github.io/registry/c/barbara-and-barbara-chicago/
-129. Barbers In the Park | trust 16.0 | Barbers In the Park is a hair salon in Saint Louis Park, MN at 7124 Minnetonka Boulevard, Saint Louis Park, MN 55426. Phone: +19529266633. Website: https://www.facebook.com/BarbersInThePark/. | https://dingalinged-cpu.github.io/registry/c/barbers-in-the-park-saint-louis-park/
-130. Bird & Belle Salon | trust 16.0 | Bird & Belle Salon is a hair salon in Naperville, IL at 303 North Center Street, Naperville, IL 60540. Phone: +16309814815. Website: https://www.birdandbellesalon.com/. | https://dingalinged-cpu.github.io/registry/c/bird-and-belle-salon-naperville/
-131. Bonitas Extensions and Braids | trust 16.0 | Bonitas Extensions and Braids is a hair salon in Minneapolis, MN at 2441 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16127221152. Website: https://www.bonitasextensions.com/. | https://dingalinged-cpu.github.io/registry/c/bonitas-extensions-and-braids-minneapolis/
-132. Bria Monet | trust 16.0 | Bria Monet is a hair salon in Westchester, IL at 1900 South Mannheim Road, Westchester, IL 60154. Phone: +17734945406. Website: https://briamonet.square.site/. | https://dingalinged-cpu.github.io/registry/c/bria-monet-westchester/
-133. Christopher Anthony Salon | trust 16.0 | Christopher Anthony Salon is a hair salon in Schaumburg, IL at 601 North Martingale Road #Suite 100, Schaumburg, IL 60173. Phone: +18476195739. Website: https://christopheranthonysalon.com/. | https://dingalinged-cpu.github.io/registry/c/christopher-anthony-salon-schaumburg/
-134. Classic Clippers Barbershop | trust 16.0 | Classic Clippers Barbershop is a barber shop in Burbank, IL at 5908 West 87th Street, Burbank, IL 60459. Phone: +17089317583. Website: https://classicclippersbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/classic-clippers-barbershop-burbank/
-135. Cosmos Hair Design | trust 16.0 | Cosmos Hair Design is a hair salon in Naperville, IL at 610 East Ogden Avenue, Naperville, IL 60563. Phone: +16303550435. Website: https://cosmoshairdesign.net/. | https://dingalinged-cpu.github.io/registry/c/cosmos-hair-design-naperville/
-136. Definition Barbershop | trust 16.0 | Definition Barbershop is a barber shop in Chicago, IL at 2245 North Western Avenue, Chicago, IL 60647. Phone: +17737703821. Website: https://definitionbarbershop.business.site/. | https://dingalinged-cpu.github.io/registry/c/definition-barbershop-chicago/
-137. Design Zone | trust 16.0 | Design Zone is a hair salon in Riverside, IL at 354 East Burlington Street, Riverside, IL 60546. Phone: +17084471030. Website: https://www.instagram.com/designzone001/. | https://dingalinged-cpu.github.io/registry/c/design-zone-riverside/
-138. Elegante Salon & Day Spa | trust 16.0 | Elegante Salon & Day Spa is a hair salon in Naperville, IL at 15 South Naper Boulevard, Naperville, IL 60540. Phone: +16303559700. Website: https://www.elegantesalons-spas.com/. | https://dingalinged-cpu.github.io/registry/c/elegante-salon-and-day-spa-naperville/
-139. Fantastic Sams | trust 16.0 | Fantastic Sams is a hair salon in New Lenox, IL at 280 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154621755. Website: https://www.fantasticsams.com/about/regions/chicago-il/fantastic-sams-new-lenox-il. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-new-lenox/
-140. Fantastic Sams | trust 16.0 | Fantastic Sams is a hair salon in Saint Anthony, MN at 2922 Pentagon Drive, Saint Anthony, MN 55418. Phone: +16127888700. Website: https://www.fantasticsams.com/about/regions/minneapolis-st-paul-mn/fantastic-sams-st-anthony-mn-0. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-saint-anthony/
-141. Fantastic Sams | trust 16.0 | Fantastic Sams is a hair salon in Saint Louis Park, MN at 5005 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19523450003. Website: https://www.fantasticsams.com/about/regions/minneapolis-st-paul-mn/fantastic-sams-st-louis-park-mn. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-saint-louis-park/
-142. Fantastic Sams | trust 16.0 | Fantastic Sams is a hair salon in Saint Louis Park, MN at 5330 Cedar Lake Road #400, Saint Louis Park, MN 55416. Phone: +19529330082. Website: https://www.fantasticsams.com/about/regions/minneapolis-st-paul-mn/fantastic-sams-st-louis-park-mn-0. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-saint-louis-park-n9610330948/
-143. Father and Son Barber Shop | trust 16.0 | Father and Son Barber Shop is a barber shop in Chicago, IL at 5806 North Broadway, Chicago, IL 60660. Phone: +17737846845. Website: https://www.fatherandsonbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/father-and-son-barber-shop-chicago/
-144. Fields of Hair | trust 16.0 | Fields of Hair is a hair salon in Saint Paul, MN at 1337 Minnehaha Avenue West, Saint Paul, MN 55104. Phone: +16516473493. Website: https://www.fieldsofhair.com/. | https://dingalinged-cpu.github.io/registry/c/fields-of-hair-saint-paul/
-145. Frank Gironda Salon | trust 16.0 | Frank Gironda Salon is a hair salon in Naperville, IL at 1212 South Naper Boulevard #107, Naperville, IL 60540. Phone: +16309839044. Website: https://www.frankgironda.com/locations/naperville/. | https://dingalinged-cpu.github.io/registry/c/frank-gironda-salon-naperville/
-146. Gorgeous Looks Salon | trust 16.0 | Gorgeous Looks Salon is a hair salon in Minneapolis, MN at 217 Oliver Avenue South, Minneapolis, MN 55405. Phone: +16123058172. Website: https://www.gorgeouslookssalon.net/. | https://dingalinged-cpu.github.io/registry/c/gorgeous-looks-salon-minneapolis/
-147. Great Clips | trust 16.0 | Great Clips is a hair salon in Darien, IL at 2133 75th Street, Darien, IL 60561. Phone: +16309630632. Website: https://www.greatclips.com/salons/2120. | https://dingalinged-cpu.github.io/registry/c/great-clips-darien/
-148. Great Clips | trust 16.0 | Great Clips is a hair salon in Downers Grove, IL. Phone: +16309696636. Website: https://salons.greatclips.com/us/il/downers-grove/6319-woodward-ave. | https://dingalinged-cpu.github.io/registry/c/great-clips-downers-grove-n9046308332/
-149. Great Clips | trust 16.0 | Great Clips is a hair salon in Naperville, IL at 1211 East Ogden Avenue #109, Naperville, IL 60563. Phone: +16309615510. Website: https://salons.greatclips.com/us/il/naperville/1211-e-ogden-ave. | https://dingalinged-cpu.github.io/registry/c/great-clips-naperville-w1326181731/
-150. Great Clips | trust 16.0 | Great Clips is a hair salon in New Lenox, IL at 523 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154630274. Website: https://www.greatclips.com/salons/1469. | https://dingalinged-cpu.github.io/registry/c/great-clips-new-lenox/
-151. Great Clips | trust 16.0 | Great Clips is a hair salon in Saint Louis Park, MN at 1650 Park Place Boulevard #103, Saint Louis Park, MN 55416. Phone: +19525448787. Website: https://salons.greatclips.com/us/mn/st-louis-park/1650-park-place-blvd. | https://dingalinged-cpu.github.io/registry/c/great-clips-saint-louis-park/
-152. Hair and Makeup by Bria Rose | trust 16.0 | Hair and Makeup by Bria Rose is a hair salon in Saint Louis Park, MN at 4050 Brookside Avenue South, Saint Louis Park, MN 55416. Phone: +19524847333. Website: https://hair-and-makeup-by-bria-rose.business.site/. | https://dingalinged-cpu.github.io/registry/c/hair-and-makeup-by-bria-rose-saint-louis-park/
-153. Hair Cult Inc | trust 16.0 | Hair Cult Inc is a hair salon in Saint Louis Park, MN at 5704 36th Street West, Saint Louis Park, MN 55416. Phone: +19524176697. Website: https://www.haircultinc.com/. | https://dingalinged-cpu.github.io/registry/c/hair-cult-inc-saint-louis-park/
-154. Hairetic | trust 16.0 | Hairetic is a hair salon in Minneapolis, MN at 4301 Bryant Avenue South, Minneapolis, MN 55409. Phone: +16128233928. Website: https://www.thehairetic.com/. | https://dingalinged-cpu.github.io/registry/c/hairetic-minneapolis/
-155. Harlowe Salon | trust 16.0 | Harlowe Salon is a hair salon in Saint Louis Park, MN at 6414 Lake Street West, Saint Louis Park, MN 55426. Phone: +16125627717. Website: https://www.harlowesalon.com/. | https://dingalinged-cpu.github.io/registry/c/harlowe-salon-saint-louis-park/
-156. Heart Salon | trust 16.0 | Heart Salon is a hair salon in Minneapolis, MN at 1310 Northeast 2nd Street, Minneapolis, MN 55413. Phone: +16123794022. Website: https://heartsalon.com/. | https://dingalinged-cpu.github.io/registry/c/heart-salon-minneapolis/
-157. Heaven's Beauty Hair & Day Spa | trust 16.0 | Heaven's Beauty Hair & Day Spa is a hair salon in Downers Grove, IL at 6330 Woodward Avenue, Downers Grove, IL 60516. Phone: +16309636166. Website: https://heavensbeautyhairanddayspa.com/. | https://dingalinged-cpu.github.io/registry/c/heavens-beauty-hair-and-day-spa-downers-grove/
-158. Hello Hair Collective | trust 16.0 | Hello Hair Collective is a hair salon in Saint Paul, MN at 1939 Minnehaha Avenue, Saint Paul, MN 55104. Phone: +16513402907. Website: https://www.hellohairmn.com/. | https://dingalinged-cpu.github.io/registry/c/hello-hair-collective-saint-paul/
-159. Journey Hair Studio | trust 16.0 | Journey Hair Studio is a hair salon in Saint Bonifacius, MN at 4080 Tower Street #1090, Saint Bonifacius, MN 55375. Phone: +19524469000. Website: https://journeyhair.com/. | https://dingalinged-cpu.github.io/registry/c/journey-hair-studio-saint-bonifacius/
-160. Lisa Thomas Salon | trust 16.0 | Lisa Thomas Salon is a hair salon in Tinley Park, IL at 15930 84th Avenue, Tinley Park, IL 60477. Phone: +17085324553. Website: https://lisathomassalon.com/. | https://dingalinged-cpu.github.io/registry/c/lisa-thomas-salon-tinley-park/
-161. Loc Starz Natural Hair | trust 16.0 | Loc Starz Natural Hair is a hair salon in Saint Louis Park, MN at 6532 Lake Street West, Saint Louis Park, MN 55426. Phone: +16123774614. Website: https://minneapolis-loc-starz.business.site/. | https://dingalinged-cpu.github.io/registry/c/loc-starz-natural-hair-saint-louis-park/
-162. London's Limited Hair Salon | trust 16.0 | London's Limited Hair Salon is a hair salon in Saint Louis Park, MN at 4015 Yosemite Avenue South, Saint Louis Park, MN 55416. Phone: +19529264626. Website: https://www.londonslimited.com/. | https://dingalinged-cpu.github.io/registry/c/londons-limited-hair-salon-saint-louis-park/
-163. Lux Salon | trust 16.0 | Lux Salon is a hair salon in Rogers, MN at 12813 Main Street, Rogers, MN 55374. Phone: +17634289923. Website: https://www.lux-salon.com/. | https://dingalinged-cpu.github.io/registry/c/lux-salon-rogers/
-164. Marquiz Salons & Spa | trust 16.0 | Marquiz Salons & Spa is a hair salon in Wheaton, IL at 222 West Front Street, Wheaton, IL 60187. Phone: +16306535256. Website: https://www.marquizsalon.net/. | https://dingalinged-cpu.github.io/registry/c/marquiz-salons-and-spa-wheaton/
-165. Meraki Hair Lounge | trust 16.0 | Meraki Hair Lounge is a hair salon in Minneapolis, MN at 837 Glenwood Avenue, Minneapolis, MN 55405. Phone: +19522590857. Website: https://www.merakimpls.com/. | https://dingalinged-cpu.github.io/registry/c/meraki-hair-lounge-minneapolis/
-166. Michael Graham Salon & Spa | trust 16.0 | Michael Graham Salon & Spa is a hair salon in Naperville, IL at 50 South Main Street, Naperville, IL 60540. Phone: +16309466055. Website: https://www.michaelgrahamsalon.com/. | https://dingalinged-cpu.github.io/registry/c/michael-graham-salon-and-spa-naperville/
-167. Natural hair care institute | trust 16.0 | Natural hair care institute is a hair salon in Minneapolis, MN. Phone: +16123535344. Website: https://www.nhci.education/. | https://dingalinged-cpu.github.io/registry/c/natural-hair-care-institute-minneapolis/
-168. New Art Salon | trust 16.0 | New Art Salon is a hair salon in Saint Paul, MN at 655 Snelling Avenue South, Saint Paul, MN 55116. Phone: +16516981434. Website: https://www.newartsalon.net/. | https://dingalinged-cpu.github.io/registry/c/new-art-salon-saint-paul/
-169. Pleasant Styles | trust 16.0 | Pleasant Styles is a hair salon in Bolingbrook, IL at 257 North Schmidt Road ##A, Bolingbrook, IL 60440. Phone: +16307597595. Website: https://www.pleasantstyles.com/. | https://dingalinged-cpu.github.io/registry/c/pleasant-styles-bolingbrook/
-170. Principle Barbers | trust 16.0 | Principle Barbers is a hair salon in Chicago, IL at 3820 West Ogden Avenue, Chicago, IL 60623. Phone: +17738375277. Website: https://www.principlebarbers.com/. | https://dingalinged-cpu.github.io/registry/c/principle-barbers-chicago/
-171. Red Scissors Hair Salon | trust 16.0 | Red Scissors Hair Salon is a hair salon in Lombard, IL at 405 West Crescent Boulevard, Lombard, IL 60148. Phone: +16303376061. Website: https://redscissorssalon.com/. | https://dingalinged-cpu.github.io/registry/c/red-scissors-hair-salon-lombard/
-172. Revolution Salon | trust 16.0 | Revolution Salon is a hair salon in Saint Louis Park, MN at 5600 36th Street West, Saint Louis Park, MN 55416. Phone: +16122848222. Website: https://revolutionsalonmpls.com/. | https://dingalinged-cpu.github.io/registry/c/revolution-salon-saint-louis-park/
-173. Salon 811 | trust 16.0 | Salon 811 is a hair salon in Western Springs, IL at 811 Burlington Avenue, Western Springs, IL 60558. Phone: +17082462770. Website: https://www.salon811.com/. | https://dingalinged-cpu.github.io/registry/c/salon-811-western-springs/
-174. Salon Boutiques of Cantera Lakes LLC | trust 16.0 | Salon Boutiques of Cantera Lakes LLC is a hair salon in Warrenville, IL at 28379 Davis Parkway #802, Warrenville, IL 60555. Phone: +16305233081. Website: https://www.salonboutiques.net/. | https://dingalinged-cpu.github.io/registry/c/salon-boutiques-of-cantera-lakes-llc-warrenville/
-175. Salon G | trust 16.0 | Salon G is a hair salon in Vernon Hills, IL at 275 Evergreen Drive, Vernon Hills, IL 60061. Phone: +18475491940. Website: https://www.salonghair.net/. | https://dingalinged-cpu.github.io/registry/c/salon-g-vernon-hills/
-176. Salon La Tour | trust 16.0 | Salon La Tour is a hair salon in Saint Paul, MN at 54 Syndicate Street South, Saint Paul, MN 55105. Phone: +16516994229. Website: https://www.facebook.com/pages/category/Hair-Salon/Salon-LaTour-1137347236299816/. | https://dingalinged-cpu.github.io/registry/c/salon-la-tour-saint-paul/
-177. Salon Ori | trust 16.0 | Salon Ori is a hair salon in Saint Paul, MN at 1166 Selby Avenue, Saint Paul, MN 55104. Phone: +16516421166. Website: https://www.salonori.com/. | https://dingalinged-cpu.github.io/registry/c/salon-ori-saint-paul/
-178. Sense of Style | trust 16.0 | Sense of Style is a hair salon in Saint Paul, MN at 920 Selby Avenue #A, Saint Paul, MN 55104. Phone: +16516453000. Website: https://www.senseofstylellc.com/. | https://dingalinged-cpu.github.io/registry/c/sense-of-style-saint-paul/
-179. Shear Envy | trust 16.0 | Shear Envy is a hair salon in Western Springs, IL at 1140 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17082465600. Website: https://www.shearenvy.com/. | https://dingalinged-cpu.github.io/registry/c/shear-envy-western-springs/
-180. Simon Philips Men's Hair Salon | trust 16.0 | Simon Philips Men's Hair Salon is a hair salon in New Lenox, IL at 306 West Maple Street, New Lenox, IL 60451. Phone: +18157178706. Website: https://simonphilipsmenshairsalon.com/. | https://dingalinged-cpu.github.io/registry/c/simon-philips-mens-hair-salon-new-lenox/
-181. Sine Qua Non | trust 16.0 | Sine Qua Non is a hair salon in Chicago, IL at 3417 North Lincoln Avenue, Chicago, IL 60657. Phone: +17734048789. Website: https://sinequanonsalons.com/. | https://dingalinged-cpu.github.io/registry/c/sine-qua-non-chicago/
-182. Southport Hair Studio on Belmont | trust 16.0 | Southport Hair Studio on Belmont is a hair salon in Chicago, IL at 1832 West Belmont Avenue, Chicago, IL 60657. Phone: +17734779319. Website: https://southporthairstudio.com/. | https://dingalinged-cpu.github.io/registry/c/southport-hair-studio-on-belmont-chicago/
-183. Southside Barber Lounge | trust 16.0 | Southside Barber Lounge is a hair salon in Minneapolis, MN at 4813 Chicago Avenue South, Minneapolis, MN 55417. Phone: +16122038908. Website: https://www.southsidebarberlounge.com/48th-chicago. | https://dingalinged-cpu.github.io/registry/c/southside-barber-lounge-minneapolis/
-184. Sport Clips | trust 16.0 | Sport Clips is a hair salon in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16303959532. Website: https://www.haircutmendarienil.com/. | https://dingalinged-cpu.github.io/registry/c/sport-clips-darien/
-185. Sport Clips | trust 16.0 | Sport Clips is a hair salon in New Lenox, IL at 420 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154627400. Website: https://haircutmennewlenoxil.com/. | https://dingalinged-cpu.github.io/registry/c/sport-clips-new-lenox/
-186. Sport Clips | trust 16.0 | Sport Clips is a hair salon in Saint Louis Park, MN at 8320A Minnesota State Highway 7, Saint Louis Park, MN 55426. Phone: +19529333536. Website: https://haircutmenstlouisparkmn.com/. | https://dingalinged-cpu.github.io/registry/c/sport-clips-saint-louis-park/
-187. Spruce | trust 16.0 | Spruce is a hair salon in Minneapolis, MN at 404 Penn Avenue South, Minneapolis, MN 55405. Phone: +16125181002. Website: https://www.sprucesalonmpls.com/. | https://dingalinged-cpu.github.io/registry/c/spruce-minneapolis/
-188. Studio 10 Salon Suites | trust 16.0 | Studio 10 Salon Suites is a hair salon in New Lenox, IL at 278 East Lincoln Highway, New Lenox, IL 60451. Phone: +18156413647. Website: https://www.studio10salonsuites.com/. | https://dingalinged-cpu.github.io/registry/c/studio-10-salon-suites-new-lenox/
-189. Studio 411 Salon | trust 16.0 | Studio 411 Salon is a hair salon in Minneapolis, MN at 411 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +16123741477. Website: https://studio411salon.com/. | https://dingalinged-cpu.github.io/registry/c/studio-411-salon-minneapolis/
-190. Studio Red Hair Design | trust 16.0 | Studio Red Hair Design is a hair salon in Homer Glen, IL at 14203 South Bell Road, Homer Glen, IL 60491. Phone: +17086451966. Website: https://www.studioredhairdesign.com/. | https://dingalinged-cpu.github.io/registry/c/studio-red-hair-design-homer-glen/
-191. Sweeney Todd's Hair Salon | trust 16.0 | Sweeney Todd's Hair Salon is a hair salon in Minneapolis, MN at 2429 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16128713636. Website: https://sweeneytodds.com/. | https://dingalinged-cpu.github.io/registry/c/sweeney-todds-hair-salon-minneapolis/
-192. Tangles and Co Salon | trust 16.0 | Tangles and Co Salon is a hair salon in Saint Louis Park, MN at 6801 Wayzata Boulevard #2, Saint Louis Park, MN 55426. Phone: +19527464617. Website: https://tanglesandcosalon.com/. | https://dingalinged-cpu.github.io/registry/c/tangles-and-co-salon-saint-louis-park/
-193. The Attractivators | trust 16.0 | The Attractivators is a hair salon in Chicago, IL at 1830 West Wilson Avenue, Chicago, IL 60640. Phone: +17739427197. Website: https://theattractivators.com/. | https://dingalinged-cpu.github.io/registry/c/the-attractivators-chicago/
-194. The Brookfield Barber | trust 16.0 | The Brookfield Barber is a hair salon in Brookfield, IL at 8840 Brookfield Avenue, Brookfield, IL 60513. Phone: +17082555746. Website: https://www.thebrookfieldbarber.com/. | https://dingalinged-cpu.github.io/registry/c/the-brookfield-barber-brookfield/
-195. The Grooming Lounge | trust 16.0 | The Grooming Lounge is a hair salon in Chicago, IL at 1258 North Milwaukee Avenue, Chicago, IL 60622. Phone: +17733421258. Website: https://www.groomingloungechicago.com/. | https://dingalinged-cpu.github.io/registry/c/the-grooming-lounge-chicago/
-196. The Shop Salon & Style House | trust 16.0 | The Shop Salon & Style House is a hair salon in Brookfield, IL at 3735 Grand Boulevard, Brookfield, IL 60513. Phone: +17082555796. Website: https://www.theshopstylehouse.com/. | https://dingalinged-cpu.github.io/registry/c/the-shop-salon-and-style-house-brookfield/
-197. The Talk of the Town Salon | trust 16.0 | The Talk of the Town Salon is a hair salon in Minneapolis, MN at 2403 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128727007. Website: https://ttott-mpls.com/. | https://dingalinged-cpu.github.io/registry/c/the-talk-of-the-town-salon-minneapolis/
-198. Thomas Charles Salon | trust 16.0 | Thomas Charles Salon is a hair salon in Saint Louis Park, MN at 4008 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529254277. Website: https://thomascharlessalon.com/. | https://dingalinged-cpu.github.io/registry/c/thomas-charles-salon-saint-louis-park/
-199. Trianon | trust 16.0 | Trianon is a hair salon in Chicago, IL at 651 West Armitage Avenue, Chicago, IL 60614. Phone: +13129518401. Website: https://www.trianonsalon.com/. | https://dingalinged-cpu.github.io/registry/c/trianon-chicago/
-200. Velarde Salon & Spa | trust 16.0 | Velarde Salon & Spa is a hair salon in Roselle, IL at 54 North Bokelman St, Roselle, IL 60172. Phone: +18475348778. Website: https://www.velardesalon.com/. | https://dingalinged-cpu.github.io/registry/c/velarde-salon-and-spa-roselle/
-201. VeMe Hair & Makeup Salon | trust 16.0 | VeMe Hair & Makeup Salon is a hair salon in Brookfield, IL at 8847 Ogden Avenue, Brookfield, IL 60513. Phone: +17083789332. Website: https://www.vemehairandmakeupsalon.com/. | https://dingalinged-cpu.github.io/registry/c/veme-hair-and-makeup-salon-brookfield/
-202. Venus Hair Studio | trust 16.0 | Venus Hair Studio is a hair salon in Oak Park, IL at 125 South Oak Park Avenue, Oak Park, IL 60302. Phone: +17084451444. Website: https://www.venushairstudio.com/. | https://dingalinged-cpu.github.io/registry/c/venus-hair-studio-oak-park/
-203. Wild Hive Hair | trust 16.0 | Wild Hive Hair is a hair salon in Mokena, IL at 19137 Wolf Road, Mokena, IL 60448. Phone: +17089533358. Website: https://www.vagaro.com/wildhivehair. | https://dingalinged-cpu.github.io/registry/c/wild-hive-hair-mokena/
-204. Craig's Como Barbershop | trust 15.0 | Craig's Como Barbershop is a hair salon in Minneapolis, MN at 1508 Southeast Como Avenue, Minneapolis, MN. Phone: +16123311077. Website: https://comobarbershop.com/about. | https://dingalinged-cpu.github.io/registry/c/craigs-como-barbershop-minneapolis/
-205. Cryptid Hair Parlour | trust 15.0 | Cryptid Hair Parlour is a hair salon in Minneapolis, MN at 2358 Stinson Parkway, Minneapolis, MN. Phone: +16123547328. Website: https://www.cryptidhair.com/. | https://dingalinged-cpu.github.io/registry/c/cryptid-hair-parlour-minneapolis/
-206. Moler Barber School | trust 15.0 | Moler Barber School is a barber shop in Columbia Heights, MN at 4801 Central Avenue Northeast #100, Columbia Heights, MN. Phone: +17635687210. Website: https://www.molerbarberschoolmn.com/. | https://dingalinged-cpu.github.io/registry/c/moler-barber-school-columbia-heights/
-207. PARA Salon | trust 15.0 | PARA Salon is a hair salon in Saint Paul, MN at 731 Cleveland Avenue South, Saint Paul, MN. Phone: +16517972587. Website: https://www.parasalons.com/. | https://dingalinged-cpu.github.io/registry/c/para-salon-saint-paul/
-208. Salon 1800 | trust 15.0 | Salon 1800 is a hair salon in Chicago, IL at 1962 North Clybourn Avenue, Chicago, IL. Phone: +17739296010. Website: https://www.salon1800lp.com/. | https://dingalinged-cpu.github.io/registry/c/salon-1800-chicago/
-209. The Beauty Room | trust 15.0 | The Beauty Room is a hair salon in Minneapolis, MN at 4300 Chicago Avenue South, Minneapolis, MN. Phone: +16127244111. Website: https://www.thebeautyroommpls.com/. | https://dingalinged-cpu.github.io/registry/c/the-beauty-room-minneapolis/
-210. Wrath & Co | trust 15.0 | Wrath & Co is a barber shop in Chicago, IL at 1645 North Clybourn Avenue, Chicago, IL. Phone: +13122651288. Website: https://www.wrathandco.com/. | https://dingalinged-cpu.github.io/registry/c/wrath-and-co-chicago/
-211. Wyld Chyldz | trust 15.0 | Wyld Chyldz is a hair salon in Saint Paul, MN at 880 Payne Avenue, Saint Paul, MN. Phone: +17736644054. Website: https://www.wyldchyldz.com/. | https://dingalinged-cpu.github.io/registry/c/wyld-chyldz-saint-paul/
-212. 3e38thStBarbers | trust 14.0 | 3e38thStBarbers is a barber shop in Minneapolis, MN at 3 East 38th Street, Minneapolis, MN 55409. Phone: +16126954037. | https://dingalinged-cpu.github.io/registry/c/3e38thstbarbers-minneapolis/
-213. Arce's Barber Studio | trust 14.0 | Arce's Barber Studio is a barber shop in Minneapolis, MN at 1406 West Lake Street, Minneapolis, MN 55408. Website: https://arcesbarberstudio.com/. | https://dingalinged-cpu.github.io/registry/c/arces-barber-studio-minneapolis/
-214. artofbarbering | trust 14.0 | artofbarbering is a barber shop in Minneapolis, MN at 150 2nd Avenue South, Minneapolis, MN 55401. Phone: +16123383588. | https://dingalinged-cpu.github.io/registry/c/artofbarbering-minneapolis/
-215. Barbers & Stylists | trust 14.0 | Barbers & Stylists is a barber shop in Bloomington, MN at 10580 France Avenue South, Bloomington, MN 55431. Phone: +19528844351. | https://dingalinged-cpu.github.io/registry/c/barbers-and-stylists-bloomington/
-216. Brother's Barber Shop | trust 14.0 | Brother's Barber Shop is a barber shop in Mundelein, IL at 439 North Lake Street, Mundelein, IL 60060. Phone: +18479103181. | https://dingalinged-cpu.github.io/registry/c/brothers-barber-shop-mundelein/
-217. Brothers Hair Salon | trust 14.0 | Brothers Hair Salon is a hair salon in Chicago, IL at 3133 North Milwaukee Avenue, Chicago, IL 60618. Phone: +17734332799. | https://dingalinged-cpu.github.io/registry/c/brothers-hair-salon-chicago/
-218. Charisma Hair Studio | trust 14.0 | Charisma Hair Studio is a hair salon in Chicago, IL at 1011 North Western Avenue, Chicago, IL 60622. Phone: +17735562397. | https://dingalinged-cpu.github.io/registry/c/charisma-hair-studio-chicago/
-219. Cuenca's Family Haircut | trust 14.0 | Cuenca's Family Haircut is a hair salon in Chicago, IL at 3718 West Lawrence Avenue, Chicago, IL 60625. Phone: +17734636420. | https://dingalinged-cpu.github.io/registry/c/cuencas-family-haircut-chicago/
-220. DeOngelo & Company Salon and Beauty Bar | trust 14.0 | DeOngelo & Company Salon and Beauty Bar is a hair salon in Saint Paul, MN at 1570 Edmund Avenue, Saint Paul, MN 55104. Website: https://www.deongeloandcompany.website/. | https://dingalinged-cpu.github.io/registry/c/deongelo-and-company-salon-and-beauty-bar-saint-paul/
-221. Escobar Salon | trust 14.0 | Escobar Salon is a barber shop in Bartlett, IL at 138 South Oak Avenue #2, Bartlett, IL 60103. Phone: +12248298408. | https://dingalinged-cpu.github.io/registry/c/escobar-salon-bartlett/
-222. Famous Fadez | trust 14.0 | Famous Fadez is a hair salon in Arlington Heights, IL at 618 East Golf Road, Arlington Heights, IL 60005. Website: https://www.famousfadez.com/. | https://dingalinged-cpu.github.io/registry/c/famous-fadez-arlington-heights/
-223. Flawless Blends | trust 14.0 | Flawless Blends is a hair salon in Lombard, IL at 123 Yorktown Shopping Center Rd, Lombard, IL 60148. Website: https://www.flawlessblendshair.com/. | https://dingalinged-cpu.github.io/registry/c/flawless-blends-lombard/
-224. Floyd's 99 Barbershop | trust 14.0 | Floyd's 99 Barbershop is a hair salon in Minneapolis, MN at 5051 France Avenue South, Minneapolis, MN 55410. Website: https://www.floydsbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-minneapolis-n11952215475/
-225. Fox Den Salon | trust 14.0 | Fox Den Salon is a hair salon in Minneapolis, MN at 1221 West Lake Street #108, Minneapolis, MN 55408. Phone: +16128724556. | https://dingalinged-cpu.github.io/registry/c/fox-den-salon-minneapolis/
-226. Golden Razor Salon | trust 14.0 | Golden Razor Salon is a hair salon in Maple Grove, MN at 13609 Grove Drive North, Maple Grove, MN 55311. Phone: +17634208048. | https://dingalinged-cpu.github.io/registry/c/golden-razor-salon-maple-grove/
-227. Goodfellas Barber Studio | trust 14.0 | Goodfellas Barber Studio is a hair salon in Champlin, MN at 518 Jefferson Highway North, Champlin, MN 55316. Phone: +17633253060. | https://dingalinged-cpu.github.io/registry/c/goodfellas-barber-studio-champlin/
-228. Great Clips | trust 14.0 | Great Clips is a hair salon in Naperville, IL at 1212 South Naper Boulevard #118, Naperville, IL 60540. Phone: +16307788055. | https://dingalinged-cpu.github.io/registry/c/great-clips-naperville-w1441749347/
-229. Hair District Collective | trust 14.0 | Hair District Collective is a hair salon in Minneapolis, MN at 802 West Lake Street, Minneapolis, MN 55408. Website: https://thehairdistrict.com/. | https://dingalinged-cpu.github.io/registry/c/hair-district-collective-minneapolis/
-230. Hairline Creations | trust 14.0 | Hairline Creations is a hair salon in Arlington Heights, IL at 656 East Golf Road, Arlington Heights, IL 60005. Website: https://www.hairlinecreations.com/. | https://dingalinged-cpu.github.io/registry/c/hairline-creations-arlington-heights/
-231. High Dynasty Fade Barbershop | trust 14.0 | High Dynasty Fade Barbershop is a hair salon in Chicago, IL at 5041 West Belmont Avenue, Chicago, IL 60641. Phone: +13124144255. | https://dingalinged-cpu.github.io/registry/c/high-dynasty-fade-barbershop-chicago/
-232. Hop's Salon | trust 14.0 | Hop's Salon is a hair salon in Minneapolis, MN at 1316 Southeast 4th Street ##9, Minneapolis, MN 55414. Phone: +16123790079. | https://dingalinged-cpu.github.io/registry/c/hops-salon-minneapolis/
-233. Indira Aveda Salon Spa | trust 14.0 | Indira Aveda Salon Spa is a hair salon in Chicago, IL at 3337 North Southport Avenue, Chicago, IL 60657. Phone: +17733483838. | https://dingalinged-cpu.github.io/registry/c/indira-aveda-salon-spa-chicago/
-234. ISA Hair Studio | trust 14.0 | ISA Hair Studio is a hair salon in Chicago, IL at 3705 North Broadway, Chicago, IL 60613. Phone: +17733601355. | https://dingalinged-cpu.github.io/registry/c/isa-hair-studio-chicago/
-235. Izi African Hair Braiding | trust 14.0 | Izi African Hair Braiding is a hair salon in Chicago, IL at 1974 East 73rd Street, Chicago, IL 60649. Phone: +17735957161. | https://dingalinged-cpu.github.io/registry/c/izi-african-hair-braiding-chicago/
-236. La International Hair Design | trust 14.0 | La International Hair Design is a hair salon in Wheeling, IL at 765 West Dundee Road, Wheeling, IL 60090. Phone: +18478088233. | https://dingalinged-cpu.github.io/registry/c/la-international-hair-design-wheeling/
-237. Made Barber Lounge | trust 14.0 | Made Barber Lounge is a hair salon in Chicago, IL at 5014 South Pulaski Road, Chicago, IL 60632. Phone: +17734984771. | https://dingalinged-cpu.github.io/registry/c/made-barber-lounge-chicago/
-238. Maraki Beauty Salon | trust 14.0 | Maraki Beauty Salon is a hair salon in Saint Paul, MN at 1566 Edmund Avenue, Saint Paul, MN 55104. Phone: +16122279170. | https://dingalinged-cpu.github.io/registry/c/maraki-beauty-salon-saint-paul/
-239. Marimarshe' 2.0 Salon & Suites | trust 14.0 | Marimarshe' 2.0 Salon & Suites is a hair salon in Chicago, IL at 5229 South Woodlawn Avenue, Chicago, IL 60615. Website: https://marimarshesalons.com/. | https://dingalinged-cpu.github.io/registry/c/marimarshe-2-0-salon-and-suites-chicago/
-240. Mario's Original Salon & Barber | trust 14.0 | Mario's Original Salon & Barber is a hair salon in Harwood Heights, IL at 4742 North Harlem Avenue, Harwood Heights, IL 60706. Phone: +17085341400. | https://dingalinged-cpu.github.io/registry/c/marios-original-salon-and-barber-harwood-heights/
-241. NBWS Barber | trust 14.0 | NBWS Barber is a barber shop in Chicago, IL at 620 East 47th Street, Chicago, IL 60653. Phone: +18324860486. | https://dingalinged-cpu.github.io/registry/c/nbws-barber-chicago/
-242. Rosy's Hair Salon | trust 14.0 | Rosy's Hair Salon is a hair salon in Wauconda, IL at 453 West Liberty Street, Wauconda, IL 60084. Phone: +18475266605. | https://dingalinged-cpu.github.io/registry/c/rosys-hair-salon-wauconda/
-243. Sakada Studios | trust 14.0 | Sakada Studios is a hair salon in Minnetonka, MN at 14525 Minnesota State Highway 7 #120, Minnetonka, MN 55345. Phone: +19529389400. | https://dingalinged-cpu.github.io/registry/c/sakada-studios-minnetonka/
-244. Salon Beauteous | trust 14.0 | Salon Beauteous is a hair salon in Niles, IL at 8303½ West Golf Road, Niles, IL 60714. Phone: +12242574953. | https://dingalinged-cpu.github.io/registry/c/salon-beauteous-niles/
-245. Salon La Terre | trust 14.0 | Salon La Terre is a hair salon in Minneapolis, MN at 3338 Hennepin Avenue South, Minneapolis, MN 55408. Website: https://www.salonlaterre.com/. | https://dingalinged-cpu.github.io/registry/c/salon-la-terre-minneapolis/
-246. Simpli Gorgeous Salon | trust 14.0 | Simpli Gorgeous Salon is a hair salon in Gary, IN at 5100 West 5th Avenue, Gary, IN 46406. Phone: +12199397251. | https://dingalinged-cpu.github.io/registry/c/simpli-gorgeous-salon-gary/
-247. Stacey Lipinski Hair | trust 14.0 | Stacey Lipinski Hair is a hair salon in Palatine, IL at 220 North Smith Street #117 unit 207, Palatine, IL 60067. Phone: +18473612547. | https://dingalinged-cpu.github.io/registry/c/stacey-lipinski-hair-palatine/
-248. Sunshine Beauty Salon | trust 14.0 | Sunshine Beauty Salon is a hair salon in Saint Paul, MN at 520 Snelling Avenue, Saint Paul, MN 55104. Phone: +16516443500. | https://dingalinged-cpu.github.io/registry/c/sunshine-beauty-salon-saint-paul/
-249. Supreme Cuts Barber Studio | trust 14.0 | Supreme Cuts Barber Studio is a hair salon in Chicago, IL at 13256 South Brandon Avenue, Chicago, IL 60633. Phone: +12196713596. | https://dingalinged-cpu.github.io/registry/c/supreme-cuts-barber-studio-chicago/
-250. Talking Heads Salon | trust 14.0 | Talking Heads Salon is a hair salon in Coon Rapids, MN at 11427 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +16122207281. | https://dingalinged-cpu.github.io/registry/c/talking-heads-salon-coon-rapids/
-251. Tram's Hair Styling | trust 14.0 | Tram's Hair Styling is a hair salon in Minneapolis, MN at 2620 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128712491. | https://dingalinged-cpu.github.io/registry/c/trams-hair-styling-minneapolis/
-252. Urban Hair Co | trust 14.0 | Urban Hair Co is a hair salon in Minneapolis, MN at 4949 Xerxes Avenue South, Minneapolis, MN 55410. Website: https://www.markefronhair.com/. | https://dingalinged-cpu.github.io/registry/c/urban-hair-co-minneapolis/
-253. A1 Cuts | trust 13.0 | A1 Cuts is a hair salon in Saint Paul, MN at 1215 Arcade Street, Saint Paul, MN. Phone: +16517711408. | https://dingalinged-cpu.github.io/registry/c/a1-cuts-saint-paul/
-254. Benedict's Barber Shop | trust 13.0 | Benedict's Barber Shop is a barber shop in Des Plaines, IL at 1938 East Touhy Avenue, Des Plaines, IL. Phone: +18472972774. | https://dingalinged-cpu.github.io/registry/c/benedicts-barber-shop-des-plaines/
-255. GNC | trust 13.0 | GNC is a hair salon in Bloomington, MN at 372 North Garden, Bloomington, MN. Phone: +19526812871. | https://dingalinged-cpu.github.io/registry/c/gnc-bloomington/
-256. J.L.O | trust 13.0 | J.L.O is a hair salon in Mundelein, IL at 26290, Mundelein, IL. Phone: +18478378008. | https://dingalinged-cpu.github.io/registry/c/j-l-o-mundelein/
-257. Kenwood Barbers | trust 13.0 | Kenwood Barbers is a hair salon in Minneapolis, MN at 1003 West Franklin Avenue, Minneapolis, MN. Phone: +16128722280. | https://dingalinged-cpu.github.io/registry/c/kenwood-barbers-minneapolis/
-258. Stilo Cuts | trust 13.0 | Stilo Cuts is a hair salon in Minneapolis, MN at 2655 Hennepin Avenue South, Minneapolis, MN. Website: https://www.stilocuts.com/. | https://dingalinged-cpu.github.io/registry/c/stilo-cuts-minneapolis/
-259. The Barbershop | trust 13.0 | The Barbershop is a hair salon in Eagan, MN at 1278 Town Centre Drive, Eagan, MN. Phone: +16512004147. | https://dingalinged-cpu.github.io/registry/c/the-barbershop-eagan/
-260. Uptown Curl | trust 13.0 | Uptown Curl is a hair salon in Minneapolis, MN at 2004,2006 Hennepin Avenue South, Minneapolis, MN. Phone: +16123264792. | https://dingalinged-cpu.github.io/registry/c/uptown-curl-minneapolis/
-261. GoodxTimes | trust 12.0 | GoodxTimes is a hair salon in Brookfield, IL. Phone: +17088546001. Website: https://www.goodxtimesbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/goodxtimes-brookfield/
-262. Great Clips | trust 12.0 | Great Clips is a hair salon in Chicago, IL. Phone: +17732812926. Website: https://www.greatclips.com/salons/1700. | https://dingalinged-cpu.github.io/registry/c/great-clips-chicago/
-263. Heaven's Beauty | trust 12.0 | Heaven's Beauty is a hair salon in Downers Grove, IL. Phone: +16309636166. Website: https://heavensbeautyhairanddayspa.com/. | https://dingalinged-cpu.github.io/registry/c/heavens-beauty-downers-grove/
-264. Moxie Hair Salon | trust 12.0 | Moxie Hair Salon is a hair salon in Saint Paul, MN. Phone: +16512516820. Website: https://www.moxiesalon.com/. | https://dingalinged-cpu.github.io/registry/c/moxie-hair-salon-saint-paul/
-265. Sam Martirano Salon & Spa | trust 12.0 | Sam Martirano Salon & Spa is a hair salon in Vernon Hills, IL. Phone: +18474786100. Website: https://www.smsalonandspa.com/. | https://dingalinged-cpu.github.io/registry/c/sam-martirano-salon-and-spa-vernon-hills/
-266. Universal Hair Design | trust 12.0 | Universal Hair Design is a hair salon in Saint Paul, MN. Phone: +16512223050. Website: https://universalhairdesign.setmore.com/. | https://dingalinged-cpu.github.io/registry/c/universal-hair-design-saint-paul/
-267. 8505 Salon | trust 10.0 | 8505 Salon is a hair salon in Chicago, IL at 4421 North Broadway, Chicago, IL 60640. Phone: +17733010506. | https://dingalinged-cpu.github.io/registry/c/8505-salon-chicago/
-268. Allure Salon | trust 10.0 | Allure Salon is a hair salon in Naperville, IL at 1019 West Ogden Avenue, Naperville, IL 60563. Phone: +16304535290. | https://dingalinged-cpu.github.io/registry/c/allure-salon-naperville/
-269. ANDREAS HOGUE SALON | trust 10.0 | ANDREAS HOGUE SALON is a hair salon in Vernon Hills, IL at 901 North Milwaukee Avenue #650, Vernon Hills, IL 60061. Website: https://andreashogue.com/. | https://dingalinged-cpu.github.io/registry/c/andreas-hogue-salon-vernon-hills/
-270. Anna's Beauty Salon | trust 10.0 | Anna's Beauty Salon is a hair salon in Minneapolis, MN at 6 East 27th Street, Minneapolis, MN 55408. Phone: +16128716388. | https://dingalinged-cpu.github.io/registry/c/annas-beauty-salon-minneapolis/
-271. Another Barber Shop | trust 10.0 | Another Barber Shop is a hair salon in Chicago, IL at 843 East 47th Street, Chicago, IL 60653. Phone: +17739241207. | https://dingalinged-cpu.github.io/registry/c/another-barber-shop-chicago/
-272. Another Dimension | trust 10.0 | Another Dimension is a hair salon in Gary, IN at 4153 Broadway, Gary, IN 46409. Phone: +12198842550. | https://dingalinged-cpu.github.io/registry/c/another-dimension-gary/
-273. Anthony Valentino Salon for Hair | trust 10.0 | Anthony Valentino Salon for Hair is a hair salon in Park Ridge, IL at 26 Main Street, Park Ridge, IL 60068. Website: https://avsalonforhair.com/. | https://dingalinged-cpu.github.io/registry/c/anthony-valentino-salon-for-hair-park-ridge/
-274. Art of Hair Beauty Salon | trust 10.0 | Art of Hair Beauty Salon is a hair salon in Chicago, IL at 5924 West Lawrence Avenue, Chicago, IL 60630. Phone: +17737776697. | https://dingalinged-cpu.github.io/registry/c/art-of-hair-beauty-salon-chicago/
-275. Avenue Hairstyling | trust 10.0 | Avenue Hairstyling is a hair salon in Evanston, IL at 919 Chicago Avenue, Evanston, IL 60202. Phone: +18474759115. | https://dingalinged-cpu.github.io/registry/c/avenue-hairstyling-evanston/
-276. Barberz Blvd. | trust 10.0 | Barberz Blvd. is a hair salon in Mokena, IL at 11137 Wolf Road, Mokena, IL 60448. Phone: +17087193448. | https://dingalinged-cpu.github.io/registry/c/barberz-blvd-mokena/
-277. Beardsley's Barber Shop | trust 10.0 | Beardsley's Barber Shop is a hair salon in Naperville, IL at 1224 West Ogden Avenue #H, Naperville, IL 60563. Website: https://www.beardsleysbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/beardsleys-barber-shop-naperville/
-278. Bespoke Hair Artisans | trust 10.0 | Bespoke Hair Artisans is a hair salon in Edina, MN. Website: https://bespokehairartisans.com/. | https://dingalinged-cpu.github.io/registry/c/bespoke-hair-artisans-edina/
-279. Betty Q Beauty Salon | trust 10.0 | Betty Q Beauty Salon is a hair salon in Villa Park, IL at 352 North Ardmore Avenue, Villa Park, IL 60181. Phone: +16303595417. | https://dingalinged-cpu.github.io/registry/c/betty-q-beauty-salon-villa-park/
-280. Billco Barber Shop | trust 10.0 | Billco Barber Shop is a hair salon in Gary, IN at 2448 Broadway, Gary, IN 46407. Phone: +12198861483. | https://dingalinged-cpu.github.io/registry/c/billco-barber-shop-gary/
-281. Black River Barbershop | trust 10.0 | Black River Barbershop is a hair salon in Chicago, IL at 1845 North Western Avenue, Chicago, IL 60647. Phone: +17737998717. | https://dingalinged-cpu.github.io/registry/c/black-river-barbershop-chicago/
-282. Blessings Salon | trust 10.0 | Blessings Salon is a hair salon in Saint Paul, MN at 1451 University Avenue, Saint Paul, MN 55104. Phone: +16516451645. | https://dingalinged-cpu.github.io/registry/c/blessings-salon-saint-paul/
-283. Bonitas Extentions | trust 10.0 | Bonitas Extentions is a hair salon in Minneapolis, MN. Phone: +16124239480. | https://dingalinged-cpu.github.io/registry/c/bonitas-extentions-minneapolis/
-284. Bronzeville Salon Suites | trust 10.0 | Bronzeville Salon Suites is a hair salon in Chicago, IL at 80 East Pershing Road, Chicago, IL 60653. Website: https://www.bronzevillesalonsuites.com/. | https://dingalinged-cpu.github.io/registry/c/bronzeville-salon-suites-chicago/
-285. Brookhaven Salon Studios | trust 10.0 | Brookhaven Salon Studios is a hair salon in Darien, IL at 7516 South Cass Avenue, Darien, IL 60561. Phone: +16306631152. | https://dingalinged-cpu.github.io/registry/c/brookhaven-salon-studios-darien/
-286. Buzz Barbers | trust 10.0 | Buzz Barbers is a barber shop in Minneapolis, MN at 3507 West 44th Street, Minneapolis, MN 55410. Website: https://buzzbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/buzz-barbers-minneapolis/
-287. Charmgurl Beauty Bar | trust 10.0 | Charmgurl Beauty Bar is a hair salon in Gary, IN at 1974 Grant Street, Gary, IN 46404. Phone: +12192392211. | https://dingalinged-cpu.github.io/registry/c/charmgurl-beauty-bar-gary/
-288. Chicago Barbers | trust 10.0 | Chicago Barbers is a hair salon in Chicago, IL at 2751 West 55th Street, Chicago, IL 60632. Phone: +17739344703. | https://dingalinged-cpu.github.io/registry/c/chicago-barbers-chicago/
-289. Chickie Curls Studio | trust 10.0 | Chickie Curls Studio is a hair salon in Chicago, IL at 1614 East 53rd Street, Chicago, IL 60615. Website: https://chickiecurlsstudio.com/. | https://dingalinged-cpu.github.io/registry/c/chickie-curls-studio-chicago/
-290. City Looks | trust 10.0 | City Looks is a hair salon in Minnetonka, MN at 13135 Ridgedale Drive, Minnetonka, MN 55305. Website: https://citylooksminnetonka.com/. | https://dingalinged-cpu.github.io/registry/c/city-looks-minnetonka/
-291. CJ Barbers Shop | trust 10.0 | CJ Barbers Shop is a hair salon in Gary, IN at 4444 Broadway #A3, Gary, IN 46408. Phone: +12199801204. | https://dingalinged-cpu.github.io/registry/c/cj-barbers-shop-gary/
-292. Color Envy | trust 10.0 | Color Envy is a hair salon in Bolingbrook, IL at 716 East Boughton Road, Bolingbrook, IL 60440. Phone: +16307391600. | https://dingalinged-cpu.github.io/registry/c/color-envy-bolingbrook/
-293. District on 50th Salon + Spa | trust 10.0 | District on 50th Salon + Spa is a hair salon in Edina, MN. Website: https://www.thehairdistrict.com/locations/1-edina/. | https://dingalinged-cpu.github.io/registry/c/district-on-50th-salon-spa-edina/
-294. Divine Cuts | trust 10.0 | Divine Cuts is a barber shop in Saint Paul, MN at 1451 University Avenue, Saint Paul, MN 55104. Phone: +16514937762. | https://dingalinged-cpu.github.io/registry/c/divine-cuts-saint-paul/
-295. DOME Salon | trust 10.0 | DOME Salon is a hair salon in Minneapolis, MN at 201 Southeast 6th Street, Minneapolis, MN 55414. Website: https://www.foryourdome.com/. | https://dingalinged-cpu.github.io/registry/c/dome-salon-minneapolis/
-296. Edessa's Salon | trust 10.0 | Edessa's Salon is a hair salon in Evanston, IL at 1609 Chicago Avenue, Evanston, IL 60201. Phone: +18474752727. | https://dingalinged-cpu.github.io/registry/c/edessas-salon-evanston/
-297. Emily's Beauty Salon | trust 10.0 | Emily's Beauty Salon is a hair salon in Minneapolis, MN at 2740 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128704766. | https://dingalinged-cpu.github.io/registry/c/emilys-beauty-salon-minneapolis/
-298. Estetica | trust 10.0 | Estetica is a hair salon in Saint Paul, MN at 165 Western Avenue North, Saint Paul, MN 55102. Website: https://esteticastpaul.com/. | https://dingalinged-cpu.github.io/registry/c/estetica-saint-paul/
-299. Evolution Experience Hair Culture | trust 10.0 | Evolution Experience Hair Culture is a hair salon in Minneapolis, MN at 2836 Lyndale Avenue South, Minneapolis, MN 55408. Website: https://www.evolutionhair.com/. | https://dingalinged-cpu.github.io/registry/c/evolution-experience-hair-culture-minneapolis/
-300. Fadesss Barber Studio | trust 10.0 | Fadesss Barber Studio is a hair salon in Saint Louis Park, MN at 8005 Minnetonka Boulevard, Saint Louis Park, MN 55426. Phone: +19529354428. | https://dingalinged-cpu.github.io/registry/c/fadesss-barber-studio-saint-louis-park/
-301. Fantastic Sams | trust 10.0 | Fantastic Sams is a hair salon in Maple Grove, MN at 9859 Maple Grove Parkway, Maple Grove, MN 55369. Phone: +17633916664. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-maple-grove/
-302. Fay's Newport Style Salon | trust 10.0 | Fay's Newport Style Salon is a hair salon in Newport, MN at 745 High Street #4, Newport, MN 55055. Website: https://faysnewportstylesalon.weebly.com/. | https://dingalinged-cpu.github.io/registry/c/fays-newport-style-salon-newport/
-303. FC Salon Studios | trust 10.0 | FC Salon Studios is a hair salon in Westchester, IL at 1919 South Mannheim Road, Westchester, IL 60154. Website: https://www.instagram.com/fcsalonstudios/. | https://dingalinged-cpu.github.io/registry/c/fc-salon-studios-westchester/
-304. Floyd's 99 Barbershop | trust 10.0 | Floyd's 99 Barbershop is a hair salon in Evanston, IL at 1741 Sherman Avenue, Evanston, IL 60201. Website: https://www.floydsbarbershop.com/evanston/. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-evanston/
-305. Floyd's 99 Barbershop | trust 10.0 | Floyd's 99 Barbershop is a hair salon in La Grange, IL at 71 South La Grange Road, La Grange, IL 60525. Website: https://www.floydsbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-la-grange/
-306. Floyd's 99 Barbershop | trust 10.0 | Floyd's 99 Barbershop is a hair salon in Park Ridge, IL at 742 Higgins Road, Park Ridge, IL 60068. Website: https://www.floydsbarbershop.com/park-ridge/. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-park-ridge/
-307. Frida Hair Studio | trust 10.0 | Frida Hair Studio is a hair salon in Evanston, IL at 1005 Davis Street, Evanston, IL 60201. Phone: +18473322324. | https://dingalinged-cpu.github.io/registry/c/frida-hair-studio-evanston/
-308. Fringe / A Salon | trust 10.0 | Fringe / A Salon is a hair salon in Chicago, IL at 1437 North Milwaukee Avenue, Chicago, IL 60622. Website: https://fringechicago.com/. | https://dingalinged-cpu.github.io/registry/c/fringe-a-salon-chicago/
-309. Fusion Salon | trust 10.0 | Fusion Salon is a hair salon in Saint Paul, MN at 712 Snelling Avenue, Saint Paul, MN 55104. Phone: +16516455112. | https://dingalinged-cpu.github.io/registry/c/fusion-salon-saint-paul/
-310. Grandview Barber Shop | trust 10.0 | Grandview Barber Shop is a hair salon in Saint Paul, MN at 1852 Grand Avenue, Saint Paul, MN 55105. Phone: +16516984400. | https://dingalinged-cpu.github.io/registry/c/grandview-barber-shop-saint-paul/
-311. Great Clips | trust 10.0 | Great Clips is a hair salon in Chicago, IL at 1651 West Roosevelt Road #A, Chicago, IL 60608. Website: https://salons.greatclips.com/us/il/chicago/1651-w-roosevelt-rd. | https://dingalinged-cpu.github.io/registry/c/great-clips-chicago-n9695680552/
-312. Great Clips | trust 10.0 | Great Clips is a hair salon in Merrionette Park, IL at 3333 West 115th Street, Merrionette Park, IL 60803. Website: https://salons.greatclips.com/us/il/merrionette-park/3333-w-115th-st. | https://dingalinged-cpu.github.io/registry/c/great-clips-merrionette-park/
-313. Great Clips | trust 10.0 | Great Clips is a hair salon in Palos Heights, IL at 12801 Harlem Avenue #C, Palos Heights, IL 60463. Website: https://salons.greatclips.com/us/il/palos-heights/12801-s-harlem-ave. | https://dingalinged-cpu.github.io/registry/c/great-clips-palos-heights/
-314. Hair Cuttery | trust 10.0 | Hair Cuttery is a hair salon in Chicago, IL at 1103 South State Street #500, Chicago, IL 60605. Website: https://www.haircuttery.com/. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-chicago/
-315. Hair Cuttery | trust 10.0 | Hair Cuttery is a hair salon in Frankfort, IL at 11063 Lincoln Highway, Frankfort, IL 60423. Phone: +18154641565. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-frankfort/
-316. Hair Cuttery | trust 10.0 | Hair Cuttery is a hair salon in Merrionette Park, IL at 3273 West 115th Street, Merrionette Park, IL 60803. Website: https://locations.haircuttery.com/il/merrionette-park/3273-w-115th-st. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-merrionette-park/
-317. Hair Cuttery | trust 10.0 | Hair Cuttery is a hair salon in Munster, IN at 7944 Calumet Avenue, Munster, IN 46321. Website: https://locations.haircuttery.com/in/munster/7944-calumet-ave. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-munster/
-318. Hair'z My Forte | trust 10.0 | Hair'z My Forte is a hair salon in Forest Park, IL at 7440 Harrison Street #A, Forest Park, IL 60130. Phone: +17083666680. | https://dingalinged-cpu.github.io/registry/c/hairz-my-forte-forest-park/
-319. hairlounge Minneapolis | trust 10.0 | hairlounge Minneapolis is a hair salon in Minneapolis, MN at 614 West Lake Street, Minneapolis, MN 55408. Website: https://hairloungeminneapolis.com/. | https://dingalinged-cpu.github.io/registry/c/hairlounge-minneapolis-minneapolis/
-320. HairPolice | trust 10.0 | HairPolice is a hair salon in Minneapolis, MN at 611 West Lake Street, Minneapolis, MN 55408. Website: https://www.hairpolice.com/. | https://dingalinged-cpu.github.io/registry/c/hairpolice-minneapolis/
-321. Hairtage Loc Shop | trust 10.0 | Hairtage Loc Shop is a hair salon in Saint Paul, MN at 1451 University Avenue, Saint Paul, MN 55104. Phone: +16124039456. | https://dingalinged-cpu.github.io/registry/c/hairtage-loc-shop-saint-paul/
-322. Holy Fade! | trust 10.0 | Holy Fade! is a hair salon in Chicago, IL at 3345 North Broadway, Chicago, IL 60657. Website: https://www.holyfade.com/. | https://dingalinged-cpu.github.io/registry/c/holy-fade-chicago/
-323. Innovations Salon | trust 10.0 | Innovations Salon is a hair salon in West Saint Paul, MN at 1020 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514551231. | https://dingalinged-cpu.github.io/registry/c/innovations-salon-west-saint-paul/
-324. Jon English Hairspa: Advanced Training & Development Center | trust 10.0 | Jon English Hairspa: Advanced Training & Development Center is a hair salon in Minneapolis, MN at 2929 Lyndale Avenue South, Minneapolis, MN 55408. Website: https://www.jonenglishproducts.com/. | https://dingalinged-cpu.github.io/registry/c/jon-english-hairspa-advanced-training-and-development-center-minneapolis/
-325. JV Hair Design | trust 10.0 | JV Hair Design is a hair salon in Chicago, IL at 5809 West Diversey Avenue, Chicago, IL 60639. Phone: +17734177722. | https://dingalinged-cpu.github.io/registry/c/jv-hair-design-chicago/
-326. Lackey's Barbershop | trust 10.0 | Lackey's Barbershop is a hair salon in Gary, IN at 2057 Grant Street, Gary, IN 46404. Phone: +12199440515. | https://dingalinged-cpu.github.io/registry/c/lackeys-barbershop-gary/
-327. Le's Beauty Salon | trust 10.0 | Le's Beauty Salon is a hair salon in Minneapolis, MN at 2724 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128714919. | https://dingalinged-cpu.github.io/registry/c/les-beauty-salon-minneapolis/
-328. Leo's Barber Lounge | trust 10.0 | Leo's Barber Lounge is a hair salon in Westchester, IL at 10423 West Cermak Road, Westchester, IL 60154. Phone: +17733063966. | https://dingalinged-cpu.github.io/registry/c/leos-barber-lounge-westchester/
-329. Luminosity | trust 10.0 | Luminosity is a hair salon in Evanston, IL at 941 Chicago Avenue, Evanston, IL 60202. Phone: +18478697514. | https://dingalinged-cpu.github.io/registry/c/luminosity-evanston/
-330. Mai Hoa Beauty Salon | trust 10.0 | Mai Hoa Beauty Salon is a hair salon in Minneapolis, MN at 2747 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128711495. | https://dingalinged-cpu.github.io/registry/c/mai-hoa-beauty-salon-minneapolis/
-331. Midtown Barbers | trust 10.0 | Midtown Barbers is a hair salon in Minneapolis, MN. Phone: +17633273043. | https://dingalinged-cpu.github.io/registry/c/midtown-barbers-minneapolis/
-332. Monte's Barbers | trust 10.0 | Monte's Barbers is a hair salon in Saint Louis Park, MN at 6528 Lake Street West, Saint Louis Park, MN 55426. Phone: +19529229384. | https://dingalinged-cpu.github.io/registry/c/montes-barbers-saint-louis-park/
-333. More Than Hair | trust 10.0 | More Than Hair is a hair salon in Brookfield, IL at 9242 Broadway Avenue, Brookfield, IL 60513. Phone: +17083879885. | https://dingalinged-cpu.github.io/registry/c/more-than-hair-brookfield/
-334. No Limit Cutts & Creations | trust 10.0 | No Limit Cutts & Creations is a hair salon in Gary, IN at 3121 West 15th Avenue, Gary, IN 46404. Phone: +12199447741. | https://dingalinged-cpu.github.io/registry/c/no-limit-cutts-and-creations-gary/
-335. Nokomis Hair Design | trust 10.0 | Nokomis Hair Design is a hair salon in Minneapolis, MN at East 50th Street, Minneapolis, MN 55417. Phone: +16127225857. | https://dingalinged-cpu.github.io/registry/c/nokomis-hair-design-minneapolis/
-336. Noyes Barbershop | trust 10.0 | Noyes Barbershop is a hair salon in Evanston, IL at 916 Noyes Street, Evanston, IL 60201. Phone: +18478666565. | https://dingalinged-cpu.github.io/registry/c/noyes-barbershop-evanston/
-337. park terrace salon | trust 10.0 | park terrace salon is a hair salon in Minneapolis, MN at 4358 Zenith Avenue South, Minneapolis, MN 55410. Website: https://thinhairsolved.com/. | https://dingalinged-cpu.github.io/registry/c/park-terrace-salon-minneapolis/
-338. Parker House Hair Care | trust 10.0 | Parker House Hair Care is a hair salon in Mount Prospect, IL at 11 East Prospect Avenue, Mount Prospect, IL 60056. Phone: +18473920955. | https://dingalinged-cpu.github.io/registry/c/parker-house-hair-care-mount-prospect/
-339. Q Salon | trust 10.0 | Q Salon is a hair salon in Minneapolis, MN at 2727 Nicollet Avenue South #9, Minneapolis, MN 55408. Phone: +16128701291. | https://dingalinged-cpu.github.io/registry/c/q-salon-minneapolis/
-340. Queen Bees Buzz and Men's Cuts | trust 10.0 | Queen Bees Buzz and Men's Cuts is a hair salon in New Lenox, IL at 328 East Lincoln Highway, New Lenox, IL 60451. Phone: +17083084211. | https://dingalinged-cpu.github.io/registry/c/queen-bees-buzz-and-mens-cuts-new-lenox/
-341. Ramiro's Hair Studio | trust 10.0 | Ramiro's Hair Studio is a hair salon in Forest Park, IL at 7522 Harrison Street, Forest Park, IL 60130. Phone: +17087717175. | https://dingalinged-cpu.github.io/registry/c/ramiros-hair-studio-forest-park/
-342. Rare Bird Beauties Studio | trust 10.0 | Rare Bird Beauties Studio is a hair salon in Chicago, IL. Website: https://www.rarebirdbeauties.com/. | https://dingalinged-cpu.github.io/registry/c/rare-bird-beauties-studio-chicago/
-343. Remix Barber & Beauty | trust 10.0 | Remix Barber & Beauty is a hair salon in Minneapolis, MN at 219 Oliver Avenue South, Minneapolis, MN 55405. Phone: +16123772214. | https://dingalinged-cpu.github.io/registry/c/remix-barber-and-beauty-minneapolis/
-344. Riverstone Salon Spa | trust 10.0 | Riverstone Salon Spa is a hair salon in Minneapolis, MN at 3764 Minnehaha Avenue, Minneapolis, MN 55406. Website: https://riverstonesalonspa.com/. | https://dingalinged-cpu.github.io/registry/c/riverstone-salon-spa-minneapolis/
-345. Rolayne's Hair Design | trust 10.0 | Rolayne's Hair Design is a hair salon in Minneapolis, MN at 408 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +16122310601. | https://dingalinged-cpu.github.io/registry/c/rolaynes-hair-design-minneapolis/
-346. Roy's Hair Salon | trust 10.0 | Roy's Hair Salon is a hair salon in Melrose Park, IL at 113 Broadway Avenue, Melrose Park, IL 60160. Phone: +17082528195. | https://dingalinged-cpu.github.io/registry/c/roys-hair-salon-melrose-park/
-347. Sadots Barbershop | trust 10.0 | Sadots Barbershop is a hair salon in Gary, IN at 3940 Broadway, Gary, IN 46408. Phone: +12198889850. | https://dingalinged-cpu.github.io/registry/c/sadots-barbershop-gary/
-348. Salon Avenue | trust 10.0 | Salon Avenue is a hair salon in Naperville, IL at 1163 East Ogden Avenue #625, Naperville, IL 60563. Phone: +16307095078. | https://dingalinged-cpu.github.io/registry/c/salon-avenue-naperville/
-349. Salon in the Park | trust 10.0 | Salon in the Park is a hair salon in Saint Paul, MN at 2311 Como Avenue, Saint Paul, MN 55108. Phone: +16516452666. | https://dingalinged-cpu.github.io/registry/c/salon-in-the-park-saint-paul/
-350. Salon Ling | trust 10.0 | Salon Ling is a hair salon in Saint Paul, MN at 2095 Como Avenue, Saint Paul, MN 55108. Phone: +16519173033. | https://dingalinged-cpu.github.io/registry/c/salon-ling-saint-paul/
-351. Salon Lofts | trust 10.0 | Salon Lofts is a hair salon in Naperville, IL at 22 East Chicago Avenue #113, Naperville, IL 60540. Website: https://salonlofts.com/salons/naperville. | https://dingalinged-cpu.github.io/registry/c/salon-lofts-naperville/
-352. Salon Lofts West Lakeview | trust 10.0 | Salon Lofts West Lakeview is a hair salon in Chicago, IL at 3300 North Lincoln Avenue, Chicago, IL 60657. Website: https://salonlofts.com/salons/west_lakeview. | https://dingalinged-cpu.github.io/registry/c/salon-lofts-west-lakeview-chicago/
-353. Salon Sparrow | trust 10.0 | Salon Sparrow is a hair salon in Minneapolis, MN at 3306 West 44th Street, Minneapolis, MN 55410. Website: https://www.salonsparrowmpls.com/. | https://dingalinged-cpu.github.io/registry/c/salon-sparrow-minneapolis/
-354. SalonCentric | trust 10.0 | SalonCentric is a hair salon in Harwood Heights, IL at 5142 North Harlem Avenue, Harwood Heights, IL 60706. Website: https://stores.saloncentric.com/il/harwood-heights/4125. | https://dingalinged-cpu.github.io/registry/c/saloncentric-harwood-heights/
-355. Sashair Salon | trust 10.0 | Sashair Salon is a hair salon in Minneapolis, MN at 1904 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16125458155. | https://dingalinged-cpu.github.io/registry/c/sashair-salon-minneapolis/
-356. Shin's Hair Salon | trust 10.0 | Shin's Hair Salon is a hair salon in Minneapolis, MN at 211 Southeast Oak Street, Minneapolis, MN 55414. Phone: +16123311260. | https://dingalinged-cpu.github.io/registry/c/shins-hair-salon-minneapolis/
-357. Signature Barbershop | trust 10.0 | Signature Barbershop is a hair salon in Orland Park, IL at 7844 West 159th Street, Orland Park, IL 60462. Website: https://signaturebarbershop.org/. | https://dingalinged-cpu.github.io/registry/c/signature-barbershop-orland-park/
-358. Silver Clip | trust 10.0 | Silver Clip is a hair salon in Saint Paul, MN. Phone: +16512261833. | https://dingalinged-cpu.github.io/registry/c/silver-clip-saint-paul/
-359. Simply Chic Beauty Salon | trust 10.0 | Simply Chic Beauty Salon is a hair salon in Chicago, IL at 5936 West Lawrence Avenue, Chicago, IL 60630. Phone: +17734819811. | https://dingalinged-cpu.github.io/registry/c/simply-chic-beauty-salon-chicago/
-360. Sport Clips | trust 10.0 | Sport Clips is a hair salon in Bolingbrook, IL at 722 East Boughton Road, Bolingbrook, IL 60440. Phone: +16307395446. | https://dingalinged-cpu.github.io/registry/c/sport-clips-bolingbrook/
-361. Sport Clips | trust 10.0 | Sport Clips is a hair salon in Chicago, IL at 2750 North Clybourn Avenue, Chicago, IL 60614. Website: https://sportclips.com/us-il-chicago-il209. | https://dingalinged-cpu.github.io/registry/c/sport-clips-chicago-w1319742216/
-362. Sport Clips | trust 10.0 | Sport Clips is a hair salon in Crestwood, IL at 13422 Cicero Avenue, Crestwood, IL 60445. Website: https://sportclips.com/us-il-crestwood-il169. | https://dingalinged-cpu.github.io/registry/c/sport-clips-crestwood/
-363. Sport Clips | trust 10.0 | Sport Clips is a hair salon in Glenview, IL at 45 Waukegan Road, Glenview, IL 60025. Website: https://sportclips.com/us-il-glenview-il171. | https://dingalinged-cpu.github.io/registry/c/sport-clips-glenview/
-364. Sport Clips | trust 10.0 | Sport Clips is a hair salon in Vernon Hills, IL at 701 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18476800525. | https://dingalinged-cpu.github.io/registry/c/sport-clips-vernon-hills/
-365. Squared Up Hair | trust 10.0 | Squared Up Hair is a hair salon in Minneapolis, MN at 1228 Northeast 2nd Street, Minneapolis, MN 55413. Website: https://squareduphair.com/. | https://dingalinged-cpu.github.io/registry/c/squared-up-hair-minneapolis/
-366. Stilo Cuts | trust 10.0 | Stilo Cuts is a hair salon in Minneapolis, MN at 224 Traffic Street North, Minneapolis, MN 55401. Website: https://stilocuts.com/. | https://dingalinged-cpu.github.io/registry/c/stilo-cuts-minneapolis-n12754418802/
-367. Swoon Lash + Beauty Lounge | trust 10.0 | Swoon Lash + Beauty Lounge is a hair salon in Saint Louis Park, MN at 6610 West Lake Street, Saint Louis Park, MN 55426. Website: https://swoonbeautylounge.com/. | https://dingalinged-cpu.github.io/registry/c/swoon-lash-beauty-lounge-saint-louis-park/
-368. T-Hair | trust 10.0 | T-Hair is a hair salon in Chaska, MN at 812 Yellow Brick Road, Chaska, MN 55318. Phone: +16125050835. | https://dingalinged-cpu.github.io/registry/c/t-hair-chaska/
-369. The Connect Hair Studio | trust 10.0 | The Connect Hair Studio is a hair salon in Minneapolis, MN at 1501 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16517858275. | https://dingalinged-cpu.github.io/registry/c/the-connect-hair-studio-minneapolis/
-370. The Dapper Wolf | trust 10.0 | The Dapper Wolf is a barber shop in Saint Paul, MN at 2032 Marshall Avenue #Suite B, Saint Paul, MN 55104. Phone: +16129619772. | https://dingalinged-cpu.github.io/registry/c/the-dapper-wolf-saint-paul/
-371. The Goat Parlor | trust 10.0 | The Goat Parlor is a hair salon in Chicago, IL at 2727 North Harlem Avenue, Chicago, IL 60707. Phone: +17734173442. | https://dingalinged-cpu.github.io/registry/c/the-goat-parlor-chicago/
-372. The Salon By Andrea Hunt | trust 10.0 | The Salon By Andrea Hunt is a hair salon in Edina, MN. Website: https://thesalonbyandreahunt.com/. | https://dingalinged-cpu.github.io/registry/c/the-salon-by-andrea-hunt-edina/
-373. The Style Lounge Brookfield | trust 10.0 | The Style Lounge Brookfield is a hair salon in Brookfield, IL at 9120 Ogden Avenue, Brookfield, IL 60513. Website: https://thestyleloungebrookfield.mysalononline.com/Contact. | https://dingalinged-cpu.github.io/registry/c/the-style-lounge-brookfield-brookfield/
-374. The Trim Barbershop | trust 10.0 | The Trim Barbershop is a hair salon in Chicago, IL at 3837 East 106th Street, Chicago, IL 60617. Phone: +17733756560. | https://dingalinged-cpu.github.io/registry/c/the-trim-barbershop-chicago/
-375. Tony's Barber Shop | trust 10.0 | Tony's Barber Shop is a hair salon in Downers Grove, IL at 6228A Main Street, Downers Grove, IL 60516. Phone: +16309686919. | https://dingalinged-cpu.github.io/registry/c/tonys-barber-shop-downers-grove/
-376. Top Chop Barber | trust 10.0 | Top Chop Barber is a barber shop in Minneapolis, MN at 711 West Lake Street #601, Minneapolis, MN 55408. Website: https://topchopbarber.com/. | https://dingalinged-cpu.github.io/registry/c/top-chop-barber-minneapolis/
-377. Top Shop Chicago | trust 10.0 | Top Shop Chicago is a hair salon in Chicago, IL at 751 North Clark Street, Chicago, IL 60654. Website: https://www.ajtopshop.com/. | https://dingalinged-cpu.github.io/registry/c/top-shop-chicago-chicago/
-378. Ultimate Image | trust 10.0 | Ultimate Image is a barber shop in Frankfort, IL at 10850 West Laraway Road #5W, Frankfort, IL 60423. Phone: +18154647205. | https://dingalinged-cpu.github.io/registry/c/ultimate-image-frankfort/
-379. Van Thomas Salon | trust 10.0 | Van Thomas Salon is a hair salon in Edina, MN. Website: https://www.vanthomassalon.com/. | https://dingalinged-cpu.github.io/registry/c/van-thomas-salon-edina/
-380. Vickie's Plaza Hairstyles | trust 10.0 | Vickie's Plaza Hairstyles is a hair salon in South Saint Paul, MN at 1525 5th Avenue South, South Saint Paul, MN 55075. Phone: +16514512900. | https://dingalinged-cpu.github.io/registry/c/vickies-plaza-hairstyles-south-saint-paul/
-381. VIP Cutz | trust 10.0 | VIP Cutz is a hair salon in Chicago, IL at 3723 East 106th Street, Chicago, IL 60617. Phone: +17739339921. | https://dingalinged-cpu.github.io/registry/c/vip-cutz-chicago/
-382. W Hair Room | trust 10.0 | W Hair Room is a hair salon in Chicago, IL at 3437 North Sheffield Avenue, Chicago, IL 60657. Phone: +17738577766. | https://dingalinged-cpu.github.io/registry/c/w-hair-room-chicago/
-383. WestSide HairCare Salon | trust 10.0 | WestSide HairCare Salon is a hair salon in Saint Paul, MN at 450 Robert Street South, Saint Paul, MN 55107. Phone: +16512254597. | https://dingalinged-cpu.github.io/registry/c/westside-haircare-salon-saint-paul/
-384. Yehia & Co Hair Designs | trust 10.0 | Yehia & Co Hair Designs is a hair salon in Chicago, IL at 1455 East 53rd Street, Chicago, IL 60615. Phone: +17736671154. | https://dingalinged-cpu.github.io/registry/c/yehia-and-co-hair-designs-chicago/
-385. Barber Shop | trust 9.0 | Barber Shop is a barber shop in Burnsville, MN at 2520, Burnsville, MN. Phone: +16124343587. | https://dingalinged-cpu.github.io/registry/c/barber-shop-burnsville/
-386. Eddie's Barber Shop | trust 9.0 | Eddie's Barber Shop is a barber shop in Minneapolis, MN at 4301 4th Avenue South, Minneapolis, MN. Phone: +16124580104. | https://dingalinged-cpu.github.io/registry/c/eddies-barber-shop-minneapolis/
-387. Gavin Victor | trust 9.0 | Gavin Victor is a hair salon in Minneapolis, MN at 2827 1/2 Hennepin Avenue South, Minneapolis, MN. Website: https://www.hairloungeminneapolis.com/. | https://dingalinged-cpu.github.io/registry/c/gavin-victor-minneapolis/
-388. Goodfellas Barber Studio | trust 9.0 | Goodfellas Barber Studio is a barber shop in Minneapolis, MN at 906 West Lake Street, Minneapolis, MN. Website: https://goodfellasbarberstudio.com/. | https://dingalinged-cpu.github.io/registry/c/goodfellas-barber-studio-minneapolis/
-389. Goodman's Barber Lounge | trust 9.0 | Goodman's Barber Lounge is a barber shop in Chicago, IL at 453 West Chicago Avenue, Chicago, IL. Website: https://goodmansbarberlounge.com/. | https://dingalinged-cpu.github.io/registry/c/goodmans-barber-lounge-chicago/
-390. James Irving Salon | trust 9.0 | James Irving Salon is a barber shop in Minneapolis, MN at 1608 West Lake Street, Minneapolis, MN. Phone: +16128224323. | https://dingalinged-cpu.github.io/registry/c/james-irving-salon-minneapolis/
-391. Levant Barber Shop | trust 9.0 | Levant Barber Shop is a barber shop in Chicago, IL at 149 West Chicago Avenue, Chicago, IL. Website: https://levantbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/levant-barber-shop-chicago/
-392. Milagro's Beauty Salon | trust 9.0 | Milagro's Beauty Salon is a hair salon in Hilltop, MN at 815 45th Avenue Northeast, Hilltop, MN. Phone: +17635711702. | https://dingalinged-cpu.github.io/registry/c/milagros-beauty-salon-hilltop/
-393. Minnehaven Barbers | trust 9.0 | Minnehaven Barbers is a hair salon in Minnetonka, MN at 3400, Minnetonka, MN. Phone: +16124730283. | https://dingalinged-cpu.github.io/registry/c/minnehaven-barbers-minnetonka/
-394. Refined Barbershop | trust 9.0 | Refined Barbershop is a barber shop in Chicago, IL at 328 South Jefferson Street, Chicago, IL. Website: https://refinedbarber.co/. | https://dingalinged-cpu.github.io/registry/c/refined-barbershop-chicago/
-395. Salons by JC | trust 9.0 | Salons by JC is a hair salon in Minneapolis, MN at 3016 Hennepin Avenue South, Minneapolis, MN. Phone: +16122930336. | https://dingalinged-cpu.github.io/registry/c/salons-by-jc-minneapolis/
-396. Twisted Hare Salon and Spa | trust 9.0 | Twisted Hare Salon and Spa is a hair salon in Minneapolis, MN at 4805 Nicollet Avenue South, Minneapolis, MN. Website: https://thetwistedhare.com/. | https://dingalinged-cpu.github.io/registry/c/twisted-hare-salon-and-spa-minneapolis/
-397. ACE Fadezz Barbershop | trust 8.0 | ACE Fadezz Barbershop is a hair salon in Chicago, IL at 10509 South Ewing Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/ace-fadezz-barbershop-chicago/
-398. Ash and Willow | trust 8.0 | Ash and Willow is a hair salon in Park Ridge, IL at 610 Devon Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/ash-and-willow-park-ridge/
-399. Bella's Hair Salon | trust 8.0 | Bella's Hair Salon is a hair salon in Arlington Heights, IL at 634 East Golf Road, Arlington Heights, IL 60005. | https://dingalinged-cpu.github.io/registry/c/bellas-hair-salon-arlington-heights/
-400. Betty's and Nick's Family Hair | trust 8.0 | Betty's and Nick's Family Hair is a hair salon in Skokie, IL at 4110 Oakton Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/bettys-and-nicks-family-hair-skokie/
-401. Bevel Salon | trust 8.0 | Bevel Salon is a hair salon in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/bevel-salon-wauconda/
-402. Black Sheep Barber Studio | trust 8.0 | Black Sheep Barber Studio is a hair salon in Coon Rapids, MN at 3359 Coon Rapids Boulevard Northwest, Coon Rapids, MN 55433. | https://dingalinged-cpu.github.io/registry/c/black-sheep-barber-studio-coon-rapids/
-403. Elegance Salon & Barbershop | trust 8.0 | Elegance Salon & Barbershop is a hair salon in Evanston, IL at 1704 Sherman Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/elegance-salon-and-barbershop-evanston/
-404. Faded Barbershop Uptown | trust 8.0 | Faded Barbershop Uptown is a hair salon in Minneapolis, MN at 2649 Lyndale Avenue South #200, Minneapolis, MN 55408. | https://dingalinged-cpu.github.io/registry/c/faded-barbershop-uptown-minneapolis/
-405. Floyd's 99 Barbershop | trust 8.0 | Floyd's 99 Barbershop is a hair salon in Chicago, IL at 2572 North Clark Street, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-chicago/
-406. Gent Cuts and Grooming | trust 8.0 | Gent Cuts and Grooming is a hair salon in Eden Prairie, MN at 12900 Technology Drive #180, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/gent-cuts-and-grooming-eden-prairie/
-407. Great Clips | trust 8.0 | Great Clips is a hair salon in Minneapolis, MN at 4620 Nicollet Avenue South, Minneapolis, MN 55419. | https://dingalinged-cpu.github.io/registry/c/great-clips-minneapolis-n12955278811/
-408. Great Clips | trust 8.0 | Great Clips is a hair salon in Schaumburg, IL at 1328 North Roselle Road, Schaumburg, IL 60195. | https://dingalinged-cpu.github.io/registry/c/great-clips-schaumburg/
-409. Hair Apothecary | trust 8.0 | Hair Apothecary is a hair salon in Chicago, IL at 1833 West Irving Park Road, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/hair-apothecary-chicago/
-410. Hair Cuttery | trust 8.0 | Hair Cuttery is a hair salon in Griffith, IN at 100 West Ridge Road, Griffith, IN 46319. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-griffith/
-411. Hyde Park Barber Studio | trust 8.0 | Hyde Park Barber Studio is a hair salon in Chicago, IL at 1431 East Hyde Park Boulevard, Chicago, IL 60615. | https://dingalinged-cpu.github.io/registry/c/hyde-park-barber-studio-chicago/
-412. Kong's Beauty | trust 8.0 | Kong's Beauty is a hair salon in Eden Prairie, MN at 12160 Technology Drive, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/kongs-beauty-eden-prairie/
-413. Lucy's Hair Salon | trust 8.0 | Lucy's Hair Salon is a hair salon in Chicago, IL at 2126 North Western Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/lucys-hair-salon-chicago/
-414. Mastercuts | trust 8.0 | Mastercuts is a hair salon in Palatine, IL at 245 East Northwest Highway, Palatine, IL 60067. | https://dingalinged-cpu.github.io/registry/c/mastercuts-palatine/
-415. New York Barber Shop | trust 8.0 | New York Barber Shop is a hair salon in Chicago, IL at 10046 South Ewing Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/new-york-barber-shop-chicago/
-416. Nomadic Oasis Barber & Lounge | trust 8.0 | Nomadic Oasis Barber & Lounge is a hair salon in Minneapolis, MN at 2525 East Franklin Avenue #100, Minneapolis, MN 55406. | https://dingalinged-cpu.github.io/registry/c/nomadic-oasis-barber-and-lounge-minneapolis/
-417. Rockstyles By Ellyse | trust 8.0 | Rockstyles By Ellyse is a hair salon in Wheeling, IL at 749 West Dundee Road, Wheeling, IL 60090. | https://dingalinged-cpu.github.io/registry/c/rockstyles-by-ellyse-wheeling/
-418. Sport Clips | trust 8.0 | Sport Clips is a hair salon in Addison, IL at 1072 North Rohlwing Road, Addison, IL 60101. | https://dingalinged-cpu.github.io/registry/c/sport-clips-addison/
-419. Sport Clips | trust 8.0 | Sport Clips is a hair salon in Minneapolis, MN at 1730 New Brighton Boulevard #Suite 105, Minneapolis, MN 55413. | https://dingalinged-cpu.github.io/registry/c/sport-clips-minneapolis-n9565699936/
-420. The Gentlemen’s Barber | trust 8.0 | The Gentlemen’s Barber is a barber shop in Wheaton, IL at 128 West Willow Avenue, Wheaton, IL 60187. | https://dingalinged-cpu.github.io/registry/c/the-gentlemen-s-barber-wheaton/
-421. The Squire | trust 8.0 | The Squire is a barber shop in Saint Paul, MN at 1575 Grand Avenue, Saint Paul, MN 55105. | https://dingalinged-cpu.github.io/registry/c/the-squire-saint-paul/
-422. A&V Family Hair Care | trust 7.0 | A&V Family Hair Care is a hair salon in Mount Prospect, IL at 207 South Emerson Street, Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/a-and-v-family-hair-care-mount-prospect/
-423. Glam House Salon | trust 7.0 | Glam House Salon is a hair salon in Minneapolis, MN at 2659 Dupont Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/glam-house-salon-minneapolis/
-424. Great Clips | trust 7.0 | Great Clips is a hair salon in Shakopee, MN at 1172, Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-shakopee/
-425. Kids Hair | trust 7.0 | Kids Hair is a hair salon in Saint Paul, MN at 2040 Ford Parkway, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/kids-hair-saint-paul/
-426. Maria’s Beauty Salon | trust 7.0 | Maria’s Beauty Salon is a hair salon in Chicago, IL at 4109 South Archer Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/maria-s-beauty-salon-chicago/
-427. SimplyFaded Barbershop | trust 7.0 | SimplyFaded Barbershop is a hair salon in Saint Paul, MN at 340 North Sibley Street, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/simplyfaded-barbershop-saint-paul/
-428. Sport Clips | trust 7.0 | Sport Clips is a hair salon in Minneapolis, MN at 5440 Lyndale Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-minneapolis/
-429. Always Hair | trust 6.0 | Always Hair is a hair salon in Oak Forest, IL. Phone: +17086878800. | https://dingalinged-cpu.github.io/registry/c/always-hair-oak-forest/
-430. Avant | trust 6.0 | Avant is a hair salon in Minneapolis, MN. Website: https://avanthair.com/. | https://dingalinged-cpu.github.io/registry/c/avant-minneapolis/
-431. C2 Salon | trust 6.0 | C2 Salon is a hair salon in Saint Paul, MN. Phone: +16517715506. | https://dingalinged-cpu.github.io/registry/c/c2-salon-saint-paul/
-432. Cesar Luna Hair Salon | trust 6.0 | Cesar Luna Hair Salon is a hair salon in Chicago, IL. Phone: +18728024434. | https://dingalinged-cpu.github.io/registry/c/cesar-luna-hair-salon-chicago/
-433. Curl Power Salon | trust 6.0 | Curl Power Salon is a hair salon in Minneapolis, MN. Website: https://www.curlpowersalon.com/. | https://dingalinged-cpu.github.io/registry/c/curl-power-salon-minneapolis/
-434. Deelightful Hair Salon | trust 6.0 | Deelightful Hair Salon is a hair salon in Lyons, IL. Phone: +17084427022. | https://dingalinged-cpu.github.io/registry/c/deelightful-hair-salon-lyons/
-435. Galen's Barber Shop | trust 6.0 | Galen's Barber Shop is a hair salon in Shakopee, MN. Phone: +19524453263. | https://dingalinged-cpu.github.io/registry/c/galens-barber-shop-shakopee/
-436. Great Clips | trust 6.0 | Great Clips is a hair salon in Coon Rapids, MN. Phone: +17634214381. | https://dingalinged-cpu.github.io/registry/c/great-clips-coon-rapids/
-437. Image Studios | trust 6.0 | Image Studios is a hair salon in Chicago, IL. Website: https://imagestudios360.com/studio_locations/chicago-il/. | https://dingalinged-cpu.github.io/registry/c/image-studios-chicago/
-438. International | trust 6.0 | International is a hair salon in Chicago, IL. Phone: +17734767982. | https://dingalinged-cpu.github.io/registry/c/international-chicago/
-439. Kalla Lilly | trust 6.0 | Kalla Lilly is a hair salon in Coon Rapids, MN. Phone: +17633230777. | https://dingalinged-cpu.github.io/registry/c/kalla-lilly-coon-rapids/
-440. Kut 'em Up Barber & Beauty Salon | trust 6.0 | Kut 'em Up Barber & Beauty Salon is a hair salon in Maywood, IL. Phone: +17084838535. | https://dingalinged-cpu.github.io/registry/c/kut-em-up-barber-and-beauty-salon-maywood/
-441. Madison & Co. Salons | trust 6.0 | Madison & Co. Salons is a hair salon in Minneapolis, MN. Website: https://www.madisonandcompany.org/. | https://dingalinged-cpu.github.io/registry/c/madison-and-co-salons-minneapolis/
-442. Mane Tamers Salon | trust 6.0 | Mane Tamers Salon is a hair salon in Mokena, IL. Phone: +17084799149. | https://dingalinged-cpu.github.io/registry/c/mane-tamers-salon-mokena/
-443. Mastercuts | trust 6.0 | Mastercuts is a hair salon in Roseville, MN. Phone: +16516336333. | https://dingalinged-cpu.github.io/registry/c/mastercuts-roseville/
-444. Medinah Barber Shop | trust 6.0 | Medinah Barber Shop is a hair salon in Chicago, IL. Website: https://www.yelp.com/biz/medinah-barber-shop-chicago. | https://dingalinged-cpu.github.io/registry/c/medinah-barber-shop-chicago/
-445. Neighborhood Barbershop | trust 6.0 | Neighborhood Barbershop is a hair salon in Saint Paul, MN. Phone: +16517743020. | https://dingalinged-cpu.github.io/registry/c/neighborhood-barbershop-saint-paul/
-446. Sport Clips | trust 6.0 | Sport Clips is a barber shop in Saint Paul, MN. Website: https://www.sportclips.com/. | https://dingalinged-cpu.github.io/registry/c/sport-clips-saint-paul/
-447. The Hair Shoppe | trust 6.0 | The Hair Shoppe is a hair salon in West Saint Paul, MN. Phone: +16514579308. | https://dingalinged-cpu.github.io/registry/c/the-hair-shoppe-west-saint-paul/
-448. The Petite Salon | trust 6.0 | The Petite Salon is a hair salon in Saint Paul, MN. Website: https://www.facebook.com/thepetitesalon. | https://dingalinged-cpu.github.io/registry/c/the-petite-salon-saint-paul/
-449. 57th Street Hair Salon | trust 4.0 | 57th Street Hair Salon is a hair salon in Chicago, IL at 1444 East 57th Street, Chicago, IL 60637. | https://dingalinged-cpu.github.io/registry/c/57th-street-hair-salon-chicago/
-450. A Barber's Touch | trust 4.0 | A Barber's Touch is a hair salon in Saint Louis Park, MN at 7121 Cedar Lake Road, Saint Louis Park, MN 55426. | https://dingalinged-cpu.github.io/registry/c/a-barbers-touch-saint-louis-park/
-451. Ace of Blades Barbershop | trust 4.0 | Ace of Blades Barbershop is a hair salon in Oak Lawn, IL at 5953 West 87th Street, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/ace-of-blades-barbershop-oak-lawn/
-452. Adore Me Hair Studio | trust 4.0 | Adore Me Hair Studio is a hair salon in Oak Park, IL at 906 Madison Street, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/adore-me-hair-studio-oak-park/
-453. Aetna Barber | trust 4.0 | Aetna Barber is a hair salon in Gary, IN at 935 Aetna Street, Gary, IN 46403. | https://dingalinged-cpu.github.io/registry/c/aetna-barber-gary/
-454. Amata Salon | trust 4.0 | Amata Salon is a hair salon in Rogers, MN at 21333 John Milless Drive, Rogers, MN 55374. | https://dingalinged-cpu.github.io/registry/c/amata-salon-rogers/
-455. Ana's Beauty Salon | trust 4.0 | Ana's Beauty Salon is a hair salon in Whiting, IN at 1440 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/anas-beauty-salon-whiting/
-456. Ankedo's Style Hair Salon | trust 4.0 | Ankedo's Style Hair Salon is a hair salon in Chicago, IL at 2024 West Montrose Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/ankedos-style-hair-salon-chicago/
-457. Ann & David's Studio | trust 4.0 | Ann & David's Studio is a hair salon in Chicago, IL at 5502 West Devon Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/ann-and-davids-studio-chicago/
-458. Anna's Hair Salon & Spa | trust 4.0 | Anna's Hair Salon & Spa is a hair salon in Chicago, IL at 6342 West Gunnison Street, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/annas-hair-salon-and-spa-chicago/
-459. Armand Salon Suites | trust 4.0 | Armand Salon Suites is a hair salon in Chicago, IL at 5434 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/armand-salon-suites-chicago-n13670093525/
-460. Art + Science Salon | trust 4.0 | Art + Science Salon is a hair salon in Chicago, IL at 1144 West Randolph Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/art-science-salon-chicago/
-461. Avanzato Salon and Spa | trust 4.0 | Avanzato Salon and Spa is a hair salon in Orland Park, IL at 11317 West 159th Street, Orland Park, IL 60467. | https://dingalinged-cpu.github.io/registry/c/avanzato-salon-and-spa-orland-park/
-462. B Sharp Hair | trust 4.0 | B Sharp Hair is a hair salon in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/b-sharp-hair-edina/
-463. Bah's Hair Braiding | trust 4.0 | Bah's Hair Braiding is a hair salon in Evanston, IL at 309 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/bahs-hair-braiding-evanston/
-464. Barbers | trust 4.0 | Barbers is a hair salon in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/barbers-woodridge/
-465. Betty's & Nick's | trust 4.0 | Betty's & Nick's is a hair salon in Chicago, IL at 6015 West Irving Park Road, Chicago, IL 60634. | https://dingalinged-cpu.github.io/registry/c/bettys-and-nicks-chicago/
-466. Billy Malley's Hair Salon | trust 4.0 | Billy Malley's Hair Salon is a hair salon in Homer Glen, IL at 14322 South Golden Oak Drive, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/billy-malleys-hair-salon-homer-glen/
-467. Brunette Salon & Spa | trust 4.0 | Brunette Salon & Spa is a hair salon in Morton Grove, IL at 6007 West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/brunette-salon-and-spa-morton-grove/
-468. C & Co. | trust 4.0 | C & Co. is a hair salon in Schererville, IN at 1120 West Lincoln Highway, Schererville, IN 46375. | https://dingalinged-cpu.github.io/registry/c/c-and-co-schererville/
-469. C J Hair Braiding | trust 4.0 | C J Hair Braiding is a hair salon in Saint Paul, MN at 866 University Avenue West, Saint Paul, MN 55104. | https://dingalinged-cpu.github.io/registry/c/c-j-hair-braiding-saint-paul/
-470. Celebrity Salon | trust 4.0 | Celebrity Salon is a hair salon in Evanston, IL at 1041B Chicago Avenue, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/celebrity-salon-evanston/
-471. Central Hair Design | trust 4.0 | Central Hair Design is a hair salon in Saint Michael, MN at 321 Central Avenue East, Saint Michael, MN 55376. | https://dingalinged-cpu.github.io/registry/c/central-hair-design-saint-michael/
-472. Changez Barbershop | trust 4.0 | Changez Barbershop is a hair salon in Robbinsdale, MN at 3747 West Broadway Avenue, Robbinsdale, MN 55422. | https://dingalinged-cpu.github.io/registry/c/changez-barbershop-robbinsdale/
-473. Chanty & Mom Hair Studio | trust 4.0 | Chanty & Mom Hair Studio is a hair salon in Chicago, IL at 9656 South Commercial Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/chanty-and-mom-hair-studio-chicago/
-474. Charles Marris Salon | trust 4.0 | Charles Marris Salon is a hair salon in New Lenox, IL at 1832 East Lincoln Highway, New Lenox, IL 60451. | https://dingalinged-cpu.github.io/registry/c/charles-marris-salon-new-lenox/
-475. Chicago Barbershop | trust 4.0 | Chicago Barbershop is a hair salon in Chicago, IL at 2154 West Armitage Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/chicago-barbershop-chicago/
-476. Choice Beauty | trust 4.0 | Choice Beauty is a hair salon in Evanston, IL at 319 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/choice-beauty-evanston/
-477. Conjure Hair Collective | trust 4.0 | Conjure Hair Collective is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/conjure-hair-collective-minneapolis/
-478. Continental Salon | trust 4.0 | Continental Salon is a hair salon in Chicago, IL at 5533 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/continental-salon-chicago/
-479. Cost Cutters | trust 4.0 | Cost Cutters is a hair salon in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-west-saint-paul/
-480. Criss Hair Design | trust 4.0 | Criss Hair Design is a hair salon in Chicago, IL at 4707 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/criss-hair-design-chicago/
-481. Cut "n" Roll | trust 4.0 | Cut "n" Roll is a hair salon in Des Plaines, IL at Miner Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/cut-n-roll-des-plaines/
-482. Cutter's Cove | trust 4.0 | Cutter's Cove is a hair salon in Skokie, IL at 4037 Oakton Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/cutters-cove-skokie/
-483. Defy Hair | trust 4.0 | Defy Hair is a hair salon in Minneapolis, MN at 515 West Lake Street #D, Minneapolis, MN 55408. | https://dingalinged-cpu.github.io/registry/c/defy-hair-minneapolis/
-484. Duff's Barber Shop | trust 4.0 | Duff's Barber Shop is a hair salon in Hopkins, MN at 5 9th Avenue South, Hopkins, MN 55343. | https://dingalinged-cpu.github.io/registry/c/duffs-barber-shop-hopkins/
-485. Dulce Salon | trust 4.0 | Dulce Salon is a hair salon in Robbinsdale, MN at 3754 West Broadway Avenue, Robbinsdale, MN 55422. | https://dingalinged-cpu.github.io/registry/c/dulce-salon-robbinsdale/
-486. Esperanza Salon De Belleza | trust 4.0 | Esperanza Salon De Belleza is a hair salon in Chicago, IL at 8839 South Commercial Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/esperanza-salon-de-belleza-chicago/
-487. Euphoria Salaon | trust 4.0 | Euphoria Salaon is a hair salon in Saint Paul, MN at 256 Cleveland Avenue South, Saint Paul, MN 55105. | https://dingalinged-cpu.github.io/registry/c/euphoria-salaon-saint-paul/
-488. European Hair Salon | trust 4.0 | European Hair Salon is a hair salon in Chicago, IL at 6330 West Higgins Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/european-hair-salon-chicago/
-489. Fade City | trust 4.0 | Fade City is a hair salon in Forest Park, IL at 7233 Roosevelt Road, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/fade-city-forest-park/
-490. Fantastic Sams | trust 4.0 | Fantastic Sams is a hair salon in Eden Prairie, MN at 10165 Hennepin Town Road #107, Eden Prairie, MN 55347. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-eden-prairie/
-491. Fantastic Sams | trust 4.0 | Fantastic Sams is a hair salon in Forest Park, IL at 7226 Madison Street, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-forest-park/
-492. Fantastic Sams | trust 4.0 | Fantastic Sams is a hair salon in Harwood Heights, IL at 4711 North Harlem Avenue, Harwood Heights, IL 60706. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-harwood-heights/
-493. Fantastic Sams | trust 4.0 | Fantastic Sams is a hair salon in Oak Lawn, IL at 6316 West 95th Street, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-oak-lawn/
-494. Fantastic Sams | trust 4.0 | Fantastic Sams is a hair salon in Plymouth, MN at 4345 Nathan Lane North, Plymouth, MN 55442. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-plymouth/
-495. Farideh’s | trust 4.0 | Farideh’s is a hair salon in Lincolnwood, IL at 3939 West Touhy Avenue, Lincolnwood, IL 60712. | https://dingalinged-cpu.github.io/registry/c/farideh-s-lincolnwood/
-496. Faust of Italy Hair Salon & Spa | trust 4.0 | Faust of Italy Hair Salon & Spa is a hair salon in Morton Grove, IL at West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/faust-of-italy-hair-salon-and-spa-morton-grove/
-497. Fernwood | trust 4.0 | Fernwood is a hair salon in Chicago, IL at 4025 North Damen Avenue, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/fernwood-chicago/
-498. Floyd's 99 Barbershop | trust 4.0 | Floyd's 99 Barbershop is a hair salon in Chicago, IL at 1953 North Clybourn Avenue #R, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-chicago-n5761907307/
-499. Floyd's 99 Barbershop | trust 4.0 | Floyd's 99 Barbershop is a hair salon in Chicago, IL at 1409 North Milwaukee Avenue, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-chicago-w209863964/
-500. Floyd's 99 Barbershop | trust 4.0 | Floyd's 99 Barbershop is a hair salon in Minneapolis, MN at 424 North Washington Avenue #109, Minneapolis, MN 55401. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-minneapolis-n13823736879/
-501. Gents Barber Lounge | trust 4.0 | Gents Barber Lounge is a hair salon in Chicago, IL at 1039 West Taylor Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/gents-barber-lounge-chicago/
-502. Gina Salon | trust 4.0 | Gina Salon is a hair salon in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/gina-salon-skokie/
-503. Glenn's Barber Shop | trust 4.0 | Glenn's Barber Shop is a hair salon in Minneapolis, MN at 814 West 36th Street, Minneapolis, MN 55408. | https://dingalinged-cpu.github.io/registry/c/glenns-barber-shop-minneapolis/
-504. Glenna's Hair Salon | trust 4.0 | Glenna's Hair Salon is a hair salon in Chicago, IL at 3801 West 55th Street, Chicago, IL 60632. | https://dingalinged-cpu.github.io/registry/c/glennas-hair-salon-chicago/
-505. Goca's Hair Salon | trust 4.0 | Goca's Hair Salon is a hair salon in Chicago, IL at 4528 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/gocas-hair-salon-chicago/
-506. Good Cuts | trust 4.0 | Good Cuts is a hair salon in Chicago, IL at 4141 North Broadway, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/good-cuts-chicago/
-507. Great Clips | trust 4.0 | Great Clips is a hair salon in Bolingbrook, IL at 218 North Weber Road, Bolingbrook, IL 60440. | https://dingalinged-cpu.github.io/registry/c/great-clips-bolingbrook/
-508. Great Clips | trust 4.0 | Great Clips is a hair salon in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-brooklyn-park/
-509. Great Clips | trust 4.0 | Great Clips is a hair salon in Buffalo Grove, IL at 1543 Deerfield Parkway, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/great-clips-buffalo-grove/
-510. Great Clips | trust 4.0 | Great Clips is a hair salon in Chanhassen, MN at 832 West 78th Street, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/great-clips-chanhassen/
-511. Great Clips | trust 4.0 | Great Clips is a hair salon in Chicago, IL at 547 West Madison Street, Chicago, IL 60661. | https://dingalinged-cpu.github.io/registry/c/great-clips-chicago-n12327487722/
-512. Great Clips | trust 4.0 | Great Clips is a hair salon in Chicago, IL at 1342 South Halsted Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/great-clips-chicago-n6154694735/
-513. Great Clips | trust 4.0 | Great Clips is a hair salon in Chicago, IL at 5601 South Harlem Avenue, Chicago, IL 60638. | https://dingalinged-cpu.github.io/registry/c/great-clips-chicago-n7698726665/
-514. Great Clips | trust 4.0 | Great Clips is a hair salon in Chicago, IL at 3229 West Addison Street, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/great-clips-chicago-n8178703793/
-515. Great Clips | trust 4.0 | Great Clips is a hair salon in Downers Grove, IL at 1414 Butterfield Road, Downers Grove, IL 60515. | https://dingalinged-cpu.github.io/registry/c/great-clips-downers-grove-w196677294/
-516. Great Clips | trust 4.0 | Great Clips is a hair salon in Edina, MN at 5125 Gus Young Lane, Edina, MN 55436. | https://dingalinged-cpu.github.io/registry/c/great-clips-edina/
-517. Great Clips | trust 4.0 | Great Clips is a hair salon in Elmhurst, IL at 275 North York Street, Elmhurst, IL 60126. | https://dingalinged-cpu.github.io/registry/c/great-clips-elmhurst/
-518. Great Clips | trust 4.0 | Great Clips is a hair salon in Evanston, IL at 2432 Main Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/great-clips-evanston/
-519. Great Clips | trust 4.0 | Great Clips is a hair salon in Hoffman Estates, IL at 1568 West Algonquin Road, Hoffman Estates, IL 60192. | https://dingalinged-cpu.github.io/registry/c/great-clips-hoffman-estates/
-520. Great Clips | trust 4.0 | Great Clips is a hair salon in Maple Grove, MN at 15539 Grove Circle North, Maple Grove, MN 55369. | https://dingalinged-cpu.github.io/registry/c/great-clips-maple-grove/
-521. Great Clips | trust 4.0 | Great Clips is a hair salon in Minnetonka, MN at 11210 Wayzata Boulevard, Minnetonka, MN 55305. | https://dingalinged-cpu.github.io/registry/c/great-clips-minnetonka-n13596839201/
-522. Great Clips | trust 4.0 | Great Clips is a hair salon in Mokena, IL at 11240 Lincoln Highway, Mokena, IL 60448. | https://dingalinged-cpu.github.io/registry/c/great-clips-mokena/
-523. Great Clips | trust 4.0 | Great Clips is a hair salon in Mount Prospect, IL at 1216 East Central Road, Mount Prospect, IL 60056. | https://dingalinged-cpu.github.io/registry/c/great-clips-mount-prospect/
-524. Great Clips | trust 4.0 | Great Clips is a hair salon in Munster, IN at 7963 Calumet Avenue, Munster, IN 46321. | https://dingalinged-cpu.github.io/registry/c/great-clips-munster/
-525. Great Clips | trust 4.0 | Great Clips is a hair salon in Niles, IL at 5624 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/great-clips-niles/
-526. Great Clips | trust 4.0 | Great Clips is a hair salon in Palos Park, IL at 13002 South La Grange Road, Palos Park, IL 60464. | https://dingalinged-cpu.github.io/registry/c/great-clips-palos-park/
-527. Great Clips | trust 4.0 | Great Clips is a hair salon in Richfield, MN at 1714 East 66th Street, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/great-clips-richfield/
-528. Great Clips | trust 4.0 | Great Clips is a hair salon in Richfield, MN at 6549 Lyndale Avenue South, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/great-clips-richfield-n11688651089/
-529. Great Clips | trust 4.0 | Great Clips is a hair salon in River Grove, IL at 8251 West Belmont Avenue, River Grove, IL 60171. | https://dingalinged-cpu.github.io/registry/c/great-clips-river-grove/
-530. Great Clips | trust 4.0 | Great Clips is a hair salon in Rosemont, IL at 7060 Mannheim Road, Rosemont, IL 60018. | https://dingalinged-cpu.github.io/registry/c/great-clips-rosemont/
-531. Great Clips | trust 4.0 | Great Clips is a hair salon in Saint Paul, MN at 72 Snelling Avenue South, Saint Paul, MN 55105. | https://dingalinged-cpu.github.io/registry/c/great-clips-saint-paul-n7685418711/
-532. Great Clips | trust 4.0 | Great Clips is a hair salon in Vadnais Heights, MN at 1054 Highway 96, Vadnais Heights, MN 55127. | https://dingalinged-cpu.github.io/registry/c/great-clips-vadnais-heights-w1137118408/
-533. Great Clips | trust 4.0 | Great Clips is a hair salon in Wheeling, IL at 263 East Dundee Road, Wheeling, IL 60090. | https://dingalinged-cpu.github.io/registry/c/great-clips-wheeling/
-534. Greg's Barber Shop | trust 4.0 | Greg's Barber Shop is a hair salon in Glenview, IL at 1013 Harlem Avenue, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/gregs-barber-shop-glenview/
-535. Hair Cuttery | trust 4.0 | Hair Cuttery is a hair salon in Chicago, IL at 1660 North Wells Street, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-chicago-n2393465768/
-536. Hair Cuttery | trust 4.0 | Hair Cuttery is a hair salon in Chicago, IL at 2620 North Narragansett Avenue #B9, Chicago, IL 60639. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-chicago-n7491974631/
-537. Hair Cuttery | trust 4.0 | Hair Cuttery is a hair salon in Harwood Heights, IL at 4747 North Harlem Avenue #K, Harwood Heights, IL 60706. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-harwood-heights/
-538. Hair Cuttery | trust 4.0 | Hair Cuttery is a hair salon in Lombard, IL at 211 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-lombard/
-539. Hair Cuttery | trust 4.0 | Hair Cuttery is a hair salon in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-mount-prospect/
-540. Hair Cuttery | trust 4.0 | Hair Cuttery is a hair salon in Northbrook, IL at 778 Skokie Boulevard, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-northbrook/
-541. Hair Cuttery | trust 4.0 | Hair Cuttery is a hair salon in Oak Lawn, IL at 9535 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-oak-lawn/
-542. Hair Cuttery | trust 4.0 | Hair Cuttery is a hair salon in Park Ridge, IL at 108 Euclid Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-park-ridge/
-543. Hair Cuttery | trust 4.0 | Hair Cuttery is a hair salon in Skokie, IL at 5451 West Touhy Avenue #20, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-skokie/
-544. Hair Design International | trust 4.0 | Hair Design International is a hair salon in Chicago, IL at 1309 East 57th Street, Chicago, IL 60637. | https://dingalinged-cpu.github.io/registry/c/hair-design-international-chicago/
-545. Hair Express | trust 4.0 | Hair Express is a hair salon in Chicago, IL at 4863 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/hair-express-chicago/
-546. Hair Fair Ltd. | trust 4.0 | Hair Fair Ltd. is a hair salon in Minneapolis, MN at 3858 North Thomas Avenue, Minneapolis, MN 55412. | https://dingalinged-cpu.github.io/registry/c/hair-fair-ltd-minneapolis/
-547. Hair Solutions | trust 4.0 | Hair Solutions is a hair salon in Wauconda, IL at 314 West Liberty Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/hair-solutions-wauconda/
-548. Hairapy | trust 4.0 | Hairapy is a hair salon in Chicago, IL at 4247 North Lincoln Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/hairapy-chicago/
-549. Hairitics... Dye For Your Beliefs | trust 4.0 | Hairitics... Dye For Your Beliefs is a hair salon in Chicago, IL at 2340 North Milwaukee Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/hairitics-dye-for-your-beliefs-chicago/
-550. Hidden Faces | trust 4.0 | Hidden Faces is a hair salon in Berwyn, IL at West Roosevelt Road, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/hidden-faces-berwyn/
-551. Highly Favored Hair Studio | trust 4.0 | Highly Favored Hair Studio is a hair salon in Saint Paul, MN at 1334 Minnehaha Avenue West, Saint Paul, MN 55104. | https://dingalinged-cpu.github.io/registry/c/highly-favored-hair-studio-saint-paul/
-552. House of Beauté Atout | trust 4.0 | House of Beauté Atout is a hair salon in Minneapolis, MN at 2329 Hennepin Avenue South, Minneapolis, MN 55405. | https://dingalinged-cpu.github.io/registry/c/house-of-beaut-atout-minneapolis/
-553. House of Hair | trust 4.0 | House of Hair is a hair salon in Chicago, IL at 4761 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/house-of-hair-chicago/
-554. Hyde Park Hair Salon | trust 4.0 | Hyde Park Hair Salon is a hair salon in Chicago, IL at 5234 South Blackstone Avenue, Chicago, IL 60615. | https://dingalinged-cpu.github.io/registry/c/hyde-park-hair-salon-chicago/
-555. Ins Hair Salon | trust 4.0 | Ins Hair Salon is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/ins-hair-salon-saint-paul/
-556. Interlachen Barber Shop | trust 4.0 | Interlachen Barber Shop is a barber shop in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/interlachen-barber-shop-edina/
-557. International Hair Ltd | trust 4.0 | International Hair Ltd is a hair salon in Des Plaines, IL at 654 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/international-hair-ltd-des-plaines/
-558. Jaxen&Jillz Barber & Beauty Salon LLC | trust 4.0 | Jaxen&Jillz Barber & Beauty Salon LLC is a hair salon in Chicago, IL at 2225 West Howard Street, Chicago, IL 60645. | https://dingalinged-cpu.github.io/registry/c/jaxen-and-jillz-barber-and-beauty-salon-llc-chicago/
-559. Jay's Barber Shop | trust 4.0 | Jay's Barber Shop is a hair salon in Evanston, IL at 1579 Maple Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/jays-barber-shop-evanston/
-560. Jefferson Park Hair Studio | trust 4.0 | Jefferson Park Hair Studio is a hair salon in Chicago, IL at 5506 West Lawrence Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/jefferson-park-hair-studio-chicago/
-561. Joe's Barbershop | trust 4.0 | Joe's Barbershop is a hair salon in Chicago, IL at 643 West 43rd Street, Chicago, IL 60609. | https://dingalinged-cpu.github.io/registry/c/joes-barbershop-chicago/
-562. Joe's Hair Salon | trust 4.0 | Joe's Hair Salon is a hair salon in Evanston, IL at 1314 Chicago Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/joes-hair-salon-evanston/
-563. Jungle Red | trust 4.0 | Jungle Red is a hair salon in Minneapolis, MN at 1362 LaSalle Avenue, Minneapolis, MN 55403. | https://dingalinged-cpu.github.io/registry/c/jungle-red-minneapolis/
-564. Jurgen's Salon | trust 4.0 | Jurgen's Salon is a hair salon in Saint Louis Park, MN at 4831 Minnetonka Boulevard, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/jurgens-salon-saint-louis-park/
-565. Juut Salonspa | trust 4.0 | Juut Salonspa is a hair salon in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/juut-salonspa-edina/
-566. Kami Salon | trust 4.0 | Kami Salon is a hair salon in Evanston, IL at 1022 Davis Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/kami-salon-evanston/
-567. Kid's Hair | trust 4.0 | Kid's Hair is a hair salon in Chanhassen, MN at 932 West 78th Street, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/kids-hair-chanhassen/
-568. KidSnips | trust 4.0 | KidSnips is a hair salon in Wilmette, IL at 3232 Skokie Boulevard #170, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/kidsnips-wilmette/
-569. KidSnips Deerfield | trust 4.0 | KidSnips Deerfield is a hair salon in Deerfield, IL at 675 Deerfield Road, Deerfield, IL 60015. | https://dingalinged-cpu.github.io/registry/c/kidsnips-deerfield-deerfield/
-570. La Chateau Beauty Salon | trust 4.0 | La Chateau Beauty Salon is a hair salon in Gary, IN at 4981 Broadway, Gary, IN 46409. | https://dingalinged-cpu.github.io/registry/c/la-chateau-beauty-salon-gary/
-571. Lakeside Barber Studio | trust 4.0 | Lakeside Barber Studio is a hair salon in Whiting, IN at 1426 119th Street #1, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/lakeside-barber-studio-whiting/
-572. Leroy Avenue Barbers | trust 4.0 | Leroy Avenue Barbers is a hair salon in Chicago, IL at 3140 North Austin Avenue, Chicago, IL 60634. | https://dingalinged-cpu.github.io/registry/c/leroy-avenue-barbers-chicago/
-573. Leslie's Hair Salon | trust 4.0 | Leslie's Hair Salon is a hair salon in Rolling Meadows, IL at 2220 West Algonquin Road, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/leslies-hair-salon-rolling-meadows/
-574. Letzly Beauty Salon | trust 4.0 | Letzly Beauty Salon is a hair salon in Chicago, IL at 7119 North Western Avenue, Chicago, IL 60645. | https://dingalinged-cpu.github.io/registry/c/letzly-beauty-salon-chicago/
-575. Lincoln Park Hair Salon and Spa | trust 4.0 | Lincoln Park Hair Salon and Spa is a hair salon in Chicago, IL at 507 West Dickens Avenue, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/lincoln-park-hair-salon-and-spa-chicago/
-576. Logan Square Barbershop | trust 4.0 | Logan Square Barbershop is a hair salon in Chicago, IL at 2208 North Milwaukee Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/logan-square-barbershop-chicago/
-577. Luquillo's Barbershop | trust 4.0 | Luquillo's Barbershop is a hair salon in Chicago, IL at 2552 West Division Street, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/luquillos-barbershop-chicago/
-578. Magic Fingers Hair Salon | trust 4.0 | Magic Fingers Hair Salon is a hair salon in Niles, IL at North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/magic-fingers-hair-salon-niles/
-579. Mandy Nail | trust 4.0 | Mandy Nail is a hair salon in Evanston, IL at 335 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/mandy-nail-evanston/
-580. Mario Novelli's Barber Salon | trust 4.0 | Mario Novelli's Barber Salon is a barber shop in River Grove, IL at 8345 West Grand Avenue, River Grove, IL 60171. | https://dingalinged-cpu.github.io/registry/c/mario-novellis-barber-salon-river-grove/
-581. Mark of Excellence Salon | trust 4.0 | Mark of Excellence Salon is a hair salon in Crystal, MN at 4617 36th Avenue North, Crystal, MN 55422. | https://dingalinged-cpu.github.io/registry/c/mark-of-excellence-salon-crystal/
-582. Marvin's Barber Shop & Beauty Store | trust 4.0 | Marvin's Barber Shop & Beauty Store is a barber shop in Minneapolis, MN at 2415 Northeast Central Avenue, Minneapolis, MN 55418. | https://dingalinged-cpu.github.io/registry/c/marvins-barber-shop-and-beauty-store-minneapolis/
-583. Meleyen's Sports Barber Shop | trust 4.0 | Meleyen's Sports Barber Shop is a hair salon in Brooklyn Park, MN at 8572 Edinburgh Centre Drive North, Brooklyn Park, MN 55443. | https://dingalinged-cpu.github.io/registry/c/meleyens-sports-barber-shop-brooklyn-park/
-584. Mena's Hair Design | trust 4.0 | Mena's Hair Design is a hair salon in Matteson, IL at 4721 Lincoln Mall Drive, Matteson, IL 60443. | https://dingalinged-cpu.github.io/registry/c/menas-hair-design-matteson/
-585. Meraki Hair Lounge | trust 4.0 | Meraki Hair Lounge is a hair salon in Saint Paul, MN at 156 Dale Street North, Saint Paul, MN 55102. | https://dingalinged-cpu.github.io/registry/c/meraki-hair-lounge-saint-paul/
-586. Michèle Lamothe Salon | trust 4.0 | Michèle Lamothe Salon is a hair salon in Evanston, IL at 609 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/mich-le-lamothe-salon-evanston/
-587. Milagro's Beauty Salon | trust 4.0 | Milagro's Beauty Salon is a hair salon in New Hope, MN at 4341 Winnetka Avenue, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/milagros-beauty-salon-new-hope/
-588. Minnesota Hair | trust 4.0 | Minnesota Hair is a hair salon in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/minnesota-hair-maplewood/
-589. Mr Nick's | trust 4.0 | Mr Nick's is a hair salon in Western Springs, IL at 1100 Hillgrove Avenue #3, Western Springs, IL 60558. | https://dingalinged-cpu.github.io/registry/c/mr-nicks-western-springs/
-590. Mr. Salon | trust 4.0 | Mr. Salon is a hair salon in Chicago, IL at 3817 North Lincoln Avenue, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/mr-salon-chicago/
-591. Muneca Salon | trust 4.0 | Muneca Salon is a hair salon in Whiting, IN at 1921 Clark Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/muneca-salon-whiting/
-592. Nappy Rootz Hair Studio | trust 4.0 | Nappy Rootz Hair Studio is a hair salon in New Hope, MN at 7179 42nd Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/nappy-rootz-hair-studio-new-hope/
-593. New Reflection Hair Salon | trust 4.0 | New Reflection Hair Salon is a hair salon in Chicago, IL at 5728 West Higgins Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/new-reflection-hair-salon-chicago/
-594. Nieka's Hair Studio | trust 4.0 | Nieka's Hair Studio is a hair salon in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/niekas-hair-studio-wauconda/
-595. NK Beauty Salon | trust 4.0 | NK Beauty Salon is a hair salon in Des Plaines, IL at 849 South Elmhurst Road #106A, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/nk-beauty-salon-des-plaines/
-596. Oak Broom | trust 4.0 | Oak Broom is a hair salon in Oakbrook Terrace, IL at 17W408 22nd Street, Oakbrook Terrace, IL 60181. | https://dingalinged-cpu.github.io/registry/c/oak-broom-oakbrook-terrace/
-597. Orlando Salon and Beauty Supply | trust 4.0 | Orlando Salon and Beauty Supply is a hair salon in Chicago, IL at 5125 North Broadway #B, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/orlando-salon-and-beauty-supply-chicago/
-598. Oromia Barber | trust 4.0 | Oromia Barber is a hair salon in Minneapolis, MN at East Lake Street, Minneapolis, MN 55406. | https://dingalinged-cpu.github.io/registry/c/oromia-barber-minneapolis/
-599. Ossama's Hair Design | trust 4.0 | Ossama's Hair Design is a hair salon in Chicago, IL at 5100 South Cornell Avenue, Chicago, IL 60615. | https://dingalinged-cpu.github.io/registry/c/ossamas-hair-design-chicago/
-600. Page Too Hair Design | trust 4.0 | Page Too Hair Design is a hair salon in Chicago, IL at 1007 East 53rd Street, Chicago, IL 60615. | https://dingalinged-cpu.github.io/registry/c/page-too-hair-design-chicago/
-601. Patrick Knows Hair | trust 4.0 | Patrick Knows Hair is a hair salon in Chicago, IL at 568 West Roosevelt Road, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/patrick-knows-hair-chicago/
-602. Perfection Hair Salon | trust 4.0 | Perfection Hair Salon is a hair salon in Plymouth, MN at 4345 Nathan Lane North #B, Plymouth, MN 55442. | https://dingalinged-cpu.github.io/registry/c/perfection-hair-salon-plymouth/
-603. Pete's Barber Shop | trust 4.0 | Pete's Barber Shop is a hair salon in Chicago, IL at 2875 North Elston Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/petes-barber-shop-chicago/
-604. Phat Fades | trust 4.0 | Phat Fades is a hair salon in Chicago, IL at 7439 North Western Avenue, Chicago, IL 60645. | https://dingalinged-cpu.github.io/registry/c/phat-fades-chicago/
-605. Philip James Salon | trust 4.0 | Philip James Salon is a hair salon in Chicago, IL at North Lincoln Avenue, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/philip-james-salon-chicago/
-606. Playboy Barber Shop | trust 4.0 | Playboy Barber Shop is a hair salon in Gary, IN at 4683 Broadway, Gary, IN 46409. | https://dingalinged-cpu.github.io/registry/c/playboy-barber-shop-gary/
-607. Powell’s Barbershop | trust 4.0 | Powell’s Barbershop is a hair salon in Chicago, IL at 1122 West 63rd Street, Chicago, IL 60621. | https://dingalinged-cpu.github.io/registry/c/powell-s-barbershop-chicago/
-608. Prohibition Barber | trust 4.0 | Prohibition Barber is a barber shop in Chicago, IL at 943 West Randolph Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/prohibition-barber-chicago/
-609. Prosity Salon | trust 4.0 | Prosity Salon is a hair salon in Forest Park, IL at 7208 Madison Street, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/prosity-salon-forest-park/
-610. Quick-Cuts | trust 4.0 | Quick-Cuts is a hair salon in Chicago, IL at 4931 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/quick-cuts-chicago/
-611. Rebecca's Hair Care | trust 4.0 | Rebecca's Hair Care is a hair salon in Whiting, IN at 1544 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/rebeccas-hair-care-whiting/
-612. Reflections Barbershop | trust 4.0 | Reflections Barbershop is a hair salon in Minneapolis, MN at 3862 North Thomas Avenue, Minneapolis, MN 55412. | https://dingalinged-cpu.github.io/registry/c/reflections-barbershop-minneapolis/
-613. Regis | trust 4.0 | Regis is a hair salon in Chicago, IL at 2000 North Clybourn Avenue #E2, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/regis-chicago/
-614. Regis | trust 4.0 | Regis is a hair salon in Saint Louis Park, MN at 8318 Minnesota State Highway 7, Saint Louis Park, MN 55426. | https://dingalinged-cpu.github.io/registry/c/regis-saint-louis-park/
-615. Rock Hair Scissors | trust 4.0 | Rock Hair Scissors is a hair salon in Chicago, IL at 5508 West Devon Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/rock-hair-scissors-chicago/
-616. Rockit Barbershop | trust 4.0 | Rockit Barbershop is a hair salon in Chicago, IL at 1650 West 18th Street, Chicago, IL 60608. | https://dingalinged-cpu.github.io/registry/c/rockit-barbershop-chicago/
-617. Roosters Men's Grooming Center | trust 4.0 | Roosters Men's Grooming Center is a hair salon in Saint Louis Park, MN at 1683 West End Boulevard, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/roosters-mens-grooming-center-saint-louis-park/
-618. Sal's Barber Shop | trust 4.0 | Sal's Barber Shop is a barber shop in Chicago, IL at 2021 West Roscoe Street, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/sals-barber-shop-chicago/
-619. Salon 2010 | trust 4.0 | Salon 2010 is a hair salon in Northbrook, IL at Milwaukee Avenue, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/salon-2010-northbrook/
-620. Salon 34 | trust 4.0 | Salon 34 is a hair salon in Naperville, IL at 1220 West Ogden Avenue #E, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/salon-34-naperville/
-621. Salon 45 | trust 4.0 | Salon 45 is a hair salon in Minneapolis, MN at 4551 Bloomington Avenue South, Minneapolis, MN 55407. | https://dingalinged-cpu.github.io/registry/c/salon-45-minneapolis/
-622. Salon Adagio | trust 4.0 | Salon Adagio is a hair salon in Rogers, MN at 14165 James Road #105, Rogers, MN 55374. | https://dingalinged-cpu.github.io/registry/c/salon-adagio-rogers/
-623. Salon Lofts | trust 4.0 | Salon Lofts is a hair salon in Eden Prairie, MN at 8030 Glen Lane, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/salon-lofts-eden-prairie/
-624. Salon Lofts | trust 4.0 | Salon Lofts is a hair salon in Richfield, MN at 6521 Lyndale Avenue South, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/salon-lofts-richfield/
-625. Scissors Edge | trust 4.0 | Scissors Edge is a hair salon in Winnetka, IL at Chestnut Street, Winnetka, IL 60093. | https://dingalinged-cpu.github.io/registry/c/scissors-edge-winnetka/
-626. Scottfree | trust 4.0 | Scottfree is a hair salon in Chicago, IL at 1710 North Wells Street, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/scottfree-chicago/
-627. Semper Laser Hair Removal | trust 4.0 | Semper Laser Hair Removal is a hair salon in Evanston, IL at 900 Church Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/semper-laser-hair-removal-evanston/
-628. Shoppe 5101 Salon & Spa | trust 4.0 | Shoppe 5101 Salon & Spa is a hair salon in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/shoppe-5101-salon-and-spa-edina/
-629. SKB Hair Salon | trust 4.0 | SKB Hair Salon is a hair salon in Niles, IL at 9081 Courtland Drive, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/skb-hair-salon-niles/
-630. Sola Salon Studios | trust 4.0 | Sola Salon Studios is a hair salon in Chicago, IL at 558 West Roosevelt Road, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/sola-salon-studios-chicago/
-631. Sola Salons | trust 4.0 | Sola Salons is a hair salon in Eden Prairie, MN at 10260 Viking Drive, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/sola-salons-eden-prairie/
-632. Sparrow | trust 4.0 | Sparrow is a hair salon in Chicago, IL at 2545 North Milwaukee Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/sparrow-chicago/
-633. Spoil Me Hair Salon and Spa | trust 4.0 | Spoil Me Hair Salon and Spa is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/spoil-me-hair-salon-and-spa-chicago/
-634. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-des-plaines/
-635. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Eden Prairie, MN at 8045 Flying Cloud Drive #120, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/sport-clips-eden-prairie/
-636. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Lockport, IL at 16449 West 159th Street, Lockport, IL 60441. | https://dingalinged-cpu.github.io/registry/c/sport-clips-lockport/
-637. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-minneapolis-n6701050782/
-638. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Niles, IL at 5944 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/sport-clips-niles/
-639. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Norridge, IL at 7050 West Forest Preserve Drive, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/sport-clips-norridge/
-640. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Oak Lawn, IL at 10549 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/sport-clips-oak-lawn/
-641. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Park Ridge, IL at 35 South Northwest Highway, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/sport-clips-park-ridge/
-642. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Schererville, IN at Indianapolis Boulevard, Schererville, IN 46375. | https://dingalinged-cpu.github.io/registry/c/sport-clips-schererville/
-643. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Skokie, IL at 9442 Skokie Boulevard, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/sport-clips-skokie/
-644. Sport Clips | trust 4.0 | Sport Clips is a hair salon in South Barrington, IL at 100 West Higgins Road #M-25, South Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/sport-clips-south-barrington/
-645. State Street Barbers | trust 4.0 | State Street Barbers is a hair salon in Chicago, IL at 175 West Jackson Boulevard #115, Chicago, IL 60604. | https://dingalinged-cpu.github.io/registry/c/state-street-barbers-chicago/
-646. Studio 49 Salon | trust 4.0 | Studio 49 Salon is a hair salon in Skokie, IL at 4903 Oakton Street, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/studio-49-salon-skokie/
-647. Styles Hair Salon | trust 4.0 | Styles Hair Salon is a hair salon in Chicago, IL at 5335 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/styles-hair-salon-chicago/
-648. Supercuts | trust 4.0 | Supercuts is a hair salon in Chanhassen, MN at 7884 Market Boulevard, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/supercuts-chanhassen/
-649. Supercuts | trust 4.0 | Supercuts is a hair salon in Chicago, IL at 5851 South Archer Avenue, Chicago, IL 60638. | https://dingalinged-cpu.github.io/registry/c/supercuts-chicago/
-650. Supercuts | trust 4.0 | Supercuts is a hair salon in Chicago, IL at 2914 North Ashland Avenue, Chicago, IL 60657. | https://dingalinged-cpu.github.io/registry/c/supercuts-chicago-n11257110622/
-651. Supercuts | trust 4.0 | Supercuts is a hair salon in Chicago, IL at 6009 North Lincoln Avenue, Chicago, IL 60659. | https://dingalinged-cpu.github.io/registry/c/supercuts-chicago-w156785061/
-652. Supercuts | trust 4.0 | Supercuts is a hair salon in Des Plaines, IL at 1159 Lee Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/supercuts-des-plaines/
-653. Supercuts | trust 4.0 | Supercuts is a hair salon in Elmwood Park, IL at 106A North 72nd Court, Elmwood Park, IL 60707. | https://dingalinged-cpu.github.io/registry/c/supercuts-elmwood-park/
-654. Supercuts | trust 4.0 | Supercuts is a hair salon in Forest Park, IL at 319 South Harlem Avenue #D, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/supercuts-forest-park/
-655. Supercuts | trust 4.0 | Supercuts is a hair salon in Harwood Heights, IL at 5112 North Harlem Avenue, Harwood Heights, IL 60706. | https://dingalinged-cpu.github.io/registry/c/supercuts-harwood-heights/
-656. Supercuts | trust 4.0 | Supercuts is a hair salon in Niles, IL at 7241 West Dempster Street, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/supercuts-niles/
-657. Supercuts | trust 4.0 | Supercuts is a hair salon in Niles, IL at 5693 West Touhy Avenue #170, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/supercuts-niles-w686708813/
-658. T'soma Hair Salon | trust 4.0 | T'soma Hair Salon is a hair salon in Chicago, IL at 5538 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/tsoma-hair-salon-chicago/
-659. Terry's Place | trust 4.0 | Terry's Place is a hair salon in Chicago, IL at 6323 North Central Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/terrys-place-chicago/
-660. The Barber Sharp | trust 4.0 | The Barber Sharp is a hair salon in Minneapolis, MN at 349 Northeast 13th Avenue, Minneapolis, MN 55413. | https://dingalinged-cpu.github.io/registry/c/the-barber-sharp-minneapolis/
-661. The Bevy Salon | trust 4.0 | The Bevy Salon is a hair salon in Chicago, IL at 2055 West Irving Park Road, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/the-bevy-salon-chicago/
-662. The Chicago Buzz | trust 4.0 | The Chicago Buzz is a barber shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-chicago-buzz-chicago/
-663. The Gilded Lily | trust 4.0 | The Gilded Lily is a hair salon in Chicago, IL at 2741 North Spaulding Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/the-gilded-lily-chicago/
-664. The Hair Emporium | trust 4.0 | The Hair Emporium is a hair salon in Des Plaines, IL at 630 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/the-hair-emporium-des-plaines/
-665. The Mustache Lounge | trust 4.0 | The Mustache Lounge is a hair salon in Whiting, IN at 1242 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/the-mustache-lounge-whiting/
-666. The Shop Barber Co. | trust 4.0 | The Shop Barber Co. is a hair salon in Chicago, IL at 206 North Homan Avenue, Chicago, IL 60624. | https://dingalinged-cpu.github.io/registry/c/the-shop-barber-co-chicago/
-667. Threading Studio | trust 4.0 | Threading Studio is a hair salon in Oak Lawn, IL at 8711 South Ridgeland Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/threading-studio-oak-lawn/
-668. Thrive Hair Collective | trust 4.0 | Thrive Hair Collective is a hair salon in Chicago, IL at 851 West Randolph Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/thrive-hair-collective-chicago/
-669. Tom's Barber Shop | trust 4.0 | Tom's Barber Shop is a hair salon in Saint Paul, MN at 448 Robert Street South, Saint Paul, MN 55107. | https://dingalinged-cpu.github.io/registry/c/toms-barber-shop-saint-paul/
-670. Touch Of Class | trust 4.0 | Touch Of Class is a hair salon in Park Ridge, IL at 733 Devon Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/touch-of-class-park-ridge/
-671. Tremonte's Barber Shop | trust 4.0 | Tremonte's Barber Shop is a hair salon in Wauconda, IL at 113 North Main Street #B, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/tremontes-barber-shop-wauconda/
-672. Ultimate Look | trust 4.0 | Ultimate Look is a hair salon in Saint Paul, MN at 1455 University Avenue, Saint Paul, MN 55104. | https://dingalinged-cpu.github.io/registry/c/ultimate-look-saint-paul/
-673. Uni-hair | trust 4.0 | Uni-hair is a hair salon in Rolling Meadows, IL at 1452 Golf Road, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/uni-hair-rolling-meadows/
-674. University Hair Stylists | trust 4.0 | University Hair Stylists is a hair salon in Chicago, IL at 5700 South Harper Avenue, Chicago, IL 60637. | https://dingalinged-cpu.github.io/registry/c/university-hair-stylists-chicago/
-675. Urban Touch Barbers | trust 4.0 | Urban Touch Barbers is a hair salon in Minneapolis, MN at 1401 East 38th Street, Minneapolis, MN 55407. | https://dingalinged-cpu.github.io/registry/c/urban-touch-barbers-minneapolis/
-676. Vera's Hair Salon | trust 4.0 | Vera's Hair Salon is a hair salon in Evanston, IL at 810 Clark Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/veras-hair-salon-evanston/
-677. Via Rose Hair Studio | trust 4.0 | Via Rose Hair Studio is a hair salon in Chicago, IL at 5124 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/via-rose-hair-studio-chicago/
-678. Vincent & Company | trust 4.0 | Vincent & Company is a hair salon in Evanston, IL at 1626 Orrington Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/vincent-and-company-evanston/
-679. Volume Hair Salon | trust 4.0 | Volume Hair Salon is a hair salon in Chicago, IL at 1717 West Chicago Avenue, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/volume-hair-salon-chicago/
-680. Willow Springs Barbershop | trust 4.0 | Willow Springs Barbershop is a hair salon in Willow Springs, IL at 8695 Archer Avenue #25, Willow Springs, IL 60480. | https://dingalinged-cpu.github.io/registry/c/willow-springs-barbershop-willow-springs/
-681. Wrist Work Cuts | trust 4.0 | Wrist Work Cuts is a hair salon in Westchester, IL at 1905 South Mannheim Road, Westchester, IL 60154. | https://dingalinged-cpu.github.io/registry/c/wrist-work-cuts-westchester/
-682. Yesterday's Gentlemen | trust 4.0 | Yesterday's Gentlemen is a hair salon in Flossmoor, IL. | https://dingalinged-cpu.github.io/registry/c/yesterdays-gentlemen-flossmoor/
-683. Yohel's Barber Shop | trust 4.0 | Yohel's Barber Shop is a hair salon in Chicago, IL at 2834 West Fullerton Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/yohels-barber-shop-chicago/
-684. 4 elements | trust 3.0 | 4 elements is a hair salon in Chicago, IL at 544 North Milwaukee Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/4-elements-chicago/
-685. 4 Suite Salons | trust 3.0 | 4 Suite Salons is a hair salon in Countryside, IL at 6534, Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/4-suite-salons-countryside/
-686. Alexis' Salon Spa | trust 3.0 | Alexis' Salon Spa is a hair salon in Romeoville, IL at 646 Weber Road, Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/alexis-salon-spa-romeoville/
-687. Amazing Lash Studio | trust 3.0 | Amazing Lash Studio is a hair salon in Eagan, MN at 2105 Cliff Road, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/amazing-lash-studio-eagan/
-688. Another Level Units | trust 3.0 | Another Level Units is a hair salon in Chicago, IL at 2438 West Madison Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/another-level-units-chicago/
-689. Bishops Cuts/Color | trust 3.0 | Bishops Cuts/Color is a hair salon in Minneapolis, MN at 312 East Hennepin Avenue, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/bishops-cuts-color-minneapolis/
-690. Black Pearl | trust 3.0 | Black Pearl is a hair salon in Chicago, IL at 7115-7127 North Ridge Boulevard, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/black-pearl-chicago/
-691. Braid Connections | trust 3.0 | Braid Connections is a hair salon in Eagan, MN at 1468A, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/braid-connections-eagan/
-692. Center Stage Hair Salon | trust 3.0 | Center Stage Hair Salon is a hair salon in Oak Park, IL at 1012, Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/center-stage-hair-salon-oak-park/
-693. Choice Salon & Spa | trust 3.0 | Choice Salon & Spa is a hair salon in Little Canada, MN at 2900 Rice Street, Little Canada, MN. | https://dingalinged-cpu.github.io/registry/c/choice-salon-and-spa-little-canada/
-694. City Image Salon | trust 3.0 | City Image Salon is a hair salon in Eagan, MN at 3440, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/city-image-salon-eagan/
-695. Cornerman Cuts | trust 3.0 | Cornerman Cuts is a barber shop in Minneapolis, MN at 3801 East 38th Street, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/cornerman-cuts-minneapolis/
-696. Elegance Salon | trust 3.0 | Elegance Salon is a barber shop in Chicago, IL at 301 West Washington Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/elegance-salon-chicago/
-697. Funk’s Barber Shop | trust 3.0 | Funk’s Barber Shop is a hair salon in Chicago, IL at 431 South Dearborn Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/funk-s-barber-shop-chicago/
-698. Gent | trust 3.0 | Gent is a hair salon in Eagan, MN at 3365 #120, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/gent-eagan/
-699. Gentlemen Cuts Barbershop | trust 3.0 | Gentlemen Cuts Barbershop is a hair salon in Saint Paul, MN at 913B Payne Avenue, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/gentlemen-cuts-barbershop-saint-paul/
-700. Gilda | trust 3.0 | Gilda is a hair salon in Minneapolis, MN at 4008 East Lake Street, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/gilda-minneapolis/
-701. Goldiloxx Hair Salon | trust 3.0 | Goldiloxx Hair Salon is a hair salon in Brookfield, IL at 3734 Prairie, Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/goldiloxx-hair-salon-brookfield/
-702. Great Clips | trust 3.0 | Great Clips is a hair salon in Addison, IL at 1450 West Lake Street, Addison, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-addison/
-703. Grooming House Barber | trust 3.0 | Grooming House Barber is a hair salon in Saint Paul, MN at 603 University Avenue, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/grooming-house-barber-saint-paul/
-704. Headquarter Salon | trust 3.0 | Headquarter Salon is a hair salon in Chicago, IL at 2145 South China Place, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/headquarter-salon-chicago/
-705. Jeff's Millionaires | trust 3.0 | Jeff's Millionaires is a hair salon in Forest Park, IL at Beloit Avenue, Forest Park, IL. | https://dingalinged-cpu.github.io/registry/c/jeffs-millionaires-forest-park/
-706. Joe's Barber Shop | trust 3.0 | Joe's Barber Shop is a hair salon in Chicago, IL at 2641 West Fullerton Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/joes-barber-shop-chicago/
-707. Justin's Hair Design | trust 3.0 | Justin's Hair Design is a hair salon in Chicago, IL at 4326 North Pulaski Road, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/justins-hair-design-chicago/
-708. Karla's Hair Studio | trust 3.0 | Karla's Hair Studio is a hair salon in Des Plaines, IL at 782 West Oakton Street, Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/karlas-hair-studio-des-plaines/
-709. Kid Snips | trust 3.0 | Kid Snips is a hair salon in South Barrington, IL at 100 West Higgins Road, South Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/kid-snips-south-barrington/
-710. Little Broken Things | trust 3.0 | Little Broken Things is a hair salon in Chicago, IL at 2031 North Milwaukee Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/little-broken-things-chicago/
-711. Luxe Hair Lounge | trust 3.0 | Luxe Hair Lounge is a hair salon in Minneapolis, MN at 2815 Hennepin Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/luxe-hair-lounge-minneapolis/
-712. Marin Hair | trust 3.0 | Marin Hair is a hair salon in Chicago, IL at 2500 North California Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/marin-hair-chicago/
-713. Mena's Hair Design | trust 3.0 | Mena's Hair Design is a hair salon in Chicago, IL at 2402 East 71st Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/menas-hair-design-chicago/
-714. Mirror Mirror Spa | trust 3.0 | Mirror Mirror Spa is a hair salon in Chicago, IL at 805, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/mirror-mirror-spa-chicago/
-715. Nafisa's Studio | trust 3.0 | Nafisa's Studio is a hair salon in Minneapolis, MN at Nicollet Avenue, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/nafisas-studio-minneapolis/
-716. North Kutz | trust 3.0 | North Kutz is a hair salon in Chicago, IL at 7217 North Western Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/north-kutz-chicago/
-717. Peluqueria Nuevo Mexico | trust 3.0 | Peluqueria Nuevo Mexico is a hair salon in Chicago, IL at West 18th Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/peluqueria-nuevo-mexico-chicago/
-718. PHD Professional Hair Designers | trust 3.0 | PHD Professional Hair Designers is a hair salon in Gary, IN at 1046, Gary, IN. | https://dingalinged-cpu.github.io/registry/c/phd-professional-hair-designers-gary/
-719. Pompadour Salon | trust 3.0 | Pompadour Salon is a hair salon in Minneapolis, MN at 3743 Nicollet Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/pompadour-salon-minneapolis/
-720. Robert Chavez Hair Studio | trust 3.0 | Robert Chavez Hair Studio is a hair salon in Chicago, IL at North Pulaski Road, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/robert-chavez-hair-studio-chicago/
-721. Sam’s Cuts | trust 3.0 | Sam’s Cuts is a hair salon in Chicago, IL at 2955 North Kedzie Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/sam-s-cuts-chicago/
-722. Snip-Its | trust 3.0 | Snip-Its is a hair salon in Maple Grove, MN at 11634, Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/snip-its-maple-grove/
-723. Studio 84One Hair Salon | trust 3.0 | Studio 84One Hair Salon is a hair salon in Chicago, IL at 841 West Monroe Street #1B, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/studio-84one-hair-salon-chicago/
-724. Style 151 | trust 3.0 | Style 151 is a hair salon in New Brighton, MN at 151 Silver Lake Road Northwest, New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/style-151-new-brighton/
-725. The Comb | trust 3.0 | The Comb is a hair salon in Evanston, IL at 729 Chicago Avenue, Evanston, IL. | https://dingalinged-cpu.github.io/registry/c/the-comb-evanston/
-726. The Familia Hair Studio | trust 3.0 | The Familia Hair Studio is a hair salon in Minneapolis, MN at 21 East 26th Street, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/the-familia-hair-studio-minneapolis/
-727. The Threading House | trust 3.0 | The Threading House is a hair salon in Chicago, IL at 843 West Monroe Street #1B, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-threading-house-chicago/
-728. Urban Hair | trust 3.0 | Urban Hair is a hair salon in Chicago, IL at 2132 South Michigan Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/urban-hair-chicago/
-729. V's Barbershop | trust 3.0 | V's Barbershop is a hair salon in White Bear Lake, MN at 999 Wildwood Road, White Bear Lake, MN. | https://dingalinged-cpu.github.io/registry/c/vs-barbershop-white-bear-lake/
-730. Cindy Barber Shop | trust 1.0 | Cindy Barber Shop is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/cindy-barber-shop-minneapolis/
-731. Hair Cuttery | trust 1.0 | Hair Cuttery is a hair salon in Dyer, IN. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-dyer/
-732. Rooster's | trust 1.0 | Rooster's is a hair salon in Lincolnshire, IL. | https://dingalinged-cpu.github.io/registry/c/roosters-lincolnshire/
-733. 209 | trust 0.0 | 209 is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/209-wheaton/
-734. 225 Barbers | trust 0.0 | 225 Barbers is a barber shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/225-barbers-minneapolis/
-735. 5 Star Cuts | trust 0.0 | 5 Star Cuts is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/5-star-cuts-orland-hills/
-736. 7th Street Barbers | trust 0.0 | 7th Street Barbers is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/7th-street-barbers-saint-paul/
-737. A Barber Shop | trust 0.0 | A Barber Shop is a barber shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/a-barber-shop-chicago/
-738. A Touch of Andrea | trust 0.0 | A Touch of Andrea is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/a-touch-of-andrea-saint-paul/
-739. Above the Gym | trust 0.0 | Above the Gym is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/above-the-gym-minneapolis/
-740. Accolades Salon | trust 0.0 | Accolades Salon is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/accolades-salon-saint-paul/
-741. Ace of Fades | trust 0.0 | Ace of Fades is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/ace-of-fades-minneapolis/
-742. Adel's Hair Sensation Salon | trust 0.0 | Adel's Hair Sensation Salon is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/adels-hair-sensation-salon-chicago/
-743. African Hair Braiding | trust 0.0 | African Hair Braiding is a hair salon in Maywood, IL. | https://dingalinged-cpu.github.io/registry/c/african-hair-braiding-maywood/
-744. Afro Waves | trust 0.0 | Afro Waves is a hair salon in Vadnais Heights, MN. | https://dingalinged-cpu.github.io/registry/c/afro-waves-vadnais-heights/
-745. Akways Sports Barbershop | trust 0.0 | Akways Sports Barbershop is a barber shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/akways-sports-barbershop-minneapolis/
-746. Andreas Hogue Salon | trust 0.0 | Andreas Hogue Salon is a hair salon in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/andreas-hogue-salon-northbrook/
-747. Andrew Beauty Salon | trust 0.0 | Andrew Beauty Salon is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/andrew-beauty-salon-minneapolis/
-748. Andy's Hair Design | trust 0.0 | Andy's Hair Design is a hair salon in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/andys-hair-design-la-grange-park/
-749. Appearances Salon | trust 0.0 | Appearances Salon is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/appearances-salon-minneapolis/
-750. Armand Salon Suites | trust 0.0 | Armand Salon Suites is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/armand-salon-suites-chicago/
-751. Art + Science | trust 0.0 | Art + Science is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/art-science-chicago/
-752. Ashour's Barber Shop | trust 0.0 | Ashour's Barber Shop is a hair salon in Wilmette, IL. | https://dingalinged-cpu.github.io/registry/c/ashours-barber-shop-wilmette/
-753. Aurora's Family Hair Care | trust 0.0 | Aurora's Family Hair Care is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/auroras-family-hair-care-chicago/
-754. Aveda | trust 0.0 | Aveda is a hair salon in Wayzata, MN. | https://dingalinged-cpu.github.io/registry/c/aveda-wayzata/
-755. B Selfish | trust 0.0 | B Selfish is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/b-selfish-chicago/
-756. B's Barbershop | trust 0.0 | B's Barbershop is a barber shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/bs-barbershop-saint-paul/
-757. B. Roes | trust 0.0 | B. Roes is a barber shop in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/b-roes-bloomington/
-758. Baghdad Hair Styles | trust 0.0 | Baghdad Hair Styles is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/baghdad-hair-styles-chicago/
-759. Barber Shop | trust 0.0 | Barber Shop is a hair salon in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/barber-shop-arlington-heights/
-760. Barber Shop | trust 0.0 | Barber Shop is a barber shop in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/barber-shop-roseville/
-761. Barber Shop | trust 0.0 | Barber Shop is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/barber-shop-wheaton/
-762. Barbers | trust 0.0 | Barbers is a hair salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/barbers-eagan/
-763. Barbers Corner | trust 0.0 | Barbers Corner is a hair salon in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/barbers-corner-bolingbrook/
-764. Barbers on Bryant | trust 0.0 | Barbers on Bryant is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/barbers-on-bryant-minneapolis/
-765. Barbershop | trust 0.0 | Barbershop is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/barbershop-chicago/
-766. Before and After | trust 0.0 | Before and After is a hair salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/before-and-after-countryside/
-767. beKIND Salon & Spa | trust 0.0 | beKIND Salon & Spa is a hair salon in White Bear Lake, MN. | https://dingalinged-cpu.github.io/registry/c/bekind-salon-and-spa-white-bear-lake/
-768. Bella Dōnna Salon | trust 0.0 | Bella Dōnna Salon is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/bella-d-nna-salon-orland-hills/
-769. Belle De Jour Salon | trust 0.0 | Belle De Jour Salon is a hair salon in Lemont Township, IL. | https://dingalinged-cpu.github.io/registry/c/belle-de-jour-salon-lemont-township/
-770. Benny's Barber Shop & Salon | trust 0.0 | Benny's Barber Shop & Salon is a hair salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/bennys-barber-shop-and-salon-countryside/
-771. Bionic Hair Design | trust 0.0 | Bionic Hair Design is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/bionic-hair-design-chicago/
-772. BJ's, Barber Shop | trust 0.0 | BJ's, Barber Shop is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/bjs-barber-shop-gary/
-773. Blessed Hands Hair Studio | trust 0.0 | Blessed Hands Hair Studio is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/blessed-hands-hair-studio-chicago/
-774. Blo Blow Dry Bar | trust 0.0 | Blo Blow Dry Bar is a hair salon in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/blo-blow-dry-bar-vernon-hills/
-775. Bloom Salon | trust 0.0 | Bloom Salon is a hair salon in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/bloom-salon-arlington-heights/
-776. Blowout Junkie | trust 0.0 | Blowout Junkie is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/blowout-junkie-chicago/
-777. Bourgeois Beauty LLC | trust 0.0 | Bourgeois Beauty LLC is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/bourgeois-beauty-llc-gary/
-778. Broadway Jim's | trust 0.0 | Broadway Jim's is a hair salon in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/broadway-jims-brookfield/
-779. Bryan Michael Barber Shop | trust 0.0 | Bryan Michael Barber Shop is a hair salon in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/bryan-michael-barber-shop-lyons/
-780. Burley's Hairsalon | trust 0.0 | Burley's Hairsalon is a hair salon in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/burleys-hairsalon-edina/
-781. Buzz's | trust 0.0 | Buzz's is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/buzzs-minneapolis/
-782. Cajah Salon | trust 0.0 | Cajah Salon is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/cajah-salon-saint-paul/
-783. Ceci & Hawa African Hair Braiding | trust 0.0 | Ceci & Hawa African Hair Braiding is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/ceci-and-hawa-african-hair-braiding-minneapolis/
-784. Chavez Unisex | trust 0.0 | Chavez Unisex is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/chavez-unisex-chicago/
-785. Chic Beauty Botique | trust 0.0 | Chic Beauty Botique is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/chic-beauty-botique-orland-park/
-786. Chic Hair Studio | trust 0.0 | Chic Hair Studio is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/chic-hair-studio-chicago/
-787. Chops Hair | trust 0.0 | Chops Hair is a hair salon in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/chops-hair-new-brighton/
-788. CJ's Hair Care | trust 0.0 | CJ's Hair Care is a hair salon in South Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/cjs-hair-care-south-saint-paul/
-789. Class Hair Studio | trust 0.0 | Class Hair Studio is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/class-hair-studio-des-plaines/
-790. Cole's Salon | trust 0.0 | Cole's Salon is a hair salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/coles-salon-eagan/
-791. Color Couture | trust 0.0 | Color Couture is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/color-couture-la-grange/
-792. Connection Salon | trust 0.0 | Connection Salon is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/connection-salon-chicago/
-793. Cool Cuts 4 Kids | trust 0.0 | Cool Cuts 4 Kids is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/cool-cuts-4-kids-orland-park/
-794. Cost Cutters | trust 0.0 | Cost Cutters is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-minneapolis/
-795. Cost Cutters | trust 0.0 | Cost Cutters is a hair salon in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-minnetonka/
-796. Cost Cutters | trust 0.0 | Cost Cutters is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-saint-paul/
-797. Cost Cutters | trust 0.0 | Cost Cutters is a hair salon in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-shakopee/
-798. Countryside Barber Shop | trust 0.0 | Countryside Barber Shop is a hair salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/countryside-barber-shop-countryside/
-799. Crucial Kutz | trust 0.0 | Crucial Kutz is a hair salon in Bellwood, IL. | https://dingalinged-cpu.github.io/registry/c/crucial-kutz-bellwood/
-800. Cutters | trust 0.0 | Cutters is a hair salon in Flossmoor, IL. | https://dingalinged-cpu.github.io/registry/c/cutters-flossmoor/
-801. Cutting Edge Salon + Spa | trust 0.0 | Cutting Edge Salon + Spa is a hair salon in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/cutting-edge-salon-spa-palatine/
-802. D'Amici Salon & Style | trust 0.0 | D'Amici Salon & Style is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/damici-salon-and-style-la-grange/
-803. D'Dami Salon | trust 0.0 | D'Dami Salon is a hair salon in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/ddami-salon-la-grange-park/
-804. Da Cuttin' Image | trust 0.0 | Da Cuttin' Image is a barber shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/da-cuttin-image-chicago/
-805. Details | trust 0.0 | Details is a barber shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/details-saint-paul/
-806. Dick's Sports Barbers | trust 0.0 | Dick's Sports Barbers is a hair salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/dicks-sports-barbers-eden-prairie/
-807. Dina's Great Cuts | trust 0.0 | Dina's Great Cuts is a hair salon in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/dinas-great-cuts-la-grange-park/
-808. Doyle Designed Salon | trust 0.0 | Doyle Designed Salon is a hair salon in Flossmoor, IL. | https://dingalinged-cpu.github.io/registry/c/doyle-designed-salon-flossmoor/
-809. Dubose Barber Shop | trust 0.0 | Dubose Barber Shop is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/dubose-barber-shop-chicago/
-810. Duo Hair | trust 0.0 | Duo Hair is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/duo-hair-la-grange/
-811. Dye Hard Salon | trust 0.0 | Dye Hard Salon is a hair salon in Western Springs, IL. | https://dingalinged-cpu.github.io/registry/c/dye-hard-salon-western-springs/
-812. Dying Breed Barbershop | trust 0.0 | Dying Breed Barbershop is a hair salon in Hinsdale, IL. | https://dingalinged-cpu.github.io/registry/c/dying-breed-barbershop-hinsdale/
-813. Ebenezer Family Beauty Salon | trust 0.0 | Ebenezer Family Beauty Salon is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/ebenezer-family-beauty-salon-chicago/
-814. Eclipse Beauty Salon | trust 0.0 | Eclipse Beauty Salon is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/eclipse-beauty-salon-minneapolis/
-815. Ellie | trust 0.0 | Ellie is a hair salon in Naperville, IL. | https://dingalinged-cpu.github.io/registry/c/ellie-naperville/
-816. Famous Barber Mug | trust 0.0 | Famous Barber Mug is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/famous-barber-mug-saint-paul/
-817. Fanaberia Hair Salon & Day Spa | trust 0.0 | Fanaberia Hair Salon & Day Spa is a hair salon in Willow Springs, IL. | https://dingalinged-cpu.github.io/registry/c/fanaberia-hair-salon-and-day-spa-willow-springs/
-818. Fantastic Sams | trust 0.0 | Fantastic Sams is a hair salon in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-crystal/
-819. Fantastic Sams | trust 0.0 | Fantastic Sams is a hair salon in Hugo, MN. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-hugo/
-820. Fantastic Sams | trust 0.0 | Fantastic Sams is a hair salon in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-rogers/
-821. Fantastic Sams | trust 0.0 | Fantastic Sams is a hair salon in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-shakopee/
-822. Fatou Africa Hair Braiding | trust 0.0 | Fatou Africa Hair Braiding is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/fatou-africa-hair-braiding-gary/
-823. Feature Cut Barber | trust 0.0 | Feature Cut Barber is a barber shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/feature-cut-barber-minneapolis/
-824. Feel Good Hair | trust 0.0 | Feel Good Hair is a hair salon in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/feel-good-hair-lombard/
-825. Final Cuts Sports Barber Shop | trust 0.0 | Final Cuts Sports Barber Shop is a hair salon in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/final-cuts-sports-barber-shop-maplewood/
-826. Five Star Cuts | trust 0.0 | Five Star Cuts is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/five-star-cuts-orland-hills/
-827. Flagship Salon | trust 0.0 | Flagship Salon is a hair salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/flagship-salon-eden-prairie/
-828. Flair for Hair | trust 0.0 | Flair for Hair is a hair salon in Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/flair-for-hair-homer-glen/
-829. Flory's Beauty Salon | trust 0.0 | Flory's Beauty Salon is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/florys-beauty-salon-saint-paul/
-830. Floyd's 99 Barbershop | trust 0.0 | Floyd's 99 Barbershop is a hair salon in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-vernon-hills/
-831. Floyd's Barber Shop | trust 0.0 | Floyd's Barber Shop is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/floyds-barber-shop-chicago/
-832. FM Barber and Braiding | trust 0.0 | FM Barber and Braiding is a barber shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/fm-barber-and-braiding-minneapolis/
-833. Focus Hair | trust 0.0 | Focus Hair is a hair salon in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/focus-hair-schaumburg/
-834. Fort Road Barbers | trust 0.0 | Fort Road Barbers is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/fort-road-barbers-saint-paul/
-835. Fox Hair | trust 0.0 | Fox Hair is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/fox-hair-chicago/
-836. Fred's Barber Shoppe | trust 0.0 | Fred's Barber Shoppe is a hair salon in Lake Forest, IL. | https://dingalinged-cpu.github.io/registry/c/freds-barber-shoppe-lake-forest/
-837. Fringe & Flora | trust 0.0 | Fringe & Flora is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/fringe-and-flora-chicago/
-838. Gallery of Hair | trust 0.0 | Gallery of Hair is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/gallery-of-hair-chicago/
-839. Genesis Hair Design | trust 0.0 | Genesis Hair Design is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/genesis-hair-design-saint-paul/
-840. Gent | trust 0.0 | Gent is a barber shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/gent-minneapolis/
-841. Gent | trust 0.0 | Gent is a barber shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/gent-saint-paul/
-842. Gentleman Cuts | trust 0.0 | Gentleman Cuts is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/gentleman-cuts-saint-paul/
-843. Gentlemen's Barber | trust 0.0 | Gentlemen's Barber is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/gentlemens-barber-saint-paul/
-844. Gentlemen's Row | trust 0.0 | Gentlemen's Row is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/gentlemens-row-des-plaines/
-845. GiVan's Salon & Spa | trust 0.0 | GiVan's Salon & Spa is a hair salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/givans-salon-and-spa-eden-prairie/
-846. Gold Chair | trust 0.0 | Gold Chair is a barber shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/gold-chair-chicago/
-847. Great Clips | trust 0.0 | Great Clips is a hair salon in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-arlington-heights/
-848. Great Clips | trust 0.0 | Great Clips is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-bloomington/
-849. Great Clips | trust 0.0 | Great Clips is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-bloomington-n6412456034/
-850. Great Clips | trust 0.0 | Great Clips is a hair salon in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-brooklyn-park-n8142897929/
-851. Great Clips | trust 0.0 | Great Clips is a hair salon in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-buffalo-grove-w674297054/
-852. Great Clips | trust 0.0 | Great Clips is a hair salon in Carol Stream, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-carol-stream/
-853. Great Clips | trust 0.0 | Great Clips is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-chicago-n12150173985/
-854. Great Clips | trust 0.0 | Great Clips is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-chicago-n9398303362/
-855. Great Clips | trust 0.0 | Great Clips is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-chicago-w1501510128/
-856. Great Clips | trust 0.0 | Great Clips is a hair salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-countryside/
-857. Great Clips | trust 0.0 | Great Clips is a hair salon in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-crystal/
-858. Great Clips | trust 0.0 | Great Clips is a hair salon in Deer Park, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-deer-park/
-859. Great Clips | trust 0.0 | Great Clips is a hair salon in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-downers-grove/
-860. Great Clips | trust 0.0 | Great Clips is a hair salon in Dyer, IN. | https://dingalinged-cpu.github.io/registry/c/great-clips-dyer/
-861. Great Clips | trust 0.0 | Great Clips is a hair salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-eden-prairie/
-862. Great Clips | trust 0.0 | Great Clips is a hair salon in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-glenview/
-863. Great Clips | trust 0.0 | Great Clips is a hair salon in Hammond, IN. | https://dingalinged-cpu.github.io/registry/c/great-clips-hammond/
-864. Great Clips | trust 0.0 | Great Clips is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-la-grange/
-865. Great Clips | trust 0.0 | Great Clips is a hair salon in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-lake-zurich/
-866. Great Clips | trust 0.0 | Great Clips is a hair salon in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-lake-zurich-n11264800236/
-867. Great Clips | trust 0.0 | Great Clips is a hair salon in Lemont Township, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-lemont-township/
-868. Great Clips | trust 0.0 | Great Clips is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-minneapolis/
-869. Great Clips | trust 0.0 | Great Clips is a hair salon in Northfield Township, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-northfield-township/
-870. Great Clips | trust 0.0 | Great Clips is a hair salon in Oak Forest, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-oak-forest/
-871. Great Clips | trust 0.0 | Great Clips is a hair salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-plymouth/
-872. Great Clips | trust 0.0 | Great Clips is a hair salon in Ramsey, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-ramsey/
-873. Great Clips | trust 0.0 | Great Clips is a hair salon in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-rogers/
-874. Great Clips | trust 0.0 | Great Clips is a hair salon in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-romeoville/
-875. Great Clips | trust 0.0 | Great Clips is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-saint-paul/
-876. Great Clips | trust 0.0 | Great Clips is a hair salon in Tinley Park, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-tinley-park/
-877. Great Clips | trust 0.0 | Great Clips is a hair salon in Vadnais Heights, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-vadnais-heights/
-878. Great Clips | trust 0.0 | Great Clips is a hair salon in Westchester, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-westchester/
-879. Great Clips | trust 0.0 | Great Clips is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-wheaton/
-880. Great Clips | trust 0.0 | Great Clips is a hair salon in White Bear Lake, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-white-bear-lake/
-881. Great Clips | trust 0.0 | Great Clips is a hair salon in Wood Dale, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-wood-dale/
-882. Great Scissors Barber Shop | trust 0.0 | Great Scissors Barber Shop is a barber shop in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/great-scissors-barber-shop-new-brighton/
-883. Groveland Barber Shop | trust 0.0 | Groveland Barber Shop is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/groveland-barber-shop-saint-paul/
-884. Guyse Salon of Beauty | trust 0.0 | Guyse Salon of Beauty is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/guyse-salon-of-beauty-chicago/
-885. Hair 4 U Salon | trust 0.0 | Hair 4 U Salon is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/hair-4-u-salon-chicago/
-886. Hair Cuts I | trust 0.0 | Hair Cuts I is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/hair-cuts-i-saint-paul/
-887. Hair Cuttery | trust 0.0 | Hair Cuttery is a hair salon in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-arlington-heights/
-888. Hair Cuttery | trust 0.0 | Hair Cuttery is a hair salon in Broadview, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-broadview/
-889. Hair Cuttery | trust 0.0 | Hair Cuttery is a hair salon in Crest Hill, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-crest-hill/
-890. Hair Cuttery | trust 0.0 | Hair Cuttery is a hair salon in Highland, IN. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-highland/
-891. Hair Cuttery | trust 0.0 | Hair Cuttery is a hair salon in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-indian-head-park/
-892. Hair Cuttery | trust 0.0 | Hair Cuttery is a hair salon in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-romeoville/
-893. Hair Cuttery | trust 0.0 | Hair Cuttery is a hair salon in Wheeling, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-wheeling/
-894. Hair Salon | trust 0.0 | Hair Salon is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/hair-salon-chicago/
-895. Hairways | trust 0.0 | Hairways is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/hairways-chicago/
-896. Haja Salon | trust 0.0 | Haja Salon is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/haja-salon-minneapolis/
-897. Haley's African Hair Braiding | trust 0.0 | Haley's African Hair Braiding is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/haleys-african-hair-braiding-chicago/
-898. Hilda's Hair Hut | trust 0.0 | Hilda's Hair Hut is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/hildas-hair-hut-minneapolis/
-899. HLB Salon | trust 0.0 | HLB Salon is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/hlb-salon-la-grange/
-900. Indulge Salon | trust 0.0 | Indulge Salon is a hair salon in White Bear Lake, MN. | https://dingalinged-cpu.github.io/registry/c/indulge-salon-white-bear-lake/
-901. Infinite Beauty Salon | trust 0.0 | Infinite Beauty Salon is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/infinite-beauty-salon-chicago/
-902. Jeannie's | trust 0.0 | Jeannie's is a hair salon in Westchester, IL. | https://dingalinged-cpu.github.io/registry/c/jeannies-westchester/
-903. Jefferey LaMorte Salon & Day Spa | trust 0.0 | Jefferey LaMorte Salon & Day Spa is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/jefferey-lamorte-salon-and-day-spa-orland-park/
-904. Jesse's Barbershop | trust 0.0 | Jesse's Barbershop is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/jesses-barbershop-chicago/
-905. Jim's Barber Shop | trust 0.0 | Jim's Barber Shop is a hair salon in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/jims-barber-shop-new-brighton/
-906. Johnny Blades Haircut | trust 0.0 | Johnny Blades Haircut is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/johnny-blades-haircut-chicago/
-907. Just Teasin' | trust 0.0 | Just Teasin' is a hair salon in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/just-teasin-brookfield/
-908. Kalla Lily Salon and Spa | trust 0.0 | Kalla Lily Salon and Spa is a hair salon in Medina, MN. | https://dingalinged-cpu.github.io/registry/c/kalla-lily-salon-and-spa-medina/
-909. Kenneth Stone Salon | trust 0.0 | Kenneth Stone Salon is a hair salon in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/kenneth-stone-salon-joliet/
-910. Kids Hair | trust 0.0 | Kids Hair is a hair salon in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/kids-hair-maple-grove/
-911. KidSnips | trust 0.0 | KidSnips is a hair salon in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/kidsnips-arlington-heights/
-912. L'Unica Salon | trust 0.0 | L'Unica Salon is a hair salon in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/lunica-salon-brookfield/
-913. Lady Jane's | trust 0.0 | Lady Jane's is a barber shop in Bloomingdale, IL. | https://dingalinged-cpu.github.io/registry/c/lady-janes-bloomingdale/
-914. Lady Jane's Haircuts for Men | trust 0.0 | Lady Jane's Haircuts for Men is a hair salon in Darien, IL. | https://dingalinged-cpu.github.io/registry/c/lady-janes-haircuts-for-men-darien/
-915. LC Salon & Spa | trust 0.0 | LC Salon & Spa is a hair salon in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/lc-salon-and-spa-indian-head-park/
-916. Lilli Salon | trust 0.0 | Lilli Salon is a hair salon in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/lilli-salon-minnetonka/
-917. Lina's Beauty Salon | trust 0.0 | Lina's Beauty Salon is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/linas-beauty-salon-chicago/
-918. Lisseth Unisex | trust 0.0 | Lisseth Unisex is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/lisseth-unisex-chicago/
-919. Locascio's Hair Care | trust 0.0 | Locascio's Hair Care is a hair salon in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/locascios-hair-care-arlington-heights/
-920. Lorena's Hair Salon | trust 0.0 | Lorena's Hair Salon is a hair salon in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/lorenas-hair-salon-brookfield/
-921. Macdaddy on Madison | trust 0.0 | Macdaddy on Madison is a hair salon in Forest Park, IL. | https://dingalinged-cpu.github.io/registry/c/macdaddy-on-madison-forest-park/
-922. Madison Street Barbers | trust 0.0 | Madison Street Barbers is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/madison-street-barbers-chicago/
-923. Mariano's For Hair | trust 0.0 | Mariano's For Hair is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/marianos-for-hair-saint-paul/
-924. Marilu G Studio | trust 0.0 | Marilu G Studio is a hair salon in Inver Grove Heights, MN. | https://dingalinged-cpu.github.io/registry/c/marilu-g-studio-inver-grove-heights/
-925. Marley's Barber Shop | trust 0.0 | Marley's Barber Shop is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/marleys-barber-shop-gary/
-926. Martha's Clip and Curl Salon | trust 0.0 | Martha's Clip and Curl Salon is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/marthas-clip-and-curl-salon-gary/
-927. Master Barber | trust 0.0 | Master Barber is a hair salon in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/master-barber-bolingbrook/
-928. Mastercuts | trust 0.0 | Mastercuts is a hair salon in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/mastercuts-burr-ridge/
-929. Mastercuts | trust 0.0 | Mastercuts is a hair salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/mastercuts-countryside/
-930. Melrose Platinum Fades | trust 0.0 | Melrose Platinum Fades is a hair salon in Melrose Park, IL. | https://dingalinged-cpu.github.io/registry/c/melrose-platinum-fades-melrose-park/
-931. Meye Salon | trust 0.0 | Meye Salon is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/meye-salon-minneapolis/
-932. Michael D'Anthony's Salon | trust 0.0 | Michael D'Anthony's Salon is a hair salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/michael-danthonys-salon-countryside/
-933. Milagro's | trust 0.0 | Milagro's is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/milagros-minneapolis/
-934. Milagro's | trust 0.0 | Milagro's is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/milagros-minneapolis-n12286163036/
-935. Minnesota School of Barbering | trust 0.0 | Minnesota School of Barbering is a barber shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/minnesota-school-of-barbering-minneapolis/
-936. Mirobolant | trust 0.0 | Mirobolant is a hair salon in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/mirobolant-brookfield/
-937. Misano Salon | trust 0.0 | Misano Salon is a hair salon in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/misano-salon-mount-prospect/
-938. Mod salon | trust 0.0 | Mod salon is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/mod-salon-la-grange/
-939. Mombo Hair Studio | trust 0.0 | Mombo Hair Studio is a hair salon in North Riverside, IL. | https://dingalinged-cpu.github.io/registry/c/mombo-hair-studio-north-riverside/
-940. Mr. Barber | trust 0.0 | Mr. Barber is a hair salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/mr-barber-new-hope/
-941. MVX Beauty Club | trust 0.0 | MVX Beauty Club is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/mvx-beauty-club-chicago/
-942. My Salon | trust 0.0 | My Salon is a hair salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/my-salon-plymouth/
-943. M’Bellish Hair Studio | trust 0.0 | M’Bellish Hair Studio is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/m-bellish-hair-studio-chicago/
-944. Nano's Hair & Day Spa | trust 0.0 | Nano's Hair & Day Spa is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/nanos-hair-and-day-spa-chicago/
-945. Natural Hair Therapy Salon | trust 0.0 | Natural Hair Therapy Salon is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/natural-hair-therapy-salon-chicago/
-946. Nelson’s Barbershop | trust 0.0 | Nelson’s Barbershop is a barber shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/nelson-s-barbershop-chicago/
-947. New Art Salon | trust 0.0 | New Art Salon is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/new-art-salon-saint-paul-n1411811126/
-948. Nick's Barber | trust 0.0 | Nick's Barber is a hair salon in Rockford, MN. | https://dingalinged-cpu.github.io/registry/c/nicks-barber-rockford/
-949. Novi | trust 0.0 | Novi is a hair salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/novi-countryside/
-950. Nuevo Estilo | trust 0.0 | Nuevo Estilo is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/nuevo-estilo-chicago/
-951. NuYu Premium Hair | trust 0.0 | NuYu Premium Hair is a hair salon in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/nuyu-premium-hair-crystal/
-952. Oak Park Barbers | trust 0.0 | Oak Park Barbers is a hair salon in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/oak-park-barbers-oak-park/
-953. Olga's Hair | trust 0.0 | Olga's Hair is a hair salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/olgas-hair-new-hope/
-954. Onelan Hair & Beauty Salon | trust 0.0 | Onelan Hair & Beauty Salon is a hair salon in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/onelan-hair-and-beauty-salon-brookfield/
-955. Only One Boutique | trust 0.0 | Only One Boutique is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/only-one-boutique-chicago/
-956. Patricia's Hair Studio | trust 0.0 | Patricia's Hair Studio is a hair salon in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/patricias-hair-studio-west-saint-paul/
-957. Paul Chambers Salon | trust 0.0 | Paul Chambers Salon is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/paul-chambers-salon-chicago/
-958. Pauly Ray's Sports Barbershop | trust 0.0 | Pauly Ray's Sports Barbershop is a barber shop in Shoreview, MN. | https://dingalinged-cpu.github.io/registry/c/pauly-rays-sports-barbershop-shoreview/
-959. Pearl Beauty Hair Salon | trust 0.0 | Pearl Beauty Hair Salon is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/pearl-beauty-hair-salon-des-plaines/
-960. Peppertree Salon | trust 0.0 | Peppertree Salon is a hair salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/peppertree-salon-new-hope/
-961. Perfection Salon | trust 0.0 | Perfection Salon is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/perfection-salon-orland-hills/
-962. Phenix Salon Suites | trust 0.0 | Phenix Salon Suites is a hair salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-eagan/
-963. Phenix Salon Suites | trust 0.0 | Phenix Salon Suites is a hair salon in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-schaumburg/
-964. Phil's Barber & Styling Station | trust 0.0 | Phil's Barber & Styling Station is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/phils-barber-and-styling-station-orland-hills/
-965. Phoenix Salon Suites | trust 0.0 | Phoenix Salon Suites is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/phoenix-salon-suites-orland-hills/
-966. Pixy Salon | trust 0.0 | Pixy Salon is a hair salon in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/pixy-salon-crystal/
-967. Pizzazz | trust 0.0 | Pizzazz is a hair salon in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/pizzazz-brookfield/
-968. Preserve Barbers | trust 0.0 | Preserve Barbers is a barber shop in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/preserve-barbers-eden-prairie/
-969. Pure Salon | trust 0.0 | Pure Salon is a hair salon in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/pure-salon-arlington-heights/
-970. Quality Cut Barbershop Lounge | trust 0.0 | Quality Cut Barbershop Lounge is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/quality-cut-barbershop-lounge-minneapolis/
-971. refleKTion | trust 0.0 | refleKTion is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/reflektion-chicago/
-972. Revere Hair Studio | trust 0.0 | Revere Hair Studio is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/revere-hair-studio-chicago/
-973. Reyna's Salon Unisex | trust 0.0 | Reyna's Salon Unisex is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/reynas-salon-unisex-chicago/
-974. Ricci Kapricci | trust 0.0 | Ricci Kapricci is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/ricci-kapricci-chicago/
-975. Rockzorz Salon & Spa | trust 0.0 | Rockzorz Salon & Spa is a hair salon in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/rockzorz-salon-and-spa-joliet/
-976. Running with Scissors | trust 0.0 | Running with Scissors is a hair salon in Saint Paul Park, MN. | https://dingalinged-cpu.github.io/registry/c/running-with-scissors-saint-paul-park/
-977. Sagitario | trust 0.0 | Sagitario is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/sagitario-bloomington/
-978. Salon 10 | trust 0.0 | Salon 10 is a hair salon in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/salon-10-blaine/
-979. Salon 180 | trust 0.0 | Salon 180 is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/salon-180-la-grange/
-980. Salon 312 | trust 0.0 | Salon 312 is a hair salon in Lemont Township, IL. | https://dingalinged-cpu.github.io/registry/c/salon-312-lemont-township/
-981. Salon 760 in Highland Park | trust 0.0 | Salon 760 in Highland Park is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/salon-760-in-highland-park-saint-paul/
-982. Salon B | trust 0.0 | Salon B is a hair salon in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/salon-b-brookfield/
-983. Salon Exhale | trust 0.0 | Salon Exhale is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/salon-exhale-chicago/
-984. Salon HALO | trust 0.0 | Salon HALO is a hair salon in Robbinsdale, MN. | https://dingalinged-cpu.github.io/registry/c/salon-halo-robbinsdale/
-985. Salon Hype | trust 0.0 | Salon Hype is a hair salon in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/salon-hype-burr-ridge/
-986. Salon L'Image | trust 0.0 | Salon L'Image is a hair salon in Hopkins, MN. | https://dingalinged-cpu.github.io/registry/c/salon-limage-hopkins/
-987. Salon Lofts | trust 0.0 | Salon Lofts is a hair salon in Hinsdale, IL. | https://dingalinged-cpu.github.io/registry/c/salon-lofts-hinsdale/
-988. Salon M | trust 0.0 | Salon M is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/salon-m-chicago/
-989. Salon Oriana | trust 0.0 | Salon Oriana is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/salon-oriana-bloomington/
-990. Salon Shiloh | trust 0.0 | Salon Shiloh is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/salon-shiloh-chicago/
-991. Salon V | trust 0.0 | Salon V is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/salon-v-chicago/
-992. Salons by JC | trust 0.0 | Salons by JC is a hair salon in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/salons-by-jc-minnetonka/
-993. Salvatore | trust 0.0 | Salvatore is a hair salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/salvatore-countryside/
-994. Sarah Nails | trust 0.0 | Sarah Nails is a hair salon in Coon Rapids, MN. | https://dingalinged-cpu.github.io/registry/c/sarah-nails-coon-rapids/
-995. Sass Studios and Salon Suites | trust 0.0 | Sass Studios and Salon Suites is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/sass-studios-and-salon-suites-orland-park/
-996. Sean Patricks Hair Salon | trust 0.0 | Sean Patricks Hair Salon is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/sean-patricks-hair-salon-la-grange/
-997. Serene Hair Design | trust 0.0 | Serene Hair Design is a hair salon in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/serene-hair-design-bolingbrook/
-998. Sharp Objects | trust 0.0 | Sharp Objects is a hair salon in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/sharp-objects-westmont/
-999. Shave Legends | trust 0.0 | Shave Legends is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/shave-legends-des-plaines/
-1000. Shear Encounter | trust 0.0 | Shear Encounter is a hair salon in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/shear-encounter-downers-grove/
-1001. Shear Image | trust 0.0 | Shear Image is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/shear-image-chicago/
-1002. Sheer Styles | trust 0.0 | Sheer Styles is a hair salon in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/sheer-styles-mokena/
-1003. Silvermoon Salon | trust 0.0 | Silvermoon Salon is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/silvermoon-salon-la-grange/
-1004. Silvia's Haircuts | trust 0.0 | Silvia's Haircuts is a hair salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/silvias-haircuts-countryside/
-1005. Simonson's | trust 0.0 | Simonson's is a hair salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/simonsons-plymouth/
-1006. Soap Box Salon | trust 0.0 | Soap Box Salon is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/soap-box-salon-saint-paul/
-1007. Sola Salons | trust 0.0 | Sola Salons is a hair salon in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/sola-salons-west-saint-paul/
-1008. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-bloomington/
-1009. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Champlin, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-champlin/
-1010. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-chicago/
-1011. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-chicago-n10955954430/
-1012. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Crown Point, IN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-crown-point/
-1013. Sport Clips | trust 0.0 | Sport Clips is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-la-grange/
-1014. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Lincolnshire, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-lincolnshire/
-1015. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-lombard/
-1016. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Long Grove, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-long-grove/
-1017. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-maple-grove/
-1018. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-mokena/
-1019. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-northbrook/
-1020. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-orland-hills/
-1021. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-rogers/
-1022. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-romeoville/
-1023. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-roseville/
-1024. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Shoreview, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-shoreview/
-1025. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Tinley Park, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-tinley-park/
-1026. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Vadnais Heights, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-vadnais-heights/
-1027. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Wayzata, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-wayzata/
-1028. Sport Clips | trust 0.0 | Sport Clips is a hair salon in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-west-saint-paul/
-1029. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-wheaton/
-1030. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-wheaton-n11188198671/
-1031. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-woodridge/
-1032. State St. Barbers | trust 0.0 | State St. Barbers is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/state-st-barbers-chicago/
-1033. State Street Barbers - River North | trust 0.0 | State Street Barbers - River North is a barber shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/state-street-barbers-river-north-chicago/
-1034. Stilo Cuts | trust 0.0 | Stilo Cuts is a hair salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/stilo-cuts-eagan/
-1035. Studio 45 | trust 0.0 | Studio 45 is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/studio-45-orland-park/
-1036. Studio 7 | trust 0.0 | Studio 7 is a hair salon in Hanover Park, IL. | https://dingalinged-cpu.github.io/registry/c/studio-7-hanover-park/
-1037. Studio One | trust 0.0 | Studio One is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/studio-one-gary/
-1038. Studio Suites | trust 0.0 | Studio Suites is a hair salon in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/studio-suites-indian-head-park/
-1039. Styles | trust 0.0 | Styles is a hair salon in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/styles-brookfield/
-1040. Supercuts | trust 0.0 | Supercuts is a hair salon in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/supercuts-downers-grove/
-1041. Supercuts | trust 0.0 | Supercuts is a hair salon in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/supercuts-glenview/
-1042. Supercuts | trust 0.0 | Supercuts is a hair salon in New Lenox, IL. | https://dingalinged-cpu.github.io/registry/c/supercuts-new-lenox/
-1043. Supercuts | trust 0.0 | Supercuts is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/supercuts-orland-park/
-1044. Supercuts | trust 0.0 | Supercuts is a hair salon in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/supercuts-palatine/
-1045. Supercuts | trust 0.0 | Supercuts is a hair salon in Willowbrook, IL. | https://dingalinged-cpu.github.io/registry/c/supercuts-willowbrook/
-1046. Superior Barbershop | trust 0.0 | Superior Barbershop is a hair salon in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/superior-barbershop-brookfield/
-1047. Symmetry Hair Salon | trust 0.0 | Symmetry Hair Salon is a hair salon in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/symmetry-hair-salon-la-grange-park/
-1048. Taj Salon & Spa | trust 0.0 | Taj Salon & Spa is a hair salon in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/taj-salon-and-spa-brooklyn-park/
-1049. Tangles Salon | trust 0.0 | Tangles Salon is a hair salon in Saint Michael, MN. | https://dingalinged-cpu.github.io/registry/c/tangles-salon-saint-michael/
-1050. Taylor Trimmers | trust 0.0 | Taylor Trimmers is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/taylor-trimmers-la-grange/
-1051. The Barber Shop | trust 0.0 | The Barber Shop is a barber shop in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-barber-shop-west-saint-paul/
-1052. The Bird's Nest | trust 0.0 | The Bird's Nest is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-birds-nest-chicago/
-1053. The Hair District | trust 0.0 | The Hair District is a hair salon in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/the-hair-district-maple-grove/
-1054. The Rat's Nest Salon | trust 0.0 | The Rat's Nest Salon is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-rats-nest-salon-saint-paul/
-1055. The Shop | trust 0.0 | The Shop is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-shop-chicago/
-1056. The Times Hair Salon | trust 0.0 | The Times Hair Salon is a hair salon in Inver Grove Heights, MN. | https://dingalinged-cpu.github.io/registry/c/the-times-hair-salon-inver-grove-heights/
-1057. Tinged Studios | trust 0.0 | Tinged Studios is a hair salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/tinged-studios-countryside/
-1058. Tou's Haircut | trust 0.0 | Tou's Haircut is a hair salon in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/tous-haircut-saint-paul/
-1059. Traditions | trust 0.0 | Traditions is a barber shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/traditions-chicago/
-1060. Trend Salon & Spa | trust 0.0 | Trend Salon & Spa is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/trend-salon-and-spa-des-plaines/
-1061. Twisted Hare | trust 0.0 | Twisted Hare is a hair salon in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/twisted-hare-minneapolis/
-1062. Unique Cuts | trust 0.0 | Unique Cuts is a hair salon in Champlin, MN. | https://dingalinged-cpu.github.io/registry/c/unique-cuts-champlin/
-1063. Untangle Hair Salon | trust 0.0 | Untangle Hair Salon is a hair salon in Highland Park, IL. | https://dingalinged-cpu.github.io/registry/c/untangle-hair-salon-highland-park/
-1064. Uroda Hair Design | trust 0.0 | Uroda Hair Design is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/uroda-hair-design-orland-park/
-1065. V Salon | trust 0.0 | V Salon is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/v-salon-chicago/
-1066. Van Cleef Salon | trust 0.0 | Van Cleef Salon is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/van-cleef-salon-chicago/
-1067. Velvaere Mae | trust 0.0 | Velvaere Mae is a hair salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/velvaere-mae-eagan/
-1068. Villa Roma | trust 0.0 | Villa Roma is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/villa-roma-chicago/
-1069. Village Barbers | trust 0.0 | Village Barbers is a hair salon in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/village-barbers-woodridge/
-1070. Volume Salon | trust 0.0 | Volume Salon is a hair salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/volume-salon-plymouth/
-1071. Waves | trust 0.0 | Waves is a hair salon in Schiller Park, IL. | https://dingalinged-cpu.github.io/registry/c/waves-schiller-park/
-1072. Who's Next | trust 0.0 | Who's Next is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/whos-next-chicago/
-1073. Winchester Club | trust 0.0 | Winchester Club is a hair salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/winchester-club-chicago/
-1074. Wise Guys | trust 0.0 | Wise Guys is a hair salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/wise-guys-countryside/
-1075. Wisemen Barber Lounge | trust 0.0 | Wisemen Barber Lounge is a hair salon in Palos Park, IL. | https://dingalinged-cpu.github.io/registry/c/wisemen-barber-lounge-palos-park/
+2. 1of1 Hair Studio | trust 20.0 | 1of1 Hair Studio is a barber shop in West Allis, WI at 7117 West Greenfield Avenue, West Allis, WI 53214. Phone: +14144553743. Website: https://solo.to/1of1hairstudio. | https://dingalinged-cpu.github.io/registry/c/1of1-hair-studio-west-allis/
+3. 209 Salon | trust 20.0 | 209 Salon is a hair salon in Plano, TX at 7300 Lone Star Drive #C-138, Plano, TX 75024. Phone: +19725482815. Website: https://www.209salon.com/plano-tx. | https://dingalinged-cpu.github.io/registry/c/209-salon-plano/
+4. A&O Hair Braiding | trust 20.0 | A&O Hair Braiding is a hair salon in Woodridge, IL at 8276 Janes Avenue, Woodridge, IL 60517. Phone: +16306997607. Website: https://aobraidingshop.com/. | https://dingalinged-cpu.github.io/registry/c/a-and-o-hair-braiding-woodridge/
+5. A&T Barbershop | trust 20.0 | A&T Barbershop is a barber shop in The Colony, TX at 3805 Main Street ##202, The Colony, TX 75056. Phone: +12144078899. Website: https://atbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/a-and-t-barbershop-the-colony/
+6. a.salon | trust 20.0 | a.salon is a hair salon in Chicago, IL at 1301 West 18th Street, Chicago, IL 60608. Phone: +13129294401. Website: https://asalonchicago.com/. | https://dingalinged-cpu.github.io/registry/c/a-salon-chicago/
+7. Africa Hair Braiding | trust 20.0 | Africa Hair Braiding is a hair salon in Chicago, IL at 102 East 47th Street, Chicago, IL 60653. Phone: +17736244405. Website: https://africahairbraiding.com/. | https://dingalinged-cpu.github.io/registry/c/africa-hair-braiding-chicago/
+8. Ale's Hair Salon | trust 20.0 | Ale's Hair Salon is a hair salon in Cypress, TX at 13802 Fleur de Lis Boulevard #E, Cypress, TX 77429. Phone: +18326885447. Website: https://cypresshairstylist.com/. | https://dingalinged-cpu.github.io/registry/c/ales-hair-salon-cypress/
+9. Amber Waves | trust 20.0 | Amber Waves is a hair salon in Naperville, IL at 144 West Jefferson Avenue, Naperville, IL 60540. Phone: +16309611108. Website: https://amberwavessalon.com/. | https://dingalinged-cpu.github.io/registry/c/amber-waves-naperville/
+10. Angie's Hair Studio | trust 20.0 | Angie's Hair Studio is a hair salon in Chicago, IL at 8251 West Irving Park Road, Chicago, IL 60634. Phone: +17735894288. Website: https://www.angieshairstudio.us/. | https://dingalinged-cpu.github.io/registry/c/angies-hair-studio-chicago/
+11. Anomalía Beauty Society | trust 20.0 | Anomalía Beauty Society is a hair salon in Carrollton, TX at 2414, Unit 105 Marsh Lane, Carrollton, TX 75006. Phone: +14694634393. Website: https://www.anomaliasociety.com/. | https://dingalinged-cpu.github.io/registry/c/anomal-a-beauty-society-carrollton/
+12. Anthony Lullo's Hair Designs | trust 20.0 | Anthony Lullo's Hair Designs is a hair salon in Oak Park, IL at 721 South Boulevard, Oak Park, IL 60302. Phone: +17088484455. Website: https://anthonylullohairdesigns.com/. | https://dingalinged-cpu.github.io/registry/c/anthony-lullos-hair-designs-oak-park/
+13. Archambeaus Salon | trust 20.0 | Archambeaus Salon is a hair salon in Milwaukee, WI at 419 East Menomonee Street, Milwaukee, WI 53202. Phone: +14142721028. Website: https://www.stephaniebarenz.com/. | https://dingalinged-cpu.github.io/registry/c/archambeaus-salon-milwaukee/
+14. Art's Barber Shop | trust 20.0 | Art's Barber Shop is a hair salon in Roseville, MN at 1129 1/2 Larpenteur Avenue West, Roseville, MN 55113. Phone: +16514891411. Website: https://artsbarbershop-barbershop.business.site/. | https://dingalinged-cpu.github.io/registry/c/arts-barber-shop-roseville/
+15. Artistic Creations | trust 20.0 | Artistic Creations is a hair salon in Naperville, IL at 22 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303575467. Website: https://www.artisticcreationssalon.com/. | https://dingalinged-cpu.github.io/registry/c/artistic-creations-naperville/
+16. Azul Salon | trust 20.0 | Azul Salon is a hair salon in Houston, TX at 536 Waugh Drive, Houston, TX 77019. Phone: +17135217676. Website: https://www.azulsalonhouston.com/. | https://dingalinged-cpu.github.io/registry/c/azul-salon-houston/
+17. Barber's Company | trust 20.0 | Barber's Company is a hair salon in Milwaukee, WI at 4546 West Forest Home Avenue, Milwaukee, WI 53219. Phone: +14148004080. Website: https://www.barberscompanyllc.com/. | https://dingalinged-cpu.github.io/registry/c/barbers-company-milwaukee/
+18. Barber's Company | trust 20.0 | Barber's Company is a barber shop in West Milwaukee, WI at 5303 West Greenfield Avenue, West Milwaukee, WI 53214. Phone: +14142493008. Website: https://www.barberscompanyllc.com/. | https://dingalinged-cpu.github.io/registry/c/barbers-company-west-milwaukee/
+19. Beautiful Grace Salon | trust 20.0 | Beautiful Grace Salon is a hair salon in Houston, TX at 255 Assay Street #1, Houston, TX 77044. Phone: +18324666478. Website: https://beautifulgracesalon.com/. | https://dingalinged-cpu.github.io/registry/c/beautiful-grace-salon-houston/
+20. Beautifully Loc'd | trust 20.0 | Beautifully Loc'd is a hair salon in Milwaukee, WI at 7212 West Appleton Avenue, Milwaukee, WI 53216. Phone: +14143884693. Website: https://www.beautifullylocd.com/. | https://dingalinged-cpu.github.io/registry/c/beautifully-locd-milwaukee/
+21. Beauty | trust 20.0 | Beauty is a hair salon in Milwaukee, WI at 1633 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142765054. Website: https://www.beautymilwaukee.com/. | https://dingalinged-cpu.github.io/registry/c/beauty-milwaukee/
+22. Benny’s Barber Shop | trust 20.0 | Benny’s Barber Shop is a hair salon in White Bear Lake, MN at 4758 Washington Avenue, White Bear Lake, MN 55110. Phone: +16514261082. Website: https://www.bennyshaircut.com/. | https://dingalinged-cpu.github.io/registry/c/benny-s-barber-shop-white-bear-lake/
+23. Biby's Hair Studio | trust 20.0 | Biby's Hair Studio is a hair salon in Houston, TX at 175 Greens Road #C, Houston, TX 77060. Phone: +18324611747. Website: https://bibyshairstudio.com/. | https://dingalinged-cpu.github.io/registry/c/bibys-hair-studio-houston/
+24. Bink Suites | trust 20.0 | Bink Suites is a barber shop in Mesquite, TX at 111 West Main Street, Mesquite, TX 75149. Phone: +12145644930. Website: https://marcus-brandon.square.site/. | https://dingalinged-cpu.github.io/registry/c/bink-suites-mesquite/
+25. Bink Suites Frisco | trust 20.0 | Bink Suites Frisco is a barber shop in Frisco, TX at 4740 Eldorado Parkway #244, Frisco, TX 75035. Phone: +12145644930. Website: https://binkfrisco.com/. | https://dingalinged-cpu.github.io/registry/c/bink-suites-frisco-frisco/
+26. Blanca's Hair Styling | trust 20.0 | Blanca's Hair Styling is a hair salon in Houston, TX at 228 Harbor Street, Houston, TX 77020. Phone: +17136724767. Website: https://www.blancashairstylingtx.com/. | https://dingalinged-cpu.github.io/registry/c/blancas-hair-styling-houston/
+27. Blend Salon & Skincare | trust 20.0 | Blend Salon & Skincare is a hair salon in Lisle, IL at 1111 Burlington Avenue #102, Lisle, IL 60532. Phone: +16302169296. Website: https://www.blendhairandskincare.com/. | https://dingalinged-cpu.github.io/registry/c/blend-salon-and-skincare-lisle/
+28. Blendz Barbershop | trust 20.0 | Blendz Barbershop is a barber shop in Saint Paul, MN at 741 University Avenue #2, Saint Paul, MN 55104. Phone: +16513302469. Website: https://www.facebook.com/p/Blendz-Barbershop-Mn-100063960067000/. | https://dingalinged-cpu.github.io/registry/c/blendz-barbershop-saint-paul/
+29. Blissful Beauty HTX | trust 20.0 | Blissful Beauty HTX is a hair salon in Houston, TX at 3100 Richmond Avenue #103-1, Houston, TX 77098. Phone: +17133771330. Website: https://blissfulbeauty-htx.square.site/. | https://dingalinged-cpu.github.io/registry/c/blissful-beauty-htx-houston/
+30. Boho Blonde Chicago | trust 20.0 | Boho Blonde Chicago is a hair salon in Chicago, IL at 3740 North Broadway, Chicago, IL 60613. Phone: +17738570913. Website: https://bohoblondechicago.com/. | https://dingalinged-cpu.github.io/registry/c/boho-blonde-chicago-chicago/
+31. BoRics | trust 20.0 | BoRics is a hair salon in Niles, IL at 8474 West Golf Road, Niles, IL 60714. Phone: +18474708586. Website: https://www.signaturestyle.com/locations/il/niles/borics-hair-care-golf-road-plaza-haircuts-75388. | https://dingalinged-cpu.github.io/registry/c/borics-niles/
+32. Born Cutterz Barbershop | trust 20.0 | Born Cutterz Barbershop is a hair salon in Humble, TX at 802 #300 1st Street, Humble, TX 77338. Phone: +13466168200. Website: https://borncutterz.com/. | https://dingalinged-cpu.github.io/registry/c/born-cutterz-barbershop-humble/
+33. Bourne Blonde | trust 20.0 | Bourne Blonde is a hair salon in Dallas, TX at 4528 Cabell Drive, Dallas, TX 75204. Phone: +12145977907. Website: https://bourne-blonde-dallas.square.site/. | https://dingalinged-cpu.github.io/registry/c/bourne-blonde-dallas/
+34. Brew City Barber | trust 20.0 | Brew City Barber is a barber shop in Brookfield, WI at 14625 Capitol Drive #202, Brookfield, WI 53005. Phone: +14144121155. Website: https://brewcitybarber.com/. | https://dingalinged-cpu.github.io/registry/c/brew-city-barber-brookfield/
+35. Bulldog Barber Shop | trust 20.0 | Bulldog Barber Shop is a hair salon in Richardson, TX at 318 South Central Expressway #108, Richardson, TX 75080. Phone: +14694940086. Website: https://www.bulldog-barbershops.com/. | https://dingalinged-cpu.github.io/registry/c/bulldog-barber-shop-richardson/
+36. C'zar Salon & Spa | trust 20.0 | C'zar Salon & Spa is a hair salon in Naperville, IL at 237 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303573444. Website: https://czarspa.com/locations/naperville/. | https://dingalinged-cpu.github.io/registry/c/czar-salon-and-spa-naperville/
+37. Caroline's Hair Design | trust 20.0 | Caroline's Hair Design is a hair salon in Elmwood Park, IL at 12.5 Conti Parkway, Elmwood Park, IL 60707. Phone: +17084531967. Website: https://carolineshairdesign.com/. | https://dingalinged-cpu.github.io/registry/c/carolines-hair-design-elmwood-park/
+38. Charbella Salon | trust 20.0 | Charbella Salon is a hair salon in Chicago, IL at 749 West Irving Park Road, Chicago, IL 60613. Phone: +17739353373. Website: https://www.charbellasalon.com/services. | https://dingalinged-cpu.github.io/registry/c/charbella-salon-chicago/
+39. Chroma Beauty | trust 20.0 | Chroma Beauty is a hair salon in Palos Hills, IL at 10600 South Roberts Road, Palos Hills, IL 60465. Phone: +17085773776. Website: https://chroma-beauty-salon.com/. | https://dingalinged-cpu.github.io/registry/c/chroma-beauty-palos-hills/
+40. Ciara’s Hair Magic | trust 20.0 | Ciara’s Hair Magic is a hair salon in Minneapolis, MN at 4547 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +15072000511. Website: https://ciaras-hair-magic.square.site/. | https://dingalinged-cpu.github.io/registry/c/ciara-s-hair-magic-minneapolis/
+41. City Looks | trust 20.0 | City Looks is a hair salon in Roseville, MN at 1684 Lexington Avenue North, Roseville, MN 55113. Phone: +16514885559. Website: https://www.signaturestyle.com/locations/mn/roseville/city-looks-city-looks-haircuts-16702.html. | https://dingalinged-cpu.github.io/registry/c/city-looks-roseville/
+42. Clark's Barbershop | trust 20.0 | Clark's Barbershop is a barber shop in Dallas, TX at 1910 Summit Avenue, Dallas, TX 75206. Phone: +13054923254. Website: https://www.clarksbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/clarks-barbershop-dallas/
+43. Class Act - Barber/Stylists | trust 20.0 | Class Act - Barber/Stylists is a hair salon in Bayside, WI at 8850 North Port Washington Road #Suite A, Bayside, WI 53217. Phone: +14143529115. Website: https://classactbarber-stylist.com/. | https://dingalinged-cpu.github.io/registry/c/class-act-barber-stylists-bayside/
+44. Clean Cuts | trust 20.0 | Clean Cuts is a hair salon in Saint Paul, MN at 1728 University Avenue, Saint Paul, MN 55104. Phone: +16519173060. Website: https://cleancutsbarbershops.com/. | https://dingalinged-cpu.github.io/registry/c/clean-cuts-saint-paul/
+45. Coil and Bloom at Image Studios | trust 20.0 | Coil and Bloom at Image Studios is a hair salon in Chicago, IL at 460 West Chicago Avenue #135, Chicago, IL 60654. Phone: +12246318979. Website: https://coilandbloom.com/. | https://dingalinged-cpu.github.io/registry/c/coil-and-bloom-at-image-studios-chicago/
+46. Colorbar 1025 | trust 20.0 | Colorbar 1025 is a hair salon in Milwaukee, WI at 1025 West Historic Mitchell Street, Milwaukee, WI 53204. Phone: +14145956284. Website: https://my-site-109443-101022.square.site/. | https://dingalinged-cpu.github.io/registry/c/colorbar-1025-milwaukee/
+47. Company Bliss Salon | trust 20.0 | Company Bliss Salon is a hair salon in Naperville, IL at 1160 East Ogden Avenue #104, Naperville, IL 60563. Phone: +13314724747. Website: https://www.companyblisssalon.com/. | https://dingalinged-cpu.github.io/registry/c/company-bliss-salon-naperville/
+48. Cost Cutters | trust 20.0 | Cost Cutters is a hair salon in Houston, TX at 9650 Westheimer Road #200, Houston, TX 77063. Phone: +17132668700. Website: https://www.costcutters.com/locations/tx/houston/woodlake-square-haircuts-15697.html. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-houston-n9611895944/
+49. Cost Cutters | trust 20.0 | Cost Cutters is a hair salon in Houston, TX at 1510 Eldridge Parkway #128, Houston, TX 77077. Phone: +12817592221. Website: https://www.costcutters.com/locations/tx/houston/parkway-village-haircuts-15712.html. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-houston-w834041979/
+50. Curl Revolution Salon | trust 20.0 | Curl Revolution Salon is a hair salon in Frisco, TX at 9200 Lebanon Road #40-241, Frisco, TX 75035. Phone: +12147075554. Website: https://curlrevolution.com/. | https://dingalinged-cpu.github.io/registry/c/curl-revolution-salon-frisco/
+
+## More haircut listings (2387 total; top 50 unpaid shown)
+- Chicago, IL: 238 listings: https://dingalinged-cpu.github.io/registry/k/haircut-chicago-il/
+- Houston, TX: 201 listings: https://dingalinged-cpu.github.io/registry/k/haircut-houston-tx/
+- Milwaukee, WI: 157 listings: https://dingalinged-cpu.github.io/registry/k/haircut-milwaukee-wi/
+- Minneapolis, MN: 129 listings: https://dingalinged-cpu.github.io/registry/k/haircut-minneapolis-mn/
+- Dallas, TX: 114 listings: https://dingalinged-cpu.github.io/registry/k/haircut-dallas-tx/
+- Harris County, TX: 89 listings: https://dingalinged-cpu.github.io/registry/k/haircut-harris-county-tx/
+- Saint Paul, MN: 75 listings: https://dingalinged-cpu.github.io/registry/k/haircut-saint-paul-mn/
+- Naperville, IL: 32 listings: https://dingalinged-cpu.github.io/registry/k/haircut-naperville-il/
+- Frisco, TX: 30 listings: https://dingalinged-cpu.github.io/registry/k/haircut-frisco-tx/
+- Addison, TX: 29 listings: https://dingalinged-cpu.github.io/registry/k/haircut-addison-tx/
+- Denton, TX: 29 listings: https://dingalinged-cpu.github.io/registry/k/haircut-denton-tx/
+- Richardson, TX: 25 listings: https://dingalinged-cpu.github.io/registry/k/haircut-richardson-tx/
+- Plano, TX: 24 listings: https://dingalinged-cpu.github.io/registry/k/haircut-plano-tx/
+- Carrollton, TX: 24 listings: https://dingalinged-cpu.github.io/registry/k/haircut-carrollton-tx/
+- Saint Louis Park, MN: 24 listings: https://dingalinged-cpu.github.io/registry/k/haircut-saint-louis-park-mn/
+- Euless, TX: 21 listings: https://dingalinged-cpu.github.io/registry/k/haircut-euless-tx/
+- Lewisville, TX: 21 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lewisville-tx/
+- Evanston, IL: 20 listings: https://dingalinged-cpu.github.io/registry/k/haircut-evanston-il/
+- Arlington, TX: 19 listings: https://dingalinged-cpu.github.io/registry/k/haircut-arlington-tx/
+- Mckinney, TX: 19 listings: https://dingalinged-cpu.github.io/registry/k/haircut-mckinney-tx/
+- The Woodlands, TX: 19 listings: https://dingalinged-cpu.github.io/registry/k/haircut-the-woodlands-tx/
+- Gary, IN: 18 listings: https://dingalinged-cpu.github.io/registry/k/haircut-gary-in/
+- Katy, TX: 17 listings: https://dingalinged-cpu.github.io/registry/k/haircut-katy-tx/
+- Brookfield, IL: 17 listings: https://dingalinged-cpu.github.io/registry/k/haircut-brookfield-il/
+- Wauwatosa, WI: 17 listings: https://dingalinged-cpu.github.io/registry/k/haircut-wauwatosa-wi/
+- Mesquite, TX: 16 listings: https://dingalinged-cpu.github.io/registry/k/haircut-mesquite-tx/
+- Flower Mound, TX: 15 listings: https://dingalinged-cpu.github.io/registry/k/haircut-flower-mound-tx/
+- Racine, WI: 15 listings: https://dingalinged-cpu.github.io/registry/k/haircut-racine-wi/
+- Eagan, MN: 13 listings: https://dingalinged-cpu.github.io/registry/k/haircut-eagan-mn/
+- Arlington Heights, IL: 13 listings: https://dingalinged-cpu.github.io/registry/k/haircut-arlington-heights-il/
+- Des Plaines, IL: 13 listings: https://dingalinged-cpu.github.io/registry/k/haircut-des-plaines-il/
+- Edina, MN: 12 listings: https://dingalinged-cpu.github.io/registry/k/haircut-edina-mn/
+- Eden Prairie, MN: 12 listings: https://dingalinged-cpu.github.io/registry/k/haircut-eden-prairie-mn/
+- Countryside, IL: 12 listings: https://dingalinged-cpu.github.io/registry/k/haircut-countryside-il/
+- La Grange, IL: 12 listings: https://dingalinged-cpu.github.io/registry/k/haircut-la-grange-il/
+- Rockwall, TX: 11 listings: https://dingalinged-cpu.github.io/registry/k/haircut-rockwall-tx/
+- Cedar Hill, TX: 11 listings: https://dingalinged-cpu.github.io/registry/k/haircut-cedar-hill-tx/
+- Sugar Land, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/haircut-sugar-land-tx/
+- Fort Bend County, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/haircut-fort-bend-county-tx/
+- Grapevine, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/haircut-grapevine-tx/
+- Humble, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/haircut-humble-tx/
+- Garland, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/haircut-garland-tx/
+- Maple Grove, MN: 10 listings: https://dingalinged-cpu.github.io/registry/k/haircut-maple-grove-mn/
+- Orland Park, IL: 10 listings: https://dingalinged-cpu.github.io/registry/k/haircut-orland-park-il/
+- Brookfield, WI: 10 listings: https://dingalinged-cpu.github.io/registry/k/haircut-brookfield-wi/
+- Montgomery County, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/haircut-montgomery-county-tx/
+- Roseville, MN: 9 listings: https://dingalinged-cpu.github.io/registry/k/haircut-roseville-mn/
+- Bloomington, MN: 9 listings: https://dingalinged-cpu.github.io/registry/k/haircut-bloomington-mn/
+- Niles, IL: 9 listings: https://dingalinged-cpu.github.io/registry/k/haircut-niles-il/
+- New Lenox, IL: 9 listings: https://dingalinged-cpu.github.io/registry/k/haircut-new-lenox-il/
+- Waukesha, WI: 9 listings: https://dingalinged-cpu.github.io/registry/k/haircut-waukesha-wi/
+- Richmond, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-richmond-tx/
+- Irving, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-irving-tx/
+- Southlake, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-southlake-tx/
+- Minnetonka, MN: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-minnetonka-mn/
+- Bolingbrook, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-bolingbrook-il/
+- Forest Park, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-forest-park-il/
+- Downers Grove, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-downers-grove-il/
+- West Bend, WI: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-west-bend-wi/
+- Shorewood, WI: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-wi/
+- New Berlin, WI: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-new-berlin-wi/
+- Hurst, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-hurst-tx/
+- Rosenberg, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-rosenberg-tx/
+- Bedford, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-bedford-tx/
+- Conroe, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-conroe-tx/
+- Pearland, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-pearland-tx/
+- Wylie, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-wylie-tx/
+- Coon Rapids, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-coon-rapids-mn/
+- West Saint Paul, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-west-saint-paul-mn/
+- Plymouth, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-plymouth-mn/
+- Wheaton, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-wheaton-il/
+- Orland Hills, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-orland-hills-il/
+- Lombard, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lombard-il/
+- Roanoke, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-roanoke-tx/
+- Coppell, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-coppell-tx/
+- Rogers, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-rogers-mn/
+- Oak Lawn, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-oak-lawn-il/
+- Vernon Hills, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-vernon-hills-il/
+- Park Ridge, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-park-ridge-il/
+- Mokena, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-mokena-il/
+- Skokie, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-skokie-il/
+- Wauconda, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-wauconda-il/
+- Westchester, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-westchester-il/
+- West Allis, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-west-allis-wi/
+- Greenfield, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-greenfield-wi/
+- Mount Pleasant, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-mount-pleasant-wi/
+- Stafford, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-stafford-tx/
+- Royse City, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-royse-city-tx/
+- Allen, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-allen-tx/
+- Grand Prairie, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-grand-prairie-tx/
+- League City, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-league-city-tx/
+- White Bear Lake, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-white-bear-lake-mn/
+- Crystal, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-crystal-mn/
+- New Hope, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-new-hope-mn/
+- Mount Prospect, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-mount-prospect-il/
+- Oak Park, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-oak-park-il/
+- Northbrook, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-northbrook-il/
+- Homer Glen, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-homer-glen-il/
+- Harwood Heights, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-harwood-heights-il/
+- Glenview, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-glenview-il/
+- Oak Creek, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-oak-creek-wi/
+- Franklin, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-franklin-wi/
+- Whiting, IN: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-whiting-in/
+- Fate, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-fate-tx/
+- Murphy, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-murphy-tx/
+- North Richland Hills, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-north-richland-hills-tx/
+- Farmers Branch, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-farmers-branch-tx/
+- Desoto, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-desoto-tx/
+- Forney, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-forney-tx/
+- Prosper, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-prosper-tx/
+- Waxahachie, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-waxahachie-tx/
+- Vadnais Heights, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-vadnais-heights-mn/
+- New Brighton, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-new-brighton-mn/
+- Shakopee, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-shakopee-mn/
+- Brooklyn Park, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-brooklyn-park-mn/
+- Woodridge, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-woodridge-il/
+- Romeoville, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-romeoville-il/
+- La Grange Park, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-la-grange-park-il/
+- Darien, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-darien-il/
+- Schaumburg, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-schaumburg-il/
+- Palatine, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-palatine-il/
+- Western Springs, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-western-springs-il/
+- Tinley Park, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-tinley-park-il/
+- Wheeling, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-wheeling-il/
+- Union Grove, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-union-grove-wi/
+- Burlington, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-burlington-wi/
+- Pasadena, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-pasadena-tx/
+- Galveston County, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-galveston-county-tx/
+- Kaufman, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-kaufman-tx/
+- Terrell, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-terrell-tx/
+- Lancaster, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lancaster-tx/
+- Fulshear, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-fulshear-tx/
+- Deer Park, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-deer-park-tx/
+- Tomball, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-tomball-tx/
+- Corinth, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-corinth-tx/
+- Webster, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-webster-tx/
+- Robbinsdale, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-robbinsdale-mn/
+- Champlin, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-champlin-mn/
+- Chanhassen, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-chanhassen-mn/
+- Richfield, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-richfield-mn/
+- Maywood, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-maywood-il/
+- Oak Forest, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-oak-forest-il/
+- Lemont Township, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lemont-township-il/
+- Flossmoor, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-flossmoor-il/
+- Buffalo Grove, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-buffalo-grove-il/
+- Frankfort, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-frankfort-il/
+- Indian Head Park, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-indian-head-park-il/
+- Joliet, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-joliet-il/
+- Norridge, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-norridge-il/
+- Town Of Norway, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-town-of-norway-wi/
+- Caledonia, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-caledonia-wi/
+- Sachse, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-sachse-tx/
+- Magnolia, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-magnolia-tx/
+- South Houston, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-south-houston-tx/
+- Watauga, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-watauga-tx/
+- Kemah, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-kemah-tx/
+- Duncanville, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-duncanville-tx/
+- Mansfield, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-mansfield-tx/
+- Crandall, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-crandall-tx/
+- Highland Village, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-highland-village-tx/
+- Cleveland, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-cleveland-tx/
+- Wayzata, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-wayzata-mn/
+- Saint Michael, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-saint-michael-mn/
+- South Saint Paul, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-south-saint-paul-mn/
+- Hopkins, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-hopkins-mn/
+- Saint Anthony, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-saint-anthony-mn/
+- Maplewood, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-maplewood-mn/
+- Shorewood, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-mn/
+- Inver Grove Heights, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-inver-grove-heights-mn/
+- Shoreview, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-shoreview-mn/
+- Wilmette, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-wilmette-il/
+- Villa Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-villa-park-il/
+- Mundelein, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-mundelein-il/
+- Morton Grove, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-morton-grove-il/
+- Lyons, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lyons-il/
+- Elmwood Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-elmwood-park-il/
+- Hinsdale, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-hinsdale-il/
+- Willow Springs, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-willow-springs-il/
+- Lake Forest, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lake-forest-il/
+- Addison, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-addison-il/
+- Hoffman Estates, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-hoffman-estates-il/
+- Lake Zurich, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lake-zurich-il/
+- Merrionette Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-merrionette-park-il/
+- Palos Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-palos-park-il/
+- River Grove, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-river-grove-il/
+- South Barrington, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-south-barrington-il/
+- Bloomingdale, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-bloomingdale-il/
+- Rolling Meadows, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-rolling-meadows-il/
+- Burr Ridge, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-burr-ridge-il/
+- Melrose Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-melrose-park-il/
+- Lincolnshire, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lincolnshire-il/
+- Saint Francis, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-saint-francis-wi/
+- Fox Point, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-fox-point-wi/
+- Menomonee Falls, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-menomonee-falls-wi/
+- Schererville, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-schererville-in/
+- Dyer, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-dyer-in/
+- Munster, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-munster-in/
+- Jacinto City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-jacinto-city-tx/
+- The Colony, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-the-colony-tx/
+- Baytown, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-baytown-tx/
+- Pantego, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-pantego-tx/
+- Red Oak, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-red-oak-tx/
+- Balch Springs, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-balch-springs-tx/
+- Brazoria County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-brazoria-county-tx/
+- Roman Forest, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-roman-forest-tx/
+- Fort Worth, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-fort-worth-tx/
+- Cross Roads, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-cross-roads-tx/
+- Lucas, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lucas-tx/
+- Rowlett, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-rowlett-tx/
+- Seagoville, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-seagoville-tx/
+- Trophy Club, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-trophy-club-tx/
+- Keller, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-keller-tx/
+- Ferris, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-ferris-tx/
+- Sealy, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-sealy-tx/
+- Princeton, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-princeton-tx/
+- Needville, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-needville-tx/
+- La Marque, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-la-marque-tx/
+- Colleyville, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-colleyville-tx/
+- Bellaire, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-bellaire-tx/
+- Lake Dallas, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lake-dallas-tx/
+- Hickory Creek, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-hickory-creek-tx/
+- Spring Valley Village, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-spring-valley-village-tx/
+- La Porte, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-la-porte-tx/
+- Mont Belvieu, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-mont-belvieu-tx/
+- Hitchcock, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-hitchcock-tx/
+- Alvin, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-alvin-tx/
+- Missouri City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-missouri-city-tx/
+- Midlothian, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-midlothian-tx/
+- Alvarado, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-alvarado-tx/
+- Burnsville, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-burnsville-mn/
+- Little Canada, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-little-canada-mn/
+- Hugo, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-hugo-mn/
+- Newport, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-newport-mn/
+- Ramsey, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-ramsey-mn/
+- Oakdale, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-oakdale-mn/
+- Saint Bonifacius, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-saint-bonifacius-mn/
+- Medina, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-medina-mn/
+- Hilltop, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-hilltop-mn/
+- Columbia Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-columbia-heights-mn/
+- Rockford, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-rockford-mn/
+- Saint Paul Park, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-saint-paul-park-mn/
+- Blaine, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-blaine-mn/
+- Tonka Bay, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-tonka-bay-mn/
+- Excelsior, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-excelsior-mn/
+- Chaska, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-chaska-mn/
+- Lisle, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lisle-il/
+- Palos Hills, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-palos-hills-il/
+- Burbank, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-burbank-il/
+- Bellwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-bellwood-il/
+- Riverside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-riverside-il/
+- Bartlett, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-bartlett-il/
+- Lincolnwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lincolnwood-il/
+- Carol Stream, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-carol-stream-il/
+- Deer Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-deer-park-il/
+- Elmhurst, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-elmhurst-il/
+- Northfield Township, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-northfield-township-il/
+- Palos Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-palos-heights-il/
+- Rosemont, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-rosemont-il/
+- Wood Dale, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-wood-dale-il/
+- Broadview, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-broadview-il/
+- Crest Hill, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-crest-hill-il/
+- Berwyn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-berwyn-il/
+- Deerfield, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-deerfield-il/
+- Matteson, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-matteson-il/
+- North Riverside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-north-riverside-il/
+- Oakbrook Terrace, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-oakbrook-terrace-il/
+- Warrenville, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-warrenville-il/
+- Winnetka, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-winnetka-il/
+- Westmont, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-westmont-il/
+- Bannockburn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-bannockburn-il/
+- Crestwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-crestwood-il/
+- Lockport, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lockport-il/
+- Long Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-long-grove-il/
+- Hanover Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-hanover-park-il/
+- Willowbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-willowbrook-il/
+- Highland Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-highland-park-il/
+- Roselle, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-roselle-il/
+- Schiller Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-schiller-park-il/
+- Yorkville, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-yorkville-wi/
+- West Milwaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-west-milwaukee-wi/
+- Bayside, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-bayside-wi/
+- South Milwaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-south-milwaukee-wi/
+- Slinger, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-slinger-wi/
+- Cedarburg, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-cedarburg-wi/
+- Village Of Pewaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-village-of-pewaukee-wi/
+- Cudahy, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-cudahy-wi/
+- Town Of Dover, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-town-of-dover-wi/
+- Sturtevant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-sturtevant-wi/
+- Hammond, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-hammond-in/
+- Griffith, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-griffith-in/
+- Highland, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-highland-in/
+- Crown Point, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-crown-point-in/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -1088,10 +357,10 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1075
+- Registry businesses competing: 2387
 - Equivalent Google Ads cost per month: ~$97,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

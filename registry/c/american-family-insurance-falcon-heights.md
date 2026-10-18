@@ -15,7 +15,7 @@ American Family Insurance is an insurance agent in Falcon Heights, MN at 1545 La
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/american-family-insurance-falcon-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-falcon-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7294714121 (license ODbL-1.0); source data as of 2026-05-31

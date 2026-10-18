@@ -15,7 +15,7 @@ Knutsen Auto Service is an auto repair shop in White Bear Lake, MN at 2015 5th S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/knutsen-auto-service-white-bear-lake/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/knutsen-auto-service-white-bear-lake.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13744168731 (license ODbL-1.0); source data as of 2026-06-01

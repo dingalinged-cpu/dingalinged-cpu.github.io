@@ -15,7 +15,7 @@ AAA Insurance is an insurance agent in Skokie, IL at 9349 Skokie Boulevard, Skok
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/aaa-insurance-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/aaa-insurance-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7429132492 (license ODbL-1.0); source data as of 2026-07-28

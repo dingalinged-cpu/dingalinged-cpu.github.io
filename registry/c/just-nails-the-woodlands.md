@@ -1,0 +1,23 @@
+Just Nails is a nail salon in The Woodlands, TX.
+
+# Just Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: The Woodlands, TX
+- City: The Woodlands
+- State: TX
+- ZIP: n/a
+- Coordinates: 30.1642314, -95.4536424
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/just-nails-the-woodlands/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/just-nails-the-woodlands.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5235821752 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

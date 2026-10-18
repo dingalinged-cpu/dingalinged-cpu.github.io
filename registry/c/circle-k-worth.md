@@ -15,7 +15,7 @@ Circle K is a car wash in Worth, IL at 10631 Southwest Highway, Worth, IL 60482.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/circle-k-worth/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/circle-k-worth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1301854083 (license ODbL-1.0); source data as of 2026-07-28

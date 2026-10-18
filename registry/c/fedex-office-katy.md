@@ -1,0 +1,23 @@
+FedEx Office is a printing service in Katy, TX at 430 South Mason Road #108, Katy, TX.
+
+# FedEx Office
+
+- Category: printing services
+- Services: printing services
+- Address: 430 South Mason Road #108, Katy, TX
+- City: Katy
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7781917, -95.7531734
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/fedex-office-katy/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-katy.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7166632735 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

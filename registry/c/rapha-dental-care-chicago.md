@@ -15,7 +15,7 @@ Rapha Dental Care is a dentist in Chicago, IL at 2913 North Narragansett Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rapha-dental-care-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rapha-dental-care-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163085419 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ New Horizon Academy is a preschool in Ramsey, MN at 7800 Sunwood Drive Northwest
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-ramsey/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-horizon-academy-ramsey.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/768259856 (license ODbL-1.0); source data as of 2026-07-24

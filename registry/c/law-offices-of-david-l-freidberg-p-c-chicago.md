@@ -15,7 +15,7 @@ Law Offices of David L. Freidberg, P.C. is a lawyer in Chicago, IL at 70 West Ma
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/law-offices-of-david-l-freidberg-p-c-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/law-offices-of-david-l-freidberg-p-c-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12723368696 (license ODbL-1.0); source data as of 2026-07-28

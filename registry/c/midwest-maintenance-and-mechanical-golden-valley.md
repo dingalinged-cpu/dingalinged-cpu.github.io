@@ -15,7 +15,7 @@ Midwest Maintenance & Mechanical is a window installer in Golden Valley, MN at 7
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midwest-maintenance-and-mechanical-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midwest-maintenance-and-mechanical-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/411449931 (license ODbL-1.0); source data as of 2026-07-24

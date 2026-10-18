@@ -15,7 +15,7 @@ Montessori Children's Community is a preschool in Brookfield, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/montessori-childrens-community-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/montessori-childrens-community-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9793717177 (license ODbL-1.0); source data as of 2026-07-28

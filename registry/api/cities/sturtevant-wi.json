@@ -1,0 +1,524 @@
+{
+ "place": "Sturtevant, WI",
+ "slug": "sturtevant-wi",
+ "count": 15,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-sturtevant-wi.json"
+  },
+  {
+   "keyword": "auto repair sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-sturtevant-wi.json"
+  },
+  {
+   "keyword": "business consultant sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/business-consultant-sturtevant-wi.json"
+  },
+  {
+   "keyword": "car wash sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-sturtevant-wi.json"
+  },
+  {
+   "keyword": "dance studio sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-sturtevant-wi.json"
+  },
+  {
+   "keyword": "dentist sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-sturtevant-wi.json"
+  },
+  {
+   "keyword": "hair salon sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-sturtevant-wi.json"
+  },
+  {
+   "keyword": "haircut sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-sturtevant-wi.json"
+  },
+  {
+   "keyword": "insurance agency sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-sturtevant-wi.json"
+  },
+  {
+   "keyword": "insurance agent sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-sturtevant-wi.json"
+  },
+  {
+   "keyword": "insurance agents sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-sturtevant-wi.json"
+  },
+  {
+   "keyword": "mechanic sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-sturtevant-wi.json"
+  },
+  {
+   "keyword": "physical therapy sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-sturtevant-wi.json"
+  },
+  {
+   "keyword": "real estate agent sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-sturtevant-wi.json"
+  },
+  {
+   "keyword": "realtor sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-sturtevant-wi.json"
+  },
+  {
+   "keyword": "storage units sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-sturtevant-wi.json"
+  },
+  {
+   "keyword": "thrift store sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-sturtevant-wi.json"
+  },
+  {
+   "keyword": "used cars for sale sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-sturtevant-wi.json"
+  },
+  {
+   "keyword": "vet sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-sturtevant-wi.json"
+  },
+  {
+   "keyword": "windshield replacement sturtevant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/windshield-replacement-sturtevant-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "compton-motors-sturtevant",
+   "name": "Compton Motors",
+   "summary": "Compton Motors is an used car dealer in Sturtevant, WI at 2800 Wisconsin Street, Sturtevant, WI 53177. Phone: +12623210444. Website: https://www.comptonmotors.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/compton-motors-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/compton-motors-sturtevant.json",
+   "address": {
+    "streetAddress": "2800 Wisconsin Street",
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "postalCode": "53177",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "zip": "53177",
+   "geo": {
+    "lat": 42.7014912,
+    "lon": -87.9052374
+   },
+   "phone": "+12623210444",
+   "website": "https://www.comptonmotors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1049472167",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-trip-sturtevant",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Sturtevant, WI at 10500 Durand Avenue, Sturtevant, WI 53177. Website: https://www.kwiktrip.com/locator/store?id=1041.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-sturtevant.json",
+   "address": {
+    "streetAddress": "10500 Durand Avenue",
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "postalCode": "53177",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "zip": "53177",
+   "geo": {
+    "lat": 42.6987155,
+    "lon": -87.9156105
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=1041",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1162657625",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "magnolia-springs-veterinary-center-sturtevant",
+   "name": "Magnolia Springs Veterinary Center",
+   "summary": "Magnolia Springs Veterinary Center is a veterinarian in Sturtevant, WI at 9301 Washington Avenue, Sturtevant, WI 53406. Phone: +12627703106.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magnolia-springs-veterinary-center-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magnolia-springs-veterinary-center-sturtevant.json",
+   "address": {
+    "streetAddress": "9301 Washington Avenue",
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7187039,
+    "lon": -87.9002246
+   },
+   "phone": "+12627703106",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10570693209",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mayer-repair-sturtevant",
+   "name": "Mayer Repair",
+   "summary": "Mayer Repair is an auto repair shop in Sturtevant, WI at 14000 Leetsbir Road, Sturtevant, WI 53177. Website: https://mayerrepair.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mayer-repair-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mayer-repair-sturtevant.json",
+   "address": {
+    "streetAddress": "14000 Leetsbir Road",
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "postalCode": "53177",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "zip": "53177",
+   "geo": {
+    "lat": 42.707746,
+    "lon": -87.9576061
+   },
+   "website": "https://mayerrepair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/514309371",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-outlet-store-sturtevant",
+   "name": "Goodwill Outlet Store",
+   "summary": "Goodwill Outlet Store is a thrift store in Sturtevant, WI at 1630 Enterprise Drive, Sturtevant, WI 53177.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-outlet-store-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-outlet-store-sturtevant.json",
+   "address": {
+    "streetAddress": "1630 Enterprise Drive",
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "postalCode": "53177",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "zip": "53177",
+   "geo": {
+    "lat": 42.7143167,
+    "lon": -87.9072012
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/702534575",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ta-truck-service-sturtevant",
+   "name": "TA Truck Service",
+   "summary": "TA Truck Service is an auto repair shop in Sturtevant, WI at 923 South Sylvania Avenue, Sturtevant, WI 53177.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ta-truck-service-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ta-truck-service-sturtevant.json",
+   "address": {
+    "streetAddress": "923 South Sylvania Avenue",
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "postalCode": "53177",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "zip": "53177",
+   "geo": {
+    "lat": 42.7228534,
+    "lon": -87.9559293
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/220282565",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "all-one-storage-sturtevant",
+   "name": "All One Storage",
+   "summary": "All One Storage is a self-storage facility in Sturtevant, WI at 1630 Wisconsin Street, Sturtevant, WI.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-one-storage-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-one-storage-sturtevant.json",
+   "address": {
+    "streetAddress": "1630 Wisconsin Street",
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7174395,
+    "lon": -87.9053191
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/375874714",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "omni-orthopedeic-physical-therapy-sturtevant",
+   "name": "Omni Orthopedeic Physical Therapy",
+   "summary": "Omni Orthopedeic Physical Therapy is a physical therapy clinic in Sturtevant, WI at 1611 Renaissance Boulevard, Sturtevant, WI.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/omni-orthopedeic-physical-therapy-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/omni-orthopedeic-physical-therapy-sturtevant.json",
+   "address": {
+    "streetAddress": "1611 Renaissance Boulevard",
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7150851,
+    "lon": -87.9104453
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13571602844",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-sturtevant",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Sturtevant, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-sturtevant.json",
+   "address": {
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7193918,
+    "lon": -87.9120773
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9225578316",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dental-associates-sturtevant-sturtevant",
+   "name": "Dental Associates Sturtevant",
+   "summary": "Dental Associates Sturtevant is a dentist in Sturtevant, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-associates-sturtevant-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-associates-sturtevant-sturtevant.json",
+   "address": {
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7188304,
+    "lon": -87.9101292
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/372403662",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "first-weber-sturtevant",
+   "name": "First Weber",
+   "summary": "First Weber is a real estate agency in Sturtevant, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-weber-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-weber-sturtevant.json",
+   "address": {
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7194035,
+    "lon": -87.9124153
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9225666019",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fountain-hall-sturtevant",
+   "name": "Fountain Hall",
+   "summary": "Fountain Hall is a dance studio in Sturtevant, WI.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fountain-hall-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fountain-hall-sturtevant.json",
+   "address": {
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.696902,
+    "lon": -87.8887089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/675251740",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gerber-collision-and-glass-sturtevant",
+   "name": "Gerber Collision & Glass",
+   "summary": "Gerber Collision & Glass is an auto repair shop in Sturtevant, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-sturtevant.json",
+   "address": {
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7185571,
+    "lon": -87.9010347
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604369455",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kelly-services-sturtevant",
+   "name": "Kelly Services",
+   "summary": "Kelly Services is a business consultant in Sturtevant, WI.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kelly-services-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kelly-services-sturtevant.json",
+   "address": {
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7193833,
+    "lon": -87.9117402
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9225666018",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "urban-trends-sturtevant",
+   "name": "Urban Trends",
+   "summary": "Urban Trends is a hair salon in Sturtevant, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/urban-trends-sturtevant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/urban-trends-sturtevant.json",
+   "address": {
+    "addressLocality": "Sturtevant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sturtevant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7193944,
+    "lon": -87.9121579
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9225666020",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

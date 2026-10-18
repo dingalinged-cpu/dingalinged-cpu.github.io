@@ -15,7 +15,7 @@ Breadsmith is a bakery in Palos Heights, IL at 7152 West 127th Street, Palos Hei
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/breadsmith-palos-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/breadsmith-palos-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9055162285 (license ODbL-1.0); source data as of 2026-06-01

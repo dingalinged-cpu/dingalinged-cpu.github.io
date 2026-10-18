@@ -15,7 +15,7 @@ Great Clips is a hair salon in Saint Anthony, MN at 3916 Silver Lake Road Northe
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-saint-anthony/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-saint-anthony.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12947681394 (license ODbL-1.0); source data as of 2026-06-01

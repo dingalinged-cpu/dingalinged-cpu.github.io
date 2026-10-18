@@ -15,7 +15,7 @@ Fleckenstein's Bakery is a bakery in Mokena, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fleckensteins-bakery-mokena/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fleckensteins-bakery-mokena.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/436891908 (license ODbL-1.0); source data as of 2026-06-01

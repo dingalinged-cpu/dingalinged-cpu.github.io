@@ -15,7 +15,7 @@ Shell is a car wash in Homer Glen, IL at 15861 South Bell Road, Homer Glen, IL 6
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shell-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shell-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/485427080 (license ODbL-1.0); source data as of 2026-07-28

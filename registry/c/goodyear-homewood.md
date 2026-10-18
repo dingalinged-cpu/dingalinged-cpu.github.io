@@ -15,7 +15,7 @@ Goodyear is an auto repair shop in Homewood, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goodyear-homewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodyear-homewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7716150295 (license ODbL-1.0); source data as of 2026-06-01

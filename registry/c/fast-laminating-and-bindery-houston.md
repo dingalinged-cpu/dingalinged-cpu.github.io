@@ -1,0 +1,23 @@
+Fast Laminating & Bindery is a printing service in Houston, TX at 5999 West 34th Street #103, Houston, TX.
+
+# Fast Laminating & Bindery
+
+- Category: printing services
+- Services: printing services
+- Address: 5999 West 34th Street #103, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.8188191, -95.477105
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/fast-laminating-and-bindery-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fast-laminating-and-bindery-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8945448561 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

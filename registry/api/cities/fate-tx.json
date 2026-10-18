@@ -1,0 +1,850 @@
+{
+ "place": "Fate, TX",
+ "slug": "fate-tx",
+ "count": 24,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-fate-tx.json"
+  },
+  {
+   "keyword": "boutique fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/boutique-fate-tx.json"
+  },
+  {
+   "keyword": "brake repair fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/brake-repair-fate-tx.json"
+  },
+  {
+   "keyword": "car wash fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-fate-tx.json"
+  },
+  {
+   "keyword": "chiropractor fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-fate-tx.json"
+  },
+  {
+   "keyword": "dry cleaners fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-fate-tx.json"
+  },
+  {
+   "keyword": "electrician fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/electrician-fate-tx.json"
+  },
+  {
+   "keyword": "hair salon fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-fate-tx.json"
+  },
+  {
+   "keyword": "haircut fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-fate-tx.json"
+  },
+  {
+   "keyword": "heating and air fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-fate-tx.json"
+  },
+  {
+   "keyword": "hvac repair fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-fate-tx.json"
+  },
+  {
+   "keyword": "insurance agency fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-fate-tx.json"
+  },
+  {
+   "keyword": "insurance agent fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-fate-tx.json"
+  },
+  {
+   "keyword": "insurance agents fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-fate-tx.json"
+  },
+  {
+   "keyword": "liquor store fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-fate-tx.json"
+  },
+  {
+   "keyword": "massage fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-fate-tx.json"
+  },
+  {
+   "keyword": "mechanic fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-fate-tx.json"
+  },
+  {
+   "keyword": "oil change fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-fate-tx.json"
+  },
+  {
+   "keyword": "pet store fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-fate-tx.json"
+  },
+  {
+   "keyword": "preschool fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-fate-tx.json"
+  },
+  {
+   "keyword": "property management companies fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-companies-fate-tx.json"
+  },
+  {
+   "keyword": "property management company fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-company-fate-tx.json"
+  },
+  {
+   "keyword": "storage units fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-fate-tx.json"
+  },
+  {
+   "keyword": "used cars for sale fate tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-fate-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "fate-family-chiropractic-fate",
+   "name": "Fate Family Chiropractic",
+   "summary": "Fate Family Chiropractic is a chiropractor in Fate, TX at 105 Fate Main Place, Fate, TX 75087. Phone: +19724310240. Website: https://www.fatefamilychiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fate-family-chiropractic-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fate-family-chiropractic-fate.json",
+   "address": {
+    "streetAddress": "105 Fate Main Place",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.9417304,
+    "lon": -96.381226
+   },
+   "phone": "+19724310240",
+   "website": "https://www.fatefamilychiropractic.com/",
+   "opening_hours": "Mo,We,Th 09:00-13:00,15:00-18:00; Tu 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1524935931",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-fate",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Fate, TX at 4970 East Interstate 30 #110, Fate, TX 75189. Phone: +14693385376. Website: https://salons.greatclips.com/us/tx/fate/4970-e-i-30.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-fate.json",
+   "address": {
+    "streetAddress": "4970 East Interstate 30 #110",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75189",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75189",
+   "geo": {
+    "lat": 32.9304041,
+    "lon": -96.3821821
+   },
+   "phone": "+14693385376",
+   "website": "https://salons.greatclips.com/us/tx/fate/4970-e-i-30",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11376079958",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-supplies-plus-fate",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Fate, TX at 5000 East Interstate 30 #140, Fate, TX 75189. Phone: +14693385280. Website: https://www.petsuppliesplus.com/store/tx/fate/4222-fate/4222.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-fate.json",
+   "address": {
+    "streetAddress": "5000 East Interstate 30 #140",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75189",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75189",
+   "geo": {
+    "lat": 32.930093,
+    "lon": -96.3814691
+   },
+   "phone": "+14693385280",
+   "website": "https://www.petsuppliesplus.com/store/tx/fate/4222-fate/4222",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11376093008",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rockwall-electric-inc-fate",
+   "name": "Rockwall Electric Inc",
+   "summary": "Rockwall Electric Inc is an electrician in Fate, TX at 101 Fate Main Place, Fate, TX 75087. Phone: +19727715390. Website: https://www.rockwallelectric.com/.",
+   "categories": [
+    "electrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rockwall-electric-inc-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rockwall-electric-inc-fate.json",
+   "address": {
+    "streetAddress": "101 Fate Main Place",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.9416873,
+    "lon": -96.3812921
+   },
+   "phone": "+19727715390",
+   "website": "https://www.rockwallelectric.com/",
+   "opening_hours": "Mo-Fr 08:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5762889365",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "children-s-lighthouse-fate",
+   "name": "Children’s Lighthouse",
+   "summary": "Children’s Lighthouse is a preschool in Fate, TX at 1774 South Farm to Market 551, Fate, TX 75189. Phone: +14694377796. Website: https://childrenslighthouse.com/fate.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/children-s-lighthouse-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/children-s-lighthouse-fate.json",
+   "address": {
+    "streetAddress": "1774 South Farm to Market 551",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75189",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75189",
+   "geo": {
+    "lat": 32.9264596,
+    "lon": -96.3727723
+   },
+   "phone": "+14694377796",
+   "website": "https://childrenslighthouse.com/fate",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1504242367",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "j-and-m-used-cars-fate",
+   "name": "J&M Used Cars",
+   "summary": "J&M Used Cars is an used car dealer in Fate, TX at 6658 West State Highway 66, Fate, TX 75087. Phone: +19727725220. Website: https://www.jmusedcar.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-and-m-used-cars-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-and-m-used-cars-fate.json",
+   "address": {
+    "streetAddress": "6658 West State Highway 66",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.960802,
+    "lon": -96.379363
+   },
+   "phone": "+19727725220",
+   "website": "https://www.jmusedcar.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/708641301",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "66-automotive-repair-fate",
+   "name": "66 Automotive Repair",
+   "summary": "66 Automotive Repair is an auto repair shop in Fate, TX at 6553 West State Highway 66, Fate, TX 75189. Website: https://66automotive.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/66-automotive-repair-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/66-automotive-repair-fate.json",
+   "address": {
+    "streetAddress": "6553 West State Highway 66",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75189",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75189",
+   "geo": {
+    "lat": 32.9594355,
+    "lon": -96.377865
+   },
+   "website": "https://66automotive.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/708641410",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "amy-foster-hair-salon-fate",
+   "name": "Amy Foster Hair Salon",
+   "summary": "Amy Foster Hair Salon is a hair salon in Fate, TX at 102 Fate Main Place, Fate, TX 75087. Phone: +19727222310.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/amy-foster-hair-salon-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/amy-foster-hair-salon-fate.json",
+   "address": {
+    "streetAddress": "102 Fate Main Place",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.9413364,
+    "lon": -96.3813229
+   },
+   "phone": "+19727222310",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1524878330",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "choice-heating-and-air-conditioning-fate",
+   "name": "Choice Heating & Air Conditioning",
+   "summary": "Choice Heating & Air Conditioning is a HVAC contractor in Fate, TX at 101 C.B. Davidson Avenue, Fate, TX 75087. Website: https://choiceheatandair.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/choice-heating-and-air-conditioning-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/choice-heating-and-air-conditioning-fate.json",
+   "address": {
+    "streetAddress": "101 C.B. Davidson Avenue",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.9409425,
+    "lon": -96.3829865
+   },
+   "website": "https://choiceheatandair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/708638360",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "homeboys-liquor-rockwall",
+   "name": "Homeboys Liquor",
+   "summary": "Homeboys Liquor is a liquor store in Rockwall, TX at 2975 State Highway 66 #D, Rockwall, TX 75087. Phone: +14693771655.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/homeboys-liquor-rockwall/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/homeboys-liquor-rockwall.json",
+   "address": {
+    "streetAddress": "2975 State Highway 66 #D",
+    "addressLocality": "Rockwall",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Rockwall",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.9358415,
+    "lon": -96.4170018
+   },
+   "phone": "+14693771655",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13305218320",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "houston-tullos-fate",
+   "name": "Houston Tullos",
+   "summary": "Houston Tullos is an insurance agent in Fate, TX at 208 Fate Main Place, Fate, TX 75087. Website: https://houstontullos.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/houston-tullos-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/houston-tullos-fate.json",
+   "address": {
+    "streetAddress": "208 Fate Main Place",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.9412775,
+    "lon": -96.379284
+   },
+   "website": "https://houstontullos.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/708640537",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-rockwall-fate",
+   "name": "Massage Rockwall",
+   "summary": "Massage Rockwall is a massage studio in Fate, TX at 1170 North King Road, Fate, TX 75189. Phone: +12142234327.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-rockwall-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-rockwall-fate.json",
+   "address": {
+    "streetAddress": "1170 North King Road",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75189",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75189",
+   "geo": {
+    "lat": 32.9808458,
+    "lon": -96.3878542
+   },
+   "phone": "+12142234327",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1524243031",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "payne-and-sons-collision-fate",
+   "name": "Payne & Sons Collision",
+   "summary": "Payne & Sons Collision is an auto repair shop in Fate, TX at 120 Prince Lane, Fate, TX 75087. Website: https://payneandsonsbodyshop.com/home/rockwall/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/payne-and-sons-collision-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/payne-and-sons-collision-fate.json",
+   "address": {
+    "streetAddress": "120 Prince Lane",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.9602037,
+    "lon": -96.3790949
+   },
+   "website": "https://payneandsonsbodyshop.com/home/rockwall/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/708641356",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stags-carwash-rockwall",
+   "name": "Stags Carwash",
+   "summary": "Stags Carwash is a car wash in Rockwall, TX at 5325 East Interstate 30, Rockwall, TX 75087. Website: https://stagscarwash.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stags-carwash-rockwall/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stags-carwash-rockwall.json",
+   "address": {
+    "streetAddress": "5325 East Interstate 30",
+    "addressLocality": "Rockwall",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Rockwall",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.9350924,
+    "lon": -96.3802139
+   },
+   "website": "https://stagscarwash.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1454003335",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fates-beauty-salon-fate",
+   "name": "Fate's Beauty Salon",
+   "summary": "Fate's Beauty Salon is a hair salon in Fate, TX at 101 West Fate Main Place #E, Fate, TX 75087.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fates-beauty-salon-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fates-beauty-salon-fate.json",
+   "address": {
+    "streetAddress": "101 West Fate Main Place #E",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.941863,
+    "lon": -96.3817835
+   },
+   "opening_hours": "Tu-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13898750411",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "alliance-automotive-sales-rockwall",
+   "name": "Alliance Automotive Sales",
+   "summary": "Alliance Automotive Sales is an used car dealer in Rockwall, TX at 2423 East Interstate 30, Rockwall, TX 75087.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alliance-automotive-sales-rockwall/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alliance-automotive-sales-rockwall.json",
+   "address": {
+    "streetAddress": "2423 East Interstate 30",
+    "addressLocality": "Rockwall",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Rockwall",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.9230815,
+    "lon": -96.4074395
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/708640509",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "branded-customs-rockwall",
+   "name": "Branded Customs",
+   "summary": "Branded Customs is an auto repair shop in Rockwall, TX at 2425 East Interstate 30, Rockwall, TX 75087.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/branded-customs-rockwall/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/branded-customs-rockwall.json",
+   "address": {
+    "streetAddress": "2425 East Interstate 30",
+    "addressLocality": "Rockwall",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Rockwall",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.923228,
+    "lon": -96.407074
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/708639755",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "canopy-homes-at-woodcreek-fate",
+   "name": "Canopy Homes at Woodcreek",
+   "summary": "Canopy Homes at Woodcreek is a property management company in Fate, TX at 550 North William E Crawford Avenue, Fate, TX 75087.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canopy-homes-at-woodcreek-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canopy-homes-at-woodcreek-fate.json",
+   "address": {
+    "streetAddress": "550 North William E Crawford Avenue",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.9455115,
+    "lon": -96.3810336
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1525300254",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "compass-self-storage-rockwall",
+   "name": "Compass Self Storage",
+   "summary": "Compass Self Storage is a self-storage facility in Rockwall, TX at 4100 East Interstate 30, Rockwall, TX 75032.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/compass-self-storage-rockwall/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/compass-self-storage-rockwall.json",
+   "address": {
+    "streetAddress": "4100 East Interstate 30",
+    "addressLocality": "Rockwall",
+    "addressRegion": "TX",
+    "postalCode": "75032",
+    "addressCountry": "US"
+   },
+   "city": "Rockwall",
+   "state": "TX",
+   "zip": "75032",
+   "geo": {
+    "lat": 32.9215378,
+    "lon": -96.4043817
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1271069532",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cowboy-cleaners-fate",
+   "name": "Cowboy Cleaners",
+   "summary": "Cowboy Cleaners is a dry cleaner in Fate, TX at 101 West Fate Main Place #A, Fate, TX 75087.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cowboy-cleaners-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cowboy-cleaners-fate.json",
+   "address": {
+    "streetAddress": "101 West Fate Main Place #A",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.9416909,
+    "lon": -96.3819699
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13898750413",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hustle-and-glow-fate",
+   "name": "Hustle & Glow",
+   "summary": "Hustle & Glow is a hair salon in Fate, TX at 111 Fate Main Place, Fate, TX 75087.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hustle-and-glow-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hustle-and-glow-fate.json",
+   "address": {
+    "streetAddress": "111 Fate Main Place",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75087",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75087",
+   "geo": {
+    "lat": 32.9417298,
+    "lon": -96.3810696
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1524935929",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "scrubbies-fate",
+   "name": "Scrubbies",
+   "summary": "Scrubbies is a car wash in Fate, TX at 4790 East Interstate 30, Fate, TX 75189.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scrubbies-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scrubbies-fate.json",
+   "address": {
+    "streetAddress": "4790 East Interstate 30",
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "postalCode": "75189",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "zip": "75189",
+   "geo": {
+    "lat": 32.9294301,
+    "lon": -96.3849024
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1465409167",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "magnolia-soap-and-bath-co-fate",
+   "name": "Magnolia Soap & Bath Co",
+   "summary": "Magnolia Soap & Bath Co is a boutique in Fate, TX.",
+   "categories": [
+    "boutique"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magnolia-soap-and-bath-co-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magnolia-soap-and-bath-co-fate.json",
+   "address": {
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "geo": {
+    "lat": 32.929946,
+    "lon": -96.3817691
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12983237101",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specs-fate",
+   "name": "Spec's",
+   "summary": "Spec's is a liquor store in Fate, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specs-fate/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specs-fate.json",
+   "address": {
+    "addressLocality": "Fate",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fate",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9355615,
+    "lon": -96.3811818
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1266574574",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+Palm Beach Tan is a tanning salon in Sugar Land, TX at 3159 State Highway 6 South #A, Sugar Land, TX 77478. Phone: +12819982663. Website: https://palmbeachtan.com/locations/TX/Sugar-Land-Highway-6-South.
+
+# Palm Beach Tan
+
+- Category: tanning salon
+- Services: tanning salon
+- Address: 3159 State Highway 6 South #A, Sugar Land, TX 77478
+- City: Sugar Land
+- State: TX
+- ZIP: 77478
+- Coordinates: 29.5932514, -95.6062371
+- Phone: +12819982663
+- Website: https://palmbeachtan.com/locations/TX/Sugar-Land-Highway-6-South
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-22:00; Sa 09:00-19:00; Su 10:00-19:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-sugar-land/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-sugar-land.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12735401977 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

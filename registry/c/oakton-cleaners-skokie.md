@@ -15,7 +15,7 @@ Oakton Cleaners is a dry cleaner in Skokie, IL at 4100 Oakton Street, Skokie, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oakton-cleaners-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oakton-cleaners-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1030817836 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Versatile Refrigeration & Air LLC is a HVAC contractor in Mesquite, TX at E Hwy 80, Mesquite, TX 75149. Phone: +14698204275. Website: https://www.versatilerefrigerationllc.com/.
+
+# Versatile Refrigeration & Air LLC
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: E Hwy 80, Mesquite, TX 75149
+- City: Mesquite
+- State: TX
+- ZIP: 75149
+- Coordinates: 32.7916104, -96.649752
+- Phone: +14698204275
+- Website: https://www.versatilerefrigerationllc.com/
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/versatile-refrigeration-and-air-llc-mesquite/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/versatile-refrigeration-and-air-llc-mesquite.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9807883134 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

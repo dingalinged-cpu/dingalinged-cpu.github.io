@@ -15,7 +15,7 @@ Uptown Veterinarian is a veterinarian in Minneapolis, MN at 3131 Hennepin Avenue
 - Opening hours (OSM syntax): Mo-Fr 07:45-18:00; Sa 09:00-13:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/uptown-veterinarian-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/uptown-veterinarian-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/88464299 (license ODbL-1.0); source data as of 2026-07-24

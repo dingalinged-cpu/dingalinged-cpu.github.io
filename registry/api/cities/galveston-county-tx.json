@@ -1,0 +1,192 @@
+{
+ "place": "Galveston County, TX",
+ "slug": "galveston-county-tx",
+ "count": 6,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "hair salon galveston county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-galveston-county-tx.json"
+  },
+  {
+   "keyword": "haircut galveston county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-galveston-county-tx.json"
+  },
+  {
+   "keyword": "liquor store galveston county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-galveston-county-tx.json"
+  },
+  {
+   "keyword": "thrift store galveston county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-galveston-county-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "angels-barber-shop-galveston-county",
+   "name": "Angel's Barber Shop",
+   "summary": "Angel's Barber Shop is a hair salon in Galveston County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/angels-barber-shop-galveston-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/angels-barber-shop-galveston-county.json",
+   "address": {
+    "addressLocality": "Galveston County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Galveston County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5066614,
+    "lon": -94.9828802
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10312401491",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cheers-liquor-galveston-county",
+   "name": "Cheer's Liquor",
+   "summary": "Cheer's Liquor is a liquor store in Galveston County, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cheers-liquor-galveston-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cheers-liquor-galveston-county.json",
+   "address": {
+    "addressLocality": "Galveston County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Galveston County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5004551,
+    "lon": -94.9920293
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1127969445",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mary-rose-haircut-galveston-county",
+   "name": "Mary Rose Haircut",
+   "summary": "Mary Rose Haircut is a hair salon in Galveston County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mary-rose-haircut-galveston-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mary-rose-haircut-galveston-county.json",
+   "address": {
+    "addressLocality": "Galveston County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Galveston County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5068972,
+    "lon": -94.9836848
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10312401497",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "san-leon-liquor-galveston-county",
+   "name": "San Leon LIquor",
+   "summary": "San Leon LIquor is a liquor store in Galveston County, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/san-leon-liquor-galveston-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/san-leon-liquor-galveston-county.json",
+   "address": {
+    "addressLocality": "Galveston County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Galveston County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.4959956,
+    "lon": -94.9226417
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521079170",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-galveston-county",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Galveston County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-galveston-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-galveston-county.json",
+   "address": {
+    "addressLocality": "Galveston County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Galveston County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5373934,
+    "lon": -95.0205935
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6328260821",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "yayas-corner-galveston-county",
+   "name": "Yaya's Corner",
+   "summary": "Yaya's Corner is a thrift store in Galveston County, TX.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yayas-corner-galveston-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yayas-corner-galveston-county.json",
+   "address": {
+    "addressLocality": "Galveston County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Galveston County",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5064957,
+    "lon": -94.9833469
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10312401496",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

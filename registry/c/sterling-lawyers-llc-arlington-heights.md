@@ -15,7 +15,7 @@ Sterling Lawyers, LLC is a lawyer in Arlington Heights, IL at 1500 West Shure Dr
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sterling-lawyers-llc-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11034111819 (license ODbL-1.0); source data as of 2026-07-28

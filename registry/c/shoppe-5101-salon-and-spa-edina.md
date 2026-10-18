@@ -15,7 +15,7 @@ Shoppe 5101 Salon & Spa is a hair salon in Edina, MN.
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu,We 08:00-20:00; Th 08:00-19:00; Fr 08:00-18:00; Sa 08:30-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shoppe-5101-salon-and-spa-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shoppe-5101-salon-and-spa-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2045419173 (license ODbL-1.0); source data as of 2026-06-01

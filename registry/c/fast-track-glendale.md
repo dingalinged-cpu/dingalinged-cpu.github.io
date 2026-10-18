@@ -1,0 +1,23 @@
+Fast Track is an auto repair shop in Glendale, WI at 5450 North Port Washington Road, Glendale, WI 53217.
+
+# Fast Track
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 5450 North Port Washington Road, Glendale, WI 53217
+- City: Glendale
+- State: WI
+- ZIP: 53217
+- Coordinates: 43.1160172, -87.9161979
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/fast-track-glendale/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fast-track-glendale.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/660023841 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

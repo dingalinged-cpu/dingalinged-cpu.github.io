@@ -15,7 +15,7 @@ Chicago Gaelic Park is an event venue in Oak Forest, IL at 6119 147th Street, Oa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chicago-gaelic-park-oak-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicago-gaelic-park-oak-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/281979184 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Allstate is an insurance agent in Countryside, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-countryside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-countryside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10172624456 (license ODbL-1.0); source data as of 2026-07-28

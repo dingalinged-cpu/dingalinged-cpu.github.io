@@ -15,7 +15,7 @@ Dead Serious Tattoo is a tattoo shop in Willow Springs, IL at 8695 Archer Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dead-serious-tattoo-willow-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dead-serious-tattoo-willow-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12052414585 (license ODbL-1.0); source data as of 2026-06-01

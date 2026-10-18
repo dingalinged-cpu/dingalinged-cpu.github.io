@@ -15,7 +15,7 @@ Fitness 19 is a gym in Northbrook, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fitness-19-northbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fitness-19-northbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1008219254 (license ODbL-1.0); source data as of 2026-06-01

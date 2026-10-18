@@ -15,7 +15,7 @@ Driven Car Wash is a car wash in Des Plaines, IL at 513 South Des Plaines River 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/driven-car-wash-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/driven-car-wash-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1336916227 (license ODbL-1.0); source data as of 2026-07-28

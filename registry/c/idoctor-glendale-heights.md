@@ -15,7 +15,7 @@ iDoctor is an eye care practice in Glendale Heights, IL at 132 East Army Trail R
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/idoctor-glendale-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/idoctor-glendale-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12405384065 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+Digital BTI is a marketing agency in Irving, TX at 6565 North MacArthur Boulevard #225, Irving, TX 75039. Phone: +19722841101. Website: https://digitalbti.com/.
+
+# Digital BTI
+
+- Category: marketing agency
+- Services: marketing agency
+- Address: 6565 North MacArthur Boulevard #225, Irving, TX 75039
+- City: Irving
+- State: TX
+- ZIP: 75039
+- Coordinates: 32.8982186, -96.9599508
+- Phone: +19722841101
+- Website: https://digitalbti.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/digital-bti-irving/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/digital-bti-irving.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13230327735 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

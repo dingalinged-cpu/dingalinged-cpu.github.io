@@ -15,7 +15,7 @@ Rocket Plumbing is a plumber in Lisle, IL at 5111 Academy Drive #100, Lisle, IL 
 - Opening hours (OSM syntax): Mon - Sun 7:00 AM - 9:00 PM
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rocket-plumbing-lisle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rocket-plumbing-lisle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13637989902 (license ODbL-1.0); source data as of 2026-06-01

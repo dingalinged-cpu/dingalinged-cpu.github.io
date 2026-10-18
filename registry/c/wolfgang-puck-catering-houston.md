@@ -1,0 +1,23 @@
+Wolfgang Puck Catering is a caterer in Houston, TX at 1201 Oliver Street #104, Houston, TX 77007.
+
+# Wolfgang Puck Catering
+
+- Category: caterers
+- Services: caterers
+- Address: 1201 Oliver Street #104, Houston, TX 77007
+- City: Houston
+- State: TX
+- ZIP: 77007
+- Coordinates: 29.7708124, -95.3865397
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/wolfgang-puck-catering-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wolfgang-puck-catering-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13016958641 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

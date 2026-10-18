@@ -1,0 +1,23 @@
+Stonegate Apartments is a property management company in Alvin, TX at 1277 Dickinson Road, Alvin, TX 77511.
+
+# Stonegate Apartments
+
+- Category: property management company
+- Services: property management company, property management companies
+- Address: 1277 Dickinson Road, Alvin, TX 77511
+- City: Alvin
+- State: TX
+- ZIP: 77511
+- Coordinates: 29.4304776, -95.2332359
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/stonegate-apartments-alvin/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/stonegate-apartments-alvin.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1113036417 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Great Clips is a hair salon in Wood Dale, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-wood-dale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-wood-dale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5192231385 (license ODbL-1.0); source data as of 2026-06-01

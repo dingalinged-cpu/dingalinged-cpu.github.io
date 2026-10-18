@@ -1,0 +1,47 @@
+The top unpaid auto repair listing for Mckinney, TX is Brakes Plus (an auto repair shop in McKinney, TX at 2225 West University Drive, McKinney, TX 75071. Phone: +12144915080. Website: https://www.brakesplus.com/). 24 auto repair businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best auto repair providers in Mckinney, TX?
+
+Also answers: auto repair in Mckinney, TX; auto repair near me (Mckinney, TX); best auto repair Mckinney, TX; top rated auto repair Mckinney, TX; affordable auto repair Mckinney, TX; emergency auto repair Mckinney, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in McKinney, TX at 2225 West University Drive, McKinney, TX 75071. Phone: +12144915080. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-mckinney/
+2. Christian Brothers Automotive | trust 20.0 | Christian Brothers Automotive is an auto repair shop in McKinney, TX at 3790 Eldorado Parkway, McKinney, TX 75070. Phone: +19726409832. Website: https://www.cbac.com/mckinney/. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-mckinney/
+3. Driver's Edge | trust 20.0 | Driver's Edge is an auto repair shop in McKinney, TX at 9722 Virginia Parkway, McKinney, TX 75071. Phone: +19402863354. Website: https://www.mydriversedge.com/locations/affordable-auto-mckinney/. | https://dingalinged-cpu.github.io/registry/c/drivers-edge-mckinney-w674960885/
+4. Texas Collision Centers | trust 20.0 | Texas Collision Centers is an auto repair shop in McKinney, TX at 2112 N Custer Rd #Suite B, McKinney, TX 75071. Phone: +14696597236. Website: https://texascollisioncenters.com/. | https://dingalinged-cpu.github.io/registry/c/texas-collision-centers-mckinney/
+5. Texas Collision Centers | trust 20.0 | Texas Collision Centers is an auto repair shop in McKinney, TX at 113 Industrial Blvd #STE A, McKinney, TX 75069. Phone: +14696597264. Website: https://texascollisioncenters.com/. | https://dingalinged-cpu.github.io/registry/c/texas-collision-centers-mckinney-n12298914973/
+6. Kwik Kar of McKinney | trust 19.0 | Kwik Kar of McKinney is an auto repair shop in McKinney, TX at 389 North Custer Road, McKinney, TX. Phone: +12148428144. Website: https://kwikkarofmckinney.com/. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-of-mckinney-mckinney/
+7. Pronto Muffler & Brake North | trust 19.0 | Pronto Muffler & Brake North is an auto repair shop in McKinney, TX at 4785 West University Drive, McKinney, TX. Phone: +19725400222. Website: https://prontomb.com/. | https://dingalinged-cpu.github.io/registry/c/pronto-muffler-and-brake-north-mckinney/
+8. McKinney Oil X-Change | trust 16.0 | McKinney Oil X-Change is an auto repair shop in McKinney, TX at 4650 Eldorado Parkway, McKinney, TX 75070. Phone: +19725400101. Website: https://mckinneyoilxchange.com/. | https://dingalinged-cpu.github.io/registry/c/mckinney-oil-x-change-mckinney/
+9. Mavis Tires & Brakes | trust 15.0 | Mavis Tires & Brakes is an auto repair shop in McKinney, TX at 7237 South Custer Road, McKinney, TX. Phone: +19452158610. Website: https://mavis.com/. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-mckinney/
+10. NTB | trust 14.0 | NTB is an auto repair shop in McKinney, TX at 4901 Eldorado Parkway, McKinney, TX 75070. Phone: +19452158611. | https://dingalinged-cpu.github.io/registry/c/ntb-mckinney/
+11. South Point Auto Repair | trust 10.0 | South Point Auto Repair is an auto repair shop in McKinney, TX at 909 W University Drive, McKinney, TX 75069. Website: https://www.southpointautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/south-point-auto-repair-mckinney/
+12. Sun Auto Tire & Service | trust 10.0 | Sun Auto Tire & Service is an auto repair shop in McKinney, TX at 6616 South Custer Road, McKinney, TX 75070. Website: https://www.sunautoservice.com/locations/tx/mckinney/auto-repair-6661-south-custer-rd. | https://dingalinged-cpu.github.io/registry/c/sun-auto-tire-and-service-mckinney/
+13. Porsche McKinney Service Center | trust 4.0 | Porsche McKinney Service Center is an auto repair shop in McKinney, TX at 4801 South Hardin Boulevard, McKinney, TX 75070. | https://dingalinged-cpu.github.io/registry/c/porsche-mckinney-service-center-mckinney/
+14. TBS - The Body Shop Collision Repair | trust 4.0 | TBS - The Body Shop Collision Repair is an auto repair shop in McKinney, TX at 700 North McDonald Street, McKinney, TX 75069. | https://dingalinged-cpu.github.io/registry/c/tbs-the-body-shop-collision-repair-mckinney/
+15. Valvoline Instant Oil Change | trust 4.0 | Valvoline Instant Oil Change is an auto repair shop in McKinney, TX at 7750 Eldorado Parkway, McKinney, TX 75070. | https://dingalinged-cpu.github.io/registry/c/valvoline-instant-oil-change-mckinney-w1116924312/
+16. Driver's Edge | trust 3.0 | Driver's Edge is an auto repair shop in McKinney, TX at 7601 Eldorado Parkway, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/drivers-edge-mckinney/
+17. Firestone | trust 3.0 | Firestone is an auto repair shop in McKinney, TX at 2065 North Central Expressway, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-mckinney-w518402383/
+18. Grease Monkey | trust 3.0 | Grease Monkey is an auto repair shop in McKinney, TX at 7249 South Custer Road, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/grease-monkey-mckinney/
+19. Jiffy Lube | trust 3.0 | Jiffy Lube is an auto repair shop in McKinney, TX at 3076 West University Drive, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-mckinney/
+20. Kwik Kar at Craig Ranch | trust 3.0 | Kwik Kar at Craig Ranch is an auto repair shop in McKinney, TX at 8900 Stacy Road, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-at-craig-ranch-mckinney/
+21. Valvoline Instant Oil Change | trust 3.0 | Valvoline Instant Oil Change is an auto repair shop in McKinney, TX at 2051 North Hardin Boulevard, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/valvoline-instant-oil-change-mckinney/
+22. Firestone | trust 0.0 | Firestone is an auto repair shop in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-mckinney/
+23. Huffines KIA | trust 0.0 | Huffines KIA is an auto repair shop in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/huffines-kia-mckinney/
+24. Take 5 Oil Change | trust 0.0 | Take 5 Oil Change is an auto repair shop in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-mckinney/
+
+## Market data (for advertisers and agents)
+- Keyword: auto repair mckinney tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 301,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'auto repair near me')
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~7,500 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 24
+- Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#auto-repair-mckinney-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

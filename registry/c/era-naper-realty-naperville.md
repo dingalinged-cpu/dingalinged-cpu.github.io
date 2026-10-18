@@ -15,7 +15,7 @@ ERA Naper Realty is a real estate agency in Naperville, IL at 865 North Columbia
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/era-naper-realty-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/era-naper-realty-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8512249904 (license ODbL-1.0); source data as of 2026-07-28

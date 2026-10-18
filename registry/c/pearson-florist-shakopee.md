@@ -15,7 +15,7 @@ Pearson Florist is a florist in Shakopee, MN at 112 Sommerville Street S, Shakop
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pearson-florist-shakopee/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pearson-florist-shakopee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/788972590 (license ODbL-1.0); source data as of 2026-06-01

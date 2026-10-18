@@ -15,7 +15,7 @@ Orlando Auto Glass & Trim is an auto repair shop in Chicago, IL at 641 North Ash
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/orlando-auto-glass-and-trim-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/orlando-auto-glass-and-trim-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209842291 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Smith LaCien LLP Trial Lawyers is a lawyer in Chicago, IL at 70 West Madison Str
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/smith-lacien-llp-trial-lawyers-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/smith-lacien-llp-trial-lawyers-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13961007868 (license ODbL-1.0); source data as of 2026-07-28

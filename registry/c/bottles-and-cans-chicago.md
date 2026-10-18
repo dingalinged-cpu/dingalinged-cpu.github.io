@@ -15,7 +15,7 @@ Bottles and Cans is a liquor store in Chicago, IL at 4109 North Lincoln Avenue, 
 - Opening hours (OSM syntax): Mo-Sa 11:00-21:00; Su 11:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bottles-and-cans-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bottles-and-cans-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3932221588 (license ODbL-1.0); source data as of 2026-06-01

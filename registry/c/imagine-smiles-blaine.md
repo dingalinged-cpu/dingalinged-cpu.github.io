@@ -15,7 +15,7 @@ Imagine Smiles is a dentist in Blaine, MN at 10729 Town Square Drive Northeast #
 - Opening hours (OSM syntax): Mo-We 07:00-17:00; Th 07:00-16:00; Fr 07:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/imagine-smiles-blaine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/imagine-smiles-blaine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13185418506 (license ODbL-1.0); source data as of 2026-07-24

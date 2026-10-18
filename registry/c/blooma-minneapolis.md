@@ -15,7 +15,7 @@ Blooma is a yoga studio in Minneapolis, MN at 5315 Lyndale Avenue South, Minneap
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/blooma-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/blooma-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13627997056 (license ODbL-1.0); source data as of 2026-07-15

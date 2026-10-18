@@ -15,7 +15,7 @@ Northwinds Counseling Services is a therapy practice in Rogers, MN at 21395 John
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northwinds-counseling-services-rogers/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northwinds-counseling-services-rogers.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7061386959 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,2837 @@
+{
+ "place": "Coppell, TX",
+ "slug": "coppell-tx",
+ "count": 91,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "allergist coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/allergist-coppell-tx.json"
+  },
+  {
+   "keyword": "architect coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/architect-coppell-tx.json"
+  },
+  {
+   "keyword": "attorney coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-coppell-tx.json"
+  },
+  {
+   "keyword": "auto repair coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-coppell-tx.json"
+  },
+  {
+   "keyword": "bakery coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-coppell-tx.json"
+  },
+  {
+   "keyword": "bike shop coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-coppell-tx.json"
+  },
+  {
+   "keyword": "car wash coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-coppell-tx.json"
+  },
+  {
+   "keyword": "chiropractor coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-coppell-tx.json"
+  },
+  {
+   "keyword": "dentist coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-coppell-tx.json"
+  },
+  {
+   "keyword": "dermatologist coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dermatologist-coppell-tx.json"
+  },
+  {
+   "keyword": "dog boarding coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-boarding-coppell-tx.json"
+  },
+  {
+   "keyword": "dog groomer coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-coppell-tx.json"
+  },
+  {
+   "keyword": "event venues coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-coppell-tx.json"
+  },
+  {
+   "keyword": "eye doctor coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-coppell-tx.json"
+  },
+  {
+   "keyword": "facial coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-coppell-tx.json"
+  },
+  {
+   "keyword": "family doctor coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-coppell-tx.json"
+  },
+  {
+   "keyword": "financial advisor coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-coppell-tx.json"
+  },
+  {
+   "keyword": "funeral home coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-coppell-tx.json"
+  },
+  {
+   "keyword": "gym coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-coppell-tx.json"
+  },
+  {
+   "keyword": "hair salon coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-coppell-tx.json"
+  },
+  {
+   "keyword": "haircut coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-coppell-tx.json"
+  },
+  {
+   "keyword": "insurance agency coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-coppell-tx.json"
+  },
+  {
+   "keyword": "insurance agent coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-coppell-tx.json"
+  },
+  {
+   "keyword": "insurance agents coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-coppell-tx.json"
+  },
+  {
+   "keyword": "lawyer coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-coppell-tx.json"
+  },
+  {
+   "keyword": "massage coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-coppell-tx.json"
+  },
+  {
+   "keyword": "mechanic coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-coppell-tx.json"
+  },
+  {
+   "keyword": "nail salon coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-coppell-tx.json"
+  },
+  {
+   "keyword": "pet store coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-coppell-tx.json"
+  },
+  {
+   "keyword": "physical therapy coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-coppell-tx.json"
+  },
+  {
+   "keyword": "podiatrist coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/podiatrist-coppell-tx.json"
+  },
+  {
+   "keyword": "preschool coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-coppell-tx.json"
+  },
+  {
+   "keyword": "primary care physician coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-coppell-tx.json"
+  },
+  {
+   "keyword": "printing services coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-coppell-tx.json"
+  },
+  {
+   "keyword": "real estate agent coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-coppell-tx.json"
+  },
+  {
+   "keyword": "realtor coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-coppell-tx.json"
+  },
+  {
+   "keyword": "spa coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/spa-coppell-tx.json"
+  },
+  {
+   "keyword": "storage units coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-coppell-tx.json"
+  },
+  {
+   "keyword": "tailor coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-coppell-tx.json"
+  },
+  {
+   "keyword": "urgent care coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/urgent-care-coppell-tx.json"
+  },
+  {
+   "keyword": "vet coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-coppell-tx.json"
+  },
+  {
+   "keyword": "waxing coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-coppell-tx.json"
+  },
+  {
+   "keyword": "yoga classes coppell tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-coppell-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "club4-fitness-coppell-coppell",
+   "name": "Club4 Fitness Coppell",
+   "summary": "Club4 Fitness Coppell is a gym in Coppell, TX at 820 South MacArthur Boulevard, Coppell, TX 75019. Phone: +14698442580. Website: https://www.club4fitness.com/location/coppell/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/club4-fitness-coppell-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/club4-fitness-coppell-coppell.json",
+   "address": {
+    "streetAddress": "820 South MacArthur Boulevard",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9513722,
+    "lon": -96.9557606
+   },
+   "phone": "+14698442580",
+   "website": "https://www.club4fitness.com/location/coppell/",
+   "opening_hours": "Mo-Th 05:00-23:00; Fr 05:00-21:00; Sa-Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12688794602",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mz-land-group-coppell",
+   "name": "MZ Land Group",
+   "summary": "MZ Land Group is a real estate agency in Coppell, TX at 106 N Denton Tap Rd #210-226, Coppell, TX 75019. Phone: +18559473440. Website: https://www.mzlandgroupsolution.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mz-land-group-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mz-land-group-coppell.json",
+   "address": {
+    "streetAddress": "106 N Denton Tap Rd #210-226",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9708842,
+    "lon": -96.9917666
+   },
+   "phone": "+18559473440",
+   "website": "https://www.mzlandgroupsolution.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9790287972",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "orangetheory-fitness-coppell",
+   "name": "Orangetheory Fitness",
+   "summary": "Orangetheory Fitness is a gym in Coppell, TX at 240 North Denton Tap Road ##440, Coppell, TX 75019. Phone: +12143009983. Website: https://www.orangetheory.com/en-us/locations/coppell-texas-0138.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-coppell.json",
+   "address": {
+    "streetAddress": "240 North Denton Tap Road ##440",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9742875,
+    "lon": -96.993202
+   },
+   "phone": "+12143009983",
+   "website": "https://www.orangetheory.com/en-us/locations/coppell-texas-0138",
+   "opening_hours": "Mo-Th 05:00-20:00; Fr 05:00-19:00; Sa-Su 07:30-12:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13904506970",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "riverchase-animal-hospital-coppell",
+   "name": "Riverchase Animal Hospital",
+   "summary": "Riverchase Animal Hospital is a veterinarian in Coppell, TX at 1709 East Belt Line Road, Coppell, TX 75019. Phone: +19724627387. Website: https://www.riverchaseanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riverchase-animal-hospital-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riverchase-animal-hospital-coppell.json",
+   "address": {
+    "streetAddress": "1709 East Belt Line Road",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9517802,
+    "lon": -96.9511231
+   },
+   "phone": "+19724627387",
+   "website": "https://www.riverchaseanimalhospital.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/465680136",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tangerine-salon-coppell",
+   "name": "Tangerine Salon",
+   "summary": "Tangerine Salon is a hair salon in Coppell, TX at 723 West Main Street, Coppell, TX 75019. Phone: +19723939200. Website: https://tangerinesalon.net/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tangerine-salon-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tangerine-salon-coppell.json",
+   "address": {
+    "streetAddress": "723 West Main Street",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9532747,
+    "lon": -97.007449
+   },
+   "phone": "+19723939200",
+   "website": "https://tangerinesalon.net/",
+   "opening_hours": "Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9859351918",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tao-tantra-coppell",
+   "name": "Tao Tantra",
+   "summary": "Tao Tantra is a massage studio in Coppell, TX at 160 West Sandy Lake Road #142, Coppell, TX 75019. Phone: +14697390446. Website: https://taotantra.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tao-tantra-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tao-tantra-coppell.json",
+   "address": {
+    "streetAddress": "160 West Sandy Lake Road #142",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9704366,
+    "lon": -96.9967896
+   },
+   "phone": "+14697390446",
+   "website": "https://taotantra.com/",
+   "opening_hours": "Mo-Sa 11:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12546232132",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "all-care-veterinary-hospital-coppell",
+   "name": "All Care Veterinary Hospital",
+   "summary": "All Care Veterinary Hospital is a veterinarian in Coppell, TX at 353 North Denton Tap Road, Coppell, TX. Phone: +19723937750. Website: https://www.allcarevet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-care-veterinary-hospital-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-care-veterinary-hospital-coppell.json",
+   "address": {
+    "streetAddress": "353 North Denton Tap Road",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9776827,
+    "lon": -96.9941788
+   },
+   "phone": "+19723937750",
+   "website": "https://www.allcarevet.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00; Sa 09:00-13:00; PH closed; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11471096878",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "apex-interventional-and-spine-coppell",
+   "name": "Apex Interventional & Spine",
+   "summary": "Apex Interventional & Spine is a chiropractor in Coppell, TX at 149 West State Highway 121 #105, Coppell, TX. Phone: +19728337246. Website: https://www.needpainrelief.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/apex-interventional-and-spine-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/apex-interventional-and-spine-coppell.json",
+   "address": {
+    "streetAddress": "149 West State Highway 121 #105",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9864567,
+    "lon": -96.9958789
+   },
+   "phone": "+19728337246",
+   "website": "https://www.needpainrelief.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13076411208",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cityvet-coppell",
+   "name": "CityVet",
+   "summary": "CityVet is a veterinarian in Coppell, TX at East Sandy Lake Road, Coppell, TX. Phone: +14698305200. Website: https://www.cityvet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cityvet-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cityvet-coppell.json",
+   "address": {
+    "streetAddress": "East Sandy Lake Road",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9699682,
+    "lon": -96.9919095
+   },
+   "phone": "+14698305200",
+   "website": "https://www.cityvet.com/",
+   "opening_hours": "Mo-Fr 07:00-18:30; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13612314502",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "johnnys-performance-training-coppell",
+   "name": "Johnny's Performance Training",
+   "summary": "Johnny's Performance Training is a gym in Coppell, TX at 150 South Denton Tap Road, Coppell, TX. Phone: +12143164952. Website: https://johnnysperformancetraining.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnnys-performance-training-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnnys-performance-training-coppell.json",
+   "address": {
+    "streetAddress": "150 South Denton Tap Road",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9664336,
+    "lon": -96.9927162
+   },
+   "phone": "+12143164952",
+   "website": "https://johnnysperformancetraining.com/",
+   "opening_hours": "Mo-Th 05:00-11:00,15:30-20:00; Fr 05:00-15:00; Sa 07:00-14:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10894599576",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-regional-foot-and-ankle-clinics-coppell",
+   "name": "Texas Regional Foot & Ankle Clinics",
+   "summary": "Texas Regional Foot & Ankle Clinics is a podiatrist in Coppell, TX at 660 North MacArthur Boulevard #100, Coppell, TX. Phone: +14697420406. Website: https://www.texasfootclinic.com/.",
+   "categories": [
+    "podiatrist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-regional-foot-and-ankle-clinics-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-regional-foot-and-ankle-clinics-coppell.json",
+   "address": {
+    "streetAddress": "660 North MacArthur Boulevard #100",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9865647,
+    "lon": -96.9729776
+   },
+   "phone": "+14697420406",
+   "website": "https://www.texasfootclinic.com/",
+   "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-12:00,13:30-17:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13158492983",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "coppell-arts-center-coppell",
+   "name": "Coppell Arts Center",
+   "summary": "Coppell Arts Center is an event venue in Coppell, TX at 505 Travis Street, Coppell, TX 75019. Phone: +19723047047. Website: https://www.coppellartscenter.org/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coppell-arts-center-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coppell-arts-center-coppell.json",
+   "address": {
+    "streetAddress": "505 Travis Street",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9514827,
+    "lon": -97.0071358
+   },
+   "phone": "+19723047047",
+   "website": "https://www.coppellartscenter.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1169707738",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "coppell-dental-coppell",
+   "name": "Coppell Dental",
+   "summary": "Coppell Dental is a dentist in Coppell, TX. Phone: +19723933368. Website: https://www.coppelldds.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coppell-dental-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coppell-dental-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9703764,
+    "lon": -96.9961362
+   },
+   "phone": "+19723933368",
+   "website": "https://www.coppelldds.com/",
+   "opening_hours": "Mo-We 08:00-17:00; Th 07:00-16:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11318443736",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dogtopia-coppell",
+   "name": "Dogtopia",
+   "summary": "Dogtopia is a dog boarding facility in Coppell, TX at 150 South Denton Tap Road, Coppell, TX 75019. Phone: +14699983888. Website: https://www.dogtopia.com/dallas-fortworth-coppell/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dogtopia-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dogtopia-coppell.json",
+   "address": {
+    "streetAddress": "150 South Denton Tap Road",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.966943,
+    "lon": -96.9926491
+   },
+   "phone": "+14699983888",
+   "website": "https://www.dogtopia.com/dallas-fortworth-coppell/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13128304511",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "european-wax-center-coppell",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Coppell, TX. Phone: +19723150044. Website: https://waxcenter.com/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9677145,
+    "lon": -96.9926127
+   },
+   "phone": "+19723150044",
+   "website": "https://waxcenter.com/",
+   "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-18:00; PH closed; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10932238914",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fedex-office-coppell",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Coppell, TX at 240 North Denton Tap Road ##480, Coppell, TX 75019. Phone: +19723043963. Website: https://local.fedex.com/en-us/tx/coppell/office-1340.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-coppell.json",
+   "address": {
+    "streetAddress": "240 North Denton Tap Road ##480",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9742155,
+    "lon": -96.9932056
+   },
+   "phone": "+19723043963",
+   "website": "https://local.fedex.com/en-us/tx/coppell/office-1340",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13904527305",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hathayoga-traditional-school-of-yoga-coppell",
+   "name": "Hathayoga Traditional School of Yoga",
+   "summary": "Hathayoga Traditional School of Yoga is a yoga studio in Coppell, TX at 568 South Coppell Road, Coppell, TX 75019. Phone: +19452780270. Website: https://www.hathavidya.us/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hathayoga-traditional-school-of-yoga-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hathayoga-traditional-school-of-yoga-coppell.json",
+   "address": {
+    "streetAddress": "568 South Coppell Road",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9561231,
+    "lon": -97.0064736
+   },
+   "phone": "+19452780270",
+   "website": "https://www.hathavidya.us/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12000157010",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "life-stream-coppell",
+   "name": "Life Stream",
+   "summary": "Life Stream is a spa in Coppell, TX. Phone: +19723046400. Website: https://www.lifestreammed.com/.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-stream-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-stream-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9539592,
+    "lon": -97.0070007
+   },
+   "phone": "+19723046400",
+   "website": "https://www.lifestreammed.com/",
+   "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-15:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13326795966",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-life-center-coppell",
+   "name": "Massage Life Center",
+   "summary": "Massage Life Center is a massage studio in Coppell, TX at 445 South Denton Tap Road #100, Coppell, TX 75019. Phone: +19723174400. Website: https://massagelifecenter.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-life-center-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-life-center-coppell.json",
+   "address": {
+    "streetAddress": "445 South Denton Tap Road #100",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9607158,
+    "lon": -96.9940618
+   },
+   "phone": "+19723174400",
+   "website": "https://massagelifecenter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12922763889",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-coppell",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Coppell, TX. Phone: +19729560011. Website: https://www.teamslaughter.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9688523,
+    "lon": -96.9922923
+   },
+   "phone": "+19729560011",
+   "website": "https://www.teamslaughter.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa closed \"By appointment\"; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10744294779",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "coppell-orthodontics-coppell",
+   "name": "Coppell Orthodontics",
+   "summary": "Coppell Orthodontics is a dentist in Coppell, TX at 137 West State Highway 121 #105, Coppell, TX. Phone: +19724596800. Website: https://www.coppellbraces.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coppell-orthodontics-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coppell-orthodontics-coppell.json",
+   "address": {
+    "streetAddress": "137 West State Highway 121 #105",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9863074,
+    "lon": -96.9953712
+   },
+   "phone": "+19724596800",
+   "website": "https://www.coppellbraces.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13076411212",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "coppell-pediatric-dentistry-coppell",
+   "name": "Coppell Pediatric Dentistry",
+   "summary": "Coppell Pediatric Dentistry is a dentist in Coppell, TX at 137 West State Highway 121 #110, Coppell, TX. Phone: +14694446579. Website: https://coppellpediatricdentistry.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coppell-pediatric-dentistry-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coppell-pediatric-dentistry-coppell.json",
+   "address": {
+    "streetAddress": "137 West State Highway 121 #110",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9863456,
+    "lon": -96.9954798
+   },
+   "phone": "+14694446579",
+   "website": "https://coppellpediatricdentistry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13076411211",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "martin-nunes-dmd-coppell",
+   "name": "Martin Nunes, DMD",
+   "summary": "Martin Nunes, DMD is a dentist in Coppell, TX at 188 West Parkway Boulevard, Coppell, TX. Phone: +19727457745. Website: https://www.nunesdmd.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/martin-nunes-dmd-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/martin-nunes-dmd-coppell.json",
+   "address": {
+    "streetAddress": "188 West Parkway Boulevard",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9771098,
+    "lon": -96.995524
+   },
+   "phone": "+19727457745",
+   "website": "https://www.nunesdmd.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14009450606",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "star-orthopedics-coppell",
+   "name": "Star Orthopedics",
+   "summary": "Star Orthopedics is a physical therapy clinic in Coppell, TX at 149 West State Highway 121 #115, Coppell, TX. Phone: +14698500680. Website: https://www.starorthopedics.com/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/star-orthopedics-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/star-orthopedics-coppell.json",
+   "address": {
+    "streetAddress": "149 West State Highway 121 #115",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9865162,
+    "lon": -96.9961031
+   },
+   "phone": "+14698500680",
+   "website": "https://www.starorthopedics.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13076411206",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "10-day-smiles-coppell",
+   "name": "10 Day Smiles",
+   "summary": "10 Day Smiles is a dentist in Coppell, TX at 750 South MacArthur Boulevard, Coppell, TX 75019. Website: https://www.10daysmiles.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/10-day-smiles-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/10-day-smiles-coppell.json",
+   "address": {
+    "streetAddress": "750 South MacArthur Boulevard",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9542428,
+    "lon": -96.9572096
+   },
+   "website": "https://www.10daysmiles.com/",
+   "opening_hours": "Mo-Th 09:00-17:00; Fr 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13395009153",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "afc-urgent-care-coppell-coppell",
+   "name": "AFC Urgent Care Coppell",
+   "summary": "AFC Urgent Care Coppell is a family medicine practice in Coppell, TX at 760 North Denton Tap Road #R150, Coppell, TX 75019. Website: https://www.afcurgentcare.com/coppell/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/afc-urgent-care-coppell-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/afc-urgent-care-coppell-coppell.json",
+   "address": {
+    "streetAddress": "760 North Denton Tap Road #R150",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9885124,
+    "lon": -96.9926527
+   },
+   "website": "https://www.afcurgentcare.com/coppell/",
+   "opening_hours": "Mo-Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12998642750",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "renewaskin-spa-coppell",
+   "name": "Renewaskin Spa",
+   "summary": "Renewaskin Spa is a spa in Coppell, TX at 760 North Denton Tap Road #110, Coppell, TX 75019. Website: https://renewaskin-spa.com/.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/renewaskin-spa-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/renewaskin-spa-coppell.json",
+   "address": {
+    "streetAddress": "760 North Denton Tap Road #110",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9889907,
+    "lon": -96.9927408
+   },
+   "website": "https://renewaskin-spa.com/",
+   "opening_hours": "Mo-Fr 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12281063864",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-coppell",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Coppell, TX at 240 North Denton Tap Road ##430, Coppell, TX 75019. Phone: +19723939490.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-coppell.json",
+   "address": {
+    "streetAddress": "240 North Denton Tap Road ##430",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9743286,
+    "lon": -96.9932041
+   },
+   "phone": "+19723939490",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 08:00-16:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13092934954",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "compassion-smiles-dentistry-coppell",
+   "name": "Compassion Smiles Dentistry",
+   "summary": "Compassion Smiles Dentistry is a dentist in Coppell, TX. Phone: +14699930070. Website: https://www.compassionsmiles.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/compassion-smiles-dentistry-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/compassion-smiles-dentistry-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9728389,
+    "lon": -96.9941737
+   },
+   "phone": "+14699930070",
+   "website": "https://www.compassionsmiles.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12736796868",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stellar-smiles-ortho-coppell",
+   "name": "Stellar Smiles Ortho",
+   "summary": "Stellar Smiles Ortho is a dentist in Coppell, TX. Phone: +18175622222. Website: https://stellarsmilesortho.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stellar-smiles-ortho-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stellar-smiles-ortho-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9689747,
+    "lon": -96.9918869
+   },
+   "phone": "+18175622222",
+   "website": "https://stellarsmilesortho.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10744294778",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "trek-coppell",
+   "name": "Trek",
+   "summary": "Trek is a bike shop in Coppell, TX. Phone: +19727452815. Website: https://www.trekbikes.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trek-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trek-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9547669,
+    "lon": -96.9587485
+   },
+   "phone": "+19727452815",
+   "website": "https://www.trekbikes.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8105299966",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "a-tailor-coppell",
+   "name": "A+ Tailor",
+   "summary": "A+ Tailor is a tailor in Coppell, TX. Phone: +19723930445.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-tailor-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-tailor-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9668391,
+    "lon": -96.9927162
+   },
+   "phone": "+19723930445",
+   "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:30-16:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10894599572",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "art-brows-threading-and-spa-coppell",
+   "name": "Art Brows Threading & Spa",
+   "summary": "Art Brows Threading & Spa is a skin care studio in Coppell, TX. Phone: +12812031853.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/art-brows-threading-and-spa-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/art-brows-threading-and-spa-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9667758,
+    "lon": -96.9927268
+   },
+   "phone": "+12812031853",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-19:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10894599578",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "diamond-nails-and-spa-coppell",
+   "name": "Diamond Nails & Spa",
+   "summary": "Diamond Nails & Spa is a nail salon in Coppell, TX. Phone: +14697026464.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diamond-nails-and-spa-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diamond-nails-and-spa-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9667182,
+    "lon": -96.9927299
+   },
+   "phone": "+14697026464",
+   "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:00-19:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10894599567",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "freeform-chiropractic-coppell",
+   "name": "Freeform Chiropractic",
+   "summary": "Freeform Chiropractic is a chiropractor in Coppell, TX. Phone: +14693930504.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freeform-chiropractic-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freeform-chiropractic-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9677174,
+    "lon": -96.9923906
+   },
+   "phone": "+14693930504",
+   "opening_hours": "Mo-Th 08:00-12:00,14:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10932238913",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "star-sports-therapy-and-rehab-coppell",
+   "name": "Star Sports Therapy and Rehab",
+   "summary": "Star Sports Therapy and Rehab is a physical therapy clinic in Coppell, TX at 149 West State Highway 121 #110, Coppell, TX 75019. Phone: +14695982760.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/star-sports-therapy-and-rehab-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/star-sports-therapy-and-rehab-coppell.json",
+   "address": {
+    "streetAddress": "149 West State Highway 121 #110",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9864858,
+    "lon": -96.9959922
+   },
+   "phone": "+14695982760",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13076411207",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-coppell-n13076479520",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Coppell, TX. Phone: +19728896570.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-coppell-n13076479520/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-coppell-n13076479520.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9845223,
+    "lon": -96.9939303
+   },
+   "phone": "+19728896570",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa \"By appointment only\"; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13076479520",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "yoyo-reflexology-coppell",
+   "name": "YoYo Reflexology",
+   "summary": "YoYo Reflexology is a massage studio in Coppell, TX. Phone: +14699688015.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yoyo-reflexology-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yoyo-reflexology-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9670227,
+    "lon": -96.9927272
+   },
+   "phone": "+14699688015",
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-21:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10894599569",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "z-indian-beauty-salon-coppell",
+   "name": "Z Indian Beauty Salon",
+   "summary": "Z Indian Beauty Salon is a waxing salon in Coppell, TX. Phone: +14694532222.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/z-indian-beauty-salon-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/z-indian-beauty-salon-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9703507,
+    "lon": -96.9945191
+   },
+   "phone": "+14694532222",
+   "opening_hours": "Mo-Sa 11:00-19:00; Su closed; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11132739143",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sandy-lake-dental-and-orthodontists-coppell",
+   "name": "Sandy Lake Dental & Orthodontists",
+   "summary": "Sandy Lake Dental & Orthodontists is a dentist in Coppell, TX at 120 South Denton Tap Road #270-A, Coppell, TX. Phone: +19723937348.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sandy-lake-dental-and-orthodontists-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sandy-lake-dental-and-orthodontists-coppell.json",
+   "address": {
+    "streetAddress": "120 South Denton Tap Road #270-A",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9689776,
+    "lon": -96.9922652
+   },
+   "phone": "+19723937348",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10744294782",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tranquil-smiles-pediatric-dentistry-coppell",
+   "name": "Tranquil Smiles Pediatric Dentistry",
+   "summary": "Tranquil Smiles Pediatric Dentistry is a dentist in Coppell, TX at 632 East Sandy Lake Road, Coppell, TX. Website: https://tspdcoppell.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tranquil-smiles-pediatric-dentistry-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tranquil-smiles-pediatric-dentistry-coppell.json",
+   "address": {
+    "streetAddress": "632 East Sandy Lake Road",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9699504,
+    "lon": -96.975268
+   },
+   "website": "https://tspdcoppell.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13998466055",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-joint-chiropractic-coppell",
+   "name": "The Joint Chiropractic",
+   "summary": "The Joint Chiropractic is a chiropractor in Coppell, TX at 110 W Sandy Lake Rd #112, Coppell, TX 75019.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-coppell.json",
+   "address": {
+    "streetAddress": "110 W Sandy Lake Rd #112",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9701314,
+    "lon": -96.9920165
+   },
+   "opening_hours": "Mo-Fr 10:00-14:00,14:45-19:00; Sa 10:00-17:00; PH closed; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8397636842",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vision-source-coppell",
+   "name": "Vision Source",
+   "summary": "Vision Source is an eye care practice in Coppell, TX at 175 South Denton Tap Road, Coppell, TX.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vision-source-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vision-source-coppell.json",
+   "address": {
+    "streetAddress": "175 South Denton Tap Road",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9662336,
+    "lon": -96.9939971
+   },
+   "opening_hours": "Mo-Th 09:00-18:00; Fr 09:00-13:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1125485332",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-insurance-coppell",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Coppell, TX. Phone: +19724624589.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9533119,
+    "lon": -97.0079038
+   },
+   "phone": "+19724624589",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13326875630",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "osterberger-design-group-coppell",
+   "name": "Osterberger Design Group",
+   "summary": "Osterberger Design Group is an architect in Coppell, TX. Website: https://www.osterbergergroup.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/osterberger-design-group-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/osterberger-design-group-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9542997,
+    "lon": -97.0079804
+   },
+   "website": "https://www.osterbergergroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13326866791",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "professional-wealth-management-group-coppell",
+   "name": "Professional Wealth Management Group",
+   "summary": "Professional Wealth Management Group is a financial advisor in Coppell, TX. Phone: +18173286109.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/professional-wealth-management-group-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/professional-wealth-management-group-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9538052,
+    "lon": -97.0069792
+   },
+   "phone": "+18173286109",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13326795967",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "splash-and-dash-coppell",
+   "name": "Splash and Dash",
+   "summary": "Splash and Dash is a dog groomer in Coppell, TX. Phone: +19727457387.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/splash-and-dash-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/splash-and-dash-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9670785,
+    "lon": -96.9927312
+   },
+   "phone": "+19727457387",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10894599573",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "star-dermotology-coppell",
+   "name": "Star Dermotology",
+   "summary": "Star Dermotology is a dermatologist in Coppell, TX. Phone: +14692892660.",
+   "categories": [
+    "dermatologist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/star-dermotology-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/star-dermotology-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9897767,
+    "lon": -96.9938218
+   },
+   "phone": "+14692892660",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11992802220",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "access-endodontics-coppell",
+   "name": "Access Endodontics",
+   "summary": "Access Endodontics is a dentist in Coppell, TX at South Denton Tap Road #200, Coppell, TX 75019.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/access-endodontics-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/access-endodontics-coppell.json",
+   "address": {
+    "streetAddress": "South Denton Tap Road #200",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9561653,
+    "lon": -96.9928973
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10869848654",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "adair-allergy-and-asthma-coppell",
+   "name": "Adair Allergy & Asthma",
+   "summary": "Adair Allergy & Asthma is an allergist in Coppell, TX.",
+   "categories": [
+    "allergist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adair-allergy-and-asthma-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adair-allergy-and-asthma-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9861426,
+    "lon": -96.9949929
+   },
+   "opening_hours": "Mo-Tu 08:00-17:00; We 07:15-16:30; Th,Sa-Su off; Fr 08:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13076411214",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "christensen-immigration-attorneys-coppell",
+   "name": "Christensen Immigration Attorneys",
+   "summary": "Christensen Immigration Attorneys is a lawyer in Coppell, TX at 452 West State Highway 121 #100, Coppell, TX 75019.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christensen-immigration-attorneys-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christensen-immigration-attorneys-coppell.json",
+   "address": {
+    "streetAddress": "452 West State Highway 121 #100",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9899457,
+    "lon": -96.9994053
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13176096627",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "deluxe-nails-and-spa-coppell",
+   "name": "Deluxe Nails & Spa",
+   "summary": "Deluxe Nails & Spa is a nail salon in Coppell, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/deluxe-nails-and-spa-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/deluxe-nails-and-spa-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9669075,
+    "lon": -96.9941251
+   },
+   "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:00-19:00; Su 11:30-17:30; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9966755723",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-coppell",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Coppell, TX at 695 East State Highway 121, Coppell, TX 75019.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-coppell.json",
+   "address": {
+    "streetAddress": "695 East State Highway 121",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9913009,
+    "lon": -96.9752454
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1088243238",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "floyds-barbershop-coppell",
+   "name": "Floyd's Barbershop",
+   "summary": "Floyd's Barbershop is a hair salon in Coppell, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floyds-barbershop-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floyds-barbershop-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9890815,
+    "lon": -96.9938484
+   },
+   "opening_hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-20:00; Su 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3882756675",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "graff-foot-ankle-and-wound-care-coppell",
+   "name": "Graff Foot Ankle & Wound Care",
+   "summary": "Graff Foot Ankle & Wound Care is a podiatrist in Coppell, TX at 456 West State Highway 121 #140, Coppell, TX 75019.",
+   "categories": [
+    "podiatrist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/graff-foot-ankle-and-wound-care-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/graff-foot-ankle-and-wound-care-coppell.json",
+   "address": {
+    "streetAddress": "456 West State Highway 121 #140",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9902916,
+    "lon": -97.0002326
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13513439475",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-coppell",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Coppell, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9263064,
+    "lon": -96.9943583
+   },
+   "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7920995478",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hand-and-stone-massage-and-facial-spa-coppell",
+   "name": "Hand & Stone Massage and Facial Spa",
+   "summary": "Hand & Stone Massage and Facial Spa is a massage studio in Coppell, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hand-and-stone-massage-and-facial-spa-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9703851,
+    "lon": -96.9959578
+   },
+   "opening_hours": "Mo-Fr 09:00-22:00; Sa 09:00-20:00; PH closed; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11318443734",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hollywood-feed-coppell",
+   "name": "Hollywood Feed",
+   "summary": "Hollywood Feed is a pet store in Coppell, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hollywood-feed-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hollywood-feed-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9677165,
+    "lon": -96.9928023
+   },
+   "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:30; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10932238916",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-envy-coppell",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Coppell, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9679873,
+    "lon": -96.9922912
+   },
+   "opening_hours": "Mo-Tu,Th 09:00-19:00; We,Fr 09:00-20:00; PH closed; Sa 09:00-17:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10932238918",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "spotless-car-wash-coppell",
+   "name": "Spotless Car Wash",
+   "summary": "Spotless Car Wash is a car wash in Coppell, TX at 615 South Macarthur Boulevard, Coppell, TX 75019.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spotless-car-wash-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spotless-car-wash-coppell.json",
+   "address": {
+    "streetAddress": "615 South Macarthur Boulevard",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "postalCode": "75019",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "zip": "75019",
+   "geo": {
+    "lat": 32.9558647,
+    "lon": -96.9574975
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/465680014",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-family-fitness-coppell",
+   "name": "Texas Family Fitness",
+   "summary": "Texas Family Fitness is a gym in Coppell, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-family-fitness-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-family-fitness-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9681692,
+    "lon": -96.9922995
+   },
+   "opening_hours": "Mo-Fr 05:00-22:00; Sa 09:00-19:00; PH closed; Su 08:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10292050975",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "coppell-dentistry-for-kids-coppell",
+   "name": "Coppell Dentistry for Kids",
+   "summary": "Coppell Dentistry for Kids is a dentist in Coppell, TX at 220 South Denton Tap Road, Coppell, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coppell-dentistry-for-kids-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coppell-dentistry-for-kids-coppell.json",
+   "address": {
+    "streetAddress": "220 South Denton Tap Road",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9649541,
+    "lon": -96.9929133
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12736796859",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dental-specialists-coppell",
+   "name": "Dental Specialists",
+   "summary": "Dental Specialists is a dentist in Coppell, TX at 149 West State Highway 121 #100, Coppell, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-specialists-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-specialists-coppell.json",
+   "address": {
+    "streetAddress": "149 West State Highway 121 #100",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9864121,
+    "lon": -96.9957664
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13076411209",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-coppell-w1224868321",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Coppell, TX at 1751 East Belt Line Road, Coppell, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-coppell-w1224868321/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-coppell-w1224868321.json",
+   "address": {
+    "streetAddress": "1751 East Belt Line Road",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9508248,
+    "lon": -96.9438285
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1224868321",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-coppell-w465679987",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Coppell, TX at 585 South Macarthur Boulevard, Coppell, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-coppell-w465679987/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-coppell-w465679987.json",
+   "address": {
+    "streetAddress": "585 South Macarthur Boulevard",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9573764,
+    "lon": -96.9573544
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/465679987",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-coppell",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Coppell, TX at 1601 East Belt Line Road, Coppell, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-coppell.json",
+   "address": {
+    "streetAddress": "1601 East Belt Line Road",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9521704,
+    "lon": -96.9531821
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/465680126",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ups-store-coppell",
+   "name": "UPS Store",
+   "summary": "UPS Store is a printing service in Coppell, TX at 820 South MacArthur Boulevard, Coppell, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ups-store-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ups-store-coppell.json",
+   "address": {
+    "streetAddress": "820 South MacArthur Boulevard",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.951134,
+    "lon": -96.9570603
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10231897105",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vistara-sports-coppell",
+   "name": "Vistara Sports",
+   "summary": "Vistara Sports is a gym in Coppell, TX at 400 West Vista Ridge Mall Drive, Coppell, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vistara-sports-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vistara-sports-coppell.json",
+   "address": {
+    "streetAddress": "400 West Vista Ridge Mall Drive",
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9937983,
+    "lon": -97.0001434
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1375156110",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ati-physical-therapy-coppell",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Coppell, TX.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9699333,
+    "lon": -96.9918773
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10292050931",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cbs-wealth-management-coppell",
+   "name": "CBS Wealth Management",
+   "summary": "CBS Wealth Management is a financial advisor in Coppell, TX.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cbs-wealth-management-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cbs-wealth-management-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9655184,
+    "lon": -96.9947342
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12021270103",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "childrens-dental-care-coppell",
+   "name": "Children's Dental Care",
+   "summary": "Children's Dental Care is a dentist in Coppell, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/childrens-dental-care-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/childrens-dental-care-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9891917,
+    "lon": -96.9975676
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3882756703",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "coppell-heritage-dentistry-coppell",
+   "name": "Coppell Heritage Dentistry",
+   "summary": "Coppell Heritage Dentistry is a dentist in Coppell, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coppell-heritage-dentistry-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coppell-heritage-dentistry-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9630311,
+    "lon": -96.9940305
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12736796873",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "coppell-modern-dentistry-coppell",
+   "name": "Coppell Modern Dentistry",
+   "summary": "Coppell Modern Dentistry is a dentist in Coppell, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coppell-modern-dentistry-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coppell-modern-dentistry-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9734351,
+    "lon": -96.9931612
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12736796865",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cosmetic-and-family-dentristry-coppell",
+   "name": "Cosmetic & Family Dentristry",
+   "summary": "Cosmetic & Family Dentristry is a dentist in Coppell, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cosmetic-and-family-dentristry-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cosmetic-and-family-dentristry-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9605457,
+    "lon": -96.9940656
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10292067336",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "delaney-salons-coppell",
+   "name": "Delaney Salons",
+   "summary": "Delaney Salons is a skin care studio in Coppell, TX.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/delaney-salons-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/delaney-salons-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9679122,
+    "lon": -96.9923003
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10932238915",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-coppell",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Coppell, TX.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9605209,
+    "lon": -96.9942135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10292067337",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-coppell",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Coppell, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9505749,
+    "lon": -96.9930449
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10814854716",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "frost-cupcakery-coppell",
+   "name": "Frost Cupcakery",
+   "summary": "Frost Cupcakery is a bakery in Coppell, TX.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/frost-cupcakery-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/frost-cupcakery-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9536645,
+    "lon": -97.0069813
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13326795968",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "harrison-law-firm-coppell",
+   "name": "Harrison Law Firm",
+   "summary": "Harrison Law Firm is a lawyer in Coppell, TX.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harrison-law-firm-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harrison-law-firm-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9654779,
+    "lon": -96.9946219
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12021268929",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "high-stone-reflexology-coppell",
+   "name": "High Stone Reflexology",
+   "summary": "High Stone Reflexology is a massage studio in Coppell, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/high-stone-reflexology-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/high-stone-reflexology-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9700392,
+    "lon": -96.9919661
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11092383089",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ideal-orthodontics-coppell",
+   "name": "Ideal Orthodontics",
+   "summary": "Ideal Orthodontics is a dentist in Coppell, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ideal-orthodontics-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ideal-orthodontics-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9888773,
+    "lon": -96.9927903
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3882756692",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "knockouts-coppell",
+   "name": "Knockouts",
+   "summary": "Knockouts is a hair salon in Coppell, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/knockouts-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/knockouts-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9677119,
+    "lon": -96.9925134
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10932238917",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nationwide-insurance-coppell",
+   "name": "Nationwide Insurance",
+   "summary": "Nationwide Insurance is an insurance agent in Coppell, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nationwide-insurance-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nationwide-insurance-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9691017,
+    "lon": -96.977025
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8479342744",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "orthodontic-avenue-coppell",
+   "name": "Orthodontic Avenue",
+   "summary": "Orthodontic Avenue is a dentist in Coppell, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orthodontic-avenue-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orthodontic-avenue-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9891309,
+    "lon": -96.9974308
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3882756704",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "paris-baguette-coppell",
+   "name": "Paris Baguette",
+   "summary": "Paris Baguette is a bakery in Coppell, TX.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paris-baguette-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paris-baguette-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9273648,
+    "lon": -96.9943594
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10780834565",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "resort-nails-and-spa-coppell",
+   "name": "Resort Nails & Spa",
+   "summary": "Resort Nails & Spa is a nail salon in Coppell, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/resort-nails-and-spa-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/resort-nails-and-spa-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9703936,
+    "lon": -96.9958623
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11318443738",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "romc-mortuary-coppell",
+   "name": "ROMC Mortuary",
+   "summary": "ROMC Mortuary is a funeral home in Coppell, TX.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/romc-mortuary-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/romc-mortuary-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9626187,
+    "lon": -97.0140535
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1172795954",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-coppell",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Coppell, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9887013,
+    "lon": -96.9928035
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3882756694",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-childrens-courtyard-coppell",
+   "name": "The Children's Courtyard",
+   "summary": "The Children's Courtyard is a preschool in Coppell, TX.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-childrens-courtyard-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-childrens-courtyard-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9728417,
+    "lon": -96.9955862
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13092883099",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-learning-experience-coppell",
+   "name": "The Learning Experience",
+   "summary": "The Learning Experience is a preschool in Coppell, TX.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-learning-experience-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-learning-experience-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9689094,
+    "lon": -96.9912293
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1375611835",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-coppell",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Coppell, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-coppell/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-coppell.json",
+   "address": {
+    "addressLocality": "Coppell",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Coppell",
+   "state": "TX",
+   "geo": {
+    "lat": 32.969876,
+    "lon": -96.9918099
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10292050932",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

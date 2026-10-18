@@ -15,7 +15,7 @@ Stallion Insurance Group is an insurance agent in Eden Prairie, MN at 12160 Tech
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/stallion-insurance-group-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/stallion-insurance-group-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10829488791 (license ODbL-1.0); source data as of 2026-05-31

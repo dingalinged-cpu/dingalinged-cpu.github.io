@@ -15,7 +15,7 @@ Childrens World is a daycare in Eagan, MN at 4194 Pilot Knob Road, Eagan, MN 551
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/childrens-world-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/childrens-world-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/529034368 (license ODbL-1.0); source data as of 2026-07-24

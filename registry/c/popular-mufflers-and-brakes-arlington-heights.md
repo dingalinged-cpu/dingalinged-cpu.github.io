@@ -15,7 +15,7 @@ Popular Mufflers & Brakes is an auto repair shop in Arlington Heights, IL. Phone
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/popular-mufflers-and-brakes-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/popular-mufflers-and-brakes-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/611283949 (license ODbL-1.0); source data as of 2026-06-01

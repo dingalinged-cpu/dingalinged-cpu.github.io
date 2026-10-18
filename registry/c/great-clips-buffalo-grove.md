@@ -15,7 +15,7 @@ Great Clips is a hair salon in Buffalo Grove, IL at 1543 Deerfield Parkway, Buff
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-buffalo-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-buffalo-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11124474558 (license ODbL-1.0); source data as of 2026-06-01

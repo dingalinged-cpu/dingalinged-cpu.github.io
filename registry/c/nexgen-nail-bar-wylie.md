@@ -1,0 +1,23 @@
+Nexgen Nail Bar is a nail salon in Wylie, TX at 3420 FM544 #750, Wylie, TX 75098.
+
+# Nexgen Nail Bar
+
+- Category: nail salon
+- Services: nail salon
+- Address: 3420 FM544 #750, Wylie, TX 75098
+- City: Wylie
+- State: TX
+- ZIP: 75098
+- Coordinates: 33.0091282, -96.5927932
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/nexgen-nail-bar-wylie/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/nexgen-nail-bar-wylie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13064628176 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

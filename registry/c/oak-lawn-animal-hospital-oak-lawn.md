@@ -15,7 +15,7 @@ Oak Lawn Animal Hospital is a veterinarian in Oak Lawn, IL at 9244 South Cicero 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oak-lawn-animal-hospital-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oak-lawn-animal-hospital-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1212054860 (license ODbL-1.0); source data as of 2026-07-28

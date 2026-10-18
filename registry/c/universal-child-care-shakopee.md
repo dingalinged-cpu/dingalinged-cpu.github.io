@@ -15,7 +15,7 @@ Universal Child Care is a daycare in Shakopee, MN at 1208 Shakopee Town Square, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/universal-child-care-shakopee/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/universal-child-care-shakopee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8948775285 (license ODbL-1.0); source data as of 2026-07-24

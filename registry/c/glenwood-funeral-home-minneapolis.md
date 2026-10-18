@@ -15,7 +15,7 @@ Glenwood Funeral Home is a funeral home in Minneapolis, MN at 1312 Glenwood Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/glenwood-funeral-home-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/glenwood-funeral-home-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/240869840 (license ODbL-1.0); source data as of 2026-06-01

@@ -57,7 +57,7 @@
    "trust_score": 20.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/8968774403",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "carmax-glencoe",
@@ -88,7 +88,7 @@
    "trust_score": 10.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1305267408",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "coldwell-banker-glencoe",
@@ -118,7 +118,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/459492760",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   }
  ]
 }

@@ -15,7 +15,7 @@ Foot Smile Spa is a massage studio in Chicago, IL at 1513 West Fullerton Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/foot-smile-spa-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/foot-smile-spa-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2361072401 (license ODbL-1.0); source data as of 2026-06-01

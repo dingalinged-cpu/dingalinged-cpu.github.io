@@ -15,7 +15,7 @@ Gold Group Realty is a real estate agency in Minneapolis, MN at 1515 Glenwood Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gold-group-realty-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gold-group-realty-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/988133088 (license ODbL-1.0); source data as of 2026-05-31

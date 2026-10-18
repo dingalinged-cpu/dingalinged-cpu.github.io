@@ -15,7 +15,7 @@ A. Johnson & Sons Florist is a florist in Saint Paul, MN at 1738 Grand Avenue, S
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/a-johnson-and-sons-florist-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-johnson-and-sons-florist-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/141425771 (license ODbL-1.0); source data as of 2026-06-01

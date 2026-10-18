@@ -15,7 +15,7 @@ Epic Dental Spa is a dentist in Hanover Park, IL at 1824 West Irving Park Road, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/epic-dental-spa-hanover-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/epic-dental-spa-hanover-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/842842923 (license ODbL-1.0); source data as of 2026-07-28

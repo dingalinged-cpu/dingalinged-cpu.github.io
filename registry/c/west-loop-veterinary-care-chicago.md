@@ -15,7 +15,7 @@ West Loop Veterinary Care is a veterinarian in Chicago, IL at 815 West Randolph 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/west-loop-veterinary-care-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/west-loop-veterinary-care-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1504713100 (license ODbL-1.0); source data as of 2026-07-28

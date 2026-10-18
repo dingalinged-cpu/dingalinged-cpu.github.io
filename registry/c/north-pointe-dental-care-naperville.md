@@ -15,7 +15,7 @@ North Pointe Dental Care is a dentist in Naperville, IL at 1811 Freedom Drive #1
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/north-pointe-dental-care-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-pointe-dental-care-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1229586152 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ FedEx Office is a printing service in Chicago, IL at 1 South Sangamon Street, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fedex-office-chicago-n6582995273/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-chicago-n6582995273.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6582995273 (license ODbL-1.0); source data as of 2026-06-01

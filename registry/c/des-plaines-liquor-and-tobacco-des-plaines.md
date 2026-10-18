@@ -15,7 +15,7 @@ Des Plaines Liquor & Tobacco is a liquor store in Des Plaines, IL at Pearson Str
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/des-plaines-liquor-and-tobacco-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/des-plaines-liquor-and-tobacco-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1023821131 (license ODbL-1.0); source data as of 2026-06-01

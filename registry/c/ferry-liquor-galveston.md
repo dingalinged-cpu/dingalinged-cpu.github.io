@@ -1,0 +1,23 @@
+Ferry Liquor is a liquor store in Galveston, TX at 112 19th Street #B, Galveston, TX.
+
+# Ferry Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 112 19th Street #B, Galveston, TX
+- City: Galveston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.3090129, -94.7897255
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ferry-liquor-galveston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ferry-liquor-galveston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9950235895 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

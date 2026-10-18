@@ -15,7 +15,7 @@ Public Storage is a self-storage facility in Minneapolis, MN at 425 Washington A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12754418102 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Animal Medical Center is a veterinarian in Skokie, IL at 8343 Skokie Boulevard, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/animal-medical-center-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/animal-medical-center-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/334412548 (license ODbL-1.0); source data as of 2026-07-28

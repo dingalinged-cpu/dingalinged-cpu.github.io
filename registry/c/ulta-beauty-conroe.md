@@ -1,0 +1,23 @@
+Ulta Beauty is a skin care studio in Conroe, TX at 255 South Loop 336 West, Conroe, TX 77304. Phone: +19362835051. Website: https://www.ulta.com/stores/conroe-tx-1528.
+
+# Ulta Beauty
+
+- Category: facial
+- Services: facial
+- Address: 255 South Loop 336 West, Conroe, TX 77304
+- City: Conroe
+- State: TX
+- ZIP: 77304
+- Coordinates: 30.2764496, -95.4622845
+- Phone: +19362835051
+- Website: https://www.ulta.com/stores/conroe-tx-1528
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ulta-beauty-conroe/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1005713428 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

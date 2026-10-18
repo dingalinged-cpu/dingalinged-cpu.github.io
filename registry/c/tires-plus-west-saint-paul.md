@@ -15,7 +15,7 @@ Tires Plus is a tire shop in West Saint Paul, MN at 1973 Robert Street South, We
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tires-plus-west-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tires-plus-west-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/527084215 (license ODbL-1.0); source data as of 2026-06-01

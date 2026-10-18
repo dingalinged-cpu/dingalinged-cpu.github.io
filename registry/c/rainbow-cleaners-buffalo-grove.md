@@ -15,7 +15,7 @@ Rainbow Cleaners is a dry cleaner in Buffalo Grove, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rainbow-cleaners-buffalo-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rainbow-cleaners-buffalo-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/674292144 (license ODbL-1.0); source data as of 2026-06-01

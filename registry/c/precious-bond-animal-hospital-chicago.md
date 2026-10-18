@@ -15,7 +15,7 @@ Precious Bond Animal Hospital is a veterinarian in Chicago, IL at 3901 North Lin
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/precious-bond-animal-hospital-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/precious-bond-animal-hospital-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13147944703 (license ODbL-1.0); source data as of 2026-07-28

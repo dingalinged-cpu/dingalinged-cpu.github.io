@@ -15,7 +15,7 @@ Ramallah Jewelry - Arabic Gold is a jewelry store in Oak Lawn, IL at 8741 South 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ramallah-jewelry-arabic-gold-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ramallah-jewelry-arabic-gold-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13627180019 (license ODbL-1.0); source data as of 2026-06-01

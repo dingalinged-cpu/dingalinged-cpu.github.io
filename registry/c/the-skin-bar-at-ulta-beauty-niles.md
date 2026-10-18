@@ -15,7 +15,7 @@ The Skin Bar at Ulta Beauty is a skin care studio in Niles, IL at 600 Golf Mill 
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-skin-bar-at-ulta-beauty-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-skin-bar-at-ulta-beauty-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12070613303 (license ODbL-1.0); source data as of 2026-06-01

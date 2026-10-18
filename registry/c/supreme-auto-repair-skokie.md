@@ -15,7 +15,7 @@ Supreme Auto Repair is an auto repair shop in Skokie, IL at 3550 Dempster Street
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00, Sa 07:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/supreme-auto-repair-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/supreme-auto-repair-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/414595519 (license ODbL-1.0); source data as of 2026-06-01

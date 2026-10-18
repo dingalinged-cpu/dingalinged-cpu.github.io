@@ -1,0 +1,160 @@
+{
+ "place": "La Marque, TX",
+ "slug": "la-marque-tx",
+ "count": 4,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "barber shop la marque tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-la-marque-tx.json"
+  },
+  {
+   "keyword": "daycare la marque tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-la-marque-tx.json"
+  },
+  {
+   "keyword": "dentist la marque tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-la-marque-tx.json"
+  },
+  {
+   "keyword": "haircut la marque tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-la-marque-tx.json"
+  },
+  {
+   "keyword": "notary la marque tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/notary-la-marque-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "jd-notary-signing-services-la-marque",
+   "name": "JD Notary Signing Services",
+   "summary": "JD Notary Signing Services is a notary service in La Marque, TX at 616 Bluebonnet Drive, La Marque, TX 77568. Phone: +18665490305. Website: https://jdnotarysigningservice.com/.",
+   "categories": [
+    "notary"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jd-notary-signing-services-la-marque/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jd-notary-signing-services-la-marque.json",
+   "address": {
+    "streetAddress": "616 Bluebonnet Drive",
+    "addressLocality": "La Marque",
+    "addressRegion": "TX",
+    "postalCode": "77568",
+    "addressCountry": "US"
+   },
+   "city": "La Marque",
+   "state": "TX",
+   "zip": "77568",
+   "geo": {
+    "lat": 29.3750338,
+    "lon": -94.9615722
+   },
+   "phone": "+18665490305",
+   "website": "https://jdnotarysigningservice.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11564622772",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "busy-bodys-child-care-la-marque",
+   "name": "Busy Body's Child Care",
+   "summary": "Busy Body's Child Care is a daycare in La Marque, TX at 199 Vauithier Road #C, La Marque, TX 77568. Phone: +14092291881. Website: https://busybodychildcare.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/busy-bodys-child-care-la-marque/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/busy-bodys-child-care-la-marque.json",
+   "address": {
+    "streetAddress": "199 Vauithier Road #C",
+    "addressLocality": "La Marque",
+    "addressRegion": "TX",
+    "postalCode": "77568",
+    "addressCountry": "US"
+   },
+   "city": "La Marque",
+   "state": "TX",
+   "zip": "77568",
+   "geo": {
+    "lat": 29.3779652,
+    "lon": -94.992617
+   },
+   "phone": "+14092291881",
+   "website": "https://busybodychildcare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4659598293",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "razor-sharp-barbershop-la-marque",
+   "name": "Razor Sharp Barbershop",
+   "summary": "Razor Sharp Barbershop is a barber shop in La Marque, TX at 1211 1st street, La Marque, TX 77568.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/razor-sharp-barbershop-la-marque/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/razor-sharp-barbershop-la-marque.json",
+   "address": {
+    "streetAddress": "1211 1st street",
+    "addressLocality": "La Marque",
+    "addressRegion": "TX",
+    "postalCode": "77568",
+    "addressCountry": "US"
+   },
+   "city": "La Marque",
+   "state": "TX",
+   "zip": "77568",
+   "geo": {
+    "lat": 29.3744518,
+    "lon": -94.9703957
+   },
+   "opening_hours": "Tu-Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13332723657",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cedar-lake-dental-la-marque",
+   "name": "Cedar Lake Dental",
+   "summary": "Cedar Lake Dental is a dentist in La Marque, TX at 1205 Lake Road, La Marque, TX 77568.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cedar-lake-dental-la-marque/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cedar-lake-dental-la-marque.json",
+   "address": {
+    "streetAddress": "1205 Lake Road",
+    "addressLocality": "La Marque",
+    "addressRegion": "TX",
+    "postalCode": "77568",
+    "addressCountry": "US"
+   },
+   "city": "La Marque",
+   "state": "TX",
+   "zip": "77568",
+   "geo": {
+    "lat": 29.3680368,
+    "lon": -94.9792876
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13796587987",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

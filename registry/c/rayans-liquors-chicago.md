@@ -15,7 +15,7 @@ Rayan's Liquors is a liquor store in Chicago, IL at 4559 North Clark Street, Chi
 - Opening hours (OSM syntax): Mo-Th 10:40-23:00; Fr-Sa 10:30-00:00; Su 11:00-22:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rayans-liquors-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rayans-liquors-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1719743479 (license ODbL-1.0); source data as of 2026-06-01

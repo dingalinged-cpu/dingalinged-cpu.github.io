@@ -15,7 +15,7 @@ Mattress Firm is a mattress store in Homewood, IL at 17577 Halsted Street, Homew
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-homewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-homewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7716150334 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Smith & Thomas Funeral Home is a funeral home in Chicago, IL at 5708 West Madiso
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/smith-and-thomas-funeral-home-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/smith-and-thomas-funeral-home-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10711511356 (license ODbL-1.0); source data as of 2026-06-01

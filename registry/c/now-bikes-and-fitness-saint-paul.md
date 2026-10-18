@@ -15,7 +15,7 @@ Now Bikes & Fitness is a bike shop in Saint Paul, MN at 75 Snelling Avenue, Sain
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 12:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/now-bikes-and-fitness-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/now-bikes-and-fitness-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1419797444 (license ODbL-1.0); source data as of 2026-06-01

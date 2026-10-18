@@ -1,0 +1,23 @@
+Southlake Strength & Fitness is a gym in Southlake, TX at 280 Commerce Street #Suite 130, Southlake, TX 76092. Phone: +18176592956. Website: https://southlakestrength.com/.
+
+# Southlake Strength & Fitness
+
+- Category: gym
+- Services: gym
+- Address: 280 Commerce Street #Suite 130, Southlake, TX 76092
+- City: Southlake
+- State: TX
+- ZIP: 76092
+- Coordinates: 32.9366786, -97.1057276
+- Phone: +18176592956
+- Website: https://southlakestrength.com/
+- Email: info@southlakestrength.com
+- Opening hours (OSM syntax): Mo-Th 05:00-21:00, Fr 05:00-20:00, Sa 08:00-17:00, Su 10:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/southlake-strength-and-fitness-southlake/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/southlake-strength-and-fitness-southlake.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13169234955 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

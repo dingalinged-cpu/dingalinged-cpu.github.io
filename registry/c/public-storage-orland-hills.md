@@ -15,7 +15,7 @@ Public Storage is a self-storage facility in Orland Hills, IL at 8901 West 159th
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-orland-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-orland-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1023700430 (license ODbL-1.0); source data as of 2026-06-01

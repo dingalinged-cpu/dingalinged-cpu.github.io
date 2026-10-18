@@ -15,7 +15,7 @@ Edible Arrangements is a gift shop in Mount Prospect, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edible-arrangements-mount-prospect/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-mount-prospect.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6292598303 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Jade's Nail Salon is a nail salon in Broadview, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jades-nail-salon-broadview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jades-nail-salon-broadview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10721875005 (license ODbL-1.0); source data as of 2026-06-01

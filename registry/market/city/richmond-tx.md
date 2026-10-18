@@ -1,0 +1,58 @@
+Keyword market for Richmond, TX: 46 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
+
+# Top keywords in Richmond, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage richmond tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-richmond-tx/
+2. car wash richmond tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-richmond-tx/
+3. dentist richmond tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 20 | https://dingalinged-cpu.github.io/registry/k/dentist-richmond-tx/
+4. gym richmond tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-richmond-tx/
+5. oil change richmond tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-richmond-tx/
+6. hair salon richmond tx | searches/mo 35,000 (est) | CPC $0.55 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/hair-salon-richmond-tx/
+7. nail salon richmond tx | searches/mo 23,000 (est) | CPC $0.61 | value $14,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/nail-salon-richmond-tx/
+8. mechanic richmond tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/mechanic-richmond-tx/
+9. tire shop richmond tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tire-shop-richmond-tx/
+10. vet richmond tx | searches/mo 13,000 (est) | CPC $4.06 | value $53,000 | Google Ads equiv $3,500/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/vet-richmond-tx/
+11. haircut richmond tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/haircut-richmond-tx/
+12. auto repair richmond tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/auto-repair-richmond-tx/
+13. movers richmond tx | searches/mo 7,000 (est) | CPC $8.23 | value $58,000 | Google Ads equiv $3,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-richmond-tx/
+14. pilates richmond tx | searches/mo 7,000 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-richmond-tx/
+15. chiropractor richmond tx | searches/mo 5,700 (est) | CPC $4.76 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-richmond-tx/
+
+## By CPC
+1. hvac repair richmond tx | searches/mo 1,700 (est) | CPC $17.76 | value $30,000 | Google Ads equiv $1,900/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-richmond-tx/
+2. moving company richmond tx | searches/mo 4,600 (est) | CPC $12.41 | value $57,000 | Google Ads equiv $3,600/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/moving-company-richmond-tx/
+3. attorney richmond tx | searches/mo 1,700 (est) | CPC $9.87 | value $17,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/attorney-richmond-tx/
+4. lawyer richmond tx | searches/mo 1,100 (est) | CPC $9.87 | value $11,000 | Google Ads equiv $650/mo | our featured min $100/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/lawyer-richmond-tx/
+5. heating and air richmond tx | searches/mo 83.00 (est) | CPC $8.33 | value $690 | Google Ads equiv $44.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/heating-and-air-richmond-tx/
+6. storage units richmond tx | searches/mo 5,100 (est) | CPC $8.33 | value $42,000 | Google Ads equiv $2,700/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/storage-units-richmond-tx/
+7. movers richmond tx | searches/mo 7,000 (est) | CPC $8.23 | value $58,000 | Google Ads equiv $3,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-richmond-tx/
+8. event venues richmond tx | searches/mo 5,100 (est) | CPC $7.17 | value $37,000 | Google Ads equiv $2,800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-richmond-tx/
+9. martial arts richmond tx | searches/mo 6,900 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/martial-arts-richmond-tx/
+10. pilates richmond tx | searches/mo 7,000 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-richmond-tx/
+11. daycare richmond tx | searches/mo 5,100 (est) | CPC $4.81 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/daycare-richmond-tx/
+12. preschool richmond tx | searches/mo 5,100 (est) | CPC $4.81 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/preschool-richmond-tx/
+13. assisted living richmond tx | searches/mo 5,100 (est) | CPC $4.76 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/assisted-living-richmond-tx/
+14. chiropractor richmond tx | searches/mo 5,700 (est) | CPC $4.76 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-richmond-tx/
+15. eye doctor richmond tx | searches/mo 5,100 (est) | CPC $4.76 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/eye-doctor-richmond-tx/
+
+## By value (searches x CPC)
+1. massage richmond tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-richmond-tx/
+2. dentist richmond tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 20 | https://dingalinged-cpu.github.io/registry/k/dentist-richmond-tx/
+3. car wash richmond tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-richmond-tx/
+4. oil change richmond tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-richmond-tx/
+5. gym richmond tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-richmond-tx/
+6. mechanic richmond tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/mechanic-richmond-tx/
+7. movers richmond tx | searches/mo 7,000 (est) | CPC $8.23 | value $58,000 | Google Ads equiv $3,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-richmond-tx/
+8. moving company richmond tx | searches/mo 4,600 (est) | CPC $12.41 | value $57,000 | Google Ads equiv $3,600/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/moving-company-richmond-tx/
+9. tire shop richmond tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tire-shop-richmond-tx/
+10. vet richmond tx | searches/mo 13,000 (est) | CPC $4.06 | value $53,000 | Google Ads equiv $3,500/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/vet-richmond-tx/
+11. pilates richmond tx | searches/mo 7,000 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-richmond-tx/
+12. haircut richmond tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/haircut-richmond-tx/
+13. auto repair richmond tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/auto-repair-richmond-tx/
+14. hvac repair richmond tx | searches/mo 1,700 (est) | CPC $17.76 | value $30,000 | Google Ads equiv $1,900/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-richmond-tx/
+15. chiropractor richmond tx | searches/mo 5,700 (est) | CPC $4.76 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-richmond-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

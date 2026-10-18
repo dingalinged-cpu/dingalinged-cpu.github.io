@@ -15,7 +15,7 @@ Minuteman Press is a printing service in Deerfield, IL at 20574 North Milwaukee 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/minuteman-press-deerfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/minuteman-press-deerfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11124474564 (license ODbL-1.0); source data as of 2026-06-01

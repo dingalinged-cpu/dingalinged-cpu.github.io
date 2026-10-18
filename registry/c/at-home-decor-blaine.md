@@ -15,7 +15,7 @@ At Home Decor is a furniture store in Blaine, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/at-home-decor-blaine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/at-home-decor-blaine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/756820991 (license ODbL-1.0); source data as of 2026-06-01

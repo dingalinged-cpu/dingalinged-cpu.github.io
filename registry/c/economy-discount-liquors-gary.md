@@ -15,7 +15,7 @@ Economy Discount Liquors is a liquor store in Gary, IN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/economy-discount-liquors-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/economy-discount-liquors-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12821284481 (license ODbL-1.0); source data as of 2026-06-01

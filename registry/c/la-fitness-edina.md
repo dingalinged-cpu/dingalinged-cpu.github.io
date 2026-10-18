@@ -15,7 +15,7 @@ LA Fitness is a gym in Edina, MN at 4175 West 76th Street, Edina, MN 55435. Phon
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/52868477 (license ODbL-1.0); source data as of 2026-07-15

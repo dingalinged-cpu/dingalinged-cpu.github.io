@@ -15,7 +15,7 @@ Little Explorers Academy is a daycare in Norridge, IL at 7830 West Lawrence Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/little-explorers-academy-norridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/little-explorers-academy-norridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1334373930 (license ODbL-1.0); source data as of 2026-07-28

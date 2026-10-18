@@ -15,7 +15,7 @@ Great Clips is a hair salon in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-chicago-n9398303362/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-chicago-n9398303362.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9398303362 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Bay Area Cleaners is a dry cleaner in Webster, TX.
+
+# Bay Area Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Webster, TX
+- City: Webster
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.5462684, -95.1314573
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bay-area-cleaners-webster/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bay-area-cleaners-webster.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5181005501 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ City Paws Pet Club is a dog boarding facility in Minneapolis, MN at 5300 Lyndale
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/city-paws-pet-club-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/city-paws-pet-club-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/80751549 (license ODbL-1.0); source data as of 2026-07-24

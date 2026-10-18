@@ -15,7 +15,7 @@ Sew What! is a tailor in Saint Paul, MN at 1818 Saint Clair Avenue, Saint Paul, 
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-17:30; Sa 10:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sew-what-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sew-what-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12271486109 (license ODbL-1.0); source data as of 2026-07-24

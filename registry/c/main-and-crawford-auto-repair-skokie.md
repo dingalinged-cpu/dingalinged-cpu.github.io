@@ -15,7 +15,7 @@ Main & Crawford Auto Repair is an auto repair shop in Skokie, IL at 8359 Crawfor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/main-and-crawford-auto-repair-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/main-and-crawford-auto-repair-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/157285283 (license ODbL-1.0); source data as of 2026-06-01

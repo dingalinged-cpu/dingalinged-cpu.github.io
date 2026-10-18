@@ -15,7 +15,7 @@ Great Clips is a hair salon in Elmhurst, IL at 275 North York Street, Elmhurst, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-elmhurst/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-elmhurst.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7502295866 (license ODbL-1.0); source data as of 2026-06-01

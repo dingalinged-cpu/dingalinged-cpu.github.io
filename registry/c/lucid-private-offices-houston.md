@@ -1,0 +1,23 @@
+Lucid Private Offices is a coworking space in Houston, TX at 5718 Westheimer Road #Suite 1000, Houston, TX 77057. Phone: +17133527002. Website: https://www.lucidprivateoffices.com/texas/houston/5718-westheimer-road/.
+
+# Lucid Private Offices
+
+- Category: coworking space
+- Services: coworking space
+- Address: 5718 Westheimer Road #Suite 1000, Houston, TX 77057
+- City: Houston
+- State: TX
+- ZIP: 77057
+- Coordinates: 29.7384047, -95.4788814
+- Phone: +17133527002
+- Website: https://www.lucidprivateoffices.com/texas/houston/5718-westheimer-road/
+- Email: Workisgood@lucidprivateoffices.com
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lucid-private-offices-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lucid-private-offices-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13503273672 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

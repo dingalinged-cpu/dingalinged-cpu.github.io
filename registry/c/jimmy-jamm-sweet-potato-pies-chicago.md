@@ -15,7 +15,7 @@ Jimmy Jamm Sweet Potato Pies is a bakery in Chicago, IL at 1844 West 95th Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jimmy-jamm-sweet-potato-pies-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jimmy-jamm-sweet-potato-pies-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6318871215 (license ODbL-1.0); source data as of 2026-06-01

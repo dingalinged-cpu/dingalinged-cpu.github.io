@@ -15,7 +15,7 @@ Mall of America Gift Store is a gift shop in Bloomington, MN at 225 South Avenue
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mall-of-america-gift-store-bloomington-n5739830047/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mall-of-america-gift-store-bloomington-n5739830047.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5739830047 (license ODbL-1.0); source data as of 2026-06-01

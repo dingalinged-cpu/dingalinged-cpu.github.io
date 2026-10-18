@@ -15,7 +15,7 @@ The Stein Center for Advanced Dentistry is a dentist in Skokie, IL at 4000 Churc
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-stein-center-for-advanced-dentistry-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-stein-center-for-advanced-dentistry-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1341839431 (license ODbL-1.0); source data as of 2026-07-28

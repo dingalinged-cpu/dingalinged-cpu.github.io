@@ -1,0 +1,205 @@
+{
+ "place": "Seagoville, TX",
+ "slug": "seagoville-tx",
+ "count": 6,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "car wash seagoville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-seagoville-tx.json"
+  },
+  {
+   "keyword": "gym seagoville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-seagoville-tx.json"
+  },
+  {
+   "keyword": "hair salon seagoville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-seagoville-tx.json"
+  },
+  {
+   "keyword": "haircut seagoville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-seagoville-tx.json"
+  },
+  {
+   "keyword": "tax preparation seagoville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-seagoville-tx.json"
+  },
+  {
+   "keyword": "tax preparer seagoville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-seagoville-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "anytime-fitness-seagoville",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Seagoville, TX at 380 North Highway 175, Seagoville, TX 75159. Phone: +19725678090. Website: https://www.anytimefitness.com/gyms/3913/seagoville-tx-75159/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-seagoville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-seagoville.json",
+   "address": {
+    "streetAddress": "380 North Highway 175",
+    "addressLocality": "Seagoville",
+    "addressRegion": "TX",
+    "postalCode": "75159",
+    "addressCountry": "US"
+   },
+   "city": "Seagoville",
+   "state": "TX",
+   "zip": "75159",
+   "geo": {
+    "lat": 32.6488777,
+    "lon": -96.5378707
+   },
+   "phone": "+19725678090",
+   "website": "https://www.anytimefitness.com/gyms/3913/seagoville-tx-75159/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/706831870",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chevron-car-wash-inc-short-visits-seagoville",
+   "name": "Chevron Car Wash (Inc. Short-Visits)",
+   "summary": "Chevron Car Wash (Inc. Short-Visits) is a car wash in Seagoville, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chevron-car-wash-inc-short-visits-seagoville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chevron-car-wash-inc-short-visits-seagoville.json",
+   "address": {
+    "addressLocality": "Seagoville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Seagoville",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6479637,
+    "lon": -96.5342627
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1069564569",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-seagoville",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Seagoville, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-seagoville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-seagoville.json",
+   "address": {
+    "addressLocality": "Seagoville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Seagoville",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6482007,
+    "lon": -96.5351403
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6397227215",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-and-r-block-seagoville",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Seagoville, TX.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-seagoville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-seagoville.json",
+   "address": {
+    "addressLocality": "Seagoville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Seagoville",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6484595,
+    "lon": -96.5366312
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6397227211",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hartis-car-wash-seagoville",
+   "name": "Hartis Car Wash",
+   "summary": "Hartis Car Wash is a car wash in Seagoville, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hartis-car-wash-seagoville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hartis-car-wash-seagoville.json",
+   "address": {
+    "addressLocality": "Seagoville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Seagoville",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6393283,
+    "lon": -96.5384986
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7099969156",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "shell-seagoville",
+   "name": "Shell",
+   "summary": "Shell is a car wash in Seagoville, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-seagoville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-seagoville.json",
+   "address": {
+    "addressLocality": "Seagoville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Seagoville",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6480517,
+    "lon": -96.5326597
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1377889041",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

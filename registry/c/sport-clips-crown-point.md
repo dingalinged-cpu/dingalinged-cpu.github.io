@@ -15,7 +15,7 @@ Sport Clips is a hair salon in Crown Point, IN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sport-clips-crown-point/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-crown-point.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6871687782 (license ODbL-1.0); source data as of 2026-06-01

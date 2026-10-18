@@ -15,7 +15,7 @@ H&R Block is a tax preparation service in Chicago, IL at 10612 South Ewing Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/h-and-r-block-chicago-n6565178915/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-chicago-n6565178915.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6565178915 (license ODbL-1.0); source data as of 2026-07-28

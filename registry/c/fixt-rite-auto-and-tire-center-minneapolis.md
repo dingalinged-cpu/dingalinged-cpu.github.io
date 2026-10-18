@@ -15,7 +15,7 @@ Fixt Rite Auto & Tire Center is an auto repair shop in Minneapolis, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fixt-rite-auto-and-tire-center-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fixt-rite-auto-and-tire-center-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4882392406 (license ODbL-1.0); source data as of 2026-06-01

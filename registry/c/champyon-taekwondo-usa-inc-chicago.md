@@ -15,7 +15,7 @@ Champyon Taekwondo USA Inc. is a martial arts school in Chicago, IL at 3657 East
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/champyon-taekwondo-usa-inc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/champyon-taekwondo-usa-inc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211386341 (license ODbL-1.0); source data as of 2026-07-28

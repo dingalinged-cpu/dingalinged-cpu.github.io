@@ -15,7 +15,7 @@ Irpino Real Estate is a real estate agency in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/irpino-real-estate-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/irpino-real-estate-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11242060734 (license ODbL-1.0); source data as of 2026-07-28

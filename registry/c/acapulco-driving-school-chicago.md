@@ -15,7 +15,7 @@ Acapulco Driving School is a driving school in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/acapulco-driving-school-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/acapulco-driving-school-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/354228067 (license ODbL-1.0); source data as of 2026-07-28

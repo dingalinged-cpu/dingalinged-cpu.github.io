@@ -15,7 +15,7 @@ North Minneapolis Pet Resource Center is a pet store in Minneapolis, MN at 2825 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/north-minneapolis-pet-resource-center-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-minneapolis-pet-resource-center-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13682059276 (license ODbL-1.0); source data as of 2026-06-01

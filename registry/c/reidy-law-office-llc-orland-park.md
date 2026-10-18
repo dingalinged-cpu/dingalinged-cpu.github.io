@@ -15,7 +15,7 @@ Reidy Law Office LLC is a lawyer in Orland Park, IL at 11528 W. 183rd Place #Sui
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/reidy-law-office-llc-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/reidy-law-office-llc-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9792856894 (license ODbL-1.0); source data as of 2026-07-28

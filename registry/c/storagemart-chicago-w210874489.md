@@ -15,7 +15,7 @@ StorageMart is a self-storage facility in Chicago, IL at 6714 South Cottage Grov
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/storagemart-chicago-w210874489/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/storagemart-chicago-w210874489.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210874489 (license ODbL-1.0); source data as of 2026-06-01

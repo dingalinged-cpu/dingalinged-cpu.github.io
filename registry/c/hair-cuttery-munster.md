@@ -15,7 +15,7 @@ Hair Cuttery is a hair salon in Munster, IN at 7944 Calumet Avenue, Munster, IN 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hair-cuttery-munster/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hair-cuttery-munster.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12639386323 (license ODbL-1.0); source data as of 2026-06-01

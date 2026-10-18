@@ -15,7 +15,7 @@ Marky Booth Photo Booth Rental | Chicago is a photographer in Villa Park, IL at 
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/marky-booth-photo-booth-rental-chicago-villa-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/marky-booth-photo-booth-rental-chicago-villa-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13235277878 (license ODbL-1.0); source data as of 2026-06-01

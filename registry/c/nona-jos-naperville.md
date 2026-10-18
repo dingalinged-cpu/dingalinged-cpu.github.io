@@ -15,7 +15,7 @@ Nona Jo's is a gift shop in Naperville, IL at 410 West 5th Avenue, Naperville, I
 - Opening hours (OSM syntax): Mo-Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nona-jos-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nona-jos-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8307889445 (license ODbL-1.0); source data as of 2026-06-01

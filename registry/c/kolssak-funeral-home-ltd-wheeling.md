@@ -15,7 +15,7 @@ Kolssak Funeral Home Ltd. is a funeral home in Wheeling, IL at 189 South Milwauk
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kolssak-funeral-home-ltd-wheeling/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kolssak-funeral-home-ltd-wheeling.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1222805076 (license ODbL-1.0); source data as of 2026-06-01

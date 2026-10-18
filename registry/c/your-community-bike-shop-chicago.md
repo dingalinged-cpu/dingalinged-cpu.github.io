@@ -15,7 +15,7 @@ Your Community Bike Shop is a bike shop in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/your-community-bike-shop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/your-community-bike-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8987995665 (license ODbL-1.0); source data as of 2026-06-01

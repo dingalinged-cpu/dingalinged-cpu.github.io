@@ -1,0 +1,23 @@
+Bayou City Smiles is a dentist in Houston, TX at 2313 Edwards Street, Houston, TX.
+
+# Bayou City Smiles
+
+- Category: dentist
+- Services: dentist
+- Address: 2313 Edwards Street, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7701433, -95.381667
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bayou-city-smiles-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bayou-city-smiles-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7044905588 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

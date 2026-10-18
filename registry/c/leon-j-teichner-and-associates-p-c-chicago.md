@@ -15,7 +15,7 @@ Leon J. Teichner & Associates, P.C. is a lawyer in Chicago, IL at 161 North Clar
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/leon-j-teichner-and-associates-p-c-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/leon-j-teichner-and-associates-p-c-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4455001433 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+Anytime Fitness is a gym in Irving, TX at 3401 West Airport Freeway #216, Irving, TX 75062. Phone: +19722327755. Website: https://www.anytimefitness.com/gyms/4106/irving-tx-75062/.
+
+# Anytime Fitness
+
+- Category: gym
+- Services: gym
+- Address: 3401 West Airport Freeway #216, Irving, TX 75062
+- City: Irving
+- State: TX
+- ZIP: 75062
+- Coordinates: 32.8395811, -96.9917849
+- Phone: +19722327755
+- Website: https://www.anytimefitness.com/gyms/4106/irving-tx-75062/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 11:00-19:00; Fr-Sa 11:00-14:00; 24/7 open "Member Access."
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-irving-n10627271419/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-irving-n10627271419.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10627271419 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Tune Up The Manly Salon is a hair salon in Richmond, TX at 4828 Waterview Town Center Drive, Richmond, TX 77407.
+
+# Tune Up The Manly Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 4828 Waterview Town Center Drive, Richmond, TX 77407
+- City: Richmond
+- State: TX
+- ZIP: 77407
+- Coordinates: 29.6603602, -95.7164104
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/tune-up-the-manly-salon-richmond/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tune-up-the-manly-salon-richmond.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1330306439 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

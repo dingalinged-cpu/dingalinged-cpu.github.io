@@ -15,7 +15,7 @@ State Farm is an insurance agent in Chicago, IL at 5372 North Milwaukee Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-chicago-w163221273/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-chicago-w163221273.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163221273 (license ODbL-1.0); source data as of 2026-07-28

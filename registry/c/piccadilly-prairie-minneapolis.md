@@ -15,7 +15,7 @@ Piccadilly Prairie is a gift shop in Minneapolis, MN at 4306 Upton Avenue South,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/piccadilly-prairie-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/piccadilly-prairie-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3532499003 (license ODbL-1.0); source data as of 2026-06-01

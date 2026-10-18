@@ -15,7 +15,7 @@ Allstate Insurance is an insurance agent in Park Ridge, IL at 15 South Fairview 
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa "by appointment"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-insurance-park-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-insurance-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12381314697 (license ODbL-1.0); source data as of 2026-07-28

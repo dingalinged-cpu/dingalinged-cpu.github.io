@@ -15,7 +15,7 @@ Mattress Firm is a mattress store in Darien, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-darien/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-darien.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5256927988 (license ODbL-1.0); source data as of 2026-06-01

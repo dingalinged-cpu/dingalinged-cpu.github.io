@@ -15,7 +15,7 @@ Southport Hair Studio on Belmont is a hair salon in Chicago, IL at 1832 West Bel
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/southport-hair-studio-on-belmont-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/southport-hair-studio-on-belmont-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4586489016 (license ODbL-1.0); source data as of 2026-06-01

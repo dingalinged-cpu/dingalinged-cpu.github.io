@@ -15,7 +15,7 @@ RCB Tire Shop is a tire shop in Chicago, IL at 9415 South Commercial Avenue, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rcb-tire-shop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rcb-tire-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211352909 (license ODbL-1.0); source data as of 2026-06-01

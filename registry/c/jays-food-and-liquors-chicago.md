@@ -15,7 +15,7 @@ Jay's Food & Liquors is a liquor store in Chicago, IL at 5226 North Nagle Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jays-food-and-liquors-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jays-food-and-liquors-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4251831569 (license ODbL-1.0); source data as of 2026-06-01

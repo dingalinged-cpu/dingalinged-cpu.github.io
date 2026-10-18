@@ -15,7 +15,7 @@ Uptown Chiropractic is a chiropractor in Minneapolis, MN at 1221 West Lake Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/uptown-chiropractic-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/uptown-chiropractic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11004566370 (license ODbL-1.0); source data as of 2026-06-01

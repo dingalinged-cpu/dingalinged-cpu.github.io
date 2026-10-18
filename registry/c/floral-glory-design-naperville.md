@@ -15,7 +15,7 @@ Floral Glory Design is a florist in Naperville, IL at 1460 East Chicago Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/floral-glory-design-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/floral-glory-design-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1421473669 (license ODbL-1.0); source data as of 2026-06-01

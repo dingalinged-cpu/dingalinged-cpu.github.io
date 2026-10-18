@@ -1,0 +1,23 @@
+State Farm is an insurance agent in Cedar Hill, TX at 103 East Belt Line Road #M, Cedar Hill, TX 75104. Phone: +14692720101. Website: https://insurancequotedallas.com/.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 103 East Belt Line Road #M, Cedar Hill, TX 75104
+- City: Cedar Hill
+- State: TX
+- ZIP: 75104
+- Coordinates: 32.5906491, -96.9413256
+- Phone: +14692720101
+- Website: https://insurancequotedallas.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00 || "by appointment"
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-cedar-hill-n13474096768/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-cedar-hill-n13474096768.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13474096768 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

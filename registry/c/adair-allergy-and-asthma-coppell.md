@@ -1,0 +1,23 @@
+Adair Allergy & Asthma is an allergist in Coppell, TX.
+
+# Adair Allergy & Asthma
+
+- Category: allergist
+- Services: allergist
+- Address: Coppell, TX
+- City: Coppell
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.9861426, -96.9949929
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Tu 08:00-17:00; We 07:15-16:30; Th,Sa-Su off; Fr 08:00-17:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/adair-allergy-and-asthma-coppell/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/adair-allergy-and-asthma-coppell.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13076411214 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

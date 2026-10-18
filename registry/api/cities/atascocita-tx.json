@@ -1,0 +1,74 @@
+{
+ "place": "Atascocita, TX",
+ "slug": "atascocita-tx",
+ "count": 2,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [],
+ "companies": [
+  {
+   "slug": "the-overlook-atascocita",
+   "name": "The Overlook",
+   "summary": "The Overlook is an event venue in Atascocita, TX at 20114 Pinehurst Drive, Atascocita, TX 77346. Website: https://theoverlookevents.com/contact/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-overlook-atascocita/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-overlook-atascocita.json",
+   "address": {
+    "streetAddress": "20114 Pinehurst Drive",
+    "addressLocality": "Atascocita",
+    "addressRegion": "TX",
+    "postalCode": "77346",
+    "addressCountry": "US"
+   },
+   "city": "Atascocita",
+   "state": "TX",
+   "zip": "77346",
+   "geo": {
+    "lat": 30.0134636,
+    "lon": -95.1602104
+   },
+   "website": "https://theoverlookevents.com/contact/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9919959698",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "better-medicine-today-atascocita",
+   "name": "Better Medicine Today",
+   "summary": "Better Medicine Today is a family medicine practice in Atascocita, TX at 5132 Atascocita Road #Suite A, Atascocita, TX 77346.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/better-medicine-today-atascocita/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/better-medicine-today-atascocita.json",
+   "address": {
+    "streetAddress": "5132 Atascocita Road #Suite A",
+    "addressLocality": "Atascocita",
+    "addressRegion": "TX",
+    "postalCode": "77346",
+    "addressCountry": "US"
+   },
+   "city": "Atascocita",
+   "state": "TX",
+   "zip": "77346",
+   "geo": {
+    "lat": 29.9863327,
+    "lon": -95.1974723
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1533077943",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

@@ -15,7 +15,7 @@ Yonan Carpet One is a flooring company in Downers Grove, IL at 730 Ogden Avenue,
 - Opening hours (OSM syntax): Mo-Th 09:00-19:00; Fr-Sa 09:00-18:00; PH,Su closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/yonan-carpet-one-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/yonan-carpet-one-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10295606489 (license ODbL-1.0); source data as of 2026-06-01

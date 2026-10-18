@@ -15,7 +15,7 @@ The Skin Bar at Ulta Beauty is a skin care studio in Chicago, IL at 430 North Mi
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-skin-bar-at-ulta-beauty-chicago-n12057987632/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-skin-bar-at-ulta-beauty-chicago-n12057987632.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12057987632 (license ODbL-1.0); source data as of 2026-06-01

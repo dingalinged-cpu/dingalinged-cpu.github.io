@@ -15,7 +15,7 @@ Central Avenue Liquors is a liquor store in Minneapolis, MN at 2538 Central Aven
 - Opening hours (OSM syntax): Mo-Sa 10:00-22:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/central-avenue-liquors-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/central-avenue-liquors-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/310502459 (license ODbL-1.0); source data as of 2026-06-01

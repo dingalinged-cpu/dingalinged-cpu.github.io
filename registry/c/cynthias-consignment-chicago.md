@@ -15,7 +15,7 @@ Cynthia's Consignment is a thrift store in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cynthias-consignment-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cynthias-consignment-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12463971378 (license ODbL-1.0); source data as of 2026-06-01

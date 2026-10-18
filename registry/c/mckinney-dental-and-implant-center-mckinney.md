@@ -1,0 +1,23 @@
+McKinney Dental & Implant Center is a dentist in McKinney, TX at 3100 Ridge Road #300, McKinney, TX 75070. Phone: +19728336825. Website: https://mckinneyddscenter.com/.
+
+# McKinney Dental & Implant Center
+
+- Category: dentist
+- Services: dentist
+- Address: 3100 Ridge Road #300, McKinney, TX 75070
+- City: McKinney
+- State: TX
+- ZIP: 75070
+- Coordinates: 33.1726406, -96.6988167
+- Phone: +19728336825
+- Website: https://mckinneyddscenter.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mckinney-dental-and-implant-center-mckinney/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mckinney-dental-and-implant-center-mckinney.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9356256002 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

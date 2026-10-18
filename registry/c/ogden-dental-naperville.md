@@ -15,7 +15,7 @@ Ogden Dental is a dentist in Naperville, IL at 1767 West Ogden Avenue #123, Nape
 - Opening hours (OSM syntax): Mo-We 08:00-19:00; Th 09:00-19:00; Fr 08:00-13:00; Sa 09:00-13:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ogden-dental-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ogden-dental-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1034671594 (license ODbL-1.0); source data as of 2026-07-28

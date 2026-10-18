@@ -15,7 +15,7 @@ Sustainable 9 Design + Build is an architect in Minneapolis, MN at 3511 West 44t
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sustainable-9-design-build-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sustainable-9-design-build-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1308879559 (license ODbL-1.0); source data as of 2026-05-31

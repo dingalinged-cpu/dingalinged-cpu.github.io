@@ -15,7 +15,7 @@ Vaupell Auto Repair is an auto repair shop in La Grange Park, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vaupell-auto-repair-la-grange-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vaupell-auto-repair-la-grange-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/967841477 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Whetstone Land is a real estate agency in Minneapolis, MN at 5123 West 98th Stre
 - Opening hours (OSM syntax): Mo - Fr 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/whetstone-land-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/whetstone-land-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11434342042 (license ODbL-1.0); source data as of 2026-05-31

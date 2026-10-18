@@ -15,7 +15,7 @@ Lifetime Dentistry of Skokie is a dentist in Skokie, IL at 4709 Golf Road #112, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lifetime-dentistry-of-skokie-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lifetime-dentistry-of-skokie-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13156113279 (license ODbL-1.0); source data as of 2026-07-28

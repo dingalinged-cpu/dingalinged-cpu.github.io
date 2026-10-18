@@ -15,7 +15,7 @@ MilleFiori is a florist in Evanston, IL at 1943 Central Street, Evanston, IL 602
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/millefiori-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/millefiori-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2295252499 (license ODbL-1.0); source data as of 2026-06-01

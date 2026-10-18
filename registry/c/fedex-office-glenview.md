@@ -15,7 +15,7 @@ FedEx Office is a printing service in Glenview, IL at 1623 Waukegan Road, Glenvi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fedex-office-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7798850154 (license ODbL-1.0); source data as of 2026-06-01

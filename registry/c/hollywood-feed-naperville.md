@@ -15,7 +15,7 @@ Hollywood Feed is a pet store in Naperville, IL at 1212 South Naper Boulevard #1
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hollywood-feed-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hollywood-feed-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1441749335 (license ODbL-1.0); source data as of 2026-06-01

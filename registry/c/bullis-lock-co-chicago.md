@@ -15,7 +15,7 @@ Bullis Lock Co. is a locksmith in Chicago, IL at 4350 West Addison Street, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bullis-lock-co-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bullis-lock-co-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162452304 (license ODbL-1.0); source data as of 2026-06-01

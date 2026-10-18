@@ -15,7 +15,7 @@ George W Lutz Family Center is a preschool in Highland Park, IL at 800 Clavey Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/george-w-lutz-family-center-highland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/george-w-lutz-family-center-highland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1174068468 (license ODbL-1.0); source data as of 2026-07-28

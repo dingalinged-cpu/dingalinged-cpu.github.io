@@ -15,7 +15,7 @@ Berg Roofing and Home Improvement is a roofer in Downers Grove, IL at 900 Ogden 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/berg-roofing-and-home-improvement-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/berg-roofing-and-home-improvement-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2884134407 (license ODbL-1.0); source data as of 2026-06-01

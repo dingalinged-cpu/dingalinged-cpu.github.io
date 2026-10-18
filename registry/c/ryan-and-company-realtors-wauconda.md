@@ -15,7 +15,7 @@ Ryan & Company Realtors is a real estate agency in Wauconda, IL at 206 North Mai
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ryan-and-company-realtors-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ryan-and-company-realtors-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9816445994 (license ODbL-1.0); source data as of 2026-07-28

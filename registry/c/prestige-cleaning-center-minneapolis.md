@@ -15,7 +15,7 @@ Prestige Cleaning Center is a dry cleaner in Minneapolis, MN at 3711 West 44th S
 - Opening hours (OSM syntax): Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/prestige-cleaning-center-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/prestige-cleaning-center-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/166541946 (license ODbL-1.0); source data as of 2026-06-01

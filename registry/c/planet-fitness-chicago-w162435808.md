@@ -15,7 +15,7 @@ Planet Fitness is a gym in Chicago, IL at 3120 North Pulaski Road, Chicago, IL 6
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-chicago-w162435808/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-chicago-w162435808.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162435808 (license ODbL-1.0); source data as of 2026-06-01

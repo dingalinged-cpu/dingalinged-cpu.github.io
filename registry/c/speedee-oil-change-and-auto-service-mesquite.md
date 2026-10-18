@@ -1,0 +1,23 @@
+SpeeDee Oil Change & Auto Service is an auto repair shop in Mesquite, TX at 2412 North Galloway Avenue, Mesquite, TX 75150.
+
+# SpeeDee Oil Change & Auto Service
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2412 North Galloway Avenue, Mesquite, TX 75150
+- City: Mesquite
+- State: TX
+- ZIP: 75150
+- Coordinates: 32.7984351, -96.6113431
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/speedee-oil-change-and-auto-service-mesquite/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/speedee-oil-change-and-auto-service-mesquite.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/652961052 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ L.A. Tan is a tanning salon in Burbank, IL at 5404 79th Street, Burbank, IL 6045
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa-Su 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/l-a-tan-burbank/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/l-a-tan-burbank.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11388698572 (license ODbL-1.0); source data as of 2026-06-01

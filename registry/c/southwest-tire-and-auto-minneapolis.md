@@ -15,7 +15,7 @@ Southwest Tire & Auto is a tire shop in Minneapolis, MN at 5009 Xerxes Avenue So
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/southwest-tire-and-auto-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/southwest-tire-and-auto-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1284649079 (license ODbL-1.0); source data as of 2026-06-01

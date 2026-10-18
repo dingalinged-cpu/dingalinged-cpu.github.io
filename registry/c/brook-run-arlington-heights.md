@@ -15,7 +15,7 @@ Brook Run is a property management company in Arlington Heights, IL at 2734 Nort
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brook-run-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brook-run-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1428791829 (license ODbL-1.0); source data as of 2026-07-28

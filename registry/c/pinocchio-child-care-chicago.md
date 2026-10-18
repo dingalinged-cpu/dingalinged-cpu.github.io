@@ -15,7 +15,7 @@ Pinocchio Child Care is a preschool in Chicago, IL at 5932-5936 West Gunnison St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pinocchio-child-care-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pinocchio-child-care-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/412235707 (license ODbL-1.0); source data as of 2026-07-28

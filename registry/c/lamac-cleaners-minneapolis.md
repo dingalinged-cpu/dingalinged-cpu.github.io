@@ -15,7 +15,7 @@ LaMac Cleaners is a dry cleaner in Minneapolis, MN. Phone: +16128235559. Website
 - Opening hours (OSM syntax): Mo-Sa 08:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lamac-cleaners-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lamac-cleaners-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/241675551 (license ODbL-1.0); source data as of 2026-06-01

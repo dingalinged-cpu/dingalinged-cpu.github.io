@@ -15,7 +15,7 @@ Bella Cosa Jewelers is a jewelry store in Willowbrook, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bella-cosa-jewelers-willowbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bella-cosa-jewelers-willowbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5311289147 (license ODbL-1.0); source data as of 2026-06-01

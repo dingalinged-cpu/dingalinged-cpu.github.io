@@ -15,7 +15,7 @@ Moses Eye Care Center is an eye care practice in Gary, IN at 701 West 5th Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/moses-eye-care-center-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/moses-eye-care-center-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/203530346 (license ODbL-1.0); source data as of 2026-07-28

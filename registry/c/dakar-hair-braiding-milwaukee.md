@@ -1,0 +1,23 @@
+Dakar Hair Braiding is a hair salon in Milwaukee, WI at 4710 West Fond du Lac Avenue, Milwaukee, WI 53216. Phone: +14144448325.
+
+# Dakar Hair Braiding
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 4710 West Fond du Lac Avenue, Milwaukee, WI 53216
+- City: Milwaukee
+- State: WI
+- ZIP: 53216
+- Coordinates: 43.0870793, -87.9723491
+- Phone: +14144448325
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/dakar-hair-braiding-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dakar-hair-braiding-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12281531179 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

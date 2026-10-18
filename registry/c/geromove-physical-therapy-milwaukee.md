@@ -1,0 +1,23 @@
+Geromove Physical Therapy is an occupational therapist in Milwaukee, WI at 763 North Broadway, Milwaukee, WI 53202. Phone: +14148567044. Website: https://www.geromove.com/contact-downtown-milwaukee.
+
+# Geromove Physical Therapy
+
+- Category: occupational therapist
+- Services: occupational therapist
+- Address: 763 North Broadway, Milwaukee, WI 53202
+- City: Milwaukee
+- State: WI
+- ZIP: 53202
+- Coordinates: 43.0402677, -87.9081813
+- Phone: +14148567044
+- Website: https://www.geromove.com/contact-downtown-milwaukee
+- Email: info@geromove.com
+- Opening hours (OSM syntax): Mo-Fr 07:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/geromove-physical-therapy-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/geromove-physical-therapy-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3966671173 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

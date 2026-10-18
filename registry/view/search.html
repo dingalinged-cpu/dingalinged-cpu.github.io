@@ -1,0 +1,120 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><meta name="googlebot" content="noindex,nofollow"><link rel="canonical" href="https://dingalinged-cpu.github.io/registry/market/">
+<title>Keyword lookup - Company Registry</title>
+<style>
+*{box-sizing:border-box}body{font:16px/1.5 system-ui,-apple-system,sans-serif;max-width:900px;margin:0 auto;padding:16px;color:#1a1a1a;background:#fafaf7}
+h1{font-size:26px;margin:.2em 0}h2{font-size:19px;margin:1.4em 0 .4em;border-bottom:1px solid #ddd;padding-bottom:4px}a{color:#0b57d0}
+nav{font-size:14px;margin-bottom:6px}nav a{margin-right:12px}
+.muted{color:#666;font-size:14px}.small{font-size:13px;color:#666}
+.card{background:#fff;border:1px solid #e3e3dc;border-radius:10px;padding:14px;margin:10px 0}
+.sb{position:relative;margin:12px 0}
+#q{width:100%;padding:14px 44px 14px 14px;font-size:18px;border:2px solid #c9c9c0;border-radius:10px;background:#fff;outline:none}#q:focus{border-color:#0b57d0}
+#clr{position:absolute;right:8px;top:9px;border:0;background:none;font-size:22px;color:#888;cursor:pointer;padding:4px 8px;display:none}
+#sug{position:absolute;left:0;right:0;top:100%;z-index:5;background:#fff;border:1px solid #d6d6cf;border-radius:0 0 10px 10px;margin:-2px 0 0;padding:0;list-style:none;box-shadow:0 6px 18px rgba(0,0,0,.08);display:none}
+#sug li{padding:11px 14px;cursor:pointer;border-top:1px solid #f0f0ea}#sug li:first-child{border-top:0}#sug li.on,#sug li:hover{background:#eef3fd}
+.chips{display:flex;flex-wrap:wrap;gap:6px}.chip{border:1px solid #d6d6cf;background:#fff;border-radius:99px;padding:5px 12px;font-size:14px;cursor:pointer;color:#1a1a1a}
+.kw{font-size:22px;font-weight:700;margin:0}.sub{color:#666;font-size:14px;margin:2px 0 8px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:8px;margin:10px 0}
+.m{border:1px solid #ecece5;border-radius:9px;padding:10px 12px;background:#fcfcfa}.m .l{font-size:13px;color:#555}.m .v{font-size:24px;font-weight:700;line-height:1.25}.m .u{font-size:13px;color:#666}
+.tag{display:inline-block;font-size:11px;font-weight:600;padding:1px 7px;border-radius:99px;margin-left:4px;vertical-align:2px}.pub{background:#e3f1e6;color:#1d6b32}.est{background:#fff1d6;color:#8a5a00}
+.bid{display:block;text-align:center;background:#0b57d0;color:#fff;text-decoration:none;font-weight:600;font-size:17px;border-radius:10px;padding:13px;margin:12px 0 6px}
+.auc{border:2px solid #d9a400;background:#fff8e1}
+.note{background:#eef3fd;border-radius:8px;padding:8px 10px;font-size:14px;margin:6px 0}
+ol.src{padding-left:20px;margin:6px 0}ol.src li{font-size:13px;color:#444;margin:6px 0}
+details summary{cursor:pointer;font-weight:600;font-size:15px}
+@media(min-width:640px){.kw{font-size:26px}}
+</style></head><body>
+<nav><a href="index.html">Registry (human view)</a><a href="market.html">Rate card</a></nav>
+<h1>Keyword lookup</h1>
+<p class="muted">Type a keyword or phrase to see how many people search for it, what a click costs on Google Ads, what those clicks would cost per month, and our starting bid for the top sponsored spot.</p>
+<div class="sb"><input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="e.g. dentist minneapolis" aria-label="Keyword or phrase" aria-autocomplete="list" aria-controls="sug"><button id="clr" aria-label="Clear">&times;</button><ul id="sug" role="listbox"></ul></div>
+<div class="chips" id="ex"><span class="small" style="align-self:center">Try:</span></div>
+<div id="out"></div>
+<p class="small" style="margin-top:24px">Figures as of 2026-10-18. Search volumes are published figures (Google Keyword Planner, Semrush and others) where available, otherwise registry estimates, and each one is labeled. Estimates are rounded to 2 significant figures and are not quotes. Microsoft Ads (Bing) costs are not shown because our research has no separately sourced Microsoft Ads benchmark. &copy; Company Registry; per-keyword figures may be quoted with attribution.</p>
+<script src="search.js"></script>
+<script>
+(function(){
+var CFG={"bidEmail": "", "bidUrl": "", "repoIssues": "https://github.com/dingalinged-cpu/registry/issues/new", "name": "Company Registry"}, L=null, N=null, SH={}, cur=null, sel=-1, items=[], T=null;
+var $=function(id){return document.getElementById(id)}, q=$("q"), sug=$("sug"), out=$("out");
+var f=function(x){return x==null?"n/a":Number(x).toLocaleString("en-US")}, usd=function(x,d){return x==null?"n/a":"$"+Number(x).toLocaleString("en-US",{minimumFractionDigits:d||0,maximumFractionDigits:d||0})};
+var esc=function(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})};
+var T_=KW.title;
+function shard(base){var k=KW.shardKey(base);if(!SH[k])SH[k]=fetch("kw/s/"+k+".json").then(function(r){if(!r.ok)throw 0;return r.json()});return SH[k]}
+fetch("kw/n.json").then(function(r){return r.json()}).then(function(d){N=d;L=new KW.Lookup(d);
+  ["dentist minneapolis","personal injury lawyer","plumber near me","roofing contractor texas"].forEach(function(s){var b=document.createElement("button");b.className="chip";b.textContent=s;b.onclick=function(){q.value=s;go(s)};$("ex").appendChild(b)});
+  var u=new URLSearchParams(location.search).get("q")||decodeURIComponent((location.hash||"").slice(1)).replace(/-/g," ");if(u){q.value=u;go(u)}
+}).catch(function(){out.innerHTML='<div class="card">The keyword index did not load. Please reload the page.</div>'});
+function S(id,src){if(!src||!src[id])return"";var s=src[id];return' <a href="'+esc(s[1])+'" rel="noopener nofollow" target="_blank">'+esc(s[0])+(s[3]&&s[3]!==s[0]?" ("+esc(s[3])+")":"")+'</a>'+(s[2]?", as of "+esc(s[2]):"")}
+function render(query,p,e,src,G){
+  var v=KW.pickVariant(e,p.place),row=v.row,key=v.key,label=e?query:"";
+  var place=key.indexOf("|")>0?T_(key.split("|")[0])+", "+key.split("|")[1].toUpperCase():key?key.toUpperCase()+" (statewide)":"United States";
+  var kwName=p.base+(key?" "+key.replace("|"," "):""), V=e.v, P=e.p, Q=e.q, O=e.o, Tr=e.t, X=e.x;
+  var local=row[0], geo=row[1]!=null?G[row[1]]:null, ads=row[3], comp=row[4], fmin=row[5], smin=row[6], page=row[7], slug=kwName.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+  var A=KW.nextAuction(), n=[];
+  var pub='<span class="tag pub">Published</span>', est='<span class="tag est">Estimate</span>';
+  var h='<div class="card"><p class="kw">'+esc(kwName)+'</p><p class="sub">'+esc(e.i||"")+' &middot; '+esc(place)+'</p>';
+  var ig=p.place&&p.place.ignored&&p.place.ignored.length?p.place.ignored.join(" "):"", nt=v.note||"";
+  if(ig&&!p.place.city){nt='We don\u2019t have a local estimate for \u201c'+ig+'\u201d yet; showing '+(key?place:"US national")+' figures.'+(key?"":" Add a nearby large city for a local estimate.")}
+  else if(ig){nt=(nt?nt+" ":"")+'Words not used in the lookup: \u201c'+ig+'\u201d.'}
+  if(nt)h+='<div class="note">'+esc(nt)+'</div>';
+  h+='<div class="grid">';
+  h+='<div class="m"><div class="l">US monthly searches'+(V[1]?est:pub)+'</div><div class="v">'+f(V[0])+'</div><div class="u">'+(V[1]&&V[6]!=null?"likely range "+f(V[6])+"&ndash;"+f(V[7]):"per month, United States")+'</div></div>';
+  if(local!=null)h+='<div class="m"><div class="l">'+(row[2]===2?"Statewide":"Local metro")+' monthly searches'+est+'</div><div class="v">'+f(local)+'</div><div class="u">'+esc(geo||place)+'</div></div>';
+  else h+='<div class="m"><div class="l">Local monthly searches</div><div class="v" style="font-size:16px;font-weight:600;padding:5px 0">Add a city or state</div><div class="u">e.g. "'+esc(p.base)+' minneapolis"</div></div>';
+  h+='<div class="m"><div class="l">Cost per click, Google Ads'+pub+'</div><div class="v">'+usd(P[1],2)+'</div><div class="u">median &middot; low '+usd(P[0],2)+' &middot; high '+usd(P[2],2)+'</div></div>';
+  if(Q)h+='<div class="m"><div class="l">Google top-of-page bid'+pub+'</div><div class="v">'+usd(Q[0],2)+'&ndash;'+usd(Q[1],2)+'</div><div class="u">for "'+esc(Q[2])+'"</div></div>';
+  h+='<div class="m"><div class="l">Est. Google Ads cost / month'+est+'</div><div class="v">'+usd(ads)+'</div><div class="u">to buy the ad clicks '+(local!=null?"these local":"these")+' searchers make</div></div>';
+  h+='<div class="m"><div class="l">Competition'+(O?pub:"")+'</div><div class="v" style="text-transform:capitalize">'+esc(O?O[0]:"n/a")+'</div><div class="u">Google Ads advertiser density</div></div>';
+  h+='<div class="m"><div class="l">Trend'+(Tr?pub:"")+'</div><div class="v">'+(Tr?esc(Tr[1]):"n/a")+'</div><div class="u">'+(Tr?esc("2-yr growth, topic \u201c"+Tr[0]+"\u201d ("+Tr[2]+")"):"no published trend data")+'</div></div>';
+  h+='<div class="m"><div class="l">Registry businesses competing</div><div class="v">'+f(comp)+'</div><div class="u">listed for this keyword</div></div>';
+  h+='</div>';
+  h+='<div class="card auc" style="margin:8px 0"><div class="grid" style="margin:0"><div><div class="l small">Our Featured #1 starting bid</div><div class="v" style="font-size:26px;font-weight:700">'+usd(fmin)+'<span class="u" style="font-size:14px;font-weight:400"> / month</span></div><div class="small">Spots 2&ndash;4 from '+usd(smin)+' / month</div></div>'+
+     '<div><div class="l small">Next auction'+(A.open?" (open now)":"")+'</div><div style="font-weight:600">#1 spot: '+A.featured[0]+' to '+A.featured[1]+'</div><div class="small">Spots 2&ndash;4: '+A.spots[0]+' to '+A.spots[1]+'. Winners show all of '+A.display+'.</div></div></div></div>';
+  var subj="Bid: "+kwName, body="Keyword: "+kwName+"\nBusiness name:\nBusiness website:\nBid amount (USD/month, Featured #1 from "+usd(fmin)+", spots 2-4 from "+usd(smin)+"):\nContact email:\n";
+  var href=CFG.bidUrl?CFG.bidUrl+(CFG.bidUrl.indexOf("?")<0?"?":"&")+"keyword="+encodeURIComponent(kwName):CFG.bidEmail?"mailto:"+CFG.bidEmail+"?subject="+encodeURIComponent(subj)+"&body="+encodeURIComponent(body):CFG.repoIssues+"?title="+encodeURIComponent(subj)+"&body="+encodeURIComponent(body);
+  h+='<a class="bid" href="'+esc(href)+'" rel="noopener" target="_blank">Bid on this keyword</a>';
+  h+='<p class="small" style="text-align:center;margin:0">'+(page?'<a href="../k/'+esc(slug)+'/">See the live answer page for this keyword</a> &middot; ':"")+'<a href="market.html#'+esc(slug)+'">Rate card</a></p>';
+  // sources and methods
+  var M=N.m, s=[];
+  s.push("<b>US monthly searches:</b> "+(V[1]?"Registry estimate"+(V[8]?" ("+esc(V[8])+" confidence)":"")+": "+esc(V[5]||"")+".":"Published: "+esc(V[5]||"monthly searches")+(V[4]&&V[4]!==p.base?' for "'+esc(V[4])+'"':"")+"."+S(V[2],src)));
+  if(local!=null)s.push("<b>"+(row[2]===2?"Statewide":"Local metro")+" searches:</b> Registry estimate: "+esc(M[["local_metro","local_metro_suburb","local_state"][row[2]]]||"")+(geo?" Area: "+esc(geo)+".":""));
+  s.push("<b>Cost per click:</b> Published industry benchmark for "+esc(P[4]||e.i)+"; low and high are the range of the published median CPCs below, median is the most specific one. "+P[6].map(function(x){return esc(x[1])+" "+usd(x[0],2)+S(x[2],src)}).join("; ")+"."+(e.r?" The high also reflects a keyword-level CPC of "+usd(e.r[0],2)+" published by"+S(e.r[2],src)+(e.r[1]?" ("+esc(e.r[1])+")":"")+".":""));
+  if(Q)s.push('<b>Google top-of-page bid:</b> Published Google Keyword Planner top-of-page bid range for "'+esc(Q[2])+'".'+S(Q[3],src));
+  s.push("<b>Google Ads cost / month:</b> Registry estimate: "+esc(M.ads||"")+(X?" Click-through rate used: "+X[0]+"%"+S(X[1],src)+".":""));
+  s.push("<b>Microsoft Ads (Bing):</b> Not shown. Our research has no separately sourced Microsoft Ads benchmark; the published CPC medians above come from campaigns that include both Google and Microsoft Ads.");
+  if(O)s.push('<b>Competition:</b> Published: '+esc(O[4]||"competition level")+(O[2]?' for "'+esc(O[2])+'"':"")+"."+S(O[1],src));
+  s.push("<b>Trend:</b> "+(Tr?"Published topic growth over 2 years for \u201c"+esc(Tr[0])+"\u201d. "+esc(Tr[6]||"")+S(Tr[4],src):"No trend or seasonality data is published for this keyword in our sources."));
+  s.push("<b>Registry businesses competing:</b> "+esc(M.comp||"")+".");
+  s.push("<b>Starting bid:</b> "+esc(M.price||"")+". <b>Auction:</b> "+esc(M.auction||""));
+  h+='<details style="margin-top:12px"><summary>Source and method for each number</summary><ol class="src">'+s.map(function(x){return"<li>"+x+"</li>"}).join("")+'</ol></details></div>';
+  out.innerHTML=h;
+}
+function noHit(query,list){
+  var h='<div class="card"><b>No exact match for &ldquo;'+esc(query)+'&rdquo;.</b>';
+  if(list.length){h+='<p class="muted" style="margin:6px 0">Closest keywords we track:</p><div class="chips">'+list.map(function(b){return'<button class="chip" data-q="'+esc(b)+'">'+esc(b)+'</button>'}).join("")+'</div>'}
+  else h+='<p class="muted">We track '+N.b.length+' services across '+N.p.length+' cities and every state. Try a service such as &ldquo;roofer&rdquo; or &ldquo;family lawyer&rdquo;, optionally with a city.</p>';
+  out.innerHTML=h+'</div>';
+}
+out.addEventListener("click",function(ev){var b=ev.target.closest&&ev.target.closest(".chip");if(b&&b.dataset.q){var p=L.parse(query0);var plc=p.base?"":placeText(query0);q.value=b.dataset.q+(plc?" "+plc:"");go(q.value)}});
+var query0="";
+function placeText(qs){var t=KW.norm(qs).split(" ");var pl=L.matchPlace(KW.toks(qs,true));if(!pl.city&&!pl.state)return"";return(pl.city?pl.city+" ":"")+(pl.state||(pl.cityStates.length===1?pl.cityStates[0]:""))}
+function go(query){
+  hide(); query0=query; if(!L)return; var p=L.parse(query);
+  if(p.empty){out.innerHTML="";return}
+  try{history.replaceState(null,"","?q="+encodeURIComponent(query))}catch(e){}
+  if(!p.base){noHit(query,L.closest(query,8));return}
+  out.innerHTML='<div class="card muted">Looking up&hellip;</div>';
+  shard(p.base).then(function(sh){var e=sh.b[p.base];if(!e){noHit(query,L.closest(query,8));return}render(query,p,e,sh.S,sh.G)}).catch(function(){out.innerHTML='<div class="card">Could not load data for that keyword. Please try again.</div>'});
+}
+function hide(){sug.style.display="none";sel=-1}
+function show(list){items=list;sel=-1;if(!list.length){hide();return}sug.innerHTML=list.map(function(s,i){return'<li role="option" data-i="'+i+'">'+esc(s)+'</li>'}).join("");sug.style.display="block"}
+function hl(){[].forEach.call(sug.children,function(li,i){li.className=i===sel?"on":""})}
+q.addEventListener("input",function(){$("clr").style.display=q.value?"block":"none";clearTimeout(T);T=setTimeout(function(){if(!L)return;var p=L.parse(q.value);
+  if(p.base)shard(p.base).then(function(sh){show(L.suggest(q.value,sh.b[p.base]))}).catch(function(){show(L.suggest(q.value))});else show(L.suggest(q.value))},90)});
+q.addEventListener("keydown",function(e){var n=items.length;if(e.key==="ArrowDown"&&n){sel=(sel+1)%n;hl();e.preventDefault()}else if(e.key==="ArrowUp"&&n){sel=(sel-1+n)%n;hl();e.preventDefault()}
+  else if(e.key==="Enter"){if(sel>=0&&sug.style.display==="block")q.value=items[sel];go(q.value);e.preventDefault()}else if(e.key==="Escape")hide()});
+sug.addEventListener("mousedown",function(e){var li=e.target.closest("li");if(li){e.preventDefault();q.value=items[+li.dataset.i];go(q.value)}});
+q.addEventListener("blur",function(){setTimeout(hide,150)});
+$("clr").onclick=function(){q.value="";out.innerHTML="";hide();this.style.display="none";q.focus()};
+})();
+</script></body></html>

@@ -15,7 +15,7 @@ Burley's Hairsalon is a hair salon in Edina, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/burleys-hairsalon-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/burleys-hairsalon-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/488964811 (license ODbL-1.0); source data as of 2026-06-01

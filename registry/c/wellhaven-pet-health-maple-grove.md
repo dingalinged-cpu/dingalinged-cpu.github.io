@@ -15,7 +15,7 @@ WellHaven Pet Health is a veterinarian in Maple Grove, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wellhaven-pet-health-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wellhaven-pet-health-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5752836960 (license ODbL-1.0); source data as of 2026-07-24

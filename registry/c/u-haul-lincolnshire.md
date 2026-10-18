@@ -15,7 +15,7 @@ U-Haul is a self-storage facility in Lincolnshire, IL at 15948 West Aptakisic Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/u-haul-lincolnshire/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-haul-lincolnshire.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/422035669 (license ODbL-1.0); source data as of 2026-06-01

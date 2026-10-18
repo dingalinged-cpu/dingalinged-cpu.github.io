@@ -15,7 +15,7 @@ Barrington Orthopedic Specialists is an orthopedic surgeon in Buffalo Grove, IL 
 - Opening hours (OSM syntax): Mo-Th 8:00-18:30; Fr 8:00-17:00; Sa 8:00-24:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/barrington-orthopedic-specialists-buffalo-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/barrington-orthopedic-specialists-buffalo-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11382865936 (license ODbL-1.0); source data as of 2026-07-28

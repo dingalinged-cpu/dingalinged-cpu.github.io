@@ -1,0 +1,23 @@
+Brake Shop is an auto repair shop in Milwaukee, WI at 7665 West Appleton Avenue, Milwaukee, WI 53222.
+
+# Brake Shop
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 7665 West Appleton Avenue, Milwaukee, WI 53222
+- City: Milwaukee
+- State: WI
+- ZIP: 53222
+- Coordinates: 43.0942681, -88.008164
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/brake-shop-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/brake-shop-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12031093217 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

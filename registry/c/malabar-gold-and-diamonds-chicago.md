@@ -15,7 +15,7 @@ Malabar Gold and Diamonds is a jewelry store in Chicago, IL at 2652 West Devon A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/malabar-gold-and-diamonds-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/malabar-gold-and-diamonds-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209570274 (license ODbL-1.0); source data as of 2026-06-01

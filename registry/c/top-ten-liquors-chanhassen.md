@@ -15,7 +15,7 @@ Top Ten Liquors is a liquor store in Chanhassen, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/top-ten-liquors-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/297073750 (license ODbL-1.0); source data as of 2026-06-01

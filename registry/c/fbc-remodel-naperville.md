@@ -15,7 +15,7 @@ FBC Remodel is a general contractor in Naperville, IL at 425 Jackson Avenue, Nap
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fbc-remodel-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fbc-remodel-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/134264225 (license ODbL-1.0); source data as of 2026-06-01

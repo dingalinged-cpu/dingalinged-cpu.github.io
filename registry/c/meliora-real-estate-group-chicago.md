@@ -15,7 +15,7 @@ Meliora Real Estate Group is a real estate agency in Chicago, IL at 1007 East 53
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/meliora-real-estate-group-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/meliora-real-estate-group-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11425942570 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Midwest Window & Siding Co. is a window installer in Minneapolis, MN at 3739 Min
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midwest-window-and-siding-co-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midwest-window-and-siding-co-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3570613593 (license ODbL-1.0); source data as of 2026-07-24

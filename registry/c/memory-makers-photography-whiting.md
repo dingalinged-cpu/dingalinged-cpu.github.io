@@ -15,7 +15,7 @@ Memory Makers Photography is a photographer in Whiting, IN at 1530 119th Street,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/memory-makers-photography-whiting/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/memory-makers-photography-whiting.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1232448667 (license ODbL-1.0); source data as of 2026-06-01

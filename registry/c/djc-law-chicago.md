@@ -15,7 +15,7 @@ DJC Law is a lawyer in Chicago, IL at 140 South Dearborn Street #1610, Chicago, 
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/djc-law-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/djc-law-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12199230966 (license ODbL-1.0); source data as of 2026-07-28

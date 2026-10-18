@@ -15,7 +15,7 @@ Suite Living Memory Care & Assisted Living is an assisted living facility in Vad
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/suite-living-memory-care-and-assisted-living-vadnais-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/suite-living-memory-care-and-assisted-living-vadnais-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12084551160 (license ODbL-1.0); source data as of 2026-07-24

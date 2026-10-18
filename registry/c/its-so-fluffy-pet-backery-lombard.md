@@ -15,7 +15,7 @@ It's So Fluffy Pet Backery is a pet store in Lombard, IL at 225 Yorktown Shoppin
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/its-so-fluffy-pet-backery-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/its-so-fluffy-pet-backery-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9750129573 (license ODbL-1.0); source data as of 2026-06-01

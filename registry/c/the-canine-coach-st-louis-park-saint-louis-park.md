@@ -15,7 +15,7 @@ The Canine Coach - St Louis Park is a dog groomer in Saint Louis Park, MN at 650
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-canine-coach-st-louis-park-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-canine-coach-st-louis-park-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9604654638 (license ODbL-1.0); source data as of 2026-06-01

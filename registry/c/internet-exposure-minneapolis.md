@@ -15,7 +15,7 @@ Internet Exposure is an IT support company in Minneapolis, MN at 1101 South Wash
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/internet-exposure-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/internet-exposure-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3161985733 (license ODbL-1.0); source data as of 2026-05-31

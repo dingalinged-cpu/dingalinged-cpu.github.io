@@ -15,7 +15,7 @@ The UPS Store is a printing service in Naperville, IL at 924 West 75th Street #1
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-naperville-w993536469/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-naperville-w993536469.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/993536469 (license ODbL-1.0); source data as of 2026-06-01

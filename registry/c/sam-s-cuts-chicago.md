@@ -15,7 +15,7 @@ Sam’s Cuts is a hair salon in Chicago, IL at 2955 North Kedzie Avenue, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sam-s-cuts-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sam-s-cuts-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11807488199 (license ODbL-1.0); source data as of 2026-06-01

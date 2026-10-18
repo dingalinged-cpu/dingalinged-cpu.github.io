@@ -1,0 +1,23 @@
+Love It Events is an event venue in Burlington, WI at 125 East State Street, Burlington, WI 53105. Phone: +12622204552. Website: https://www.loveitevents.com/.
+
+# Love It Events
+
+- Category: event venues
+- Services: event venues
+- Address: 125 East State Street, Burlington, WI 53105
+- City: Burlington
+- State: WI
+- ZIP: 53105
+- Coordinates: 42.6760718, -88.2756098
+- Phone: +12622204552
+- Website: https://www.loveitevents.com/
+- Email: Info@LoveItEvents.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/love-it-events-burlington/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/love-it-events-burlington.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12784610677 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ AFC Urgent Care is an urgent care clinic in Maple Grove, MN at 13540 Grove Dr, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/afc-urgent-care-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/afc-urgent-care-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1365589516 (license ODbL-1.0); source data as of 2026-07-24

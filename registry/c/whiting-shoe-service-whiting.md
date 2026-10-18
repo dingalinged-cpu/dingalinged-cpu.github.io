@@ -15,7 +15,7 @@ Whiting Shoe Service is a shoe repair in Whiting, IN at 1932 Indianapolis Boulev
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/whiting-shoe-service-whiting/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/whiting-shoe-service-whiting.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1233085012 (license ODbL-1.0); source data as of 2026-06-01

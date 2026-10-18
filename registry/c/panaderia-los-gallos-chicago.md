@@ -15,7 +15,7 @@ Panaderia Los Gallos is a bakery in Chicago, IL at 4209 West 26th Street, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/panaderia-los-gallos-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/panaderia-los-gallos-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6324299866 (license ODbL-1.0); source data as of 2026-06-01

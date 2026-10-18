@@ -1,0 +1,23 @@
+Gertrude Tarpley Watauga Health Center is a family medicine practice in Watauga, TX at 6601 Watauga Road ##124, Watauga, TX 76148. Phone: +18177021100. Website: https://www.teamacclaim.org/locations/locations-profile/gertrude-tarpley-watauga-health-center/.
+
+# Gertrude Tarpley Watauga Health Center
+
+- Category: family doctor
+- Services: family doctor, primary care physician
+- Address: 6601 Watauga Road ##124, Watauga, TX 76148
+- City: Watauga
+- State: TX
+- ZIP: 76148
+- Coordinates: 32.8610816, -97.2400719
+- Phone: +18177021100
+- Website: https://www.teamacclaim.org/locations/locations-profile/gertrude-tarpley-watauga-health-center/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 07:00-19:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/gertrude-tarpley-watauga-health-center-watauga/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gertrude-tarpley-watauga-health-center-watauga.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10808434740 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

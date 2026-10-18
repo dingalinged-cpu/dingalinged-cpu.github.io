@@ -15,7 +15,7 @@ Elegant Smiles of Rolling Meadows is a dentist in Rolling Meadows, IL at 4200 Eu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elegant-smiles-of-rolling-meadows-rolling-meadows/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elegant-smiles-of-rolling-meadows-rolling-meadows.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13085044888 (license ODbL-1.0); source data as of 2026-07-28

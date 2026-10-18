@@ -1,0 +1,23 @@
+UrgentVet - Richardson is a veterinarian in Richardson, TX at 338 West Campbell Road, Richardson, TX 75080. Phone: +12143477200. Website: https://urgentvet.com/location/richardson/.
+
+# UrgentVet - Richardson
+
+- Category: vet
+- Services: vet
+- Address: 338 West Campbell Road, Richardson, TX 75080
+- City: Richardson
+- State: TX
+- ZIP: 75080
+- Coordinates: 32.9760903, -96.7228757
+- Phone: +12143477200
+- Website: https://urgentvet.com/location/richardson/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 15:00-23:00; Sa-Su 10:00-20:00; PH 12:00-20:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/urgentvet-richardson-richardson/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/urgentvet-richardson-richardson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11575643047 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

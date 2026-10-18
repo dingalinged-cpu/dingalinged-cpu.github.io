@@ -1,0 +1,23 @@
+Anytime Fitness is a gym in Farmers Branch, TX at 13150 Senlac Drive #150, Farmers Branch, TX 75234. Phone: +19728844664. Website: https://www.anytimefitness.com/gyms/5070/farmers-branch-tx-75234/.
+
+# Anytime Fitness
+
+- Category: gym
+- Services: gym
+- Address: 13150 Senlac Drive #150, Farmers Branch, TX 75234
+- City: Farmers Branch
+- State: TX
+- ZIP: 75234
+- Coordinates: 32.921671, -96.9091777
+- Phone: +19728844664
+- Website: https://www.anytimefitness.com/gyms/5070/farmers-branch-tx-75234/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-farmers-branch/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-farmers-branch.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10609031348 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

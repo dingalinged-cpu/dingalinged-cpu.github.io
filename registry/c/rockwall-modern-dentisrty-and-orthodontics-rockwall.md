@@ -1,0 +1,23 @@
+Rockwall Modern Dentisrty And Orthodontics is a dentist in Rockwall, TX at 1039 East Interstate 30 #107, Rockwall, TX.
+
+# Rockwall Modern Dentisrty And Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 1039 East Interstate 30 #107, Rockwall, TX
+- City: Rockwall
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.9055831, -96.45211
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/rockwall-modern-dentisrty-and-orthodontics-rockwall/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rockwall-modern-dentisrty-and-orthodontics-rockwall.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12148001969 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

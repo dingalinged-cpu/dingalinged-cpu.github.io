@@ -15,7 +15,7 @@ CarX Tire and Auto is an auto repair shop in Skokie, IL at 5115 West Dempster St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/carx-tire-and-auto-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/carx-tire-and-auto-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1205356838 (license ODbL-1.0); source data as of 2026-06-01

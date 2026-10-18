@@ -15,7 +15,7 @@ Express Oil Change & Tire Engineers is a tire shop in Dyer, IN at 1339 Joliet St
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00;Sa 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-dyer/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-dyer.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1364848813 (license ODbL-1.0); source data as of 2026-06-01

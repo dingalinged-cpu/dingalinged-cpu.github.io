@@ -15,7 +15,7 @@ Hoffman Estates KinderCare is a preschool in Hoffman Estates, IL at 1351 West Pa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hoffman-estates-kindercare-hoffman-estates/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hoffman-estates-kindercare-hoffman-estates.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/206454970 (license ODbL-1.0); source data as of 2026-07-28

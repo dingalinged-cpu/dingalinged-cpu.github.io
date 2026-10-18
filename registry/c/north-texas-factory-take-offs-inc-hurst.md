@@ -1,0 +1,23 @@
+North Texas Factory Take-Offs Inc. is a tire shop in Hurst, TX. Phone: +18175898874. Website: https://www.northtexasfactorytakeoffs.com/.
+
+# North Texas Factory Take-Offs Inc.
+
+- Category: tire shop
+- Services: tire shop
+- Address: Hurst, TX
+- City: Hurst
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.8095774, -97.1870658
+- Phone: +18175898874
+- Website: https://www.northtexasfactorytakeoffs.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/north-texas-factory-take-offs-inc-hurst/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-texas-factory-take-offs-inc-hurst.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5956257834 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

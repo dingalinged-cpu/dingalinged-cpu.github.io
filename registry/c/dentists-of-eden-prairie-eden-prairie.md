@@ -15,7 +15,7 @@ Dentists of Eden Prairie is a dentist in Eden Prairie, MN at 13000 Technology Dr
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dentists-of-eden-prairie-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dentists-of-eden-prairie-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12020737355 (license ODbL-1.0); source data as of 2026-07-24

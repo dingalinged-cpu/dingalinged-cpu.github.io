@@ -15,7 +15,7 @@ Thousand Waves Martial Arts & Self-Defense Center is a martial arts school in Ch
 - Opening hours (OSM syntax): Mo-Th 12:00-20:30; Fr 12:00-19:00; Sa 09:30-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/thousand-waves-martial-arts-and-self-defense-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/thousand-waves-martial-arts-and-self-defense-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5138412953 (license ODbL-1.0); source data as of 2026-06-01

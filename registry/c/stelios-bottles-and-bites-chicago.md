@@ -15,7 +15,7 @@ Stelios Bottles & Bites is a liquor store in Chicago, IL at 19 South Morgan Stre
 - Opening hours (OSM syntax): Su-Th 10:00-23:00; Fr-Sa 10:00-01:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/stelios-bottles-and-bites-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/stelios-bottles-and-bites-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11672692563 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ KMC Dance is a dance studio in Robbinsdale, MN at 4035 West Broadway Avenue, Rob
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kmc-dance-robbinsdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kmc-dance-robbinsdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1214437000 (license ODbL-1.0); source data as of 2026-07-15

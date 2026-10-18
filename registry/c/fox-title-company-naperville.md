@@ -15,7 +15,7 @@ Fox Title Company is a real estate agency in Naperville, IL at 270 West Diehl Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fox-title-company-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fox-title-company-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/656804366 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Lake Forest Kennel Club is a dog boarding facility in Lake Forest, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lake-forest-kennel-club-lake-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lake-forest-kennel-club-lake-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1510722024 (license ODbL-1.0); source data as of 2026-07-28

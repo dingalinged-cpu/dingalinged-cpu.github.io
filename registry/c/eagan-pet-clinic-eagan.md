@@ -15,7 +15,7 @@ Eagan Pet Clinic is a veterinarian in Eagan, MN at 4395 Rahn Road, Eagan, MN 551
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/eagan-pet-clinic-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/eagan-pet-clinic-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/320470602 (license ODbL-1.0); source data as of 2026-07-24

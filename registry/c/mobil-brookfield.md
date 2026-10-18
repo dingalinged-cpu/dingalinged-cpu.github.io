@@ -15,7 +15,7 @@ Mobil is a car wash in Brookfield, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1030592030 (license ODbL-1.0); source data as of 2026-07-28

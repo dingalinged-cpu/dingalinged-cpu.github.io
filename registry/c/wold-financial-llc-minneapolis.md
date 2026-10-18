@@ -15,7 +15,7 @@ WOLD Financial, LLC is an insurance agent in Minneapolis, MN at 1118 Cedar Lake 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wold-financial-llc-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wold-financial-llc-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/92807790 (license ODbL-1.0); source data as of 2026-05-31

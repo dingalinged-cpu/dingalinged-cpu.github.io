@@ -15,7 +15,7 @@ Napervalue Cleaners is a dry cleaner in Naperville, IL at 813 North Washington S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/napervalue-cleaners-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/napervalue-cleaners-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/984774135 (license ODbL-1.0); source data as of 2026-06-01

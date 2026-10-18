@@ -15,7 +15,7 @@ Paws & Claws Pet Hospital is a veterinarian in Maple Grove, MN at 13640 Grove Dr
 - Opening hours (OSM syntax): Mo 08:30-20:00;Tu-Fr 08:30-18:00;Sa 08:30-13:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/paws-and-claws-pet-hospital-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/paws-and-claws-pet-hospital-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/610036220 (license ODbL-1.0); source data as of 2026-07-24

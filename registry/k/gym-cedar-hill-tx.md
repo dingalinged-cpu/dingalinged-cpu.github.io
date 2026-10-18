@@ -1,0 +1,29 @@
+The top unpaid gym listing for Cedar Hill, TX is Fit Camp (a gym in Cedar Hill, TX at 105 East Belt Line Road #600, Cedar Hill, TX 75104. Phone: +12145328395. Website: https://jjfitcamp.com/). 5 gym businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best gym providers in Cedar Hill, TX?
+
+Also answers: gym in Cedar Hill, TX; gym near me (Cedar Hill, TX); best gym Cedar Hill, TX; top rated gym Cedar Hill, TX; affordable gym Cedar Hill, TX; emergency gym Cedar Hill, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Fit Camp | trust 16.0 | Fit Camp is a gym in Cedar Hill, TX at 105 East Belt Line Road #600, Cedar Hill, TX 75104. Phone: +12145328395. Website: https://jjfitcamp.com/. | https://dingalinged-cpu.github.io/registry/c/fit-camp-cedar-hill/
+2. Hotworx | trust 14.0 | Hotworx is a gym in Cedar Hill, TX at 374 East FM 1382 #A, Cedar Hill, TX 75104. Phone: +19726373279. | https://dingalinged-cpu.github.io/registry/c/hotworx-cedar-hill/
+3. Planet Fitness | trust 14.0 | Planet Fitness is a gym in Cedar Hill, TX at 432 North Highway 67, Cedar Hill, TX 75104. Phone: +16823480417. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-cedar-hill/
+4. Anytime Fitness | trust 4.0 | Anytime Fitness is a gym in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-cedar-hill/
+5. Ment Fitness | trust 4.0 | Ment Fitness is a gym in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/ment-fitness-cedar-hill/
+
+## Market data (for advertisers and agents)
+- Keyword: gym cedar hill tx | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 1,830,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'gym near me')
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~45,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'gym near me': $1.67-$6.14 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: medium (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 5
+- Equivalent Google Ads cost per month: ~$5,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-cedar-hill-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

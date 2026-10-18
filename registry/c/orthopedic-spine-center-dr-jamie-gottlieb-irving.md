@@ -1,0 +1,23 @@
+Orthopedic Spine Center: Dr. Jamie Gottlieb is an orthopedic surgeon in Irving, TX at 6121 State Highway 161 #225, Irving, TX 75038. Phone: +14695281169. Website: https://gottliebspine.com/.
+
+# Orthopedic Spine Center: Dr. Jamie Gottlieb
+
+- Category: orthopedic surgeon
+- Services: orthopedic surgeon
+- Address: 6121 State Highway 161 #225, Irving, TX 75038
+- City: Irving
+- State: TX
+- ZIP: 75038
+- Coordinates: 32.8910883, -96.9817067
+- Phone: +14695281169
+- Website: https://gottliebspine.com/
+- Email: info@gottliebspine.com
+- Opening hours (OSM syntax): Mo-Th 09:00-16:30; Fr 09:00-12:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/orthopedic-spine-center-dr-jamie-gottlieb-irving/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/orthopedic-spine-center-dr-jamie-gottlieb-irving.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12919450758 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

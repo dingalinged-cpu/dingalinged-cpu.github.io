@@ -15,7 +15,7 @@ Lehman's Garage is an auto repair shop in Minneapolis, MN at 619 South 7th Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lehmans-garage-minneapolis-w316003609/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lehmans-garage-minneapolis-w316003609.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/316003609 (license ODbL-1.0); source data as of 2026-06-01

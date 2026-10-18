@@ -15,7 +15,7 @@ The Eye and Facial Clinic is an eye care practice in Warrenville, IL at 28375 Da
 - Opening hours (OSM syntax): Mo, Th 09:00-15:00; Tu, We, Fr 09:00-17:00; Sa 09:00-12:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-eye-and-facial-clinic-warrenville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-eye-and-facial-clinic-warrenville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8940134205 (license ODbL-1.0); source data as of 2026-07-28

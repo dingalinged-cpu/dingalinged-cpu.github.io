@@ -15,7 +15,7 @@ Wentworth Tire Service is a tire shop in Chicago, IL at 11130 South Corliss Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wentworth-tire-service-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wentworth-tire-service-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210695203 (license ODbL-1.0); source data as of 2026-06-01

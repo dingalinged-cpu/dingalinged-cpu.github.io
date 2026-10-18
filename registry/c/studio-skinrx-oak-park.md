@@ -15,7 +15,7 @@ Studio Skinrx is a skin care studio in Oak Park, IL at 6429 West North Avenue #2
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 10:30-20:30; Su 10:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/studio-skinrx-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/studio-skinrx-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12363312109 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Allstate is an insurance agent in Calumet City, IL at 1551 Sibley Boulevard, Cal
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-calumet-city/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-calumet-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1431245185 (license ODbL-1.0); source data as of 2026-07-28

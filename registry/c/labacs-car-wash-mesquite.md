@@ -1,0 +1,23 @@
+Labac's Car Wash is a car wash in Mesquite, TX at 725 North Town East Boulevard, Mesquite, TX 75150.
+
+# Labac's Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 725 North Town East Boulevard, Mesquite, TX 75150
+- City: Mesquite
+- State: TX
+- ZIP: 75150
+- Coordinates: 32.813801, -96.6069976
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/labacs-car-wash-mesquite/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/labacs-car-wash-mesquite.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/901445916 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

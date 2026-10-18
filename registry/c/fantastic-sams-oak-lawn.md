@@ -15,7 +15,7 @@ Fantastic Sams is a hair salon in Oak Lawn, IL at 6316 West 95th Street, Oak Law
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fantastic-sams-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fantastic-sams-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12161999476 (license ODbL-1.0); source data as of 2026-06-01

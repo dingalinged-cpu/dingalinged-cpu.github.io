@@ -15,7 +15,7 @@ Kaizen CPAs + Advisors is an accountant in South Barrington, IL at 166 Executive
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kaizen-cpas-advisors-south-barrington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kaizen-cpas-advisors-south-barrington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10088785991 (license ODbL-1.0); source data as of 2026-07-28

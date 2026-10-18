@@ -15,7 +15,7 @@ Chicago Sweet Connection is a bakery in Chicago, IL at 5569 North Northwest High
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chicago-sweet-connection-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicago-sweet-connection-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6282526106 (license ODbL-1.0); source data as of 2026-06-01

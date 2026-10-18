@@ -15,7 +15,7 @@ Floyd's 99 Barbershop is a hair salon in Chicago, IL at 2572 North Clark Street,
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/floyds-99-barbershop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5640384004 (license ODbL-1.0); source data as of 2026-06-01

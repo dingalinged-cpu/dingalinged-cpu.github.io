@@ -15,7 +15,7 @@ M&M Furniture is a furniture store in Oak Lawn, IL at 5901 West 95th Street, Oak
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/m-and-m-furniture-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/m-and-m-furniture-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1327946669 (license ODbL-1.0); source data as of 2026-06-01

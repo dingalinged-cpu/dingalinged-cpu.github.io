@@ -15,7 +15,7 @@ North Oaks Auto Service is an auto repair shop in White Bear Lake, MN at 4452 Ce
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/north-oaks-auto-service-white-bear-lake/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-oaks-auto-service-white-bear-lake.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1136886924 (license ODbL-1.0); source data as of 2026-06-01

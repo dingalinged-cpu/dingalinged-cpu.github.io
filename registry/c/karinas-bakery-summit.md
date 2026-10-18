@@ -15,7 +15,7 @@ Karinas Bakery is a bakery in Summit, IL at 6125 South Archer Road, Summit, IL 6
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/karinas-bakery-summit/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/karinas-bakery-summit.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9485933703 (license ODbL-1.0); source data as of 2026-06-01

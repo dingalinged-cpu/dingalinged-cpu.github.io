@@ -15,7 +15,7 @@ Partners in Pediatrics, Ltd is a pediatrician in Brooklyn Park, MN at 8500 Edinb
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/partners-in-pediatrics-ltd-brooklyn-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/partners-in-pediatrics-ltd-brooklyn-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8147867923 (license ODbL-1.0); source data as of 2026-07-24

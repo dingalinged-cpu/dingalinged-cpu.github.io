@@ -15,7 +15,7 @@ Anytime Fitness is a gym in South Holland, IL at 911 East 162nd Street, South Ho
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-south-holland/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-south-holland.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1272947822 (license ODbL-1.0); source data as of 2026-06-01

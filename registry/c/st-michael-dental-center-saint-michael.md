@@ -15,7 +15,7 @@ St. Michael Dental Center is a dentist in Saint Michael, MN at 399 Central Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/st-michael-dental-center-saint-michael/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/st-michael-dental-center-saint-michael.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/553845675 (license ODbL-1.0); source data as of 2026-07-24

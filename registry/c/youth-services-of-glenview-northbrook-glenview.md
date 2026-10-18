@@ -15,7 +15,7 @@ Youth Services of Glenview/Northbrook is a therapy practice in Glenview, IL at 3
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/youth-services-of-glenview-northbrook-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/youth-services-of-glenview-northbrook-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/795432895 (license ODbL-1.0); source data as of 2026-07-28

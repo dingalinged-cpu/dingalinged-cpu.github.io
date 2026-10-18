@@ -15,7 +15,7 @@ Luxe Nail Lounge is a nail salon in New Lenox, IL at 426 East Lincoln Highway, N
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/luxe-nail-lounge-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/luxe-nail-lounge-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9195012122 (license ODbL-1.0); source data as of 2026-06-01

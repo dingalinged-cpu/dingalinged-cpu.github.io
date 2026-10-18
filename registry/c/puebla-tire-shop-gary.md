@@ -15,7 +15,7 @@ Puebla Tire Shop is a tire shop in Gary, IN at 6178 West 25th Avenue, Gary, IN 4
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/puebla-tire-shop-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/puebla-tire-shop-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1213472632 (license ODbL-1.0); source data as of 2026-06-01

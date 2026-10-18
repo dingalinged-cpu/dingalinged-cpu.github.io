@@ -15,7 +15,7 @@ Ageless Arts Tattoo is a tattoo shop in Oak Park, IL at 6743 West North Avenue, 
 - Opening hours (OSM syntax): Mo-Su 12:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ageless-arts-tattoo-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ageless-arts-tattoo-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/671734072 (license ODbL-1.0); source data as of 2026-06-01

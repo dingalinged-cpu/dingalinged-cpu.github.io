@@ -15,7 +15,7 @@ OKW Architects is an architect in Chicago, IL at 600 West Jackson Boulevard, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/okw-architects-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/okw-architects-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8203095701 (license ODbL-1.0); source data as of 2026-07-28

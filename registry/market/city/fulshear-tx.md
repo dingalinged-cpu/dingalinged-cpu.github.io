@@ -1,0 +1,58 @@
+Keyword market for Fulshear, TX: 22 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
+
+# Top keywords in Fulshear, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash fulshear tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-fulshear-tx/
+2. dentist fulshear tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-fulshear-tx/
+3. gym fulshear tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/gym-fulshear-tx/
+4. hair salon fulshear tx | searches/mo 35,000 (est) | CPC $0.55 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hair-salon-fulshear-tx/
+5. nail salon fulshear tx | searches/mo 23,000 (est) | CPC $0.61 | value $14,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/nail-salon-fulshear-tx/
+6. barber shop fulshear tx | searches/mo 16,000 (est) | CPC $0.70 | value $11,000 | Google Ads equiv $640/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/barber-shop-fulshear-tx/
+7. mechanic fulshear tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-fulshear-tx/
+8. haircut fulshear tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-fulshear-tx/
+9. auto repair fulshear tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-fulshear-tx/
+10. pilates fulshear tx | searches/mo 7,000 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-fulshear-tx/
+11. chiropractor fulshear tx | searches/mo 5,700 (est) | CPC $4.76 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-fulshear-tx/
+12. dog boarding fulshear tx | searches/mo 5,700 (est) | CPC $4.06 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-boarding-fulshear-tx/
+13. real estate agent fulshear tx | searches/mo 4,600 (est) | CPC $3.61 | value $17,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-fulshear-tx/
+14. realtor fulshear tx | searches/mo 2,100 (est) | CPC $3.70 | value $7,800 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/realtor-fulshear-tx/
+15. flooring companies fulshear tx | searches/mo 420 (est) | CPC $8.33 | value $3,500 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-fulshear-tx/
+
+## By CPC
+1. flooring companies fulshear tx | searches/mo 420 (est) | CPC $8.33 | value $3,500 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-fulshear-tx/
+2. florist fulshear tx | searches/mo 5,100 (est) | CPC $7.17 | value $37,000 | Google Ads equiv $2,800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/florist-fulshear-tx/
+3. martial arts fulshear tx | searches/mo 6,900 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/martial-arts-fulshear-tx/
+4. pilates fulshear tx | searches/mo 7,000 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-fulshear-tx/
+5. preschool fulshear tx | searches/mo 5,100 (est) | CPC $4.81 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/preschool-fulshear-tx/
+6. chiropractor fulshear tx | searches/mo 5,700 (est) | CPC $4.76 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-fulshear-tx/
+7. dermatologist fulshear tx | searches/mo 5,100 (est) | CPC $4.76 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dermatologist-fulshear-tx/
+8. dentist fulshear tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-fulshear-tx/
+9. haircut fulshear tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-fulshear-tx/
+10. auto repair fulshear tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-fulshear-tx/
+11. car wash fulshear tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-fulshear-tx/
+12. mechanic fulshear tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-fulshear-tx/
+13. gift shop fulshear tx | searches/mo 420 (est) | CPC $4.14 | value $1,700 | Google Ads equiv $160/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gift-shop-fulshear-tx/
+14. dog boarding fulshear tx | searches/mo 5,700 (est) | CPC $4.06 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-boarding-fulshear-tx/
+15. realtor fulshear tx | searches/mo 2,100 (est) | CPC $3.70 | value $7,800 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/realtor-fulshear-tx/
+
+## By value (searches x CPC)
+1. dentist fulshear tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-fulshear-tx/
+2. car wash fulshear tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-fulshear-tx/
+3. gym fulshear tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/gym-fulshear-tx/
+4. mechanic fulshear tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-fulshear-tx/
+5. pilates fulshear tx | searches/mo 7,000 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-fulshear-tx/
+6. haircut fulshear tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-fulshear-tx/
+7. auto repair fulshear tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-fulshear-tx/
+8. chiropractor fulshear tx | searches/mo 5,700 (est) | CPC $4.76 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-fulshear-tx/
+9. dog boarding fulshear tx | searches/mo 5,700 (est) | CPC $4.06 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-boarding-fulshear-tx/
+10. hair salon fulshear tx | searches/mo 35,000 (est) | CPC $0.55 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hair-salon-fulshear-tx/
+11. real estate agent fulshear tx | searches/mo 4,600 (est) | CPC $3.61 | value $17,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-fulshear-tx/
+12. nail salon fulshear tx | searches/mo 23,000 (est) | CPC $0.61 | value $14,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/nail-salon-fulshear-tx/
+13. barber shop fulshear tx | searches/mo 16,000 (est) | CPC $0.70 | value $11,000 | Google Ads equiv $640/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/barber-shop-fulshear-tx/
+14. realtor fulshear tx | searches/mo 2,100 (est) | CPC $3.70 | value $7,800 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/realtor-fulshear-tx/
+15. flooring companies fulshear tx | searches/mo 420 (est) | CPC $8.33 | value $3,500 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-fulshear-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

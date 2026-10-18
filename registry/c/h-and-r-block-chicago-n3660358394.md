@@ -15,7 +15,7 @@ H&R Block is a tax preparation service in Chicago, IL at West North Avenue, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/h-and-r-block-chicago-n3660358394/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-chicago-n3660358394.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3660358394 (license ODbL-1.0); source data as of 2026-07-28

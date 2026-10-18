@@ -15,7 +15,7 @@ Full Cycle is a bike shop in Minneapolis, MN at 3515 Chicago Avenue South, Minne
 - Opening hours (OSM syntax): Tu-Fr 12:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/full-cycle-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/full-cycle-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/84720742 (license ODbL-1.0); source data as of 2026-06-01

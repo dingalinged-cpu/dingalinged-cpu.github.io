@@ -15,7 +15,7 @@ Jennivee's Bakery is a bakery in Chicago, IL at 2925 North Halsted Street, Chica
 - Opening hours (OSM syntax): Mo-Th 06:00-22:00; Fr-Sa 06:00-23:00; Su 08:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jennivees-bakery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jennivees-bakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5178274157 (license ODbL-1.0); source data as of 2026-06-01

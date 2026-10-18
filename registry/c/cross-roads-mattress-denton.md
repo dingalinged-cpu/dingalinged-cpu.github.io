@@ -1,0 +1,23 @@
+Cross Roads Mattress is a mattress store in Denton, TX at 1636 West University Drive, Denton, TX 76201.
+
+# Cross Roads Mattress
+
+- Category: mattress store
+- Services: mattress store
+- Address: 1636 West University Drive, Denton, TX 76201
+- City: Denton
+- State: TX
+- ZIP: 76201
+- Coordinates: 33.2302296, -97.1492887
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/cross-roads-mattress-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cross-roads-mattress-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9412662526 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

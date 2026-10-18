@@ -15,7 +15,7 @@ Speedline Auto Service is an auto repair shop in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/speedline-auto-service-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/speedline-auto-service-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2303382280 (license ODbL-1.0); source data as of 2026-06-01

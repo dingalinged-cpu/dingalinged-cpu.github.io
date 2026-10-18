@@ -15,7 +15,7 @@ Trailhead Cycling is a bike shop in Champlin, MN at 11350 Aquila Drive North, Ch
 - Opening hours (OSM syntax): Mo-Fr 08:00-22:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/trailhead-cycling-champlin/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/trailhead-cycling-champlin.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5431752248 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Levin Eye Care Center is an eye care practice in Whiting, IN at 1334 119th Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/levin-eye-care-center-whiting/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/levin-eye-care-center-whiting.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11511927699 (license ODbL-1.0); source data as of 2026-07-28

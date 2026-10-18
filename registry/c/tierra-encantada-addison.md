@@ -1,0 +1,23 @@
+Tierra Encantada is a daycare in Addison, TX at 14450 Marsh Lane, Addison, TX 75001. Website: https://www.tierraencantada.com/locations/addison.
+
+# Tierra Encantada
+
+- Category: daycare
+- Services: daycare
+- Address: 14450 Marsh Lane, Addison, TX 75001
+- City: Addison
+- State: TX
+- ZIP: 75001
+- Coordinates: 32.9410063, -96.8550951
+- Phone: n/a
+- Website: https://www.tierraencantada.com/locations/addison
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/tierra-encantada-addison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tierra-encantada-addison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/425018399 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

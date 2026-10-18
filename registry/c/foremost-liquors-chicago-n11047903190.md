@@ -15,7 +15,7 @@ Foremost Liquors is a liquor store in Chicago, IL at 1040 West Argyle Street, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/foremost-liquors-chicago-n11047903190/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/foremost-liquors-chicago-n11047903190.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11047903190 (license ODbL-1.0); source data as of 2026-06-01

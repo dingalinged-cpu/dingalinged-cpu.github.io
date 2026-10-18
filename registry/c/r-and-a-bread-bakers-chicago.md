@@ -15,7 +15,7 @@ R&A Bread Bakers is a bakery in Chicago, IL at 1938 West Lawrence Avenue, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/r-and-a-bread-bakers-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/r-and-a-bread-bakers-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9272791437 (license ODbL-1.0); source data as of 2026-06-01

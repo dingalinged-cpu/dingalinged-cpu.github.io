@@ -15,7 +15,7 @@ O’Brien-Staley Partners is a financial advisor in Edina, MN at 5050 France Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/o-brien-staley-partners-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/o-brien-staley-partners-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12148766308 (license ODbL-1.0); source data as of 2026-05-31

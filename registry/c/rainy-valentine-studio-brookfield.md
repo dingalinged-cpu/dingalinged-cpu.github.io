@@ -15,7 +15,7 @@ Rainy Valentine Studio is a tattoo shop in Brookfield, IL at 3743 Grand Boulevar
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rainy-valentine-studio-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rainy-valentine-studio-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12015459878 (license ODbL-1.0); source data as of 2026-06-01

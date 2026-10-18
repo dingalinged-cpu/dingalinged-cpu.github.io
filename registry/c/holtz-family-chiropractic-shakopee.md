@@ -15,7 +15,7 @@ Holtz Family Chiropractic is a chiropractor in Shakopee, MN at 140 Holmes Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/holtz-family-chiropractic-shakopee/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/holtz-family-chiropractic-shakopee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9024200113 (license ODbL-1.0); source data as of 2026-06-01

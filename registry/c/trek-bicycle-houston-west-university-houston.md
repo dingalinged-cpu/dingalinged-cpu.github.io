@@ -1,0 +1,23 @@
+Trek Bicycle Houston West University is a bike shop in Houston, TX at 5339 Weslayan Street, Houston, TX 77005. Phone: +17135299002. Website: https://www.trekbikes.com/retail/houston_university/.
+
+# Trek Bicycle Houston West University
+
+- Category: bike shop
+- Services: bike shop
+- Address: 5339 Weslayan Street, Houston, TX 77005
+- City: Houston
+- State: TX
+- ZIP: 77005
+- Coordinates: 29.723258, -95.440745
+- Phone: +17135299002
+- Website: https://www.trekbikes.com/retail/houston_university/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 12:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/trek-bicycle-houston-west-university-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/trek-bicycle-houston-west-university-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2627552231 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

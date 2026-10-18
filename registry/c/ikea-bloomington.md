@@ -15,7 +15,7 @@ IKEA is a furniture store in Bloomington, MN at 800 IKEA Way, Bloomington, MN 55
 - Opening hours (OSM syntax): Mo-Sa 09:30-21:00; Su 09:30-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ikea-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ikea-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/98613388 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Epiphany Center for the Arts is an event venue in Chicago, IL at 201-207 South A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/epiphany-center-for-the-arts-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/epiphany-center-for-the-arts-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210281092 (license ODbL-1.0); source data as of 2026-07-28

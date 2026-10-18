@@ -15,7 +15,7 @@ State Farm is an insurance agent in Wauconda, IL at 205 West Liberty Street, Wau
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa,Su "by appointment"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1003318150 (license ODbL-1.0); source data as of 2026-07-28

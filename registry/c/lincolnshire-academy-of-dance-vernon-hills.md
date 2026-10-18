@@ -15,7 +15,7 @@ Lincolnshire Academy of Dance is a dance studio in Vernon Hills, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lincolnshire-academy-of-dance-vernon-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lincolnshire-academy-of-dance-vernon-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/711329937 (license ODbL-1.0); source data as of 2026-06-01

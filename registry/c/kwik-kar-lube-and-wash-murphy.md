@@ -1,0 +1,23 @@
+Kwik Kar Lube and Wash is an auto repair shop in Murphy, TX at 211 W FM 544, Murphy, TX 75094.
+
+# Kwik Kar Lube and Wash
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 211 W FM 544, Murphy, TX 75094
+- City: Murphy
+- State: TX
+- ZIP: 75094
+- Coordinates: 33.012065, -96.617074
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/kwik-kar-lube-and-wash-murphy/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kwik-kar-lube-and-wash-murphy.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2288282528 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

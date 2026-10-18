@@ -15,7 +15,7 @@ Soul Veg City is a caterer in Chicago, IL at 203 East 75th Street, Chicago, IL 6
 - Opening hours (OSM syntax): Mo-Fr 11:00-18:00; Sa-Su 10:00-18:00, Fr-Sa 20:00-25:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/soul-veg-city-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/soul-veg-city-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210862931 (license ODbL-1.0); source data as of 2026-06-01

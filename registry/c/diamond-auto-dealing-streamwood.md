@@ -15,7 +15,7 @@ Diamond Auto Dealing is a car wash in Streamwood, IL at 1541 Burgundy Parkway, S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/diamond-auto-dealing-streamwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/diamond-auto-dealing-streamwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/489935965 (license ODbL-1.0); source data as of 2026-07-28

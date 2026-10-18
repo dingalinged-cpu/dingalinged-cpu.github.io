@@ -15,7 +15,7 @@ Law Firm Of Duane St Pierre, PC is a lawyer in Palatine, IL at 855 East Palatine
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/law-firm-of-duane-st-pierre-pc-palatine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/law-firm-of-duane-st-pierre-pc-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4590305479 (license ODbL-1.0); source data as of 2026-07-28

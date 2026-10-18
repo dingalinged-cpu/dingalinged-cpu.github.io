@@ -15,7 +15,7 @@ Ann & Robert H. Lurie Children's Hospital of Chicago Outpatient Center is a pedi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ann-and-robert-h-lurie-childrens-hospital-of-chicago-outpatient-center-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ann-and-robert-h-lurie-childrens-hospital-of-chicago-outpatient-center-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1116579863 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Tommy's Express is a car wash in Lombard, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tommys-express-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tommys-express-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1326178600 (license ODbL-1.0); source data as of 2026-07-28

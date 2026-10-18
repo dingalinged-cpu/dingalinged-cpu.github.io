@@ -15,7 +15,7 @@ John's Lowry Repair Center is an auto repair shop in Minneapolis, MN at 2907 Nor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/johns-lowry-repair-center-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/johns-lowry-repair-center-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/357017336 (license ODbL-1.0); source data as of 2026-06-01

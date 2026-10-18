@@ -15,7 +15,7 @@ Lux Salon is a hair salon in Rogers, MN at 12813 Main Street, Rogers, MN 55374. 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lux-salon-rogers/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lux-salon-rogers.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/702120620 (license ODbL-1.0); source data as of 2026-06-01

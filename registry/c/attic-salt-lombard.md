@@ -15,7 +15,7 @@ Attic Salt is a gift shop in Lombard, IL at 125 Yorktown Shopping Center Rd, Lom
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/attic-salt-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/attic-salt-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1121098233 (license ODbL-1.0); source data as of 2026-06-01

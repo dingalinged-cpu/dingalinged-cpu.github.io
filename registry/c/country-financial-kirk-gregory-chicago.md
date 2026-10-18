@@ -15,7 +15,7 @@ Country Financial - Kirk Gregory is an insurance agent in Chicago, IL at 1401 So
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/country-financial-kirk-gregory-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/country-financial-kirk-gregory-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11759270036 (license ODbL-1.0); source data as of 2026-07-28

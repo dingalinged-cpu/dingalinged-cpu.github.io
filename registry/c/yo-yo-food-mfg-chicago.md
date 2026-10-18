@@ -15,7 +15,7 @@ Yo Yo Food Mfg is a bakery in Chicago, IL at 3465 North Kimball Avenue, Chicago,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/yo-yo-food-mfg-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/yo-yo-food-mfg-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6317080076 (license ODbL-1.0); source data as of 2026-06-01

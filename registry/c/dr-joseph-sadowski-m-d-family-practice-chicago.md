@@ -15,7 +15,7 @@ Dr. Joseph Sadowski M.D. Family Practice is a dentist in Chicago, IL at 6109 Nor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-joseph-sadowski-m-d-family-practice-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-joseph-sadowski-m-d-family-practice-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8608070398 (license ODbL-1.0); source data as of 2026-07-28

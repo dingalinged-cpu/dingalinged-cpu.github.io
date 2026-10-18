@@ -15,7 +15,7 @@ Danrich Collision Center is an auto repair shop in Homer Glen, IL at Annico Driv
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/danrich-collision-center-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/danrich-collision-center-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1106824498 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Heritage General Store is a bike shop in Chicago, IL at 2959 North Lincoln Avenu
 - Opening hours (OSM syntax): 08:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/heritage-general-store-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/heritage-general-store-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2365199606 (license ODbL-1.0); source data as of 2026-06-01

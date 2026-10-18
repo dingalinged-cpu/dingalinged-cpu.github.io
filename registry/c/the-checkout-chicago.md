@@ -15,7 +15,7 @@ The CheckOut is a music school in Chicago, IL at 4116 North Clark Street, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-checkout-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-checkout-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209919782 (license ODbL-1.0); source data as of 2026-07-28

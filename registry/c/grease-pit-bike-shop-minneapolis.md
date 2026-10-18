@@ -15,7 +15,7 @@ Grease Pit Bike Shop is a bike shop in Minneapolis, MN at 2750 Bloomington Avenu
 - Opening hours (OSM syntax): We-Th 18:00-21:00; Sa-Su 15:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/grease-pit-bike-shop-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/grease-pit-bike-shop-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2013202817 (license ODbL-1.0); source data as of 2026-06-01

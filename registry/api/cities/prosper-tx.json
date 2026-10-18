@@ -1,0 +1,1926 @@
+{
+ "place": "Prosper, TX",
+ "slug": "prosper-tx",
+ "count": 60,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-prosper-tx.json"
+  },
+  {
+   "keyword": "auto repair prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-prosper-tx.json"
+  },
+  {
+   "keyword": "barber shop prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-prosper-tx.json"
+  },
+  {
+   "keyword": "car wash prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-prosper-tx.json"
+  },
+  {
+   "keyword": "chiropractor prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-prosper-tx.json"
+  },
+  {
+   "keyword": "dentist prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-prosper-tx.json"
+  },
+  {
+   "keyword": "dermatologist prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dermatologist-prosper-tx.json"
+  },
+  {
+   "keyword": "dog groomer prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-prosper-tx.json"
+  },
+  {
+   "keyword": "dry cleaners prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-prosper-tx.json"
+  },
+  {
+   "keyword": "eye doctor prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-prosper-tx.json"
+  },
+  {
+   "keyword": "family doctor prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-prosper-tx.json"
+  },
+  {
+   "keyword": "furniture store prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-prosper-tx.json"
+  },
+  {
+   "keyword": "gym prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-prosper-tx.json"
+  },
+  {
+   "keyword": "hair salon prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-prosper-tx.json"
+  },
+  {
+   "keyword": "haircut prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-prosper-tx.json"
+  },
+  {
+   "keyword": "insurance agency prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-prosper-tx.json"
+  },
+  {
+   "keyword": "insurance agent prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-prosper-tx.json"
+  },
+  {
+   "keyword": "insurance agents prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-prosper-tx.json"
+  },
+  {
+   "keyword": "liquor store prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-prosper-tx.json"
+  },
+  {
+   "keyword": "locksmith prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/locksmith-prosper-tx.json"
+  },
+  {
+   "keyword": "martial arts prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-prosper-tx.json"
+  },
+  {
+   "keyword": "massage prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-prosper-tx.json"
+  },
+  {
+   "keyword": "mattress store prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-prosper-tx.json"
+  },
+  {
+   "keyword": "mechanic prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-prosper-tx.json"
+  },
+  {
+   "keyword": "music lessons prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/music-lessons-prosper-tx.json"
+  },
+  {
+   "keyword": "nail salon prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-prosper-tx.json"
+  },
+  {
+   "keyword": "pediatrician prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pediatrician-prosper-tx.json"
+  },
+  {
+   "keyword": "pet store prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-prosper-tx.json"
+  },
+  {
+   "keyword": "pilates prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pilates-prosper-tx.json"
+  },
+  {
+   "keyword": "plastic surgeon prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plastic-surgeon-prosper-tx.json"
+  },
+  {
+   "keyword": "preschool prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-prosper-tx.json"
+  },
+  {
+   "keyword": "primary care physician prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-prosper-tx.json"
+  },
+  {
+   "keyword": "printing services prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-prosper-tx.json"
+  },
+  {
+   "keyword": "real estate agent prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-prosper-tx.json"
+  },
+  {
+   "keyword": "realtor prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-prosper-tx.json"
+  },
+  {
+   "keyword": "storage units prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-prosper-tx.json"
+  },
+  {
+   "keyword": "tanning salon prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-prosper-tx.json"
+  },
+  {
+   "keyword": "therapist prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-prosper-tx.json"
+  },
+  {
+   "keyword": "tire shop prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-prosper-tx.json"
+  },
+  {
+   "keyword": "used cars for sale prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-prosper-tx.json"
+  },
+  {
+   "keyword": "vet prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-prosper-tx.json"
+  },
+  {
+   "keyword": "waxing prosper tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-prosper-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "brakes-plus-prosper",
+   "name": "Brakes Plus",
+   "summary": "Brakes Plus is an auto repair shop in Prosper, TX at 5010 West University Drive, Prosper, TX 75078. Phone: +14697154700. Website: https://www.brakesplus.com/stores/prosper/tx/0313/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brakes-plus-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brakes-plus-prosper.json",
+   "address": {
+    "streetAddress": "5010 West University Drive",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2197901,
+    "lon": -96.8834178
+   },
+   "phone": "+14697154700",
+   "website": "https://www.brakesplus.com/stores/prosper/tx/0313/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1076996916",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "costco-tire-center-prosper",
+   "name": "Costco Tire Center",
+   "summary": "Costco Tire Center is a tire shop in Prosper, TX at 5620 West University Drive, Prosper, TX 75078. Phone: +19723466120. Website: https://www.costco.com/w/-/tx/prosper/1694.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/costco-tire-center-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/costco-tire-center-prosper.json",
+   "address": {
+    "streetAddress": "5620 West University Drive",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2218866,
+    "lon": -96.8950446
+   },
+   "phone": "+19723466120",
+   "website": "https://www.costco.com/w/-/tx/prosper/1694",
+   "opening_hours": "Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13299210266",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "heritage-land-buyers-group-llc-prosper",
+   "name": "Heritage Land Buyers Group, LLC",
+   "summary": "Heritage Land Buyers Group, LLC is a real estate agency in Prosper, TX at 130 North Preston Road, Suite 100-447, Prosper, TX 75078. Phone: +18327848855. Website: https://heritagelandbuyers.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heritage-land-buyers-group-llc-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heritage-land-buyers-group-llc-prosper.json",
+   "address": {
+    "streetAddress": "130 North Preston Road, Suite 100-447",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2364348,
+    "lon": -96.7872178
+   },
+   "phone": "+18327848855",
+   "website": "https://heritagelandbuyers.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10088769585",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prosper-plastic-surgery-prosper",
+   "name": "Prosper Plastic Surgery",
+   "summary": "Prosper Plastic Surgery is a plastic surgeon in Prosper, TX at 240 South Preston Road #40, Prosper, TX 75078. Phone: +19729190010. Website: https://www.prosperplasticsurgery.com/.",
+   "categories": [
+    "plastic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prosper-plastic-surgery-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prosper-plastic-surgery-prosper.json",
+   "address": {
+    "streetAddress": "240 South Preston Road #40",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2345076,
+    "lon": -96.7925411
+   },
+   "phone": "+19729190010",
+   "website": "https://www.prosperplasticsurgery.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13167189686",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-dental-surgery-prosper",
+   "name": "Texas Dental Surgery",
+   "summary": "Texas Dental Surgery is a dentist in Prosper, TX at 1180 Coit Road, Prosper, TX 75078. Phone: +14692968680. Website: https://txdentalsurgery.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-dental-surgery-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-dental-surgery-prosper.json",
+   "address": {
+    "streetAddress": "1180 Coit Road",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2485237,
+    "lon": -96.7666959
+   },
+   "phone": "+14692968680",
+   "website": "https://txdentalsurgery.com/",
+   "opening_hours": "Mo,Th 07:00-15:00; Tu,We,Fr 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6445830801",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "urgentvet-prosper-prosper",
+   "name": "UrgentVet - Prosper",
+   "summary": "UrgentVet - Prosper is a veterinarian in Prosper, TX at 900 South Preston Road #80, Prosper, TX 75078. Phone: +14698428200. Website: https://urgentvet.com/location/prosper/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/urgentvet-prosper-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/urgentvet-prosper-prosper.json",
+   "address": {
+    "streetAddress": "900 South Preston Road #80",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2272335,
+    "lon": -96.798277
+   },
+   "phone": "+14698428200",
+   "website": "https://urgentvet.com/location/prosper/",
+   "opening_hours": "Mo-Fr 15:00-23:00; Sa,Su 10:00-20:00; PH 12:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11575645427",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valvoline-instant-oil-change-prosper",
+   "name": "Valvoline Instant Oil Change",
+   "summary": "Valvoline Instant Oil Change is an auto repair shop in Prosper, TX at 4980 West University Drive, Prosper, TX 75078. Phone: +19723474986. Website: https://store.vioc.com/tx/prosper/oil-change-070062.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-instant-oil-change-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-instant-oil-change-prosper.json",
+   "address": {
+    "streetAddress": "4980 West University Drive",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2197252,
+    "lon": -96.8829842
+   },
+   "phone": "+19723474986",
+   "website": "https://store.vioc.com/tx/prosper/oil-change-070062.html",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1076996915",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prosper-automotive-prosper",
+   "name": "Prosper Automotive",
+   "summary": "Prosper Automotive is an auto repair shop in Prosper, TX at 421 J East Weems Boulevard, Prosper, TX. Phone: +12142894630. Website: https://www.prosperautomotive.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prosper-automotive-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prosper-automotive-prosper.json",
+   "address": {
+    "streetAddress": "421 J East Weems Boulevard",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2329287,
+    "lon": -96.8165445
+   },
+   "phone": "+12142894630",
+   "website": "https://www.prosperautomotive.com/",
+   "opening_hours": "Tu-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12945515444",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-insurance-daniel-dubberstein-prosper",
+   "name": "Farmers Insurance - Daniel Dubberstein",
+   "summary": "Farmers Insurance - Daniel Dubberstein is an insurance agent in Prosper, TX at 212 E Broadway St, Prosper, TX 75078. Phone: +14695357999. Website: https://danieldubbersteininsurance.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-daniel-dubberstein-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-daniel-dubberstein-prosper.json",
+   "address": {
+    "streetAddress": "212 E Broadway St",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2359317,
+    "lon": -96.7996301
+   },
+   "phone": "+14695357999",
+   "website": "https://danieldubbersteininsurance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9679128652",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-fitness-prosper",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Prosper, TX at 4900 West University Drive, Prosper, TX 75078. Phone: +14692965003. Website: https://www.lafitness.com/Pages/clubhome.aspx?clubid=1359.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-prosper.json",
+   "address": {
+    "streetAddress": "4900 West University Drive",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.221176,
+    "lon": -96.8815872
+   },
+   "phone": "+14692965003",
+   "website": "https://www.lafitness.com/Pages/clubhome.aspx?clubid=1359",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1076996913",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-drip-mobile-iv-prosper",
+   "name": "The Drip Mobile IV",
+   "summary": "The Drip Mobile IV is a therapy practice in Prosper, TX at 130 N Preston Rd #108, Prosper, TX 75078. Phone: +14699123112. Website: https://www.thedripmobileiv.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-drip-mobile-iv-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-drip-mobile-iv-prosper.json",
+   "address": {
+    "streetAddress": "130 N Preston Rd #108",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2364137,
+    "lon": -96.7871992
+   },
+   "phone": "+14699123112",
+   "website": "https://www.thedripmobileiv.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12330636703",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ross-dental-studio-prosper",
+   "name": "Ross Dental Studio",
+   "summary": "Ross Dental Studio is a dentist in Prosper, TX at 2111 East University Drive #20, Prosper, TX. Phone: +12142252358. Website: https://rossdentalstudio.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ross-dental-studio-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ross-dental-studio-prosper.json",
+   "address": {
+    "streetAddress": "2111 East University Drive #20",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2192901,
+    "lon": -96.7728319
+   },
+   "phone": "+12142252358",
+   "website": "https://rossdentalstudio.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13479533792",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "longo-toyota-of-prosper-prosper",
+   "name": "Longo Toyota of Prosper",
+   "summary": "Longo Toyota of Prosper is an used car dealer in Prosper, TX at 2100 West University Drive, Prosper, TX 75078. Phone: +19723474929.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/longo-toyota-of-prosper-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/longo-toyota-of-prosper-prosper.json",
+   "address": {
+    "streetAddress": "2100 West University Drive",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2210744,
+    "lon": -96.8333786
+   },
+   "phone": "+19723474929",
+   "opening_hours": "Mo-Sa 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/550451219",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-prosper",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Prosper, TX at 4261 East University Drive #30, Prosper, TX 75078. Phone: +19723475200.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-prosper.json",
+   "address": {
+    "streetAddress": "4261 East University Drive #30",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2191196,
+    "lon": -96.7354122
+   },
+   "phone": "+19723475200",
+   "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-16:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/868737740",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-prosper",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Prosper, TX at 2151 University Drive, Prosper, TX 75078. Phone: +19723471218.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-prosper.json",
+   "address": {
+    "streetAddress": "2151 University Drive",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2193428,
+    "lon": -96.7720472
+   },
+   "phone": "+19723471218",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/676443591",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jerrys-liquor-and-fine-wine-prosper",
+   "name": "Jerry's Liquor and Fine Wine",
+   "summary": "Jerry's Liquor and Fine Wine is a liquor store in Prosper, TX at 1281 East University Drive, Prosper, TX 75078. Phone: +14694816015.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jerrys-liquor-and-fine-wine-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jerrys-liquor-and-fine-wine-prosper.json",
+   "address": {
+    "streetAddress": "1281 East University Drive",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2196159,
+    "lon": -96.7872479
+   },
+   "phone": "+14694816015",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9809162999",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "primrose-school-prosper",
+   "name": "Primrose School",
+   "summary": "Primrose School is a preschool in Prosper, TX at 1185 La Cima Boulevard, Prosper, TX 75078. Phone: +19723472767.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/primrose-school-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/primrose-school-prosper.json",
+   "address": {
+    "streetAddress": "1185 La Cima Boulevard",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2216353,
+    "lon": -96.7836786
+   },
+   "phone": "+19723472767",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9809150222",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "meyer-s-locksmith-prosper",
+   "name": "Meyer’s Locksmith",
+   "summary": "Meyer’s Locksmith is a locksmith in Prosper, TX at 1241 Prosper Commons Boulevard #103, Prosper, TX. Phone: +14694981455.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/meyer-s-locksmith-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/meyer-s-locksmith-prosper.json",
+   "address": {
+    "streetAddress": "1241 Prosper Commons Boulevard #103",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2198526,
+    "lon": -96.7720652
+   },
+   "phone": "+14694981455",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13479533788",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-kar-oil-change-and-auto-care-prosper",
+   "name": "Kwik Kar Oil Change & Auto Care",
+   "summary": "Kwik Kar Oil Change & Auto Care is an auto repair shop in Prosper, TX at 3580 West First Street, Prosper, TX 75078.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-kar-oil-change-and-auto-care-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-kar-oil-change-and-auto-care-prosper.json",
+   "address": {
+    "streetAddress": "3580 West First Street",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2304088,
+    "lon": -96.8587538
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1107522357",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "u-haul-prosper",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Prosper, TX at 1566 West University Drive, Prosper, TX 75078.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-prosper.json",
+   "address": {
+    "streetAddress": "1566 West University Drive",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.220308,
+    "lon": -96.8279285
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/709033405",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zips-car-wash-prosper",
+   "name": "Zips Car Wash",
+   "summary": "Zips Car Wash is a car wash in Prosper, TX at 5090 West University Drive, Prosper, TX 75078.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zips-car-wash-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zips-car-wash-prosper.json",
+   "address": {
+    "streetAddress": "5090 West University Drive",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "postalCode": "75078",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "zip": "75078",
+   "geo": {
+    "lat": 33.2198634,
+    "lon": -96.885065
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1168342200",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "blue-agave-nail-lounge-prosper",
+   "name": "Blue Agave Nail Lounge",
+   "summary": "Blue Agave Nail Lounge is a nail salon in Prosper, TX at 5600 West University Drive, Prosper, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blue-agave-nail-lounge-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blue-agave-nail-lounge-prosper.json",
+   "address": {
+    "streetAddress": "5600 West University Drive",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2198873,
+    "lon": -96.8942228
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13248561704",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carnation-auto-spa-prosper",
+   "name": "Carnation Auto Spa",
+   "summary": "Carnation Auto Spa is a car wash in Prosper, TX at 2171 East University Drive, Prosper, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carnation-auto-spa-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carnation-auto-spa-prosper.json",
+   "address": {
+    "streetAddress": "2171 East University Drive",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2194641,
+    "lon": -96.7714915
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/912552863",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cityvet-prosper",
+   "name": "CityVet",
+   "summary": "CityVet is a veterinarian in Prosper, TX at 4780 West University Drive #40, Prosper, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cityvet-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cityvet-prosper.json",
+   "address": {
+    "streetAddress": "4780 West University Drive #40",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2200913,
+    "lon": -96.8795926
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13140009898",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "club-pilates-prosper",
+   "name": "Club Pilates",
+   "summary": "Club Pilates is a pilates studio in Prosper, TX at 4740 West University Drive #120, Prosper, TX.",
+   "categories": [
+    "pilates"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/club-pilates-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/club-pilates-prosper.json",
+   "address": {
+    "streetAddress": "4740 West University Drive #120",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2206906,
+    "lon": -96.8789366
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13307483386",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dreamworks-dental-and-orthodontist-prosper",
+   "name": "Dreamworks Dental & Orthodontist",
+   "summary": "Dreamworks Dental & Orthodontist is a dentist in Prosper, TX at 4740 West University Drive #180, Prosper, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dreamworks-dental-and-orthodontist-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dreamworks-dental-and-orthodontist-prosper.json",
+   "address": {
+    "streetAddress": "4740 West University Drive #180",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2206029,
+    "lon": -96.8785975
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13307483380",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "european-wax-center-prosper",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Prosper, TX at 880 South Preston Road #20, Prosper, TX.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-prosper.json",
+   "address": {
+    "streetAddress": "880 South Preston Road #20",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2250768,
+    "lon": -96.7981202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13288477527",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eyedeal-eye-care-prosper",
+   "name": "EyeDeal Eye Care",
+   "summary": "EyeDeal Eye Care is an eye care practice in Prosper, TX at 4940 West University Drive #70, Prosper, TX.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eyedeal-eye-care-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eyedeal-eye-care-prosper.json",
+   "address": {
+    "streetAddress": "4940 West University Drive #70",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2196855,
+    "lon": -96.8821296
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13138158979",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "glo-tanning-prosper",
+   "name": "Glo Tanning",
+   "summary": "Glo Tanning is a tanning salon in Prosper, TX at 900 South Preston Road, Prosper, TX.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glo-tanning-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glo-tanning-prosper.json",
+   "address": {
+    "streetAddress": "900 South Preston Road",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2268679,
+    "lon": -96.7982761
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13688945049",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grandlux-nail-salon-prosper",
+   "name": "Grandlux Nail Salon",
+   "summary": "Grandlux Nail Salon is a nail salon in Prosper, TX at 4740 West University Drive #60, Prosper, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grandlux-nail-salon-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grandlux-nail-salon-prosper.json",
+   "address": {
+    "streetAddress": "4740 West University Drive #60",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2208185,
+    "lon": -96.8793723
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13307483377",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-prosper",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Prosper, TX at 4740 West University Drive #110, Prosper, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-prosper.json",
+   "address": {
+    "streetAddress": "4740 West University Drive #110",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2207178,
+    "lon": -96.8789935
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13307483381",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hand-and-stone-massage-and-facial-spa-prosper",
+   "name": "Hand & Stone Massage and Facial Spa",
+   "summary": "Hand & Stone Massage and Facial Spa is a massage studio in Prosper, TX at 1070 South Preston Road #40, Prosper, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hand-and-stone-massage-and-facial-spa-prosper.json",
+   "address": {
+    "streetAddress": "1070 South Preston Road #40",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2256908,
+    "lon": -96.7993659
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13332819084",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ideal-dental-prosper",
+   "name": "Ideal Dental",
+   "summary": "Ideal Dental is a dentist in Prosper, TX at 5600 West University Drive #30, Prosper, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ideal-dental-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ideal-dental-prosper.json",
+   "address": {
+    "streetAddress": "5600 West University Drive #30",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2198962,
+    "lon": -96.8941053
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13140380554",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "imprint-dental-prosper",
+   "name": "Imprint Dental",
+   "summary": "Imprint Dental is a dentist in Prosper, TX at 4940 West University Drive #40, Prosper, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/imprint-dental-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/imprint-dental-prosper.json",
+   "address": {
+    "streetAddress": "4940 West University Drive #40",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2196863,
+    "lon": -96.8823609
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13138158976",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lapels-prosper",
+   "name": "Lapels",
+   "summary": "Lapels is a dry cleaner in Prosper, TX at 4740 West University Drive #100, Prosper, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lapels-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lapels-prosper.json",
+   "address": {
+    "streetAddress": "4740 West University Drive #100",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2207308,
+    "lon": -96.8790374
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13307483364",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-supplies-plus-prosper",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Prosper, TX at 4580 West University Drive #10, Prosper, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-prosper.json",
+   "address": {
+    "streetAddress": "4580 West University Drive #10",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2207289,
+    "lon": -96.8759963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13307483387",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pigtails-and-crewcuts-haircuts-for-kids-prosper",
+   "name": "Pigtails & Crewcuts Haircuts for Kids",
+   "summary": "Pigtails & Crewcuts Haircuts for Kids is a barber shop in Prosper, TX at 960 South Preston Road #50, Prosper, TX.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pigtails-and-crewcuts-haircuts-for-kids-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pigtails-and-crewcuts-haircuts-for-kids-prosper.json",
+   "address": {
+    "streetAddress": "960 South Preston Road #50",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2268838,
+    "lon": -96.8002344
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13688945045",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-prosper",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Prosper, TX at 1241 Prosper Commons Boulevard, Prosper, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-prosper.json",
+   "address": {
+    "streetAddress": "1241 Prosper Commons Boulevard",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2207077,
+    "lon": -96.7728595
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13479533789",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rockstar-martial-arts-prosper-n13307483378",
+   "name": "Rockstar Martial Arts",
+   "summary": "Rockstar Martial Arts is a martial arts school in Prosper, TX at 4740 West University Drive #70, Prosper, TX.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rockstar-martial-arts-prosper-n13307483378/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rockstar-martial-arts-prosper-n13307483378.json",
+   "address": {
+    "streetAddress": "4740 West University Drive #70",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2207988,
+    "lon": -96.8792577
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13307483378",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rose-couture-nail-bar-prosper",
+   "name": "Rose Couture Nail Bar",
+   "summary": "Rose Couture Nail Bar is a nail salon in Prosper, TX at 1070 South Preston Road #30, Prosper, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rose-couture-nail-bar-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rose-couture-nail-bar-prosper.json",
+   "address": {
+    "streetAddress": "1070 South Preston Road #30",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2255633,
+    "lon": -96.7993865
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13332819085",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "school-of-rock-prosper",
+   "name": "School of Rock",
+   "summary": "School of Rock is a music school in Prosper, TX at 5600 West University Drive, Prosper, TX.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/school-of-rock-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/school-of-rock-prosper.json",
+   "address": {
+    "streetAddress": "5600 West University Drive",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2198764,
+    "lon": -96.8943453
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13140380553",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specs-prosper",
+   "name": "Spec's",
+   "summary": "Spec's is a liquor store in Prosper, TX at 950 South Preston Road, Prosper, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specs-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specs-prosper.json",
+   "address": {
+    "streetAddress": "950 South Preston Road",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2268734,
+    "lon": -96.8001049
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12988546551",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-prosper-n13138158975",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Prosper, TX at 4940 West University Drive #30, Prosper, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-prosper-n13138158975/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-prosper-n13138158975.json",
+   "address": {
+    "streetAddress": "4940 West University Drive #30",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2196913,
+    "lon": -96.8824331
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13138158975",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supersplash-car-wash-and-lube-prosper",
+   "name": "SuperSplash Car Wash & Lube",
+   "summary": "SuperSplash Car Wash & Lube is an auto repair shop in Prosper, TX at 400 South Preston Road, Prosper, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supersplash-car-wash-and-lube-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supersplash-car-wash-and-lube-prosper.json",
+   "address": {
+    "streetAddress": "400 South Preston Road",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2331708,
+    "lon": -96.7926692
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1128282538",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-joint-chiropractic-prosper",
+   "name": "The Joint Chiropractic",
+   "summary": "The Joint Chiropractic is a chiropractor in Prosper, TX at 4740 West University Drive #140, Prosper, TX.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-prosper.json",
+   "address": {
+    "streetAddress": "4740 West University Drive #140",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.22066,
+    "lon": -96.8788236
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13307483383",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "total-men-s-primary-care-prosper",
+   "name": "Total Men’s Primary Care",
+   "summary": "Total Men’s Primary Care is a family medicine practice in Prosper, TX at 4940 West University Drive #60, Prosper, TX.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-men-s-primary-care-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-men-s-primary-care-prosper.json",
+   "address": {
+    "streetAddress": "4940 West University Drive #60",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2196801,
+    "lon": -96.8821987
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13138158978",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tribute-senior-living-prosper",
+   "name": "Tribute Senior Living",
+   "summary": "Tribute Senior Living is an assisted living facility in Prosper, TX at 190 North Preston Road, Prosper, TX.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tribute-senior-living-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tribute-senior-living-prosper.json",
+   "address": {
+    "streetAddress": "190 North Preston Road",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2365913,
+    "lon": -96.7857096
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1128282540",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woofgang-bakery-and-grooming-prosper",
+   "name": "Woofgang Bakery & Grooming",
+   "summary": "Woofgang Bakery & Grooming is a dog groomer in Prosper, TX at 900 South Preston Road, Prosper, TX.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woofgang-bakery-and-grooming-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woofgang-bakery-and-grooming-prosper.json",
+   "address": {
+    "streetAddress": "900 South Preston Road",
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.226854,
+    "lon": -96.7984561
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13688945048",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cook-childrens-pediatrics-prosper",
+   "name": "Cook Children's Pediatrics",
+   "summary": "Cook Children's Pediatrics is a pediatrician in Prosper, TX.",
+   "categories": [
+    "pediatrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cook-childrens-pediatrics-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cook-childrens-pediatrics-prosper.json",
+   "address": {
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2510435,
+    "lon": -96.7833396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8533416039",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hollywood-feed-prosper",
+   "name": "Hollywood Feed",
+   "summary": "Hollywood Feed is a pet store in Prosper, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hollywood-feed-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hollywood-feed-prosper.json",
+   "address": {
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2510152,
+    "lon": -96.7831149
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8533416037",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ht-nail-spa-prosper",
+   "name": "HT Nail Spa",
+   "summary": "HT Nail Spa is a nail salon in Prosper, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ht-nail-spa-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ht-nail-spa-prosper.json",
+   "address": {
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.219515,
+    "lon": -96.7853435
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13318128418",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "integrity-auto-prosper",
+   "name": "Integrity Auto",
+   "summary": "Integrity Auto is an auto repair shop in Prosper, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/integrity-auto-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/integrity-auto-prosper.json",
+   "address": {
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2476424,
+    "lon": -96.7870694
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1818365566",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lovesac-prosper",
+   "name": "LoveSac",
+   "summary": "LoveSac is a furniture store in Prosper, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-prosper.json",
+   "address": {
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2245773,
+    "lon": -96.7985103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13288477522",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mcguiness-dermatology-prosper",
+   "name": "McGuiness Dermatology",
+   "summary": "McGuiness Dermatology is a dermatologist in Prosper, TX.",
+   "categories": [
+    "dermatologist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcguiness-dermatology-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcguiness-dermatology-prosper.json",
+   "address": {
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2526526,
+    "lon": -96.7842506
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8533416088",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-prosper",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Prosper, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-prosper.json",
+   "address": {
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2250005,
+    "lon": -96.7948816
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12988546560",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rockstar-martial-arts-prosper",
+   "name": "RockStar Martial Arts",
+   "summary": "RockStar Martial Arts is a martial arts school in Prosper, TX.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rockstar-martial-arts-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rockstar-martial-arts-prosper.json",
+   "address": {
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2512572,
+    "lon": -96.783341
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8533416040",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rose-couture-nail-bar-prosper-n13673082806",
+   "name": "Rose Couture Nail Bar",
+   "summary": "Rose Couture Nail Bar is a nail salon in Prosper, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rose-couture-nail-bar-prosper-n13673082806/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rose-couture-nail-bar-prosper-n13673082806.json",
+   "address": {
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.220218,
+    "lon": -96.896007
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13673082806",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sleep-number-prosper",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Prosper, TX.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-prosper.json",
+   "address": {
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2245827,
+    "lon": -96.7983921
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13288477523",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-prosper",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Prosper, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-prosper.json",
+   "address": {
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2262805,
+    "lon": -96.7954681
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12988570410",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "walmart-auto-care-center-prosper",
+   "name": "Walmart Auto Care Center",
+   "summary": "Walmart Auto Care Center is an auto repair shop in Prosper, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walmart-auto-care-center-prosper/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walmart-auto-care-center-prosper.json",
+   "address": {
+    "addressLocality": "Prosper",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Prosper",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2198956,
+    "lon": -96.7979354
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13288477531",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

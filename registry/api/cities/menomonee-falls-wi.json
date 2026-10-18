@@ -1,0 +1,1152 @@
+{
+ "place": "Menomonee Falls, WI",
+ "slug": "menomonee-falls-wi",
+ "count": 34,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "attorney menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "auto repair menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "caterers menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/caterers-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "dentist menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "dog groomer menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "facial menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "financial advisor menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "flooring companies menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "florist menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "funeral home menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "furniture store menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "gift shop menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "gym menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "hair salon menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "haircut menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "insurance agency menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "insurance agent menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "insurance agents menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "jewelry store menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "lawyer menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "liquor store menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "martial arts menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "mechanic menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "nail salon menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "pet store menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "tailor menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "tattoo shop menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "vet menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-menomonee-falls-wi.json"
+  },
+  {
+   "keyword": "waxing menomonee falls wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-menomonee-falls-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "brook-falls-veterinary-hospital-and-exotic-care-inc-menomonee-falls",
+   "name": "Brook-Falls Veterinary Hospital & Exotic Care, Inc.",
+   "summary": "Brook-Falls Veterinary Hospital & Exotic Care, Inc. is a veterinarian in Menomonee Falls, WI at N48W14850 Lisbon Road, Menomonee Falls, WI 53051. Phone: +12627815277. Website: https://brookfallsveterinary.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brook-falls-veterinary-hospital-and-exotic-care-inc-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brook-falls-veterinary-hospital-and-exotic-care-inc-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N48W14850 Lisbon Road",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1052005,
+    "lon": -88.0965398
+   },
+   "phone": "+12627815277",
+   "website": "https://brookfallsveterinary.com/",
+   "opening_hours": "Mo-Fr 07:30-17:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1040106782",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "friends-of-nature-menomonee-falls",
+   "name": "Friends of Nature",
+   "summary": "Friends of Nature is a pet store in Menomonee Falls, WI at N88W15483 Main Street, Menomonee Falls, WI 53051. Phone: +12622539889. Website: https://friendsofnaturewi.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/friends-of-nature-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/friends-of-nature-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N88W15483 Main Street",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1778587,
+    "lon": -88.1017067
+   },
+   "phone": "+12622539889",
+   "website": "https://friendsofnaturewi.com/",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11273102357",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salty-dog-pet-spa-menomonee-falls",
+   "name": "Salty Dog Pet Spa",
+   "summary": "Salty Dog Pet Spa is a dog groomer in Menomonee Falls, WI at N86W16392 Appleton Avenue, Menomonee Falls, WI 53051. Phone: +12627357622. Website: https://www.saltydogpetsspa.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salty-dog-pet-spa-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salty-dog-pet-spa-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N86W16392 Appleton Avenue",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1755156,
+    "lon": -88.1134301
+   },
+   "phone": "+12627357622",
+   "website": "https://www.saltydogpetsspa.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11555133474",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ulta-beauty-menomonee-falls",
+   "name": "Ulta Beauty",
+   "summary": "Ulta Beauty is a skin care studio in Menomonee Falls, WI at N91W16051 Falls Parkway, Menomonee Falls, WI 53051. Phone: +12622500309. Website: https://www.ulta.com/stores/menomonee-falls-wi-1200.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ulta-beauty-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N91W16051 Falls Parkway",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1844651,
+    "lon": -88.1089152
+   },
+   "phone": "+12622500309",
+   "website": "https://www.ulta.com/stores/menomonee-falls-wi-1200",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7659601057",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anytime-fitness-menomonee-falls",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Menomonee Falls, WI at N56 W14108 Silver Spring Drive, Menomonee Falls, WI 53051. Phone: +12627813220. Website: https://www.anytimefitness.com/gyms/3422/menomonee-falls-wi-53051/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N56 W14108 Silver Spring Drive",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1204645,
+    "lon": -88.0865221
+   },
+   "phone": "+12627813220",
+   "website": "https://www.anytimefitness.com/gyms/3422/menomonee-falls-wi-53051/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10828077270",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "davians-catering-and-conference-center-menomonee-falls",
+   "name": "Davians Catering & Conference Center",
+   "summary": "Davians Catering & Conference Center is a caterer in Menomonee Falls, WI at N56W16300 Silver Spring Drive, Menomonee Falls, WI 53051. Phone: +12627813333. Website: https://www.davians.com/.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/davians-catering-and-conference-center-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/davians-catering-and-conference-center-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N56W16300 Silver Spring Drive",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1203491,
+    "lon": -88.1140537
+   },
+   "phone": "+12627813333",
+   "website": "https://www.davians.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/318436651",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "purloin-studio-fine-art-and-gifts-menomonee-falls",
+   "name": "Purloin Studio Fine Art & Gifts",
+   "summary": "Purloin Studio Fine Art & Gifts is a gift shop in Menomonee Falls, WI at N88 W16567 Main Street, Menomonee Falls, WI 53051. Phone: +12622559090. Website: https://purloinstudio.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/purloin-studio-fine-art-and-gifts-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/purloin-studio-fine-art-and-gifts-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N88 W16567 Main Street",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1789626,
+    "lon": -88.1156001
+   },
+   "phone": "+12622559090",
+   "website": "https://purloinstudio.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3158150141",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sterling-lawyers-llc-menomonee-falls",
+   "name": "Sterling Lawyers, LLC",
+   "summary": "Sterling Lawyers, LLC is a lawyer in Menomonee Falls, WI at N56 W13405 Silver Spring Drive, Menomonee Falls, WI 53051. Phone: +14144314997. Website: https://www.sterlinglawyers.com/wisconsin/locations/menomonee-falls/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sterling-lawyers-llc-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N56 W13405 Silver Spring Drive",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.118205,
+    "lon": -88.0782892
+   },
+   "phone": "+14144314997",
+   "website": "https://www.sterlinglawyers.com/wisconsin/locations/menomonee-falls/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3286421901",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wittlins-menomonee-falls",
+   "name": "Wittlin's",
+   "summary": "Wittlin's is an auto repair shop in Menomonee Falls, WI at N92 W17387 Appleton Avenue, Menomonee Falls, WI 53051. Phone: +12622514670. Website: https://www.wittlins.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wittlins-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wittlins-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N92 W17387 Appleton Avenue",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1849108,
+    "lon": -88.1258367
+   },
+   "phone": "+12622514670",
+   "website": "https://www.wittlins.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1364056790",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mw-alterations-menomonee-falls",
+   "name": "MW Alterations",
+   "summary": "MW Alterations is a tailor in Menomonee Falls, WI at W186N9521 Bancroft Drive, Menomonee Falls, WI 53051. Website: https://mwalterations.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mw-alterations-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mw-alterations-menomonee-falls.json",
+   "address": {
+    "streetAddress": "W186N9521 Bancroft Drive",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1907016,
+    "lon": -88.1411051
+   },
+   "website": "https://mwalterations.com/",
+   "opening_hours": "Mo-Fr 10:00-18:30; Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11273102361",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ottos-wine-and-spirits-menomonee-falls",
+   "name": "Otto's Wine and Spirits",
+   "summary": "Otto's Wine and Spirits is a liquor store in Menomonee Falls, WI at N88W15413 Main Street, Menomonee Falls, WI 53051. Website: https://ottoswineandspirits.com/locations/ottos-beverage-center-menomonee-falls/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ottos-wine-and-spirits-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ottos-wine-and-spirits-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N88W15413 Main Street",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1778556,
+    "lon": -88.1012849
+   },
+   "website": "https://ottoswineandspirits.com/locations/ottos-beverage-center-menomonee-falls/",
+   "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11273102358",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rivian-service-center-menomonee-falls",
+   "name": "Rivian Service Center",
+   "summary": "Rivian Service Center is an auto repair shop in Menomonee Falls, WI at N59W13500 Manhardt Drive #100, Menomonee Falls, WI 53051. Phone: +12623452655.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rivian-service-center-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rivian-service-center-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N59W13500 Manhardt Drive #100",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1258392,
+    "lon": -88.0787576
+   },
+   "phone": "+12623452655",
+   "opening_hours": "Su-Sa 09:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13979261502",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "robert-m-jewelers-menomonee-falls",
+   "name": "Robert M. Jewelers",
+   "summary": "Robert M. Jewelers is a jewelry store in Menomonee Falls, WI at W186N9511 Bancroft Drive, Menomonee Falls, WI 53051. Website: https://www.robertmjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/robert-m-jewelers-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/robert-m-jewelers-menomonee-falls.json",
+   "address": {
+    "streetAddress": "W186N9511 Bancroft Drive",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1904866,
+    "lon": -88.1411216
+   },
+   "website": "https://www.robertmjewelers.com/",
+   "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11273102362",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "european-wax-center-menomonee-falls",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Menomonee Falls, WI. Website: https://locations.waxcenter.com/wi/menomoneefalls/menomonee-falls-0729.html.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-menomonee-falls.json",
+   "address": {
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1854244,
+    "lon": -88.109858
+   },
+   "website": "https://locations.waxcenter.com/wi/menomoneefalls/menomonee-falls-0729.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7659601052",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cassia-nail-spa-menomonee-falls",
+   "name": "Cassia Nail Spa",
+   "summary": "Cassia Nail Spa is a nail salon in Menomonee Falls, WI at N89W16853 Appleton Avenue, Menomonee Falls, WI 53051.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cassia-nail-spa-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cassia-nail-spa-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N89W16853 Appleton Avenue",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1802484,
+    "lon": -88.1199094
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11273102351",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chos-martial-arts-menomonee-falls",
+   "name": "Cho's Martial Arts",
+   "summary": "Cho's Martial Arts is a martial arts school in Menomonee Falls, WI at N89W16863 Appleton Avenue, Menomonee Falls, WI 53051.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chos-martial-arts-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chos-martial-arts-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N89W16863 Appleton Avenue",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1804051,
+    "lon": -88.1200972
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11273102353",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dickson-hollow-menomonee-falls",
+   "name": "Dickson Hollow",
+   "summary": "Dickson Hollow is an assisted living facility in Menomonee Falls, WI at W156N4881 Pilgrim Road, Menomonee Falls, WI 53051.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dickson-hollow-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dickson-hollow-menomonee-falls.json",
+   "address": {
+    "streetAddress": "W156N4881 Pilgrim Road",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1061372,
+    "lon": -88.1079908
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1164281575",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "family-pet-clinic-menomonee-falls",
+   "name": "Family Pet Clinic",
+   "summary": "Family Pet Clinic is a veterinarian in Menomonee Falls, WI at N73W13583 Appleton Avenue, Menomonee Falls, WI 53051.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-pet-clinic-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-pet-clinic-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N73W13583 Appleton Avenue",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.150991,
+    "lon": -88.0792815
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1039315704",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-menomonee-falls",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Menomonee Falls, WI at N83W15400 Appleton Avenue, Menomonee Falls, WI 53051.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N83W15400 Appleton Avenue",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.168182,
+    "lon": -88.1009991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1040092617",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kay-jewelers-menomonee-falls",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Menomonee Falls, WI at W161N9249 Pershing Avenue, Menomonee Falls, WI 53051.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-menomonee-falls.json",
+   "address": {
+    "streetAddress": "W161N9249 Pershing Avenue",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1857543,
+    "lon": -88.1106196
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/820298146",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midas-menomonee-falls",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Menomonee Falls, WI at N96W18375 County Line Road, Menomonee Falls, WI 53051.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N96W18375 County Line Road",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1915856,
+    "lon": -88.1375526
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/531884558",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "romagna-wealth-management-group-menomonee-falls",
+   "name": "Romagna Wealth Management Group",
+   "summary": "Romagna Wealth Management Group is a financial advisor in Menomonee Falls, WI at N88W16447 Main Street #400, Menomonee Falls, WI 53051.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/romagna-wealth-management-group-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/romagna-wealth-management-group-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N88W16447 Main Street #400",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1791647,
+    "lon": -88.1137945
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13049348356",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "schmidt-and-bartelt-funeral-service-menomonee-falls",
+   "name": "Schmidt and Bartelt Funeral Service",
+   "summary": "Schmidt and Bartelt Funeral Service is a funeral home in Menomonee Falls, WI at N84W17937 Menomonee Avenue, Menomonee Falls, WI 53051.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schmidt-and-bartelt-funeral-service-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schmidt-and-bartelt-funeral-service-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N84W17937 Menomonee Avenue",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1693265,
+    "lon": -88.132977
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1040136939",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "steinhafels-menomonee-falls",
+   "name": "Steinhafel's",
+   "summary": "Steinhafel's is a furniture store in Menomonee Falls, WI at N93W16677 Falls Parkway, Menomonee Falls, WI 53051.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/steinhafels-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/steinhafels-menomonee-falls.json",
+   "address": {
+    "streetAddress": "N93W16677 Falls Parkway",
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "postalCode": "53051",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "zip": "53051",
+   "geo": {
+    "lat": 43.1872715,
+    "lon": -88.1164629
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/547166437",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-menomonee-falls",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Menomonee Falls, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-menomonee-falls.json",
+   "address": {
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1204382,
+    "lon": -88.0871637
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10828077267",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bank-of-flowers-menomonee-falls",
+   "name": "Bank of Flowers",
+   "summary": "Bank of Flowers is a florist in Menomonee Falls, WI.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bank-of-flowers-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bank-of-flowers-menomonee-falls.json",
+   "address": {
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1789487,
+    "lon": -88.1176407
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9084772519",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cal-tattoo-menomonee-falls",
+   "name": "Cal Tattoo",
+   "summary": "Cal Tattoo is a tattoo shop in Menomonee Falls, WI.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cal-tattoo-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cal-tattoo-menomonee-falls.json",
+   "address": {
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1741772,
+    "lon": -88.1118371
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12151001440",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-menomonee-falls",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Menomonee Falls, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-menomonee-falls.json",
+   "address": {
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1204207,
+    "lon": -88.0868121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10828077269",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "malkins-flooring-menomonee-falls",
+   "name": "Malkin's Flooring",
+   "summary": "Malkin's Flooring is a flooring company in Menomonee Falls, WI.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/malkins-flooring-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/malkins-flooring-menomonee-falls.json",
+   "address": {
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1903568,
+    "lon": -88.1209478
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5290017455",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "penny-mustard-menomonee-falls",
+   "name": "Penny Mustard",
+   "summary": "Penny Mustard is a furniture store in Menomonee Falls, WI.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/penny-mustard-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/penny-mustard-menomonee-falls.json",
+   "address": {
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1907153,
+    "lon": -88.1213515
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5290017454",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "scion-dental-menomonee-falls",
+   "name": "Scion Dental",
+   "summary": "Scion Dental is a florist in Menomonee Falls, WI.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scion-dental-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scion-dental-menomonee-falls.json",
+   "address": {
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1869289,
+    "lon": -88.0928765
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1450137798",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-menomonee-falls",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Menomonee Falls, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-menomonee-falls.json",
+   "address": {
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1854576,
+    "lon": -88.1099573
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7659601053",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "village-dental-group-menomonee-falls",
+   "name": "Village Dental Group",
+   "summary": "Village Dental Group is a dentist in Menomonee Falls, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-dental-group-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-dental-group-menomonee-falls.json",
+   "address": {
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1628321,
+    "lon": -88.0934257
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12197379883",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wisconsin-athletic-club-menomonee-falls",
+   "name": "Wisconsin Athletic Club",
+   "summary": "Wisconsin Athletic Club is a gym in Menomonee Falls, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wisconsin-athletic-club-menomonee-falls/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wisconsin-athletic-club-menomonee-falls.json",
+   "address": {
+    "addressLocality": "Menomonee Falls",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Menomonee Falls",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1828795,
+    "lon": -88.1043676
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5289128060",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

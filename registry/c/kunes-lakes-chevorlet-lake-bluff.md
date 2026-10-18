@@ -15,7 +15,7 @@ Kunes Lakes Chevorlet is an used car dealer in Lake Bluff, IL at 1 Sherwood Terr
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kunes-lakes-chevorlet-lake-bluff/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kunes-lakes-chevorlet-lake-bluff.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/372791844 (license ODbL-1.0); source data as of 2026-06-01

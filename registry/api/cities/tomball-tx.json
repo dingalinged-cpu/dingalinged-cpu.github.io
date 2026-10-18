@@ -1,0 +1,2433 @@
+{
+ "place": "Tomball, TX",
+ "slug": "tomball-tx",
+ "count": 73,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-tomball-tx.json"
+  },
+  {
+   "keyword": "attorney tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-tomball-tx.json"
+  },
+  {
+   "keyword": "auto repair tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-tomball-tx.json"
+  },
+  {
+   "keyword": "bakery tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-tomball-tx.json"
+  },
+  {
+   "keyword": "barber shop tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-tomball-tx.json"
+  },
+  {
+   "keyword": "car wash tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-tomball-tx.json"
+  },
+  {
+   "keyword": "dentist tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-tomball-tx.json"
+  },
+  {
+   "keyword": "dermatologist tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dermatologist-tomball-tx.json"
+  },
+  {
+   "keyword": "dry cleaners tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-tomball-tx.json"
+  },
+  {
+   "keyword": "event venues tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-tomball-tx.json"
+  },
+  {
+   "keyword": "family doctor tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-tomball-tx.json"
+  },
+  {
+   "keyword": "funeral home tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-tomball-tx.json"
+  },
+  {
+   "keyword": "furniture store tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-tomball-tx.json"
+  },
+  {
+   "keyword": "gift shop tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-tomball-tx.json"
+  },
+  {
+   "keyword": "gym tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-tomball-tx.json"
+  },
+  {
+   "keyword": "hair salon tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-tomball-tx.json"
+  },
+  {
+   "keyword": "haircut tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-tomball-tx.json"
+  },
+  {
+   "keyword": "heating and air tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-tomball-tx.json"
+  },
+  {
+   "keyword": "hvac repair tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-tomball-tx.json"
+  },
+  {
+   "keyword": "insurance agency tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-tomball-tx.json"
+  },
+  {
+   "keyword": "insurance agent tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-tomball-tx.json"
+  },
+  {
+   "keyword": "insurance agents tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-tomball-tx.json"
+  },
+  {
+   "keyword": "jewelry store tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-tomball-tx.json"
+  },
+  {
+   "keyword": "lawyer tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-tomball-tx.json"
+  },
+  {
+   "keyword": "liquor store tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-tomball-tx.json"
+  },
+  {
+   "keyword": "martial arts tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-tomball-tx.json"
+  },
+  {
+   "keyword": "massage tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-tomball-tx.json"
+  },
+  {
+   "keyword": "mattress store tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-tomball-tx.json"
+  },
+  {
+   "keyword": "mechanic tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-tomball-tx.json"
+  },
+  {
+   "keyword": "motorcycle repair tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/motorcycle-repair-tomball-tx.json"
+  },
+  {
+   "keyword": "nail salon tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-tomball-tx.json"
+  },
+  {
+   "keyword": "oil change tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-tomball-tx.json"
+  },
+  {
+   "keyword": "pediatrician tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pediatrician-tomball-tx.json"
+  },
+  {
+   "keyword": "pet store tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-tomball-tx.json"
+  },
+  {
+   "keyword": "primary care physician tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-tomball-tx.json"
+  },
+  {
+   "keyword": "property management companies tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-companies-tomball-tx.json"
+  },
+  {
+   "keyword": "property management company tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-company-tomball-tx.json"
+  },
+  {
+   "keyword": "roofer tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-tomball-tx.json"
+  },
+  {
+   "keyword": "roofing contractor tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-tomball-tx.json"
+  },
+  {
+   "keyword": "storage units tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-tomball-tx.json"
+  },
+  {
+   "keyword": "therapist tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-tomball-tx.json"
+  },
+  {
+   "keyword": "thrift store tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-tomball-tx.json"
+  },
+  {
+   "keyword": "tire shop tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-tomball-tx.json"
+  },
+  {
+   "keyword": "vet tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-tomball-tx.json"
+  },
+  {
+   "keyword": "yoga classes tomball tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-tomball-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "action-behavior-center-tomball",
+   "name": "Action Behavior Center",
+   "summary": "Action Behavior Center is a therapy practice in Tomball, TX at 155 School Road #155, Tomball, TX 77375. Phone: +12813469400. Website: https://www.actionbehavior.com/locations/texas/houston/aba-therapy-tomball-tx/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/action-behavior-center-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/action-behavior-center-tomball.json",
+   "address": {
+    "streetAddress": "155 School Road #155",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0822807,
+    "lon": -95.6181855
+   },
+   "phone": "+12813469400",
+   "website": "https://www.actionbehavior.com/locations/texas/houston/aba-therapy-tomball-tx/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11196551966",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cobble-creek-leasing-office-tomball",
+   "name": "Cobble Creek Leasing Office",
+   "summary": "Cobble Creek Leasing Office is a property management company in Tomball, TX at 920 Lawrence Street, Tomball, TX 77375. Phone: +12813512100. Website: https://www.cobblecreekliving.com/.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cobble-creek-leasing-office-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cobble-creek-leasing-office-tomball.json",
+   "address": {
+    "streetAddress": "920 Lawrence Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.083542,
+    "lon": -95.6265697
+   },
+   "phone": "+12813512100",
+   "website": "https://www.cobblecreekliving.com/",
+   "opening_hours": "Mo,We-Fr 08:30-17:30; Tu 10:00-17:30; Sa 10:00-17:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1227845544",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crossway-mechanical-llc-tomball",
+   "name": "Crossway Mechanical LLC",
+   "summary": "Crossway Mechanical LLC is a HVAC contractor in Tomball, TX at 327 South Persimmon Street #A, Tomball, TX 77375. Phone: +18322506191. Website: https://www.crosswaymechanical.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossway-mechanical-llc-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossway-mechanical-llc-tomball.json",
+   "address": {
+    "streetAddress": "327 South Persimmon Street #A",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0970865,
+    "lon": -95.6002106
+   },
+   "phone": "+18322506191",
+   "website": "https://www.crosswaymechanical.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13238974990",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-oil-change-and-tire-engineers-tomball",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Tomball, TX at 25460 Kuykendahl Road, Tomball, TX 77375. Phone: +13462986656. Website: https://www.expressoil.com/stores/tomball/tx/1023/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-tomball.json",
+   "address": {
+    "streetAddress": "25460 Kuykendahl Road",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.1313547,
+    "lon": -95.5529844
+   },
+   "phone": "+13462986656",
+   "website": "https://www.expressoil.com/stores/tomball/tx/1023/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1216574069",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-insurance-tomball",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Tomball, TX at 12422 Spring Cypress Road #Suite D, Tomball, TX 77377. Phone: +12817630400. Website: https://agents.farmers.com/tx/tomball/laurel-jonas.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-tomball.json",
+   "address": {
+    "streetAddress": "12422 Spring Cypress Road #Suite D",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77377",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77377",
+   "geo": {
+    "lat": 30.0140374,
+    "lon": -95.616248
+   },
+   "phone": "+12817630400",
+   "website": "https://agents.farmers.com/tx/tomball/laurel-jonas",
+   "opening_hours": "Mo-Fr 08:30-17:30; Sa-Su \"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13436571460",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "first-primary-care-tomball",
+   "name": "First Primary Care",
+   "summary": "First Primary Care is a family medicine practice in Tomball, TX at 12426 Spring Cypress Road #C, Tomball, TX 77377. Phone: +18322199414. Website: https://www.firstprimarycare.com/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-primary-care-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-primary-care-tomball.json",
+   "address": {
+    "streetAddress": "12426 Spring Cypress Road #C",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77377",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77377",
+   "geo": {
+    "lat": 30.0147268,
+    "lon": -95.6163373
+   },
+   "phone": "+18322199414",
+   "website": "https://www.firstprimarycare.com/",
+   "opening_hours": "Mo-Th 08:30-16:30; Fr 08:30-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13603648913",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gansett-storage-tomball",
+   "name": "Gansett Storage",
+   "summary": "Gansett Storage is a self-storage facility in Tomball, TX at 30530 State Highway 249, Tomball, TX 77375. Phone: +12813172831. Website: https://gansettstorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gansett-storage-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gansett-storage-tomball.json",
+   "address": {
+    "streetAddress": "30530 State Highway 249",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.114454,
+    "lon": -95.6419399
+   },
+   "phone": "+12813172831",
+   "website": "https://gansettstorage.com/",
+   "opening_hours": "Mo-Su 07:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1396718003",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kens-auto-repair-tomball",
+   "name": "Ken's Auto Repair",
+   "summary": "Ken's Auto Repair is an auto repair shop in Tomball, TX at 30118 State Highway 249, Tomball, TX 77375. Phone: +12812556344. Website: https://www.kensautorepairtx.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kens-auto-repair-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kens-auto-repair-tomball.json",
+   "address": {
+    "streetAddress": "30118 State Highway 249",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.1081168,
+    "lon": -95.6399481
+   },
+   "phone": "+12812556344",
+   "website": "https://www.kensautorepairtx.com/",
+   "opening_hours": "Mo-Sa 07:00-18:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1245766453",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lemaster-law-firm-tomball",
+   "name": "LeMaster Law Firm",
+   "summary": "LeMaster Law Firm is a lawyer in Tomball, TX at 203 Raymond St., Tomball, TX 77375. Phone: +18323567983. Website: https://www.lemasterlawfirm.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lemaster-law-firm-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lemaster-law-firm-tomball.json",
+   "address": {
+    "streetAddress": "203 Raymond St.",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.090994,
+    "lon": -95.6260953
+   },
+   "phone": "+18323567983",
+   "website": "https://www.lemasterlawfirm.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12866672298",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "p1-racing-tomball",
+   "name": "P1 Racing",
+   "summary": "P1 Racing is a motorcycle repair shop in Tomball, TX at 256 South Persimmon Street #100, Tomball, TX 77375. Phone: +12812556004. Website: https://www.p-1race.com/.",
+   "categories": [
+    "motorcycle repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/p1-racing-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/p1-racing-tomball.json",
+   "address": {
+    "streetAddress": "256 South Persimmon Street #100",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0987872,
+    "lon": -95.6000741
+   },
+   "phone": "+12812556004",
+   "website": "https://www.p-1race.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12331337954",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-tomball",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Tomball, TX at 14420 FM 2920, Tomball, TX 77377. Phone: +12815160834. Website: https://www.petsmart.com/stores/us/tx/tomball-store1642.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-tomball.json",
+   "address": {
+    "streetAddress": "14420 FM 2920",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77377",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77377",
+   "geo": {
+    "lat": 30.0918543,
+    "lon": -95.6409855
+   },
+   "phone": "+12815160834",
+   "website": "https://www.petsmart.com/stores/us/tx/tomball-store1642.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3321057909",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "refined-therapeutic-massage-tomball",
+   "name": "Refined Therapeutic Massage",
+   "summary": "Refined Therapeutic Massage is a massage studio in Tomball, TX at 23902 FM 2978, Tomball, TX 77375. Phone: +17138874558. Website: https://www.refinedmassage.us/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/refined-therapeutic-massage-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/refined-therapeutic-massage-tomball.json",
+   "address": {
+    "streetAddress": "23902 FM 2978",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.1086923,
+    "lon": -95.5922504
+   },
+   "phone": "+17138874558",
+   "website": "https://www.refinedmassage.us/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13479565076",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "roof-top-innovations-tomball",
+   "name": "Roof Top Innovations",
+   "summary": "Roof Top Innovations is a roofer in Tomball, TX at 311 North Sycamore Street, Tomball, TX 77375. Phone: +12813517663. Website: https://rooftopinnovations.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/roof-top-innovations-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/roof-top-innovations-tomball.json",
+   "address": {
+    "streetAddress": "311 North Sycamore Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.1002378,
+    "lon": -95.6140078
+   },
+   "phone": "+12813517663",
+   "website": "https://rooftopinnovations.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11383327365",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-insurance-tomball",
+   "name": "State Farm Insurance",
+   "summary": "State Farm Insurance is an insurance agent in Tomball, TX at 12619 Spring Cypress Road, Tomball, TX 77377. Phone: +12813795777. Website: https://www.danbrooks.org/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-insurance-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-insurance-tomball.json",
+   "address": {
+    "streetAddress": "12619 Spring Cypress Road",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77377",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77377",
+   "geo": {
+    "lat": 30.0114001,
+    "lon": -95.6183778
+   },
+   "phone": "+12813795777",
+   "website": "https://www.danbrooks.org/",
+   "opening_hours": "Mo-Th 08:30-17:00; Fr 08:30-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5759904165",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "watson-orthodontics-tomball",
+   "name": "Watson Orthodontics",
+   "summary": "Watson Orthodontics is a dentist in Tomball, TX at 700 West Main Street, Tomball, TX 77375. Phone: +12819557612. Website: https://smilesarecool.com/tomball-orthodontic-office.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/watson-orthodontics-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/watson-orthodontics-tomball.json",
+   "address": {
+    "streetAddress": "700 West Main Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0954091,
+    "lon": -95.6210078
+   },
+   "phone": "+12819557612",
+   "website": "https://smilesarecool.com/tomball-orthodontic-office",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521298507",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "4-corners-conference-center-tomball",
+   "name": "4 Corners Conference Center",
+   "summary": "4 Corners Conference Center is an event venue in Tomball, TX at 130 Agg Road, Tomball, TX 77375. Phone: +12817897500. Website: https://joanhunter.org/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/4-corners-conference-center-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/4-corners-conference-center-tomball.json",
+   "address": {
+    "streetAddress": "130 Agg Road",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0822732,
+    "lon": -95.6078229
+   },
+   "phone": "+12817897500",
+   "website": "https://joanhunter.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/680241773",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "blackhorse-roofing-and-construction-llc-tomball",
+   "name": "BlackHorse Roofing & Construction LLC",
+   "summary": "BlackHorse Roofing & Construction LLC is a roofer in Tomball, TX at 24445 Tomball Parkway #100, Tomball, TX 77375. Phone: +18328007404. Website: https://blackhorseroofingandconstruction.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blackhorse-roofing-and-construction-llc-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blackhorse-roofing-and-construction-llc-tomball.json",
+   "address": {
+    "streetAddress": "24445 Tomball Parkway #100",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0374963,
+    "lon": -95.6071533
+   },
+   "phone": "+18328007404",
+   "website": "https://blackhorseroofingandconstruction.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13033528634",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "classic-collision-tomball",
+   "name": "Classic Collision",
+   "summary": "Classic Collision is an auto repair shop in Tomball, TX at 1603 Hicks Street, Tomball, TX 77375. Phone: +18324848888. Website: https://classiccollision.com/locations/classic-collision-tomball.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/classic-collision-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/classic-collision-tomball.json",
+   "address": {
+    "streetAddress": "1603 Hicks Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0973478,
+    "lon": -95.6333442
+   },
+   "phone": "+18324848888",
+   "website": "https://classiccollision.com/locations/classic-collision-tomball",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521298606",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crossfit-tomball",
+   "name": "CrossFit",
+   "summary": "CrossFit is a gym in Tomball, TX at 29935 Tomball Parkway, Tomball, TX 77375. Phone: +18323384656. Website: https://crossfitigneous.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossfit-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossfit-tomball.json",
+   "address": {
+    "streetAddress": "29935 Tomball Parkway",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.1060152,
+    "lon": -95.6407693
+   },
+   "phone": "+18323384656",
+   "website": "https://crossfitigneous.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1245766457",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "enfield-royal-med-spa-tomball",
+   "name": "Enfield Royal Med Spa",
+   "summary": "Enfield Royal Med Spa is a dermatologist in Tomball, TX at 11606 Westlock Drive #105A, Tomball, TX 77377. Phone: +18883366644. Website: https://enfieldroyalclinic.com/texas/.",
+   "categories": [
+    "dermatologist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/enfield-royal-med-spa-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/enfield-royal-med-spa-tomball.json",
+   "address": {
+    "streetAddress": "11606 Westlock Drive #105A",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77377",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77377",
+   "geo": {
+    "lat": 30.0323376,
+    "lon": -95.6048843
+   },
+   "phone": "+18883366644",
+   "website": "https://enfieldroyalclinic.com/texas/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13478433606",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ginas-massage-and-body-work-tomball",
+   "name": "Gina's Massage and Body Work",
+   "summary": "Gina's Massage and Body Work is a massage studio in Tomball, TX at 110 Houston Street, Tomball, TX 77375. Phone: +17138853506. Website: https://square.site/book/DTEK0SV14ZMD2/gina-s-massage-body-work-tomball-tx.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ginas-massage-and-body-work-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ginas-massage-and-body-work-tomball.json",
+   "address": {
+    "streetAddress": "110 Houston Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.099346,
+    "lon": -95.6157593
+   },
+   "phone": "+17138853506",
+   "website": "https://square.site/book/DTEK0SV14ZMD2/gina-s-massage-body-work-tomball-tx",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1408222943",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "harvest-home-and-inwood-crossing-tomball",
+   "name": "Harvest Home and Inwood Crossing",
+   "summary": "Harvest Home and Inwood Crossing is an assisted living facility in Tomball, TX at 520 Baker Drive, Tomball, TX 77375. Phone: +18326395748. Website: https://harvesthomeinwoodcrossing.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harvest-home-and-inwood-crossing-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harvest-home-and-inwood-crossing-tomball.json",
+   "address": {
+    "streetAddress": "520 Baker Drive",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.1003696,
+    "lon": -95.6239166
+   },
+   "phone": "+18326395748",
+   "website": "https://harvesthomeinwoodcrossing.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1408668855",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "james-d-geer-dds-inc-tomball",
+   "name": "James D. Geer, DDS, Inc.",
+   "summary": "James D. Geer, DDS, Inc. is a dentist in Tomball, TX at 1013 West Main Street, Tomball, TX 77375. Phone: +12813574337. Website: https://www.tomballdentist.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-d-geer-dds-inc-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-d-geer-dds-inc-tomball.json",
+   "address": {
+    "streetAddress": "1013 West Main Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0921055,
+    "lon": -95.6260057
+   },
+   "phone": "+12813574337",
+   "website": "https://www.tomballdentist.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12644704149",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "master-kims-pma-taekwondo-tomball",
+   "name": "Master Kim's PMA Taekwondo",
+   "summary": "Master Kim's PMA Taekwondo is a gym in Tomball, TX at 25201 Kuykendahl Road #600, Tomball, TX 77375. Phone: +18327824414. Website: https://www.pmatkd.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/master-kims-pma-taekwondo-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/master-kims-pma-taekwondo-tomball.json",
+   "address": {
+    "streetAddress": "25201 Kuykendahl Road #600",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.1269638,
+    "lon": -95.5546119
+   },
+   "phone": "+18327824414",
+   "website": "https://www.pmatkd.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12398503308",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midas-tomball",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Tomball, TX at 29230 Tomball Parkway, Tomball, TX 77375. Phone: +12818261926. Website: https://www.midas.com/store/tx/tomball/29230-tomball-parkway-77375?shopnum=5141.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-tomball.json",
+   "address": {
+    "streetAddress": "29230 Tomball Parkway",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0967769,
+    "lon": -95.6343425
+   },
+   "phone": "+12818261926",
+   "website": "https://www.midas.com/store/tx/tomball/29230-tomball-parkway-77375?shopnum=5141",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1091756697",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-haven-assisted-living-and-memory-care-tomball",
+   "name": "New Haven Assisted Living and Memory Care",
+   "summary": "New Haven Assisted Living and Memory Care is an assisted living facility in Tomball, TX at 609 South Pine Street, Tomball, TX 77375. Phone: +18325549283. Website: https://newhaventexas.com/locations/tomball.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-haven-assisted-living-and-memory-care-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-haven-assisted-living-and-memory-care-tomball.json",
+   "address": {
+    "streetAddress": "609 South Pine Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0913326,
+    "lon": -95.614882
+   },
+   "phone": "+18325549283",
+   "website": "https://newhaventexas.com/locations/tomball",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1408677852",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ottos-emporium-tomball",
+   "name": "Otto's Emporium",
+   "summary": "Otto's Emporium is a furniture store in Tomball, TX at 707 West Main Street, Tomball, TX 77375. Phone: +12814078366. Website: https://www.ottosemporium.net/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ottos-emporium-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ottos-emporium-tomball.json",
+   "address": {
+    "streetAddress": "707 West Main Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0946079,
+    "lon": -95.6211358
+   },
+   "phone": "+12814078366",
+   "website": "https://www.ottosemporium.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521298778",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "parker-and-howard-insurance-tomball",
+   "name": "Parker & Howard Insurance",
+   "summary": "Parker & Howard Insurance is an insurance agent in Tomball, TX at 827 Village Square Drive, Tomball, TX 77375. Phone: +12813518282. Website: https://parkerhowardinsurance.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/parker-and-howard-insurance-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/parker-and-howard-insurance-tomball.json",
+   "address": {
+    "streetAddress": "827 Village Square Drive",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0947431,
+    "lon": -95.6244464
+   },
+   "phone": "+12813518282",
+   "website": "https://parkerhowardinsurance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12648843182",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "saha-yoga-and-wellness-house-tomball",
+   "name": "Saha Yoga and Wellness House",
+   "summary": "Saha Yoga and Wellness House is a yoga studio in Tomball, TX at 104 Houston Street, Tomball, TX 77375. Phone: +12815468003. Website: https://sahayogahouse.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saha-yoga-and-wellness-house-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saha-yoga-and-wellness-house-tomball.json",
+   "address": {
+    "streetAddress": "104 Houston Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0994948,
+    "lon": -95.6155059
+   },
+   "phone": "+12815468003",
+   "website": "https://sahayogahouse.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1071382139",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "spring-creek-animal-hospital-tomball",
+   "name": "Spring Creek Animal Hospital",
+   "summary": "Spring Creek Animal Hospital is a veterinarian in Tomball, TX at 101 Epps Street, Tomball, TX 77375. Phone: +12813517184. Website: https://kindvet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spring-creek-animal-hospital-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spring-creek-animal-hospital-tomball.json",
+   "address": {
+    "streetAddress": "101 Epps Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.100849,
+    "lon": -95.6158235
+   },
+   "phone": "+12813517184",
+   "website": "https://kindvet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1071382027",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-shepherd-law-firm-tomball",
+   "name": "The Shepherd Law Firm",
+   "summary": "The Shepherd Law Firm is a lawyer in Tomball, TX at 1302 Rudel Drive, Tomball, TX 77375. Phone: +12813578900. Website: https://shepherdlaw.yolasite.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-shepherd-law-firm-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-shepherd-law-firm-tomball.json",
+   "address": {
+    "streetAddress": "1302 Rudel Drive",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0942427,
+    "lon": -95.6296171
+   },
+   "phone": "+12813578900",
+   "website": "https://shepherdlaw.yolasite.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1091756378",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tomball-animal-hospital-tomball",
+   "name": "Tomball Animal Hospital",
+   "summary": "Tomball Animal Hospital is a veterinarian in Tomball, TX at 802 West Main Street, Tomball, TX 77375. Phone: +12813514300. Website: https://www.tomballpetdr.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tomball-animal-hospital-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tomball-animal-hospital-tomball.json",
+   "address": {
+    "streetAddress": "802 West Main Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0945611,
+    "lon": -95.6232362
+   },
+   "phone": "+12813514300",
+   "website": "https://www.tomballpetdr.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1071382002",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tomball-smiles-dentistry-tomball",
+   "name": "Tomball Smiles Dentistry",
+   "summary": "Tomball Smiles Dentistry is a dentist in Tomball, TX at 28602 Tomball Parkway #B, Tomball, TX 77375. Phone: +12817649364. Website: https://www.tomballsmilesdentistry.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tomball-smiles-dentistry-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tomball-smiles-dentistry-tomball.json",
+   "address": {
+    "streetAddress": "28602 Tomball Parkway #B",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0899062,
+    "lon": -95.6320439
+   },
+   "phone": "+12817649364",
+   "website": "https://www.tomballsmilesdentistry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12529481702",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "true-form-gym-tomball",
+   "name": "True Form Gym",
+   "summary": "True Form Gym is a gym in Tomball, TX at 205 Houston Street, Tomball, TX 77375. Phone: +13466768720. Website: https://trueformgym.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/true-form-gym-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/true-form-gym-tomball.json",
+   "address": {
+    "streetAddress": "205 Houston Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0987629,
+    "lon": -95.6161221
+   },
+   "phone": "+13466768720",
+   "website": "https://trueformgym.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1071382495",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valvoline-tomball",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Tomball, TX at 1140 West Main Street, Tomball, TX 77375. Phone: +12812908200. Website: https://store.vioc.com/tx/tomball/oil-change-070086.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-tomball.json",
+   "address": {
+    "streetAddress": "1140 West Main Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0923134,
+    "lon": -95.627168
+   },
+   "phone": "+12812908200",
+   "website": "https://store.vioc.com/tx/tomball/oil-change-070086.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521298471",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "team-resale-shop-tomball",
+   "name": "TEAM Resale Shop",
+   "summary": "TEAM Resale Shop is a thrift store in Tomball, TX at 300 West Main Street, Tomball, TX. Phone: +12813516700. Website: https://teamtomball.com/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/team-resale-shop-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/team-resale-shop-tomball.json",
+   "address": {
+    "streetAddress": "300 West Main Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0973518,
+    "lon": -95.6163778
+   },
+   "phone": "+12813516700",
+   "website": "https://teamtomball.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1054788560",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "feray-family-practice-tomball",
+   "name": "Feray Family Practice",
+   "summary": "Feray Family Practice is a family medicine practice in Tomball, TX at 720 Lawrence Street, Tomball, TX 77375. Website: https://www.drferay.com/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/feray-family-practice-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/feray-family-practice-tomball.json",
+   "address": {
+    "streetAddress": "720 Lawrence Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0862685,
+    "lon": -95.6264738
+   },
+   "website": "https://www.drferay.com/",
+   "opening_hours": "Mo-Th 07:00-16:00; Fr-Sa 07:00-10:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/711929914",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sammons-and-berry-p-c-attorneys-at-law-tomball",
+   "name": "Sammons & Berry P.C. Attorneys At Law",
+   "summary": "Sammons & Berry P.C. Attorneys At Law is a lawyer in Tomball, TX. Phone: +18005191440. Website: https://railroadasbestosclaims.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sammons-and-berry-p-c-attorneys-at-law-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sammons-and-berry-p-c-attorneys-at-law-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.095012,
+    "lon": -95.6219851
+   },
+   "phone": "+18005191440",
+   "website": "https://railroadasbestosclaims.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1071382369",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "adelynes-boutique-and-gifts-tomball",
+   "name": "Adelyne's Boutique & Gifts",
+   "summary": "Adelyne's Boutique & Gifts is a gift shop in Tomball, TX at 11715 Spring Cypress Road #E, Tomball, TX 77377. Website: https://shopadelynes.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adelynes-boutique-and-gifts-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adelynes-boutique-and-gifts-tomball.json",
+   "address": {
+    "streetAddress": "11715 Spring Cypress Road #E",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77377",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77377",
+   "geo": {
+    "lat": 30.0123877,
+    "lon": -95.6027638
+   },
+   "website": "https://shopadelynes.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12955272924",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "champions-pediatric-associates-tomball",
+   "name": "Champions Pediatric Associates",
+   "summary": "Champions Pediatric Associates is a pediatrician in Tomball, TX at 25201 Kuykendahl Road, Tomball, TX 77375. Website: https://www.championspediatric.com/.",
+   "categories": [
+    "pediatrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/champions-pediatric-associates-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/champions-pediatric-associates-tomball.json",
+   "address": {
+    "streetAddress": "25201 Kuykendahl Road",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.1270349,
+    "lon": -95.5546071
+   },
+   "website": "https://www.championspediatric.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12398500792",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crist-family-dental-tomball",
+   "name": "Crist Family Dental",
+   "summary": "Crist Family Dental is a dentist in Tomball, TX at 24914 Tomball Parkway, Tomball, TX 77375. Website: https://www.cristfamilydental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crist-family-dental-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crist-family-dental-tomball.json",
+   "address": {
+    "streetAddress": "24914 Tomball Parkway",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0449698,
+    "lon": -95.609343
+   },
+   "website": "https://www.cristfamilydental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13743134983",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-tomball",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Tomball, TX at 14239 FM 2920, Tomball, TX 77377. Phone: +12812907091.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-tomball.json",
+   "address": {
+    "streetAddress": "14239 FM 2920",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77377",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77377",
+   "geo": {
+    "lat": 30.0888793,
+    "lon": -95.6391375
+   },
+   "phone": "+12812907091",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/683603690",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eva-nales-and-spa-tomball",
+   "name": "Eva Nales & Spa",
+   "summary": "Eva Nales & Spa is a nail salon in Tomball, TX at 25201 Kuykendahl Road, Tomball, TX 77375. Website: https://evanailsspa1.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eva-nales-and-spa-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eva-nales-and-spa-tomball.json",
+   "address": {
+    "streetAddress": "25201 Kuykendahl Road",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.1267714,
+    "lon": -95.5545859
+   },
+   "website": "https://evanailsspa1.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12398518349",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-tomball",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Tomball, TX at 25201 Kuykendahl Road #250, Tomball, TX 77375. Website: https://www.goodwillhouston.org/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-tomball.json",
+   "address": {
+    "streetAddress": "25201 Kuykendahl Road #250",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.1265693,
+    "lon": -95.5546525
+   },
+   "website": "https://www.goodwillhouston.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12398501721",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "keep-it-simple-and-pink-events-tomball",
+   "name": "Keep it Simple & Pink Events",
+   "summary": "Keep it Simple & Pink Events is an event venue in Tomball, TX at 103 West Main Street, Tomball, TX 77375. Phone: +13463510538.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/keep-it-simple-and-pink-events-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/keep-it-simple-and-pink-events-tomball.json",
+   "address": {
+    "streetAddress": "103 West Main Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0978919,
+    "lon": -95.6140012
+   },
+   "phone": "+13463510538",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12997742288",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "premier-transmission-service-tomball",
+   "name": "Premier Transmission Service",
+   "summary": "Premier Transmission Service is an auto repair shop in Tomball, TX at 1230 Alma Street, Tomball, TX 77375. Phone: +12812900303.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premier-transmission-service-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premier-transmission-service-tomball.json",
+   "address": {
+    "streetAddress": "1230 Alma Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0907863,
+    "lon": -95.6280101
+   },
+   "phone": "+12812900303",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1091756403",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "quick-quack-car-wash-tomball",
+   "name": "Quick Quack Car Wash",
+   "summary": "Quick Quack Car Wash is a car wash in Tomball, TX at 1001 West Main Street, Tomball, TX 77375. Website: https://www.dontdrivedirty.com/location/tomball.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quick-quack-car-wash-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quick-quack-car-wash-tomball.json",
+   "address": {
+    "streetAddress": "1001 West Main Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0922828,
+    "lon": -95.6256445
+   },
+   "website": "https://www.dontdrivedirty.com/location/tomball",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1091756642",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-tomball",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Tomball, TX at 1445 Keefer Road #B, Tomball, TX 77375. Website: https://www.welborninsurance.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-tomball.json",
+   "address": {
+    "streetAddress": "1445 Keefer Road #B",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0916298,
+    "lon": -95.6320773
+   },
+   "website": "https://www.welborninsurance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12529481703",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tomball-barber-shop-tomball",
+   "name": "Tomball Barber Shop",
+   "summary": "Tomball Barber Shop is a barber shop in Tomball, TX at 613 West Main Street, Tomball, TX 77375. Phone: +17138344031.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tomball-barber-shop-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tomball-barber-shop-tomball.json",
+   "address": {
+    "streetAddress": "613 West Main Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0950963,
+    "lon": -95.6199524
+   },
+   "phone": "+17138344031",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12976314218",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tomball-diesel-and-auto-tomball",
+   "name": "Tomball Diesel and Auto",
+   "summary": "Tomball Diesel and Auto is an auto repair shop in Tomball, TX at 910 Barbara Street, Tomball, TX 77375. Phone: +12812550444.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tomball-diesel-and-auto-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tomball-diesel-and-auto-tomball.json",
+   "address": {
+    "streetAddress": "910 Barbara Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0917753,
+    "lon": -95.6249706
+   },
+   "phone": "+12812550444",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1091756631",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brits-batch-tomball",
+   "name": "Brit's Batch",
+   "summary": "Brit's Batch is a bakery in Tomball, TX at 24510 Tomball Parkway, Tomball, TX 77375.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brits-batch-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brits-batch-tomball.json",
+   "address": {
+    "streetAddress": "24510 Tomball Parkway",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0381359,
+    "lon": -95.6043731
+   },
+   "opening_hours": "Mo-Su,PH 11:00-23:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1309877913",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-litter-control-tomball",
+   "name": "Texas Litter Control",
+   "summary": "Texas Litter Control is a veterinarian in Tomball, TX at 28439 Tomball Parkway, Tomball, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-litter-control-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-litter-control-tomball.json",
+   "address": {
+    "streetAddress": "28439 Tomball Parkway",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0872813,
+    "lon": -95.6329629
+   },
+   "opening_hours": "Mo-Sa 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11302261955",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ntb-tomball",
+   "name": "NTB",
+   "summary": "NTB is an auto repair shop in Tomball, TX. Website: https://www.ntb.com/store/tx/tomball/14414-fm-2920-rd-77377/4518.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ntb-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ntb-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0898556,
+    "lon": -95.641048
+   },
+   "website": "https://www.ntb.com/store/tx/tomball/14414-fm-2920-rd-77377/4518",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521298814",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-heritage-tomball-senior-living-tomball",
+   "name": "The Heritage Tomball Senior Living",
+   "summary": "The Heritage Tomball Senior Living is an assisted living facility in Tomball, TX. Website: https://www.heritagetomball.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-heritage-tomball-senior-living-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-heritage-tomball-senior-living-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0871611,
+    "lon": -95.62823
+   },
+   "website": "https://www.heritagetomball.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1304759936",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "copas-dental-tomball",
+   "name": "Copas Dental",
+   "summary": "Copas Dental is a dentist in Tomball, TX at 14025 1/2 FM 2920, Tomball, TX 77377.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/copas-dental-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/copas-dental-tomball.json",
+   "address": {
+    "streetAddress": "14025 1/2 FM 2920",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77377",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77377",
+   "geo": {
+    "lat": 30.0889818,
+    "lon": -95.6334712
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6078588223",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "graze-gather-tomball",
+   "name": "Graze + Gather",
+   "summary": "Graze + Gather is an event venue in Tomball, TX at 103 Houston Street, Tomball, TX 77375.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/graze-gather-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/graze-gather-tomball.json",
+   "address": {
+    "streetAddress": "103 Houston Street",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.0992767,
+    "lon": -95.6151143
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1071382565",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-tomball",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Tomball, TX.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0891249,
+    "lon": -95.6330917
+   },
+   "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12068097014",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "restoration-smiles-tomball",
+   "name": "Restoration Smiles",
+   "summary": "Restoration Smiles is a dentist in Tomball, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/restoration-smiles-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/restoration-smiles-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.088953,
+    "lon": -95.6330547
+   },
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12068092364",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aspen-dental-tomball",
+   "name": "Aspen Dental",
+   "summary": "Aspen Dental is a dentist in Tomball, TX at 27661 TX 249 Business, Tomball, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aspen-dental-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aspen-dental-tomball.json",
+   "address": {
+    "streetAddress": "27661 TX 249 Business",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0766669,
+    "lon": -95.6286831
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9997788147",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "endless-diamonds-tomball",
+   "name": "Endless Diamonds",
+   "summary": "Endless Diamonds is a jewelry store in Tomball, TX at 28429 Tomball Parkway, Tomball, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/endless-diamonds-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/endless-diamonds-tomball.json",
+   "address": {
+    "streetAddress": "28429 Tomball Parkway",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0872107,
+    "lon": -95.6324726
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521298539",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fieldings-local-tomball",
+   "name": "Fieldings Local",
+   "summary": "Fieldings Local is a hair salon in Tomball, TX at 26400 Kuykendahl Road, Tomball, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fieldings-local-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fieldings-local-tomball.json",
+   "address": {
+    "streetAddress": "26400 Kuykendahl Road",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1436544,
+    "lon": -95.5483913
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521206580",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tide-cleaners-tomball",
+   "name": "Tide Cleaners",
+   "summary": "Tide Cleaners is a dry cleaner in Tomball, TX at 14020 FM 2920 #A, Tomball, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tide-cleaners-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tide-cleaners-tomball.json",
+   "address": {
+    "streetAddress": "14020 FM 2920 #A",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0898204,
+    "lon": -95.6337533
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7041289701",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "9round-tomball",
+   "name": "9Round",
+   "summary": "9Round is a martial arts school in Tomball, TX.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/9round-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/9round-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.088855,
+    "lon": -95.6330438
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12068165505",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "alfreds-auto-service-tomball",
+   "name": "Alfred's Auto Service",
+   "summary": "Alfred's Auto Service is an auto repair shop in Tomball, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alfreds-auto-service-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alfreds-auto-service-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0972753,
+    "lon": -95.6328428
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521298786",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-e-b-car-wash-tomball",
+   "name": "H-E-B Car Wash",
+   "summary": "H-E-B Car Wash is a car wash in Tomball, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-car-wash-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.088716,
+    "lon": -95.631615
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/257708042",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "klein-funeral-home-tomball",
+   "name": "Klein Funeral Home",
+   "summary": "Klein Funeral Home is a funeral home in Tomball, TX.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/klein-funeral-home-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/klein-funeral-home-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0908806,
+    "lon": -95.6304479
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/617414824",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "liquorun-tomball",
+   "name": "LiquoRun",
+   "summary": "LiquoRun is a liquor store in Tomball, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquorun-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquorun-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1228825,
+    "lon": -95.5534923
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1137132884",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-spa-tomball",
+   "name": "Massage Spa",
+   "summary": "Massage Spa is a massage studio in Tomball, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-spa-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-spa-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1231609,
+    "lon": -95.5534709
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1137127334",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-tomball",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Tomball, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0917406,
+    "lon": -95.6401943
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3321057065",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "take-5-oil-change-tomball",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Tomball, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0905021,
+    "lon": -95.6292321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/986831781",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-zen-den-tomball",
+   "name": "The Zen Den",
+   "summary": "The Zen Den is a massage studio in Tomball, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-zen-den-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-zen-den-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0875066,
+    "lon": -95.6329803
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11964239452",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tlc-resale-tomball",
+   "name": "TLC Resale",
+   "summary": "TLC Resale is a thrift store in Tomball, TX.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tlc-resale-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tlc-resale-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0871849,
+    "lon": -95.6329441
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11964297429",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "troup-and-bruce-tomball",
+   "name": "Troup & Bruce",
+   "summary": "Troup & Bruce is a lawyer in Tomball, TX.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/troup-and-bruce-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/troup-and-bruce-tomball.json",
+   "address": {
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.094069,
+    "lon": -95.6139883
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1333141875",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

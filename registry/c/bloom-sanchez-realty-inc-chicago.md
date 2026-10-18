@@ -15,7 +15,7 @@ Bloom / Sanchez Realty Inc. is a real estate agency in Chicago, IL at 10511 Sout
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bloom-sanchez-realty-inc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bloom-sanchez-realty-inc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211388301 (license ODbL-1.0); source data as of 2026-07-28

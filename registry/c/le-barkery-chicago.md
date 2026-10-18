@@ -15,7 +15,7 @@ Le Barkery is a bakery in Chicago, IL at 4151 North Broadway, Chicago, IL 60613.
 - Opening hours (OSM syntax): Mo,We-Su 10:00-19:00; Tu off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/le-barkery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/le-barkery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11234498421 (license ODbL-1.0); source data as of 2026-06-01

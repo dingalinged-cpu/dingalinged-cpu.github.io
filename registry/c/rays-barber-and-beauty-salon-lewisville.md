@@ -1,0 +1,23 @@
+Ray's Barber & Beauty Salon is a hair salon in Lewisville, TX.
+
+# Ray's Barber & Beauty Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Lewisville, TX
+- City: Lewisville
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0428732, -97.033356
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 08:00-16:00; PH closed
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/rays-barber-and-beauty-salon-lewisville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rays-barber-and-beauty-salon-lewisville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11034614061 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

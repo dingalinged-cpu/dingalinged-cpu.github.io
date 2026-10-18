@@ -15,7 +15,7 @@ Bella Galleria is a thrift store in Minneapolis, MN at 3006 West 50th Street, Mi
 - Opening hours (OSM syntax): We-Fr 10:30-17:30; Sa 10:30-17:00; Su 12:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bella-galleria-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bella-galleria-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12223879869 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ R Barber Shoppe & Salon is a barber shop in Chicago, IL at 4757 North Clark Stre
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 09:00-19:00; Sa 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/r-barber-shoppe-and-salon-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/r-barber-shoppe-and-salon-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13285533230 (license ODbL-1.0); source data as of 2026-06-01

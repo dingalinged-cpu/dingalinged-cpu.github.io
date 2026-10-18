@@ -15,7 +15,7 @@ Firestone is an auto repair shop in Schaumburg, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/firestone-schaumburg-w245020735/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/firestone-schaumburg-w245020735.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/245020735 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ NK Family Dental is a dentist in Chicago, IL at 2335 West Fullerton Avenue, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nk-family-dental-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nk-family-dental-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209453954 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,44 @@
+{
+ "place": "Rosharon, TX",
+ "slug": "rosharon-tx",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [],
+ "companies": [
+  {
+   "slug": "duratex-instrument-and-electric-rosharon",
+   "name": "Duratex Instrument & Electric",
+   "summary": "Duratex Instrument & Electric is an electrician in Rosharon, TX at 838 Cheyenne Ridge Drive, Rosharon, TX 77583. Phone: +18327790273.",
+   "categories": [
+    "electrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/duratex-instrument-and-electric-rosharon/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/duratex-instrument-and-electric-rosharon.json",
+   "address": {
+    "streetAddress": "838 Cheyenne Ridge Drive",
+    "addressLocality": "Rosharon",
+    "addressRegion": "TX",
+    "postalCode": "77583",
+    "addressCountry": "US"
+   },
+   "city": "Rosharon",
+   "state": "TX",
+   "zip": "77583",
+   "geo": {
+    "lat": 29.3346379,
+    "lon": -95.4738618
+   },
+   "phone": "+18327790273",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13305211361",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

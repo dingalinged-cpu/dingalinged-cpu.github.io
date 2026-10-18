@@ -15,7 +15,7 @@ Melon Express Catering is a caterer in Chicago, IL at 7108 South Oglesby Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/melon-express-catering-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/melon-express-catering-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211318727 (license ODbL-1.0); source data as of 2026-06-01

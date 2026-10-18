@@ -15,7 +15,7 @@ LoveSac is a furniture store in Saint Paul, MN. Phone: +15672291569. Website: ht
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lovesac-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lovesac-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13890091308 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Top Driver Driving School is a driving school in Western Springs, IL at 810 Hill
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/top-driver-driving-school-western-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/top-driver-driving-school-western-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9603226068 (license ODbL-1.0); source data as of 2026-07-28

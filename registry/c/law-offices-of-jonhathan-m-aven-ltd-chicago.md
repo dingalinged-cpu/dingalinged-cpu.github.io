@@ -15,7 +15,7 @@ Law Offices of Jonhathan M Aven, LTD is a lawyer in Chicago, IL at 180 North Mic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/law-offices-of-jonhathan-m-aven-ltd-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/law-offices-of-jonhathan-m-aven-ltd-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3372776774 (license ODbL-1.0); source data as of 2026-07-28

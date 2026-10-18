@@ -15,7 +15,7 @@ Hodroff-Epstein Memorial Chapels is a funeral home in Minneapolis, MN at 126 Eas
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hodroff-epstein-memorial-chapels-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hodroff-epstein-memorial-chapels-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/119006335 (license ODbL-1.0); source data as of 2026-06-01

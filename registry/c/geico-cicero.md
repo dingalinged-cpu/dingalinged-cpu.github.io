@@ -15,7 +15,7 @@ GEICO is an insurance agent in Cicero, IL at 4769 West Cermak Road, Cicero, IL 6
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/geico-cicero/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/geico-cicero.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9251998770 (license ODbL-1.0); source data as of 2026-07-28

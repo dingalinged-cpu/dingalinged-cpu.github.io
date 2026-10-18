@@ -15,7 +15,7 @@ Clarendale of Addison is an assisted living facility in Addison, IL at 1651, Add
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/clarendale-of-addison-addison/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/clarendale-of-addison-addison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13523004861 (license ODbL-1.0); source data as of 2026-07-28

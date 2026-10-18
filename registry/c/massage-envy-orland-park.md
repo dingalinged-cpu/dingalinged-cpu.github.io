@@ -15,7 +15,7 @@ Massage Envy is a massage studio in Orland Park, IL at 15159 South La Grange Roa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/massage-envy-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9234090979 (license ODbL-1.0); source data as of 2026-06-01

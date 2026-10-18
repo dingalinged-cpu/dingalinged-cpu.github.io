@@ -1,0 +1,23 @@
+Mattress Firm is a mattress store in The Woodlands, TX at 1340 Lake Woodlands Drive #B, The Woodlands, TX 77380. Phone: +12813671181. Website: https://www.mattressfirm.com/en-us/stores/tx/the-woodlands/001022/.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 1340 Lake Woodlands Drive #B, The Woodlands, TX 77380
+- City: The Woodlands
+- State: TX
+- ZIP: 77380
+- Coordinates: 30.1681237, -95.4558948
+- Phone: +12813671181
+- Website: https://www.mattressfirm.com/en-us/stores/tx/the-woodlands/001022/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-the-woodlands-n10252326473/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-the-woodlands-n10252326473.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10252326473 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Crescent Dental is a dentist in New Brighton, MN at 2611 Innsbruck Drive #Suite 
 - Opening hours (OSM syntax): Mo-Th 07:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crescent-dental-new-brighton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crescent-dental-new-brighton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11944869727 (license ODbL-1.0); source data as of 2026-07-24

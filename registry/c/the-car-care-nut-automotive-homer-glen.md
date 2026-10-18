@@ -15,7 +15,7 @@ The Car Care Nut Automotive is an auto repair shop in Homer Glen, IL at 15751 An
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00;PH off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-car-care-nut-automotive-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-car-care-nut-automotive-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10229586697 (license ODbL-1.0); source data as of 2026-06-01

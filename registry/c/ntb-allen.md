@@ -1,0 +1,23 @@
+NTB is an auto repair shop in Allen, TX at 200 South Watters Road, Allen, TX 75013. Phone: +13252742808.
+
+# NTB
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 200 South Watters Road, Allen, TX 75013
+- City: Allen
+- State: TX
+- ZIP: 75013
+- Coordinates: 33.0988686, -96.6855061
+- Phone: +13252742808
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ntb-allen/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ntb-allen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12918507882 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

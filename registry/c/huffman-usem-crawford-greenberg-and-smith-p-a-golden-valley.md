@@ -15,7 +15,7 @@ Huffman, Usem, Crawford, Greenberg & Smith P.A. is a lawyer in Golden Valley, MN
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/huffman-usem-crawford-greenberg-and-smith-p-a-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/huffman-usem-crawford-greenberg-and-smith-p-a-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11124443903 (license ODbL-1.0); source data as of 2026-05-31

@@ -15,7 +15,7 @@ Southwest KinderCare is a daycare in Minneapolis, MN at 3708 West 44th Street, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/southwest-kindercare-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/southwest-kindercare-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/195208024 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Midway Ford is an used car dealer in Roseville, MN. Phone: +16516368200. Website
 - Opening hours (OSM syntax): Mo-Th 08:30-19:00; Fr 08:30-18:00; Sa 08:30-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midway-ford-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midway-ford-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8497171164 (license ODbL-1.0); source data as of 2026-06-01

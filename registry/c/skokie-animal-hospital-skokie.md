@@ -15,7 +15,7 @@ Skokie Animal Hospital is a veterinarian in Skokie, IL at 7550 Lincoln Avenue, S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/skokie-animal-hospital-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/skokie-animal-hospital-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/429751696 (license ODbL-1.0); source data as of 2026-07-28

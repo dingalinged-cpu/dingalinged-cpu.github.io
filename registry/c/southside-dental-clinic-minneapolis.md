@@ -15,7 +15,7 @@ Southside Dental Clinic is a dentist in Minneapolis, MN at 4243 4th Avenue South
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/southside-dental-clinic-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/southside-dental-clinic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5627329557 (license ODbL-1.0); source data as of 2026-07-24

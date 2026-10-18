@@ -15,7 +15,7 @@ Snap Fitness is a gym in Saint Bonifacius, MN at 4195 Main Street #1040, Saint B
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/snap-fitness-saint-bonifacius/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-saint-bonifacius.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8875565930 (license ODbL-1.0); source data as of 2026-07-15

@@ -15,7 +15,7 @@ M & J Underground, Inc. is a plumber in Monee, IL at 26603 South Governors Highw
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/m-and-j-underground-inc-monee/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/m-and-j-underground-inc-monee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9956737055 (license ODbL-1.0); source data as of 2026-06-01

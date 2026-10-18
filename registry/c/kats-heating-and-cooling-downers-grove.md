@@ -15,7 +15,7 @@ Kats Heating and Cooling is a HVAC contractor in Downers Grove, IL at 1509 Ogden
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kats-heating-and-cooling-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kats-heating-and-cooling-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10720917400 (license ODbL-1.0); source data as of 2026-06-01

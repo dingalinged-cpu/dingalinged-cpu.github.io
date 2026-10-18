@@ -15,7 +15,7 @@ Kessler & Maguire Funeral Home is a funeral home in Saint Paul, MN at 640 7th St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kessler-and-maguire-funeral-home-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kessler-and-maguire-funeral-home-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/243119328 (license ODbL-1.0); source data as of 2026-06-01

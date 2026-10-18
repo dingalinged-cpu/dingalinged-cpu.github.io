@@ -15,7 +15,7 @@ Core Design Group is an architect in Warrenville, IL at 28377 Davis Parkway #603
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/core-design-group-warrenville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/core-design-group-warrenville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8940134217 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Rinse is a dry cleaner in Chicago, IL at 1918 North Mendell Street #Ste 100, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rinse-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rinse-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6345870688 (license ODbL-1.0); source data as of 2026-06-01

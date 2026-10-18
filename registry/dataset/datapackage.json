@@ -30,11 +30,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/addison-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/albertville-mn.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/allen-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/alsip-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/alvarado-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/alvin-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -50,7 +66,31 @@
    "format": "jsonl"
   },
   {
+   "path": "city/argyle-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/arlington-heights-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/arlington-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/atascocita-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/aubrey-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bacliff-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/balch-springs-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -70,7 +110,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/bartonville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bayside-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/baytown-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bedford-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bedford-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bellaire-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -114,6 +174,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/brazoria-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bridgeview-il.jsonl",
    "format": "jsonl"
   },
@@ -126,11 +190,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/brookfield-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/brooklyn-center-mn.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/brooklyn-park-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/brookshire-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/brown-deer-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -142,11 +218,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/burlington-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/burnsville-mn.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/burr-ridge-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/butler-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/caddo-mills-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/caledonia-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -166,6 +258,22 @@
    "format": "jsonl"
   },
   {
+   "path": "city/carrollton-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cedar-hill-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cedarburg-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/celina-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/centerville-mn.jsonl",
    "format": "jsonl"
   },
@@ -175,6 +283,10 @@
   },
   {
    "path": "city/chanhassen-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/channelview-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -202,7 +314,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/city-of-pewaukee-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/clarendon-hills-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/clear-lake-shores-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cleveland-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/colleyville-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -214,11 +342,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/conroe-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/coon-rapids-mn.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/coppell-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/corcoran-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/corinth-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -227,6 +367,10 @@
   },
   {
    "path": "city/countryside-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/crandall-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -242,11 +386,39 @@
    "format": "jsonl"
   },
   {
+   "path": "city/crosby-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cross-roads-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/crown-point-in.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/crystal-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cudahy-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cut-and-shoot-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cypress-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dallas-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dalworthington-gardens-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -258,7 +430,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/dayton-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/deer-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/deer-park-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -266,7 +446,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/denton-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/des-plaines-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/desoto-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dickenson-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dickinson-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -278,7 +474,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/double-oak-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/downers-grove-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/duncanville-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -287,6 +491,10 @@
   },
   {
    "path": "city/eagan-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/east-bernard-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -318,6 +526,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/elm-grove-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/elmhurst-il.jsonl",
    "format": "jsonl"
   },
@@ -327,6 +539,14 @@
   },
   {
    "path": "city/elwood-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/ennis-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/euless-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -342,11 +562,39 @@
    "format": "jsonl"
   },
   {
+   "path": "city/fairchilds-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fairview-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/falcon-heights-mn.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/farmers-branch-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/farmersville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fate-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/ferris-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/flossmoor-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/flower-mound-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -362,7 +610,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/forney-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fort-bend-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/fort-snelling-unorganized-territory-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fort-worth-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fox-point-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -374,7 +638,39 @@
    "format": "jsonl"
   },
   {
+   "path": "city/franklin-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/fridley-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/friendswood-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/frisco-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fulshear-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/galveston-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/galveston-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/garland-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/garrett-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -394,6 +690,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/glendale-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/glenn-heights-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/glenview-il.jsonl",
    "format": "jsonl"
   },
@@ -406,7 +710,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/grafton-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/grand-prairie-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/grapevine-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/greendale-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/greenfield-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/greenfield-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -415,6 +739,18 @@
   },
   {
    "path": "city/griffith-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/grimes-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hales-corners-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/haltom-city-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -427,6 +763,10 @@
   },
   {
    "path": "city/hanover-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/harris-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -446,6 +786,26 @@
    "format": "jsonl"
   },
   {
+   "path": "city/heartland-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/heath-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hedwig-village-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hempstead-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hickory-creek-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/hickory-hills-il.jsonl",
    "format": "jsonl"
   },
@@ -455,6 +815,14 @@
   },
   {
    "path": "city/highland-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/highland-park-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/highland-village-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -474,7 +842,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/hitchcock-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/hobart-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hockley-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -502,7 +878,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/houston-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/huffman-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/hugo-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/humble-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hunters-creek-village-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hurst-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -518,11 +914,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/irving-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/island-lake-il.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/itasca-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/jacinto-city-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/jackson-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/jersey-village-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -534,11 +946,43 @@
    "format": "jsonl"
   },
   {
+   "path": "city/katy-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/kaufman-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/keller-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/kemah-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/kemp-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/kenilworth-il.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/kennedale-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/kildeer-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/kingwood-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/krum-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -550,7 +994,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/la-marque-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/la-porte-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lake-bluff-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lake-dallas-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -566,11 +1022,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lancaster-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lansing-il.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/lauderdale-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lavon-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/league-city-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -582,7 +1050,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lewisville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/leyden-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/liberty-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -614,6 +1090,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/little-elm-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lockport-il.jsonl",
    "format": "jsonl"
   },
@@ -634,6 +1114,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lucas-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lynwood-il.jsonl",
    "format": "jsonl"
   },
@@ -646,6 +1130,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/magnolia-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/mahtomedi-mn.jsonl",
    "format": "jsonl"
   },
@@ -655,6 +1143,14 @@
   },
   {
    "path": "city/manhattan-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mansfield-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/manvel-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -686,11 +1182,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/mckinney-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/meadows-place-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/medicine-lake-mn.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/medina-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/melissa-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -702,6 +1210,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/menomonee-falls-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mequon-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/merrillville-in.jsonl",
    "format": "jsonl"
   },
@@ -710,7 +1226,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/mesquite-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/midlothian-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/midlothian-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/milwaukee-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -726,11 +1254,31 @@
    "format": "jsonl"
   },
   {
+   "path": "city/missouri-city-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mobile-city-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/mokena-il.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/monee-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mont-belvieu-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/montgomery-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/montgomery-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -746,6 +1294,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/mount-pleasant-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/mount-prospect-il.jsonl",
    "format": "jsonl"
   },
@@ -758,11 +1310,39 @@
    "format": "jsonl"
   },
   {
+   "path": "city/murphy-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/muskego-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/naperville-il.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/nassau-bay-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/needville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/nevada-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/new-berlin-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/new-brighton-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/new-caney-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -794,7 +1374,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/north-cleveland-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/north-oaks-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/north-richland-hills-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -822,7 +1410,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/northlake-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/oak-brook-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/oak-creek-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -835,6 +1431,10 @@
   },
   {
    "path": "city/oak-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/oak-ridge-north-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -870,6 +1470,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/palmer-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/palos-heights-il.jsonl",
    "format": "jsonl"
   },
@@ -882,6 +1486,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/pantego-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/park-forest-il.jsonl",
    "format": "jsonl"
   },
@@ -890,7 +1498,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/pasadena-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/pearland-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/phoenix-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/pinehurst-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -898,7 +1518,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/plano-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/plantersville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/plymouth-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/port-bolivar-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/port-washington-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/porter-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -906,7 +1546,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/princeton-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/prospect-heights-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/prosper-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/providence-village-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -914,7 +1566,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/racine-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/ramsey-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/red-oak-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -922,7 +1582,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/richardson-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/richfield-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/richland-hills-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/richmond-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -950,11 +1622,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/roanoke-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/robbins-il.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/robbinsdale-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/rochester-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -966,11 +1646,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/rockwall-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/rogers-mn.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/rolling-meadows-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/roman-forest-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -986,7 +1674,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/rosenberg-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/roseville-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/rosharon-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/rowlett-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/royse-city-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/sachse-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -995,6 +1703,10 @@
   },
   {
    "path": "city/saint-bonifacius-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/saint-francis-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1014,6 +1726,18 @@
    "format": "jsonl"
   },
   {
+   "path": "city/san-felipe-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/santa-fe-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/saukville-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/schaumburg-il.jsonl",
    "format": "jsonl"
   },
@@ -1030,7 +1754,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/seabrook-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/seagoville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/sealy-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/shakopee-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/shenandoah-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1042,7 +1782,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/shorewood-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/simonton-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/skokie-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/slinger-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1058,7 +1810,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/south-houston-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/south-milwaukee-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/south-saint-paul-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/southlake-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/southside-place-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/splendora-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1070,7 +1842,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/spring-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/spring-valley-village-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/st-john-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/stafford-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1094,7 +1878,43 @@
    "format": "jsonl"
   },
   {
+   "path": "city/sturtevant-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/sugar-land-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/summit-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/sunnyvale-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/sussex-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/terrell-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/texas-city-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/the-colony-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/the-woodlands-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/thiensville-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1102,7 +1922,55 @@
    "format": "jsonl"
   },
   {
+   "path": "city/todd-mission-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/tomball-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/tonka-bay-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-brookfield-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-burlington-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-dover-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-jackson-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-norway-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-polk-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-waterford-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-west-bend-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/trophy-club-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/union-grove-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1110,7 +1978,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/university-park-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/vadnais-heights-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/venus-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1126,7 +2002,47 @@
    "format": "jsonl"
   },
   {
+   "path": "city/village-of-germantown-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/village-of-lisbon-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/village-of-pewaukee-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/village-of-raymond-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/village-of-richfield-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/village-of-waukesha-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/waller-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/waller-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/warrenville-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/watauga-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/waterford-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1134,11 +2050,43 @@
    "format": "jsonl"
   },
   {
+   "path": "city/waukesha-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wauwatosa-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/waxahachie-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/wayzata-mn.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/webster-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/west-allis-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/west-bend-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/west-milwaukee-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/west-saint-paul-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/west-university-place-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1150,7 +2098,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/westlake-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/westmont-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wharton-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1175,6 +2131,10 @@
   },
   {
    "path": "city/white-bear-township-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/whitefish-bay-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1206,7 +2166,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/woodbranch-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/woodbury-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/woodlands-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -1219,6 +2187,14 @@
   },
   {
    "path": "city/worth-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wylie-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/yorkville-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1263,6 +2239,10 @@
   },
   {
    "path": "category/boutique.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/bridal-shop.jsonl",
    "format": "jsonl"
   },
   {
@@ -1330,6 +2310,10 @@
    "format": "jsonl"
   },
   {
+   "path": "category/dietitian.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "category/dog-boarding.jsonl",
    "format": "jsonl"
   },
@@ -1351,6 +2335,10 @@
   },
   {
    "path": "category/dry-cleaners.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/drywall-repair.jsonl",
    "format": "jsonl"
   },
   {
@@ -1486,6 +2474,10 @@
    "format": "jsonl"
   },
   {
+   "path": "category/notary.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "category/ob-gyn.jsonl",
    "format": "jsonl"
   },
@@ -1499,6 +2491,10 @@
   },
   {
    "path": "category/orthopedic-surgeon.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/padel-courts.jsonl",
    "format": "jsonl"
   },
   {
@@ -1644,31 +2640,6 @@
   {
    "path": "category/yoga-classes.jsonl",
    "format": "jsonl"
-  },
-  {
-   "path": "keyword_metrics.csv",
-   "format": "csv",
-   "licenses": [
-    {
-     "name": "CC-BY-4.0",
-     "path": "https://creativecommons.org/licenses/by/4.0/"
-    }
-   ],
-   "description": "Keyword market metrics (search volume, CPC, competition, auction prices); card: keyword_metrics.md"
-  },
-  {
-   "path": "keyword_metrics.jsonl",
-   "format": "jsonl",
-   "licenses": [
-    {
-     "name": "CC-BY-4.0",
-     "path": "https://creativecommons.org/licenses/by/4.0/"
-    }
-   ]
-  },
-  {
-   "path": "keyword_metrics_sources.json",
-   "format": "json"
   }
  ],
  "updated": "2026-10-18"

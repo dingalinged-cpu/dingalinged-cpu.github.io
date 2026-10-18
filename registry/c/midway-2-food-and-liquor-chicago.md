@@ -15,7 +15,7 @@ Midway #2 Food and Liquor is a liquor store in Chicago, IL at 1344 East 67th Str
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midway-2-food-and-liquor-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midway-2-food-and-liquor-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211173577 (license ODbL-1.0); source data as of 2026-06-01

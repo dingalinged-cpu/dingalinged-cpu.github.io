@@ -15,7 +15,7 @@ Phillip's Flowers & Gifts is a florist in Naperville, IL at 1007 East Ogden Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/phillips-flowers-and-gifts-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/phillips-flowers-and-gifts-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/292641933 (license ODbL-1.0); source data as of 2026-06-01

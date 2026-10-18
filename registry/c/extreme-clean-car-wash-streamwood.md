@@ -15,7 +15,7 @@ Extreme Clean Car Wash is a car wash in Streamwood, IL at 1210 East Irving Park 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/extreme-clean-car-wash-streamwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/extreme-clean-car-wash-streamwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/318745456 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ T-Hair is a hair salon in Chaska, MN at 812 Yellow Brick Road, Chaska, MN 55318.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/t-hair-chaska/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/t-hair-chaska.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12752805381 (license ODbL-1.0); source data as of 2026-06-01

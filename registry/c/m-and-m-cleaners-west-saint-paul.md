@@ -15,7 +15,7 @@ M & M Cleaners is a dry cleaner in West Saint Paul, MN at 1134 Robert Street Sou
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/m-and-m-cleaners-west-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/m-and-m-cleaners-west-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/527077152 (license ODbL-1.0); source data as of 2026-06-01

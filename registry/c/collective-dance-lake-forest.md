@@ -15,7 +15,7 @@ Collective Dance is a dance studio in Lake Forest, IL at 295 East Illinois Road,
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Sa 09:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/collective-dance-lake-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/collective-dance-lake-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1366372118 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ R.F. Moeller Jeweler is a jewelry store in Saint Paul, MN at 2065 Ford Parkway, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/r-f-moeller-jeweler-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/r-f-moeller-jeweler-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/660909461 (license ODbL-1.0); source data as of 2026-06-01

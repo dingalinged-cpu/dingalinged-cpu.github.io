@@ -15,7 +15,7 @@ State Farm Rob Sujak is an insurance agent in Naperville, IL at 1567 North Auror
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00, Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-rob-sujak-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-rob-sujak-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8462909486 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ PetSmart is a pet store in Wheaton, IL at 63 Rice Lake Square, Wheaton, IL 60189
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/petsmart-wheaton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/petsmart-wheaton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/128629716 (license ODbL-1.0); source data as of 2026-06-01

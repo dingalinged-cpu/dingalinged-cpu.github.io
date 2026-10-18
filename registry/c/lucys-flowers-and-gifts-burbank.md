@@ -15,7 +15,7 @@ Lucy's Flowers and Gifts is a florist in Burbank, IL at 8500 South Cicero Avenue
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:00; Sa-Su 10:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lucys-flowers-and-gifts-burbank/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lucys-flowers-and-gifts-burbank.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8140408690 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Home Choice Store is a furniture store in Roseville, MN at 1688 Lexington Avenue
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/home-choice-store-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/home-choice-store-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7147169431 (license ODbL-1.0); source data as of 2026-06-01

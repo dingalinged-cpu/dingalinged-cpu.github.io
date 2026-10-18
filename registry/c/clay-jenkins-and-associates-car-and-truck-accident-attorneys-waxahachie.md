@@ -1,0 +1,23 @@
+Clay Jenkins & Associates, Car & Truck Accident Attorneys is a lawyer in Waxahachie, TX at 516 West Main Street, Waxahachie, TX 75165. Phone: +19729381234. Website: https://www.clayjenkins.com/personal-injury-lawyer/waxahachie-tx/.
+
+# Clay Jenkins & Associates, Car & Truck Accident Attorneys
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 516 West Main Street, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.3884097, -96.8519611
+- Phone: +19729381234
+- Website: https://www.clayjenkins.com/personal-injury-lawyer/waxahachie-tx/
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/clay-jenkins-and-associates-car-and-truck-accident-attorneys-waxahachie/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/clay-jenkins-and-associates-car-and-truck-accident-attorneys-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12966506055 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

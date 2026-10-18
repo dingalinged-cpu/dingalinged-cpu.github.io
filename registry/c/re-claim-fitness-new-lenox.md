@@ -15,7 +15,7 @@ Re|Claim Fitness is a gym in New Lenox, IL at 1325 East Lincoln Highway, New Len
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/re-claim-fitness-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/re-claim-fitness-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/995777664 (license ODbL-1.0); source data as of 2026-06-01

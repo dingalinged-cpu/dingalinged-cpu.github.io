@@ -1,0 +1,23 @@
+European Wax Center is a waxing salon in Houston, TX at 9758 Katy Freeway #650, Houston, TX 77055. Phone: +18327776000. Website: https://locations.waxcenter.com/tx/houston/houston-bunker-hill-0053.html.
+
+# European Wax Center
+
+- Category: waxing
+- Services: waxing
+- Address: 9758 Katy Freeway #650, Houston, TX 77055
+- City: Houston
+- State: TX
+- ZIP: 77055
+- Coordinates: 29.7856121, -95.5334852
+- Phone: +18327776000
+- Website: https://locations.waxcenter.com/tx/houston/houston-bunker-hill-0053.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 08:00-20:00, Su 10:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/european-wax-center-houston-n9646888070/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-houston-n9646888070.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9646888070 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

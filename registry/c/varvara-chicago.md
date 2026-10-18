@@ -15,7 +15,7 @@ Varvara is a tailor in Chicago, IL. Phone: +16307300197.
 - Opening hours (OSM syntax): Mo,We,Fr 10:00-18:30; Tu,Th 10:00-14:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/varvara-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/varvara-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12918234437 (license ODbL-1.0); source data as of 2026-06-01

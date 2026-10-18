@@ -15,7 +15,7 @@ Ashley HomeStore is a furniture store in Highland, IN at 10135 Indianapolis Boul
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ashley-homestore-highland/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-highland.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/439444243 (license ODbL-1.0); source data as of 2026-06-01

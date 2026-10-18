@@ -15,7 +15,7 @@ Jackson Hewitt is a tax preparation service in Chicago, IL at 6800 South Stony I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-chicago-n11300568883/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-chicago-n11300568883.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11300568883 (license ODbL-1.0); source data as of 2026-07-28

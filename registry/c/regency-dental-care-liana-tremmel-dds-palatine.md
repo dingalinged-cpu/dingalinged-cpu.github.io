@@ -15,7 +15,7 @@ Regency Dental Care: Liana Tremmel, DDS is a dentist in Palatine, IL at 1332 Wes
 - Opening hours (OSM syntax): Tu, Th 08:00-19:00; We 08:00-16:00; Fr 08:00-14:00; Sa 08:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/regency-dental-care-liana-tremmel-dds-palatine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/regency-dental-care-liana-tremmel-dds-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5786184436 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Muzyka Funeral House is a funeral home in Chicago, IL at 2157 West Chicago Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/muzyka-funeral-house-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/muzyka-funeral-house-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8520355486 (license ODbL-1.0); source data as of 2026-06-01

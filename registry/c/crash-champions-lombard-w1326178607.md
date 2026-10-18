@@ -15,7 +15,7 @@ Crash Champions is an auto repair shop in Lombard, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crash-champions-lombard-w1326178607/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-lombard-w1326178607.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1326178607 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Auto Center Bargain Lot is an used car dealer in Wayzata, MN at 1805 Wayzata Bou
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/auto-center-bargain-lot-wayzata/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/auto-center-bargain-lot-wayzata.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/88160592 (license ODbL-1.0); source data as of 2026-06-01

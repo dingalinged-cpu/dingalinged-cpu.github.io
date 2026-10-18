@@ -15,7 +15,7 @@ Paramount Counseling Services, PLLC is a therapy practice in Northbrook, IL at 8
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-17:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/paramount-counseling-services-pllc-northbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/paramount-counseling-services-pllc-northbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10208862167 (license ODbL-1.0); source data as of 2026-07-28

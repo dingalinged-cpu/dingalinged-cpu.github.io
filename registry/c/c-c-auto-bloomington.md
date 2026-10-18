@@ -15,7 +15,7 @@ C. C. Auto is an auto repair shop in Bloomington, MN at 1031 West 80th Street, B
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/c-c-auto-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/c-c-auto-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2645068102 (license ODbL-1.0); source data as of 2026-06-01

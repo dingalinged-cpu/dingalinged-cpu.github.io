@@ -1,0 +1,23 @@
+Three Sixty Jiu Jitsu Academy is a martial arts school in Town of Brookfield, WI.
+
+# Three Sixty Jiu Jitsu Academy
+
+- Category: martial arts
+- Services: martial arts
+- Address: Town of Brookfield, WI
+- City: Town of Brookfield
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.034278, -88.1503693
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/three-sixty-jiu-jitsu-academy-town-of-brookfield/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/three-sixty-jiu-jitsu-academy-town-of-brookfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9817739322 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

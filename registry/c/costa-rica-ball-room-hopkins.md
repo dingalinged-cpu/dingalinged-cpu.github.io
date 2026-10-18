@@ -15,7 +15,7 @@ Costa Rica Ball Room is a dance studio in Hopkins, MN at 816 Mainstreet, Hopkins
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/costa-rica-ball-room-hopkins/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/costa-rica-ball-room-hopkins.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8691000319 (license ODbL-1.0); source data as of 2026-07-15

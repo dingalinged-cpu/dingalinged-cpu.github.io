@@ -15,7 +15,7 @@ The UPS Store is a printing service in Tinley Park, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-tinley-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-tinley-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9482761458 (license ODbL-1.0); source data as of 2026-06-01

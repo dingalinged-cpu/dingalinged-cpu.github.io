@@ -15,7 +15,7 @@ Sola Salons is a nail salon in Orland Park, IL at 15752 South La Grange Road #2,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sola-salons-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9233962259 (license ODbL-1.0); source data as of 2026-06-01

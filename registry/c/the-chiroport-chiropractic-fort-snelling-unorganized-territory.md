@@ -15,7 +15,7 @@ The Chiroport Chiropractic is a massage studio in Fort Snelling Unorganized Terr
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-chiroport-chiropractic-fort-snelling-unorganized-territory/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-chiroport-chiropractic-fort-snelling-unorganized-territory.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6387501088 (license ODbL-1.0); source data as of 2026-06-01

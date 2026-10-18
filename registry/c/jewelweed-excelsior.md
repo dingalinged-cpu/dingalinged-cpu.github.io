@@ -15,7 +15,7 @@ Jewelweed is a gift shop in Excelsior, MN at 223 Water Street, Excelsior, MN 553
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jewelweed-excelsior/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jewelweed-excelsior.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6384347262 (license ODbL-1.0); source data as of 2026-06-01

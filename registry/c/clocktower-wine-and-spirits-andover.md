@@ -15,7 +15,7 @@ Clocktower Wine and Spirits is a liquor store in Andover, MN at 15190 Bluebird S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/clocktower-wine-and-spirits-andover/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/clocktower-wine-and-spirits-andover.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9471720770 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Farmers Insurance is an insurance agent in Coon Rapids, MN at 11490 Hanson Boule
 - Opening hours (OSM syntax): Mo-Fr 8:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/farmers-insurance-coon-rapids/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-coon-rapids.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9247350038 (license ODbL-1.0); source data as of 2026-05-31

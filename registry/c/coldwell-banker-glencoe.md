@@ -15,7 +15,7 @@ Coldwell Banker is a real estate agency in Glencoe, IL at 45 Green Bay Road, Gle
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/coldwell-banker-glencoe/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-glencoe.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/459492760 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Mobil is a car wash in Lombard, IL at 435 East Roosevelt Road, Lombard, IL 60148
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/199387582 (license ODbL-1.0); source data as of 2026-07-28

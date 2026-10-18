@@ -15,7 +15,7 @@ Athletico Physical Therapy is a physical therapy clinic in Palos Heights, IL at 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-palos-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-palos-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13599708947 (license ODbL-1.0); source data as of 2026-07-28

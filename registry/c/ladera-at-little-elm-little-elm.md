@@ -1,0 +1,23 @@
+Ladera at Little Elm is an assisted living facility in Little Elm, TX at 2002 Oak Grove Parkway, Little Elm, TX 75068. Phone: +14694725392. Website: https://laderaliving.com/55-plus-communities/ladera-little-elm/.
+
+# Ladera at Little Elm
+
+- Category: assisted living
+- Services: assisted living
+- Address: 2002 Oak Grove Parkway, Little Elm, TX 75068
+- City: Little Elm
+- State: TX
+- ZIP: 75068
+- Coordinates: 33.1650507, -96.9722434
+- Phone: +14694725392
+- Website: https://laderaliving.com/55-plus-communities/ladera-little-elm/
+- Email: n/a
+- Opening hours (OSM syntax): Su-Mo 13:00-18:00, Tu-Sa 10:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ladera-at-little-elm-little-elm/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ladera-at-little-elm-little-elm.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12169523366 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

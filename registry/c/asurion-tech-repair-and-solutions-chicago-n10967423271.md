@@ -15,7 +15,7 @@ Asurion Tech Repair & Solutions is a phone repair shop in Chicago, IL at 1240 So
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-chicago-n10967423271/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/asurion-tech-repair-and-solutions-chicago-n10967423271.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10967423271 (license ODbL-1.0); source data as of 2026-06-01

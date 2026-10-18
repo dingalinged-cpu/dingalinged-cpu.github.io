@@ -15,7 +15,7 @@ Mike More Miles is an auto repair shop in Lombard, IL at 234 West Roosevelt Road
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mike-more-miles-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mike-more-miles-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13591705969 (license ODbL-1.0); source data as of 2026-06-01

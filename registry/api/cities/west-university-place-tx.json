@@ -1,0 +1,183 @@
+{
+ "place": "West University Place, TX",
+ "slug": "west-university-place-tx",
+ "count": 5,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "bakery west university place tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-west-university-place-tx.json"
+  },
+  {
+   "keyword": "dry cleaners west university place tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-west-university-place-tx.json"
+  },
+  {
+   "keyword": "jewelry store west university place tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-west-university-place-tx.json"
+  },
+  {
+   "keyword": "mattress store west university place tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-west-university-place-tx.json"
+  },
+  {
+   "keyword": "nail salon west university place tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-west-university-place-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "mattress-firm-houston-n12050349746",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Houston, TX at 5320 Kirby Drive, Houston, TX 77005. Phone: +17135247887. Website: https://www.mattressfirm.com/en-us/stores/tx/houston/001051/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-houston-n12050349746/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-houston-n12050349746.json",
+   "address": {
+    "streetAddress": "5320 Kirby Drive",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77005",
+    "addressCountry": "US"
+   },
+   "city": "Houston",
+   "state": "TX",
+   "zip": "77005",
+   "geo": {
+    "lat": 29.72446,
+    "lon": -95.41903
+   },
+   "phone": "+17135247887",
+   "website": "https://www.mattressfirm.com/en-us/stores/tx/houston/001051/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12050349746",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "luvish-nails-lounge-houston",
+   "name": "Luvish Nails Lounge",
+   "summary": "Luvish Nails Lounge is a nail salon in Houston, TX at 5600 Kirby Drive #S-1, Houston, TX 77005. Website: https://luvishnailslounge.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luvish-nails-lounge-houston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luvish-nails-lounge-houston.json",
+   "address": {
+    "streetAddress": "5600 Kirby Drive #S-1",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77005",
+    "addressCountry": "US"
+   },
+   "city": "Houston",
+   "state": "TX",
+   "zip": "77005",
+   "geo": {
+    "lat": 29.7218159,
+    "lon": -95.4189139
+   },
+   "website": "https://luvishnailslounge.com/",
+   "opening_hours": "Mo-Sa 09:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11875087744",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chard-jewelers-houston",
+   "name": "Chardé Jewelers",
+   "summary": "Chardé Jewelers is a jewelry store in Houston, TX at 5600 Kirby Drive, Houston, TX 77005.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chard-jewelers-houston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chard-jewelers-houston.json",
+   "address": {
+    "streetAddress": "5600 Kirby Drive",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77005",
+    "addressCountry": "US"
+   },
+   "city": "Houston",
+   "state": "TX",
+   "zip": "77005",
+   "geo": {
+    "lat": 29.7216738,
+    "lon": -95.4189166
+   },
+   "opening_hours": "Mo-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11875087743",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tinys-milk-and-cookies-west-university-place",
+   "name": "Tiny's Milk & Cookies",
+   "summary": "Tiny's Milk & Cookies is a bakery in West University Place, TX.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tinys-milk-and-cookies-west-university-place/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tinys-milk-and-cookies-west-university-place.json",
+   "address": {
+    "addressLocality": "West University Place",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "West University Place",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7172098,
+    "lon": -95.4336772
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7881479723",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "west-u-cleaners-west-university-place",
+   "name": "West U Cleaners",
+   "summary": "West U Cleaners is a dry cleaner in West University Place, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-u-cleaners-west-university-place/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-u-cleaners-west-university-place.json",
+   "address": {
+    "addressLocality": "West University Place",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "West University Place",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7063133,
+    "lon": -95.4399422
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/229323172",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

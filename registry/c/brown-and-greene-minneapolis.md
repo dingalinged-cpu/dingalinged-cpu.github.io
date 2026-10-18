@@ -15,7 +15,7 @@ Brown & Greene is a florist in Minneapolis, MN at 4400 Beard Avenue South, Minne
 - Opening hours (OSM syntax): Mo-Sa 10:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brown-and-greene-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brown-and-greene-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12120870752 (license ODbL-1.0); source data as of 2026-06-01

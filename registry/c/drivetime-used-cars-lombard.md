@@ -15,7 +15,7 @@ DriveTime Used Cars is an used car dealer in Lombard, IL at 500 East Roosevelt R
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/drivetime-used-cars-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/drivetime-used-cars-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/198548498 (license ODbL-1.0); source data as of 2026-06-01

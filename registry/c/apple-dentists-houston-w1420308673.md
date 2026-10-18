@@ -1,0 +1,23 @@
+Apple Dentists is a dentist in Houston, TX.
+
+# Apple Dentists
+
+- Category: dentist
+- Services: dentist
+- Address: Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.704325, -95.6135401
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/apple-dentists-houston-w1420308673/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/apple-dentists-houston-w1420308673.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1420308673 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

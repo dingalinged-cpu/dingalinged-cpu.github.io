@@ -15,7 +15,7 @@ uBreakiFix is a phone repair shop in Libertyville, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ubreakifix-libertyville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-libertyville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10032726190 (license ODbL-1.0); source data as of 2026-06-01

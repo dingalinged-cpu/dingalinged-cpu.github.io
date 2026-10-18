@@ -15,7 +15,7 @@ Valvoline is an auto repair shop in Chanhassen, MN at 335 West 79th Street, Chan
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/valvoline-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/valvoline-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/42850388 (license ODbL-1.0); source data as of 2026-06-01

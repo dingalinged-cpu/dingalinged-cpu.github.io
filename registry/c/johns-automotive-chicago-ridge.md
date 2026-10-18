@@ -15,7 +15,7 @@ John's Automotive is an auto repair shop in Chicago Ridge, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/johns-automotive-chicago-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/johns-automotive-chicago-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12162058609 (license ODbL-1.0); source data as of 2026-06-01

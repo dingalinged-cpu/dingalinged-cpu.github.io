@@ -15,7 +15,7 @@ Berkshire Hathaway HomeServices is a real estate agency in Western Springs, IL a
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/berkshire-hathaway-homeservices-western-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/berkshire-hathaway-homeservices-western-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9603226072 (license ODbL-1.0); source data as of 2026-07-28

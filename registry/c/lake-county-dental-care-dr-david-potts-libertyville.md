@@ -15,7 +15,7 @@ Lake County Dental Care: Dr. David Potts is a dentist in Libertyville, IL at 908
 - Opening hours (OSM syntax): Mo 07:30-19:00; Tu,Th 06:30-14:00; We 06:30-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lake-county-dental-care-dr-david-potts-libertyville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lake-county-dental-care-dr-david-potts-libertyville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3033526192 (license ODbL-1.0); source data as of 2026-07-28

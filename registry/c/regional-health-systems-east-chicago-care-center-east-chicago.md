@@ -15,7 +15,7 @@ Regional Health Systems - East Chicago Care Center is a therapy practice in East
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/regional-health-systems-east-chicago-care-center-east-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/regional-health-systems-east-chicago-care-center-east-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1193432543 (license ODbL-1.0); source data as of 2026-07-28

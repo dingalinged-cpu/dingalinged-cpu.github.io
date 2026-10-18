@@ -1,0 +1,23 @@
+Orion McKinney Apartments is a property management company in McKinney, TX at 2580 Collin McKinney Pkwy, McKinney, TX 75070.
+
+# Orion McKinney Apartments
+
+- Category: property management company
+- Services: property management company, property management companies
+- Address: 2580 Collin McKinney Pkwy, McKinney, TX 75070
+- City: McKinney
+- State: TX
+- ZIP: 75070
+- Coordinates: 33.162285, -96.65035
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/orion-mckinney-apartments-mckinney/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/orion-mckinney-apartments-mckinney.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/709800326 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

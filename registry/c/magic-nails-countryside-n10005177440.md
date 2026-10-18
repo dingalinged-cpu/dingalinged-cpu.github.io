@@ -15,7 +15,7 @@ Magic Nails is a nail salon in Countryside, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/magic-nails-countryside-n10005177440/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/magic-nails-countryside-n10005177440.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10005177440 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Ken and Norm's Liquor is a liquor store in Minneapolis, MN at 4801 Chicago Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ken-and-norms-liquor-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ken-and-norms-liquor-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2508927795 (license ODbL-1.0); source data as of 2026-06-01

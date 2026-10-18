@@ -15,7 +15,7 @@ Sweatshop Health Club is a gym in Saint Paul, MN at 167 Snelling Avenue, Saint P
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sweatshop-health-club-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sweatshop-health-club-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3695583048 (license ODbL-1.0); source data as of 2026-07-15

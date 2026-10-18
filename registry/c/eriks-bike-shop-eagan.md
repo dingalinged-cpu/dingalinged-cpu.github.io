@@ -15,7 +15,7 @@ Erik's Bike Shop is a bike shop in Eagan, MN at 1555 Cliff Road, Eagan, MN 55122
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00,Sa-Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/eriks-bike-shop-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/eriks-bike-shop-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/528933351 (license ODbL-1.0); source data as of 2026-06-01

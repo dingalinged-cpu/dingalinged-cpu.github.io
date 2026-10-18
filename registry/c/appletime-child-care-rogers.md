@@ -15,7 +15,7 @@ Appletime Child Care is a daycare in Rogers, MN at 21051 John Milless Drive, Rog
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/appletime-child-care-rogers/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/appletime-child-care-rogers.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/765797345 (license ODbL-1.0); source data as of 2026-07-24

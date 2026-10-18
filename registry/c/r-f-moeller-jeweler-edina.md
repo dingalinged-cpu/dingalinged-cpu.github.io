@@ -15,7 +15,7 @@ R.F. Moeller Jeweler is a jewelry store in Edina, MN. Website: https://rfmoeller
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/r-f-moeller-jeweler-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/r-f-moeller-jeweler-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12139116034 (license ODbL-1.0); source data as of 2026-06-01

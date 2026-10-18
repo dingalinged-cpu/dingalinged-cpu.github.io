@@ -15,7 +15,7 @@ Mattress Firm is a mattress store in Chicago, IL at 2566 North Elston Avenue #A,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago-n11819694558/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago-n11819694558.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11819694558 (license ODbL-1.0); source data as of 2026-06-01

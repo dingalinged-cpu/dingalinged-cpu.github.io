@@ -15,7 +15,7 @@ Companion Animal Hospital River North is a veterinarian in Chicago, IL at 749 No
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:00; Sa 09:00-16:00; Su 10:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-river-north-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/companion-animal-hospital-river-north-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11088290354 (license ODbL-1.0); source data as of 2026-07-28

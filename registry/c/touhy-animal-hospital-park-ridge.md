@@ -15,7 +15,7 @@ Touhy Animal Hospital is a veterinarian in Park Ridge, IL at West Touhy Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/touhy-animal-hospital-park-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/touhy-animal-hospital-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/518956733 (license ODbL-1.0); source data as of 2026-07-28

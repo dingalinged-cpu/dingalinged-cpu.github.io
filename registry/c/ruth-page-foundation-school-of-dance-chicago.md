@@ -15,7 +15,7 @@ Ruth Page Foundation School of Dance is a dance studio in Chicago, IL at 1016 No
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ruth-page-foundation-school-of-dance-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ruth-page-foundation-school-of-dance-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210679200 (license ODbL-1.0); source data as of 2026-06-01

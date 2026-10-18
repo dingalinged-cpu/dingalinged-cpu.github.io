@@ -15,7 +15,7 @@ A Step Ahead Learning Center is a daycare in Chicago, IL at 4214 North Broadway,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/a-step-ahead-learning-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-step-ahead-learning-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11242070860 (license ODbL-1.0); source data as of 2026-07-28

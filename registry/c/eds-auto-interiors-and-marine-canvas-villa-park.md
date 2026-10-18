@@ -15,7 +15,7 @@ Ed's Auto Interiors and Marine Canvas is an auto repair shop in Villa Park, IL a
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/eds-auto-interiors-and-marine-canvas-villa-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/eds-auto-interiors-and-marine-canvas-villa-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6027039394 (license ODbL-1.0); source data as of 2026-06-01

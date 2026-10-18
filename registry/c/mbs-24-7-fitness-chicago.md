@@ -15,7 +15,7 @@ MBS 24-7 Fitness is a gym in Chicago, IL at 6137 North Northwest Highway, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mbs-24-7-fitness-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mbs-24-7-fitness-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8608105226 (license ODbL-1.0); source data as of 2026-06-01

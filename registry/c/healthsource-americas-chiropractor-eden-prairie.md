@@ -15,7 +15,7 @@ HealthSource America's Chiropractor is a chiropractor in Eden Prairie, MN at 792
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/healthsource-americas-chiropractor-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/healthsource-americas-chiropractor-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11686247503 (license ODbL-1.0); source data as of 2026-06-01

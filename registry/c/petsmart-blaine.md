@@ -15,7 +15,7 @@ PetSmart is a pet store in Blaine, MN at 10451 Baltimore Street Northeast, Blain
 - Opening hours (OSM syntax): 08:00-22:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/petsmart-blaine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/petsmart-blaine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/458357655 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Midwest Auto Body Shop is an auto repair shop in Melrose Park, IL at West Lake S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midwest-auto-body-shop-melrose-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midwest-auto-body-shop-melrose-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/803779042 (license ODbL-1.0); source data as of 2026-06-01

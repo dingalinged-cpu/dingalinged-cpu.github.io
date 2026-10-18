@@ -15,7 +15,7 @@ Life Time is a gym in Eden Prairie, MN at 6233 Baker Road, Eden Prairie, MN 5534
 - Opening hours (OSM syntax): Su 07:00-23:00; Mo-Th 05:00-00:00; Fr 05:00-23:00; Sa 06:00-23:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/life-time-eden-prairie-w113922002/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/life-time-eden-prairie-w113922002.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/113922002 (license ODbL-1.0); source data as of 2026-07-15

@@ -15,7 +15,7 @@ Shaggy Dog Shop, Inc is a dog groomer in Lake Forest, IL at 1339 North Western A
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shaggy-dog-shop-inc-lake-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shaggy-dog-shop-inc-lake-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7687945049 (license ODbL-1.0); source data as of 2026-06-01

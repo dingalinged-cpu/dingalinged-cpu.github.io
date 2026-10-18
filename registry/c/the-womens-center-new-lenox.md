@@ -15,7 +15,7 @@ The Women's Center is an OB-GYN practice in New Lenox, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-womens-center-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-womens-center-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9195012139 (license ODbL-1.0); source data as of 2026-07-28

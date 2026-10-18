@@ -15,7 +15,7 @@ Longfellow Family Dental is a dentist in Minneapolis, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/longfellow-family-dental-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/longfellow-family-dental-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12209266821 (license ODbL-1.0); source data as of 2026-07-24

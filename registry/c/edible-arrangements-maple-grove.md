@@ -15,7 +15,7 @@ Edible Arrangements is a gift shop in Maple Grove, MN at 13712 Grove Drive North
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 10:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edible-arrangements-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5777444270 (license ODbL-1.0); source data as of 2026-06-01

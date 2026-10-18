@@ -15,7 +15,7 @@ Southdale Pediatric Associates Pediatric & Adult Allergy is an allergist in Edin
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/southdale-pediatric-associates-pediatric-and-adult-allergy-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/southdale-pediatric-associates-pediatric-and-adult-allergy-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12812299735 (license ODbL-1.0); source data as of 2026-07-24

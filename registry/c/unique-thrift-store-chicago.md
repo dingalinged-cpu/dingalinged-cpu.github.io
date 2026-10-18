@@ -15,7 +15,7 @@ Unique Thrift Store is a thrift store in Chicago, IL at 3748 North Elston Avenue
 - Opening hours (OSM syntax): Tu-Sa 10:00-21:00; Mo 08:00-21:00; Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/unique-thrift-store-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/unique-thrift-store-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163908588 (license ODbL-1.0); source data as of 2026-06-01

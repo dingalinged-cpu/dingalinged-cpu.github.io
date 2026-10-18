@@ -1,0 +1,23 @@
+Plano Locksmith is a locksmith in Plano, TX at 3700 Preston Road, Plano, TX 75093. Phone: +14694434500. Website: https://www.planolocksmith24h.com/.
+
+# Plano Locksmith
+
+- Category: locksmith
+- Services: locksmith
+- Address: 3700 Preston Road, Plano, TX 75093
+- City: Plano
+- State: TX
+- ZIP: 75093
+- Coordinates: 33.0479399, -96.7939965
+- Phone: +14694434500
+- Website: https://www.planolocksmith24h.com/
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/plano-locksmith-plano/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/plano-locksmith-plano.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5414383025 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Stop 24 Food & Liquors is a liquor store in Downers Grove, IL. Website: https://
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/stop-24-food-and-liquors-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/stop-24-food-and-liquors-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9046353100 (license ODbL-1.0); source data as of 2026-06-01

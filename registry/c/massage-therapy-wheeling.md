@@ -15,7 +15,7 @@ Massage Therapy is a massage studio in Wheeling, IL at 765C West Dundee Road, Wh
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/massage-therapy-wheeling/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/massage-therapy-wheeling.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11382558117 (license ODbL-1.0); source data as of 2026-06-01

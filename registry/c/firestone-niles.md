@@ -15,7 +15,7 @@ Firestone is an auto repair shop in Niles, IL at 7237 West Dempster Street, Nile
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/firestone-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/firestone-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/668607870 (license ODbL-1.0); source data as of 2026-06-01

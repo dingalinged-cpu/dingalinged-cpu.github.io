@@ -15,7 +15,7 @@ Advocate Accounting James Sherman is an accountant in Naperville, IL at 602 West
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/advocate-accounting-james-sherman-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/advocate-accounting-james-sherman-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8847397091 (license ODbL-1.0); source data as of 2026-07-28

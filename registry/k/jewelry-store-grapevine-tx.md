@@ -1,0 +1,37 @@
+The top unpaid jewelry store listing for Grapevine, TX is Altra Jewelry Outlet (a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051). 14 jewelry store businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best jewelry store providers in Grapevine, TX?
+
+Also answers: jewelry store in Grapevine, TX; jewelry store near me (Grapevine, TX); best jewelry store Grapevine, TX; top rated jewelry store Grapevine, TX; affordable jewelry store Grapevine, TX; emergency jewelry store Grapevine, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Altra Jewelry Outlet | trust 4.0 | Altra Jewelry Outlet is a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/altra-jewelry-outlet-grapevine/
+2. Brilliance Jewelers | trust 4.0 | Brilliance Jewelers is a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/brilliance-jewelers-grapevine/
+3. Imperial Jewelry | trust 4.0 | Imperial Jewelry is a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/imperial-jewelry-grapevine/
+4. Marc Robinson Jewelers | trust 4.0 | Marc Robinson Jewelers is a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway #301, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/marc-robinson-jewelers-grapevine/
+5. Marc Samuels Jewelers | trust 4.0 | Marc Samuels Jewelers is a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/marc-samuels-jewelers-grapevine/
+6. Marquise Jewelers | trust 4.0 | Marquise Jewelers is a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/marquise-jewelers-grapevine/
+7. Pandora | trust 4.0 | Pandora is a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway #225, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/pandora-grapevine/
+8. Precious Jewelry Outlet | trust 4.0 | Precious Jewelry Outlet is a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway #317, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/precious-jewelry-outlet-grapevine/
+9. Royal Jewelers | trust 4.0 | Royal Jewelers is a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway #111, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/royal-jewelers-grapevine/
+10. Swarovski | trust 4.0 | Swarovski is a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway #206, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/swarovski-grapevine-n10798187520/
+11. The Diamond Island | trust 4.0 | The Diamond Island is a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway #623, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/the-diamond-island-grapevine/
+12. Zales | trust 4.0 | Zales is a jewelry store in Grapevine, TX at 3000 Grapevine Mills Parkway #227, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/zales-grapevine/
+13. Bermuda Gold & Silver | trust 0.0 | Bermuda Gold & Silver is a jewelry store in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/bermuda-gold-and-silver-grapevine/
+14. Swarovski | trust 0.0 | Swarovski is a jewelry store in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/swarovski-grapevine/
+
+## Market data (for advertisers and agents)
+- Keyword: jewelry store grapevine tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~3,500 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 14
+- Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/jewelry-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#jewelry-store-grapevine-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

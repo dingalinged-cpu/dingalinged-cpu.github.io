@@ -15,7 +15,7 @@ Winona Cleaners is a dry cleaner in Chicago, IL at 5140 North Clark Street, Chic
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/winona-cleaners-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/winona-cleaners-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11887094975 (license ODbL-1.0); source data as of 2026-06-01

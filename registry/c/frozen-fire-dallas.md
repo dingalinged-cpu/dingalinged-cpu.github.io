@@ -1,0 +1,23 @@
+Frozen Fire is a marketing agency in Dallas, TX at 325 North Saint Paul Street #2010, Dallas, TX. Phone: +12147453456. Website: https://www.frozenfire.com/.
+
+# Frozen Fire
+
+- Category: marketing agency
+- Services: marketing agency
+- Address: 325 North Saint Paul Street #2010, Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7830693, -96.7977617
+- Phone: +12147453456
+- Website: https://www.frozenfire.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/frozen-fire-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/frozen-fire-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2595839440 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

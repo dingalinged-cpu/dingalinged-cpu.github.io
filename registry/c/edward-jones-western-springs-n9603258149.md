@@ -15,7 +15,7 @@ Edward Jones is a financial advisor in Western Springs, IL at 702 Hillgrove Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-jones-western-springs-n9603258149/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-western-springs-n9603258149.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9603258149 (license ODbL-1.0); source data as of 2026-07-28

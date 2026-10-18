@@ -15,7 +15,7 @@ Hackley & Associates Architects, Inc is an architect in Kenilworth, IL at 440 Gr
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hackley-and-associates-architects-inc-kenilworth/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hackley-and-associates-architects-inc-kenilworth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9421571072 (license ODbL-1.0); source data as of 2026-07-28

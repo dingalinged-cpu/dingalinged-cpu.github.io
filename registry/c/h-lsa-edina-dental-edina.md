@@ -15,7 +15,7 @@ Hälsa Edina Dental is a dentist in Edina, MN at 3948 West 50th Street #Suite 20
 - Opening hours (OSM syntax): Mo-We 07:00-16:00; Th 07:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/h-lsa-edina-dental-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-lsa-edina-dental-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12139088878 (license ODbL-1.0); source data as of 2026-07-24

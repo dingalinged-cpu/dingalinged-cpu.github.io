@@ -15,7 +15,7 @@ Classic Car Wash is a car wash in Naperville, IL at 311 East Ogden Avenue, Naper
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/classic-car-wash-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/classic-car-wash-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/261748092 (license ODbL-1.0); source data as of 2026-07-28

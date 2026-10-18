@@ -15,7 +15,7 @@ Safeguard Self Storage is a self-storage facility in Arlington Heights, IL at 52
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/safeguard-self-storage-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/safeguard-self-storage-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1336660649 (license ODbL-1.0); source data as of 2026-06-01

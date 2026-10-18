@@ -15,7 +15,7 @@ NEON Collective Kitchens is a caterer in Minneapolis, MN at 2041 West Broadway A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/neon-collective-kitchens-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/neon-collective-kitchens-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1530207282 (license ODbL-1.0); source data as of 2026-07-24

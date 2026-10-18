@@ -2,7 +2,7 @@ Keyword market for Worth Township, IL: 2 service keywords with search volume, CP
 
 # Top keywords in Worth Township, IL
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
 
 ## By monthly searches
 1. painters worth township il | searches/mo 1,700 (est) | CPC $13.74 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/painters-worth-township-il/

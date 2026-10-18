@@ -1,0 +1,23 @@
+Glow Head Nail & Head Spa is a nail salon in Frisco, TX at 3031 Preston Road #100, Frisco, TX 75034. Phone: +12148724151. Website: https://www.envynailspatx.com/.
+
+# Glow Head Nail & Head Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 3031 Preston Road #100, Frisco, TX 75034
+- City: Frisco
+- State: TX
+- ZIP: 75034
+- Coordinates: 33.1040915, -96.8064166
+- Phone: +12148724151
+- Website: https://www.envynailspatx.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/glow-head-nail-and-head-spa-frisco/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/glow-head-nail-and-head-spa-frisco.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5890201360 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

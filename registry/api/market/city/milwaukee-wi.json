@@ -2,7 +2,7 @@
  "title": "Keyword market data: Milwaukee, WI",
  "description": "Top Milwaukee, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
  "place": "Milwaukee, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage milwaukee wi",
     "slug": "massage-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/massage-milwaukee-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -20,7 +20,7 @@
     "search_value_index_usd": 110000,
     "equivalent_google_ads_cost_month_usd": 6100,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 6,
     "ranked_by": "by_volume"
    },
    {
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist milwaukee wi",
     "slug": "dentist-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -50,13 +50,13 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 2100,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 41,
     "ranked_by": "by_volume"
    },
    {
     "keyword": "gym milwaukee wi",
     "slug": "gym-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/gym-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -65,13 +65,13 @@
     "search_value_index_usd": 14000,
     "equivalent_google_ads_cost_month_usd": 1000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 31,
     "ranked_by": "by_volume"
    },
    {
     "keyword": "car wash milwaukee wi",
     "slug": "car-wash-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -80,13 +80,13 @@
     "search_value_index_usd": 37000,
     "equivalent_google_ads_cost_month_usd": 2000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 23,
     "ranked_by": "by_volume"
    },
    {
     "keyword": "oil change milwaukee wi",
     "slug": "oil-change-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -95,13 +95,13 @@
     "search_value_index_usd": 37000,
     "equivalent_google_ads_cost_month_usd": 2000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 5,
     "ranked_by": "by_volume"
    },
    {
     "keyword": "hair salon milwaukee wi",
     "slug": "hair-salon-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-milwaukee-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -110,13 +110,13 @@
     "search_value_index_usd": 3800,
     "equivalent_google_ads_cost_month_usd": 220,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 148,
     "ranked_by": "by_volume"
    },
    {
     "keyword": "nail salon milwaukee wi",
     "slug": "nail-salon-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-milwaukee-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -125,7 +125,7 @@
     "search_value_index_usd": 2800,
     "equivalent_google_ads_cost_month_usd": 160,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 37,
     "ranked_by": "by_volume"
    },
    {
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber milwaukee wi",
     "slug": "plumber-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-milwaukee-wi/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -155,7 +155,7 @@
     "search_value_index_usd": 46000,
     "equivalent_google_ads_cost_month_usd": 2900,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 3,
     "ranked_by": "by_volume"
    },
    {
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop milwaukee wi",
     "slug": "barber-shop-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-milwaukee-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -200,7 +200,7 @@
     "search_value_index_usd": 2200,
     "equivalent_google_ads_cost_month_usd": 120,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 9,
     "ranked_by": "by_volume"
    },
    {
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic milwaukee wi",
     "slug": "mechanic-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-milwaukee-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -230,7 +230,7 @@
     "search_value_index_usd": 13000,
     "equivalent_google_ads_cost_month_usd": 750,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 101,
     "ranked_by": "by_volume"
    }
   ],
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair milwaukee wi",
     "slug": "hvac-repair-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-milwaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -277,7 +277,7 @@
     "search_value_index_usd": 6000,
     "equivalent_google_ads_cost_month_usd": 380,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 6,
     "ranked_by": "by_cpc"
    },
    {
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services milwaukee wi",
     "slug": "plumbing-services-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-milwaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -352,7 +352,7 @@
     "search_value_index_usd": 3200,
     "equivalent_google_ads_cost_month_usd": 200,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 3,
     "ranked_by": "by_cpc"
    },
    {
@@ -403,7 +403,7 @@
    {
     "keyword": "painters milwaukee wi",
     "slug": "painters-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/painters-milwaukee-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -412,13 +412,13 @@
     "search_value_index_usd": 3800,
     "equivalent_google_ads_cost_month_usd": 250,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 2,
     "ranked_by": "by_cpc"
    },
    {
     "keyword": "moving company milwaukee wi",
     "slug": "moving-company-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/moving-company-milwaukee-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 930,
@@ -427,7 +427,7 @@
     "search_value_index_usd": 12000,
     "equivalent_google_ads_cost_month_usd": 740,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
    {
@@ -465,7 +465,7 @@
    {
     "keyword": "massage milwaukee wi",
     "slug": "massage-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/massage-milwaukee-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -474,7 +474,7 @@
     "search_value_index_usd": 110000,
     "equivalent_google_ads_cost_month_usd": 6100,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 6,
     "ranked_by": "by_value"
    },
    {
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber milwaukee wi",
     "slug": "plumber-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-milwaukee-wi/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -519,13 +519,13 @@
     "search_value_index_usd": 46000,
     "equivalent_google_ads_cost_month_usd": 2900,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 3,
     "ranked_by": "by_value"
    },
    {
     "keyword": "dentist milwaukee wi",
     "slug": "dentist-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -534,13 +534,13 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 2100,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 41,
     "ranked_by": "by_value"
    },
    {
     "keyword": "car wash milwaukee wi",
     "slug": "car-wash-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -549,13 +549,13 @@
     "search_value_index_usd": 37000,
     "equivalent_google_ads_cost_month_usd": 2000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 23,
     "ranked_by": "by_value"
    },
    {
     "keyword": "oil change milwaukee wi",
     "slug": "oil-change-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -564,7 +564,7 @@
     "search_value_index_usd": 37000,
     "equivalent_google_ads_cost_month_usd": 2000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 5,
     "ranked_by": "by_value"
    },
    {
@@ -600,7 +600,7 @@
    {
     "keyword": "gym milwaukee wi",
     "slug": "gym-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/gym-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -609,7 +609,7 @@
     "search_value_index_usd": 14000,
     "equivalent_google_ads_cost_month_usd": 1000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 31,
     "ranked_by": "by_value"
    },
    {
@@ -645,7 +645,7 @@
    {
     "keyword": "electrician milwaukee wi",
     "slug": "electrician-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-milwaukee-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -654,13 +654,13 @@
     "search_value_index_usd": 13000,
     "equivalent_google_ads_cost_month_usd": 850,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_value"
    },
    {
     "keyword": "mechanic milwaukee wi",
     "slug": "mechanic-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-milwaukee-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-milwaukee-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -669,7 +669,7 @@
     "search_value_index_usd": 13000,
     "equivalent_google_ads_cost_month_usd": 750,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 101,
     "ranked_by": "by_value"
    },
    {
@@ -690,7 +690,6 @@
   ]
  },
  "license": {
-  "registry_estimates": "CC-BY-4.0",
-  "url": "https://creativecommons.org/licenses/by/4.0/"
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
  }
 }

@@ -1,0 +1,23 @@
+Public Storage is a self-storage facility in Houston, TX at 8555 Larkwood Drive, Houston, TX 77074.
+
+# Public Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 8555 Larkwood Drive, Houston, TX 77074
+- City: Houston
+- State: TX
+- ZIP: 77074
+- Coordinates: 29.6859235, -95.506886
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa,Su 09:30-17:00; PH 08:00-08:05
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-houston-w1019377074/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-houston-w1019377074.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1019377074 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

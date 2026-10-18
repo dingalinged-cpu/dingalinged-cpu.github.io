@@ -15,7 +15,7 @@ Anthony Valentino Salon for Hair is a hair salon in Park Ridge, IL at 26 Main St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anthony-valentino-salon-for-hair-park-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anthony-valentino-salon-for-hair-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1046404693 (license ODbL-1.0); source data as of 2026-06-01

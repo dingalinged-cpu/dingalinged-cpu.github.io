@@ -15,7 +15,7 @@ Shalom Memorial Funeral Home is a funeral home in Arlington Heights, IL at 1700 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shalom-memorial-funeral-home-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shalom-memorial-funeral-home-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2840418968 (license ODbL-1.0); source data as of 2026-06-01

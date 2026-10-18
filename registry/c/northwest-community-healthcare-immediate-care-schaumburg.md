@@ -15,7 +15,7 @@ Northwest Community Healthcare Immediate Care is an urgent care clinic in Schaum
 - Opening hours (OSM syntax): Mo-Fr 07:00-22:00; Sa,Su,PH 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northwest-community-healthcare-immediate-care-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northwest-community-healthcare-immediate-care-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/489651581 (license ODbL-1.0); source data as of 2026-07-28

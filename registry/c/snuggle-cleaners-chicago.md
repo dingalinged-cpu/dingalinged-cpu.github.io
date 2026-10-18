@@ -15,7 +15,7 @@ Snuggle Cleaners is a dry cleaner in Chicago, IL at 3300 North Racine Avenue, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/snuggle-cleaners-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/snuggle-cleaners-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9167924022 (license ODbL-1.0); source data as of 2026-06-01

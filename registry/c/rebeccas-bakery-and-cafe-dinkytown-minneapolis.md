@@ -15,7 +15,7 @@ Rebecca's Bakery & Cafe - Dinkytown is a bakery in Minneapolis, MN at 1325 4th S
 - Opening hours (OSM syntax): Mo-Su 11:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rebeccas-bakery-and-cafe-dinkytown-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rebeccas-bakery-and-cafe-dinkytown-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13784148801 (license ODbL-1.0); source data as of 2026-06-01

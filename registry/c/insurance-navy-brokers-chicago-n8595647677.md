@@ -15,7 +15,7 @@ Insurance Navy Brokers is an insurance agent in Chicago, IL at 5016 South Pulask
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-chicago-n8595647677/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-chicago-n8595647677.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8595647677 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Spynergy is a gym in Winnetka, IL at Oak Street, Winnetka, IL 60093.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/spynergy-winnetka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/spynergy-winnetka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/910672510 (license ODbL-1.0); source data as of 2026-06-01

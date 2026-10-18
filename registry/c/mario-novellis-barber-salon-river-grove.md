@@ -15,7 +15,7 @@ Mario Novelli's Barber Salon is a barber shop in River Grove, IL at 8345 West Gr
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mario-novellis-barber-salon-river-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mario-novellis-barber-salon-river-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1421078311 (license ODbL-1.0); source data as of 2026-06-01

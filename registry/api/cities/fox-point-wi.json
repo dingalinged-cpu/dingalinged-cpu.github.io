@@ -1,0 +1,453 @@
+{
+ "place": "Fox Point, WI",
+ "slug": "fox-point-wi",
+ "count": 12,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-fox-point-wi.json"
+  },
+  {
+   "keyword": "attorney fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-fox-point-wi.json"
+  },
+  {
+   "keyword": "bike shop fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-fox-point-wi.json"
+  },
+  {
+   "keyword": "dance studio fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-fox-point-wi.json"
+  },
+  {
+   "keyword": "dentist fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-fox-point-wi.json"
+  },
+  {
+   "keyword": "facial fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-fox-point-wi.json"
+  },
+  {
+   "keyword": "gym fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-fox-point-wi.json"
+  },
+  {
+   "keyword": "hair salon fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-fox-point-wi.json"
+  },
+  {
+   "keyword": "haircut fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-fox-point-wi.json"
+  },
+  {
+   "keyword": "lawyer fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-fox-point-wi.json"
+  },
+  {
+   "keyword": "nail salon fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-fox-point-wi.json"
+  },
+  {
+   "keyword": "physical therapy fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-fox-point-wi.json"
+  },
+  {
+   "keyword": "preschool fox point wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-fox-point-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "apeel-skin-spa-fox-point",
+   "name": "aPeel Skin Spa",
+   "summary": "aPeel Skin Spa is a skin care studio in Fox Point, WI at 8653 North Port Washington Road, Fox Point, WI 53217. Phone: +14144779220. Website: https://www.apeelskinspa.com/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/apeel-skin-spa-fox-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/apeel-skin-spa-fox-point.json",
+   "address": {
+    "streetAddress": "8653 North Port Washington Road",
+    "addressLocality": "Fox Point",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Fox Point",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1742626,
+    "lon": -87.9132741
+   },
+   "phone": "+14144779220",
+   "website": "https://www.apeelskinspa.com/",
+   "opening_hours": "Mo-Th 10:00-18:00; Fr 10:00-15:00; Sa 10:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8618342436",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fox-point-dental-studio-fox-point",
+   "name": "Fox Point Dental Studio",
+   "summary": "Fox Point Dental Studio is a dentist in Fox Point, WI at 333 West Brown Deer Road #A, Fox Point, WI 53217. Phone: +14142365885. Website: https://www.foxpointdentalstudio.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fox-point-dental-studio-fox-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fox-point-dental-studio-fox-point.json",
+   "address": {
+    "streetAddress": "333 West Brown Deer Road #A",
+    "addressLocality": "Fox Point",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Fox Point",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1760575,
+    "lon": -87.9116753
+   },
+   "phone": "+14142365885",
+   "website": "https://www.foxpointdentalstudio.com/",
+   "opening_hours": "Mo,We 08:00-17:00; Tu 09:00-18:00; Th 07:00-16:00; Fr 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8622756275",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-fox-point",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Fox Point, WI at 8689 North Port Washington Road, Fox Point, WI 53217. Phone: +14142282668. Website: https://www.greatclips.com/salons/1133.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-fox-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-fox-point.json",
+   "address": {
+    "streetAddress": "8689 North Port Washington Road",
+    "addressLocality": "Fox Point",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Fox Point",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1747147,
+    "lon": -87.9144516
+   },
+   "phone": "+14142282668",
+   "website": "https://www.greatclips.com/salons/1133",
+   "opening_hours": "Mo-Fr 09:00-21:00; Sa 08:00-18:00; Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/509096974",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "integra-physical-therapy-and-personal-training-fox-point",
+   "name": "Integra Physical Therapy & Personal Training",
+   "summary": "Integra Physical Therapy & Personal Training is a physical therapy clinic in Fox Point, WI at 8677 North Port Washington Road, Fox Point, WI 53217. Phone: +14143518482. Website: https://www.integrapt2.com/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/integra-physical-therapy-and-personal-training-fox-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/integra-physical-therapy-and-personal-training-fox-point.json",
+   "address": {
+    "streetAddress": "8677 North Port Washington Road",
+    "addressLocality": "Fox Point",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Fox Point",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1745146,
+    "lon": -87.9140214
+   },
+   "phone": "+14143518482",
+   "website": "https://www.integrapt2.com/",
+   "opening_hours": "Mo-Fr 06:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/509096981",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "karp-and-iancu-s-c-fox-point",
+   "name": "Karp & Iancu, S.C.",
+   "summary": "Karp & Iancu, S.C. is a lawyer in Fox Point, WI at 8651 North Port Washington Road #Suite A, Fox Point, WI 53217. Phone: +14142401835. Website: https://www.karplawfirm.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/karp-and-iancu-s-c-fox-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/karp-and-iancu-s-c-fox-point.json",
+   "address": {
+    "streetAddress": "8651 North Port Washington Road #Suite A",
+    "addressLocality": "Fox Point",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Fox Point",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1742413,
+    "lon": -87.913175
+   },
+   "phone": "+14142401835",
+   "website": "https://www.karplawfirm.com/",
+   "opening_hours": "Mo-Fr 06:30-20:00; Sa-Su 07:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9556059328",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-lift-pilates-fox-point",
+   "name": "The Lift Pilates",
+   "summary": "The Lift Pilates is a gym in Fox Point, WI at 383 West Brown Deer Road #B, Fox Point, WI 53217. Phone: +14147518200. Website: https://theliftpilates.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-lift-pilates-fox-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-lift-pilates-fox-point.json",
+   "address": {
+    "streetAddress": "383 West Brown Deer Road #B",
+    "addressLocality": "Fox Point",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Fox Point",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1760524,
+    "lon": -87.9121726
+   },
+   "phone": "+14147518200",
+   "website": "https://theliftpilates.com/",
+   "opening_hours": "Mo-Th 16:00-20:00; Fr 06:00-17:00; Sa 07:30-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7177748980",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-nurturing-nook-fox-point",
+   "name": "The Nurturing Nook",
+   "summary": "The Nurturing Nook is a preschool in Fox Point, WI at 8647 North Port Washington Road, Fox Point, WI 53217. Phone: +14143526115. Website: https://www.thenurturingnook.com/riverpoint.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-nurturing-nook-fox-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-nurturing-nook-fox-point.json",
+   "address": {
+    "streetAddress": "8647 North Port Washington Road",
+    "addressLocality": "Fox Point",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Fox Point",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1743326,
+    "lon": -87.9140031
+   },
+   "phone": "+14143526115",
+   "website": "https://www.thenurturingnook.com/riverpoint",
+   "opening_hours": "06:30-18:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/509096984",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "milwaukee-ballet-school-and-academy-fox-point",
+   "name": "Milwaukee Ballet School & Academy",
+   "summary": "Milwaukee Ballet School & Academy is a dance studio in Fox Point, WI at 8655 North Port Washington Road, Fox Point, WI 53217. Phone: +14142288128. Website: https://www.milwaukeeballet.org/school-academy/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/milwaukee-ballet-school-and-academy-fox-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/milwaukee-ballet-school-and-academy-fox-point.json",
+   "address": {
+    "streetAddress": "8655 North Port Washington Road",
+    "addressLocality": "Fox Point",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Fox Point",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1744543,
+    "lon": -87.913602
+   },
+   "phone": "+14142288128",
+   "website": "https://www.milwaukeeballet.org/school-academy/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/509096977",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wheel-and-sprocket-fox-point",
+   "name": "Wheel & Sprocket",
+   "summary": "Wheel & Sprocket is a bike shop in Fox Point, WI at 6940 North Santa Monica Boulevard, Fox Point, WI 53217. Phone: +14142478100. Website: https://www.wheelandsprocket.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-fox-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wheel-and-sprocket-fox-point.json",
+   "address": {
+    "streetAddress": "6940 North Santa Monica Boulevard",
+    "addressLocality": "Fox Point",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Fox Point",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1433082,
+    "lon": -87.9021347
+   },
+   "phone": "+14142478100",
+   "website": "https://www.wheelandsprocket.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2641096845",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "azura-memory-care-fox-point",
+   "name": "Azura Memory Care",
+   "summary": "Azura Memory Care is an assisted living facility in Fox Point, WI at 7770 North Port Washington Road, Fox Point, WI 53217. Website: https://azuraliving.com/locations/fox-point/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/azura-memory-care-fox-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/azura-memory-care-fox-point.json",
+   "address": {
+    "streetAddress": "7770 North Port Washington Road",
+    "addressLocality": "Fox Point",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Fox Point",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1575296,
+    "lon": -87.9117442
+   },
+   "website": "https://azuraliving.com/locations/fox-point/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1157243571",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-nail-bar-fox-point",
+   "name": "The Nail Bar",
+   "summary": "The Nail Bar is a nail salon in Fox Point, WI at 8667A North Port Washington Road, Fox Point, WI 53217. Phone: +14145401003.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-nail-bar-fox-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-nail-bar-fox-point.json",
+   "address": {
+    "streetAddress": "8667A North Port Washington Road",
+    "addressLocality": "Fox Point",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Fox Point",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1744949,
+    "lon": -87.9136819
+   },
+   "phone": "+14145401003",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/509096978",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valentine-s-salon-fox-point",
+   "name": "Valentine’s Salon",
+   "summary": "Valentine’s Salon is a hair salon in Fox Point, WI at 8795 North Port Washington Road, Fox Point, WI 53217.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valentine-s-salon-fox-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valentine-s-salon-fox-point.json",
+   "address": {
+    "streetAddress": "8795 North Port Washington Road",
+    "addressLocality": "Fox Point",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Fox Point",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.176128,
+    "lon": -87.9148017
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/509096962",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

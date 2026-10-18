@@ -15,7 +15,7 @@ Lincoln Square Animal Hospital is a veterinarian in Chicago, IL at 4501 North Li
 - Opening hours (OSM syntax): Mo,Tu,We,Th 09:00-19:00; Fr,Sa 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lincoln-square-animal-hospital-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lincoln-square-animal-hospital-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209477544 (license ODbL-1.0); source data as of 2026-07-28

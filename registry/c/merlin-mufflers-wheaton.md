@@ -15,7 +15,7 @@ Merlin Mufflers is an auto repair shop in Wheaton, IL at North Main Street, Whea
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/merlin-mufflers-wheaton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/merlin-mufflers-wheaton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/633133373 (license ODbL-1.0); source data as of 2026-06-01

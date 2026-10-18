@@ -1,0 +1,39 @@
+The top unpaid dentist listing for Cedar Hill, TX is Dr. E Lopez Family & Cosmetic Dentistry (a dentist in Cedar Hill, TX at 110 East Belt Line Road #100, Cedar Hill, TX 75104. Phone: +19722912591. Website: https://www.cedarhilldentist.com/). 15 dentist businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best dentist providers in Cedar Hill, TX?
+
+Also answers: dentist in Cedar Hill, TX; dentist near me (Cedar Hill, TX); best dentist Cedar Hill, TX; top rated dentist Cedar Hill, TX; affordable dentist Cedar Hill, TX; emergency dentist Cedar Hill, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Dr. E Lopez Family & Cosmetic Dentistry | trust 20.0 | Dr. E Lopez Family & Cosmetic Dentistry is a dentist in Cedar Hill, TX at 110 East Belt Line Road #100, Cedar Hill, TX 75104. Phone: +19722912591. Website: https://www.cedarhilldentist.com/. | https://dingalinged-cpu.github.io/registry/c/dr-e-lopez-family-and-cosmetic-dentistry-cedar-hill/
+2. Fresh Dentistry | trust 20.0 | Fresh Dentistry is a dentist in Cedar Hill, TX at 145 West FM 1382 #500, Cedar Hill, TX 75104. Phone: +19722910800. Website: https://www.freshbycandds.com/. | https://dingalinged-cpu.github.io/registry/c/fresh-dentistry-cedar-hill/
+3. Cedar Hill Modern Dentistry | trust 14.0 | Cedar Hill Modern Dentistry is a dentist in Cedar Hill, TX at 398 East FM 1382 #B, Cedar Hill, TX 75104. Phone: +19722916262. | https://dingalinged-cpu.github.io/registry/c/cedar-hill-modern-dentistry-cedar-hill/
+4. Daryl J Seidler DDS Family Dentistry | trust 10.0 | Daryl J Seidler DDS Family Dentistry is a dentist in Cedar Hill, TX at 223 East FM 1382 #104, Cedar Hill, TX 75104. Phone: +19722919393. | https://dingalinged-cpu.github.io/registry/c/daryl-j-seidler-dds-family-dentistry-cedar-hill/
+5. Ideal Dental | trust 10.0 | Ideal Dental is a dentist in Cedar Hill, TX at 638 Uptown Boulevard #100, Cedar Hill, TX 75104. Phone: +19722999666. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-cedar-hill/
+6. Mint Dentistry | trust 10.0 | Mint Dentistry is a dentist in Cedar Hill, TX at 105 East Belt Line Road #900, Cedar Hill, TX 75104. Phone: +14692903600. | https://dingalinged-cpu.github.io/registry/c/mint-dentistry-cedar-hill/
+7. Smile & Co. Family Orthodontics | trust 10.0 | Smile & Co. Family Orthodontics is a dentist in Cedar Hill, TX at 408 North Highway 67 #C, Cedar Hill, TX 75104. Phone: +14695644885. | https://dingalinged-cpu.github.io/registry/c/smile-and-co-family-orthodontics-cedar-hill/
+8. Indigo Dentistry | trust 9.0 | Indigo Dentistry is a dentist in Cedar Hill, TX at 918 East Pleasant Run Road #120, Cedar Hill, TX. Website: https://indigodds.com/. | https://dingalinged-cpu.github.io/registry/c/indigo-dentistry-cedar-hill/
+9. Uptown Dental | trust 8.0 | Uptown Dental is a dentist in Cedar Hill, TX at 642 Uptown Boulevard #160, Cedar Hill, TX 75104. | https://dingalinged-cpu.github.io/registry/c/uptown-dental-cedar-hill/
+10. Cedar Hill Pointe Family Dentistry | trust 4.0 | Cedar Hill Pointe Family Dentistry is a dentist in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/cedar-hill-pointe-family-dentistry-cedar-hill/
+11. Robert J. Philips DDS | trust 4.0 | Robert J. Philips DDS is a dentist in Cedar Hill, TX at 130 West Belt Line Road #7, Cedar Hill, TX 75104. | https://dingalinged-cpu.github.io/registry/c/robert-j-philips-dds-cedar-hill/
+12. Tooth HQ | trust 4.0 | Tooth HQ is a dentist in Cedar Hill, TX at 103 East Belt Line Road #H, Cedar Hill, TX 75104. | https://dingalinged-cpu.github.io/registry/c/tooth-hq-cedar-hill/
+13. John R Valiant DDS | trust 0.0 | John R Valiant DDS is a dentist in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/john-r-valiant-dds-cedar-hill/
+14. Monarch Dental | trust 0.0 | Monarch Dental is a dentist in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/monarch-dental-cedar-hill/
+15. Zena Dental | trust 0.0 | Zena Dental is a dentist in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/zena-dental-cedar-hill/
+
+## Market data (for advertisers and agents)
+- Keyword: dentist cedar hill tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
+- US monthly searches: 1,830,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'dentist near me')
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~45,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $7.85, median $8.00, high $8.00 (Dentists & Dental Services median CPC 2026 $8.00 [https://www.localiq.com/blog/search-advertising-benchmarks]; Dentists & Dental Services median CPC 2025 $7.85 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'dentist near me': $4.70-$21.56 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: medium (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 15
+- Equivalent Google Ads cost per month: ~$12,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-cedar-hill-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Splended Dental Care is a dentist in Spring, TX at 2156 Spring Stuebner Road #Suite 510, Spring, TX 77389. Phone: +17135879996. Website: https://www.splendiddentistrywoodlands.com/.
+
+# Splended Dental Care
+
+- Category: dentist
+- Services: dentist
+- Address: 2156 Spring Stuebner Road #Suite 510, Spring, TX 77389
+- City: Spring
+- State: TX
+- ZIP: 77389
+- Coordinates: 30.0835999, -95.4493432
+- Phone: +17135879996
+- Website: https://www.splendiddentistrywoodlands.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/splended-dental-care-spring/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/splended-dental-care-spring.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9978733641 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

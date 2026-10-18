@@ -15,7 +15,7 @@ Broadway Robbinsdale Animal Hospital is a veterinarian in Minneapolis, MN at 272
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/broadway-robbinsdale-animal-hospital-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/broadway-robbinsdale-animal-hospital-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11349272149 (license ODbL-1.0); source data as of 2026-07-24

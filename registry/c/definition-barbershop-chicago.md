@@ -15,7 +15,7 @@ Definition Barbershop is a barber shop in Chicago, IL at 2245 North Western Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/definition-barbershop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/definition-barbershop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10265101236 (license ODbL-1.0); source data as of 2026-06-01

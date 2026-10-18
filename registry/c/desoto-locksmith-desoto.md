@@ -1,0 +1,23 @@
+DeSoto Locksmith is a locksmith in DeSoto, TX at 105 Lion Street, DeSoto, TX 75115. Phone: +19723252786. Website: https://www.desotolocksmith24h.com/.
+
+# DeSoto Locksmith
+
+- Category: locksmith
+- Services: locksmith
+- Address: 105 Lion Street, DeSoto, TX 75115
+- City: DeSoto
+- State: TX
+- ZIP: 75115
+- Coordinates: 32.5914885, -96.8561455
+- Phone: +19723252786
+- Website: https://www.desotolocksmith24h.com/
+- Email: leegrm@desotolocksmith24h.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/desoto-locksmith-desoto/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/desoto-locksmith-desoto.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5453904634 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

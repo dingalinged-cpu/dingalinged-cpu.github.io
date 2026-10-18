@@ -15,7 +15,7 @@ BuySelf Realty, Inc. is a real estate agency in Bloomington, MN at 8053 East Blo
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/buyself-realty-inc-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/buyself-realty-inc-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/745912314 (license ODbL-1.0); source data as of 2026-05-31

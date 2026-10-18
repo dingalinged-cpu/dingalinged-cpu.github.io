@@ -15,7 +15,7 @@ Lena Nails Spa is a nail salon in Minneapolis, MN at 4612 Nicollet Avenue South,
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lena-nails-spa-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lena-nails-spa-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12955198544 (license ODbL-1.0); source data as of 2026-06-01

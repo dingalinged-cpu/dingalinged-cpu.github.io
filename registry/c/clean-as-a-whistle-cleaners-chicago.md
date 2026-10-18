@@ -15,7 +15,7 @@ Clean As A Whistle Cleaners is a dry cleaner in Chicago, IL at 836 West Adams St
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/clean-as-a-whistle-cleaners-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/clean-as-a-whistle-cleaners-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11672692564 (license ODbL-1.0); source data as of 2026-06-01

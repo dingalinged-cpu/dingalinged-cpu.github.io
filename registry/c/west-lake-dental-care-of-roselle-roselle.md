@@ -15,7 +15,7 @@ West Lake Dental Care of Roselle is a dentist in Roselle, IL at 1260 West Lake S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/west-lake-dental-care-of-roselle-roselle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/west-lake-dental-care-of-roselle-roselle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13205549266 (license ODbL-1.0); source data as of 2026-07-28

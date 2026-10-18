@@ -1,0 +1,23 @@
+The Hunnicutt Law Group is a lawyer in Dallas, TX at 17330 Preston Road #Suite 275-B, Dallas, TX 75252. Phone: +12143616740. Website: https://www.hunnicuttlaw.com/.
+
+# The Hunnicutt Law Group
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 17330 Preston Road #Suite 275-B, Dallas, TX 75252
+- City: Dallas
+- State: TX
+- ZIP: 75252
+- Coordinates: 32.9875923, -96.8016928
+- Phone: +12143616740
+- Website: https://www.hunnicuttlaw.com/
+- Email: info@hunnicuttlaw.com
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-hunnicutt-law-group-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-hunnicutt-law-group-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9853191757 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

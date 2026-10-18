@@ -15,7 +15,7 @@ Futons-N-More is a mattress store in Chicago, IL at 919 West Irving Park Road, C
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/futons-n-more-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/futons-n-more-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10309684745 (license ODbL-1.0); source data as of 2026-06-01

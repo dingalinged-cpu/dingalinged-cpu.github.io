@@ -15,7 +15,7 @@ Moreno's Liquors is a liquor store in Chicago, IL at 3724 West 26th Street, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/morenos-liquors-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/morenos-liquors-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7967966303 (license ODbL-1.0); source data as of 2026-06-01

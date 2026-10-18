@@ -15,7 +15,7 @@ Lakeside Barber Studio is a hair salon in Whiting, IN at 1426 119th Street #1, W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lakeside-barber-studio-whiting/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lakeside-barber-studio-whiting.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1232071708 (license ODbL-1.0); source data as of 2026-06-01

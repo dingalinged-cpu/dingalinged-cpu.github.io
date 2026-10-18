@@ -15,7 +15,7 @@ ABcom is an IT support company in New Brighton, MN at 213 Old Highway 8 Southwes
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/abcom-new-brighton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/abcom-new-brighton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12900412026 (license ODbL-1.0); source data as of 2026-05-31

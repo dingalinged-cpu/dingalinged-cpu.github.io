@@ -15,7 +15,7 @@ StorageMart is a self-storage facility in Skokie, IL at 3220 West Touhy Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/storagemart-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/storagemart-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209692403 (license ODbL-1.0); source data as of 2026-06-01

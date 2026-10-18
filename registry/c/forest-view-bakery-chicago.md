@@ -15,7 +15,7 @@ Forest View Bakery is a bakery in Chicago, IL at 6454 North Milwaukee Avenue, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/forest-view-bakery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/forest-view-bakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6291061178 (license ODbL-1.0); source data as of 2026-06-01

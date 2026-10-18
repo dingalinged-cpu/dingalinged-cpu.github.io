@@ -15,7 +15,7 @@ CubeSmart is a self-storage facility in Chicago, IL at 1900 North Narragansett A
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 11:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cubesmart-chicago-w163044798/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-chicago-w163044798.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163044798 (license ODbL-1.0); source data as of 2026-06-01

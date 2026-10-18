@@ -15,7 +15,7 @@ Dr. Calvin George, DC is a chiropractor in Addison, IL at 190 N Swift Rd Ste S, 
 - Opening hours (OSM syntax): Mo-Fr 9:00AM to 5:00PM,Saturday: 8:30AM to 12:00PM
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-calvin-george-dc-addison/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-calvin-george-dc-addison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4314516775 (license ODbL-1.0); source data as of 2026-07-28

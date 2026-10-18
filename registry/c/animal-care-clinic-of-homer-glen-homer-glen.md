@@ -15,7 +15,7 @@ Animal Care Clinic of Homer Glen is a veterinarian in Homer Glen, IL at 13061 We
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/animal-care-clinic-of-homer-glen-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/animal-care-clinic-of-homer-glen-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/517809220 (license ODbL-1.0); source data as of 2026-07-28

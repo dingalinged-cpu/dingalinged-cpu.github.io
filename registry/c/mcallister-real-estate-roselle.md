@@ -15,7 +15,7 @@ McAllister Real Estate is a real estate agency in Roselle, IL at 111 Main Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mcallister-real-estate-roselle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mcallister-real-estate-roselle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/14024668195 (license ODbL-1.0); source data as of 2026-07-28

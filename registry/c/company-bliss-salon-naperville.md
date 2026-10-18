@@ -15,7 +15,7 @@ Company Bliss Salon is a hair salon in Naperville, IL at 1160 East Ogden Avenue 
 - Opening hours (OSM syntax): Mo, Su off; Tu-Th 09:00-21:00; Fr 09:00-17:00; Sa 08:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/company-bliss-salon-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/company-bliss-salon-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9104706322 (license ODbL-1.0); source data as of 2026-06-01

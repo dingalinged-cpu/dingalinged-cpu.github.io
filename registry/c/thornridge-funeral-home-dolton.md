@@ -15,7 +15,7 @@ Thornridge Funeral Home is a funeral home in Dolton, IL at 15801 Cottage Grove A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/thornridge-funeral-home-dolton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/thornridge-funeral-home-dolton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1360733258 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Thomas d. Bruss, DDS is a dentist in Minneapolis, MN at 4201 Minnehaha Avenue, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/thomas-d-bruss-dds-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/thomas-d-bruss-dds-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/339270935 (license ODbL-1.0); source data as of 2026-07-24

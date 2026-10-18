@@ -1,0 +1,23 @@
+Atria Grapevine is an assisted living facility in Grapevine, TX at 3975 William D Tate Avenue, Grapevine, TX 76051.
+
+# Atria Grapevine
+
+- Category: assisted living
+- Services: assisted living
+- Address: 3975 William D Tate Avenue, Grapevine, TX 76051
+- City: Grapevine
+- State: TX
+- ZIP: 76051
+- Coordinates: 32.895079, -97.0976993
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/atria-grapevine-grapevine/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/atria-grapevine-grapevine.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1289782216 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ GEM Car Wash is a car wash in Elmhurst, IL at 964 North York Street, Elmhurst, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gem-car-wash-elmhurst/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gem-car-wash-elmhurst.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1462192807 (license ODbL-1.0); source data as of 2026-07-28

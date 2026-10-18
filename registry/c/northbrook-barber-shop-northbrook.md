@@ -15,7 +15,7 @@ Northbrook Barber Shop is a hair salon in Northbrook, IL at 1519 Shermer Road, N
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northbrook-barber-shop-northbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northbrook-barber-shop-northbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/906018710 (license ODbL-1.0); source data as of 2026-06-01

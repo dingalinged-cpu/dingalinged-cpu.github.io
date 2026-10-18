@@ -15,7 +15,7 @@ PICA Head Start is a daycare in Golden Valley, MN at 4901 Olson Memorial Highway
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pica-head-start-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pica-head-start-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/203683489 (license ODbL-1.0); source data as of 2026-07-24

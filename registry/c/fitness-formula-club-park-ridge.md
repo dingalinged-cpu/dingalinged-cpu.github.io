@@ -15,7 +15,7 @@ Fitness Formula Club is a gym in Park Ridge, IL at 826 West Touhy Avenue, Park R
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fitness-formula-club-park-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fitness-formula-club-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1046404690 (license ODbL-1.0); source data as of 2026-06-01

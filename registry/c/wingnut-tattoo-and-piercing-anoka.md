@@ -15,7 +15,7 @@ Wingnut Tattoo & Piercing is a tattoo shop in Anoka, MN at 2022 North Ferry Stre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wingnut-tattoo-and-piercing-anoka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wingnut-tattoo-and-piercing-anoka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/585525225 (license ODbL-1.0); source data as of 2026-06-01

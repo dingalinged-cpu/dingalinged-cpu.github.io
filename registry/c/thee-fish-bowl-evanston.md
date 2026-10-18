@@ -15,7 +15,7 @@ Thee Fish Bowl is a pet store in Evanston, IL at 600 Dempster Street, Evanston, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/thee-fish-bowl-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/thee-fish-bowl-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2295219833 (license ODbL-1.0); source data as of 2026-06-01

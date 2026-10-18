@@ -15,7 +15,7 @@ Rock Paper Silver is a jewelry store in Minneapolis, MN at 4816 Nicollet Avenue 
 - Opening hours (OSM syntax): We 10:00-16:00; Th 11:00-16:00; Sa[3] 10:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rock-paper-silver-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rock-paper-silver-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13628521333 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Seven Bridges Dental Studio is a dentist in Woodridge, IL at 6325 Main Street #1
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/seven-bridges-dental-studio-woodridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/seven-bridges-dental-studio-woodridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11609363813 (license ODbL-1.0); source data as of 2026-07-28

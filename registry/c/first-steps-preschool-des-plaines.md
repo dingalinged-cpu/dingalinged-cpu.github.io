@@ -15,7 +15,7 @@ First Steps Preschool is a preschool in Des Plaines, IL at 10000 North Dee Road,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/first-steps-preschool-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/first-steps-preschool-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1534663990 (license ODbL-1.0); source data as of 2026-07-28

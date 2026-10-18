@@ -15,7 +15,7 @@ Medrina is a therapy practice in Chicago, IL at 401 North Michigan Avenue, Chica
 - Opening hours (OSM syntax): Mo - Su 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/medrina-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/medrina-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11892966042 (license ODbL-1.0); source data as of 2026-07-28

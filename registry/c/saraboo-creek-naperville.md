@@ -15,7 +15,7 @@ SaraBoo Creek is a gift shop in Naperville, IL at 107 West Jefferson Avenue, Nap
 - Opening hours (OSM syntax): Mo-Th 10:00-17:00; Fr, Sa 10:00-18:00; Su 12:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/saraboo-creek-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/saraboo-creek-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8937194108 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Baccarat is a jewelry store in Houston, TX.
+
+# Baccarat
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: Houston, TX
+- City: Houston
+- State: TX
+- ZIP: 77027
+- Coordinates: 29.742502, -95.4540465
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 12:00-18:00; PH off
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/baccarat-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/baccarat-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8172495000 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

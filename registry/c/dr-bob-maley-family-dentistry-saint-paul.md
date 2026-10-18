@@ -15,7 +15,7 @@ Dr. Bob Maley Family Dentistry is a dentist in Saint Paul, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-bob-maley-family-dentistry-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-bob-maley-family-dentistry-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/773059092 (license ODbL-1.0); source data as of 2026-07-24

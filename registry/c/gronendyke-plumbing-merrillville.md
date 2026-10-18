@@ -15,7 +15,7 @@ Gronendyke Plumbing is a plumber in Merrillville, IN at 9109 Indiana Pl, Merrill
 - Opening hours (OSM syntax): Mo-Su 08:00-22:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gronendyke-plumbing-merrillville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gronendyke-plumbing-merrillville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13696090660 (license ODbL-1.0); source data as of 2026-06-01

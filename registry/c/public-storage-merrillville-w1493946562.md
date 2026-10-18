@@ -15,7 +15,7 @@ Public Storage is a self-storage facility in Merrillville, IN at 8230 Broadway, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-merrillville-w1493946562/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-merrillville-w1493946562.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1493946562 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Daisy Nails is a nail salon in Bloomington, MN at 9637 Anderson Lakes Parkway, B
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/daisy-nails-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/daisy-nails-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1188081627 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Itasca Cleaners is a dry cleaner in Itasca, IL at 110 West Center Street, Itasca
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/itasca-cleaners-itasca/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/itasca-cleaners-itasca.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7260077749 (license ODbL-1.0); source data as of 2026-06-01

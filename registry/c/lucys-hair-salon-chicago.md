@@ -15,7 +15,7 @@ Lucy's Hair Salon is a hair salon in Chicago, IL at 2126 North Western Avenue, C
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lucys-hair-salon-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lucys-hair-salon-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12154305172 (license ODbL-1.0); source data as of 2026-06-01

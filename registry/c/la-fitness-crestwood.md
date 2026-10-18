@@ -15,7 +15,7 @@ LA Fitness is a gym in Crestwood, IL at 13343 Cicero Avenue, Crestwood, IL 60445
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-crestwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-crestwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/996989738 (license ODbL-1.0); source data as of 2026-06-01

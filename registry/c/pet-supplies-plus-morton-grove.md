@@ -15,7 +15,7 @@ Pet Supplies Plus is a pet store in Morton Grove, IL at 7204 West Dempster Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-morton-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-morton-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/729237204 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ KinderCare is a preschool in Naperville, IL at 1239 Rickert Drive, Naperville, I
 - Opening hours (OSM syntax): Mo-Fr 06:15-18:15; Sa, Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kindercare-naperville-w312152232/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kindercare-naperville-w312152232.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/312152232 (license ODbL-1.0); source data as of 2026-07-28

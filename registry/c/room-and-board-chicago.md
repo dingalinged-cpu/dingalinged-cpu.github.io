@@ -15,7 +15,7 @@ Room & Board is a furniture store in Chicago, IL at 55 East Ohio Street, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/room-and-board-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/room-and-board-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4035396991 (license ODbL-1.0); source data as of 2026-06-01

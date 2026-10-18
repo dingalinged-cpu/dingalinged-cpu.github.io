@@ -15,7 +15,7 @@ Crystal Nails is a nail salon in Wauconda, IL at 469 West Liberty Street #D, Wau
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crystal-nails-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crystal-nails-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9075019384 (license ODbL-1.0); source data as of 2026-06-01

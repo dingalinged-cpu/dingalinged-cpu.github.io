@@ -15,7 +15,7 @@ Buffalo Grove Animal Hospital is a veterinarian in Buffalo Grove, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/buffalo-grove-animal-hospital-buffalo-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/buffalo-grove-animal-hospital-buffalo-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/919604733 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Median Line Tattoo Studio is a tattoo shop in Oak Park, IL at 6906 West Roosevel
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/median-line-tattoo-studio-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/median-line-tattoo-studio-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4719484665 (license ODbL-1.0); source data as of 2026-06-01

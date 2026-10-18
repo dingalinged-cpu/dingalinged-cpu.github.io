@@ -15,7 +15,7 @@ Jet Brite Car Wash is a car wash in Chicago, IL at 6948 West Grand Avenue, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jet-brite-car-wash-chicago-w1344474581/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jet-brite-car-wash-chicago-w1344474581.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1344474581 (license ODbL-1.0); source data as of 2026-07-28

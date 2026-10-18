@@ -1,0 +1,23 @@
+Canales Furniture is a furniture store in Irving, TX at 3560 West Airport Freeway, Irving, TX 75062. Phone: +14698453038. Website: https://www.canalesfurnitureusa.com/.
+
+# Canales Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: 3560 West Airport Freeway, Irving, TX 75062
+- City: Irving
+- State: TX
+- ZIP: 75062
+- Coordinates: 32.8354135, -96.9973442
+- Phone: +14698453038
+- Website: https://www.canalesfurnitureusa.com/
+- Email: marketing@canalesfurniture.com
+- Opening hours (OSM syntax): Mo-Su 08:00-22:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/canales-furniture-irving/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/canales-furniture-irving.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9474113212 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

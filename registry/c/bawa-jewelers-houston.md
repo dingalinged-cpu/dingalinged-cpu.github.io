@@ -1,0 +1,23 @@
+Bawa Jewelers is a jewelry store in Houston, TX at 5710 Hillcroft Avenue, Houston, TX 77036. Phone: +17139525858.
+
+# Bawa Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 5710 Hillcroft Avenue, Houston, TX 77036
+- City: Houston
+- State: TX
+- ZIP: 77036
+- Coordinates: 29.720876, -95.501624
+- Phone: +17139525858
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bawa-jewelers-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bawa-jewelers-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8836347085 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

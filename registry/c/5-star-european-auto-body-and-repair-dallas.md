@@ -1,0 +1,23 @@
+5 STAR EUROPEAN AUTO BODY & REPAIR is a tire shop in Dallas, TX at 10233 North Central Expressway, Dallas, TX 75231.
+
+# 5 STAR EUROPEAN AUTO BODY & REPAIR
+
+- Category: tire shop
+- Services: tire shop
+- Address: 10233 North Central Expressway, Dallas, TX 75231
+- City: Dallas
+- State: TX
+- ZIP: 75231
+- Coordinates: 32.8863787, -96.7708846
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/5-star-european-auto-body-and-repair-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/5-star-european-auto-body-and-repair-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7933034206 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

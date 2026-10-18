@@ -15,7 +15,7 @@ Hilger Face Center is a plastic surgeon in Edina, MN. Website: https://mphysicia
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hilger-face-center-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hilger-face-center-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12139116050 (license ODbL-1.0); source data as of 2026-07-24

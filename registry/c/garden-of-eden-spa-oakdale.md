@@ -15,7 +15,7 @@ Garden of Eden Spa is a massage studio in Oakdale, MN at 5695 Geneva Avenue Nort
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/garden-of-eden-spa-oakdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/garden-of-eden-spa-oakdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6636466366 (license ODbL-1.0); source data as of 2026-06-01

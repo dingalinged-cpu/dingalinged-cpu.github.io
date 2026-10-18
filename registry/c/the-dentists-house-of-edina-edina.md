@@ -15,7 +15,7 @@ The Dentist's House of Edina is a dentist in Edina, MN at 3930 Sunnyside Road, E
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-dentists-house-of-edina-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-dentists-house-of-edina-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/390529015 (license ODbL-1.0); source data as of 2026-07-24

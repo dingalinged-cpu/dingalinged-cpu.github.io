@@ -15,7 +15,7 @@ Après Pastry & Bakery is a bakery in Lake Zurich, IL at 17 South Old Rand Road,
 - Opening hours (OSM syntax): We-Sa 07:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/apr-s-pastry-and-bakery-lake-zurich/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/apr-s-pastry-and-bakery-lake-zurich.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1467124526 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ iStorage is a self-storage facility in Minneapolis, MN at 4311 Hiawatha Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/istorage-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/istorage-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/35412661 (license ODbL-1.0); source data as of 2026-06-01

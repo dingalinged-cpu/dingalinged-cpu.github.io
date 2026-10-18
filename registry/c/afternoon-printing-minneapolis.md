@@ -15,7 +15,7 @@ Afternoon Printing is a printing service in Minneapolis, MN at 733 East 48th Str
 - Opening hours (OSM syntax): Mo-Th 10:00-17:00; Fr 12:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/afternoon-printing-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/afternoon-printing-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13628244092 (license ODbL-1.0); source data as of 2026-06-01

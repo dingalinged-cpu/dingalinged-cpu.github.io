@@ -15,7 +15,7 @@ Royals Wine & Spirit is a liquor store in Summit, IL at 6000 South Harlem Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/royals-wine-and-spirit-summit/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/royals-wine-and-spirit-summit.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1217139308 (license ODbL-1.0); source data as of 2026-06-01

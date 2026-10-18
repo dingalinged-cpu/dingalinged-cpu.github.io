@@ -15,7 +15,7 @@ Sport Clips is a hair salon in Darien, IL at 2445 75th Street, Darien, IL 60561.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sport-clips-darien/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-darien.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9455440624 (license ODbL-1.0); source data as of 2026-06-01

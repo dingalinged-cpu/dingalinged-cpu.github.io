@@ -15,7 +15,7 @@ The Loft at Eight Corners is a therapy practice in Brookfield, IL at 9049 Monroe
 - Opening hours (OSM syntax): Mo-Su 13:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-loft-at-eight-corners-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-loft-at-eight-corners-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9793717665 (license ODbL-1.0); source data as of 2026-07-28

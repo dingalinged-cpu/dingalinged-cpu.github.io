@@ -15,7 +15,7 @@ Charles Schwab is a financial advisor in South Barrington, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/charles-schwab-south-barrington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-south-barrington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11403480460 (license ODbL-1.0); source data as of 2026-07-28

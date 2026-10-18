@@ -1,0 +1,58 @@
+Keyword market for Arlington, TX: 70 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+
+# Top keywords in Arlington, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage arlington tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/massage-arlington-tx/
+2. car wash arlington tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/car-wash-arlington-tx/
+3. dentist arlington tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 17 | https://dingalinged-cpu.github.io/registry/k/dentist-arlington-tx/
+4. gym arlington tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 11 | https://dingalinged-cpu.github.io/registry/k/gym-arlington-tx/
+5. oil change arlington tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-arlington-tx/
+6. hair salon arlington tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 19 | https://dingalinged-cpu.github.io/registry/k/hair-salon-arlington-tx/
+7. nail salon arlington tx | searches/mo 25,000 (est) | CPC $0.61 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/nail-salon-arlington-tx/
+8. mechanic arlington tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 21 | https://dingalinged-cpu.github.io/registry/k/mechanic-arlington-tx/
+9. tire shop arlington tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/tire-shop-arlington-tx/
+10. vet arlington tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/vet-arlington-tx/
+11. dog groomer arlington tx | searches/mo 11,000 (est) | CPC $4.06 | value $45,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-arlington-tx/
+12. haircut arlington tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 19 | https://dingalinged-cpu.github.io/registry/k/haircut-arlington-tx/
+13. auto repair arlington tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 21 | https://dingalinged-cpu.github.io/registry/k/auto-repair-arlington-tx/
+14. movers arlington tx | searches/mo 7,500 (est) | CPC $8.23 | value $62,000 | Google Ads equiv $3,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-arlington-tx/
+15. chiropractor arlington tx | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/chiropractor-arlington-tx/
+
+## By CPC
+1. hvac repair arlington tx | searches/mo 1,800 (est) | CPC $17.76 | value $32,000 | Google Ads equiv $2,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-arlington-tx/
+2. moving company arlington tx | searches/mo 5,000 (est) | CPC $12.41 | value $62,000 | Google Ads equiv $4,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/moving-company-arlington-tx/
+3. roofing contractor arlington tx | searches/mo 3,300 (est) | CPC $11.79 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-arlington-tx/
+4. roofer arlington tx | searches/mo 1,200 (est) | CPC $10.70 | value $13,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofer-arlington-tx/
+5. attorney arlington tx | searches/mo 1,800 (est) | CPC $9.87 | value $18,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/attorney-arlington-tx/
+6. lawyer arlington tx | searches/mo 1,200 (est) | CPC $9.87 | value $12,000 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/lawyer-arlington-tx/
+7. exterminator arlington tx | searches/mo 3,300 (est) | CPC $8.33 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/exterminator-arlington-tx/
+8. flooring companies arlington tx | searches/mo 450 (est) | CPC $8.33 | value $3,700 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-arlington-tx/
+9. heating and air arlington tx | searches/mo 89.00 (est) | CPC $8.33 | value $740 | Google Ads equiv $47.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/heating-and-air-arlington-tx/
+10. locksmith arlington tx | searches/mo 6,100 (est) | CPC $8.33 | value $51,000 | Google Ads equiv $3,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-arlington-tx/
+11. pest control arlington tx | searches/mo 4,100 (est) | CPC $8.33 | value $34,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pest-control-arlington-tx/
+12. storage units arlington tx | searches/mo 5,500 (est) | CPC $8.33 | value $46,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/storage-units-arlington-tx/
+13. movers arlington tx | searches/mo 7,500 (est) | CPC $8.23 | value $62,000 | Google Ads equiv $3,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-arlington-tx/
+14. orthodontist arlington tx | searches/mo 4,000 (est) | CPC $8.00 | value $32,000 | Google Ads equiv $1,700/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/orthodontist-arlington-tx/
+15. bakery arlington tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/bakery-arlington-tx/
+
+## By value (searches x CPC)
+1. massage arlington tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/massage-arlington-tx/
+2. dentist arlington tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 17 | https://dingalinged-cpu.github.io/registry/k/dentist-arlington-tx/
+3. car wash arlington tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/car-wash-arlington-tx/
+4. oil change arlington tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-arlington-tx/
+5. gym arlington tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 11 | https://dingalinged-cpu.github.io/registry/k/gym-arlington-tx/
+6. mechanic arlington tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 21 | https://dingalinged-cpu.github.io/registry/k/mechanic-arlington-tx/
+7. movers arlington tx | searches/mo 7,500 (est) | CPC $8.23 | value $62,000 | Google Ads equiv $3,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-arlington-tx/
+8. moving company arlington tx | searches/mo 5,000 (est) | CPC $12.41 | value $62,000 | Google Ads equiv $4,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/moving-company-arlington-tx/
+9. tire shop arlington tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/tire-shop-arlington-tx/
+10. vet arlington tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/vet-arlington-tx/
+11. locksmith arlington tx | searches/mo 6,100 (est) | CPC $8.33 | value $51,000 | Google Ads equiv $3,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-arlington-tx/
+12. dog groomer arlington tx | searches/mo 11,000 (est) | CPC $4.06 | value $45,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-arlington-tx/
+13. haircut arlington tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 19 | https://dingalinged-cpu.github.io/registry/k/haircut-arlington-tx/
+14. roofing contractor arlington tx | searches/mo 3,300 (est) | CPC $11.79 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-arlington-tx/
+15. pest control arlington tx | searches/mo 4,100 (est) | CPC $8.33 | value $34,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pest-control-arlington-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

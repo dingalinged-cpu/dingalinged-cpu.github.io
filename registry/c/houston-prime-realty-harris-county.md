@@ -1,0 +1,23 @@
+Houston Prime Realty is a real estate agency in Harris County, TX.
+
+# Houston Prime Realty
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: Harris County, TX
+- City: Harris County
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.8809326, -95.6495171
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/houston-prime-realty-harris-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/houston-prime-realty-harris-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5124194679 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

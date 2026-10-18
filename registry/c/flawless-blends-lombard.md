@@ -15,7 +15,7 @@ Flawless Blends is a hair salon in Lombard, IL at 123 Yorktown Shopping Center R
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00; Sa, Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/flawless-blends-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/flawless-blends-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1121098234 (license ODbL-1.0); source data as of 2026-06-01

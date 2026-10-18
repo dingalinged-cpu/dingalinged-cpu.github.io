@@ -15,7 +15,7 @@ Royalty West Banquets is an event venue in Willow Springs, IL at 8679 Archer Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/royalty-west-banquets-willow-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/royalty-west-banquets-willow-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1058687190 (license ODbL-1.0); source data as of 2026-07-28

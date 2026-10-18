@@ -15,7 +15,7 @@ Signature Barbershop is a hair salon in Orland Park, IL at 7844 West 159th Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/signature-barbershop-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/signature-barbershop-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11147691189 (license ODbL-1.0); source data as of 2026-06-01

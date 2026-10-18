@@ -15,7 +15,7 @@ RH Outlet is a furniture store in Roseville, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rh-outlet-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rh-outlet-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2402011461 (license ODbL-1.0); source data as of 2026-06-01

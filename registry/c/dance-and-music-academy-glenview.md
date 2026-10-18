@@ -15,7 +15,7 @@ Dance and Music Academy is a dance studio in Glenview, IL at Dearlove Road, Glen
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dance-and-music-academy-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dance-and-music-academy-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7937424782 (license ODbL-1.0); source data as of 2026-06-01

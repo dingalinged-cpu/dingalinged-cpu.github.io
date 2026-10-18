@@ -15,7 +15,7 @@ EarthWise Pet is a pet store in Naperville, IL at 790 Royal Saint George Drive #
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/earthwise-pet-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/earthwise-pet-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8515825912 (license ODbL-1.0); source data as of 2026-06-01

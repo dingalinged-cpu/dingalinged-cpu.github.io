@@ -15,7 +15,7 @@ Public Storage is a self-storage facility in Lombard, IL at 2399 South Finley Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-lombard-w199387443/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-lombard-w199387443.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/199387443 (license ODbL-1.0); source data as of 2026-06-01

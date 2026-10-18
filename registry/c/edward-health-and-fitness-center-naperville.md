@@ -15,7 +15,7 @@ Edward Health & Fitness Center is a gym in Naperville, IL at 775 Brom Court, Nap
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-health-and-fitness-center-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-health-and-fitness-center-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/61699385 (license ODbL-1.0); source data as of 2026-06-01

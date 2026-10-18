@@ -15,7 +15,7 @@ Insurance Navy Brokers is an insurance agent in Joliet, IL at 18 South Larkin Av
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-joliet/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-joliet.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8595409547 (license ODbL-1.0); source data as of 2026-07-28

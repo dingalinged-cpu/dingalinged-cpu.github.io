@@ -15,7 +15,7 @@ New Life Resale is a thrift store in Wauconda, IL at 616 West Liberty Street #B,
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-life-resale-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-life-resale-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8987269955 (license ODbL-1.0); source data as of 2026-06-01

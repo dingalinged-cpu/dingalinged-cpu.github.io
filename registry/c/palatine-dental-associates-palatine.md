@@ -15,7 +15,7 @@ Palatine Dental Associates is a dentist in Palatine, IL at 4 East Northwest High
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/palatine-dental-associates-palatine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/palatine-dental-associates-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1307866273 (license ODbL-1.0); source data as of 2026-07-28

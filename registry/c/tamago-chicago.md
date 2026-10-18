@@ -15,7 +15,7 @@ Tamago is a bike shop in Chicago, IL at 1451 East 57th Street, Chicago, IL 60637
 - Opening hours (OSM syntax): "By Appointment Only"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tamago-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tamago-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5809229703 (license ODbL-1.0); source data as of 2026-06-01

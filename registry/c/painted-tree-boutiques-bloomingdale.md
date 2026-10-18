@@ -15,7 +15,7 @@ Painted Tree Boutiques is a gift shop in Bloomingdale, IL at 368 West Army Trail
 - Opening hours (OSM syntax): 10:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/painted-tree-boutiques-bloomingdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/painted-tree-boutiques-bloomingdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/850669912 (license ODbL-1.0); source data as of 2026-06-01

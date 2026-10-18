@@ -1,0 +1,23 @@
+Best Kids Care Pediatrics is a pediatrician in McKinney, TX at 4200 South Lake Forest Drive, McKinney, TX.
+
+# Best Kids Care Pediatrics
+
+- Category: pediatrician
+- Services: pediatrician
+- Address: 4200 South Lake Forest Drive, McKinney, TX
+- City: McKinney
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.157365, -96.6809813
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/best-kids-care-pediatrics-mckinney/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/best-kids-care-pediatrics-mckinney.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13706491786 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

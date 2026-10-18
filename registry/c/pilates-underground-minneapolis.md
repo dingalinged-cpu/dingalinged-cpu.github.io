@@ -15,7 +15,7 @@ Pilates Underground is a pilates studio in Minneapolis, MN at 3153 Hennepin Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pilates-underground-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pilates-underground-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8804218238 (license ODbL-1.0); source data as of 2026-07-15

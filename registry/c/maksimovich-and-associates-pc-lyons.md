@@ -15,7 +15,7 @@ Maksimovich & Associates PC is a lawyer in Lyons, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/maksimovich-and-associates-pc-lyons/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/maksimovich-and-associates-pc-lyons.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9511123772 (license ODbL-1.0); source data as of 2026-07-28

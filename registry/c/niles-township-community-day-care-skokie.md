@@ -15,7 +15,7 @@ Niles Township Community Day Care is a preschool in Skokie, IL at 8341 Lockwood 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/niles-township-community-day-care-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/niles-township-community-day-care-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/368066810 (license ODbL-1.0); source data as of 2026-07-28

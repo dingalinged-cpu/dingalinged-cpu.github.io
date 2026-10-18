@@ -15,7 +15,7 @@ Equinox is a gym in Chicago, IL at 201 North Sangamon Street, Chicago, IL. Phone
 - Opening hours (OSM syntax): Mo-Th 05:00-22:00; Fr 05:00-21:00; Sa-Su 07:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/equinox-chicago-n13697293713/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/equinox-chicago-n13697293713.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13697293713 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ A-Delta Driving School is a driving school in Cicero, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/a-delta-driving-school-cicero/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-delta-driving-school-cicero.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/354232985 (license ODbL-1.0); source data as of 2026-07-28

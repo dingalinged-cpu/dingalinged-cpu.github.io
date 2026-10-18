@@ -15,7 +15,7 @@ Crew Carwash is a car wash in Eden Prairie, MN at 16345 Terrey Pine Drive, Eden 
 - Opening hours (OSM syntax): 07:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crew-carwash-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crew-carwash-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1468611498 (license ODbL-1.0); source data as of 2026-07-24

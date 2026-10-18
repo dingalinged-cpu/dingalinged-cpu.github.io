@@ -15,7 +15,7 @@ Great Clips is a hair salon in Buffalo Grove, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-buffalo-grove-w674297054/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-buffalo-grove-w674297054.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/674297054 (license ODbL-1.0); source data as of 2026-06-01

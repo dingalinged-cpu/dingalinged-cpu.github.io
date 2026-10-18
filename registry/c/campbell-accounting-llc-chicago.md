@@ -15,7 +15,7 @@ Campbell Accounting, LLC is an accountant in Chicago, IL at 5481 North Milwaukee
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/campbell-accounting-llc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/campbell-accounting-llc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163222027 (license ODbL-1.0); source data as of 2026-07-28

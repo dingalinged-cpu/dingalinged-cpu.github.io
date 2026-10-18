@@ -15,7 +15,7 @@ Dr. John Loos, DDS is a dentist in Chicago, IL at 5842 West Higgins Avenue, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-john-loos-dds-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-john-loos-dds-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163179907 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Fitness Center is a gym in Minneapolis, MN at 777, Minneapolis, MN. Website: htt
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fitness-center-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fitness-center-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/201785539 (license ODbL-1.0); source data as of 2026-07-15

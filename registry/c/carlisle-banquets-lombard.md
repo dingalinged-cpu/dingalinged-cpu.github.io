@@ -15,7 +15,7 @@ Carlisle Banquets is an event venue in Lombard, IL at 435 East Butterfield Road,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/carlisle-banquets-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/carlisle-banquets-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/770782456 (license ODbL-1.0); source data as of 2026-07-28

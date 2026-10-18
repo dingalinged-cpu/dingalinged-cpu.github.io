@@ -15,7 +15,7 @@ Big Splash Car Wash is a car wash in West Saint Paul, MN at 1407 Robert Street S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/big-splash-car-wash-west-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/big-splash-car-wash-west-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/527080180 (license ODbL-1.0); source data as of 2026-07-24

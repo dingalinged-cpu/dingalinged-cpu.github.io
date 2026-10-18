@@ -2,7 +2,7 @@ Keyword market for Tonka Bay, MN: 3 service keywords with search volume, CPC and
 
 # Top keywords in Tonka Bay, MN
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
 
 ## By monthly searches
 1. hair salon tonka bay mn | searches/mo 17,000 (est) | CPC $0.55 | value $9,400 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hair-salon-tonka-bay-mn/

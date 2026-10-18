@@ -15,7 +15,7 @@ Snap Fitness is a gym in Edina, MN at 4402 France Avenue South, Edina, MN 55410.
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/snap-fitness-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/390529007 (license ODbL-1.0); source data as of 2026-07-15

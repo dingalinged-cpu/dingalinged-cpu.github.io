@@ -15,7 +15,7 @@ Bright Horizons is a preschool in Schaumburg, IL at 1410 North Roosevelt Bouleva
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bright-horizons-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bright-horizons-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3528541436 (license ODbL-1.0); source data as of 2026-07-28

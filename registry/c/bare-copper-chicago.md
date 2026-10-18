@@ -15,7 +15,7 @@ Bare Copper is an event venue in Chicago, IL at 4316 West Madison Street, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bare-copper-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bare-copper-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11330234821 (license ODbL-1.0); source data as of 2026-07-28

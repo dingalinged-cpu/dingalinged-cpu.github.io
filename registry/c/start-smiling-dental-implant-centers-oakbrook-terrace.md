@@ -15,7 +15,7 @@ Start Smiling Dental Implant Centers is a dentist in Oakbrook Terrace, IL at 1S6
 - Opening hours (OSM syntax): Mo-Th 07:30-16:30; Fr 07:30-14:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/start-smiling-dental-implant-centers-oakbrook-terrace/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/start-smiling-dental-implant-centers-oakbrook-terrace.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9352560216 (license ODbL-1.0); source data as of 2026-07-28

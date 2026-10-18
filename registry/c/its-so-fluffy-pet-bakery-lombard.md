@@ -15,7 +15,7 @@ It's So Fluffy Pet Bakery is a pet store in Lombard, IL at 203 Yorktown Shopping
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/its-so-fluffy-pet-bakery-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/its-so-fluffy-pet-bakery-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9776084530 (license ODbL-1.0); source data as of 2026-06-01

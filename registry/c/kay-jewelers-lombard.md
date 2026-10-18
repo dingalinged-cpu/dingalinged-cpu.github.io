@@ -15,7 +15,7 @@ Kay Jewelers is a jewelry store in Lombard, IL at 152 Yorktown Shopping Center R
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kay-jewelers-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1121097740 (license ODbL-1.0); source data as of 2026-06-01

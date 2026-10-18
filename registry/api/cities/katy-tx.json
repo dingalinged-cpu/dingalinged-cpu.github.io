@@ -1,0 +1,4858 @@
+{
+ "place": "Katy, TX",
+ "slug": "katy-tx",
+ "count": 151,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-katy-tx.json"
+  },
+  {
+   "keyword": "accounting services katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-katy-tx.json"
+  },
+  {
+   "keyword": "assisted living katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-katy-tx.json"
+  },
+  {
+   "keyword": "attorney katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-katy-tx.json"
+  },
+  {
+   "keyword": "auto repair katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-katy-tx.json"
+  },
+  {
+   "keyword": "bakery katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-katy-tx.json"
+  },
+  {
+   "keyword": "barber shop katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-katy-tx.json"
+  },
+  {
+   "keyword": "bike shop katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-katy-tx.json"
+  },
+  {
+   "keyword": "brake repair katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/brake-repair-katy-tx.json"
+  },
+  {
+   "keyword": "business consultant katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/business-consultant-katy-tx.json"
+  },
+  {
+   "keyword": "car wash katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-katy-tx.json"
+  },
+  {
+   "keyword": "chiropractor katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-katy-tx.json"
+  },
+  {
+   "keyword": "dance studio katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-katy-tx.json"
+  },
+  {
+   "keyword": "daycare katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-katy-tx.json"
+  },
+  {
+   "keyword": "dentist katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-katy-tx.json"
+  },
+  {
+   "keyword": "dermatologist katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dermatologist-katy-tx.json"
+  },
+  {
+   "keyword": "dog boarding katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-boarding-katy-tx.json"
+  },
+  {
+   "keyword": "dog groomer katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-katy-tx.json"
+  },
+  {
+   "keyword": "dry cleaners katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-katy-tx.json"
+  },
+  {
+   "keyword": "event venues katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-katy-tx.json"
+  },
+  {
+   "keyword": "eye doctor katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-katy-tx.json"
+  },
+  {
+   "keyword": "facial katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-katy-tx.json"
+  },
+  {
+   "keyword": "flooring companies katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-katy-tx.json"
+  },
+  {
+   "keyword": "florist katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-katy-tx.json"
+  },
+  {
+   "keyword": "furniture store katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-katy-tx.json"
+  },
+  {
+   "keyword": "gift shop katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-katy-tx.json"
+  },
+  {
+   "keyword": "gym katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-katy-tx.json"
+  },
+  {
+   "keyword": "hair salon katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-katy-tx.json"
+  },
+  {
+   "keyword": "haircut katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-katy-tx.json"
+  },
+  {
+   "keyword": "insurance agency katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-katy-tx.json"
+  },
+  {
+   "keyword": "insurance agent katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-katy-tx.json"
+  },
+  {
+   "keyword": "insurance agents katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-katy-tx.json"
+  },
+  {
+   "keyword": "jewelry store katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-katy-tx.json"
+  },
+  {
+   "keyword": "lawyer katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-katy-tx.json"
+  },
+  {
+   "keyword": "liquor store katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-katy-tx.json"
+  },
+  {
+   "keyword": "marketing agency katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/marketing-agency-katy-tx.json"
+  },
+  {
+   "keyword": "massage katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-katy-tx.json"
+  },
+  {
+   "keyword": "mattress store katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-katy-tx.json"
+  },
+  {
+   "keyword": "mechanic katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-katy-tx.json"
+  },
+  {
+   "keyword": "motorcycle repair katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/motorcycle-repair-katy-tx.json"
+  },
+  {
+   "keyword": "nail salon katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-katy-tx.json"
+  },
+  {
+   "keyword": "oil change katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-katy-tx.json"
+  },
+  {
+   "keyword": "pediatrician katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pediatrician-katy-tx.json"
+  },
+  {
+   "keyword": "pet store katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-katy-tx.json"
+  },
+  {
+   "keyword": "physical therapy katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-katy-tx.json"
+  },
+  {
+   "keyword": "podiatrist katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/podiatrist-katy-tx.json"
+  },
+  {
+   "keyword": "preschool katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-katy-tx.json"
+  },
+  {
+   "keyword": "printing services katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-katy-tx.json"
+  },
+  {
+   "keyword": "real estate agent katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-katy-tx.json"
+  },
+  {
+   "keyword": "realtor katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-katy-tx.json"
+  },
+  {
+   "keyword": "roofer katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-katy-tx.json"
+  },
+  {
+   "keyword": "roofing contractor katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-katy-tx.json"
+  },
+  {
+   "keyword": "storage units katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-katy-tx.json"
+  },
+  {
+   "keyword": "tire shop katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-katy-tx.json"
+  },
+  {
+   "keyword": "transmission repair katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/transmission-repair-katy-tx.json"
+  },
+  {
+   "keyword": "urgent care katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/urgent-care-katy-tx.json"
+  },
+  {
+   "keyword": "used cars for sale katy tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-katy-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "airrosti-katy",
+   "name": "Airrosti",
+   "summary": "Airrosti is a physical therapy clinic in Katy, TX at 24022 Cinco Village Center Boulevard #110, Katy, TX 77494. Phone: +18004046050. Website: https://www.airrosti.com/location/Texas/CINCO/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/airrosti-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/airrosti-katy.json",
+   "address": {
+    "streetAddress": "24022 Cinco Village Center Boulevard #110",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.740322,
+    "lon": -95.7775228
+   },
+   "phone": "+18004046050",
+   "website": "https://www.airrosti.com/location/Texas/CINCO/",
+   "opening_hours": "\"by appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7700091698",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "arnaud-m-de-buyl-dds-katy",
+   "name": "Arnaud M. De Buyl, DDS",
+   "summary": "Arnaud M. De Buyl, DDS is a dentist in Katy, TX at 24022 Cinco Village Center Boulevard #200, Katy, TX 77494. Phone: +12813929251. Website: https://www.cincoranchdentist.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arnaud-m-de-buyl-dds-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arnaud-m-de-buyl-dds-katy.json",
+   "address": {
+    "streetAddress": "24022 Cinco Village Center Boulevard #200",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7406,
+    "lon": -95.7772
+   },
+   "phone": "+12813929251",
+   "website": "https://www.cincoranchdentist.com/",
+   "opening_hours": "Mo 12:00-20:00; Tu-We 08:00-17:30; Th 07:00-17:00; Fr 07:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7700084089",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "artistic-teethcrafters-dental-lab-katy",
+   "name": "Artistic Teethcrafters Dental Lab",
+   "summary": "Artistic Teethcrafters Dental Lab is a dentist in Katy, TX at 20615 Naples Terrace Lane, Katy, TX 77449. Phone: +17137721007. Website: https://www.artisticteethcraftersdentallab.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/artistic-teethcrafters-dental-lab-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/artistic-teethcrafters-dental-lab-katy.json",
+   "address": {
+    "streetAddress": "20615 Naples Terrace Lane",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.7944204,
+    "lon": -95.7375289
+   },
+   "phone": "+17137721007",
+   "website": "https://www.artisticteethcraftersdentallab.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6602223611",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bright-orthodontics-katy-katy",
+   "name": "Bright Orthodontics Katy",
+   "summary": "Bright Orthodontics Katy is a dentist in Katy, TX at 810 South Mason Road #290, Katy, TX 77450. Phone: +12815991155. Website: https://www.brightbraces.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bright-orthodontics-katy-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bright-orthodontics-katy-katy.json",
+   "address": {
+    "streetAddress": "810 South Mason Road #290",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7718953,
+    "lon": -95.7526949
+   },
+   "phone": "+12815991155",
+   "website": "https://www.brightbraces.com/",
+   "opening_hours": "Mo,Tu,Th 08:30-17:00; We 08:30-12:30; Fr 07:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4492655617",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cane-island-storage-katy",
+   "name": "Cane Island Storage",
+   "summary": "Cane Island Storage is a self-storage facility in Katy, TX at 27748 US-90, Katy, TX 77494. Phone: +12815744777. Website: https://www.caneislandstorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cane-island-storage-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cane-island-storage-katy.json",
+   "address": {
+    "streetAddress": "27748 US-90",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.78673,
+    "lon": -95.8556838
+   },
+   "phone": "+12815744777",
+   "website": "https://www.caneislandstorage.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5814714233",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cinco-ranch-dermatology-katy",
+   "name": "Cinco Ranch Dermatology",
+   "summary": "Cinco Ranch Dermatology is a dermatologist in Katy, TX at 2643 Commercial Center Boulevard #B360, Katy, TX 77494. Phone: +12813949500. Website: https://www.cincoderm.com/.",
+   "categories": [
+    "dermatologist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cinco-ranch-dermatology-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cinco-ranch-dermatology-katy.json",
+   "address": {
+    "streetAddress": "2643 Commercial Center Boulevard #B360",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7411013,
+    "lon": -95.7746153
+   },
+   "phone": "+12813949500",
+   "website": "https://www.cincoderm.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5333400159",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cycle-gear-katy",
+   "name": "Cycle Gear",
+   "summary": "Cycle Gear is a motorcycle repair shop in Katy, TX at 24727 Katy Freeway, Katy, TX 77494. Phone: +12817697055. Website: https://cyclegear.com/.",
+   "categories": [
+    "motorcycle repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cycle-gear-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cycle-gear-katy.json",
+   "address": {
+    "streetAddress": "24727 Katy Freeway",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7833959,
+    "lon": -95.7992221
+   },
+   "phone": "+12817697055",
+   "website": "https://cyclegear.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11919713638",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-katy-w667219555",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Katy, TX at 24202 Cinco Ranch Boulevard, Katy, TX 77494. Phone: +12813925444. Website: https://www.discounttire.com/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-katy-w667219555/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-katy-w667219555.json",
+   "address": {
+    "streetAddress": "24202 Cinco Ranch Boulevard",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7395209,
+    "lon": -95.7818286
+   },
+   "phone": "+12813925444",
+   "website": "https://www.discounttire.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/667219555",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "enchanted-escape-nail-spa-katy",
+   "name": "Enchanted Escape Nail Spa",
+   "summary": "Enchanted Escape Nail Spa is a nail salon in Katy, TX at 9615 Spring Green Blvd #400, Katy, TX 77494. Phone: +12816653389. Website: https://enchantedescapenailspa.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/enchanted-escape-nail-spa-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/enchanted-escape-nail-spa-katy.json",
+   "address": {
+    "streetAddress": "9615 Spring Green Blvd #400",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7016169,
+    "lon": -95.8151784
+   },
+   "phone": "+12816653389",
+   "website": "https://enchantedescapenailspa.com/",
+   "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11338111088",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-oil-change-and-tire-engineers-katy",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Katy, TX at 1803 South Mason Road, Katy, TX 77450. Phone: +12815780011. Website: https://www.expressoil.com/stores/katy/tx/0083/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-katy.json",
+   "address": {
+    "streetAddress": "1803 South Mason Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.755584,
+    "lon": -95.75097
+   },
+   "phone": "+12815780011",
+   "website": "https://www.expressoil.com/stores/katy/tx/0083/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5649897851",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-oil-change-and-tire-engineers-katy-w748668384",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Katy, TX at 22723 Morton Ranch Road, Katy, TX 77449. Phone: +13463015899. Website: https://www.expressoil.com/stores/katy/tx/1024/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-katy-w748668384/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-katy-w748668384.json",
+   "address": {
+    "streetAddress": "22723 Morton Ranch Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.8166325,
+    "lon": -95.7663094
+   },
+   "phone": "+13463015899",
+   "website": "https://www.expressoil.com/stores/katy/tx/1024/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/748668384",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fred-astaire-dance-studios-katy",
+   "name": "Fred Astaire Dance Studios",
+   "summary": "Fred Astaire Dance Studios is a dance studio in Katy, TX at 402 West Grand Parkway South #101, Katy, TX 77494. Phone: +12813920068. Website: https://fredastaire.com/houston-katy.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fred-astaire-dance-studios-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fred-astaire-dance-studios-katy.json",
+   "address": {
+    "streetAddress": "402 West Grand Parkway South #101",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7768009,
+    "lon": -95.7784083
+   },
+   "phone": "+12813920068",
+   "website": "https://fredastaire.com/houston-katy",
+   "opening_hours": "Tu-Fr 12:30-22:00; Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10294395387",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "garage-force-of-katy-katy",
+   "name": "Garage Force of Katy",
+   "summary": "Garage Force of Katy is a flooring company in Katy, TX at 1260 FM 1463 #500, Katy, TX 77494. Phone: +18324375211. Website: https://katy.garageforce.com/.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/garage-force-of-katy-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/garage-force-of-katy-katy.json",
+   "address": {
+    "streetAddress": "1260 FM 1463 #500",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7698874,
+    "lon": -95.8407677
+   },
+   "phone": "+18324375211",
+   "website": "https://katy.garageforce.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9562014586",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grayscale-barbershop-katy",
+   "name": "Grayscale Barbershop",
+   "summary": "Grayscale Barbershop is a barber shop in Katy, TX at 19909 Morton Road #800, Katy, TX 77449. Phone: +18329744986. Website: https://grayscalebarbershop.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grayscale-barbershop-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grayscale-barbershop-katy.json",
+   "address": {
+    "streetAddress": "19909 Morton Road #800",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.8144399,
+    "lon": -95.7175894
+   },
+   "phone": "+18329744986",
+   "website": "https://grayscalebarbershop.com/",
+   "opening_hours": "Tu-Fr 10:00-19:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13904414968",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hair-by-grace-katy",
+   "name": "Hair by Grace",
+   "summary": "Hair by Grace is a hair salon in Katy, TX at 5142 East Fifth Street, Katy, TX 77493. Phone: +18337373790. Website: https://hair-by-grace-108802.square.site/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-by-grace-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-by-grace-katy.json",
+   "address": {
+    "streetAddress": "5142 East Fifth Street",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77493",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77493",
+   "geo": {
+    "lat": 29.7903129,
+    "lon": -95.8078006
+   },
+   "phone": "+18337373790",
+   "website": "https://hair-by-grace-108802.square.site/",
+   "opening_hours": "Mo 10:00-19:00; Tu 09:30-19:00; We-Th 09:30-16:00; Fr 09:30-20:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13830625334",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hendricks-kennels-katy",
+   "name": "Hendricks Kennels",
+   "summary": "Hendricks Kennels is a dog boarding facility in Katy, TX at 27008 Sharp Road, Katy, TX 77493. Phone: +12813712344. Website: https://hendrickskennels.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hendricks-kennels-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hendricks-kennels-katy.json",
+   "address": {
+    "streetAddress": "27008 Sharp Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77493",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77493",
+   "geo": {
+    "lat": 29.9220687,
+    "lon": -95.8340089
+   },
+   "phone": "+12813712344",
+   "website": "https://hendrickskennels.com/",
+   "opening_hours": "Mo,Tu,Th,Fr 09:00-18:00, We,Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9691923412",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "irontribe-katy",
+   "name": "Irontribe",
+   "summary": "Irontribe is a gym in Katy, TX at 95555 Spring Green Boulevard, Katy, TX 77494. Phone: +12813035671. Website: https://www.irontribegymcincoranchtx.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/irontribe-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/irontribe-katy.json",
+   "address": {
+    "streetAddress": "95555 Spring Green Boulevard",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7005859,
+    "lon": -95.8146233
+   },
+   "phone": "+12813035671",
+   "website": "https://www.irontribegymcincoranchtx.com/",
+   "opening_hours": "Mo-Fr 05:00-20:00, Sa 07:30-11:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6452664133",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "james-avery-jewelry-katy",
+   "name": "James Avery Jewelry",
+   "summary": "James Avery Jewelry is a jewelry store in Katy, TX at 20260d Katy Fwy, Katy, TX 77449. Phone: +12815786118. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=690.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-avery-jewelry-katy.json",
+   "address": {
+    "streetAddress": "20260d Katy Fwy",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.7872782,
+    "lon": -95.7229273
+   },
+   "phone": "+12815786118",
+   "website": "https://www.jamesavery.com/custserv/store_details.jsp?storeId=690",
+   "opening_hours": "Mo-Sa 10:00-20:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3903866787",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "katy-periodontics-and-dental-implants-katy",
+   "name": "Katy Periodontics & Dental Implants",
+   "summary": "Katy Periodontics & Dental Implants is a dentist in Katy, TX at 810 South Mason Road #325, Katy, TX 77450. Phone: +12813926000. Website: https://www.katyperio.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/katy-periodontics-and-dental-implants-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/katy-periodontics-and-dental-implants-katy.json",
+   "address": {
+    "streetAddress": "810 South Mason Road #325",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7718232,
+    "lon": -95.7524881
+   },
+   "phone": "+12813926000",
+   "website": "https://www.katyperio.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7980284973",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kay-tee-florist-on-mason-road-katy",
+   "name": "Kay-Tee Florist on Mason Road",
+   "summary": "Kay-Tee Florist on Mason Road is a florist in Katy, TX at 870 South Mason Road #110, Katy, TX 77450. Phone: +12813922101. Website: https://kayteeflorist.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-tee-florist-on-mason-road-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-tee-florist-on-mason-road-katy.json",
+   "address": {
+    "streetAddress": "870 South Mason Road #110",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7708146,
+    "lon": -95.7528302
+   },
+   "phone": "+12813922101",
+   "website": "https://kayteeflorist.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9677223547",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "law-office-of-shane-mcclelland-katy",
+   "name": "Law Office of Shane McClelland",
+   "summary": "Law Office of Shane McClelland is a lawyer in Katy, TX at 21733 Provincial Boulevard #910, Katy, TX 77450. Phone: +17139877107. Website: https://www.hmtrial.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/law-office-of-shane-mcclelland-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/law-office-of-shane-mcclelland-katy.json",
+   "address": {
+    "streetAddress": "21733 Provincial Boulevard #910",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7787579,
+    "lon": -95.7481308
+   },
+   "phone": "+17139877107",
+   "website": "https://www.hmtrial.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11381294125",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "life-time-katy",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Katy, TX at 23211 Cinco Ranch Boulevard, Katy, TX 77494. Phone: +12816933434. Website: https://www.lifetime.life/life-time-locations/tx-katy-cinco-ranch.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-katy.json",
+   "address": {
+    "streetAddress": "23211 Cinco Ranch Boulevard",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7422427,
+    "lon": -95.77051
+   },
+   "phone": "+12816933434",
+   "website": "https://www.lifetime.life/life-time-locations/tx-katy-cinco-ranch.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/317412377",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mend-roofing-katy",
+   "name": "Mend Roofing",
+   "summary": "Mend Roofing is a roofer in Katy, TX at 24285 Katy Freeway #300-18, Katy, TX 77494. Phone: +13462363652. Website: https://mendroofing.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mend-roofing-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mend-roofing-katy.json",
+   "address": {
+    "streetAddress": "24285 Katy Freeway #300-18",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7846532,
+    "lon": -95.7896112
+   },
+   "phone": "+13462363652",
+   "website": "https://mendroofing.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9705367729",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midinmod-katy",
+   "name": "MidInMod",
+   "summary": "MidInMod is a furniture store in Katy, TX at 605 South Mason Road, Katy, TX 77450. Phone: +12813872734. Website: https://midinmod.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midinmod-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midinmod-katy.json",
+   "address": {
+    "streetAddress": "605 South Mason Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7743559,
+    "lon": -95.749882
+   },
+   "phone": "+12813872734",
+   "website": "https://midinmod.com/",
+   "opening_hours": "Mo-Sa 11:00-19:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5442884658",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "molar-dental-katy",
+   "name": "Molar Dental",
+   "summary": "Molar Dental is a dentist in Katy, TX at 10610 Gaston Road #120, Katy, TX 77494. Phone: +12813716368. Website: https://www.molar-dental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/molar-dental-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/molar-dental-katy.json",
+   "address": {
+    "streetAddress": "10610 Gaston Road #120",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7436788,
+    "lon": -95.8213574
+   },
+   "phone": "+12813716368",
+   "website": "https://www.molar-dental.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13582193611",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "momentum-indoor-climbing-katy",
+   "name": "Momentum Indoor Climbing",
+   "summary": "Momentum Indoor Climbing is a gym in Katy, TX at 25410 Katy Mills Parkway, Katy, TX 77494. Phone: +18324379091. Website: https://momentumclimbing.com/katy/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/momentum-indoor-climbing-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/momentum-indoor-climbing-katy.json",
+   "address": {
+    "streetAddress": "25410 Katy Mills Parkway",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7751278,
+    "lon": -95.8161609
+   },
+   "phone": "+18324379091",
+   "website": "https://momentumclimbing.com/katy/",
+   "opening_hours": "Mo-Fr 08:00-23:00; Sa 08:00-22:00; Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13354400401",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pediatric-dentist-of-katy-pa-katy",
+   "name": "Pediatric Dentist of Katy, PA",
+   "summary": "Pediatric Dentist of Katy, PA is a dentist in Katy, TX at 24022 Cinco Village Center Boulevard #210, Katy, TX 77494. Phone: +12816939100. Website: https://www.pediatricdentistofkaty.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pediatric-dentist-of-katy-pa-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pediatric-dentist-of-katy-pa-katy.json",
+   "address": {
+    "streetAddress": "24022 Cinco Village Center Boulevard #210",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7404918,
+    "lon": -95.7772812
+   },
+   "phone": "+12816939100",
+   "website": "https://www.pediatricdentistofkaty.com/",
+   "opening_hours": "Tu 10:00-18:00; We-Th 08:00-17:00; Fr 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7700062880",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petco-katy",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Katy, TX at 513 South Mason Road, Katy, TX 77450. Phone: +12816479779. Website: https://stores.petco.com/tx/katy/pet-supplies-katy-tx-464.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-katy.json",
+   "address": {
+    "streetAddress": "513 South Mason Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7778394,
+    "lon": -95.7502334
+   },
+   "phone": "+12816479779",
+   "website": "https://stores.petco.com/tx/katy/pet-supplies-katy-tx-464.html",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3916915533",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petco-katy-n7001418523",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Katy, TX at 2844 West Grand Parkway North, Katy, TX 77449. Phone: +13463078133. Website: https://stores.petco.com/tx/katy/pet-supplies-katy-tx-2462.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-katy-n7001418523/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-katy-n7001418523.json",
+   "address": {
+    "streetAddress": "2844 West Grand Parkway North",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.8146631,
+    "lon": -95.7695295
+   },
+   "phone": "+13463078133",
+   "website": "https://stores.petco.com/tx/katy/pet-supplies-katy-tx-2462.html",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7001418523",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "peter-j-petry-p-c-cpa-katy",
+   "name": "Peter J. Petry, P.C., CPA",
+   "summary": "Peter J. Petry, P.C., CPA is an accountant in Katy, TX at 2717 Commercial Center Boulevard #E200, Katy, TX 77494. Phone: +12818569788. Website: https://www.peterpetrycpa.com/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peter-j-petry-p-c-cpa-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peter-j-petry-p-c-cpa-katy.json",
+   "address": {
+    "streetAddress": "2717 Commercial Center Boulevard #E200",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7400273,
+    "lon": -95.7746967
+   },
+   "phone": "+12818569788",
+   "website": "https://www.peterpetrycpa.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5715483629",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-katy",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Katy, TX at 19945 Katy Freeway, Katy, TX 77094. Phone: +12815991125. Website: https://www.petsmart.com/stores/us/tx/houston-store0204.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-katy.json",
+   "address": {
+    "streetAddress": "19945 Katy Freeway",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77094",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77094",
+   "geo": {
+    "lat": 29.7827518,
+    "lon": -95.7155234
+   },
+   "phone": "+12815991125",
+   "website": "https://www.petsmart.com/stores/us/tx/houston-store0204.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3903896555",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "r-and-g-property-services-de-tejas-rosa-ellenburg-katy",
+   "name": "R & G Property Services De Tejas - Rosa Ellenburg",
+   "summary": "R & G Property Services De Tejas - Rosa Ellenburg is a real estate agency in Katy, TX at 28227 Daystrom Lane, Katy, TX 77494. Phone: +18328145174. Website: https://rosaellenburg.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-and-g-property-services-de-tejas-rosa-ellenburg-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-and-g-property-services-de-tejas-rosa-ellenburg-katy.json",
+   "address": {
+    "streetAddress": "28227 Daystrom Lane",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7508682,
+    "lon": -95.8562643
+   },
+   "phone": "+18328145174",
+   "website": "https://rosaellenburg.com/",
+   "opening_hours": "Mo-Fr 08:00-20:00; Sa 10:30-17:00; Su 13:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9963079407",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "schlipf-road-park-and-go-katy",
+   "name": "Schlipf Road Park & Go",
+   "summary": "Schlipf Road Park & Go is a self-storage facility in Katy, TX at 3554 Schlipf Road, Katy, TX 77493. Phone: +18327255551. Website: https://schlipfroadparkandgo.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schlipf-road-park-and-go-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schlipf-road-park-and-go-katy.json",
+   "address": {
+    "streetAddress": "3554 Schlipf Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77493",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77493",
+   "geo": {
+    "lat": 29.8267693,
+    "lon": -95.8730012
+   },
+   "phone": "+18327255551",
+   "website": "https://schlipfroadparkandgo.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9377347271",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sealy-dental-center-in-katy-katy",
+   "name": "Sealy Dental Center in Katy",
+   "summary": "Sealy Dental Center in Katy is a dentist in Katy, TX at 2731 FM 1463 #500, Katy, TX 77494. Phone: +12817126980. Website: https://www.sealydentalkaty.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sealy-dental-center-in-katy-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sealy-dental-center-in-katy-katy.json",
+   "address": {
+    "streetAddress": "2731 FM 1463 #500",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7510333,
+    "lon": -95.8509425
+   },
+   "phone": "+12817126980",
+   "website": "https://www.sealydentalkaty.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256067136",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "seo-buzz-internet-marketing-katy",
+   "name": "SEO Buzz Internet Marketing",
+   "summary": "SEO Buzz Internet Marketing is a marketing agency in Katy, TX at 565 South Mason Road #233, Katy, TX 77450. Phone: +17139090362. Website: https://www.seobuzzinternetmarketing.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seo-buzz-internet-marketing-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seo-buzz-internet-marketing-katy.json",
+   "address": {
+    "streetAddress": "565 South Mason Road #233",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.776195,
+    "lon": -95.7502785
+   },
+   "phone": "+17139090362",
+   "website": "https://www.seobuzzinternetmarketing.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5715583827",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "serafini-smith-law-firm-katy",
+   "name": "Serafini Smith Law Firm",
+   "summary": "Serafini Smith Law Firm is a lawyer in Katy, TX at 21408 Provincial Boulevard, Katy, TX 77450. Phone: +19363233336. Website: https://www.serafinismithlawfirm.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/serafini-smith-law-firm-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/serafini-smith-law-firm-katy.json",
+   "address": {
+    "streetAddress": "21408 Provincial Boulevard",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7762851,
+    "lon": -95.741291
+   },
+   "phone": "+19363233336",
+   "website": "https://www.serafinismithlawfirm.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11510394286",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "smile-avenue-family-dentistry-of-katy-katy",
+   "name": "Smile Avenue Family Dentistry of Katy",
+   "summary": "Smile Avenue Family Dentistry of Katy is a dentist in Katy, TX at 23541 Westheimer Parkway #170, Katy, TX 77494. Phone: +12818005008. Website: https://www.smileavenuefamilydentistry.com/katy-tx/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smile-avenue-family-dentistry-of-katy-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smile-avenue-family-dentistry-of-katy-katy.json",
+   "address": {
+    "streetAddress": "23541 Westheimer Parkway #170",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7324895,
+    "lon": -95.7754737
+   },
+   "phone": "+12818005008",
+   "website": "https://www.smileavenuefamilydentistry.com/katy-tx/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10911329627",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-children-s-pediatrics-katy",
+   "name": "Texas Children’s Pediatrics",
+   "summary": "Texas Children’s Pediatrics is a pediatrician in Katy, TX at 24022 Cinco Village Center Boulevard #100, Katy, TX 77494. Phone: +12813919696. Website: https://texaschildrenspediatrics.org/locations/texas-childrens-pediatrics-cinco-ranch/.",
+   "categories": [
+    "pediatrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-children-s-pediatrics-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-children-s-pediatrics-katy.json",
+   "address": {
+    "streetAddress": "24022 Cinco Village Center Boulevard #100",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7405336,
+    "lon": -95.7773531
+   },
+   "phone": "+12813919696",
+   "website": "https://texaschildrenspediatrics.org/locations/texas-childrens-pediatrics-cinco-ranch/",
+   "opening_hours": "Mo-Fr 08:30-12:00,13:30-17:00; Sa \"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7700080002",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-foot-and-ankle-specialists-katy",
+   "name": "Texas Foot and Ankle Specialists",
+   "summary": "Texas Foot and Ankle Specialists is a podiatrist in Katy, TX at 24022 Cinco Village Center Boulevard #240, Katy, TX 77494. Phone: +18323768600. Website: https://www.txfootankle.com/.",
+   "categories": [
+    "podiatrist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-foot-and-ankle-specialists-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-foot-and-ankle-specialists-katy.json",
+   "address": {
+    "streetAddress": "24022 Cinco Village Center Boulevard #240",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7402825,
+    "lon": -95.7774517
+   },
+   "phone": "+18323768600",
+   "website": "https://www.txfootankle.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7700090222",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-joint-chiropractic-katy",
+   "name": "The Joint Chiropractic",
+   "summary": "The Joint Chiropractic is a chiropractor in Katy, TX at 27120 Fulshear Bend Drive #300, Katy, TX 77494. Phone: +13462200925. Website: https://www.thejoint.com/texas/katy/cross-creek-28105.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-katy.json",
+   "address": {
+    "streetAddress": "27120 Fulshear Bend Drive #300",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7184815,
+    "lon": -95.8481179
+   },
+   "phone": "+13462200925",
+   "website": "https://www.thejoint.com/texas/katy/cross-creek-28105",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6823758429",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-linn-law-firm-pllc-katy",
+   "name": "The Linn Law Firm, PLLC",
+   "summary": "The Linn Law Firm, PLLC is a lawyer in Katy, TX at 24285 Katy Freeway #300, Katy, TX 77494. Phone: +13469983080. Website: https://linnlawfirm.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-linn-law-firm-pllc-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-linn-law-firm-pllc-katy.json",
+   "address": {
+    "streetAddress": "24285 Katy Freeway #300",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7845641,
+    "lon": -95.7895459
+   },
+   "phone": "+13469983080",
+   "website": "https://linnlawfirm.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11416837355",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ulta-beauty-katy",
+   "name": "Ulta Beauty",
+   "summary": "Ulta Beauty is a skin care studio in Katy, TX at 455 South Fry Road, Katy, TX 77450. Phone: +12816468808. Website: https://www.ulta.com/stores/katy-tx-93.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ulta-beauty-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-katy.json",
+   "address": {
+    "streetAddress": "455 South Fry Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7803148,
+    "lon": -95.7171221
+   },
+   "phone": "+12816468808",
+   "website": "https://www.ulta.com/stores/katy-tx-93",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3903896961",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "yumi-nguyen-beauty-katy",
+   "name": "Yumi Nguyen Beauty",
+   "summary": "Yumi Nguyen Beauty is a hair salon in Katy, TX at 1227 Grand Boulevard West #B206, Katy, TX 77449. Phone: +18503324354. Website: https://yumi-hair.square.site/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yumi-nguyen-beauty-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yumi-nguyen-beauty-katy.json",
+   "address": {
+    "streetAddress": "1227 Grand Boulevard West #B206",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.7895349,
+    "lon": -95.7708291
+   },
+   "phone": "+18503324354",
+   "website": "https://yumi-hair.square.site/",
+   "opening_hours": "Tu 10:30-15:00; We 10:00-17:00; Th-Fr 09:00-16:00; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13593372672",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zenskinsation-by-nelson-katy",
+   "name": "ZenSkinsation by Nelson",
+   "summary": "ZenSkinsation by Nelson is a skin care studio in Katy, TX at 26077 Nelson Way #401, Katy, TX 77494. Phone: +18324644516. Website: https://zenskinsation.square.site/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zenskinsation-by-nelson-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zenskinsation-by-nelson-katy.json",
+   "address": {
+    "streetAddress": "26077 Nelson Way #401",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.775703,
+    "lon": -95.8302526
+   },
+   "phone": "+18324644516",
+   "website": "https://zenskinsation.square.site/",
+   "opening_hours": "Tu-Fr 17:00-19:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13618534020",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "charm-dental-katy-katy",
+   "name": "Charm Dental Katy",
+   "summary": "Charm Dental Katy is a dentist in Katy, TX at 2015 Mason Road #500, Katy, TX 77449. Phone: +18329307840. Website: https://www.charmdentalcare.com/locations/katy/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charm-dental-katy-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charm-dental-katy-katy.json",
+   "address": {
+    "streetAddress": "2015 Mason Road #500",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.8029733,
+    "lon": -95.7524865
+   },
+   "phone": "+18329307840",
+   "website": "https://www.charmdentalcare.com/locations/katy/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11949586217",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dynamic-fitness-katy",
+   "name": "Dynamic Fitness",
+   "summary": "Dynamic Fitness is a gym in Katy, TX at 17750 Barker Cypress Road, Katy, TX 77094. Phone: +12817178209. Website: https://thedynamicfitness.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dynamic-fitness-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dynamic-fitness-katy.json",
+   "address": {
+    "streetAddress": "17750 Barker Cypress Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77094",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77094",
+   "geo": {
+    "lat": 29.7871408,
+    "lon": -95.6872266
+   },
+   "phone": "+12817178209",
+   "website": "https://thedynamicfitness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/387394302",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eos-fitness-katy",
+   "name": "EOS Fitness",
+   "summary": "EOS Fitness is a gym in Katy, TX at 1719 Spring Green Boulevard, Katy, TX 77494. Phone: +12816440160. Website: https://eosfitness.com/gym/katy-spring-green-blvd-fm-1463/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eos-fitness-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eos-fitness-katy.json",
+   "address": {
+    "streetAddress": "1719 Spring Green Boulevard",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7621469,
+    "lon": -95.8401817
+   },
+   "phone": "+12816440160",
+   "website": "https://eosfitness.com/gym/katy-spring-green-blvd-fm-1463/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/544775597",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-insurance-willard-mays-katy",
+   "name": "Farmers Insurance - Willard Mays",
+   "summary": "Farmers Insurance - Willard Mays is an insurance agent in Katy, TX at 2020 Katy Hockley Cut Off Road ##B, Katy, TX 77493. Phone: +12812312280. Website: https://agents.farmers.com/tx/katy/willard-mays.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-willard-mays-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-willard-mays-katy.json",
+   "address": {
+    "streetAddress": "2020 Katy Hockley Cut Off Road ##B",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77493",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77493",
+   "geo": {
+    "lat": 29.8022968,
+    "lon": -95.8085573
+   },
+   "phone": "+12812312280",
+   "website": "https://agents.farmers.com/tx/katy/willard-mays",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6297472008",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h2o-express-car-wash-katy",
+   "name": "H2O Express Car Wash",
+   "summary": "H2O Express Car Wash is a car wash in Katy, TX at 4809 FM 1463, Katy, TX 77494. Phone: +12813922210. Website: https://www.h2oexpresswash.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h2o-express-car-wash-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h2o-express-car-wash-katy.json",
+   "address": {
+    "streetAddress": "4809 FM 1463",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7226298,
+    "lon": -95.8455828
+   },
+   "phone": "+12813922210",
+   "website": "https://www.h2oexpresswash.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/943985593",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-lube-katy-w943985594",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Katy, TX at 4817 FM 1463, Katy, TX 77494. Phone: +18324377961. Website: https://www.jiffylube.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-katy-w943985594/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-katy-w943985594.json",
+   "address": {
+    "streetAddress": "4817 FM 1463",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7221072,
+    "lon": -95.8457438
+   },
+   "phone": "+18324377961",
+   "website": "https://www.jiffylube.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/943985594",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-katy-w509137956",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Katy, TX at 24600 Katy Freeway #1300, Katy, TX 77494. Phone: +12816651630. Website: https://www.mattressfirm.com/en-us/stores/tx/katy/001197/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-katy-w509137956/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-katy-w509137956.json",
+   "address": {
+    "streetAddress": "24600 Katy Freeway #1300",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7868521,
+    "lon": -95.7934139
+   },
+   "phone": "+12816651630",
+   "website": "https://www.mattressfirm.com/en-us/stores/tx/katy/001197/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/509137956",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mckaskle-family-dentistry-of-katy-katy",
+   "name": "McKaskle Family Dentistry of Katy",
+   "summary": "McKaskle Family Dentistry of Katy is a dentist in Katy, TX at 1437 FM 1463 #200, Katy, TX 77494. Phone: +12815998003. Website: https://dentists-katy.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mckaskle-family-dentistry-of-katy-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mckaskle-family-dentistry-of-katy-katy.json",
+   "address": {
+    "streetAddress": "1437 FM 1463 #200",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7660345,
+    "lon": -95.8402227
+   },
+   "phone": "+12815998003",
+   "website": "https://dentists-katy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13096638333",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "my-transmission-experts-katy",
+   "name": "My Transmission Experts",
+   "summary": "My Transmission Experts is an auto repair shop in Katy, TX at 21946 Kingsland Boulevard, Katy, TX 77450. Phone: +12813925060. Website: https://www.mytransmissionexperts.com/locations/katy/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/my-transmission-experts-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/my-transmission-experts-katy.json",
+   "address": {
+    "streetAddress": "21946 Kingsland Boulevard",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7749974,
+    "lon": -95.7534095
+   },
+   "phone": "+12813925060",
+   "website": "https://www.mytransmissionexperts.com/locations/katy/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3765777361",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "oda-autoplex-katy",
+   "name": "ODA Autoplex",
+   "summary": "ODA Autoplex is an used car dealer in Katy, TX at 19200 West Little York Road #101, Katy, TX 77449. Phone: +18326741760. Website: https://www.odaautoplex.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oda-autoplex-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oda-autoplex-katy.json",
+   "address": {
+    "streetAddress": "19200 West Little York Road #101",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.8619707,
+    "lon": -95.7191364
+   },
+   "phone": "+18326741760",
+   "website": "https://www.odaautoplex.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1020658151",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-insurance-katy",
+   "name": "State Farm Insurance",
+   "summary": "State Farm Insurance is an insurance agent in Katy, TX at 3020 North Fry Road, Katy, TX 77449. Phone: +12818295656. Website: https://agentandrade.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-insurance-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-insurance-katy.json",
+   "address": {
+    "streetAddress": "3020 North Fry Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.8129486,
+    "lon": -95.7191096
+   },
+   "phone": "+12818295656",
+   "website": "https://agentandrade.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4514805081",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "watercrest-at-katy-katy",
+   "name": "Watercrest at Katy",
+   "summary": "Watercrest at Katy is an assisted living facility in Katy, TX at 200 Katy Fort Bend Road, Katy, TX 77494. Phone: +12817122982. Website: https://www.integratedseniorlifestyles.com/senior-living/tx/katy/watercrest-at-katy/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/watercrest-at-katy-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/watercrest-at-katy-katy.json",
+   "address": {
+    "streetAddress": "200 Katy Fort Bend Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7754876,
+    "lon": -95.8006854
+   },
+   "phone": "+12817122982",
+   "website": "https://www.integratedseniorlifestyles.com/senior-living/tx/katy/watercrest-at-katy/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1394097819",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dlg-cosmetics-beauty-studio-katy",
+   "name": "DLG Cosmetics Beauty studio",
+   "summary": "DLG Cosmetics Beauty studio is a hair salon in Katy, TX at 20680 Westheimer Parkway #70, Katy, TX 77450. Phone: +12818299899.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dlg-cosmetics-beauty-studio-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dlg-cosmetics-beauty-studio-katy.json",
+   "address": {
+    "streetAddress": "20680 Westheimer Parkway #70",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7390768,
+    "lon": -95.7343544
+   },
+   "phone": "+12818299899",
+   "opening_hours": "Tu-Fr 09:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5678331540",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "elevate-hair-salon-katy",
+   "name": "Elevate Hair Salon",
+   "summary": "Elevate Hair Salon is a hair salon in Katy, TX at 4020 FM 1463, Katy, TX 77494. Phone: +18324375994.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elevate-hair-salon-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elevate-hair-salon-katy.json",
+   "address": {
+    "streetAddress": "4020 FM 1463",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7330467,
+    "lon": -95.8472658
+   },
+   "phone": "+18324375994",
+   "opening_hours": "Tu-Fr 09:00-19:00, Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1210208629",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hair-by-daniel-katy",
+   "name": "Hair by Daniel",
+   "summary": "Hair by Daniel is a barber shop in Katy, TX at 1420 South Mason Road #200, Katy, TX 77450. Phone: +12816657207.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-by-daniel-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-by-daniel-katy.json",
+   "address": {
+    "streetAddress": "1420 South Mason Road #200",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7615079,
+    "lon": -95.7523224
+   },
+   "phone": "+12816657207",
+   "opening_hours": "Mo-Sa 09:30-19:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12979141909",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kiddie-academy-of-sunterra-katy",
+   "name": "Kiddie Academy of Sunterra",
+   "summary": "Kiddie Academy of Sunterra is a daycare in Katy, TX at 27878 Clay Road, Katy, TX 77493. Website: https://kiddieacademy.com/academies/sunterra/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kiddie-academy-of-sunterra-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kiddie-academy-of-sunterra-katy.json",
+   "address": {
+    "streetAddress": "27878 Clay Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77493",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77493",
+   "geo": {
+    "lat": 29.8316092,
+    "lon": -95.855813
+   },
+   "website": "https://kiddieacademy.com/academies/sunterra/",
+   "opening_hours": "Mo-Fr 06:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13370972444",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sapphire-family-dentistry-katy",
+   "name": "Sapphire Family Dentistry",
+   "summary": "Sapphire Family Dentistry is a dentist in Katy, TX at 25805 Katy Freeway #100, Katy, TX 77494. Website: https://www.sapphiredentistrykaty.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sapphire-family-dentistry-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sapphire-family-dentistry-katy.json",
+   "address": {
+    "streetAddress": "25805 Katy Freeway #100",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7768254,
+    "lon": -95.8243396
+   },
+   "website": "https://www.sapphiredentistrykaty.com/",
+   "opening_hours": "Mo 10:00-19:00; Tu-Th 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13299096979",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sugaring-nyc-katy",
+   "name": "Sugaring NYC",
+   "summary": "Sugaring NYC is a hair salon in Katy, TX at 4020 FM 1463, Katy, TX 77441. Phone: +18324375994.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sugaring-nyc-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sugaring-nyc-katy.json",
+   "address": {
+    "streetAddress": "4020 FM 1463",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77441",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77441",
+   "geo": {
+    "lat": 29.733101,
+    "lon": -95.8472662
+   },
+   "phone": "+18324375994",
+   "opening_hours": "Tu-Fr 09:00-19:00, Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1210208628",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "1463-auto-repair-llc-katy",
+   "name": "1463 Auto Repair LLC",
+   "summary": "1463 Auto Repair LLC is an auto repair shop in Katy, TX at 1260 FM 1463 #300, Katy, TX 77494. Phone: +12815743436.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1463-auto-repair-llc-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1463-auto-repair-llc-katy.json",
+   "address": {
+    "streetAddress": "1260 FM 1463 #300",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7695518,
+    "lon": -95.8403526
+   },
+   "phone": "+12815743436",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/480968726",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "1st-solution-certification-usa-inc-katy",
+   "name": "1st Solution Certification USA, Inc.",
+   "summary": "1st Solution Certification USA, Inc. is a business consultant in Katy, TX at 22015 Westland Creek Drive, Katy, TX 77449. Website: https://www.1scusa.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1st-solution-certification-usa-inc-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1st-solution-certification-usa-inc-katy.json",
+   "address": {
+    "streetAddress": "22015 Westland Creek Drive",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.8183818,
+    "lon": -95.7540085
+   },
+   "website": "https://www.1scusa.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11830305672",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-katy",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Katy, TX at 21825 Katy Freeway, Katy, TX 77450. Phone: +12813988295.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-katy.json",
+   "address": {
+    "streetAddress": "21825 Katy Freeway",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7842021,
+    "lon": -95.7484691
+   },
+   "phone": "+12813988295",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/388932379",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-katy-w667220458",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Katy, TX at 25214 Market Place Drive, Katy, TX 77494. Phone: +12815743878.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-katy-w667220458/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-katy-w667220458.json",
+   "address": {
+    "streetAddress": "25214 Market Place Drive",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7826177,
+    "lon": -95.8081851
+   },
+   "phone": "+12815743878",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/667220458",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-katy-w667221461",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Katy, TX at 5818 North Fry Road, Katy, TX 77449. Phone: +12815007875.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-katy-w667221461/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-katy-w667221461.json",
+   "address": {
+    "streetAddress": "5818 North Fry Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.8554118,
+    "lon": -95.7182437
+   },
+   "phone": "+12815007875",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/667221461",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fulshear-tire-and-automotive-katy",
+   "name": "Fulshear Tire & Automotive",
+   "summary": "Fulshear Tire & Automotive is an auto repair shop in Katy, TX at 2945 FM 1463, Katy, TX 77494. Phone: +12813925552.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fulshear-tire-and-automotive-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fulshear-tire-and-automotive-katy.json",
+   "address": {
+    "streetAddress": "2945 FM 1463",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7479454,
+    "lon": -95.8511773
+   },
+   "phone": "+12813925552",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/725881149",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grace-fellowship-preschool-katy",
+   "name": "Grace Fellowship Preschool",
+   "summary": "Grace Fellowship Preschool is a preschool in Katy, TX at 2655 South Mason Road, Katy, TX 77450. Phone: +12813983412.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grace-fellowship-preschool-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grace-fellowship-preschool-katy.json",
+   "address": {
+    "streetAddress": "2655 South Mason Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7439374,
+    "lon": -95.7499109
+   },
+   "phone": "+12813983412",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11691440552",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "quantum-dental-katy",
+   "name": "Quantum Dental",
+   "summary": "Quantum Dental is a dentist in Katy, TX at 1989 North Fry Road, Katy, TX 77449. Phone: +12817178199.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quantum-dental-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quantum-dental-katy.json",
+   "address": {
+    "streetAddress": "1989 North Fry Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.795317,
+    "lon": -95.7194974
+   },
+   "phone": "+12817178199",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/429294202",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woof-gang-bakery-and-grooming-katy",
+   "name": "Woof Gang Bakery & Grooming",
+   "summary": "Woof Gang Bakery & Grooming is a dog groomer in Katy, TX at 1510 West Grand Parkway South, Katy, TX 77494. Website: https://woofgangbakery.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woof-gang-bakery-and-grooming-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woof-gang-bakery-and-grooming-katy.json",
+   "address": {
+    "streetAddress": "1510 West Grand Parkway South",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7576576,
+    "lon": -95.7781552
+   },
+   "website": "https://woofgangbakery.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9318415378",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-fitness-katy-w387197550",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Katy, TX at 19550 Restaurant Row, Katy, TX. Website: https://www.lafitness.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-katy-w387197550/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-katy-w387197550.json",
+   "address": {
+    "streetAddress": "19550 Restaurant Row",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.787666,
+    "lon": -95.7126787
+   },
+   "website": "https://www.lafitness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/387197550",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ntb-katy",
+   "name": "NTB",
+   "summary": "NTB is an auto repair shop in Katy, TX at 20211 Katy Freeway, Katy, TX. Website: https://www.ntb.com/store/tx/katy/20211-katy-fwy-77450/4485.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ntb-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ntb-katy.json",
+   "address": {
+    "streetAddress": "20211 Katy Freeway",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7840811,
+    "lon": -95.7223143
+   },
+   "website": "https://www.ntb.com/store/tx/katy/20211-katy-fwy-77450/4485",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/387388873",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "beauty-nail-bar-katy",
+   "name": "Beauty Nail Bar",
+   "summary": "Beauty Nail Bar is a nail salon in Katy, TX at 1330 North Fry Road #1330, Katy, TX 77084.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beauty-nail-bar-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beauty-nail-bar-katy.json",
+   "address": {
+    "streetAddress": "1330 North Fry Road #1330",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77084",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77084",
+   "geo": {
+    "lat": 29.7884666,
+    "lon": -95.7183408
+   },
+   "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:00-19:00; Su 11:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3905103767",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "christian-brothers-automotive-fulshear-katy",
+   "name": "Christian Brothers Automotive Fulshear",
+   "summary": "Christian Brothers Automotive Fulshear is an auto repair shop in Katy, TX at 6150 FM 1463, Katy, TX 77494.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-fulshear-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christian-brothers-automotive-fulshear-katy.json",
+   "address": {
+    "streetAddress": "6150 FM 1463",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7012484,
+    "lon": -95.8468146
+   },
+   "opening_hours": "Mo-Fr 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/582629937",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cinco-auto-katy",
+   "name": "Cinco Auto",
+   "summary": "Cinco Auto is an auto repair shop in Katy, TX at 25827 Cinco Ranch Boulevard, Katy, TX 77494.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cinco-auto-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cinco-auto-katy.json",
+   "address": {
+    "streetAddress": "25827 Cinco Ranch Boulevard",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7262059,
+    "lon": -95.7997125
+   },
+   "opening_hours": "Mo-Sa 07:30-18:00; Su 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/785786890",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cinco-auto-2-katy",
+   "name": "Cinco Auto 2",
+   "summary": "Cinco Auto 2 is an auto repair shop in Katy, TX at 5341 Farm to Market 1463, Katy, TX 77494.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cinco-auto-2-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cinco-auto-2-katy.json",
+   "address": {
+    "streetAddress": "5341 Farm to Market 1463",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7158189,
+    "lon": -95.8454578
+   },
+   "opening_hours": "Mo-Fr 07:30-18:00, Sa 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543732248",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "afc-urgent-care-katy",
+   "name": "AFC Urgent Care",
+   "summary": "AFC Urgent Care is an urgent care clinic in Katy, TX at 6445 FM 1463 #230, Katy, TX 77494.",
+   "categories": [
+    "urgent care"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/afc-urgent-care-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/afc-urgent-care-katy.json",
+   "address": {
+    "streetAddress": "6445 FM 1463 #230",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.69834,
+    "lon": -95.8452041
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13161108262",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "big-bottle-liquor-store-katy",
+   "name": "Big Bottle Liquor Store",
+   "summary": "Big Bottle Liquor Store is a liquor store in Katy, TX at 24020 Clay Road, Katy, TX 77493.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-bottle-liquor-store-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-bottle-liquor-store-katy.json",
+   "address": {
+    "streetAddress": "24020 Clay Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77493",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77493",
+   "geo": {
+    "lat": 29.832029,
+    "lon": -95.7914136
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13431170207",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "caliber-collision-katy",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Katy, TX at 25430 Bell Patina Drive, Katy, TX 77494.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-katy.json",
+   "address": {
+    "streetAddress": "25430 Bell Patina Drive",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7771954,
+    "lon": -95.8154027
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/792013500",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "christian-brothers-automotive-katy",
+   "name": "Christian Brothers Automotive",
+   "summary": "Christian Brothers Automotive is an auto repair shop in Katy, TX at 1455 West Grand Parkway South, Katy, TX 77494.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christian-brothers-automotive-katy.json",
+   "address": {
+    "streetAddress": "1455 West Grand Parkway South",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7588589,
+    "lon": -95.7753105
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/791625358",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cool-cat-cycles-katy",
+   "name": "Cool Cat Cycles",
+   "summary": "Cool Cat Cycles is a bike shop in Katy, TX at 22010 Westheimer Parkway, Katy, TX 77450.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cool-cat-cycles-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cool-cat-cycles-katy.json",
+   "address": {
+    "streetAddress": "22010 Westheimer Parkway",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77450",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77450",
+   "geo": {
+    "lat": 29.7341997,
+    "lon": -95.7526773
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13777423469",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cypress-wine-and-liquor-katy",
+   "name": "Cypress Wine & Liquor",
+   "summary": "Cypress Wine & Liquor is a liquor store in Katy, TX at 6445 FM 1463 #250, Katy, TX 77494.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cypress-wine-and-liquor-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cypress-wine-and-liquor-katy.json",
+   "address": {
+    "streetAddress": "6445 FM 1463 #250",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.698366,
+    "lon": -95.8449538
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13161108269",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-oil-change-and-tire-engineers-katy-n5904298215",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Katy, TX at 26624 FM 1093, Katy, TX 77494.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-katy-n5904298215/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-katy-n5904298215.json",
+   "address": {
+    "streetAddress": "26624 FM 1093",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.6960741,
+    "lon": -95.8381275
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5904298215",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-katy",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Katy, TX at 25120 Market Place Drive, Katy, TX 77494.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-katy.json",
+   "address": {
+    "streetAddress": "25120 Market Place Drive",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7825783,
+    "lon": -95.806649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/542682201",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gratitude-barber-studio-katy",
+   "name": "Gratitude Barber Studio",
+   "summary": "Gratitude Barber Studio is a barber shop in Katy, TX at 3810 Mason Road #B, Katy, TX 77449.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gratitude-barber-studio-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gratitude-barber-studio-katy.json",
+   "address": {
+    "streetAddress": "3810 Mason Road #B",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.829469,
+    "lon": -95.753836
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13480958330",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-e-b-car-wash-katy-w847268945",
+   "name": "H-E-B Car Wash",
+   "summary": "H-E-B Car Wash is a car wash in Katy, TX at 6711 South Fry Road, Katy, TX 77494.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-katy-w847268945/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-car-wash-katy-w847268945.json",
+   "address": {
+    "streetAddress": "6711 South Fry Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.71407,
+    "lon": -95.7750357
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/847268945",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ikea-pick-up-point-katy",
+   "name": "IKEA Pick-up Point",
+   "summary": "IKEA Pick-up Point is a furniture store in Katy, TX at 23501 Cinco Ranch Boulevard #G125, Katy, TX 77494.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ikea-pick-up-point-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ikea-pick-up-point-katy.json",
+   "address": {
+    "streetAddress": "23501 Cinco Ranch Boulevard #G125",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7427223,
+    "lon": -95.7749848
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/107773564",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ikea-plan-and-order-point-katy",
+   "name": "IKEA Plan & Order Point",
+   "summary": "IKEA Plan & Order Point is a furniture store in Katy, TX at 23501 Cinco Ranch Boulevard #G130, Katy, TX 77494.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ikea-plan-and-order-point-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ikea-plan-and-order-point-katy.json",
+   "address": {
+    "streetAddress": "23501 Cinco Ranch Boulevard #G130",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7426107,
+    "lon": -95.7748491
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/107773570",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ishine-katy-katy",
+   "name": "iShine Katy",
+   "summary": "iShine Katy is a car wash in Katy, TX at 23103 Clay Road, Katy, TX 77493.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ishine-katy-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ishine-katy-katy.json",
+   "address": {
+    "streetAddress": "23103 Clay Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77493",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77493",
+   "geo": {
+    "lat": 29.8310207,
+    "lon": -95.7757402
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12084241923",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "katy-kar-audio-katy",
+   "name": "Katy Kar Audio",
+   "summary": "Katy Kar Audio is an auto repair shop in Katy, TX at 2212 Fry Road Suite B, Katy, TX 77449.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/katy-kar-audio-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/katy-kar-audio-katy.json",
+   "address": {
+    "streetAddress": "2212 Fry Road Suite B",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.7994738,
+    "lon": -95.718661
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4285718058",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "katy-trails-family-dentistry-katy",
+   "name": "Katy Trails Family Dentistry",
+   "summary": "Katy Trails Family Dentistry is a dentist in Katy, TX at 23053 Clay Road #600, Katy, TX 77493.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/katy-trails-family-dentistry-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/katy-trails-family-dentistry-katy.json",
+   "address": {
+    "streetAddress": "23053 Clay Road #600",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77493",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77493",
+   "geo": {
+    "lat": 29.8310123,
+    "lon": -95.77521
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13606936339",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kids-r-kids-katy",
+   "name": "Kids 'R' Kids",
+   "summary": "Kids 'R' Kids is a daycare in Katy, TX at 25950 Cinco Ranch Boulevard, Katy, TX 77494.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kids-r-kids-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kids-r-kids-katy.json",
+   "address": {
+    "streetAddress": "25950 Cinco Ranch Boulevard",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7265382,
+    "lon": -95.8009497
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/787391249",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kids-r-kids-katy-w1014424289",
+   "name": "Kids 'R' Kids",
+   "summary": "Kids 'R' Kids is a daycare in Katy, TX at 3820 Mason Road, Katy, TX 77449.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kids-r-kids-katy-w1014424289/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kids-r-kids-katy-w1014424289.json",
+   "address": {
+    "streetAddress": "3820 Mason Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.8305222,
+    "lon": -95.753551
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1014424289",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kindercare-learning-center-katy",
+   "name": "KinderCare Learning Center",
+   "summary": "KinderCare Learning Center is a daycare in Katy, TX at 2202 North Fry Road, Katy, TX 77449.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-learning-center-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kindercare-learning-center-katy.json",
+   "address": {
+    "streetAddress": "2202 North Fry Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.7986472,
+    "lon": -95.7185118
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/429410380",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-fitness-katy",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Katy, TX at 26726 FM 1093, Katy, TX 77494.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-katy.json",
+   "address": {
+    "streetAddress": "26726 FM 1093",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.6980109,
+    "lon": -95.8401483
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13160800661",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "majestic-nail-bar-katy",
+   "name": "Majestic Nail Bar",
+   "summary": "Majestic Nail Bar is a nail salon in Katy, TX at 26750 FM 1093 #100, Katy, TX 77494.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/majestic-nail-bar-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/majestic-nail-bar-katy.json",
+   "address": {
+    "streetAddress": "26750 FM 1093 #100",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.6959453,
+    "lon": -95.8403981
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13160921383",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-katy",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Katy, TX at 6727 FM 1463 #220, Katy, TX 77494.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-katy.json",
+   "address": {
+    "streetAddress": "6727 FM 1463 #220",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.6955626,
+    "lon": -95.8448519
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13158828877",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midas-katy",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Katy, TX at 25201 Market Place Drive, Katy, TX 77494.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-katy.json",
+   "address": {
+    "streetAddress": "25201 Market Place Drive",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7818427,
+    "lon": -95.8073772
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/747819344",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pandora-katy",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Katy, TX at 23501 Cinco Ranch Boulevard #E140, Katy, TX 77494.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-katy.json",
+   "address": {
+    "streetAddress": "23501 Cinco Ranch Boulevard #E140",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7422657,
+    "lon": -95.7751792
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/107773587",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-katy-n13161108273",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Katy, TX at 26960 FM 1093, Katy, TX 77494.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-katy-n13161108273/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-katy-n13161108273.json",
+   "address": {
+    "streetAddress": "26960 FM 1093",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.6982097,
+    "lon": -95.8445951
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13161108273",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "quick-quack-car-wash-katy",
+   "name": "Quick Quack Car Wash",
+   "summary": "Quick Quack Car Wash is a car wash in Katy, TX at 26742 FM 1093, Katy, TX 77494.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quick-quack-car-wash-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quick-quack-car-wash-katy.json",
+   "address": {
+    "streetAddress": "26742 FM 1093",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.6960975,
+    "lon": -95.8395887
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13160979782",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "retreat-gym-katy",
+   "name": "Retreat Gym",
+   "summary": "Retreat Gym is a gym in Katy, TX at 5455 Aurora Bnd, Katy, TX 77493.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/retreat-gym-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/retreat-gym-katy.json",
+   "address": {
+    "streetAddress": "5455 Aurora Bnd",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77493",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77493",
+   "geo": {
+    "lat": 29.85272,
+    "lon": -95.8437035
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1457943308",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sola-salons-katy",
+   "name": "Sola Salons",
+   "summary": "Sola Salons is a nail salon in Katy, TX at 24022 Cinco Village Center Boulevard #120, Katy, TX 77494.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-katy.json",
+   "address": {
+    "streetAddress": "24022 Cinco Village Center Boulevard #120",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7402126,
+    "lon": -95.7776161
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7700448499",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specs-katy",
+   "name": "Spec's",
+   "summary": "Spec's is a liquor store in Katy, TX at 1743 North Fry Road, Katy, TX 77449.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specs-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specs-katy.json",
+   "address": {
+    "streetAddress": "1743 North Fry Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.7919979,
+    "lon": -95.7194994
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/387201829",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-katy-n13158828868",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Katy, TX at 6727 FM 1463 #210, Katy, TX 77494.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-katy-n13158828868/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-katy-n13158828868.json",
+   "address": {
+    "streetAddress": "6727 FM 1463 #210",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.6955551,
+    "lon": -95.8449805
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13158828868",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-katy",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Katy, TX at 1310 Pin Oak Road, Katy, TX 77494.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-katy.json",
+   "address": {
+    "streetAddress": "1310 Pin Oak Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.7708747,
+    "lon": -95.8183301
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4389756696",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "strickland-brothers-10-minute-oil-change-katy",
+   "name": "Strickland Brothers 10 Minute Oil Change",
+   "summary": "Strickland Brothers 10 Minute Oil Change is an auto repair shop in Katy, TX at 23033 Clay Road, Katy, TX 77493.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/strickland-brothers-10-minute-oil-change-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/strickland-brothers-10-minute-oil-change-katy.json",
+   "address": {
+    "streetAddress": "23033 Clay Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77493",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77493",
+   "geo": {
+    "lat": 29.8310885,
+    "lon": -95.7745825
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1210815475",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sunterra-nails-and-spa-katy",
+   "name": "Sunterra Nails & Spa",
+   "summary": "Sunterra Nails & Spa is a nail salon in Katy, TX at 24020 Clay Road, Katy, TX 77493.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunterra-nails-and-spa-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunterra-nails-and-spa-katy.json",
+   "address": {
+    "streetAddress": "24020 Clay Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77493",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77493",
+   "geo": {
+    "lat": 29.8320301,
+    "lon": -95.7915152
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13431170208",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "superior-katy",
+   "name": "Superior",
+   "summary": "Superior is a car wash in Katy, TX at 2205 North Fry Road, Katy, TX 77449.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/superior-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/superior-katy.json",
+   "address": {
+    "streetAddress": "2205 North Fry Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77449",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77449",
+   "geo": {
+    "lat": 29.7986167,
+    "lon": -95.7196675
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/429296745",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sweet-and-sassy-katy",
+   "name": "Sweet & Sassy",
+   "summary": "Sweet & Sassy is a hair salon in Katy, TX at 6445 FM 1463 #210, Katy, TX 77494.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sweet-and-sassy-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sweet-and-sassy-katy.json",
+   "address": {
+    "streetAddress": "6445 FM 1463 #210",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.6985074,
+    "lon": -95.8451881
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13161108251",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-katy-n13161108245",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Katy, TX at 6445 FM 1463 #160, Katy, TX 77494.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-katy-n13161108245/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-katy-n13161108245.json",
+   "address": {
+    "streetAddress": "6445 FM 1463 #160",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.6987109,
+    "lon": -95.8451935
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13161108245",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "trinity-dental-katy",
+   "name": "Trinity Dental",
+   "summary": "Trinity Dental is a dentist in Katy, TX at 24020 Clay Road, Katy, TX 77493.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trinity-dental-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trinity-dental-katy.json",
+   "address": {
+    "streetAddress": "24020 Clay Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77493",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77493",
+   "geo": {
+    "lat": 29.8320067,
+    "lon": -95.7913004
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13431170206",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "villagio-family-dental-katy",
+   "name": "Villagio Family Dental",
+   "summary": "Villagio Family Dental is a dentist in Katy, TX at 6727 FM 1463 #200, Katy, TX 77494.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/villagio-family-dental-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/villagio-family-dental-katy.json",
+   "address": {
+    "streetAddress": "6727 FM 1463 #200",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.6955488,
+    "lon": -95.8450638
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13158828865",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "viva-3-physical-therapy-katy",
+   "name": "Viva 3 Physical Therapy",
+   "summary": "Viva 3 Physical Therapy is a physical therapy clinic in Katy, TX at 6445 FM 1463 #290, Katy, TX 77494.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/viva-3-physical-therapy-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/viva-3-physical-therapy-katy.json",
+   "address": {
+    "streetAddress": "6445 FM 1463 #290",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "postalCode": "77494",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "zip": "77494",
+   "geo": {
+    "lat": 29.6983671,
+    "lon": -95.8448274
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13161108272",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "castle-dental-katy",
+   "name": "Castle Dental",
+   "summary": "Castle Dental is a dentist in Katy, TX at 462 South Mason Road, Katy, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/castle-dental-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/castle-dental-katy.json",
+   "address": {
+    "streetAddress": "462 South Mason Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7775179,
+    "lon": -95.7524191
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/563993581",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dance-vision-katy",
+   "name": "Dance Vision",
+   "summary": "Dance Vision is a dance studio in Katy, TX at 4020 FM 1463, Katy, TX.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-vision-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-vision-katy.json",
+   "address": {
+    "streetAddress": "4020 FM 1463",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7328952,
+    "lon": -95.8472589
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1210208631",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fedex-office-katy",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Katy, TX at 430 South Mason Road #108, Katy, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-katy.json",
+   "address": {
+    "streetAddress": "430 South Mason Road #108",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7781917,
+    "lon": -95.7531734
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7166632735",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-katy-w768996550",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Katy, TX at 727 South Mason Road, Katy, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-katy-w768996550/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-katy-w768996550.json",
+   "address": {
+    "streetAddress": "727 South Mason Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7718399,
+    "lon": -95.7511266
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/768996550",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-lube-katy",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Katy, TX at 21910 Provincial Boulevard, Katy, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-katy.json",
+   "address": {
+    "streetAddress": "21910 Provincial Boulevard",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.780107,
+    "lon": -95.7525823
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/388111045",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kendra-scott-katy",
+   "name": "Kendra Scott",
+   "summary": "Kendra Scott is a jewelry store in Katy, TX at 23510 Cinco Ranch Boulevard #D130, Katy, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kendra-scott-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kendra-scott-katy.json",
+   "address": {
+    "streetAddress": "23510 Cinco Ranch Boulevard #D130",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7421946,
+    "lon": -95.7754204
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/107773571",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lone-star-floors-katy",
+   "name": "Lone Star Floors",
+   "summary": "Lone Star Floors is a flooring company in Katy, TX at 873 South Mason Road #300, Katy, TX.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lone-star-floors-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lone-star-floors-katy.json",
+   "address": {
+    "streetAddress": "873 South Mason Road #300",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7703504,
+    "lon": -95.751319
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10877048212",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-1-one-katy",
+   "name": "Mattress 1 One",
+   "summary": "Mattress 1 One is a mattress store in Katy, TX at 22903 Morton Ranch Road, Katy, TX.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-1-one-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-1-one-katy.json",
+   "address": {
+    "streetAddress": "22903 Morton Ranch Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.8166016,
+    "lon": -95.7693082
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7001411452",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-katy",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Katy, TX at 1001 South Mason Road, Katy, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-katy.json",
+   "address": {
+    "streetAddress": "1001 South Mason Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7669736,
+    "lon": -95.7513239
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11923836423",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "quick-quack-car-wash-katy-w748668388",
+   "name": "Quick Quack Car Wash",
+   "summary": "Quick Quack Car Wash is a car wash in Katy, TX at 22743 Morton Ranch Road, Katy, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quick-quack-car-wash-katy-w748668388/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quick-quack-car-wash-katy-w748668388.json",
+   "address": {
+    "streetAddress": "22743 Morton Ranch Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.8166363,
+    "lon": -95.7673458
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/748668388",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "secrets-katy",
+   "name": "Secrets",
+   "summary": "Secrets is a hair salon in Katy, TX at 1805 Mason Road, Katy, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/secrets-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/secrets-katy.json",
+   "address": {
+    "streetAddress": "1805 Mason Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7994177,
+    "lon": -95.7525475
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3814566367",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sonnys-liquor-and-cigars-katy",
+   "name": "Sonny's Liquor & Cigars",
+   "summary": "Sonny's Liquor & Cigars is a liquor store in Katy, TX at 20041 Katy Freeway, Katy, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sonnys-liquor-and-cigars-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sonnys-liquor-and-cigars-katy.json",
+   "address": {
+    "streetAddress": "20041 Katy Freeway",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.782243,
+    "lon": -95.7203126
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3905564368",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-katy",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Katy, TX at 19859 Katy Freeway #B, Katy, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-katy.json",
+   "address": {
+    "streetAddress": "19859 Katy Freeway #B",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7840749,
+    "lon": -95.7154815
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3903913976",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-katy",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Katy, TX at 430 South Mason Road, Katy, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-katy.json",
+   "address": {
+    "streetAddress": "430 South Mason Road",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7780846,
+    "lon": -95.7531653
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7166632734",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tracy-nails-and-spa-katy",
+   "name": "Tracy Nails & Spa",
+   "summary": "Tracy Nails & Spa is a nail salon in Katy, TX at 829 South Mason Road #236, Katy, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tracy-nails-and-spa-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tracy-nails-and-spa-katy.json",
+   "address": {
+    "streetAddress": "829 South Mason Road #236",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7707818,
+    "lon": -95.7501756
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10877048206",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-furniture-warehouse-katy",
+   "name": "American Furniture Warehouse",
+   "summary": "American Furniture Warehouse is a furniture store in Katy, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-furniture-warehouse-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-furniture-warehouse-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7802946,
+    "lon": -95.8181958
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1024124105",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "azora-nails-and-spa-katy",
+   "name": "Azora Nails & Spa",
+   "summary": "Azora Nails & Spa is a nail salon in Katy, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/azora-nails-and-spa-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/azora-nails-and-spa-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7614719,
+    "lon": -95.8414442
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5265842687",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "buc-ees-katy",
+   "name": "Buc-ee's",
+   "summary": "Buc-ee's is a car wash in Katy, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/buc-ees-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/buc-ees-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7790333,
+    "lon": -95.8460586
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/519683143",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cici-hair-salon-katy",
+   "name": "Cici Hair Salon",
+   "summary": "Cici Hair Salon is a hair salon in Katy, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cici-hair-salon-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cici-hair-salon-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.786991,
+    "lon": -95.8252808
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10231742772",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-katy",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Katy, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7614207,
+    "lon": -95.8414367
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5265842688",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-e-b-car-wash-katy",
+   "name": "H-E-B Car Wash",
+   "summary": "H-E-B Car Wash is a car wash in Katy, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-car-wash-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7745611,
+    "lon": -95.819844
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/308678335",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "helzberg-diamonds-katy",
+   "name": "Helzberg Diamonds",
+   "summary": "Helzberg Diamonds is a jewelry store in Katy, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-diamonds-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7747686,
+    "lon": -95.8096779
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13465139338",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hlavinka-s-general-store-katy",
+   "name": "Hlavinka’s General Store",
+   "summary": "Hlavinka’s General Store is a gift shop in Katy, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hlavinka-s-general-store-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hlavinka-s-general-store-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7795617,
+    "lon": -95.803664
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8944821585",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jared-vault-katy",
+   "name": "Jared Vault",
+   "summary": "Jared Vault is a jewelry store in Katy, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-vault-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-vault-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.774895,
+    "lon": -95.8088465
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13465139339",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "katy-star-dental-katy",
+   "name": "Katy Star Dental",
+   "summary": "Katy Star Dental is a dentist in Katy, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/katy-star-dental-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/katy-star-dental-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7641129,
+    "lon": -95.844028
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256216603",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "katy-wine-and-spirits-katy",
+   "name": "Katy Wine & Spirits",
+   "summary": "Katy Wine & Spirits is a liquor store in Katy, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/katy-wine-and-spirits-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/katy-wine-and-spirits-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7852481,
+    "lon": -95.8252642
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11833006863",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kolache-factory-katy",
+   "name": "Kolache Factory",
+   "summary": "Kolache Factory is a bakery in Katy, TX.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kolache-factory-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kolache-factory-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7760569,
+    "lon": -95.8329926
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6086145355",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mandala-reception-hall-katy",
+   "name": "Mandala Reception Hall",
+   "summary": "Mandala Reception Hall is an event venue in Katy, TX.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mandala-reception-hall-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mandala-reception-hall-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7871013,
+    "lon": -95.8252817
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10231742771",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-envy-katy",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Katy, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7638149,
+    "lon": -95.8435613
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256216605",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mastercuts-katy",
+   "name": "Mastercuts",
+   "summary": "Mastercuts is a hair salon in Katy, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mastercuts-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mastercuts-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7731625,
+    "lon": -95.8087961
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9453939622",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sh-salon-katy",
+   "name": "SH Salon",
+   "summary": "SH Salon is a nail salon in Katy, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sh-salon-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sh-salon-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7637381,
+    "lon": -95.843564
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256216606",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tender-touch-pedi-spa-and-nails-katy",
+   "name": "Tender Touch Pedi-Spa & Nails",
+   "summary": "Tender Touch Pedi-Spa & Nails is a hair salon in Katy, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tender-touch-pedi-spa-and-nails-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tender-touch-pedi-spa-and-nails-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7635565,
+    "lon": -95.8435667
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256216608",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-katy",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Katy, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7762994,
+    "lon": -95.8326945
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11941068805",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vision-source-katy",
+   "name": "Vision Source",
+   "summary": "Vision Source is an eye care practice in Katy, TX.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vision-source-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vision-source-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7615859,
+    "lon": -95.8414597
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5265842684",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vogue-cleaners-katy",
+   "name": "Vogue Cleaners",
+   "summary": "Vogue Cleaners is a dry cleaner in Katy, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vogue-cleaners-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vogue-cleaners-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.763603,
+    "lon": -95.8435667
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256216607",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "z-nails-katy",
+   "name": "Z Nails",
+   "summary": "Z Nails is a nail salon in Katy, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/z-nails-katy/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/z-nails-katy.json",
+   "address": {
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Katy",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7894004,
+    "lon": -95.8021785
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12654168074",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+Milwaukee Vet Clinic is a veterinarian in Milwaukee, WI at 107 E Seeboth St, Milwaukee, WI 53204. Phone: +14143108997.
+
+# Milwaukee Vet Clinic
+
+- Category: vet
+- Services: vet
+- Address: 107 E Seeboth St, Milwaukee, WI 53204
+- City: Milwaukee
+- State: WI
+- ZIP: 53204
+- Coordinates: 43.0302866, -87.9102354
+- Phone: +14143108997
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/milwaukee-vet-clinic-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/milwaukee-vet-clinic-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9641116117 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

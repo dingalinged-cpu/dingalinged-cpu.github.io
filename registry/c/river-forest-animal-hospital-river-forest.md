@@ -15,7 +15,7 @@ River Forest Animal Hospital is a veterinarian in River Forest, IL at 7515 Lake 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/river-forest-animal-hospital-river-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/river-forest-animal-hospital-river-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/477410959 (license ODbL-1.0); source data as of 2026-07-28

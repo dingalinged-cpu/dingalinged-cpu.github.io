@@ -15,7 +15,7 @@ Sparrow's Nest is a thrift store in Mundelein, IL at 357 Townline Road, Mundelei
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sparrows-nest-mundelein/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sparrows-nest-mundelein.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13621560401 (license ODbL-1.0); source data as of 2026-06-01

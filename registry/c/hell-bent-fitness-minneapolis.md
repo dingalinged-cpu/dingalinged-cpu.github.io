@@ -15,7 +15,7 @@ Hell Bent Fitness is a gym in Minneapolis, MN at 4803 Nicollet Avenue, Minneapol
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hell-bent-fitness-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hell-bent-fitness-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4885901032 (license ODbL-1.0); source data as of 2026-07-15

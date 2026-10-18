@@ -15,7 +15,7 @@ Design Within Reach is a furniture store in Chicago, IL at 1140 West Fulton Mark
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/design-within-reach-chicago-n11495856978/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/design-within-reach-chicago-n11495856978.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11495856978 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Fade City is a hair salon in Forest Park, IL at 7233 Roosevelt Road, Forest Park
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fade-city-forest-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fade-city-forest-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4213296491 (license ODbL-1.0); source data as of 2026-06-01

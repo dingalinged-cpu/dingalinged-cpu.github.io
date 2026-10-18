@@ -15,7 +15,7 @@ Apollo Tattoo Studio is a tattoo shop in Oak Lawn, IL at 9723 Southwest Highway 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/apollo-tattoo-studio-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/apollo-tattoo-studio-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12360643020 (license ODbL-1.0); source data as of 2026-06-01

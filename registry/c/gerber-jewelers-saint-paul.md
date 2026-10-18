@@ -15,7 +15,7 @@ Gerber Jewelers is a jewelry store in Saint Paul, MN at 945 Grand Avenue, Saint 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gerber-jewelers-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gerber-jewelers-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/332905552 (license ODbL-1.0); source data as of 2026-06-01

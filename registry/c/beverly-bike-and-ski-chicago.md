@@ -15,7 +15,7 @@ Beverly Bike & Ski is a bike shop in Chicago, IL at 9121 South Western Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/beverly-bike-and-ski-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/beverly-bike-and-ski-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209626076 (license ODbL-1.0); source data as of 2026-06-01

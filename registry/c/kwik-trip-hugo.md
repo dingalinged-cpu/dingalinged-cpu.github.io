@@ -15,7 +15,7 @@ Kwik Trip is a car wash in Hugo, MN. Website: https://www.kwiktrip.com/locator/s
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kwik-trip-hugo/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-hugo.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/485232802 (license ODbL-1.0); source data as of 2026-07-24

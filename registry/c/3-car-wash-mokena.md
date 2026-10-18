@@ -15,7 +15,7 @@ $3 Car Wash is a car wash in Mokena, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/3-car-wash-mokena/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/3-car-wash-mokena.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/437708669 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Ulta Beauty is a skin care studio in Eden Prairie, MN at 12591 Castlemoor Drive,
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ulta-beauty-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10597376678 (license ODbL-1.0); source data as of 2026-06-01

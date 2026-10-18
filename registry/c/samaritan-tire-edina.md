@@ -15,7 +15,7 @@ Samaritan Tire is a tire shop in Edina, MN at 3230 Southdale Circle, Edina, MN 5
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/samaritan-tire-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/samaritan-tire-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/51857593 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Roseville Eye Associates is an eye care practice in Roseville, MN at 1790 Lexing
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/roseville-eye-associates-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/roseville-eye-associates-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7920517909 (license ODbL-1.0); source data as of 2026-06-01

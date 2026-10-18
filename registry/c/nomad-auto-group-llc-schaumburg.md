@@ -15,7 +15,7 @@ Nomad Auto Group LLC is an auto repair shop in Schaumburg, IL at 617 West Wise R
 - Opening hours (OSM syntax): Su 10:00-15:00, Mo-Sa 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nomad-auto-group-llc-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nomad-auto-group-llc-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13819161853 (license ODbL-1.0); source data as of 2026-06-01

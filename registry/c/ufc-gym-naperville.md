@@ -15,7 +15,7 @@ UFC Gym is a gym in Naperville, IL at 790 Royal Saint George Drive #139A, Naperv
 - Opening hours (OSM syntax): Mo, We 07:00-20:00; Tu, Th 06:00-18:00; Fr 08:00-20:00; Sa-Su 08:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ufc-gym-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ufc-gym-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8849453860 (license ODbL-1.0); source data as of 2026-06-01

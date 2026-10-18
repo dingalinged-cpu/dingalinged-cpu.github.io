@@ -15,7 +15,7 @@ The Lock Up is a self-storage facility in Chicago, IL at 350 West Kinzie Street,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-lock-up-chicago-w153561244/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-lock-up-chicago-w153561244.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/153561244 (license ODbL-1.0); source data as of 2026-06-01

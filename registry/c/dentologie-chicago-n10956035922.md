@@ -15,7 +15,7 @@ Dentologie is a dentist in Chicago, IL at 617 West Diversey Parkway, Chicago, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dentologie-chicago-n10956035922/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dentologie-chicago-n10956035922.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10956035922 (license ODbL-1.0); source data as of 2026-07-28

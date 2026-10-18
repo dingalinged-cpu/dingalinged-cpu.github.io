@@ -15,7 +15,7 @@ Saint Elizabeth Headstart is a preschool in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/saint-elizabeth-headstart-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/saint-elizabeth-headstart-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/354244322 (license ODbL-1.0); source data as of 2026-07-28

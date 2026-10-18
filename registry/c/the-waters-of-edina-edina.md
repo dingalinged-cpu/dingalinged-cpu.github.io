@@ -15,7 +15,7 @@ The Waters of Edina is an assisted living facility in Edina, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-waters-of-edina-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-waters-of-edina-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1328202876 (license ODbL-1.0); source data as of 2026-07-24

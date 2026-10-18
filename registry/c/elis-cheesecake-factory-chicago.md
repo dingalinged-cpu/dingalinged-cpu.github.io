@@ -15,7 +15,7 @@ Eli's Cheesecake Factory is a bakery in Chicago, IL at 6701 West Forest Preserve
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elis-cheesecake-factory-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elis-cheesecake-factory-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/151319602 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ O'Boys Plumbing, Furnace & AC Repair is a HVAC contractor in Minneapolis, MN at 
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oboys-plumbing-furnace-and-ac-repair-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oboys-plumbing-furnace-and-ac-repair-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13537444289 (license ODbL-1.0); source data as of 2026-07-24

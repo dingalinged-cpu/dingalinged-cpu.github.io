@@ -15,7 +15,7 @@ U-Haul is a self-storage facility in Chicago, IL at 500 West Cermak Road, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/u-haul-chicago-w210224149/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-haul-chicago-w210224149.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210224149 (license ODbL-1.0); source data as of 2026-06-01

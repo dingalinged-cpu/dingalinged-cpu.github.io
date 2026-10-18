@@ -15,7 +15,7 @@ B-Squad Vintage is a thrift store in Minneapolis, MN at 3500 Nicollet Avenue Sou
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/b-squad-vintage-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/b-squad-vintage-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3532168497 (license ODbL-1.0); source data as of 2026-06-01

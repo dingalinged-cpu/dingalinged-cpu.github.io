@@ -1,0 +1,23 @@
+Ulta Beauty is a skin care studio in Houston, TX at 3025 Kirby Drive, Houston, TX 77098. Phone: +17138077959. Website: https://www.ulta.com/stores/houston-tx-618.
+
+# Ulta Beauty
+
+- Category: facial
+- Services: facial
+- Address: 3025 Kirby Drive, Houston, TX 77098
+- City: Houston
+- State: TX
+- ZIP: 77098
+- Coordinates: 29.7378819, -95.4179772
+- Phone: +17138077959
+- Website: https://www.ulta.com/stores/houston-tx-618
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ulta-beauty-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3518304695 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

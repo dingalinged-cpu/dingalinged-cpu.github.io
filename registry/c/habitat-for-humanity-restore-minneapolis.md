@@ -15,7 +15,7 @@ Habitat for Humanity ReStore is a thrift store in Minneapolis, MN. Phone: +16125
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 10:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/habitat-for-humanity-restore-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12162335487 (license ODbL-1.0); source data as of 2026-06-01

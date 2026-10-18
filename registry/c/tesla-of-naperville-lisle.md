@@ -15,7 +15,7 @@ Tesla of Naperville is an used car dealer in Lisle, IL at 3200 East Ogden Avenue
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tesla-of-naperville-lisle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tesla-of-naperville-lisle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/440039026 (license ODbL-1.0); source data as of 2026-06-01

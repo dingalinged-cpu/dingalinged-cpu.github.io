@@ -1,0 +1,23 @@
+Farmers Insurance - Willard Mays is an insurance agent in Katy, TX at 2020 Katy Hockley Cut Off Road ##B, Katy, TX 77493. Phone: +12812312280. Website: https://agents.farmers.com/tx/katy/willard-mays.
+
+# Farmers Insurance - Willard Mays
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 2020 Katy Hockley Cut Off Road ##B, Katy, TX 77493
+- City: Katy
+- State: TX
+- ZIP: 77493
+- Coordinates: 29.8022968, -95.8085573
+- Phone: +12812312280
+- Website: https://agents.farmers.com/tx/katy/willard-mays
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/farmers-insurance-willard-mays-katy/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-willard-mays-katy.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6297472008 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

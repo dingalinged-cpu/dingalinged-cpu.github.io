@@ -1,0 +1,23 @@
+Ashley HomeStore is a furniture store in Plano, TX at 1201 North Central Expressway, Plano, TX 75075. Phone: +19725092560. Website: https://stores.ashleyfurniture.com/store/us/texas/plano/7710000436/.
+
+# Ashley HomeStore
+
+- Category: furniture store
+- Services: furniture store
+- Address: 1201 North Central Expressway, Plano, TX 75075
+- City: Plano
+- State: TX
+- ZIP: 75075
+- Coordinates: 33.0177992, -96.7105981
+- Phone: +19725092560
+- Website: https://stores.ashleyfurniture.com/store/us/texas/plano/7710000436/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ashley-homestore-plano/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-plano.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9239599514 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Toni's Liquors is a liquor store in Skokie, IL at 4033 Old Orchard Road, Skokie,
 - Opening hours (OSM syntax): Mo-Th 10:00-21:00,Fr,Sa 10:00-22:00,Su 11:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tonis-liquors-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tonis-liquors-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/400922301 (license ODbL-1.0); source data as of 2026-06-01

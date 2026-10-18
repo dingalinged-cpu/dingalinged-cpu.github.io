@@ -15,7 +15,7 @@ White Glove Car Wash is a car wash in Chicago, IL at 1415 West Shakespeare Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/white-glove-car-wash-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/white-glove-car-wash-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12075844624 (license ODbL-1.0); source data as of 2026-07-28

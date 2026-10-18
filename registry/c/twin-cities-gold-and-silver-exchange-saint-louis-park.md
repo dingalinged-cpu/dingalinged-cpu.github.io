@@ -15,7 +15,7 @@ Twin Cities Gold & Silver Exchange is a jewelry store in Saint Louis Park, MN at
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:30; Sa 10:00-14:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/twin-cities-gold-and-silver-exchange-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/twin-cities-gold-and-silver-exchange-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6566621919 (license ODbL-1.0); source data as of 2026-06-01

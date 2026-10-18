@@ -15,7 +15,7 @@ Smile Design Studio Of Hyde Park LLC is a dentist in Chicago, IL at 1525 East 53
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/smile-design-studio-of-hyde-park-llc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/smile-design-studio-of-hyde-park-llc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13070996628 (license ODbL-1.0); source data as of 2026-07-28

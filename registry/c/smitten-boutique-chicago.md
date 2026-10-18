@@ -15,7 +15,7 @@ Smitten Boutique is a gift shop in Chicago, IL at 1047 West Madison Street, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/smitten-boutique-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/smitten-boutique-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12639514925 (license ODbL-1.0); source data as of 2026-06-01

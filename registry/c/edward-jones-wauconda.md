@@ -15,7 +15,7 @@ Edward Jones is a financial advisor in Wauconda, IL at 121 North Main Street, Wa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-jones-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/445243993 (license ODbL-1.0); source data as of 2026-07-28

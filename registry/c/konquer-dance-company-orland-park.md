@@ -15,7 +15,7 @@ Konquer Dance Company is a dance studio in Orland Park, IL at 8600 West 159th St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/konquer-dance-company-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/konquer-dance-company-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10309976608 (license ODbL-1.0); source data as of 2026-06-01

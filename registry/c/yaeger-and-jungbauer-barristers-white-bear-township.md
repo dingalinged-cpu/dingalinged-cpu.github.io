@@ -15,7 +15,7 @@ Yaeger & Jungbauer Barristers is a lawyer in White Bear Township, MN at 4601 Wes
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/yaeger-and-jungbauer-barristers-white-bear-township/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/yaeger-and-jungbauer-barristers-white-bear-township.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1085713643 (license ODbL-1.0); source data as of 2026-05-31

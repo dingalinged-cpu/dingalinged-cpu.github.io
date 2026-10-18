@@ -15,7 +15,7 @@ Perillo BMW is an used car dealer in Chicago, IL at 1035 North Clark Street, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/perillo-bmw-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/perillo-bmw-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210679204 (license ODbL-1.0); source data as of 2026-06-01

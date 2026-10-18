@@ -15,7 +15,7 @@ SafePol is an insurance agent in Harwood Heights, IL at 4738 North Harlem Avenue
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00, Sa 10:00-15:00, "By Appointment Only"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/safepol-harwood-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/safepol-harwood-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10776052451 (license ODbL-1.0); source data as of 2026-07-28

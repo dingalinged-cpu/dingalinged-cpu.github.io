@@ -15,7 +15,7 @@ Studio 24 Custom Fittness is a gym in Minneapolis, MN at 2414 Hennepin Avenue So
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/studio-24-custom-fittness-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/studio-24-custom-fittness-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/88444149 (license ODbL-1.0); source data as of 2026-07-15

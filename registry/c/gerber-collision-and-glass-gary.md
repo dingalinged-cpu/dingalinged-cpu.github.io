@@ -15,7 +15,7 @@ Gerber Collision & Glass is an auto repair shop in Gary, IN at 3790 Grant Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10787255570 (license ODbL-1.0); source data as of 2026-06-01

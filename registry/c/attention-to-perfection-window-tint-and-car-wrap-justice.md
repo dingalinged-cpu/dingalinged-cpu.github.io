@@ -15,7 +15,7 @@ Attention To Perfection Window Tint & Car Wrap is an auto repair shop in Justice
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/attention-to-perfection-window-tint-and-car-wrap-justice/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/attention-to-perfection-window-tint-and-car-wrap-justice.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13439601214 (license ODbL-1.0); source data as of 2026-06-01

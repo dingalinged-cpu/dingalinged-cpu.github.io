@@ -15,7 +15,7 @@ Bucktown Food & Liquor is a liquor store in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bucktown-food-and-liquor-chicago-n3572612794/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bucktown-food-and-liquor-chicago-n3572612794.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3572612794 (license ODbL-1.0); source data as of 2026-06-01

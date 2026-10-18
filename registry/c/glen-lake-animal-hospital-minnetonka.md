@@ -15,7 +15,7 @@ Glen Lake Animal Hospital is a veterinarian in Minnetonka, MN at 14805 Excelsior
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/glen-lake-animal-hospital-minnetonka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/glen-lake-animal-hospital-minnetonka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13714742437 (license ODbL-1.0); source data as of 2026-07-24

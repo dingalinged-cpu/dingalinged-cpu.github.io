@@ -15,7 +15,7 @@ Golden Shoes is a shoe repair in Palos Heights, IL at 12212 S Harlem Ave, Palos 
 - Opening hours (OSM syntax): Mo, Th 9:30-20:00, Tu, We, Fr 9:30-18:00, Sa 9:00-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/golden-shoes-palos-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/golden-shoes-palos-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9679053212 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Foreign and Domestic Auto Body of Evanston is an auto repair shop in Evanston, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/foreign-and-domestic-auto-body-of-evanston-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/foreign-and-domestic-auto-body-of-evanston-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/745477149 (license ODbL-1.0); source data as of 2026-06-01

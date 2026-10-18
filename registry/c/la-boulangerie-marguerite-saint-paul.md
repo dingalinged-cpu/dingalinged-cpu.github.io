@@ -15,7 +15,7 @@ La Boulangerie Marguerite is a bakery in Saint Paul, MN at 1279 Randolph Avenue,
 - Opening hours (OSM syntax): Mo 06:00-12:00; Tu-Sa 06:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-boulangerie-marguerite-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-boulangerie-marguerite-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6616544140 (license ODbL-1.0); source data as of 2026-06-01

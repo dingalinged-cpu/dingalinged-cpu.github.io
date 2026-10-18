@@ -1,0 +1,23 @@
+U-Haul is a self-storage facility in Grapevine, TX at 3501 William D Tate Avenue, Grapevine, TX 76051.
+
+# U-Haul
+
+- Category: storage units
+- Services: storage units
+- Address: 3501 William D Tate Avenue, Grapevine, TX 76051
+- City: Grapevine
+- State: TX
+- ZIP: 76051
+- Coordinates: 32.9002178, -97.0978513
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/u-haul-grapevine/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-haul-grapevine.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/660017142 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

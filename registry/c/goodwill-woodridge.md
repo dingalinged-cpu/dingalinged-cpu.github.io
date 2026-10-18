@@ -15,7 +15,7 @@ Goodwill is a thrift store in Woodridge, IL at 8615 Woodward Avenue, Woodridge, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-woodridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-woodridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/311857392 (license ODbL-1.0); source data as of 2026-06-01

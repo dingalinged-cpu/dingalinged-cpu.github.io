@@ -15,7 +15,7 @@ Grand Avenue Veterinary Center is a veterinarian in Saint Paul, MN at 1140 Grand
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/grand-avenue-veterinary-center-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/grand-avenue-veterinary-center-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/79236575 (license ODbL-1.0); source data as of 2026-07-24

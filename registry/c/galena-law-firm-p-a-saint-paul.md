@@ -15,7 +15,7 @@ Galena Law Firm, P.A. is a lawyer in Saint Paul, MN at 4886 North Highway 61, Sa
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/galena-law-firm-p-a-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/galena-law-firm-p-a-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6292782920 (license ODbL-1.0); source data as of 2026-05-31

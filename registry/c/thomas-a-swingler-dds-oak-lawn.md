@@ -15,7 +15,7 @@ Thomas A. Swingler DDS is a dentist in Oak Lawn, IL at 4600 103rd Street, Oak La
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/thomas-a-swingler-dds-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/thomas-a-swingler-dds-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4684984700 (license ODbL-1.0); source data as of 2026-07-28

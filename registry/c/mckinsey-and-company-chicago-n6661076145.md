@@ -15,7 +15,7 @@ McKinsey & Company is a business consultant in Chicago, IL at 300 East Randolph 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mckinsey-and-company-chicago-n6661076145/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mckinsey-and-company-chicago-n6661076145.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6661076145 (license ODbL-1.0); source data as of 2026-07-28

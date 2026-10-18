@@ -15,7 +15,7 @@ Roscich & Martel Law Firm is a lawyer in Naperville, IL at 214 1/2 South Washing
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/roscich-and-martel-law-firm-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/roscich-and-martel-law-firm-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9178970096 (license ODbL-1.0); source data as of 2026-07-28

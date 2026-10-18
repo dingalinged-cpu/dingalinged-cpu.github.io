@@ -15,7 +15,7 @@ Salon Sparrow is a hair salon in Minneapolis, MN at 3306 West 44th Street, Minne
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/salon-sparrow-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/salon-sparrow-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12171075660 (license ODbL-1.0); source data as of 2026-06-01

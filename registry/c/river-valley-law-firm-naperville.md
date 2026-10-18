@@ -15,7 +15,7 @@ River Valley Law Firm is a lawyer in Naperville, IL at 101 North Washington Stre
 - Opening hours (OSM syntax): Mo-Fr 08:30-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/river-valley-law-firm-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/river-valley-law-firm-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8893105806 (license ODbL-1.0); source data as of 2026-07-28

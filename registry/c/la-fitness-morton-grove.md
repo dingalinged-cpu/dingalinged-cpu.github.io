@@ -15,7 +15,7 @@ LA Fitness is a gym in Morton Grove, IL at 6821 West Dempster Street, Morton Gro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-morton-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-morton-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1275422041 (license ODbL-1.0); source data as of 2026-06-01

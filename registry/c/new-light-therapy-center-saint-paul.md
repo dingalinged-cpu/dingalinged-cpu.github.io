@@ -15,7 +15,7 @@ New Light Therapy Center is an acupuncture clinic in Saint Paul, MN at 2375 Univ
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-light-therapy-center-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-light-therapy-center-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7147781053 (license ODbL-1.0); source data as of 2026-06-01

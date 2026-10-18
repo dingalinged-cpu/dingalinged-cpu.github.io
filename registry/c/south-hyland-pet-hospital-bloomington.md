@@ -15,7 +15,7 @@ South Hyland Pet Hospital is a veterinarian in Bloomington, MN at 5400 West Old 
 - Opening hours (OSM syntax): Su off; Mo-Fr 07:30-18:00; Sa 08:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/south-hyland-pet-hospital-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/south-hyland-pet-hospital-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13717650937 (license ODbL-1.0); source data as of 2026-07-24

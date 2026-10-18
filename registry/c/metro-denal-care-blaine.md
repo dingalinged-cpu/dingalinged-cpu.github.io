@@ -15,7 +15,7 @@ Metro Denal Care is a dentist in Blaine, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/metro-denal-care-blaine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/metro-denal-care-blaine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6453441261 (license ODbL-1.0); source data as of 2026-07-24

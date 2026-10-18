@@ -15,7 +15,7 @@ Glenview Montessori School is a preschool in Northfield, IL at 305 Waukegan Road
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/glenview-montessori-school-northfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/glenview-montessori-school-northfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1314976314 (license ODbL-1.0); source data as of 2026-07-28

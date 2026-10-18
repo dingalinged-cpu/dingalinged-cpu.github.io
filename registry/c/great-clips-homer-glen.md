@@ -15,7 +15,7 @@ Great Clips is a hair salon in Homer Glen, IL at 14230 South Bell Road, Homer Gl
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00, Sa 08:00-17:00, Su 10:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6901533428 (license ODbL-1.0); source data as of 2026-06-01

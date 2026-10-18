@@ -1,0 +1,23 @@
+FedEx Office is a printing service in Addison, TX at 4568 Belt Line Road, Addison, TX 75001. Phone: +19729609449. Website: https://local.fedex.com/tx/addison/office-3112/.
+
+# FedEx Office
+
+- Category: printing services
+- Services: printing services
+- Address: 4568 Belt Line Road, Addison, TX 75001
+- City: Addison
+- State: TX
+- ZIP: 75001
+- Coordinates: 32.9534657, -96.8329158
+- Phone: +19729609449
+- Website: https://local.fedex.com/tx/addison/office-3112/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-23:00; Sa-Su 09:00-21:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/fedex-office-addison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-addison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/209291293 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

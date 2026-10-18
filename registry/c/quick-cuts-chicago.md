@@ -15,7 +15,7 @@ Quick-Cuts is a hair salon in Chicago, IL at 4931 North Milwaukee Avenue, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/quick-cuts-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/quick-cuts-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4172392104 (license ODbL-1.0); source data as of 2026-06-01

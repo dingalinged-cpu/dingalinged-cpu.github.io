@@ -15,7 +15,7 @@ Apple Exteriors is a roofer in New Brighton, MN at 151 Silver Lake Road Northwes
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/apple-exteriors-new-brighton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/apple-exteriors-new-brighton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12947628737 (license ODbL-1.0); source data as of 2026-07-24

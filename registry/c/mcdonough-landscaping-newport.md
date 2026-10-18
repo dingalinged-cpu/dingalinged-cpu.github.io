@@ -15,7 +15,7 @@ McDonough Landscaping is a landscaping company in Newport, MN at 1340 Military R
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mcdonough-landscaping-newport/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mcdonough-landscaping-newport.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/979825165 (license ODbL-1.0); source data as of 2026-07-24

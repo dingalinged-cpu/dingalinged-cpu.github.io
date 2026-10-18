@@ -15,7 +15,7 @@ Marc'D Up Tattoo & Piercing Studio is a tattoo shop in Bridgeview, IL at 8520 Ha
 - Opening hours (OSM syntax): Th-Tu 14:00-22:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/marcd-up-tattoo-and-piercing-studio-bridgeview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/marcd-up-tattoo-and-piercing-studio-bridgeview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12360588631 (license ODbL-1.0); source data as of 2026-06-01

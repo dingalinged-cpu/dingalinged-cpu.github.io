@@ -15,7 +15,7 @@ Lane Dental of Carol Stream is a dentist in Carol Stream, IL at 940 Army Trail R
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lane-dental-of-carol-stream-carol-stream/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lane-dental-of-carol-stream-carol-stream.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13078189962 (license ODbL-1.0); source data as of 2026-07-28

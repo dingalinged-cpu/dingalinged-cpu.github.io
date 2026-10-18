@@ -15,7 +15,7 @@ Chiro One Wellness Center is a chiropractor in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chiro-one-wellness-center-chicago-n12434611018/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chiro-one-wellness-center-chicago-n12434611018.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12434611018 (license ODbL-1.0); source data as of 2026-07-28

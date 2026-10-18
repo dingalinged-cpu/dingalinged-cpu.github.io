@@ -15,7 +15,7 @@ Northwest Chicago Dental is a dentist in Chicago, IL at 5408 North Milwaukee Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northwest-chicago-dental-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northwest-chicago-dental-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163221417 (license ODbL-1.0); source data as of 2026-07-28

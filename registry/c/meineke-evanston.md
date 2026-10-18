@@ -15,7 +15,7 @@ Meineke is an auto repair shop in Evanston, IL at 1975 Green Bay Road, Evanston,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/meineke-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/meineke-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/173484284 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Saint Nicholas School of the Arts is a music school in Chicago, IL at 2200 West 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/saint-nicholas-school-of-the-arts-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/saint-nicholas-school-of-the-arts-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9544479346 (license ODbL-1.0); source data as of 2026-07-28

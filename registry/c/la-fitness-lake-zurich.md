@@ -15,7 +15,7 @@ LA Fitness is a gym in Lake Zurich, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-lake-zurich/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-lake-zurich.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/447973831 (license ODbL-1.0); source data as of 2026-06-01

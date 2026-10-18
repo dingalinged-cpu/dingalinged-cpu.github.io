@@ -15,7 +15,7 @@ Silver Auto is an used car dealer in Frankfort, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/silver-auto-frankfort/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/silver-auto-frankfort.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1053358250 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ GVM Food Marketing is a marketing agency in Golden Valley, MN at 5101 Olson Memo
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gvm-food-marketing-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gvm-food-marketing-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11124443907 (license ODbL-1.0); source data as of 2026-05-31

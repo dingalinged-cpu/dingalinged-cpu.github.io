@@ -15,7 +15,7 @@ La Central Bakery is a bakery in East Chicago, IN at 4726 Indianapolis Boulevard
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-central-bakery-east-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-central-bakery-east-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6319978967 (license ODbL-1.0); source data as of 2026-06-01

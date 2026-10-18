@@ -1,0 +1,23 @@
+Bless Web Designs is an IT support company in Dallas, TX at 3232 McKinney Avenue #500, Dallas, TX. Phone: +12143966276. Website: https://blesswebdesigns.com/.
+
+# Bless Web Designs
+
+- Category: it support
+- Services: it support
+- Address: 3232 McKinney Avenue #500, Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.8034126, -96.7988877
+- Phone: +12143966276
+- Website: https://blesswebdesigns.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bless-web-designs-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bless-web-designs-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11831835331 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

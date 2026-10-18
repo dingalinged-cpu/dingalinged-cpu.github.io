@@ -15,7 +15,7 @@ Serbian Social Center is an event venue in Lansing, IL at 18550 Stony Island Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/serbian-social-center-lansing/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/serbian-social-center-lansing.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1149003677 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Melrose Place is an event venue in Whiting, IN at 1548 119th Street #100, Whitin
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/melrose-place-whiting/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/melrose-place-whiting.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1232448662 (license ODbL-1.0); source data as of 2026-07-28

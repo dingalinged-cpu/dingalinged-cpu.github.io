@@ -15,7 +15,7 @@ Bentley's Pet Stuff is a pet store in Chicago, IL at 3657 North Southport Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bentleys-pet-stuff-chicago-n8704132331/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bentleys-pet-stuff-chicago-n8704132331.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8704132331 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Buddy Bear Car Wash is a car wash in Chicago, IL at 8644 South Kedzie Avenue, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/buddy-bear-car-wash-chicago-w1465661552/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/buddy-bear-car-wash-chicago-w1465661552.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1465661552 (license ODbL-1.0); source data as of 2026-07-28

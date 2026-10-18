@@ -15,7 +15,7 @@ Nail'd It Salon & Spa is a nail salon in Niles, IL at 7169, Niles, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/naild-it-salon-and-spa-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/naild-it-salon-and-spa-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1500304415 (license ODbL-1.0); source data as of 2026-06-01

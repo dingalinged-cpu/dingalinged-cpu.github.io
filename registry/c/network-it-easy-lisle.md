@@ -15,7 +15,7 @@ Network IT Easy is an IT support company in Lisle, IL. Phone: +16304354000. Webs
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/network-it-easy-lisle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/network-it-easy-lisle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9039056441 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Cornelia V Tandez, MD is a pediatrician in Arlington Heights, IL at 637 East Gol
 - Opening hours (OSM syntax): Mo, Sa 08:00-12:30; We, Fr 12:30-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cornelia-v-tandez-md-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cornelia-v-tandez-md-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11149483819 (license ODbL-1.0); source data as of 2026-07-28

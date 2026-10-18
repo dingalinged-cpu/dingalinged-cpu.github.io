@@ -15,7 +15,7 @@ Speedy Wash is a car wash in East Chicago, IN at 3956 Guthrie Street, East Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/speedy-wash-east-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-east-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/991003724 (license ODbL-1.0); source data as of 2026-07-28

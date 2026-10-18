@@ -15,7 +15,7 @@ Way Dental is a dentist in Evanston, IL at 2424 Main Street, Evanston, IL 60202.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/way-dental-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/way-dental-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2294252624 (license ODbL-1.0); source data as of 2026-07-28

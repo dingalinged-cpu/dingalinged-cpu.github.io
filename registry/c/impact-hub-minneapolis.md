@@ -15,7 +15,7 @@ Impact Hub is a coworking space in Minneapolis, MN at 825 Southeast Washington A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/impact-hub-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/impact-hub-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6410412074 (license ODbL-1.0); source data as of 2026-05-31

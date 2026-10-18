@@ -15,7 +15,7 @@ Extra Space Storage is a self-storage facility in Chicago, IL at 5860 North Pula
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-chicago-w162474321/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-chicago-w162474321.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162474321 (license ODbL-1.0); source data as of 2026-06-01

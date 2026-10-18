@@ -1,0 +1,23 @@
+North Beach Storage is a self-storage facility in Racine, WI at 212 Hamilton Street, Racine, WI.
+
+# North Beach Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 212 Hamilton Street, Racine, WI
+- City: Racine
+- State: WI
+- ZIP: n/a
+- Coordinates: 42.7359559, -87.7831758
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/north-beach-storage-racine/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-beach-storage-racine.json
+- Source: OpenStreetMap https://www.openstreetmap.org/relation/7095756 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

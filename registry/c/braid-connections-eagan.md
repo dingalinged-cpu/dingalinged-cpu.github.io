@@ -15,7 +15,7 @@ Braid Connections is a hair salon in Eagan, MN at 1468A, Eagan, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/braid-connections-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/braid-connections-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12134351509 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Fred Astaire Franchised Dance Studios is a dance studio in Hoffman Estates, IL a
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fred-astaire-franchised-dance-studios-hoffman-estates/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fred-astaire-franchised-dance-studios-hoffman-estates.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1319298252 (license ODbL-1.0); source data as of 2026-07-28

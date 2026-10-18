@@ -15,7 +15,7 @@ West Loop Wine & Spirits is a liquor store in Chicago, IL at 1140-1142 West Gran
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/west-loop-wine-and-spirits-chicago-n13851171746/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/west-loop-wine-and-spirits-chicago-n13851171746.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13851171746 (license ODbL-1.0); source data as of 2026-06-01

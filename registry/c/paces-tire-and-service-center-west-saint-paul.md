@@ -15,7 +15,7 @@ Pace's Tire & Service Center is an auto repair shop in West Saint Paul, MN at 12
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/paces-tire-and-service-center-west-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/paces-tire-and-service-center-west-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/527077653 (license ODbL-1.0); source data as of 2026-06-01

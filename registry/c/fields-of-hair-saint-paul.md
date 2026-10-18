@@ -15,7 +15,7 @@ Fields of Hair is a hair salon in Saint Paul, MN at 1337 Minnehaha Avenue West, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fields-of-hair-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fields-of-hair-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13807567345 (license ODbL-1.0); source data as of 2026-06-01

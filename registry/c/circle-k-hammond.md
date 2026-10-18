@@ -15,7 +15,7 @@ Circle K is a car wash in Hammond, IN at 260 165th Street, Hammond, IN 46324.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/circle-k-hammond/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/circle-k-hammond.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1346055830 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Eagan Family Dentistry is a dentist in Eagan, MN at 4178 Knob Drive, Eagan, MN 5
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/eagan-family-dentistry-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/eagan-family-dentistry-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/528914212 (license ODbL-1.0); source data as of 2026-07-24

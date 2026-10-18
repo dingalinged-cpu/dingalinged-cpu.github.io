@@ -15,7 +15,7 @@ Ogden Avenue Car Care and Transmissions is an auto repair shop in Brookfield, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ogden-avenue-car-care-and-transmissions-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ogden-avenue-car-care-and-transmissions-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9499927332 (license ODbL-1.0); source data as of 2026-06-01

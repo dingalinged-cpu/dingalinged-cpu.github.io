@@ -15,7 +15,7 @@ Public Storage is a self-storage facility in Chicago Heights, IL at 1505 Western
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-chicago-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-chicago-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/relation/20631338 (license ODbL-1.0); source data as of 2026-06-01

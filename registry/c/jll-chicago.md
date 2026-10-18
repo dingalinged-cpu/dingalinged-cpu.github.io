@@ -15,7 +15,7 @@ JLL is a real estate agency in Chicago, IL at 8755 West Higgins Road, Chicago, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jll-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jll-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9946613092 (license ODbL-1.0); source data as of 2026-07-28

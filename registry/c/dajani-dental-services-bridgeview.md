@@ -15,7 +15,7 @@ Dajani Dental Services is a dentist in Bridgeview, IL at 8550 South Harlem Avenu
 - Opening hours (OSM syntax): We, Sa-Su CLOSED, Mo & Fr 09:00-17:00, Tu & Th 09:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dajani-dental-services-bridgeview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dajani-dental-services-bridgeview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13378853238 (license ODbL-1.0); source data as of 2026-07-28

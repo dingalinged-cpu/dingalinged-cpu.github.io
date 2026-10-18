@@ -15,7 +15,7 @@ Speedy Wash is a car wash in Long Lake, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/speedy-wash-long-lake/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-long-lake.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4810648225 (license ODbL-1.0); source data as of 2026-07-24

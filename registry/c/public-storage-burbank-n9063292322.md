@@ -15,7 +15,7 @@ Public Storage is a self-storage facility in Burbank, IL at 6990 79th Street, Bu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-burbank-n9063292322/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-burbank-n9063292322.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9063292322 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Total Wine is a liquor store in Denton, TX at 1800 South Loop 288 #370, Denton, TX 76205. Phone: +19404849540. Website: https://www.totalwine.com/store-info/511.
+
+# Total Wine
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1800 South Loop 288 #370, Denton, TX 76205
+- City: Denton
+- State: TX
+- ZIP: 76205
+- Coordinates: 33.1927815, -97.1000124
+- Phone: +19404849540
+- Website: https://www.totalwine.com/store-info/511
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/total-wine-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/total-wine-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/675281915 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

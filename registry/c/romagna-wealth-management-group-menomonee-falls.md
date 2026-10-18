@@ -1,0 +1,23 @@
+Romagna Wealth Management Group is a financial advisor in Menomonee Falls, WI at N88W16447 Main Street #400, Menomonee Falls, WI 53051.
+
+# Romagna Wealth Management Group
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: N88W16447 Main Street #400, Menomonee Falls, WI 53051
+- City: Menomonee Falls
+- State: WI
+- ZIP: 53051
+- Coordinates: 43.1791647, -88.1137945
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/romagna-wealth-management-group-menomonee-falls/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/romagna-wealth-management-group-menomonee-falls.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13049348356 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

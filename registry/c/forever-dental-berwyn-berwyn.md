@@ -15,7 +15,7 @@ Forever Dental - Berwyn is a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berw
 - Opening hours (OSM syntax): Mo 08:00-16:00; Tu 10:00-19:00; Th-Fr 07:00-15:00 PM; We, Sa, Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/forever-dental-berwyn-berwyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/forever-dental-berwyn-berwyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13301760946 (license ODbL-1.0); source data as of 2026-07-28

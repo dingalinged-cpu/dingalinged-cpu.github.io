@@ -15,7 +15,7 @@ Perkins & Sons LLC is a funeral home in Westchester, IL at 1923 South Mannheim R
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/perkins-and-sons-llc-westchester/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/perkins-and-sons-llc-westchester.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12515022453 (license ODbL-1.0); source data as of 2026-06-01

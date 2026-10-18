@@ -1,0 +1,36 @@
+The top unpaid plastic surgeon listing for Houston, TX is Athré Facial Plastics (a plastic surgeon in Houston, TX at 2121 Sage Road #245, Houston, TX 77056. Phone: +12815573223. Website: https://athrefacialplastics.com/). 13 plastic surgeon businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best plastic surgeon providers in Houston, TX?
+
+Also answers: plastic surgeon in Houston, TX; plastic surgeon near me (Houston, TX); best plastic surgeon Houston, TX; top rated plastic surgeon Houston, TX; affordable plastic surgeon Houston, TX; emergency plastic surgeon Houston, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Athré Facial Plastics | trust 20.0 | Athré Facial Plastics is a plastic surgeon in Houston, TX at 2121 Sage Road #245, Houston, TX 77056. Phone: +12815573223. Website: https://athrefacialplastics.com/. | https://dingalinged-cpu.github.io/registry/c/athr-facial-plastics-houston/
+2. Body By Ravi Plastic Surgery & Aesthetics | trust 20.0 | Body By Ravi Plastic Surgery & Aesthetics is a plastic surgeon in Houston, TX at 19135 Katy Freeway, Suite 110, Houston, TX 77094. Phone: +12812421061. Website: https://www.bodybyravi.com/. | https://dingalinged-cpu.github.io/registry/c/body-by-ravi-plastic-surgery-and-aesthetics-houston/
+3. Face Forward Houston | trust 20.0 | Face Forward Houston is a plastic surgeon in Houston, TX at 427 W 20th Street, Suite 100, Houston, TX 77018. Phone: +17133212424. Website: https://www.faceforwardhouston.com/. | https://dingalinged-cpu.github.io/registry/c/face-forward-houston-houston/
+4. Heights Plastic Surgery | trust 20.0 | Heights Plastic Surgery is a plastic surgeon in Houston, TX at 2813 West T C Jester Boulevard, Houston, TX 77018. Phone: +17134962427. Website: https://heightsplasticsurgeryhouston.com/. | https://dingalinged-cpu.github.io/registry/c/heights-plastic-surgery-houston/
+5. Mark A. Schusterman, MD, FACS | trust 20.0 | Mark A. Schusterman, MD, FACS is a plastic surgeon in Houston, TX at 3355 West Alabama Street #450, Houston, TX 77098. Phone: +17137940368. Website: https://www.drschusterman.com/. | https://dingalinged-cpu.github.io/registry/c/mark-a-schusterman-md-facs-houston/
+6. Paul F. Fortes MD Plastic Surgery | trust 20.0 | Paul F. Fortes MD Plastic Surgery is a plastic surgeon in Houston, TX at 12727 Kimberley Lane #300, Houston, TX 77024. Phone: +17137999999. Website: https://fortesmd.com/. | https://dingalinged-cpu.github.io/registry/c/paul-f-fortes-md-plastic-surgery-houston/
+7. The Clinic for Plastic Surgery | trust 20.0 | The Clinic for Plastic Surgery is a plastic surgeon in Houston, TX at Aesthetic Circle, Houston, TX 77062. Phone: +12818191145. Website: https://www.clinicforplasticsurgery.com/. | https://dingalinged-cpu.github.io/registry/c/the-clinic-for-plastic-surgery-houston/
+8. Memorial Plastic Surgery | trust 16.0 | Memorial Plastic Surgery is a plastic surgeon in Houston, TX at 8731 Katy Freeway #500, Houston, TX 77024. Phone: +17136334411. Website: https://memorialplasticsurgery.com/. | https://dingalinged-cpu.github.io/registry/c/memorial-plastic-surgery-houston/
+9. Sam M. Sukkar, MD | trust 16.0 | Sam M. Sukkar, MD is a plastic surgeon in Houston, TX. Phone: +12819401535. Website: https://www.drsukkar.com/. | https://dingalinged-cpu.github.io/registry/c/sam-m-sukkar-md-houston/
+10. Leo Lapuerta, MD | trust 14.0 | Leo Lapuerta, MD is a plastic surgeon in Houston, TX at La Branch Street, Houston, TX 77002. Website: https://lookyounger.net/. | https://dingalinged-cpu.github.io/registry/c/leo-lapuerta-md-houston/
+11. The Vitality & Aesthetics Institute | trust 10.0 | The Vitality & Aesthetics Institute is a plastic surgeon in Houston, TX at 2603 Augusta Drive #Suite 1450, Houston, TX 77057. Website: https://tvaai.com/. | https://dingalinged-cpu.github.io/registry/c/the-vitality-and-aesthetics-institute-houston/
+12. Utopia Plastic Surgery & Med Spa | trust 3.0 | Utopia Plastic Surgery & Med Spa is a plastic surgeon in Houston, TX at 1121 Uptown Park Boulevard #16, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/utopia-plastic-surgery-and-med-spa-houston/
+13. BCRN Aesthetics | trust 0.0 | BCRN Aesthetics is a plastic surgeon in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/bcrn-aesthetics-houston/
+
+## Market data (for advertisers and agents)
+- Keyword: plastic surgeon houston tx | category: Health & medical | industry benchmark: Physicians & Surgeons
+- US monthly searches: 33,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 27,000-90,000)
+- Local monthly searches (Houston-Pasadena-The Woodlands, TX metro): ~760 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 13
+- Equivalent Google Ads cost per month: ~$240 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/plastic-surgeon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#plastic-surgeon-houston-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

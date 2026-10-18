@@ -2,7 +2,7 @@ Keyword market for Business Services: 152 national keywords (each also sold per 
 
 # Top Business Services keywords
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
 
 ## By US monthly searches
 1. screen recording software | searches/mo 301,000 | CPC $5.87 | value $1,800,000 | Google Ads equiv $100,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#screen-recording-software
@@ -21,7 +21,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 14. website design | searches/mo 74,000 | CPC $5.87 | value $430,000 | Google Ads equiv $25,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#website-design
 15. accounting software | searches/mo 60,500 | CPC $5.87 | value $360,000 | Google Ads equiv $20,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#accounting-software
 16. bookkeepers | searches/mo 60,500 | CPC $5.87 | value $360,000 | Google Ads equiv $20,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#bookkeepers
-17. tax preparer | searches/mo 60,500 | CPC $5.87 | value $360,000 | Google Ads equiv $20,000/mo | our featured min $250/mo | registry competitors 224 | https://dingalinged-cpu.github.io/registry/k/tax-preparer/
+17. tax preparer | searches/mo 60,500 | CPC $5.87 | value $360,000 | Google Ads equiv $20,000/mo | our featured min $250/mo | registry competitors 447 | https://dingalinged-cpu.github.io/registry/k/tax-preparer/
 18. web design | searches/mo 60,500 | CPC $5.87 | value $360,000 | Google Ads equiv $20,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#web-design
 19. web designer | searches/mo 60,500 | CPC $5.87 | value $360,000 | Google Ads equiv $20,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#web-designer
 20. content management software | searches/mo 47,500 | CPC $5.87 | value $280,000 | Google Ads equiv $16,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#content-management-software
@@ -65,7 +65,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 14. website design | searches/mo 74,000 | CPC $5.87 | value $430,000 | Google Ads equiv $25,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#website-design
 15. accounting software | searches/mo 60,500 | CPC $5.87 | value $360,000 | Google Ads equiv $20,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#accounting-software
 16. bookkeepers | searches/mo 60,500 | CPC $5.87 | value $360,000 | Google Ads equiv $20,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#bookkeepers
-17. tax preparer | searches/mo 60,500 | CPC $5.87 | value $360,000 | Google Ads equiv $20,000/mo | our featured min $250/mo | registry competitors 224 | https://dingalinged-cpu.github.io/registry/k/tax-preparer/
+17. tax preparer | searches/mo 60,500 | CPC $5.87 | value $360,000 | Google Ads equiv $20,000/mo | our featured min $250/mo | registry competitors 447 | https://dingalinged-cpu.github.io/registry/k/tax-preparer/
 18. web design | searches/mo 60,500 | CPC $5.87 | value $360,000 | Google Ads equiv $20,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#web-design
 19. web designer | searches/mo 60,500 | CPC $5.87 | value $360,000 | Google Ads equiv $20,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#web-designer
 20. content management software | searches/mo 47,500 | CPC $5.87 | value $280,000 | Google Ads equiv $16,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#content-management-software

@@ -15,7 +15,7 @@ Nieka's Hair Studio is a hair salon in Wauconda, IL at North Main Street, Waucon
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/niekas-hair-studio-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/niekas-hair-studio-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10046295984 (license ODbL-1.0); source data as of 2026-06-01

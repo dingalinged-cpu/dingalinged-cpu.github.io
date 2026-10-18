@@ -15,7 +15,7 @@ Northwestern Medicine Obstetrics and Gynecology is an OB-GYN practice in Warrenv
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northwestern-medicine-obstetrics-and-gynecology-warrenville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northwestern-medicine-obstetrics-and-gynecology-warrenville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8940134204 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Perspectives Vision Clinic is an eye care practice in Minneapolis, MN at 3102 We
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-18:00; Tu,Th 08:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/perspectives-vision-clinic-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/perspectives-vision-clinic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13020020616 (license ODbL-1.0); source data as of 2026-06-01

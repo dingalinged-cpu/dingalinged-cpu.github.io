@@ -1,0 +1,23 @@
+D D Liquor & Tobacco is a liquor store in Denton, TX at 1101 Dallas Drive, Denton, TX 76205.
+
+# D D Liquor & Tobacco
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1101 Dallas Drive, Denton, TX 76205
+- City: Denton
+- State: TX
+- ZIP: 76205
+- Coordinates: 33.1986508, -97.122374
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/d-d-liquor-and-tobacco-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/d-d-liquor-and-tobacco-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9816463031 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

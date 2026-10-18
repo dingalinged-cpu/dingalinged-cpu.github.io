@@ -15,7 +15,7 @@ Seva Oral Health is a dentist in Palatine, IL at 790 W Northwest Hwy, Palatine, 
 - Opening hours (OSM syntax): Mo 10:00-17:00; We 08:00-17:00; Fr 07:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/seva-oral-health-palatine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/seva-oral-health-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1396136047 (license ODbL-1.0); source data as of 2026-07-28

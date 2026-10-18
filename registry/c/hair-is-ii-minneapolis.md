@@ -15,7 +15,7 @@ Hair Is II is a hair salon in Minneapolis, MN at 2201 Nicollet Avenue, Minneapol
 - Opening hours (OSM syntax): Mo 10:30-18:00; Tu-Th 10:00-19:00; Fr,Sa 10:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hair-is-ii-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hair-is-ii-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4617420642 (license ODbL-1.0); source data as of 2026-06-01

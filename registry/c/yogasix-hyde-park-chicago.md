@@ -15,7 +15,7 @@ YogaSix Hyde Park is a yoga studio in Chicago, IL at 1618 East 53rd Street, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/yogasix-hyde-park-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/yogasix-hyde-park-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8899360281 (license ODbL-1.0); source data as of 2026-06-01

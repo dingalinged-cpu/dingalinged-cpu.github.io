@@ -15,7 +15,7 @@ Salon Boutiques of Cantera Lakes LLC is a hair salon in Warrenville, IL at 28379
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/salon-boutiques-of-cantera-lakes-llc-warrenville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/salon-boutiques-of-cantera-lakes-llc-warrenville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8940134207 (license ODbL-1.0); source data as of 2026-06-01

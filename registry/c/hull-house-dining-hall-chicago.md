@@ -15,7 +15,7 @@ Hull House Dining Hall is an event venue in Chicago, IL at 800 South Halsted Str
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hull-house-dining-hall-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hull-house-dining-hall-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/148902943 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Anytime Fitness is a gym in Mound, MN at 2238 Commerce Boulevard #11, Mound, MN 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-mound/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-mound.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/955338920 (license ODbL-1.0); source data as of 2026-07-15

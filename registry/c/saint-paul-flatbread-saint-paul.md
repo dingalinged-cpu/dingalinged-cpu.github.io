@@ -15,7 +15,7 @@ Saint Paul Flatbread is a bakery in Saint Paul, MN at 439 Robert Street South, S
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00, Sa 9:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/saint-paul-flatbread-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/saint-paul-flatbread-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/241060330 (license ODbL-1.0); source data as of 2026-06-01

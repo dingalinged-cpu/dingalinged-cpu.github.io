@@ -15,7 +15,7 @@ Bittner's Bakery is a bakery in Shakopee, MN at 114 1st Avenue East, Shakopee, M
 - Opening hours (OSM syntax): Mo-Fr 06:00-17:00; Sa 07:00-15:00; Su 09:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bittners-bakery-shakopee/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bittners-bakery-shakopee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/774389152 (license ODbL-1.0); source data as of 2026-06-01

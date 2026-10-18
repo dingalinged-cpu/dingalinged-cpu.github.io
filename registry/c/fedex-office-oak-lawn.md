@@ -15,7 +15,7 @@ FedEx Office is a printing service in Oak Lawn, IL at 4710 West 95th Street, Oak
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fedex-office-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9291928667 (license ODbL-1.0); source data as of 2026-06-01

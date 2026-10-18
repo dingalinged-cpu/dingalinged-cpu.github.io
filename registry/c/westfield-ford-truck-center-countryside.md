@@ -15,7 +15,7 @@ Westfield Ford Truck Center is an auto repair shop in Countryside, IL at 6200 So
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/westfield-ford-truck-center-countryside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/westfield-ford-truck-center-countryside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/554965231 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Banfield Pet Hospital is a veterinarian in Schererville, IN at 711 Indianapolis 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-schererville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-schererville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11673410725 (license ODbL-1.0); source data as of 2026-07-28

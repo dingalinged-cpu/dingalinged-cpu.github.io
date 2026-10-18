@@ -15,7 +15,7 @@ Aladdin Auto Service is an auto repair shop in Oak Forest, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/aladdin-auto-service-oak-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/aladdin-auto-service-oak-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13787096201 (license ODbL-1.0); source data as of 2026-06-01

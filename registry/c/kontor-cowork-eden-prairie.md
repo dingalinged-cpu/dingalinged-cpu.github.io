@@ -15,7 +15,7 @@ Kontor Cowork is a coworking space in Eden Prairie, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kontor-cowork-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kontor-cowork-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12021268029 (license ODbL-1.0); source data as of 2026-05-31

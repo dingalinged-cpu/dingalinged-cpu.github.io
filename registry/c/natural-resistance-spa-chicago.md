@@ -15,7 +15,7 @@ Natural Resistance Spa is a massage studio in Chicago, IL at 2109 West Touhy Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/natural-resistance-spa-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/natural-resistance-spa-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13627182912 (license ODbL-1.0); source data as of 2026-06-01

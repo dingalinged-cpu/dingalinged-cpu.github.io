@@ -15,7 +15,7 @@ Reclaim Counseling and Consulting is a therapy practice in Chicago, IL at 4203 N
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/reclaim-counseling-and-consulting-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/reclaim-counseling-and-consulting-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13160147501 (license ODbL-1.0); source data as of 2026-07-28

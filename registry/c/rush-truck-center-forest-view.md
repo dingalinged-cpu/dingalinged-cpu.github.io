@@ -15,7 +15,7 @@ Rush Truck Center is an auto repair shop in Forest View, IL at 4655 South Centra
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rush-truck-center-forest-view/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rush-truck-center-forest-view.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1065369310 (license ODbL-1.0); source data as of 2026-06-01

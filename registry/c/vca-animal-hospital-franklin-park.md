@@ -15,7 +15,7 @@ VCA Animal Hospital is a veterinarian in Franklin Park, IL at 9846 West Grand Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-franklin-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-franklin-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11942606915 (license ODbL-1.0); source data as of 2026-07-28

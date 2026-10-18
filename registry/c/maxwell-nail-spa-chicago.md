@@ -15,7 +15,7 @@ Maxwell Nail Spa is a nail salon in Chicago, IL at 1254 South Halsted Street, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/maxwell-nail-spa-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/maxwell-nail-spa-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13800178129 (license ODbL-1.0); source data as of 2026-06-01

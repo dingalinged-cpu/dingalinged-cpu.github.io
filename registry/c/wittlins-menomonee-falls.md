@@ -1,0 +1,23 @@
+Wittlin's is an auto repair shop in Menomonee Falls, WI at N92 W17387 Appleton Avenue, Menomonee Falls, WI 53051. Phone: +12622514670. Website: https://www.wittlins.com/.
+
+# Wittlin's
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: N92 W17387 Appleton Avenue, Menomonee Falls, WI 53051
+- City: Menomonee Falls
+- State: WI
+- ZIP: 53051
+- Coordinates: 43.1849108, -88.1258367
+- Phone: +12622514670
+- Website: https://www.wittlins.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/wittlins-menomonee-falls/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wittlins-menomonee-falls.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1364056790 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

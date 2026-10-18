@@ -15,7 +15,7 @@ Little Newtons is a daycare in Champlin, MN at 111 Dean Avenue West, Champlin, M
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/little-newtons-champlin/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/little-newtons-champlin.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3669287879 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Habitat for Humanity ReStore is a thrift store in Chicago, IL at 6040 North Pula
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/habitat-for-humanity-restore-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162481427 (license ODbL-1.0); source data as of 2026-06-01

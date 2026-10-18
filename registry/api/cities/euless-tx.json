@@ -1,0 +1,3685 @@
+{
+ "place": "Euless, TX",
+ "slug": "euless-tx",
+ "count": 117,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-euless-tx.json"
+  },
+  {
+   "keyword": "attorney euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-euless-tx.json"
+  },
+  {
+   "keyword": "auto repair euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-euless-tx.json"
+  },
+  {
+   "keyword": "bakery euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-euless-tx.json"
+  },
+  {
+   "keyword": "barber shop euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-euless-tx.json"
+  },
+  {
+   "keyword": "bridal shop euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bridal-shop-euless-tx.json"
+  },
+  {
+   "keyword": "car wash euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-euless-tx.json"
+  },
+  {
+   "keyword": "caterers euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/caterers-euless-tx.json"
+  },
+  {
+   "keyword": "daycare euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-euless-tx.json"
+  },
+  {
+   "keyword": "dentist euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-euless-tx.json"
+  },
+  {
+   "keyword": "dog groomer euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-euless-tx.json"
+  },
+  {
+   "keyword": "dry cleaners euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-euless-tx.json"
+  },
+  {
+   "keyword": "event venues euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-euless-tx.json"
+  },
+  {
+   "keyword": "eye doctor euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-euless-tx.json"
+  },
+  {
+   "keyword": "facial euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-euless-tx.json"
+  },
+  {
+   "keyword": "family doctor euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-euless-tx.json"
+  },
+  {
+   "keyword": "furniture store euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-euless-tx.json"
+  },
+  {
+   "keyword": "gym euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-euless-tx.json"
+  },
+  {
+   "keyword": "hair salon euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-euless-tx.json"
+  },
+  {
+   "keyword": "haircut euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-euless-tx.json"
+  },
+  {
+   "keyword": "heating and air euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-euless-tx.json"
+  },
+  {
+   "keyword": "hvac repair euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-euless-tx.json"
+  },
+  {
+   "keyword": "insurance agency euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-euless-tx.json"
+  },
+  {
+   "keyword": "insurance agent euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-euless-tx.json"
+  },
+  {
+   "keyword": "insurance agents euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-euless-tx.json"
+  },
+  {
+   "keyword": "jewelry store euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-euless-tx.json"
+  },
+  {
+   "keyword": "lawyer euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-euless-tx.json"
+  },
+  {
+   "keyword": "liquor store euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-euless-tx.json"
+  },
+  {
+   "keyword": "martial arts euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-euless-tx.json"
+  },
+  {
+   "keyword": "massage euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-euless-tx.json"
+  },
+  {
+   "keyword": "mattress store euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-euless-tx.json"
+  },
+  {
+   "keyword": "mechanic euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-euless-tx.json"
+  },
+  {
+   "keyword": "nail salon euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-euless-tx.json"
+  },
+  {
+   "keyword": "pediatrician euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pediatrician-euless-tx.json"
+  },
+  {
+   "keyword": "pet store euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-euless-tx.json"
+  },
+  {
+   "keyword": "physical therapy euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-euless-tx.json"
+  },
+  {
+   "keyword": "preschool euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-euless-tx.json"
+  },
+  {
+   "keyword": "primary care physician euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-euless-tx.json"
+  },
+  {
+   "keyword": "printing services euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-euless-tx.json"
+  },
+  {
+   "keyword": "staffing agency euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-euless-tx.json"
+  },
+  {
+   "keyword": "tailor euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-euless-tx.json"
+  },
+  {
+   "keyword": "tanning salon euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-euless-tx.json"
+  },
+  {
+   "keyword": "tax preparation euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-euless-tx.json"
+  },
+  {
+   "keyword": "tax preparer euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-euless-tx.json"
+  },
+  {
+   "keyword": "thrift store euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-euless-tx.json"
+  },
+  {
+   "keyword": "waxing euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-euless-tx.json"
+  },
+  {
+   "keyword": "yoga classes euless tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-euless-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "bims-inc-euless",
+   "name": "BIMS, Inc.",
+   "summary": "BIMS, Inc. is a HVAC contractor in Euless, TX at 1114 South Airport Circle #120, Euless, TX 76040. Phone: +12144672653. Website: https://bellomyims.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bims-inc-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bims-inc-euless.json",
+   "address": {
+    "streetAddress": "1114 South Airport Circle #120",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76040",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76040",
+   "geo": {
+    "lat": 32.8209097,
+    "lon": -97.113327
+   },
+   "phone": "+12144672653",
+   "website": "https://bellomyims.com/",
+   "opening_hours": "Mo-Su 09:00-09:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6390232729",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "heb-studio-wrld-euless",
+   "name": "HEB Studio WRLD",
+   "summary": "HEB Studio WRLD is a hair salon in Euless, TX at 1606 West Euless Boulevard #207, Euless, TX 76040. Phone: +18177213792. Website: https://booksy.com/en-us/1271462_heb-studio-wrld_hair-salon_37461_keller.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heb-studio-wrld-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heb-studio-wrld-euless.json",
+   "address": {
+    "streetAddress": "1606 West Euless Boulevard #207",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76040",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76040",
+   "geo": {
+    "lat": 32.8258606,
+    "lon": -97.1090763
+   },
+   "phone": "+18177213792",
+   "website": "https://booksy.com/en-us/1271462_heb-studio-wrld_hair-salon_37461_keller",
+   "opening_hours": "\"by appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13798400859",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jps-medical-home-northeast-tarrant-euless",
+   "name": "JPS Medical Home Northeast Tarrant",
+   "summary": "JPS Medical Home Northeast Tarrant is a family medicine practice in Euless, TX at 3200 West Euless Boulevard, Euless, TX 76040. Phone: +18177021100. Website: https://jpshealthnet.org/locations/medical-home-northeast-tarrant.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jps-medical-home-northeast-tarrant-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jps-medical-home-northeast-tarrant-euless.json",
+   "address": {
+    "streetAddress": "3200 West Euless Boulevard",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76040",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76040",
+   "geo": {
+    "lat": 32.8166986,
+    "lon": -97.1361664
+   },
+   "phone": "+18177021100",
+   "website": "https://jpshealthnet.org/locations/medical-home-northeast-tarrant",
+   "opening_hours": "Mo-Sa 07:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13731188584",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "planet-fitness-euless",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Euless, TX at 1200 North Main Street #100, Euless, TX 76039. Phone: +12149195462. Website: https://www.planetfitness.com/gyms/euless-tx.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-euless.json",
+   "address": {
+    "streetAddress": "1200 North Main Street #100",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8531306,
+    "lon": -97.0820103
+   },
+   "phone": "+12149195462",
+   "website": "https://www.planetfitness.com/gyms/euless-tx",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12250839101",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stress-free-auto-care-euless",
+   "name": "Stress-Free Auto Care",
+   "summary": "Stress-Free Auto Care is an auto repair shop in Euless, TX at 301 West Euless Boulevard, Euless, TX 76040. Phone: +18177040600. Website: https://www.stressfree.com/shops/euless.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stress-free-auto-care-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stress-free-auto-care-euless.json",
+   "address": {
+    "streetAddress": "301 West Euless Boulevard",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76040",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76040",
+   "geo": {
+    "lat": 32.8356815,
+    "lon": -97.0865649
+   },
+   "phone": "+18177040600",
+   "website": "https://www.stressfree.com/shops/euless",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12715183689",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "total-wine-euless",
+   "name": "Total Wine",
+   "summary": "Total Wine is a liquor store in Euless, TX at 2501 Rio Grande Boulevard #200, Euless, TX 76039. Phone: +18175087303. Website: https://www.totalwine.com/store-info/528.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-wine-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-wine-euless.json",
+   "address": {
+    "streetAddress": "2501 Rio Grande Boulevard #200",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8721983,
+    "lon": -97.1033875
+   },
+   "phone": "+18175087303",
+   "website": "https://www.totalwine.com/store-info/528",
+   "opening_hours": "Mo-Sa 10:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9898638065",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "uptown-cheapskate-euless",
+   "name": "Uptown Cheapskate",
+   "summary": "Uptown Cheapskate is a thrift store in Euless, TX at 1220 Chisholm Trail #200, Euless, TX 76039. Phone: +18173984222. Website: https://www.uptowncheapskate.com/colleyville/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uptown-cheapskate-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uptown-cheapskate-euless.json",
+   "address": {
+    "streetAddress": "1220 Chisholm Trail #200",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8754283,
+    "lon": -97.1027218
+   },
+   "phone": "+18173984222",
+   "website": "https://www.uptowncheapskate.com/colleyville/",
+   "opening_hours": "Mo-Sa 10:00-20:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8153018768",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "1-800-the-wolf-accident-attorneys-euless",
+   "name": "1-800 The Wolf Accident Attorneys",
+   "summary": "1-800 The Wolf Accident Attorneys is a lawyer in Euless, TX at 1601 West Airport Freeway #3rd floor, Euless, TX. Phone: +19727151701. Website: https://1800thewolf.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1-800-the-wolf-accident-attorneys-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1-800-the-wolf-accident-attorneys-euless.json",
+   "address": {
+    "streetAddress": "1601 West Airport Freeway #3rd floor",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8370889,
+    "lon": -97.1082559
+   },
+   "phone": "+19727151701",
+   "website": "https://1800thewolf.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13050097455",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hao-foot-spa-euless",
+   "name": "Hao Foot Spa",
+   "summary": "Hao Foot Spa is a massage studio in Euless, TX at 2390 Fuller-Wiser Road #506, Euless, TX 76039. Phone: +16824587199.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hao-foot-spa-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hao-foot-spa-euless.json",
+   "address": {
+    "streetAddress": "2390 Fuller-Wiser Road #506",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8709079,
+    "lon": -97.0733939
+   },
+   "phone": "+16824587199",
+   "opening_hours": "Mo - Sa 10:00-19:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13732250367",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-envy-euless",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Euless, TX at 2901 Rio Grande Boulevard #100, Euless, TX 76039. Website: https://locations.massageenvy.com/texas/euless/2901-rio-grande-blvd-.html.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-euless.json",
+   "address": {
+    "streetAddress": "2901 Rio Grande Boulevard #100",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8775505,
+    "lon": -97.1028173
+   },
+   "website": "https://locations.massageenvy.com/texas/euless/2901-rio-grande-blvd-.html",
+   "opening_hours": "Mo-Tu,Th 09:00-20:00; We,Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13541645153",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "autumns-pampered-paws-euless",
+   "name": "Autumn's Pampered Paws",
+   "summary": "Autumn's Pampered Paws is a dog groomer in Euless, TX at 801 East Mid Cities Boulevard #600, Euless, TX 76039. Phone: +12818145352.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/autumns-pampered-paws-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/autumns-pampered-paws-euless.json",
+   "address": {
+    "streetAddress": "801 East Mid Cities Boulevard #600",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8677269,
+    "lon": -97.0691039
+   },
+   "phone": "+12818145352",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13796979679",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chic-nails-euless",
+   "name": "Chic Nails",
+   "summary": "Chic Nails is a nail salon in Euless, TX at 101 W Glade Road #106, Euless, TX 76039. Phone: +18172831726.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chic-nails-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chic-nails-euless.json",
+   "address": {
+    "streetAddress": "101 W Glade Road #106",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8807969,
+    "lon": -97.0832297
+   },
+   "phone": "+18172831726",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738770870",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sapphire-banquet-hall-euless",
+   "name": "Sapphire Banquet Hall",
+   "summary": "Sapphire Banquet Hall is an event venue in Euless, TX at 1300 North Main Street, Euless, TX 76039. Website: https://sapphirebanquet.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sapphire-banquet-hall-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sapphire-banquet-hall-euless.json",
+   "address": {
+    "streetAddress": "1300 North Main Street",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8546373,
+    "lon": -97.0817017
+   },
+   "website": "https://sapphirebanquet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1149997157",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tree-leaf-kids-euless",
+   "name": "Tree Leaf Kids",
+   "summary": "Tree Leaf Kids is a daycare in Euless, TX at 109 West Midway Drive, Euless, TX 76039.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tree-leaf-kids-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tree-leaf-kids-euless.json",
+   "address": {
+    "streetAddress": "109 West Midway Drive",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8436826,
+    "lon": -97.0835479
+   },
+   "opening_hours": "Mo-Fr 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1437131670",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "504-salon-euless",
+   "name": "504 Salon",
+   "summary": "504 Salon is a hair salon in Euless, TX at 1060 North Main Street #108, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/504-salon-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/504-salon-euless.json",
+   "address": {
+    "streetAddress": "1060 North Main Street #108",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8501519,
+    "lon": -97.0814825
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13755759327",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "affordable-dentures-and-implants-euless",
+   "name": "Affordable Dentures & Implants",
+   "summary": "Affordable Dentures & Implants is a dentist in Euless, TX at 901 East Harwood Road #100, Euless, TX 76039.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/affordable-dentures-and-implants-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/affordable-dentures-and-implants-euless.json",
+   "address": {
+    "streetAddress": "901 East Harwood Road #100",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.852122,
+    "lon": -97.0675202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10245375493",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "angel-beauty-salon-euless",
+   "name": "Angel Beauty Salon",
+   "summary": "Angel Beauty Salon is a hair salon in Euless, TX at 111 West Harwood Road, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/angel-beauty-salon-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/angel-beauty-salon-euless.json",
+   "address": {
+    "streetAddress": "111 West Harwood Road",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8516394,
+    "lon": -97.0834092
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13748903073",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aspen-dental-euless",
+   "name": "Aspen Dental",
+   "summary": "Aspen Dental is a dentist in Euless, TX at 2501 State Highway 121 #200, Euless, TX 76039.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aspen-dental-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aspen-dental-euless.json",
+   "address": {
+    "streetAddress": "2501 State Highway 121 #200",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.873235,
+    "lon": -97.1011444
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13771853351",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ati-physical-therapy-euless",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Euless, TX at 1060 North Main Street #101, Euless, TX 76039.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-euless.json",
+   "address": {
+    "streetAddress": "1060 North Main Street #101",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8501544,
+    "lon": -97.0820579
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13755759334",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bear-creek-family-denistry-euless",
+   "name": "Bear Creek Family Denistry",
+   "summary": "Bear Creek Family Denistry is a dentist in Euless, TX at 2501 North Main Street #220, Euless, TX 76039.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bear-creek-family-denistry-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bear-creek-family-denistry-euless.json",
+   "address": {
+    "streetAddress": "2501 North Main Street #220",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8730602,
+    "lon": -97.0834304
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738322873",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "best-cuts-euless",
+   "name": "Best Cuts",
+   "summary": "Best Cuts is a hair salon in Euless, TX at 2501 North Main Street #200, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-cuts-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-cuts-euless.json",
+   "address": {
+    "streetAddress": "2501 North Main Street #200",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8728529,
+    "lon": -97.0834297
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738322875",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bethel-and-associates-euless",
+   "name": "Bethel & Associates",
+   "summary": "Bethel & Associates is a tax preparation service in Euless, TX at 501 North Main Street #117, Euless, TX 76039.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bethel-and-associates-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bethel-and-associates-euless.json",
+   "address": {
+    "streetAddress": "501 North Main Street #117",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8432953,
+    "lon": -97.0834562
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13755601740",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "big-frog-euless",
+   "name": "Big Frog",
+   "summary": "Big Frog is a printing service in Euless, TX at 2720 State Hwy 121 #300, Euless, TX 76039.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-frog-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-frog-euless.json",
+   "address": {
+    "streetAddress": "2720 State Hwy 121 #300",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8771742,
+    "lon": -97.0979586
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13819310509",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bridal-designs-and-tuxedos-euless",
+   "name": "Bridal Designs and Tuxedos",
+   "summary": "Bridal Designs and Tuxedos is a bridal shop in Euless, TX at 201 W Glade Road #100, Euless, TX 76039.",
+   "categories": [
+    "bridal shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bridal-designs-and-tuxedos-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bridal-designs-and-tuxedos-euless.json",
+   "address": {
+    "streetAddress": "201 W Glade Road #100",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8807276,
+    "lon": -97.0839488
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738770864",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bru-city-euless",
+   "name": "Bru City",
+   "summary": "Bru City is a liquor store in Euless, TX at 13000 Trinity Boulevard, Euless, TX 76040.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bru-city-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bru-city-euless.json",
+   "address": {
+    "streetAddress": "13000 Trinity Boulevard",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76040",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76040",
+   "geo": {
+    "lat": 32.8188957,
+    "lon": -97.0833401
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/834846367",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cindys-salon-studio-euless",
+   "name": "Cindy's Salon Studio",
+   "summary": "Cindy's Salon Studio is a hair salon in Euless, TX at 3001 North Main Street, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cindys-salon-studio-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cindys-salon-studio-euless.json",
+   "address": {
+    "streetAddress": "3001 North Main Street",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8799423,
+    "lon": -97.0828768
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738770862",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cowboy-joes-discount-city-euless",
+   "name": "Cowboy Joe's Discount City",
+   "summary": "Cowboy Joe's Discount City is a thrift store in Euless, TX at 801 East Mid Cities Boulevard #400, Euless, TX 76039.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cowboy-joes-discount-city-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cowboy-joes-discount-city-euless.json",
+   "address": {
+    "streetAddress": "801 East Mid Cities Boulevard #400",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8678474,
+    "lon": -97.0691326
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13796979678",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "denim-and-diamonds-hair-stuido-for-kids-euless",
+   "name": "Denim & Diamonds Hair Stuido for Kids",
+   "summary": "Denim & Diamonds Hair Stuido for Kids is a hair salon in Euless, TX at 900 North Industrial Boulevard #200, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/denim-and-diamonds-hair-stuido-for-kids-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/denim-and-diamonds-hair-stuido-for-kids-euless.json",
+   "address": {
+    "streetAddress": "900 North Industrial Boulevard #200",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8490442,
+    "lon": -97.0994336
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13749162461",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dfw-foot-massage-euless",
+   "name": "DFW Foot Massage",
+   "summary": "DFW Foot Massage is a massage studio in Euless, TX at 101 W Glade Road #108, Euless, TX 76039.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dfw-foot-massage-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dfw-foot-massage-euless.json",
+   "address": {
+    "streetAddress": "101 W Glade Road #108",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8807969,
+    "lon": -97.0833405
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738770867",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dry-clean-super-center-euless",
+   "name": "Dry Clean Super Center",
+   "summary": "Dry Clean Super Center is a dry cleaner in Euless, TX at 1301 North Main Street, Euless, TX 76039.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dry-clean-super-center-euless.json",
+   "address": {
+    "streetAddress": "1301 North Main Street",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.854764,
+    "lon": -97.0830737
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664692160",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "e-z-staffing-euless",
+   "name": "E-Z Staffing",
+   "summary": "E-Z Staffing is a staffing agency in Euless, TX at 1003 West Harwood Road, Euless, TX 76039.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/e-z-staffing-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/e-z-staffing-euless.json",
+   "address": {
+    "streetAddress": "1003 West Harwood Road",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8515993,
+    "lon": -97.0983841
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13749118372",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eos-fitness-euless",
+   "name": "EoS Fitness",
+   "summary": "EoS Fitness is a gym in Euless, TX at 2401 Rio Grande Boulevard, Euless, TX 76039.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eos-fitness-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eos-fitness-euless.json",
+   "address": {
+    "streetAddress": "2401 Rio Grande Boulevard",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8713667,
+    "lon": -97.1038791
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/545020348",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "euless-north-barber-ship-euless",
+   "name": "Euless North Barber Ship",
+   "summary": "Euless North Barber Ship is a barber shop in Euless, TX at 103 West Harwood Road, Euless, TX 76039.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/euless-north-barber-ship-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/euless-north-barber-ship-euless.json",
+   "address": {
+    "streetAddress": "103 West Harwood Road",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8516071,
+    "lon": -97.0830152
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13747143620",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eyemotivate-eye-care-and-eyewear-gallery-euless",
+   "name": "Eyemotivate Eye Care & Eyewear Gallery",
+   "summary": "Eyemotivate Eye Care & Eyewear Gallery is an eye care practice in Euless, TX at 900 North Industrial Boulevard #400, Euless, TX 76039.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eyemotivate-eye-care-and-eyewear-gallery-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eyemotivate-eye-care-and-eyewear-gallery-euless.json",
+   "address": {
+    "streetAddress": "900 North Industrial Boulevard #400",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8491878,
+    "lon": -97.0994349
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13749162459",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "floyds-barbershop-euless",
+   "name": "Floyd's Barbershop",
+   "summary": "Floyd's Barbershop is a barber shop in Euless, TX at 2511 State Highway 121 #200, Euless, TX 76039.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floyds-barbershop-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floyds-barbershop-euless.json",
+   "address": {
+    "streetAddress": "2511 State Highway 121 #200",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8735974,
+    "lon": -97.1009817
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13228060852",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gate-gourmet-dallas",
+   "name": "Gate Gourmet",
+   "summary": "Gate Gourmet is a caterer in Dallas, TX at 3301 South 22nd Avenue, Dallas, TX 75261.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gate-gourmet-dallas/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gate-gourmet-dallas.json",
+   "address": {
+    "streetAddress": "3301 South 22nd Avenue",
+    "addressLocality": "Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75261",
+    "addressCountry": "US"
+   },
+   "city": "Dallas",
+   "state": "TX",
+   "zip": "75261",
+   "geo": {
+    "lat": 32.8724132,
+    "lon": -97.0440308
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/25493028",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "glade-salon-suites-euless",
+   "name": "Glade Salon Suites",
+   "summary": "Glade Salon Suites is a hair salon in Euless, TX at 201 W Glade Road #200, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glade-salon-suites-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glade-salon-suites-euless.json",
+   "address": {
+    "streetAddress": "201 W Glade Road #200",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8807275,
+    "lon": -97.0840969
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738770863",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "glo-tanning-euless",
+   "name": "Glo Tanning",
+   "summary": "Glo Tanning is a tanning salon in Euless, TX at 2750 State Hwy 1212 #300, Euless, TX 76039.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glo-tanning-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glo-tanning-euless.json",
+   "address": {
+    "streetAddress": "2750 State Hwy 1212 #300",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8777963,
+    "lon": -97.0979382
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13819217771",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-euless",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Euless, TX at 1060 North Main Street #112, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-euless.json",
+   "address": {
+    "streetAddress": "1060 North Main Street #112",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8501508,
+    "lon": -97.081247
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13755759323",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "green-massage-euless",
+   "name": "Green Massage",
+   "summary": "Green Massage is a massage studio in Euless, TX at 1201 North Main Street #400, Euless, TX 76039.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/green-massage-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/green-massage-euless.json",
+   "address": {
+    "streetAddress": "1201 North Main Street #400",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8534383,
+    "lon": -97.0829572
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10245375415",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-and-r-block-euless",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Euless, TX at 1060 North Main Street #110, Euless, TX 76039.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-euless.json",
+   "address": {
+    "streetAddress": "1060 North Main Street #110",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8501514,
+    "lon": -97.0813715
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13755759325",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-e-b-car-wash-euless",
+   "name": "H-E-B Car Wash",
+   "summary": "H-E-B Car Wash is a car wash in Euless, TX at 2105 Rio Grande Boulevard, Euless, TX 76039.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-car-wash-euless.json",
+   "address": {
+    "streetAddress": "2105 Rio Grande Boulevard",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8664638,
+    "lon": -97.1047075
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1517370430",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-e-b-grapevine-martial-arts-euless",
+   "name": "H-E-B/Grapevine Martial Arts",
+   "summary": "H-E-B/Grapevine Martial Arts is a martial arts school in Euless, TX at 2501 North Main Street #130, Euless, TX 76039.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-e-b-grapevine-martial-arts-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-grapevine-martial-arts-euless.json",
+   "address": {
+    "streetAddress": "2501 North Main Street #130",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8726254,
+    "lon": -97.0834686
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738322872",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hair-deaux-euless",
+   "name": "Hair Deaux",
+   "summary": "Hair Deaux is a hair salon in Euless, TX at 501 North Main Street #134, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-deaux-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-deaux-euless.json",
+   "address": {
+    "streetAddress": "501 North Main Street #134",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8433839,
+    "lon": -97.0830445
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13755601744",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hand-and-stone-massage-and-facial-spa-euless",
+   "name": "Hand & Stone Massage and Facial Spa",
+   "summary": "Hand & Stone Massage and Facial Spa is a massage studio in Euless, TX at 2921 State Highway 121 #400, Euless, TX 76039.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hand-and-stone-massage-and-facial-spa-euless.json",
+   "address": {
+    "streetAddress": "2921 State Highway 121 #400",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8792247,
+    "lon": -97.1004398
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13772015662",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "harwood-smiles-euless",
+   "name": "Harwood Smiles",
+   "summary": "Harwood Smiles is a dentist in Euless, TX at 918 East Harwood Road #C, Euless, TX 76039.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harwood-smiles-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harwood-smiles-euless.json",
+   "address": {
+    "streetAddress": "918 East Harwood Road #C",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8512409,
+    "lon": -97.0675979
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10245375515",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hotworx-euless",
+   "name": "Hotworx",
+   "summary": "Hotworx is a yoga studio in Euless, TX at 900 North Industrial Boulevard #300, Euless, TX 76039.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hotworx-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hotworx-euless.json",
+   "address": {
+    "streetAddress": "900 North Industrial Boulevard #300",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8491171,
+    "lon": -97.0994342
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13749162460",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ideal-dental-euless",
+   "name": "Ideal Dental",
+   "summary": "Ideal Dental is a dentist in Euless, TX at 3010 State Hwy 121 #300, Euless, TX 76039.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ideal-dental-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ideal-dental-euless.json",
+   "address": {
+    "streetAddress": "3010 State Hwy 121 #300",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.879888,
+    "lon": -97.0979313
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13819213751",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jackson-hewitt-euless",
+   "name": "Jackson Hewitt",
+   "summary": "Jackson Hewitt is a tax preparation service in Euless, TX at 105 West Harwood Road, Euless, TX 76039.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-euless.json",
+   "address": {
+    "streetAddress": "105 West Harwood Road",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.851607,
+    "lon": -97.083071
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13747143621",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-lube-euless",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Euless, TX at 1012 North Industrial Boulevard, Euless, TX 76039.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-euless.json",
+   "address": {
+    "streetAddress": "1012 North Industrial Boulevard",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.851219,
+    "lon": -97.0995827
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/652915279",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kreative-cuts-euless",
+   "name": "Kreative Cuts",
+   "summary": "Kreative Cuts is a barber shop in Euless, TX at 501 North Main Street #107, Euless, TX 76039.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kreative-cuts-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kreative-cuts-euless.json",
+   "address": {
+    "streetAddress": "501 North Main Street #107",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.843133,
+    "lon": -97.0834542
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13755601738",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-petite-academy-euless",
+   "name": "La Petite Academy",
+   "summary": "La Petite Academy is a preschool in Euless, TX at 1315 North Main Street, Euless, TX 76039.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-petite-academy-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-petite-academy-euless.json",
+   "address": {
+    "streetAddress": "1315 North Main Street",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8551088,
+    "lon": -97.082931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664692164",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "laser-wash-euless",
+   "name": "Laser Wash",
+   "summary": "Laser Wash is a car wash in Euless, TX at 622 North Industrial Boulevard, Euless, TX 76039.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/laser-wash-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/laser-wash-euless.json",
+   "address": {
+    "streetAddress": "622 North Industrial Boulevard",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8455463,
+    "lon": -97.0994027
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12988169901",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lavish-nail-bar-euless",
+   "name": "Lavish Nail Bar",
+   "summary": "Lavish Nail Bar is a nail salon in Euless, TX at 1001 East Harwood Road #33, Euless, TX 76039.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lavish-nail-bar-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lavish-nail-bar-euless.json",
+   "address": {
+    "streetAddress": "1001 East Harwood Road #33",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.852128,
+    "lon": -97.0664614
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10245375496",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "laxmi-jewelers-euless",
+   "name": "Laxmi Jewelers",
+   "summary": "Laxmi Jewelers is a jewelry store in Euless, TX at 1060 North Main Street #111, Euless, TX 76039.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/laxmi-jewelers-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/laxmi-jewelers-euless.json",
+   "address": {
+    "streetAddress": "1060 North Main Street #111",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8501512,
+    "lon": -97.0813238
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13755759324",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "liberty-tax-euless",
+   "name": "Liberty Tax",
+   "summary": "Liberty Tax is a tax preparation service in Euless, TX at 1201 North Main Street #550, Euless, TX 76039.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liberty-tax-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liberty-tax-euless.json",
+   "address": {
+    "streetAddress": "1201 North Main Street #550",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8535619,
+    "lon": -97.08296
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13750147818",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "little-tyke-creative-child-care-inc-euless",
+   "name": "Little Tyke Creative Child Care Inc",
+   "summary": "Little Tyke Creative Child Care Inc is a daycare in Euless, TX at 3033 North Main Street, Euless, TX 76039.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-tyke-creative-child-care-inc-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-tyke-creative-child-care-inc-euless.json",
+   "address": {
+    "streetAddress": "3033 North Main Street",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.880265,
+    "lon": -97.0838512
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/666681762",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lovesac-euless",
+   "name": "LoveSac",
+   "summary": "LoveSac is a furniture store in Euless, TX at 2401 State Highway 121 #500, Euless, TX 76039.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-euless.json",
+   "address": {
+    "streetAddress": "2401 State Highway 121 #500",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8716861,
+    "lon": -97.1018473
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13768755663",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lsg-sky-chefs-inc-dfi-a-dallas",
+   "name": "LSG Sky Chefs Inc - DFI A",
+   "summary": "LSG Sky Chefs Inc - DFI A is a caterer in Dallas, TX at 2120 West 33rd Street, Dallas, TX 75261.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lsg-sky-chefs-inc-dfi-a-dallas/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lsg-sky-chefs-inc-dfi-a-dallas.json",
+   "address": {
+    "streetAddress": "2120 West 33rd Street",
+    "addressLocality": "Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75261",
+    "addressCountry": "US"
+   },
+   "city": "Dallas",
+   "state": "TX",
+   "zip": "75261",
+   "geo": {
+    "lat": 32.8705998,
+    "lon": -97.0451423
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1012825122",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lsg-sky-chefs-inc-dfi-b-dallas",
+   "name": "LSG Sky Chefs Inc - DFI B",
+   "summary": "LSG Sky Chefs Inc - DFI B is a caterer in Dallas, TX at 2100 West 34th Street, Dallas, TX 75261.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lsg-sky-chefs-inc-dfi-b-dallas/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lsg-sky-chefs-inc-dfi-b-dallas.json",
+   "address": {
+    "streetAddress": "2100 West 34th Street",
+    "addressLocality": "Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75261",
+    "addressCountry": "US"
+   },
+   "city": "Dallas",
+   "state": "TX",
+   "zip": "75261",
+   "geo": {
+    "lat": 32.8681943,
+    "lon": -97.0451453
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1172896457",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "luma-massage-euless",
+   "name": "LUMA Massage",
+   "summary": "LUMA Massage is a massage studio in Euless, TX at 2501 North Main Street #110, Euless, TX 76039.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luma-massage-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luma-massage-euless.json",
+   "address": {
+    "streetAddress": "2501 North Main Street #110",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.872497,
+    "lon": -97.0834659
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738322871",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "magic-nail-spa-euless",
+   "name": "Magic Nail Spa",
+   "summary": "Magic Nail Spa is a nail salon in Euless, TX at 501 North Main Street #101, Euless, TX 76039.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magic-nail-spa-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magic-nail-spa-euless.json",
+   "address": {
+    "streetAddress": "501 North Main Street #101",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8428581,
+    "lon": -97.0834508
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13755601735",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-central-euless",
+   "name": "Mattress Central",
+   "summary": "Mattress Central is a mattress store in Euless, TX at 2701 State Highway 121 #300, Euless, TX 76039.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-central-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-central-euless.json",
+   "address": {
+    "streetAddress": "2701 State Highway 121 #300",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.876101,
+    "lon": -97.1006474
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13771853354",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "maxiam-nail-bar-euless",
+   "name": "Maxiam Nail Bar",
+   "summary": "Maxiam Nail Bar is a nail salon in Euless, TX at 2921 State Highway 121 #200, Euless, TX 76039.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maxiam-nail-bar-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maxiam-nail-bar-euless.json",
+   "address": {
+    "streetAddress": "2921 State Highway 121 #200",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8791141,
+    "lon": -97.1004364
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13772015663",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "milenys-salon-euless",
+   "name": "Mileny's Salon",
+   "summary": "Mileny's Salon is a hair salon in Euless, TX at 415 North Main Street #106, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/milenys-salon-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/milenys-salon-euless.json",
+   "address": {
+    "streetAddress": "415 North Main Street #106",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8425253,
+    "lon": -97.0834645
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13730477532",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "millers-custom-cleaners-euless",
+   "name": "Millers Custom Cleaners",
+   "summary": "Millers Custom Cleaners is a dry cleaner in Euless, TX at 109 West Harwood Road, Euless, TX 76039.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/millers-custom-cleaners-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/millers-custom-cleaners-euless.json",
+   "address": {
+    "streetAddress": "109 West Harwood Road",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8516385,
+    "lon": -97.0833244
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13748903072",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mlux-nail-bar-euless",
+   "name": "Mlux Nail Bar",
+   "summary": "Mlux Nail Bar is a nail salon in Euless, TX at 2720 State Hwy 121 #100, Euless, TX 76039.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mlux-nail-bar-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mlux-nail-bar-euless.json",
+   "address": {
+    "streetAddress": "2720 State Hwy 121 #100",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8768034,
+    "lon": -97.0979847
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13819310513",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ms-nails-and-spa-euless",
+   "name": "Ms. Nails & Spa",
+   "summary": "Ms. Nails & Spa is a nail salon in Euless, TX at 1060 North Main Street #105, Euless, TX 76039.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ms-nails-and-spa-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ms-nails-and-spa-euless.json",
+   "address": {
+    "streetAddress": "1060 North Main Street #105",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8501529,
+    "lon": -97.0817061
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13755759330",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "perfect-cuts-euless",
+   "name": "Perfect Cuts",
+   "summary": "Perfect Cuts is a hair salon in Euless, TX at 699 East Harwood Road #600, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/perfect-cuts-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/perfect-cuts-euless.json",
+   "address": {
+    "streetAddress": "699 East Harwood Road #600",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8522464,
+    "lon": -97.0734844
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10245375490",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-euless",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Euless, TX at 2800 State Hwy 121 #400, Euless, TX 76039.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-euless.json",
+   "address": {
+    "streetAddress": "2800 State Hwy 121 #400",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8766258,
+    "lon": -97.0963182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/666681750",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pinkys-nails-salon-euless",
+   "name": "Pinky's Nails Salon",
+   "summary": "Pinky's Nails Salon is a nail salon in Euless, TX at 2390 Fuller-Wiser Road #504, Euless, TX 76039.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pinkys-nails-salon-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pinkys-nails-salon-euless.json",
+   "address": {
+    "streetAddress": "2390 Fuller-Wiser Road #504",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8708487,
+    "lon": -97.0733928
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13732250366",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pleasant-dental-euless",
+   "name": "Pleasant Dental",
+   "summary": "Pleasant Dental is a dentist in Euless, TX at 1060 North Main Street #103, Euless, TX 76039.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pleasant-dental-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pleasant-dental-euless.json",
+   "address": {
+    "streetAddress": "1060 North Main Street #103",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8501533,
+    "lon": -97.0818068
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13755759332",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "q-tailor-euless",
+   "name": "Q Tailor",
+   "summary": "Q Tailor is a tailor in Euless, TX at 115 West Harwood Road, Euless, TX 76039.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/q-tailor-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/q-tailor-euless.json",
+   "address": {
+    "streetAddress": "115 West Harwood Road",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8516403,
+    "lon": -97.0835055
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13748903075",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "razors-edge-euless",
+   "name": "Razors Edge",
+   "summary": "Razors Edge is a barber shop in Euless, TX at 1005 West Harwood Road, Euless, TX 76039.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/razors-edge-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/razors-edge-euless.json",
+   "address": {
+    "streetAddress": "1005 West Harwood Road",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8516009,
+    "lon": -97.0984425
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13749118373",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-6ro-chelsea-and-misty-euless",
+   "name": "Salon 6Ro Chelsea & Misty",
+   "summary": "Salon 6Ro Chelsea & Misty is a hair salon in Euless, TX at 901 Clinic Drive, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-6ro-chelsea-and-misty-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-6ro-chelsea-and-misty-euless.json",
+   "address": {
+    "streetAddress": "901 Clinic Drive",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8484987,
+    "lon": -97.0962626
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13752961411",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "scenthound-euless",
+   "name": "Scenthound",
+   "summary": "Scenthound is a dog groomer in Euless, TX at 2720 State Hwy 121 #200, Euless, TX 76039.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scenthound-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scenthound-euless.json",
+   "address": {
+    "streetAddress": "2720 State Hwy 121 #200",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8769415,
+    "lon": -97.0979749
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13819310511",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "shipley-do-nuts-euless",
+   "name": "Shipley Do-Nuts",
+   "summary": "Shipley Do-Nuts is a bakery in Euless, TX at 925 North Industrial Boulevard, Euless, TX 76039.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shipley-do-nuts-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shipley-do-nuts-euless.json",
+   "address": {
+    "streetAddress": "925 North Industrial Boulevard",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8506648,
+    "lon": -97.1004336
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1485152754",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "silver-cleaners-euless",
+   "name": "Silver Cleaners",
+   "summary": "Silver Cleaners is a dry cleaner in Euless, TX at 606 North Industrial Boulevard #C, Euless, TX 76039.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/silver-cleaners-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/silver-cleaners-euless.json",
+   "address": {
+    "streetAddress": "606 North Industrial Boulevard #C",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8447859,
+    "lon": -97.0994725
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13743849082",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sleep-number-euless",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Euless, TX at 2401 State Highway 121 #700, Euless, TX 76039.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-euless.json",
+   "address": {
+    "streetAddress": "2401 State Highway 121 #700",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8718016,
+    "lon": -97.1018007
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13768755665",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sloth-jiu-jitsu-euless",
+   "name": "Sloth Jiu-Jitsu",
+   "summary": "Sloth Jiu-Jitsu is a martial arts school in Euless, TX at 218 North Main Street, Euless, TX 76039.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sloth-jiu-jitsu-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sloth-jiu-jitsu-euless.json",
+   "address": {
+    "streetAddress": "218 North Main Street",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8400689,
+    "lon": -97.0822574
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13730242126",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sola-salons-euless",
+   "name": "Sola Salons",
+   "summary": "Sola Salons is a nail salon in Euless, TX at 1321 Chisholm Trail #200, Euless, TX 76039.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-euless.json",
+   "address": {
+    "streetAddress": "1321 Chisholm Trail #200",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8747041,
+    "lon": -97.1035432
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13768779883",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specs-euless",
+   "name": "Spec's",
+   "summary": "Spec's is a liquor store in Euless, TX at 900 East Harwood Road, Euless, TX 76039.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specs-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specs-euless.json",
+   "address": {
+    "streetAddress": "900 East Harwood Road",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.851202,
+    "lon": -97.0689216
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1120187926",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-euless",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Euless, TX at 3010 State Hwy 121 #600, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-euless.json",
+   "address": {
+    "streetAddress": "3010 State Hwy 121 #600",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8800754,
+    "lon": -97.0982078
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13819213749",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-euless",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Euless, TX at 296 North Main Street, Euless, TX 76039.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-euless.json",
+   "address": {
+    "streetAddress": "296 North Main Street",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8401344,
+    "lon": -97.0822561
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13730242125",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stella-salon-euless",
+   "name": "Stella Salon",
+   "summary": "Stella Salon is a hair salon in Euless, TX at 101 W Glade Road #105, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stella-salon-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stella-salon-euless.json",
+   "address": {
+    "streetAddress": "101 W Glade Road #105",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8807963,
+    "lon": -97.0831838
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738770871",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "styles-barber-and-beauty-euless",
+   "name": "Styles Barber & Beauty",
+   "summary": "Styles Barber & Beauty is a barber shop in Euless, TX at 415 North Main Street #107, Euless, TX 76039.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/styles-barber-and-beauty-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/styles-barber-and-beauty-euless.json",
+   "address": {
+    "streetAddress": "415 North Main Street #107",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8425263,
+    "lon": -97.083538
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13730477533",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sugaring-nyc-organic-waxing-euless",
+   "name": "Sugaring NYC Organic Waxing",
+   "summary": "Sugaring NYC Organic Waxing is a waxing salon in Euless, TX at 1300 Red River Drive #400, Euless, TX 76039.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sugaring-nyc-organic-waxing-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sugaring-nyc-organic-waxing-euless.json",
+   "address": {
+    "streetAddress": "1300 Red River Drive #400",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8757467,
+    "lon": -97.1034087
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13768889545",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-euless",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Euless, TX at 2721 State Highway 121 #200, Euless, TX 76039.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-euless.json",
+   "address": {
+    "streetAddress": "2721 State Highway 121 #200",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8770952,
+    "lon": -97.1005401
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13771893471",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-insurance-euless",
+   "name": "Texas Insurance",
+   "summary": "Texas Insurance is an insurance agent in Euless, TX at 113 West Harwood Road, Euless, TX 76039.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-insurance-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-insurance-euless.json",
+   "address": {
+    "streetAddress": "113 West Harwood Road",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8516399,
+    "lon": -97.083462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13748903074",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-nail-bar-euless",
+   "name": "Texas Nail Bar",
+   "summary": "Texas Nail Bar is a nail salon in Euless, TX at 918 East Harwood Road #E, Euless, TX 76039.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-nail-bar-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-nail-bar-euless.json",
+   "address": {
+    "streetAddress": "918 East Harwood Road #E",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.851242,
+    "lon": -97.0676798
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10245375514",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-reserve-euless",
+   "name": "The Reserve",
+   "summary": "The Reserve is an event venue in Euless, TX at 101 W Glade Road #102, Euless, TX 76039.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-reserve-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-reserve-euless.json",
+   "address": {
+    "streetAddress": "101 W Glade Road #102",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8807926,
+    "lon": -97.08298
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738770872",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "top-leaders-martial-arts-euless",
+   "name": "Top Leaders Martial Arts",
+   "summary": "Top Leaders Martial Arts is a martial arts school in Euless, TX at 1311 Chisholm Trail #200, Euless, TX 76039.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-leaders-martial-arts-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-leaders-martial-arts-euless.json",
+   "address": {
+    "streetAddress": "1311 Chisholm Trail #200",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8747599,
+    "lon": -97.1032997
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13768779882",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "town-and-country-cleaners-euless",
+   "name": "Town & Country Cleaners",
+   "summary": "Town & Country Cleaners is a dry cleaner in Euless, TX at 101 W Glade Road #110, Euless, TX 76039.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/town-and-country-cleaners-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/town-and-country-cleaners-euless.json",
+   "address": {
+    "streetAddress": "101 W Glade Road #110",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8808005,
+    "lon": -97.0835163
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738770865",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "trinity-family-dental-euless",
+   "name": "Trinity Family Dental",
+   "summary": "Trinity Family Dental is a dentist in Euless, TX at 900 North Industrial Boulevard #100, Euless, TX 76039.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trinity-family-dental-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trinity-family-dental-euless.json",
+   "address": {
+    "streetAddress": "900 North Industrial Boulevard #100",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8489636,
+    "lon": -97.0994329
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13749162462",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "upscale-spa-and-nails-euless",
+   "name": "Upscale Spa & Nails",
+   "summary": "Upscale Spa & Nails is a nail salon in Euless, TX at 3010 State Hwy 121 #100, Euless, TX 76039.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/upscale-spa-and-nails-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/upscale-spa-and-nails-euless.json",
+   "address": {
+    "streetAddress": "3010 State Hwy 121 #100",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8798836,
+    "lon": -97.0977957
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13819213752",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valvoline-instant-oil-change-euless",
+   "name": "Valvoline Instant Oil Change",
+   "summary": "Valvoline Instant Oil Change is an auto repair shop in Euless, TX at 2100 Rio Grande Boulevard, Euless, TX 76039.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-instant-oil-change-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-instant-oil-change-euless.json",
+   "address": {
+    "streetAddress": "2100 Rio Grande Boulevard",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76039",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76039",
+   "geo": {
+    "lat": 32.8669657,
+    "lon": -97.1031931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1504736528",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "westpark-rehabilitation-and-living-euless",
+   "name": "Westpark Rehabilitation and Living",
+   "summary": "Westpark Rehabilitation and Living is an assisted living facility in Euless, TX at 900 Westpark Way, Euless, TX 76040.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/westpark-rehabilitation-and-living-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/westpark-rehabilitation-and-living-euless.json",
+   "address": {
+    "streetAddress": "900 Westpark Way",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76040",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76040",
+   "geo": {
+    "lat": 32.825044,
+    "lon": -97.1240914
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/19438057",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "casa-gold-cuts-barbershop-euless",
+   "name": "Casa Gold Cuts Barbershop",
+   "summary": "Casa Gold Cuts Barbershop is a barber shop in Euless, TX at 613, Euless, TX.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/casa-gold-cuts-barbershop-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/casa-gold-cuts-barbershop-euless.json",
+   "address": {
+    "streetAddress": "613",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8447345,
+    "lon": -97.0829279
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13756515198",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-reserve-banquet-hall-euless",
+   "name": "The Reserve Banquet Hall",
+   "summary": "The Reserve Banquet Hall is an event venue in Euless, TX at 101 Glade Road #102, Euless, TX.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-reserve-banquet-hall-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-reserve-banquet-hall-euless.json",
+   "address": {
+    "streetAddress": "101 Glade Road #102",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.880654,
+    "lon": -97.0830297
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196667512",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "trail-creek-dental-euless",
+   "name": "Trail Creek Dental",
+   "summary": "Trail Creek Dental is a dentist in Euless, TX at Westpark Way, Euless, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trail-creek-dental-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trail-creek-dental-euless.json",
+   "address": {
+    "streetAddress": "Westpark Way",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8327049,
+    "lon": -97.120402
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10574760469",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "alpa-insurance-euless",
+   "name": "Alpa Insurance",
+   "summary": "Alpa Insurance is an insurance agent in Euless, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alpa-insurance-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alpa-insurance-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8408283,
+    "lon": -97.0822949
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/642230006",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-nail-bar-euless",
+   "name": "American Nail Bar",
+   "summary": "American Nail Bar is a nail salon in Euless, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-nail-bar-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-nail-bar-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8747606,
+    "lon": -97.1036951
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13768779884",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bliss-dental-euless",
+   "name": "Bliss Dental",
+   "summary": "Bliss Dental is a dentist in Euless, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bliss-dental-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bliss-dental-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.828091,
+    "lon": -97.0991219
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10574760173",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brakes-plus-euless",
+   "name": "Brakes Plus",
+   "summary": "Brakes Plus is an auto repair shop in Euless, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brakes-plus-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brakes-plus-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.852247,
+    "lon": -97.085722
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664692159",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dallas-gold-and-silver-euless",
+   "name": "Dallas Gold And Silver",
+   "summary": "Dallas Gold And Silver is a jewelry store in Euless, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dallas-gold-and-silver-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dallas-gold-and-silver-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8370165,
+    "lon": -97.1023067
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5846444566",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "glade-modern-dentistry-euless",
+   "name": "Glade Modern Dentistry",
+   "summary": "Glade Modern Dentistry is a dentist in Euless, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glade-modern-dentistry-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glade-modern-dentistry-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8806188,
+    "lon": -97.1021998
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10252208959",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "heb-family-dentistry-euless",
+   "name": "HEB Family Dentistry",
+   "summary": "HEB Family Dentistry is a dentist in Euless, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heb-family-dentistry-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heb-family-dentistry-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8523606,
+    "lon": -97.0848681
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1120187879",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "joans-self-service-car-wash-euless",
+   "name": "Joan's Self Service Car Wash",
+   "summary": "Joan's Self Service Car Wash is a car wash in Euless, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joans-self-service-car-wash-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joans-self-service-car-wash-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8433608,
+    "lon": -97.0823029
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/642230003",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-fitness-euless",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Euless, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8754526,
+    "lon": -97.096295
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/666681758",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lanes-automotive-euless",
+   "name": "Lane's Automotive",
+   "summary": "Lane's Automotive is an auto repair shop in Euless, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lanes-automotive-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lanes-automotive-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8444108,
+    "lon": -97.0835814
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1437131669",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lone-star-lube-express-euless",
+   "name": "Lone Star Lube Express",
+   "summary": "Lone Star Lube Express is an auto repair shop in Euless, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lone-star-lube-express-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lone-star-lube-express-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8514405,
+    "lon": -97.0717875
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/557140231",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "monarch-dental-euless",
+   "name": "Monarch Dental",
+   "summary": "Monarch Dental is a dentist in Euless, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/monarch-dental-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/monarch-dental-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8771864,
+    "lon": -97.1005403
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13228060861",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mr-wizards-auto-wash-euless",
+   "name": "Mr. Wizard's Auto Wash",
+   "summary": "Mr. Wizard's Auto Wash is a car wash in Euless, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mr-wizards-auto-wash-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mr-wizards-auto-wash-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.843391,
+    "lon": -97.0823025
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13730658943",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "senior-center-euless",
+   "name": "Senior Center",
+   "summary": "Senior Center is a gym in Euless, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/senior-center-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/senior-center-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8303496,
+    "lon": -97.0917884
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/583327753",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-euless-w652915286",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Euless, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-euless-w652915286/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-euless-w652915286.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8515787,
+    "lon": -97.0989103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/652915286",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vip-nails-and-spa-euless",
+   "name": "VIP Nails & Spa",
+   "summary": "VIP Nails & Spa is a nail salon in Euless, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vip-nails-and-spa-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vip-nails-and-spa-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8280289,
+    "lon": -97.0991182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10574760175",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wash-masters-euless-euless",
+   "name": "Wash Masters Euless",
+   "summary": "Wash Masters Euless is a car wash in Euless, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wash-masters-euless-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wash-masters-euless-euless.json",
+   "address": {
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "geo": {
+    "lat": 32.879913,
+    "lon": -97.0738338
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1162338069",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

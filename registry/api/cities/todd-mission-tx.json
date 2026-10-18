@@ -1,0 +1,55 @@
+{
+ "place": "Todd Mission, TX",
+ "slug": "todd-mission-tx",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "real estate agent todd mission tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-todd-mission-tx.json"
+  },
+  {
+   "keyword": "realtor todd mission tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-todd-mission-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "colton-community-todd-mission",
+   "name": "COLTON Community",
+   "summary": "COLTON Community is a real estate agency in Todd Mission, TX at 42030 Texoma Way, Todd Mission, TX 77316. Phone: +18883048613. Website: https://coltontx.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/colton-community-todd-mission/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/colton-community-todd-mission.json",
+   "address": {
+    "streetAddress": "42030 Texoma Way",
+    "addressLocality": "Todd Mission",
+    "addressRegion": "TX",
+    "postalCode": "77316",
+    "addressCountry": "US"
+   },
+   "city": "Todd Mission",
+   "state": "TX",
+   "zip": "77316",
+   "geo": {
+    "lat": 30.2463349,
+    "lon": -95.7836144
+   },
+   "phone": "+18883048613",
+   "website": "https://coltontx.com/",
+   "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13037833632",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

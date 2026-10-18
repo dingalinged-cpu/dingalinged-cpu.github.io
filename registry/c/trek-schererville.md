@@ -15,7 +15,7 @@ Trek is a bike shop in Schererville, IN at 651 East US-30, Schererville, IN 4637
 - Opening hours (OSM syntax): Su 12:00-17:00; Mo-Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/trek-schererville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/trek-schererville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11032031847 (license ODbL-1.0); source data as of 2026-06-01

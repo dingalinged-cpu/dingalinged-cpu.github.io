@@ -15,7 +15,7 @@ Pioneer Cycle is a bike shop in Blaine, MN at 12741 Central Avenue Northeast, Bl
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pioneer-cycle-blaine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pioneer-cycle-blaine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/611663711 (license ODbL-1.0); source data as of 2026-06-01

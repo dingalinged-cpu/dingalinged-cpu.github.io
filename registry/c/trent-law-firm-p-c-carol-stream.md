@@ -15,7 +15,7 @@ Trent Law Firm, P.C. is a lawyer in Carol Stream, IL at 350 South Schmale Road #
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/trent-law-firm-p-c-carol-stream/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/trent-law-firm-p-c-carol-stream.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5837841485 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Accurate Auto is an auto repair shop in Bridgeview, IL at 7438 West 90th Street,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/accurate-auto-bridgeview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/accurate-auto-bridgeview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6026635479 (license ODbL-1.0); source data as of 2026-06-01

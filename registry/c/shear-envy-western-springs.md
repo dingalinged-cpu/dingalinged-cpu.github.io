@@ -15,7 +15,7 @@ Shear Envy is a hair salon in Western Springs, IL at 1140 Hillgrove Avenue, West
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shear-envy-western-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shear-envy-western-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9603287977 (license ODbL-1.0); source data as of 2026-06-01

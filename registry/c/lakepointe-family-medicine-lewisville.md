@@ -1,0 +1,23 @@
+Lakepointe Family Medicine is a family medicine practice in Lewisville, TX. Phone: +19723158588. Website: https://www.lakepointedpc.com/.
+
+# Lakepointe Family Medicine
+
+- Category: family doctor
+- Services: family doctor, primary care physician
+- Address: Lewisville, TX
+- City: Lewisville
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0098497, -96.97104
+- Phone: +19723158588
+- Website: https://www.lakepointedpc.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-13:00,14:00-17:00; PH closed
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lakepointe-family-medicine-lewisville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lakepointe-family-medicine-lewisville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10713164643 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

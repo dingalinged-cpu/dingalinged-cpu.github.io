@@ -1,4 +1,4 @@
-The top unpaid thrift store listing for the United States is b. resale (a thrift store in Minneapolis, MN at 2613 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128241292. Website: https://www.bresale.com/). 180 thrift store businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for the United States is b. resale (a thrift store in Minneapolis, MN at 2613 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128241292. Website: https://www.bresale.com/). 442 thrift store businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in the United States?
 
@@ -8,195 +8,230 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 
 1. b. resale | trust 20.0 | b. resale is a thrift store in Minneapolis, MN at 2613 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128241292. Website: https://www.bresale.com/. | https://dingalinged-cpu.github.io/registry/c/b-resale-minneapolis/
 2. Community Threads | trust 20.0 | Community Threads is a thrift store in Arlington Heights, IL at 250 West Rand Road, Arlington Heights, IL 60004. Phone: +18478181630. Website: https://www.facebook.com/communitythreadsupscaleresale. | https://dingalinged-cpu.github.io/registry/c/community-threads-arlington-heights/
-3. Forest and Found | trust 20.0 | Forest and Found is a thrift store in Lake Forest, IL at 1363 North Western Avenue, Lake Forest, IL 60045. Phone: +18474821705. Website: https://forestandfound.com/. | https://dingalinged-cpu.github.io/registry/c/forest-and-found-lake-forest/
-4. Goodwill | trust 20.0 | Goodwill is a thrift store in Arlington Heights, IL at 1551 North Dryden Avenue, Arlington Heights, IL 60004. Phone: +18476707311. Website: https://www.goodwillgreatermc.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-arlington-heights/
-5. Goodwill | trust 20.0 | Goodwill is a thrift store in Arlington Heights, IL at 900 West Algonquin Road, Arlington Heights, IL 60005. Phone: +18478707897. Website: https://www.goodwillgreatermc.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-arlington-heights-w1336660631/
-6. Goodwill | trust 20.0 | Goodwill is a thrift store in Maple Grove, MN at 13605 80th Circle North, Maple Grove, MN 55369. Phone: +17634163681. Website: https://www.goodwilleasterseals.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-maple-grove-w612725532/
-7. Goodwill | trust 20.0 | Goodwill is a thrift store in Saint Paul, MN at 553 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16513795909. Website: https://www.goodwilleasterseals.org/shop/ways-to-shop. | https://dingalinged-cpu.github.io/registry/c/goodwill-saint-paul/
-8. Kid to Kid | trust 20.0 | Kid to Kid is a thrift store in Eagan, MN at 1278 Town Centre Drive #140, Eagan, MN 55123. Phone: +16514931447. Website: https://kidtokid.com/location/eagan/. | https://dingalinged-cpu.github.io/registry/c/kid-to-kid-eagan/
-9. Neat Repeats | trust 20.0 | Neat Repeats is a thrift store in Orland Park, IL at 15591 South 94th Avenue, Orland Park, IL 60462. Phone: +17083647605. Website: https://crisisctr.org/neat-repeats/. | https://dingalinged-cpu.github.io/registry/c/neat-repeats-orland-park/
-10. Neat Repeats | trust 20.0 | Neat Repeats is a thrift store in Worth, IL at 6602 West 111th Street, Worth, IL 60482. Phone: +17083616860. Website: https://crisisctr.org/neat-repeats/. | https://dingalinged-cpu.github.io/registry/c/neat-repeats-worth/
-11. Savers | trust 20.0 | Savers is a thrift store in Orland Park, IL at 15625 94th Avenue, Orland Park, IL 60462. Phone: +17084603655. Website: https://stores.savers.com/il/orlandpark/savers-thrift-store-1186.html. | https://dingalinged-cpu.github.io/registry/c/savers-orland-park/
-12. The Brown Elephant | trust 20.0 | The Brown Elephant is a thrift store in Chicago, IL at 5404 North Clark Street, Chicago, IL 60640. Phone: +17732719382. Website: https://howardbrown.org/get-involved/brown-elephant/. | https://dingalinged-cpu.github.io/registry/c/the-brown-elephant-chicago/
-13. The Brown Elephant – Northalsted | trust 20.0 | The Brown Elephant – Northalsted is a thrift store in Chicago, IL at 812 West Belmont Avenue, Chicago, IL 60657. Phone: +17735495943. Website: https://howardbrown.org/get-involved/brown-elephant/. | https://dingalinged-cpu.github.io/registry/c/the-brown-elephant-northalsted-chicago/
-14. The Hope Chest | trust 20.0 | The Hope Chest is a thrift store in La Grange, IL at 305 West Hillgrove Avenue, La Grange, IL 60525. Phone: +17084820359. Website: https://www.thehopechest.net/. | https://dingalinged-cpu.github.io/registry/c/the-hope-chest-la-grange/
-15. TurnStyle | trust 20.0 | TurnStyle is a thrift store in Maple Grove, MN at 13744 83rd Way North, Maple Grove, MN 55369. Phone: +17634202864. Website: https://www.turnstyleconsign.com/. | https://dingalinged-cpu.github.io/registry/c/turnstyle-maple-grove/
-16. West Metro Auction and Equipment | trust 20.0 | West Metro Auction and Equipment is a thrift store in Loretto, MN at 200 North Medina Street, Loretto, MN 55357. Phone: +16123218187. Website: https://www.westmetroauction.com/. | https://dingalinged-cpu.github.io/registry/c/west-metro-auction-and-equipment-loretto/
-17. Winnetka Thrift Shop | trust 20.0 | Winnetka Thrift Shop is a thrift store in Winnetka, IL at 992 Green Bay Road, Winnetka, IL 60093. Phone: +18474467787. Website: https://www.winnetkathriftshop.org/. | https://dingalinged-cpu.github.io/registry/c/winnetka-thrift-shop-winnetka/
-18. Savers | trust 19.0 | Savers is a thrift store in Columbia Heights, MN at 4849 Central Avenue Northeast, Columbia Heights, MN. Phone: +17635711319. Website: https://stores.savers.com/mn/columbiaheights/savers-thrift-store-1029.html. | https://dingalinged-cpu.github.io/registry/c/savers-columbia-heights/
-19. Habitat for Humanity ReStore | trust 17.0 | Habitat for Humanity ReStore is a thrift store in Minneapolis, MN. Phone: +16125883820. Website: https://restore.tchabitat.org/hours-locations. | https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-minneapolis/
-20. Arc's Value Village | trust 16.0 | Arc's Value Village is a thrift store in Richfield, MN at 6528 Penn Avenue South, Richfield, MN 55423. Phone: +16128619550. Website: https://www.arcsvaluevillage.org/. | https://dingalinged-cpu.github.io/registry/c/arcs-value-village-richfield/
-21. Goodwill | trust 16.0 | Goodwill is a thrift store in Lemont Township, IL at 1146 State Street, Lemont Township, IL 60439. Phone: +16302575608. Website: https://www.goodwill.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-lemont-township/
-22. Goodwill | trust 16.0 | Goodwill is a thrift store in Saint Louis Park, MN at 3575 MN-100, Saint Louis Park, MN 55416. Phone: +19529208121. Website: https://www.goodwill.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-saint-louis-park/
-23. Goodwill | trust 16.0 | Goodwill is a thrift store in Woodridge, IL at 8615 Woodward Avenue, Woodridge, IL 60517. Phone: +16309100387. Website: https://www.goodwill.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-woodridge/
-24. Goodwill - Brooklyn Park Outlet | trust 16.0 | Goodwill - Brooklyn Park Outlet is a thrift store in Brooklyn Park, MN at 7051 West Broadway Avenue, Brooklyn Park, MN 55428. Phone: +17637627425. Website: https://www.goodwilleasterseals.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-brooklyn-park-outlet-brooklyn-park/
-25. McShane's Exchange | trust 16.0 | McShane's Exchange is a thrift store in Chicago, IL at 815 West Armitage Avenue, Chicago, IL 60614. Phone: +17735250282. Website: https://www.mcshanes-exchange.com/. | https://dingalinged-cpu.github.io/registry/c/mcshanes-exchange-chicago/
-26. MorningStar's Treasure Chest | trust 16.0 | MorningStar's Treasure Chest is a thrift store in New Lenox, IL at 2571 Lincoln Highway, New Lenox, IL 60451. Phone: +18154623007. Website: https://morningstarmission.org/thrift-stores/. | https://dingalinged-cpu.github.io/registry/c/morningstars-treasure-chest-new-lenox/
-27. The Salvation Army | trust 16.0 | The Salvation Army is a thrift store in Des Plaines, IL at 609 West Dempster Street, Des Plaines, IL 60016. Phone: +18479819111. Website: https://centralusa.salvationarmy.org/desplaines/contact-us/. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-des-plaines/
-28. Village Thrift Store | trust 16.0 | Village Thrift Store is a thrift store in Chicago, IL at 4027 North Kedzie Avenue, Chicago, IL 60618. Phone: +18665453836. Website: https://villagediscountoutlet.com/locations/north-kedzie-chicago/. | https://dingalinged-cpu.github.io/registry/c/village-thrift-store-chicago/
-29. Village Thrift Store | trust 16.0 | Village Thrift Store is a thrift store in Chicago, IL at 3301 West Lawrence Avenue, Chicago, IL 60625. Phone: +18665453836. Website: https://www.vdoil.com/. | https://dingalinged-cpu.github.io/registry/c/village-thrift-store-chicago-w163944705/
-30. DPS Treasures | trust 14.0 | DPS Treasures is a thrift store in Saint Paul, MN at 516 North Prior Avenue, Saint Paul, MN 55104. Phone: +16513386628. | https://dingalinged-cpu.github.io/registry/c/dps-treasures-saint-paul/
-31. Family Shelter Resale Shop | trust 14.0 | Family Shelter Resale Shop is a thrift store in Naperville, IL at 1512 Naper Boulevard #172, Naperville, IL 60563. Website: https://www.metrofamily.org/the-family-shelter-service-resale-shop-in-naperville-is-re-opening-as-of-monday-august-10/. | https://dingalinged-cpu.github.io/registry/c/family-shelter-resale-shop-naperville/
-32. Forever Young Vintage, Thrift & Gift | trust 14.0 | Forever Young Vintage, Thrift & Gift is a thrift store in Saint Paul, MN at 30 7th Street East #220, Saint Paul, MN 55101. Phone: +16514409079. | https://dingalinged-cpu.github.io/registry/c/forever-young-vintage-thrift-and-gift-saint-paul/
-33. Goodwill | trust 14.0 | Goodwill is a thrift store in Chicago, IL at 1201 West Washington Boulevard, Chicago, IL 60607. Phone: +13125631187. | https://dingalinged-cpu.github.io/registry/c/goodwill-chicago/
-34. Goodwill | trust 14.0 | Goodwill is a thrift store in Lake Zurich, IL at 746 South Rand Road, Lake Zurich, IL 60047. Phone: +18475500769. | https://dingalinged-cpu.github.io/registry/c/goodwill-lake-zurich/
-35. Greater Goods Community Thrift | trust 14.0 | Greater Goods Community Thrift is a thrift store in Chicago, IL at 6025 West Irving Park Road, Chicago, IL 60634. Phone: +17736573482. | https://dingalinged-cpu.github.io/registry/c/greater-goods-community-thrift-chicago/
-36. Just Unique | trust 14.0 | Just Unique is a thrift store in Arlington Heights, IL at 628 East Golf Road, Arlington Heights, IL 60005. Phone: +18475293081. | https://dingalinged-cpu.github.io/registry/c/just-unique-arlington-heights/
-37. Mercy Beaucoup! Resale Boutique | trust 14.0 | Mercy Beaucoup! Resale Boutique is a thrift store in Chicago, IL at 1545 North Wells Street, Chicago, IL 60610. Website: https://www.mercybeaucoup.com/. | https://dingalinged-cpu.github.io/registry/c/mercy-beaucoup-resale-boutique-chicago/
-38. Mission Possible | trust 14.0 | Mission Possible is a thrift store in Chicago, IL at 4308 North Lincoln Avenue, Chicago, IL 60618. Phone: +13125194905. | https://dingalinged-cpu.github.io/registry/c/mission-possible-chicago/
-39. Ragstock | trust 14.0 | Ragstock is a thrift store in Minneapolis, MN at 1433A West Lake Street, Minneapolis, MN 55408. Website: https://ragstock.com/. | https://dingalinged-cpu.github.io/registry/c/ragstock-minneapolis/
-40. Sparrow's Nest | trust 14.0 | Sparrow's Nest is a thrift store in Mundelein, IL at 357 Townline Road, Mundelein, IL 60060. Website: https://hosparrow.org/store/mundelein/. | https://dingalinged-cpu.github.io/registry/c/sparrows-nest-mundelein/
-41. Value Village | trust 14.0 | Value Village is a thrift store in Bloomington, MN at 10546 France Avenue South, Bloomington, MN 55431. Website: https://arcsvaluevillage.org/. | https://dingalinged-cpu.github.io/registry/c/value-village-bloomington/
-42. Victory Vintage | trust 14.0 | Victory Vintage is a thrift store in Minneapolis, MN at 3505 West 44th Street, Minneapolis, MN 55410. Website: https://www.shopvictory.com/. | https://dingalinged-cpu.github.io/registry/c/victory-vintage-minneapolis/
-43. WINGS Resale | trust 14.0 | WINGS Resale is a thrift store in Niles, IL at 8349 West Golf Road, Niles, IL 60714. Phone: +18479651454. | https://dingalinged-cpu.github.io/registry/c/wings-resale-niles/
-44. Lucille Resale | trust 13.0 | Lucille Resale is a thrift store in Arlington Heights, IL at 1101 East Rand Road, Arlington Heights, IL. Website: https://www.shoplucille.org/. | https://dingalinged-cpu.github.io/registry/c/lucille-resale-arlington-heights/
-45. Animal Ark Thrift & Pet Store | trust 10.0 | Animal Ark Thrift & Pet Store is a thrift store in Saint Paul, MN at 809 7th Street East, Saint Paul, MN 55106. Website: https://www.animalarkshelter.org/. | https://dingalinged-cpu.github.io/registry/c/animal-ark-thrift-and-pet-store-saint-paul/
-46. B-Squad Vintage | trust 10.0 | B-Squad Vintage is a thrift store in Minneapolis, MN at 3500 Nicollet Avenue South, Minneapolis, MN 55408. Website: https://www.b-squad.com/. | https://dingalinged-cpu.github.io/registry/c/b-squad-vintage-minneapolis/
-47. Consignment Lounge | trust 10.0 | Consignment Lounge is a thrift store in Chicago, IL at 3520 West Diversey Avenue, Chicago, IL 60647. Phone: +17733846273. | https://dingalinged-cpu.github.io/registry/c/consignment-lounge-chicago/
-48. Goodwill | trust 10.0 | Goodwill is a thrift store in Lansing, IL at 3679 Ridge Road, Lansing, IL 60438. Website: https://www.goodwill-ni.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-lansing/
-49. Goodwill Store & Donation Center | trust 10.0 | Goodwill Store & Donation Center is a thrift store in Mundelein, IL at 761 South Midlothian Road, Mundelein, IL 60060. Phone: +18475660636. | https://dingalinged-cpu.github.io/registry/c/goodwill-store-and-donation-center-mundelein/
-50. Habitat for Humanity ReStore | trust 10.0 | Habitat for Humanity ReStore is a thrift store in Chicago, IL at 6040 North Pulaski Road, Chicago, IL 60646. Website: https://www.habitatchicago.org/. | https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-chicago/
-51. Habitat for Humanity ReStore | trust 10.0 | Habitat for Humanity ReStore is a thrift store in Oak Forest, IL at 15411 Cicero Avenue, Oak Forest, IL 60452. Website: https://gohabitatrestore.com/shop-oak-forest/. | https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-oak-forest/
-52. Home2Home Project | trust 10.0 | Home2Home Project is a thrift store in Hodgkins, IL. Website: https://www.theh2hproject.org/. | https://dingalinged-cpu.github.io/registry/c/home2home-project-hodgkins/
-53. Marie|Wesley | trust 10.0 | Marie|Wesley is a thrift store in Chicago, IL at 1122 West 63rd Street, Chicago, IL 60621. Website: https://mariewesley.com/. | https://dingalinged-cpu.github.io/registry/c/marie-wesley-chicago/
-54. Savers | trust 10.0 | Savers is a thrift store in Naperville, IL at 1125 East Ogden Avenue, Naperville, IL 60563. Website: https://stores.savers.com/il/naperville/savers-thrift-store-1250.html. | https://dingalinged-cpu.github.io/registry/c/savers-naperville/
-55. The Prop Shop | trust 10.0 | The Prop Shop is a thrift store in Eden Prairie, MN at 15195 Martin Drive, Eden Prairie, MN 55344. Phone: +19529342323. | https://dingalinged-cpu.github.io/registry/c/the-prop-shop-eden-prairie/
-56. The Salvation Army | trust 10.0 | The Salvation Army is a thrift store in Evanston, IL at 2424 Oakton Street, Evanston, IL 60202. Website: https://centralusa.salvationarmy.org/chicagoarc/. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-evanston/
-57. Very Best Vintage | trust 10.0 | Very Best Vintage is a thrift store in Chicago, IL at 1346 West 18th Street, Chicago, IL 60608. Website: https://www.facebook.com/verybestvintage/. | https://dingalinged-cpu.github.io/registry/c/very-best-vintage-chicago/
-58. Village Discount Outlet | trust 10.0 | Village Discount Outlet is a thrift store in Chicago Heights, IL at 2515 Chicago Road, Chicago Heights, IL 60411. Website: https://www.villagediscountoutlet.com/locations/chicago-heights-ilinois/. | https://dingalinged-cpu.github.io/registry/c/village-discount-outlet-chicago-heights/
-59. Village Discount Outlet | trust 10.0 | Village Discount Outlet is a thrift store in Chicago, IL at 2043 West Roscoe Street, Chicago, IL 60618. Website: https://villagediscountoutlet.com/locations/roscoe-chicago/. | https://dingalinged-cpu.github.io/registry/c/village-discount-outlet-chicago-n5567717007/
-60. Village Discount Outlet | trust 10.0 | Village Discount Outlet is a thrift store in Chicago, IL at 2040;2032 North Milwaukee Avenue, Chicago, IL 60647. Website: https://villagediscountoutlet.com/locations/milwaukee-chicago/. | https://dingalinged-cpu.github.io/registry/c/village-discount-outlet-chicago-w1190161380/
-61. Village Discount Outlet | trust 10.0 | Village Discount Outlet is a thrift store in Chicago, IL at 2514 West 47th Street, Chicago, IL 60632. Website: https://www.villagediscountoutlet.com/05.php. | https://dingalinged-cpu.github.io/registry/c/village-discount-outlet-chicago-w165151145/
-62. Knee Deep Vintage | trust 9.0 | Knee Deep Vintage is a thrift store in Chicago, IL at 1219 West 18th Street, Chicago, IL. Website: https://www.kneedeepvintage.com/. | https://dingalinged-cpu.github.io/registry/c/knee-deep-vintage-chicago/
-63. Legacy Thrift | trust 9.0 | Legacy Thrift is a thrift store in Crystal, MN at 4713 36th Avenue North, Crystal, MN. Phone: +17635221786. | https://dingalinged-cpu.github.io/registry/c/legacy-thrift-crystal/
-64. Mt. Sinai Resale Shop | trust 9.0 | Mt. Sinai Resale Shop is a thrift store in Chicago, IL at 2902 North Clark Street, Chicago, IL. Phone: +17739351434. | https://dingalinged-cpu.github.io/registry/c/mt-sinai-resale-shop-chicago/
-65. ORT Resale Shop | trust 9.0 | ORT Resale Shop is a thrift store in Highland Park, IL at 1710 1st Street, Highland Park, IL. Website: https://ortamerica.org/regions/chicago-region/chicago-ort-resale-shop/. | https://dingalinged-cpu.github.io/registry/c/ort-resale-shop-highland-park/
-66. Shop for Change | trust 9.0 | Shop for Change is a thrift store in Golden Valley, MN at 1220 Zane Avenue North, Golden Valley, MN. Website: https://prismmpls.org/program-overview/shop-for-change-thrift-shop/. | https://dingalinged-cpu.github.io/registry/c/shop-for-change-golden-valley/
-67. The CHAP Store | trust 9.0 | The CHAP Store is a thrift store in Burnsville, MN at 2020 Highway 13 East, Burnsville, MN. Phone: +19528908222. | https://dingalinged-cpu.github.io/registry/c/the-chap-store-burnsville/
-68. Bella Galleria | trust 8.0 | Bella Galleria is a thrift store in Minneapolis, MN at 3006 West 50th Street, Minneapolis, MN 55410. | https://dingalinged-cpu.github.io/registry/c/bella-galleria-minneapolis/
-69. CEA Estate Sale Finds & Consignments | trust 8.0 | CEA Estate Sale Finds & Consignments is a thrift store in Chicago, IL at 2023 West Division Street, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/cea-estate-sale-finds-and-consignments-chicago/
-70. Goodwill | trust 8.0 | Goodwill is a thrift store in Eagan, MN at 1247 Northwood Parkway, Eagan, MN 55121. | https://dingalinged-cpu.github.io/registry/c/goodwill-eagan/
-71. Goodwill | trust 8.0 | Goodwill is a thrift store in Glendale Heights, IL at 543 North Avenue, Glendale Heights, IL 60139. | https://dingalinged-cpu.github.io/registry/c/goodwill-glendale-heights/
-72. Goodwill | trust 8.0 | Goodwill is a thrift store in Griffith, IN at 1601 45th Street, Griffith, IN 46319. | https://dingalinged-cpu.github.io/registry/c/goodwill-griffith/
-73. New Life Resale | trust 8.0 | New Life Resale is a thrift store in Wauconda, IL at 616 West Liberty Street #B, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/new-life-resale-wauconda/
-74. Palatine Sparrow's Nest Thrift Store | trust 8.0 | Palatine Sparrow's Nest Thrift Store is a thrift store in Palatine, IL at 275 East Northwest Highway, Palatine, IL 60067. | https://dingalinged-cpu.github.io/registry/c/palatine-sparrows-nest-thrift-store-palatine/
-75. Salvation Army Thrift Store | trust 8.0 | Salvation Army Thrift Store is a thrift store in Minneapolis, MN at 3742 Nicollet Avenue South, Minneapolis, MN 55409. | https://dingalinged-cpu.github.io/registry/c/salvation-army-thrift-store-minneapolis/
-76. The Salvation Army | trust 8.0 | The Salvation Army is a thrift store in Bridgeview, IL at 9000 Harlem Avenue, Bridgeview, IL 60455. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-bridgeview/
-77. The Salvation Army | trust 8.0 | The Salvation Army is a thrift store in Chicago, IL at 3400 West Montrose Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago/
-78. The Salvation Army | trust 8.0 | The Salvation Army is a thrift store in Lake Zurich, IL at 795 West Main Street, Lake Zurich, IL 60047. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-lake-zurich/
-79. Unique Thrift Store | trust 8.0 | Unique Thrift Store is a thrift store in Chicago, IL at 3748 North Elston Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/unique-thrift-store-chicago/
-80. Consignment Store | trust 7.0 | Consignment Store is a thrift store in Saint Paul, MN at 1412 Arcade Street, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/consignment-store-saint-paul/
-81. The Salvation Army | trust 6.0 | The Salvation Army is a thrift store in Mundelein, IL. Phone: +18475660823. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-mundelein/
-82. Turn Style | trust 6.0 | Turn Style is a thrift store in Coon Rapids, MN. Phone: +17634216686. | https://dingalinged-cpu.github.io/registry/c/turn-style-coon-rapids/
-83. 2nd STREET | trust 4.0 | 2nd STREET is a thrift store in Chicago, IL at 1514 North Milwaukee Avenue, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/2nd-street-chicago/
-84. 2nd STREET | trust 4.0 | 2nd STREET is a thrift store in Chicago, IL at 5228 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/2nd-street-chicago-n13113415001/
-85. 2nd STREET | trust 4.0 | 2nd STREET is a thrift store in Chicago, IL at 666 North Clark Street, Chicago, IL 60657. | https://dingalinged-cpu.github.io/registry/c/2nd-street-chicago-n13113415002/
-86. Acosta's Consignment | trust 4.0 | Acosta's Consignment is a thrift store in Wheaton, IL at 901 East Roosevelt Road, Wheaton, IL 60187. | https://dingalinged-cpu.github.io/registry/c/acostas-consignment-wheaton/
-87. Community Donation Center | trust 4.0 | Community Donation Center is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/community-donation-center-chicago/
-88. Goodwill | trust 4.0 | Goodwill is a thrift store in Champlin, MN at 11910 Business Park Boulevard North, Champlin, MN 55316. | https://dingalinged-cpu.github.io/registry/c/goodwill-champlin/
-89. Goodwill | trust 4.0 | Goodwill is a thrift store in Chicago, IL at 9321 South Western Avenue, Chicago, IL 60643. | https://dingalinged-cpu.github.io/registry/c/goodwill-chicago-n7880427018/
-90. Goodwill | trust 4.0 | Goodwill is a thrift store in Des Plaines, IL at Lee Street, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/goodwill-des-plaines/
-91. Goodwill | trust 4.0 | Goodwill is a thrift store in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-downers-grove/
-92. Goodwill | trust 4.0 | Goodwill is a thrift store in Evanston, IL at 1916 Dempster Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/goodwill-evanston/
-93. Goodwill | trust 4.0 | Goodwill is a thrift store in Glenview, IL at 1511 Waukegan Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/goodwill-glenview/
-94. Goodwill | trust 4.0 | Goodwill is a thrift store in Glenview, IL at 2740 Old Willow Road, Glenview, IL 60026. | https://dingalinged-cpu.github.io/registry/c/goodwill-glenview-w802251235/
-95. Goodwill | trust 4.0 | Goodwill is a thrift store in Hazel Crest, IL at 3401 183rd Street, Hazel Crest, IL 60429. | https://dingalinged-cpu.github.io/registry/c/goodwill-hazel-crest/
-96. Goodwill | trust 4.0 | Goodwill is a thrift store in Maple Grove, MN at 9530 Dunkirk Lane North, Maple Grove, MN 55311. | https://dingalinged-cpu.github.io/registry/c/goodwill-maple-grove/
-97. Goodwill | trust 4.0 | Goodwill is a thrift store in Melrose Park, IL at 200 North Avenue, Melrose Park, IL 60160. | https://dingalinged-cpu.github.io/registry/c/goodwill-melrose-park/
-98. Goodwill | trust 4.0 | Goodwill is a thrift store in Minneapolis, MN at 6023 Nicollet Avenue South, Minneapolis, MN 55419. | https://dingalinged-cpu.github.io/registry/c/goodwill-minneapolis/
-99. Goodwill | trust 4.0 | Goodwill is a thrift store in North Riverside, IL at 1900 South Harlem Avenue, North Riverside, IL 60546. | https://dingalinged-cpu.github.io/registry/c/goodwill-north-riverside/
-100. Goodwill | trust 4.0 | Goodwill is a thrift store in Orland Park, IL at 7400 West 159th Street, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/goodwill-orland-park/
-101. Goodwill | trust 4.0 | Goodwill is a thrift store in Saint Paul, MN at 1239 University Avenue West, Saint Paul, MN 55104. | https://dingalinged-cpu.github.io/registry/c/goodwill-saint-paul-w152586848/
-102. Goodwill | trust 4.0 | Goodwill is a thrift store in Skokie, IL at 5518 West Touhy Avenue, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/goodwill-skokie/
-103. Goodwill | trust 4.0 | Goodwill is a thrift store in West Saint Paul, MN at 1361 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/goodwill-west-saint-paul/
-104. Goodwill | trust 4.0 | Goodwill is a thrift store in Westchester, IL at 3054 Wolf Road, Westchester, IL 60154. | https://dingalinged-cpu.github.io/registry/c/goodwill-westchester/
-105. Goodwill | trust 4.0 | Goodwill is a thrift store in White Bear Lake, MN at 4500 Centerville Road, White Bear Lake, MN 55127. | https://dingalinged-cpu.github.io/registry/c/goodwill-white-bear-lake/
-106. Goodwill | trust 4.0 | Goodwill is a thrift store in Willowbrook, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-willowbrook/
-107. Hip Cat | trust 4.0 | Hip Cat is a thrift store in Chicago, IL at 1900 West Addison Street, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/hip-cat-chicago/
-108. My Sister's Closet | trust 4.0 | My Sister's Closet is a thrift store in Chicago, IL at 5413-5417 West Devon Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/my-sisters-closet-chicago/
-109. Nine Lives | trust 4.0 | Nine Lives is a thrift store in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/nine-lives-saint-paul/
-110. Ort Resale | trust 4.0 | Ort Resale is a thrift store in Evanston, IL at 915 Chicago Avenue, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/ort-resale-evanston/
-111. Overflow | trust 4.0 | Overflow is a thrift store in Summit, IL. | https://dingalinged-cpu.github.io/registry/c/overflow-summit/
-112. Savers | trust 4.0 | Savers is a thrift store in Carol Stream, IL at 1231 North Gary Avenue, Carol Stream, IL 60188. | https://dingalinged-cpu.github.io/registry/c/savers-carol-stream/
-113. Second Wind | trust 4.0 | Second Wind is a thrift store in Whiting, IN at 1422 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/second-wind-whiting/
-114. The Potter's Hand | trust 4.0 | The Potter's Hand is a thrift store in Summit, IL. | https://dingalinged-cpu.github.io/registry/c/the-potters-hand-summit/
-115. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago Heights, IL at 150 North Halsted Street, Chicago Heights, IL 60411. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-heights/
-116. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL at 509 North Union Avenue, Chicago, IL 60654. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-n3445953662/
-117. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL at 6434 West 63rd Street, Chicago, IL 60638. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-n7739017470/
-118. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-n9398303358/
-119. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL at 4052 West Grand Avenue, Chicago, IL 60651. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-w162336071/
-120. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL at 2941 North Central Avenue, Chicago, IL 60634. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-w162627714/
-121. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL at 2151 West Devon Avenue, Chicago, IL 60659. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-w209569800/
-122. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL at 2270 North Clybourn Avenue, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-w28100638/
-123. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Darien, IL at 7511 Lemont Road #180, Darien, IL 60561. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-darien/
-124. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Fridley, MN at 1000 East Moore Lake Drive, Fridley, MN 55432. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-fridley/
-125. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Glenview, IL at 9840 Milwaukee Avenue, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-glenview/
-126. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Merrillville, IN at 600 West 81st Avenue, Merrillville, IN 46410. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-merrillville/
-127. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Oak Lawn, IL at 8732 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-oak-lawn/
-128. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Rogers, MN at 20870 Rogers Drive, Rogers, MN 55374. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-rogers/
-129. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in South Holland, IL at 800 East 162nd Street, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-south-holland/
-130. Time Bomb Vintage | trust 4.0 | Time Bomb Vintage is a thrift store in Minneapolis, MN at 3543 East Lake Street, Minneapolis, MN 55406. | https://dingalinged-cpu.github.io/registry/c/time-bomb-vintage-minneapolis/
-131. Unique Thrift Donation Center | trust 4.0 | Unique Thrift Donation Center is a thrift store in New Hope, MN at 4471 Winnetka Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/unique-thrift-donation-center-new-hope/
-132. Village Discount Outlet | trust 4.0 | Village Discount Outlet is a thrift store in Chicago, IL at 4898 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/village-discount-outlet-chicago/
-133. Vintage Frills | trust 4.0 | Vintage Frills is a thrift store in Chicago, IL at 2846 North Milwaukee Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/vintage-frills-chicago/
-134. West Lake Resellers | trust 4.0 | West Lake Resellers is a thrift store in Spring Park, MN at 4500 Shoreline Drive, Spring Park, MN 55384. | https://dingalinged-cpu.github.io/registry/c/west-lake-resellers-spring-park/
-135. Goodwill | trust 3.0 | Goodwill is a thrift store in Roseville, MN at 2500, Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/goodwill-roseville/
-136. Habitat for Humanity ReStore | trust 3.0 | Habitat for Humanity ReStore is a thrift store in Arlington Heights, IL at 955 East Rand Road, Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-arlington-heights/
-137. Solé Resale Boutique | trust 3.0 | Solé Resale Boutique is a thrift store in Chicago, IL at 2413 West Madison Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/sol-resale-boutique-chicago/
-138. The Salvation Army | trust 3.0 | The Salvation Army is a thrift store in Arlington Heights, IL at 1033 East Rand Road, Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-arlington-heights/
-139. Goodwill | trust 1.0 | Goodwill is a thrift store in Dyer, IN. | https://dingalinged-cpu.github.io/registry/c/goodwill-dyer/
-140. Able Light Thrift Shop | trust 0.0 | Able Light Thrift Shop is a thrift store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/able-light-thrift-shop-minnetonka/
-141. Arc's Vallue Village Donation Center | trust 0.0 | Arc's Vallue Village Donation Center is a thrift store in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/arcs-vallue-village-donation-center-new-hope/
-142. Bearded Mermaid Bazaar | trust 0.0 | Bearded Mermaid Bazaar is a thrift store in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/bearded-mermaid-bazaar-saint-paul/
-143. Bronco Resale Shop | trust 0.0 | Bronco Resale Shop is a thrift store in Berkeley, IL. | https://dingalinged-cpu.github.io/registry/c/bronco-resale-shop-berkeley/
-144. Cynthia's Consignment | trust 0.0 | Cynthia's Consignment is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/cynthias-consignment-chicago/
-145. DD's Place | trust 0.0 | DD's Place is a thrift store in South Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/dds-place-south-saint-paul/
-146. Family Thrift Store | trust 0.0 | Family Thrift Store is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/family-thrift-store-chicago/
-147. Goodwill | trust 0.0 | Goodwill is a thrift store in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/goodwill-blaine/
-148. Goodwill | trust 0.0 | Goodwill is a thrift store in Bloomingdale, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-bloomingdale/
-149. Goodwill | trust 0.0 | Goodwill is a thrift store in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/goodwill-bloomington/
-150. Goodwill | trust 0.0 | Goodwill is a thrift store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-bolingbrook/
-151. Goodwill | trust 0.0 | Goodwill is a thrift store in Chanhassen, MN. | https://dingalinged-cpu.github.io/registry/c/goodwill-chanhassen/
-152. Goodwill | trust 0.0 | Goodwill is a thrift store in Coon Rapids, MN. | https://dingalinged-cpu.github.io/registry/c/goodwill-coon-rapids/
-153. Goodwill | trust 0.0 | Goodwill is a thrift store in Frankfort, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-frankfort/
-154. Goodwill | trust 0.0 | Goodwill is a thrift store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/goodwill-gary/
-155. Goodwill | trust 0.0 | Goodwill is a thrift store in Hopkins, MN. | https://dingalinged-cpu.github.io/registry/c/goodwill-hopkins/
-156. Goodwill | trust 0.0 | Goodwill is a thrift store in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-joliet/
-157. Goodwill | trust 0.0 | Goodwill is a thrift store in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-lombard/
-158. Goodwill | trust 0.0 | Goodwill is a thrift store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/goodwill-maplewood/
-159. Goodwill | trust 0.0 | Goodwill is a thrift store in New Lenox, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-new-lenox/
-160. Goodwill | trust 0.0 | Goodwill is a thrift store in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-northbrook/
-161. Goodwill | trust 0.0 | Goodwill is a thrift store in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-palatine/
-162. Goodwill | trust 0.0 | Goodwill is a thrift store in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-romeoville/
-163. Goodwill E-Commerce | trust 0.0 | Goodwill E-Commerce is a thrift store in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/goodwill-e-commerce-brooklyn-park/
-164. Interfaith Outreach Community Partners | trust 0.0 | Interfaith Outreach Community Partners is a thrift store in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/interfaith-outreach-community-partners-plymouth/
-165. Landfill Books & Music | trust 0.0 | Landfill Books & Music is a thrift store in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/landfill-books-and-music-saint-paul/
-166. Logan Square Resale Shop | trust 0.0 | Logan Square Resale Shop is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/logan-square-resale-shop-chicago/
-167. Mama's Resale Shop | trust 0.0 | Mama's Resale Shop is a thrift store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/mamas-resale-shop-gary/
-168. My Grandma's Attic | trust 0.0 | My Grandma's Attic is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/my-grandmas-attic-chicago/
-169. Resale - Second Hand etc | trust 0.0 | Resale - Second Hand etc is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/resale-second-hand-etc-chicago/
-170. Russel J's Thrift | trust 0.0 | Russel J's Thrift is a thrift store in Saint Paul Park, MN. | https://dingalinged-cpu.github.io/registry/c/russel-js-thrift-saint-paul-park/
-171. Savers | trust 0.0 | Savers is a thrift store in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/savers-hoffman-estates/
-172. Stay Gold Vintage | trust 0.0 | Stay Gold Vintage is a thrift store in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/stay-gold-vintage-minneapolis/
-173. Stone Soup Thrift Store | trust 0.0 | Stone Soup Thrift Store is a thrift store in Saint Paul Park, MN. | https://dingalinged-cpu.github.io/registry/c/stone-soup-thrift-store-saint-paul-park/
-174. The Ark | trust 0.0 | The Ark is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-ark-chicago/
-175. The Salvation Army | trust 0.0 | The Salvation Army is a thrift store in Franklin Park, IL. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-franklin-park/
-176. The Salvation Army | trust 0.0 | The Salvation Army is a thrift store in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-minneapolis/
-177. The Salvation Army | trust 0.0 | The Salvation Army is a thrift store in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-saint-paul/
-178. The Salvation Army Family Store & Donation Center | trust 0.0 | The Salvation Army Family Store & Donation Center is a thrift store in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-family-store-and-donation-center-saint-paul/
-179. Three Stars Resale Shop | trust 0.0 | Three Stars Resale Shop is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/three-stars-resale-shop-chicago/
-180. Wings Resale | trust 0.0 | Wings Resale is a thrift store in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/wings-resale-schaumburg/
+3. Family Thrift Center | trust 20.0 | Family Thrift Center is a thrift store in Garland, TX at 861 West Miller Road, Garland, TX 75041. Phone: +12147039470. Website: https://familythriftcenter.com/. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-garland/
+4. Forest and Found | trust 20.0 | Forest and Found is a thrift store in Lake Forest, IL at 1363 North Western Avenue, Lake Forest, IL 60045. Phone: +18474821705. Website: https://forestandfound.com/. | https://dingalinged-cpu.github.io/registry/c/forest-and-found-lake-forest/
+5. Genesis Benefit Thrift Store | trust 20.0 | Genesis Benefit Thrift Store is a thrift store in Dallas, TX at 3419 Knight Street, Dallas, TX 75219. Phone: +12145206644. Website: https://www.genesisshelter.org/benefit-store/. | https://dingalinged-cpu.github.io/registry/c/genesis-benefit-thrift-store-dallas/
+6. Goodwill | trust 20.0 | Goodwill is a thrift store in Arlington Heights, IL at 1551 North Dryden Avenue, Arlington Heights, IL 60004. Phone: +18476707311. Website: https://www.goodwillgreatermc.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-arlington-heights/
+7. Goodwill | trust 20.0 | Goodwill is a thrift store in Arlington Heights, IL at 900 West Algonquin Road, Arlington Heights, IL 60005. Phone: +18478707897. Website: https://www.goodwillgreatermc.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-arlington-heights-w1336660631/
+8. Goodwill | trust 20.0 | Goodwill is a thrift store in Brookfield, WI at 18605 West Bluemound Road, Brookfield, WI 53045. Phone: +12629010089. Website: https://www.goodwillgreatermc.org/contact/all-locations/location-details/brookfield-store-and-donation-center. | https://dingalinged-cpu.github.io/registry/c/goodwill-brookfield/
+9. Goodwill | trust 20.0 | Goodwill is a thrift store in Carrollton, TX at 2116 East Belt Line Road, Carrollton, TX 75006. Phone: +19724166051. Website: https://goodwilldallas.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-carrollton/
+10. Goodwill | trust 20.0 | Goodwill is a thrift store in Franklin, WI at 6941 South Riverwood Boulevard, Franklin, WI 53132. Phone: +14143041262. Website: https://www.goodwillgreatermc.org/contact/all-locations/location-details/franklin-store-and-donation-center. | https://dingalinged-cpu.github.io/registry/c/goodwill-franklin/
+11. Goodwill | trust 20.0 | Goodwill is a thrift store in Garland, TX at 1661 Northwest Highway, Garland, TX 75041. Phone: +12148077195. Website: https://www.goodwilldallas.org/locations/nw-hwy-store-and-donation-center/. | https://dingalinged-cpu.github.io/registry/c/goodwill-garland-w641613451/
+12. Goodwill | trust 20.0 | Goodwill is a thrift store in Garland, TX at 3106 North Shiloh Road, Garland, TX 75044. Phone: +19725304542. Website: https://www.goodwilldallas.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-garland-w679557212/
+13. Goodwill | trust 20.0 | Goodwill is a thrift store in Houston, TX at 9606 Hillcroft Avenue, Houston, TX 77096. Phone: +17137210167. Website: https://goodwillhouston.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-houston-w255735292/
+14. Goodwill | trust 20.0 | Goodwill is a thrift store in Maple Grove, MN at 13605 80th Circle North, Maple Grove, MN 55369. Phone: +17634163681. Website: https://www.goodwilleasterseals.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-maple-grove-w612725532/
+15. Goodwill | trust 20.0 | Goodwill is a thrift store in Milwaukee, WI at 190 North Broadway, Milwaukee, WI 53202. Phone: +14142731797. Website: https://www.amazinggoodwill.com/stores/33. | https://dingalinged-cpu.github.io/registry/c/goodwill-milwaukee/
+16. Goodwill | trust 20.0 | Goodwill is a thrift store in New Berlin, WI at 3540 South Moorland Road, New Berlin, WI 53151. Phone: +12626418868. Website: https://www.goodwillgreatermc.org/contact/all-locations/location-details/new-berlin-store-and-donation-center. | https://dingalinged-cpu.github.io/registry/c/goodwill-new-berlin/
+17. Goodwill | trust 20.0 | Goodwill is a thrift store in Oak Creek, WI at 8201 South Howell Avenue #Suite 100, Oak Creek, WI 53154. Phone: +14145630134. Website: https://www.goodwillgreatermc.org/contact/all-locations/location-details/oak-creek-store-and-donation-center. | https://dingalinged-cpu.github.io/registry/c/goodwill-oak-creek/
+18. Goodwill | trust 20.0 | Goodwill is a thrift store in Saint Paul, MN at 553 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16513795909. Website: https://www.goodwilleasterseals.org/shop/ways-to-shop. | https://dingalinged-cpu.github.io/registry/c/goodwill-saint-paul/
+19. Goodwill | trust 20.0 | Goodwill is a thrift store in Sugar Land, TX at 16525 Lexington Boulevard #100, Sugar Land, TX 77479. Phone: +12813250218. Website: https://www.goodwillhouston.org/locations/lexington/. | https://dingalinged-cpu.github.io/registry/c/goodwill-sugar-land-n12714808829/
+20. Goodwill | trust 20.0 | Goodwill is a thrift store in West Allis, WI at 10909 West Oklahoma Avenue, West Allis, WI 53227. Phone: +14145416330. Website: https://www.goodwillgreatermc.org/contact/all-locations/location-details/west-allis-store-and-donation-center. | https://dingalinged-cpu.github.io/registry/c/goodwill-west-allis/
+21. Goodwill Donation Center | trust 20.0 | Goodwill Donation Center is a thrift store in Houston, TX at 8721 Stella Link Road, Houston, TX 77098. Phone: +17136608596. Website: https://www.goodwillhouston.org/locations/stella-link/. | https://dingalinged-cpu.github.io/registry/c/goodwill-donation-center-houston/
+22. Goodwill Store & Donation Center - Westmoreland | trust 20.0 | Goodwill Store & Donation Center - Westmoreland is a thrift store in Dallas, TX at 3020 N Westmoreland Rd, Dallas, TX 75212. Phone: +12146283736. Website: https://www.goodwilldallas.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-store-and-donation-center-westmoreland-dallas/
+23. Goodwill Super Store | trust 20.0 | Goodwill Super Store is a thrift store in Hurst, TX at 825 West Pipeline Road, Hurst, TX 76053. Phone: +18175900327. Website: https://www.goodwillfortworth.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-super-store-hurst/
+24. Helping Hands Boutique | trust 20.0 | Helping Hands Boutique is a thrift store in Rockwall, TX at 959 Williams Street, Rockwall, TX 75087. Phone: +19727711655. Website: https://rockwallhelpinghands.com/thrift-store/. | https://dingalinged-cpu.github.io/registry/c/helping-hands-boutique-rockwall/
+25. Hope's Door | trust 20.0 | Hope's Door is a thrift store in Plano, TX at 2129 West Parker Road #300, Plano, TX 75023. Phone: +19727690610. Website: https://hdnbc.org/resale-store. | https://dingalinged-cpu.github.io/registry/c/hopes-door-plano/
+26. JJ's Closet | trust 20.0 | JJ's Closet is a thrift store in Spring, TX at 322 Gentry Street #A, Spring, TX 77373. Phone: +13463701381. Website: https://jjsclosetllc.com/. | https://dingalinged-cpu.github.io/registry/c/jjs-closet-spring/
+27. Kid to Kid | trust 20.0 | Kid to Kid is a thrift store in Eagan, MN at 1278 Town Centre Drive #140, Eagan, MN 55123. Phone: +16514931447. Website: https://kidtokid.com/location/eagan/. | https://dingalinged-cpu.github.io/registry/c/kid-to-kid-eagan/
+28. Life Message Thrift | trust 20.0 | Life Message Thrift is a thrift store in Rowlett, TX at 4501 Rowlett Road #100, Rowlett, TX 75088. Phone: +19724124092. Website: https://lifemessage.org/thrift-store. | https://dingalinged-cpu.github.io/registry/c/life-message-thrift-rowlett/
+29. Metrocrest Resale | trust 20.0 | Metrocrest Resale is a thrift store in Carrollton, TX at 2661 Midway Road #207, Carrollton, TX 75006. Phone: +19722501900. Website: https://metrocrestservices.org/metrocrest-resale/. | https://dingalinged-cpu.github.io/registry/c/metrocrest-resale-carrollton/
+30. Neat Repeats | trust 20.0 | Neat Repeats is a thrift store in Orland Park, IL at 15591 South 94th Avenue, Orland Park, IL 60462. Phone: +17083647605. Website: https://crisisctr.org/neat-repeats/. | https://dingalinged-cpu.github.io/registry/c/neat-repeats-orland-park/
+31. Neat Repeats | trust 20.0 | Neat Repeats is a thrift store in Worth, IL at 6602 West 111th Street, Worth, IL 60482. Phone: +17083616860. Website: https://crisisctr.org/neat-repeats/. | https://dingalinged-cpu.github.io/registry/c/neat-repeats-worth/
+32. Nu2U Resale | trust 20.0 | Nu2U Resale is a thrift store in Arlington, TX at 2220 West Park Row Drive #B, Arlington, TX 76013. Phone: +18177956379. Website: https://arlingtonurbanministries.org/nu2u-resale. | https://dingalinged-cpu.github.io/registry/c/nu2u-resale-arlington/
+33. Out of the Closet | trust 20.0 | Out of the Closet is a thrift store in Dallas, TX at 3920 Cedar Springs Road, Dallas, TX 75219. Phone: +12145992173. Website: https://locations.outofthecloset.org/tx-dallas-18210300. | https://dingalinged-cpu.github.io/registry/c/out-of-the-closet-dallas/
+34. Pennies for Heaven Resale | trust 20.0 | Pennies for Heaven Resale is a thrift store in Dallas, TX at 17471 Preston Road, Dallas, TX 75252. Phone: +19729822726. Website: https://pfhresale.com/. | https://dingalinged-cpu.github.io/registry/c/pennies-for-heaven-resale-dallas/
+35. Prime Thrift | trust 20.0 | Prime Thrift is a thrift store in Dallas, TX at 4640 South 2nd Avenue, Dallas, TX 75210. Phone: +12144283156. Website: https://primethrift.com/pages/2nd-ave. | https://dingalinged-cpu.github.io/registry/c/prime-thrift-dallas/
+36. Restore - Habitat for Humanity | trust 20.0 | Restore - Habitat for Humanity is a thrift store in Arlington, TX at 905 West Mayfield Road, Arlington, TX 76015. Phone: +16824330006. Website: https://habitat-restore.com/. | https://dingalinged-cpu.github.io/registry/c/restore-habitat-for-humanity-arlington/
+37. Saint Paul's Thrift Shop | trust 20.0 | Saint Paul's Thrift Shop is a thrift store in Milwaukee, WI at 1324 North Marshall Street, Milwaukee, WI 53202. Phone: +14142765520. Website: https://www.stpaulsmilwaukee.org/building/thrift-shop/. | https://dingalinged-cpu.github.io/registry/c/saint-pauls-thrift-shop-milwaukee/
+38. Saint Vincent de Paul Thrift Store | trust 20.0 | Saint Vincent de Paul Thrift Store is a thrift store in Waukesha, WI at S30 W24896 Sunset Drive, Waukesha, WI 53189. Phone: +12625473281. Website: https://www.svdpthrift.net/. | https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-waukesha/
+39. Savers | trust 20.0 | Savers is a thrift store in Orland Park, IL at 15625 94th Avenue, Orland Park, IL 60462. Phone: +17084603655. Website: https://stores.savers.com/il/orlandpark/savers-thrift-store-1186.html. | https://dingalinged-cpu.github.io/registry/c/savers-orland-park/
+40. Texas Thrift | trust 20.0 | Texas Thrift is a thrift store in Garland, TX at 1406 West Walnut Street, Garland, TX 75042. Phone: +12147030454. Website: https://buythrift.com/. | https://dingalinged-cpu.github.io/registry/c/texas-thrift-garland/
+41. The Brown Elephant | trust 20.0 | The Brown Elephant is a thrift store in Chicago, IL at 5404 North Clark Street, Chicago, IL 60640. Phone: +17732719382. Website: https://howardbrown.org/get-involved/brown-elephant/. | https://dingalinged-cpu.github.io/registry/c/the-brown-elephant-chicago/
+42. The Brown Elephant – Northalsted | trust 20.0 | The Brown Elephant – Northalsted is a thrift store in Chicago, IL at 812 West Belmont Avenue, Chicago, IL 60657. Phone: +17735495943. Website: https://howardbrown.org/get-involved/brown-elephant/. | https://dingalinged-cpu.github.io/registry/c/the-brown-elephant-northalsted-chicago/
+43. The Hope Chest | trust 20.0 | The Hope Chest is a thrift store in La Grange, IL at 305 West Hillgrove Avenue, La Grange, IL 60525. Phone: +17084820359. Website: https://www.thehopechest.net/. | https://dingalinged-cpu.github.io/registry/c/the-hope-chest-la-grange/
+44. TurnStyle | trust 20.0 | TurnStyle is a thrift store in Maple Grove, MN at 13744 83rd Way North, Maple Grove, MN 55369. Phone: +17634202864. Website: https://www.turnstyleconsign.com/. | https://dingalinged-cpu.github.io/registry/c/turnstyle-maple-grove/
+45. Uptown Cheapskate | trust 20.0 | Uptown Cheapskate is a thrift store in Euless, TX at 1220 Chisholm Trail #200, Euless, TX 76039. Phone: +18173984222. Website: https://www.uptowncheapskate.com/colleyville/. | https://dingalinged-cpu.github.io/registry/c/uptown-cheapskate-euless/
+46. Value Village | trust 20.0 | Value Village is a thrift store in Racine, WI at 4103 Durand Avenue, Racine, WI 53405. Phone: +12625545080. Website: https://www.valuevillagewi.com/resume-1. | https://dingalinged-cpu.github.io/registry/c/value-village-racine/
+47. West Metro Auction and Equipment | trust 20.0 | West Metro Auction and Equipment is a thrift store in Loretto, MN at 200 North Medina Street, Loretto, MN 55357. Phone: +16123218187. Website: https://www.westmetroauction.com/. | https://dingalinged-cpu.github.io/registry/c/west-metro-auction-and-equipment-loretto/
+48. Winnetka Thrift Shop | trust 20.0 | Winnetka Thrift Shop is a thrift store in Winnetka, IL at 992 Green Bay Road, Winnetka, IL 60093. Phone: +18474467787. Website: https://www.winnetkathriftshop.org/. | https://dingalinged-cpu.github.io/registry/c/winnetka-thrift-shop-winnetka/
+49. Charity Guild Shop | trust 19.0 | Charity Guild Shop is a thrift store in Houston, TX at 1203 Lovett Boulevard, Houston, TX. Phone: +17135290995. Website: https://charityguildshop.org/. | https://dingalinged-cpu.github.io/registry/c/charity-guild-shop-houston/
+50. Family Place Resale Shop | trust 19.0 | Family Place Resale Shop is a thrift store in Dallas, TX at 11722 Marsh Lane, Dallas, TX. Phone: +12143580381. Website: https://familyplace.org/resale-shop. | https://dingalinged-cpu.github.io/registry/c/family-place-resale-shop-dallas/
+
+## More thrift store listings (442 total; top 50 unpaid shown)
+- Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/thrift-store.jsonl
+- Chicago, IL: 45 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-chicago-il/
+- Houston, TX: 44 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-houston-tx/
+- Dallas, TX: 33 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-dallas-tx/
+- Arlington, TX: 12 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-arlington-tx/
+- Milwaukee, WI: 12 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-milwaukee-wi/
+- Saint Paul, MN: 11 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-saint-paul-mn/
+- Minneapolis, MN: 11 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-minneapolis-mn/
+- Harris County, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-harris-county-tx/
+- Denton, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-denton-tx/
+- Arlington Heights, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-arlington-heights-il/
+- Plano, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-plano-tx/
+- Humble, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-humble-tx/
+- Garland, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-garland-tx/
+- Lewisville, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-lewisville-tx/
+- Richardson, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-richardson-tx/
+- Racine, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-racine-wi/
+- Allen, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-allen-tx/
+- Webster, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-webster-tx/
+- Waxahachie, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-waxahachie-tx/
+- Pasadena, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-pasadena-tx/
+- Frisco, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-frisco-tx/
+- Carrollton, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-carrollton-tx/
+- Irving, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-irving-tx/
+- Montgomery County, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-montgomery-county-tx/
+- Richmond, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-richmond-tx/
+- Tomball, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-tomball-tx/
+- Evanston, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-evanston-il/
+- Glenview, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-glenview-il/
+- Orland Park, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-orland-park-il/
+- Mundelein, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-mundelein-il/
+- Maple Grove, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-maple-grove-mn/
+- Union Grove, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-union-grove-wi/
+- Waukesha, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-waukesha-wi/
+- West Allis, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-west-allis-wi/
+- Conroe, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-conroe-tx/
+- Pearland, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-pearland-tx/
+- Euless, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-euless-tx/
+- Mckinney, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-mckinney-tx/
+- Bedford, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-bedford-tx/
+- Mesquite, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-mesquite-tx/
+- Roanoke, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-roanoke-tx/
+- Rosenberg, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-rosenberg-tx/
+- Sugar Land, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-sugar-land-tx/
+- Hurst, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-hurst-tx/
+- Rockwall, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-rockwall-tx/
+- North Richland Hills, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-north-richland-hills-tx/
+- Bellaire, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-bellaire-tx/
+- Naperville, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-naperville-il/
+- Des Plaines, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-des-plaines-il/
+- Lake Zurich, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-lake-zurich-il/
+- New Lenox, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-new-lenox-il/
+- Palatine, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-palatine-il/
+- Summit, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-summit-il/
+- Chicago Heights, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-chicago-heights-il/
+- New Hope, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-new-hope-mn/
+- Bloomington, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-bloomington-mn/
+- Brooklyn Park, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-brooklyn-park-mn/
+- Coon Rapids, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-coon-rapids-mn/
+- Eagan, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-eagan-mn/
+- Saint Paul Park, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-saint-paul-park-mn/
+- Oak Creek, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-oak-creek-wi/
+- Franklin, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-franklin-wi/
+- West Bend, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-west-bend-wi/
+- Greenfield, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-greenfield-wi/
+- Gary, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-gary-in/
+- Friendswood, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-friendswood-tx/
+- Forney, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-forney-tx/
+- Alvin, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-alvin-tx/
+- Farmersville, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-farmersville-tx/
+- Fort Bend County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-fort-bend-county-tx/
+- Kennedale, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-kennedale-tx/
+- Fort Worth, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-fort-worth-tx/
+- League City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-league-city-tx/
+- Missouri City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-missouri-city-tx/
+- Sachse, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-sachse-tx/
+- Rowlett, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-rowlett-tx/
+- Pantego, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-pantego-tx/
+- Wharton, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-wharton-tx/
+- Shenandoah, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-shenandoah-tx/
+- Cedar Hill, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-cedar-hill-tx/
+- Kaufman, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-kaufman-tx/
+- Texas City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-texas-city-tx/
+- Stafford, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-stafford-tx/
+- Galveston County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-galveston-county-tx/
+- Wheaton, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-wheaton-il/
+- Berkeley, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-berkeley-il/
+- Lake Forest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-lake-forest-il/
+- Bloomingdale, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-bloomingdale-il/
+- Bolingbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-bolingbrook-il/
+- Downers Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-downers-grove-il/
+- Frankfort, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-frankfort-il/
+- Glendale Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-glendale-heights-il/
+- Hazel Crest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-hazel-crest-il/
+- Joliet, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-joliet-il/
+- Lansing, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-lansing-il/
+- Lemont Township, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-lemont-township-il/
+- Lombard, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-lombard-il/
+- Melrose Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-melrose-park-il/
+- North Riverside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-north-riverside-il/
+- Northbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-northbrook-il/
+- Romeoville, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-romeoville-il/
+- Skokie, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-skokie-il/
+- Westchester, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-westchester-il/
+- Willowbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-willowbrook-il/
+- Woodridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-woodridge-il/
+- Oak Forest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-oak-forest-il/
+- Hodgkins, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-hodgkins-il/
+- Worth, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-worth-il/
+- Wauconda, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-wauconda-il/
+- Highland Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-highland-park-il/
+- Carol Stream, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-carol-stream-il/
+- Hoffman Estates, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-hoffman-estates-il/
+- La Grange, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-la-grange-il/
+- Bridgeview, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-bridgeview-il/
+- Darien, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-darien-il/
+- Franklin Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-franklin-park-il/
+- Oak Lawn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-oak-lawn-il/
+- South Holland, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-south-holland-il/
+- Niles, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-niles-il/
+- Schaumburg, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-schaumburg-il/
+- Winnetka, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-winnetka-il/
+- Minnetonka, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-minnetonka-mn/
+- Richfield, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-richfield-mn/
+- South Saint Paul, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-south-saint-paul-mn/
+- Blaine, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-blaine-mn/
+- Champlin, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-champlin-mn/
+- Chanhassen, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-chanhassen-mn/
+- Hopkins, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-hopkins-mn/
+- Maplewood, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-maplewood-mn/
+- Roseville, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-roseville-mn/
+- Saint Louis Park, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-saint-louis-park-mn/
+- West Saint Paul, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-west-saint-paul-mn/
+- White Bear Lake, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-white-bear-lake-mn/
+- Plymouth, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-plymouth-mn/
+- Crystal, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-crystal-mn/
+- Columbia Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-columbia-heights-mn/
+- Golden Valley, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-golden-valley-mn/
+- Burnsville, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-burnsville-mn/
+- Eden Prairie, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-eden-prairie-mn/
+- Fridley, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-fridley-mn/
+- Rogers, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-rogers-mn/
+- Spring Park, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-spring-park-mn/
+- Loretto, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-loretto-mn/
+- Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-brookfield-wi/
+- Brown Deer, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-brown-deer-wi/
+- Mount Pleasant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-mount-pleasant-wi/
+- New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-new-berlin-wi/
+- Sturtevant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-sturtevant-wi/
+- West Milwaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-west-milwaukee-wi/
+- Village Of Germantown, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-village-of-germantown-wi/
+- Town Of Norway, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-town-of-norway-wi/
+- Slinger, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-slinger-wi/
+- Village Of Pewaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-village-of-pewaukee-wi/
+- Village Of Waukesha, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-village-of-waukesha-wi/
+- Burlington, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-burlington-wi/
+- Cudahy, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-cudahy-wi/
+- Hales Corners, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-hales-corners-wi/
+- Saint Francis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-saint-francis-wi/
+- Dyer, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-dyer-in/
+- Griffith, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-griffith-in/
+- Whiting, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-whiting-in/
+- Merrillville, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/thrift-store-merrillville-in/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
-- US monthly searches: 140,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
 - CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 180
+- Registry businesses competing: 442
 - Equivalent Google Ads cost per month: ~$52,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/thrift-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#thrift-store | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/thrift-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#thrift-store | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

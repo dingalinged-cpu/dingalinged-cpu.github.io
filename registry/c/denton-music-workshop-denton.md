@@ -1,0 +1,23 @@
+Denton Music Workshop is a music school in Denton, TX at 221 North Locust Street, Denton, TX 76201. Phone: +19402151929. Website: https://www.dentonmusicworkshop.com/.
+
+# Denton Music Workshop
+
+- Category: music lessons
+- Services: music lessons
+- Address: 221 North Locust Street, Denton, TX 76201
+- City: Denton
+- State: TX
+- ZIP: 76201
+- Coordinates: 33.2163445, -97.1325802
+- Phone: +19402151929
+- Website: https://www.dentonmusicworkshop.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/denton-music-workshop-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/denton-music-workshop-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9735474879 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

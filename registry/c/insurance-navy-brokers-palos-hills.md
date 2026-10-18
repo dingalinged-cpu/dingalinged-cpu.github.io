@@ -15,7 +15,7 @@ Insurance Navy Brokers is an insurance agent in Palos Hills, IL at 10338 Harlem 
 - Opening hours (OSM syntax): Mo-Su 08:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-palos-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-palos-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8587905433 (license ODbL-1.0); source data as of 2026-07-28

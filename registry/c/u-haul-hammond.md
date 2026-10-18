@@ -15,7 +15,7 @@ U-Haul is a self-storage facility in Hammond, IN at 822 165th Street, Hammond, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/u-haul-hammond/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-haul-hammond.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1359710983 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ The Vineyard is an event venue in Chicago, IL at 2121 West 95th Street, Chicago,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-vineyard-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-vineyard-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209615428 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ University MN Dermatology is a dermatologist in Minneapolis, MN at 516 Southeast
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/university-mn-dermatology-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/university-mn-dermatology-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6344104166 (license ODbL-1.0); source data as of 2026-07-24

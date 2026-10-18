@@ -1,0 +1,23 @@
+Childrens Health Urgent Care is a pediatrician in Flower Mound, TX. Phone: +19726456767.
+
+# Childrens Health Urgent Care
+
+- Category: pediatrician
+- Services: pediatrician
+- Address: Flower Mound, TX
+- City: Flower Mound
+- State: TX
+- ZIP: 75028
+- Coordinates: 33.0144639, -97.0701542
+- Phone: +19726456767
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 09:00-21:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/childrens-health-urgent-care-flower-mound/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/childrens-health-urgent-care-flower-mound.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8369597257 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

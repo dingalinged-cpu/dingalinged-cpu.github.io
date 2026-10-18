@@ -15,7 +15,7 @@ Pella Windows & Doors of Naperville is a window installer in Naperville, IL at 1
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa, Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pella-windows-and-doors-of-naperville-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pella-windows-and-doors-of-naperville-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/984801686 (license ODbL-1.0); source data as of 2026-06-01

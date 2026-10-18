@@ -15,7 +15,7 @@ Mobil is a car wash in Naperville, IL at 1280 West Ogden Avenue, Naperville, IL 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-naperville-w896020021/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-naperville-w896020021.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/896020021 (license ODbL-1.0); source data as of 2026-07-28

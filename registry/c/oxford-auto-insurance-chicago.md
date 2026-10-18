@@ -15,7 +15,7 @@ Oxford Auto Insurance is an insurance agent in Chicago, IL at 2356 West Cermak R
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oxford-auto-insurance-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oxford-auto-insurance-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4076939402 (license ODbL-1.0); source data as of 2026-07-28

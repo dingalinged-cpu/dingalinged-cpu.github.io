@@ -15,7 +15,7 @@ Hot Yoga Naperville is a yoga studio in Naperville, IL at 400 South Main Street,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hot-yoga-naperville-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hot-yoga-naperville-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5815958830 (license ODbL-1.0); source data as of 2026-06-01

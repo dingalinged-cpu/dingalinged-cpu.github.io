@@ -15,7 +15,7 @@ C & Co. is a hair salon in Schererville, IN at 1120 West Lincoln Highway, Schere
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/c-and-co-schererville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/c-and-co-schererville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1329760877 (license ODbL-1.0); source data as of 2026-06-01

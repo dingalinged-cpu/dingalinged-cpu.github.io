@@ -15,7 +15,7 @@ Totally Tan and Spa is a tanning salon in Eagan, MN at 1728 Town Centre Drive #1
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00, Sa-Su 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/totally-tan-and-spa-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/totally-tan-and-spa-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1719957644 (license ODbL-1.0); source data as of 2026-06-01

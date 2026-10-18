@@ -15,7 +15,7 @@ Zolly's Recyclable Furniture is a furniture store in Chicago, IL. Phone: +177364
 - Opening hours (OSM syntax): Mo-Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/zollys-recyclable-furniture-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/zollys-recyclable-furniture-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11670360704 (license ODbL-1.0); source data as of 2026-06-01

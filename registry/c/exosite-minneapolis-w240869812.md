@@ -15,7 +15,7 @@ Exosite is an IT support company in Minneapolis, MN at 1015 Glenwood Avenue, Min
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/exosite-minneapolis-w240869812/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/exosite-minneapolis-w240869812.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/240869812 (license ODbL-1.0); source data as of 2026-05-31

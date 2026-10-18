@@ -15,7 +15,7 @@ Mobil is a car wash in Calumet City, IL at 1401 River Oaks Drive, Calumet City, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-calumet-city/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-calumet-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/237067429 (license ODbL-1.0); source data as of 2026-07-28

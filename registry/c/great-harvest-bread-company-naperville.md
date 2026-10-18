@@ -15,7 +15,7 @@ Great Harvest Bread Company is a bakery in Naperville, IL at 192 West Gartner Ro
 - Opening hours (OSM syntax): Mo-Fr 06:45-18:00; Sa 06:45-17:00; Su 09:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-harvest-bread-company-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-harvest-bread-company-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8591829838 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Konny's Car Wash is a car wash in Mesquite, TX at 3810 Gus Thomasson Road, Mesquite, TX 75150.
+
+# Konny's Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 3810 Gus Thomasson Road, Mesquite, TX 75150
+- City: Mesquite
+- State: TX
+- ZIP: 75150
+- Coordinates: 32.8169432, -96.6369077
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/konnys-car-wash-mesquite/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/konnys-car-wash-mesquite.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1462182226 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

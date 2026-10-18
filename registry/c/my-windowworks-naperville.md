@@ -15,7 +15,7 @@ My WindowWorks is a window installer in Naperville, IL at 1154 East Ogden Avenue
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa, Su 10:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/my-windowworks-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/my-windowworks-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8964624219 (license ODbL-1.0); source data as of 2026-06-01

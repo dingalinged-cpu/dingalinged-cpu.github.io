@@ -15,7 +15,7 @@ Lucky Gem & Jewelry is a jewelry store in Niles, IL at 9101 North Milwaukee Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lucky-gem-and-jewelry-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lucky-gem-and-jewelry-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/668043119 (license ODbL-1.0); source data as of 2026-06-01

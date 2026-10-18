@@ -15,7 +15,7 @@ The Band of Light is a photographer in Chicago, IL at 525 West Hawthorne Place, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-band-of-light-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-band-of-light-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2586916100 (license ODbL-1.0); source data as of 2026-06-01

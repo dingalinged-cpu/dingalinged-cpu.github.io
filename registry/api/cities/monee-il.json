@@ -57,7 +57,7 @@
    "trust_score": 20.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/9956737055",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "blue-beacon-monee",
@@ -85,7 +85,7 @@
    "trust_score": 6.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/223480270",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "bp-monee",
@@ -112,7 +112,7 @@
    "trust_score": 0.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/11071533347",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   }
  ]
 }

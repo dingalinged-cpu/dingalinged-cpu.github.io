@@ -15,7 +15,7 @@ St. Paul Oral Surgery is a dentist in Saint Paul, MN at 2550 University Avenue W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/st-paul-oral-surgery-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/st-paul-oral-surgery-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6275543772 (license ODbL-1.0); source data as of 2026-07-24

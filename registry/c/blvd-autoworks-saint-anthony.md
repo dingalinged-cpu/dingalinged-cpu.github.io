@@ -15,7 +15,7 @@ BLVD Autoworks is an auto repair shop in Saint Anthony, MN at 2801 Kenzie Terr, 
 - Opening hours (OSM syntax): 07:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/blvd-autoworks-saint-anthony/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/blvd-autoworks-saint-anthony.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/390274900 (license ODbL-1.0); source data as of 2026-06-01

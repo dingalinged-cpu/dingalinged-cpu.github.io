@@ -15,7 +15,7 @@ Goodwill Store & Donation Center is a thrift store in Mundelein, IL at 761 South
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-store-and-donation-center-mundelein/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-store-and-donation-center-mundelein.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13613012901 (license ODbL-1.0); source data as of 2026-06-01

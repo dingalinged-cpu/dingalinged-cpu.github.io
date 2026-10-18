@@ -15,7 +15,7 @@ Rivershore Aquariums is a pet store in Minneapolis, MN at 6015 Lyndale Avenue So
 - Opening hours (OSM syntax): We-Mo 11:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rivershore-aquariums-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rivershore-aquariums-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/386364350 (license ODbL-1.0); source data as of 2026-06-01

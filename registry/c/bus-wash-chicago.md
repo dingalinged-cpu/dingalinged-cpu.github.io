@@ -15,7 +15,7 @@ Bus Wash is a car wash in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bus-wash-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bus-wash-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1461319488 (license ODbL-1.0); source data as of 2026-07-28

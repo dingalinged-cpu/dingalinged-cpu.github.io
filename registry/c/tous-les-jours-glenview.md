@@ -15,7 +15,7 @@ Tous les Jours is a bakery in Glenview, IL at 1685 Milwaukee Avenue, Glenview, I
 - Opening hours (OSM syntax): 07:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tous-les-jours-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tous-les-jours-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9501707405 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+The Grooming Place is a dog groomer in Flower Mound, TX.
+
+# The Grooming Place
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: Flower Mound, TX
+- City: Flower Mound
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0314739, -97.0715821
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-grooming-place-flower-mound/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-grooming-place-flower-mound.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12162567307 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

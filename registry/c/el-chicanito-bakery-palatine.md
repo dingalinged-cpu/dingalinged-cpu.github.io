@@ -15,7 +15,7 @@ El Chicanito Bakery is a bakery in Palatine, IL at 1164 East Dundee Road, Palati
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/el-chicanito-bakery-palatine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/el-chicanito-bakery-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9470332184 (license ODbL-1.0); source data as of 2026-06-01

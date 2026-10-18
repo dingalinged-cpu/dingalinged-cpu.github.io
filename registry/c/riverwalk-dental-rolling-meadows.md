@@ -15,7 +15,7 @@ Riverwalk Dental is a dentist in Rolling Meadows, IL at 3469 Kirchoff Road, Roll
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/riverwalk-dental-rolling-meadows/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/riverwalk-dental-rolling-meadows.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5514756836 (license ODbL-1.0); source data as of 2026-07-28

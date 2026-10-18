@@ -15,7 +15,7 @@ Robbinsdale Dental Care is a dentist in Robbinsdale, MN at 3920 West Broadway Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/robbinsdale-dental-care-robbinsdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/robbinsdale-dental-care-robbinsdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1220338509 (license ODbL-1.0); source data as of 2026-07-24

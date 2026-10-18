@@ -15,7 +15,7 @@ Tailorite Complete Clothing Care is a dry cleaner in Chicago, IL at 6509 South D
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tailorite-complete-clothing-care-chicago-w210905782/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tailorite-complete-clothing-care-chicago-w210905782.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210905782 (license ODbL-1.0); source data as of 2026-06-01

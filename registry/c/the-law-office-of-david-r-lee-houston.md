@@ -1,0 +1,23 @@
+The Law Office Of David R. Lee is a lawyer in Houston, TX at 616 Memorial Heights Dr, #4308, Houston, TX 77007. Phone: +18322290781. Website: https://lawofficeofdavidrlee.com/.
+
+# The Law Office Of David R. Lee
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 616 Memorial Heights Dr, #4308, Houston, TX 77007
+- City: Houston
+- State: TX
+- ZIP: 77007
+- Coordinates: 29.7659609, -95.3904103
+- Phone: +18322290781
+- Website: https://lawofficeofdavidrlee.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00, Sa 09:00-15:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-law-office-of-david-r-lee-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-law-office-of-david-r-lee-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11850257537 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

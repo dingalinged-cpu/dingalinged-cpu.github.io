@@ -15,7 +15,7 @@ Marsh & McLennan Agency is an insurance agent in Golden Valley, MN at 6160 Golde
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/marsh-and-mclennan-agency-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/marsh-and-mclennan-agency-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11129016208 (license ODbL-1.0); source data as of 2026-05-31

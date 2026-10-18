@@ -15,7 +15,7 @@ The Purple Tulip Cakery is a bakery in Chicago, IL at 5243 North Harlem Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-purple-tulip-cakery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-purple-tulip-cakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6315722237 (license ODbL-1.0); source data as of 2026-06-01

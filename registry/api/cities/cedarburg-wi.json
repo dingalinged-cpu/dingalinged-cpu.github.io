@@ -1,0 +1,707 @@
+{
+ "place": "Cedarburg, WI",
+ "slug": "cedarburg-wi",
+ "count": 21,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-cedarburg-wi.json"
+  },
+  {
+   "keyword": "car wash cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-cedarburg-wi.json"
+  },
+  {
+   "keyword": "dentist cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-cedarburg-wi.json"
+  },
+  {
+   "keyword": "dog boarding cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-boarding-cedarburg-wi.json"
+  },
+  {
+   "keyword": "financial advisor cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-cedarburg-wi.json"
+  },
+  {
+   "keyword": "funeral home cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-cedarburg-wi.json"
+  },
+  {
+   "keyword": "gift shop cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-cedarburg-wi.json"
+  },
+  {
+   "keyword": "gym cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-cedarburg-wi.json"
+  },
+  {
+   "keyword": "hair salon cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-cedarburg-wi.json"
+  },
+  {
+   "keyword": "haircut cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-cedarburg-wi.json"
+  },
+  {
+   "keyword": "insurance agency cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-cedarburg-wi.json"
+  },
+  {
+   "keyword": "insurance agent cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-cedarburg-wi.json"
+  },
+  {
+   "keyword": "insurance agents cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-cedarburg-wi.json"
+  },
+  {
+   "keyword": "jewelry store cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-cedarburg-wi.json"
+  },
+  {
+   "keyword": "mechanic cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-cedarburg-wi.json"
+  },
+  {
+   "keyword": "preschool cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-cedarburg-wi.json"
+  },
+  {
+   "keyword": "tax preparation cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-cedarburg-wi.json"
+  },
+  {
+   "keyword": "tax preparer cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-cedarburg-wi.json"
+  },
+  {
+   "keyword": "tire shop cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-cedarburg-wi.json"
+  },
+  {
+   "keyword": "vet cedarburg wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-cedarburg-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "pagoda-fine-jewelry-cedarburg",
+   "name": "Pagoda Fine Jewelry",
+   "summary": "Pagoda Fine Jewelry is a jewelry store in Cedarburg, WI at N68 W5385 Columbia Road, Cedarburg, WI 53012. Phone: +12623768730. Website: https://www.pagodafinejewelry.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pagoda-fine-jewelry-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pagoda-fine-jewelry-cedarburg.json",
+   "address": {
+    "streetAddress": "N68 W5385 Columbia Road",
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "postalCode": "53012",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "zip": "53012",
+   "geo": {
+    "lat": 43.2967075,
+    "lon": -87.9864396
+   },
+   "phone": "+12623768730",
+   "website": "https://www.pagodafinejewelry.com/",
+   "opening_hours": "Tu-Sa 10:15-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/547481322",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "armbruster-jewelers-cedarburg",
+   "name": "Armbruster Jewelers",
+   "summary": "Armbruster Jewelers is a jewelry store in Cedarburg, WI at W62 N620 Washington Avenue, Cedarburg, WI 53012. Phone: +12623770480. Website: https://armbrusterjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/armbruster-jewelers-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/armbruster-jewelers-cedarburg.json",
+   "address": {
+    "streetAddress": "W62 N620 Washington Avenue",
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "postalCode": "53012",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "zip": "53012",
+   "geo": {
+    "lat": 43.2980835,
+    "lon": -87.9878724
+   },
+   "phone": "+12623770480",
+   "website": "https://armbrusterjewelers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/547481338",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ladd-agency-cedarburg",
+   "name": "Ladd Agency",
+   "summary": "Ladd Agency is an insurance agent in Cedarburg, WI at W64N140 Washington Avenue, Cedarburg, WI 53012. Phone: +12622518660. Website: https://laddagency.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ladd-agency-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ladd-agency-cedarburg.json",
+   "address": {
+    "streetAddress": "W64N140 Washington Avenue",
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "postalCode": "53012",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "zip": "53012",
+   "geo": {
+    "lat": 43.2805422,
+    "lon": -87.9871235
+   },
+   "phone": "+12622518660",
+   "website": "https://laddagency.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13463124936",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mueller-funeral-home-and-crematory-cedarburg",
+   "name": "Mueller Funeral Home & Crematory",
+   "summary": "Mueller Funeral Home & Crematory is a funeral home in Cedarburg, WI at W63 N527 Hanover Avenue, Cedarburg, WI 53012. Phone: +12623770380. Website: https://muellerfuneralhome.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mueller-funeral-home-and-crematory-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mueller-funeral-home-and-crematory-cedarburg.json",
+   "address": {
+    "streetAddress": "W63 N527 Hanover Avenue",
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "postalCode": "53012",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "zip": "53012",
+   "geo": {
+    "lat": 43.294979,
+    "lon": -87.9890344
+   },
+   "phone": "+12623770380",
+   "website": "https://muellerfuneralhome.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/552705483",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stecker-and-associates-inc-cedarburg",
+   "name": "Stecker & Associates Inc.",
+   "summary": "Stecker & Associates Inc. is a tax preparation service in Cedarburg, WI at N144W6166 Pioneer Road, Cedarburg, WI 53012. Phone: +12623774777. Website: https://www.steckerandassociates.com/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stecker-and-associates-inc-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stecker-and-associates-inc-cedarburg.json",
+   "address": {
+    "streetAddress": "N144W6166 Pioneer Road",
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "postalCode": "53012",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "zip": "53012",
+   "geo": {
+    "lat": 43.2797078,
+    "lon": -87.9861922
+   },
+   "phone": "+12623774777",
+   "website": "https://www.steckerandassociates.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6390500298",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wyndrose-fine-jewelry-cedarburg",
+   "name": "Wyndrose Fine Jewelry",
+   "summary": "Wyndrose Fine Jewelry is a jewelry store in Cedarburg, WI at W62N600 Washington Avenue, Cedarburg, WI 53012. Phone: +12623751920. Website: https://www.wyndrosefinejewelry.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wyndrose-fine-jewelry-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wyndrose-fine-jewelry-cedarburg.json",
+   "address": {
+    "streetAddress": "W62N600 Washington Avenue",
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "postalCode": "53012",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "zip": "53012",
+   "geo": {
+    "lat": 43.2974129,
+    "lon": -87.9876364
+   },
+   "phone": "+12623751920",
+   "website": "https://www.wyndrosefinejewelry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/547481334",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cedarburg-auto-repair-and-service-inc-cedarburg",
+   "name": "Cedarburg Auto Repair and Service, Inc.",
+   "summary": "Cedarburg Auto Repair and Service, Inc. is an auto repair shop in Cedarburg, WI at N133W6400 Pioneer Road, Cedarburg, WI 53012. Phone: +12623778485.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cedarburg-auto-repair-and-service-inc-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cedarburg-auto-repair-and-service-inc-cedarburg.json",
+   "address": {
+    "streetAddress": "N133W6400 Pioneer Road",
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "postalCode": "53012",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "zip": "53012",
+   "geo": {
+    "lat": 43.2800538,
+    "lon": -87.9893569
+   },
+   "phone": "+12623778485",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/722393214",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cedarburg-veterinary-clinic-cedarburg",
+   "name": "Cedarburg Veterinary Clinic",
+   "summary": "Cedarburg Veterinary Clinic is a veterinarian in Cedarburg, WI at N143 W6475 Pioneer Road, Cedarburg, WI 53012. Phone: +12623772460.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cedarburg-veterinary-clinic-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cedarburg-veterinary-clinic-cedarburg.json",
+   "address": {
+    "streetAddress": "N143 W6475 Pioneer Road",
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "postalCode": "53012",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "zip": "53012",
+   "geo": {
+    "lat": 43.2789797,
+    "lon": -87.9899204
+   },
+   "phone": "+12623772460",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8998916520",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nouveau-antique-jewelry-cedarburg",
+   "name": "Nouveau Antique Jewelry",
+   "summary": "Nouveau Antique Jewelry is a jewelry store in Cedarburg, WI at W62N600 Washington Avenue, Cedarburg, WI 53012. Website: https://nouveau-jewelry.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nouveau-antique-jewelry-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nouveau-antique-jewelry-cedarburg.json",
+   "address": {
+    "streetAddress": "W62N600 Washington Avenue",
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "postalCode": "53012",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "zip": "53012",
+   "geo": {
+    "lat": 43.2972549,
+    "lon": -87.9876047
+   },
+   "website": "https://nouveau-jewelry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13461221076",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cedarburg-emporium-cedarburg",
+   "name": "Cedarburg Emporium",
+   "summary": "Cedarburg Emporium is a gift shop in Cedarburg, WI at Bridge Road, Cedarburg, WI 53012.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cedarburg-emporium-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cedarburg-emporium-cedarburg.json",
+   "address": {
+    "streetAddress": "Bridge Road",
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "postalCode": "53012",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "zip": "53012",
+   "geo": {
+    "lat": 43.3011468,
+    "lon": -87.9887846
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13332337958",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cedarburg-family-dentistry-cedarburg",
+   "name": "Cedarburg Family Dentistry",
+   "summary": "Cedarburg Family Dentistry is a dentist in Cedarburg, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cedarburg-family-dentistry-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cedarburg-family-dentistry-cedarburg.json",
+   "address": {
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3022899,
+    "lon": -87.98964
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194779913",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "citgo-cedarburg",
+   "name": "Citgo",
+   "summary": "Citgo is a car wash in Cedarburg, WI.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/citgo-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/citgo-cedarburg.json",
+   "address": {
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "geo": {
+    "lat": 43.2818327,
+    "lon": -87.9865012
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/722385597",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-cedarburg",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Cedarburg, WI.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-cedarburg.json",
+   "address": {
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3016619,
+    "lon": -87.989762
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194779915",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "flying-fur-cedarburg",
+   "name": "Flying Fur",
+   "summary": "Flying Fur is a dog boarding facility in Cedarburg, WI.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flying-fur-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flying-fur-cedarburg.json",
+   "address": {
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "geo": {
+    "lat": 43.2856308,
+    "lon": -87.9836552
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/722653433",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "from-the-heart-cedarburg",
+   "name": "From The Heart",
+   "summary": "From The Heart is a gift shop in Cedarburg, WI.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/from-the-heart-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/from-the-heart-cedarburg.json",
+   "address": {
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "geo": {
+    "lat": 43.2971168,
+    "lon": -87.9879431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194779921",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hermans-tire-cedarburg",
+   "name": "Herman's Tire",
+   "summary": "Herman's Tire is a tire shop in Cedarburg, WI.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hermans-tire-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hermans-tire-cedarburg.json",
+   "address": {
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3006751,
+    "lon": -87.9894258
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194779917",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jett-vance-salon-cedarburg",
+   "name": "Jett Vance Salon",
+   "summary": "Jett Vance Salon is a hair salon in Cedarburg, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jett-vance-salon-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jett-vance-salon-cedarburg.json",
+   "address": {
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "geo": {
+    "lat": 43.2946174,
+    "lon": -87.9869097
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194779927",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kindercare-cedarburg",
+   "name": "KinderCare",
+   "summary": "KinderCare is a preschool in Cedarburg, WI.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kindercare-cedarburg.json",
+   "address": {
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "geo": {
+    "lat": 43.283238,
+    "lon": -87.9850759
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/722473750",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lillies-cedarburg",
+   "name": "Lillies",
+   "summary": "Lillies is a gift shop in Cedarburg, WI.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lillies-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lillies-cedarburg.json",
+   "address": {
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "geo": {
+    "lat": 43.2956875,
+    "lon": -87.9873517
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194779923",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "real-health-and-fitness-center-cedarburg",
+   "name": "Real Health & Fitness Center",
+   "summary": "Real Health & Fitness Center is a gym in Cedarburg, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/real-health-and-fitness-center-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/real-health-and-fitness-center-cedarburg.json",
+   "address": {
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "geo": {
+    "lat": 43.2943537,
+    "lon": -87.9868042
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194779928",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-gem-shop-cedarburg",
+   "name": "The Gem Shop",
+   "summary": "The Gem Shop is a gift shop in Cedarburg, WI.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-gem-shop-cedarburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-gem-shop-cedarburg.json",
+   "address": {
+    "addressLocality": "Cedarburg",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Cedarburg",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3018102,
+    "lon": -87.9898224
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194779914",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

@@ -15,7 +15,7 @@ New Horizon Child Care Center is a preschool in Eagan, MN at 4565 Scott Trail, E
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-horizon-child-care-center-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-horizon-child-care-center-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/320468153 (license ODbL-1.0); source data as of 2026-07-24

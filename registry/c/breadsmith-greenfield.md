@@ -1,0 +1,23 @@
+Breadsmith is a bakery in Greenfield, WI at 4720 South 76th Street, Greenfield, WI 53220. Phone: +14142829320. Website: https://www.breadsmith.com/greenfield/.
+
+# Breadsmith
+
+- Category: bakery
+- Services: bakery
+- Address: 4720 South 76th Street, Greenfield, WI 53220
+- City: Greenfield
+- State: WI
+- ZIP: 53220
+- Coordinates: 42.9585957, -88.0079544
+- Phone: +14142829320
+- Website: https://www.breadsmith.com/greenfield/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 08:00-17:00; Su off
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/breadsmith-greenfield/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/breadsmith-greenfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/664024664 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

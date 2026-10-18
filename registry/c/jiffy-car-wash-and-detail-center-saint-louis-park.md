@@ -15,7 +15,7 @@ Jiffy Car Wash & Detail Center is a car wash in Saint Louis Park, MN at 3740 Kip
 - Opening hours (OSM syntax): Mo-Sa 08:30-18:00; Su 10:00-17:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-car-wash-and-detail-center-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-car-wash-and-detail-center-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/692875234 (license ODbL-1.0); source data as of 2026-07-24

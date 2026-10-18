@@ -15,7 +15,7 @@ Best 1hr. Cleaners is a dry cleaner in Glenview, IL at 1880 Glenview Road, Glenv
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/best-1hr-cleaners-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/best-1hr-cleaners-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/669902234 (license ODbL-1.0); source data as of 2026-06-01

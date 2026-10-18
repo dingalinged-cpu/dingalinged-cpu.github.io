@@ -15,7 +15,7 @@ Amazing Alterations is a tailor in Anoka, MN at 2665 4th Avenue #29, Anoka, MN 5
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/amazing-alterations-anoka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/amazing-alterations-anoka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12996336328 (license ODbL-1.0); source data as of 2026-06-01

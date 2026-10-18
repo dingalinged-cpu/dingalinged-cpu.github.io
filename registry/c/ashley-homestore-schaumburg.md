@@ -15,7 +15,7 @@ Ashley HomeStore is a furniture store in Schaumburg, IL at 905 Perimeter Drive, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ashley-homestore-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/24837319 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Supercuts is a hair salon in Murphy, TX at 121 E FM 544, Murphy, TX 75094.
+
+# Supercuts
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 121 E FM 544, Murphy, TX 75094
+- City: Murphy
+- State: TX
+- ZIP: 75094
+- Coordinates: 33.0118745, -96.6093749
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/supercuts-murphy/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/supercuts-murphy.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2288282292 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

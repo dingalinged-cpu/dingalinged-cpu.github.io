@@ -2,7 +2,7 @@ Keyword market for Real Estate: 31 national keywords (each also sold per city/st
 
 # Top Real Estate keywords
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
 
 ## By US monthly searches
 1. apartments | searches/mo 823,000 | CPC $3.22 | value $2,700,000 | Google Ads equiv $220,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#apartments
@@ -13,7 +13,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 6. refinance mortgage rates | searches/mo 135,000 | CPC $3.22 | value $430,000 | Google Ads equiv $37,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#refinance-mortgage-rates
 7. mobile homes for sale | searches/mo 110,000 | CPC $3.22 | value $350,000 | Google Ads equiv $30,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#mobile-homes-for-sale
 8. commercial real estate | searches/mo 90,500 | CPC $3.22 | value $290,000 | Google Ads equiv $25,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#commercial-real-estate
-9. realtor | searches/mo 90,500 | CPC $3.70 | value $330,000 | Google Ads equiv $28,000/mo | our featured min $250/mo | registry competitors 219 | https://dingalinged-cpu.github.io/registry/k/realtor/
+9. realtor | searches/mo 90,500 | CPC $3.70 | value $330,000 | Google Ads equiv $28,000/mo | our featured min $250/mo | registry competitors 464 | https://dingalinged-cpu.github.io/registry/k/realtor/
 10. new construction homes | searches/mo 60,500 | CPC $3.22 | value $190,000 | Google Ads equiv $16,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#new-construction-homes
 11. mls listings | searches/mo 40,000 | CPC $3.22 | value $130,000 | Google Ads equiv $11,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#mls-listings
 12. for sale by owner | searches/mo 30,000 | CPC $3.22 | value $97,000 | Google Ads equiv $8,100/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#for-sale-by-owner
@@ -27,7 +27,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 20. listing agent | searches/mo 1,300 | CPC $3.22 | value $4,200 | Google Ads equiv $350/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#listing-agent
 
 ## By CPC
-1. realtor | searches/mo 90,500 | CPC $3.70 | value $330,000 | Google Ads equiv $28,000/mo | our featured min $250/mo | registry competitors 219 | https://dingalinged-cpu.github.io/registry/k/realtor/
+1. realtor | searches/mo 90,500 | CPC $3.70 | value $330,000 | Google Ads equiv $28,000/mo | our featured min $250/mo | registry competitors 464 | https://dingalinged-cpu.github.io/registry/k/realtor/
 2. buy my home for cash | searches/mo 3,600 (est) | CPC $3.22 | value $12,000 | Google Ads equiv $980/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#buy-my-home-for-cash
 3. get offer on house | searches/mo 3,600 (est) | CPC $3.22 | value $12,000 | Google Ads equiv $980/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#get-offer-on-house
 4. sell home to investors | searches/mo 3,600 (est) | CPC $3.22 | value $12,000 | Google Ads equiv $980/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#sell-home-to-investors
@@ -37,7 +37,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 8. best realtor | searches/mo 14,800 | CPC $3.22 | value $48,000 | Google Ads equiv $4,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#best-realtor
 9. commercial property for sale | searches/mo 22,200 | CPC $3.22 | value $71,000 | Google Ads equiv $6,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#commercial-property-for-sale
 10. commercial real estate | searches/mo 90,500 | CPC $3.22 | value $290,000 | Google Ads equiv $25,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#commercial-real-estate
-11. coworking space | searches/mo 22,000 (est) | CPC $3.22 | value $71,000 | Google Ads equiv $6,000/mo | our featured min $250/mo | registry competitors 37 | https://dingalinged-cpu.github.io/registry/k/coworking-space/
+11. coworking space | searches/mo 22,000 (est) | CPC $3.22 | value $71,000 | Google Ads equiv $6,000/mo | our featured min $250/mo | registry competitors 91 | https://dingalinged-cpu.github.io/registry/k/coworking-space/
 12. for sale by owner | searches/mo 30,000 | CPC $3.22 | value $97,000 | Google Ads equiv $8,100/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#for-sale-by-owner
 13. home appraisal | searches/mo 22,000 (est) | CPC $3.22 | value $71,000 | Google Ads equiv $6,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#home-appraisal
 14. homes for sale | searches/mo 301,000 | CPC $3.22 | value $970,000 | Google Ads equiv $82,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#homes-for-sale
@@ -56,7 +56,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 5. mortgage | searches/mo 135,000 | CPC $3.22 | value $430,000 | Google Ads equiv $37,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#mortgage
 6. refinance mortgage rates | searches/mo 135,000 | CPC $3.22 | value $430,000 | Google Ads equiv $37,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#refinance-mortgage-rates
 7. mobile homes for sale | searches/mo 110,000 | CPC $3.22 | value $350,000 | Google Ads equiv $30,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#mobile-homes-for-sale
-8. realtor | searches/mo 90,500 | CPC $3.70 | value $330,000 | Google Ads equiv $28,000/mo | our featured min $250/mo | registry competitors 219 | https://dingalinged-cpu.github.io/registry/k/realtor/
+8. realtor | searches/mo 90,500 | CPC $3.70 | value $330,000 | Google Ads equiv $28,000/mo | our featured min $250/mo | registry competitors 464 | https://dingalinged-cpu.github.io/registry/k/realtor/
 9. commercial real estate | searches/mo 90,500 | CPC $3.22 | value $290,000 | Google Ads equiv $25,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#commercial-real-estate
 10. new construction homes | searches/mo 60,500 | CPC $3.22 | value $190,000 | Google Ads equiv $16,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#new-construction-homes
 11. mls listings | searches/mo 40,000 | CPC $3.22 | value $130,000 | Google Ads equiv $11,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#mls-listings

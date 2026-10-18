@@ -15,7 +15,7 @@ Rare Bird Beauties Studio is a hair salon in Chicago, IL. Website: https://www.r
 - Opening hours (OSM syntax): "By appt"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rare-bird-beauties-studio-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rare-bird-beauties-studio-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9962776684 (license ODbL-1.0); source data as of 2026-06-01

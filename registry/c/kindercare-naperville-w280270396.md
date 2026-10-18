@@ -15,7 +15,7 @@ KinderCare is a preschool in Naperville, IL at 889 Benedetti Drive, Naperville, 
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kindercare-naperville-w280270396/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kindercare-naperville-w280270396.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/280270396 (license ODbL-1.0); source data as of 2026-07-28

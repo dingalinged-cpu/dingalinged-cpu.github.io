@@ -15,7 +15,7 @@ HassleLess Mattress is a mattress store in Vernon Hills, IL at 375 North Milwauk
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hassleless-mattress-vernon-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hassleless-mattress-vernon-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6491927082 (license ODbL-1.0); source data as of 2026-06-01

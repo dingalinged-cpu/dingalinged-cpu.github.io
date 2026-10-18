@@ -15,7 +15,7 @@ The UPS Store is a printing service in Evanston, IL at 2906 Central Street, Evan
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-evanston-n2295250149/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-evanston-n2295250149.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2295250149 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Elements Massage is a massage studio in Eden Prairie, MN at 10165 Hennepin Town 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elements-massage-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elements-massage-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11680086344 (license ODbL-1.0); source data as of 2026-06-01

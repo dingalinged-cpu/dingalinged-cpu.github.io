@@ -1,0 +1,450 @@
+{
+ "place": "Spring Valley Village, TX",
+ "slug": "spring-valley-village-tx",
+ "count": 12,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "dance studio spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "dentist spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "eye doctor spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "family doctor spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "hair salon spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "haircut spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "insurance agency spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "insurance agent spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "insurance agents spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "lawyer spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "liquor store spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "massage spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "nail salon spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "plastic surgeon spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plastic-surgeon-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "primary care physician spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "roofer spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-spring-valley-village-tx.json"
+  },
+  {
+   "keyword": "roofing contractor spring valley village tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-spring-valley-village-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "body-by-ravi-plastic-surgery-and-aesthetics-houston",
+   "name": "Body By Ravi Plastic Surgery & Aesthetics",
+   "summary": "Body By Ravi Plastic Surgery & Aesthetics is a plastic surgeon in Houston, TX at 19135 Katy Freeway, Suite 110, Houston, TX 77094. Phone: +12812421061. Website: https://www.bodybyravi.com/.",
+   "categories": [
+    "plastic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/body-by-ravi-plastic-surgery-and-aesthetics-houston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/body-by-ravi-plastic-surgery-and-aesthetics-houston.json",
+   "address": {
+    "streetAddress": "19135 Katy Freeway, Suite 110",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77094",
+    "addressCountry": "US"
+   },
+   "city": "Houston",
+   "state": "TX",
+   "zip": "77094",
+   "geo": {
+    "lat": 29.7854913,
+    "lon": -95.5195416
+   },
+   "phone": "+12812421061",
+   "website": "https://www.bodybyravi.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12624827939",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "customeyes-family-eye-care-and-optical-houston",
+   "name": "Customeyes Family Eye Care & Optical",
+   "summary": "Customeyes Family Eye Care & Optical is an eye care practice in Houston, TX at 8420 Katy Freeway #512, Houston, TX 77024. Phone: +17138279500. Website: https://yourcustomeyes.com/.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/customeyes-family-eye-care-and-optical-houston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/customeyes-family-eye-care-and-optical-houston.json",
+   "address": {
+    "streetAddress": "8420 Katy Freeway #512",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77024",
+    "addressCountry": "US"
+   },
+   "city": "Houston",
+   "state": "TX",
+   "zip": "77024",
+   "geo": {
+    "lat": 29.7851393,
+    "lon": -95.4950515
+   },
+   "phone": "+17138279500",
+   "website": "https://yourcustomeyes.com/",
+   "opening_hours": "Mo-We,Fr 09:00-18:00; Th 10:00-19:00; Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7924477067",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "first-primary-care-houston",
+   "name": "First Primary Care",
+   "summary": "First Primary Care is a family medicine practice in Houston, TX at 8584 Katy Freeway Frontage Road #210, Houston, TX 77024. Phone: +17132807991. Website: https://www.firstprimarycare.com/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-primary-care-houston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-primary-care-houston.json",
+   "address": {
+    "streetAddress": "8584 Katy Freeway Frontage Road #210",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77024",
+    "addressCountry": "US"
+   },
+   "city": "Houston",
+   "state": "TX",
+   "zip": "77024",
+   "geo": {
+    "lat": 29.7868135,
+    "lon": -95.4977377
+   },
+   "phone": "+17132807991",
+   "website": "https://www.firstprimarycare.com/",
+   "opening_hours": "Mo-Th 08:30-16:30; Fr 08:30-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13603594341",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "terry-bryant-accident-and-injury-law-houston",
+   "name": "Terry Bryant Accident & Injury Law",
+   "summary": "Terry Bryant Accident & Injury Law is a lawyer in Houston, TX at 8584 Katy Freeway #100, Houston, TX 77024. Phone: +17139738888. Website: https://www.terrybryant.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/terry-bryant-accident-and-injury-law-houston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/terry-bryant-accident-and-injury-law-houston.json",
+   "address": {
+    "streetAddress": "8584 Katy Freeway #100",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77024",
+    "addressCountry": "US"
+   },
+   "city": "Houston",
+   "state": "TX",
+   "zip": "77024",
+   "geo": {
+    "lat": 29.7870113,
+    "lon": -95.4978146
+   },
+   "phone": "+17139738888",
+   "website": "https://www.terrybryant.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5117238052",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "trueworks-roofing-houston",
+   "name": "TrueWorks Roofing",
+   "summary": "TrueWorks Roofing is a roofer in Houston, TX at 8566 Katy Fwy #Suite 122, Houston, TX 77024. Phone: +17139037663. Website: https://www.trueworksroofing.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trueworks-roofing-houston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trueworks-roofing-houston.json",
+   "address": {
+    "streetAddress": "8566 Katy Fwy #Suite 122",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77024",
+    "addressCountry": "US"
+   },
+   "city": "Houston",
+   "state": "TX",
+   "zip": "77024",
+   "geo": {
+    "lat": 29.7869676,
+    "lon": -95.4969083
+   },
+   "phone": "+17139037663",
+   "website": "https://www.trueworksroofing.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12912192072",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "freeway-insurance-spring-valley-village",
+   "name": "Freeway Insurance",
+   "summary": "Freeway Insurance is an insurance agent in Spring Valley Village, TX at 8420 Katy Freeway #510, Spring Valley Village, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freeway-insurance-spring-valley-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freeway-insurance-spring-valley-village.json",
+   "address": {
+    "streetAddress": "8420 Katy Freeway #510",
+    "addressLocality": "Spring Valley Village",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Spring Valley Village",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7850946,
+    "lon": -95.4950513
+   },
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7924477068",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-spring-valley-village",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Spring Valley Village, TX at 8420 Katy Freeway #518, Spring Valley Village, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-spring-valley-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-spring-valley-village.json",
+   "address": {
+    "streetAddress": "8420 Katy Freeway #518",
+    "addressLocality": "Spring Valley Village",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Spring Valley Village",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7852287,
+    "lon": -95.4950521
+   },
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7924477065",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "spring-valley-nail-salon-spring-valley-village",
+   "name": "Spring Valley Nail Salon",
+   "summary": "Spring Valley Nail Salon is a nail salon in Spring Valley Village, TX at 8420 Katy Freeway #516, Spring Valley Village, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spring-valley-nail-salon-spring-valley-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spring-valley-nail-salon-spring-valley-village.json",
+   "address": {
+    "streetAddress": "8420 Katy Freeway #516",
+    "addressLocality": "Spring Valley Village",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Spring Valley Village",
+   "state": "TX",
+   "geo": {
+    "lat": 29.785184,
+    "lon": -95.4950518
+   },
+   "opening_hours": "Mo-Th 09:30-19:00; Fr,Sa 09:00-19:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7924477066",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "arthur-murray-dance-studio-spring-valley-village",
+   "name": "Arthur Murray Dance Studio",
+   "summary": "Arthur Murray Dance Studio is a dance studio in Spring Valley Village, TX at 8412 Katy Freeway #320, Spring Valley Village, TX.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-studio-spring-valley-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arthur-murray-dance-studio-spring-valley-village.json",
+   "address": {
+    "streetAddress": "8412 Katy Freeway #320",
+    "addressLocality": "Spring Valley Village",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Spring Valley Village",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7850741,
+    "lon": -95.493163
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8868990737",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "artistic-works-dentistry-spring-valley-village",
+   "name": "Artistic Works Dentistry",
+   "summary": "Artistic Works Dentistry is a dentist in Spring Valley Village, TX at 8412 Katy Freeway #330, Spring Valley Village, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/artistic-works-dentistry-spring-valley-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/artistic-works-dentistry-spring-valley-village.json",
+   "address": {
+    "streetAddress": "8412 Katy Freeway #330",
+    "addressLocality": "Spring Valley Village",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Spring Valley Village",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7852316,
+    "lon": -95.4934139
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8868990736",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "empress-of-china-spring-valley-village",
+   "name": "Empress of China",
+   "summary": "Empress of China is a massage studio in Spring Valley Village, TX at 8412 Katy Freeway #340, Spring Valley Village, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/empress-of-china-spring-valley-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/empress-of-china-spring-valley-village.json",
+   "address": {
+    "streetAddress": "8412 Katy Freeway #340",
+    "addressLocality": "Spring Valley Village",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Spring Valley Village",
+   "state": "TX",
+   "geo": {
+    "lat": 29.785346,
+    "lon": -95.4934313
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8868990739",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specs-wine-and-spirits-spring-valley-village",
+   "name": "Spec's Wine and Spirits",
+   "summary": "Spec's Wine and Spirits is a liquor store in Spring Valley Village, TX at 8416 Katy Freeway, Spring Valley Village, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specs-wine-and-spirits-spring-valley-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specs-wine-and-spirits-spring-valley-village.json",
+   "address": {
+    "streetAddress": "8416 Katy Freeway",
+    "addressLocality": "Spring Valley Village",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Spring Valley Village",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7852227,
+    "lon": -95.4942999
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/849371479",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

@@ -15,7 +15,7 @@ Planet Fitness is a gym in Blaine, MN at 10650 Baltimore Street Northeast, Blain
 - Opening hours (OSM syntax): Mo 05:00-00:00; Tu-Th 00:00-00:00; Fr 00:00-21:00; Sa, Su 06:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-blaine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-blaine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/214792795 (license ODbL-1.0); source data as of 2026-07-15

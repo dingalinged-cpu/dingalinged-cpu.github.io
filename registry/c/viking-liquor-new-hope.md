@@ -15,7 +15,7 @@ Viking Liquor is a liquor store in New Hope, MN at 7141 42nd Avenue North, New H
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/viking-liquor-new-hope/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/viking-liquor-new-hope.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/763158451 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Canales Furniture is a furniture store in Dallas, TX at 602 South Hampton Road, Dallas, TX.
+
+# Canales Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: 602 South Hampton Road, Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7400297, -96.8564147
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/canales-furniture-dallas-w465784726/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/canales-furniture-dallas-w465784726.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/465784726 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

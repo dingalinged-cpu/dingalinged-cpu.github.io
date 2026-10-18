@@ -1,0 +1,23 @@
+Image District Face and Body is a skin care studio in Houston, TX at 5885 San Felipe Street, Houston, TX.
+
+# Image District Face and Body
+
+- Category: facial
+- Services: facial
+- Address: 5885 San Felipe Street, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.748743, -95.4842732
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/image-district-face-and-body-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/image-district-face-and-body-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6080960266 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

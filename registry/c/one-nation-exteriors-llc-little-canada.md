@@ -15,7 +15,7 @@ One Nation Exteriors LLC is a roofer in Little Canada, MN at 2885 Country Dr. #1
 - Opening hours (OSM syntax): M-F 8am-4pm; Saturday: By Appointment; Sunday: Closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/one-nation-exteriors-llc-little-canada/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/one-nation-exteriors-llc-little-canada.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11955896604 (license ODbL-1.0); source data as of 2026-07-24

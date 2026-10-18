@@ -15,7 +15,7 @@ J & L Automotive Care is an auto repair shop in Saint Paul, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/j-and-l-automotive-care-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/j-and-l-automotive-care-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/200089296 (license ODbL-1.0); source data as of 2026-06-01

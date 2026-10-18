@@ -1,0 +1,23 @@
+Planetary Cycles is a bike shop in Houston, TX at 8715 West Loop South #B, Houston, TX 77096. Phone: +17136682300. Website: https://www.planetarycycles.com/.
+
+# Planetary Cycles
+
+- Category: bike shop
+- Services: bike shop
+- Address: 8715 West Loop South #B, Houston, TX 77096
+- City: Houston
+- State: TX
+- ZIP: 77096
+- Coordinates: 29.6862395, -95.4566508
+- Phone: +17136682300
+- Website: https://www.planetarycycles.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 11:00-17:00; Sa 10:00-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/planetary-cycles-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/planetary-cycles-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2069771009 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

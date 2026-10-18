@@ -15,7 +15,7 @@ Farmers Insurance is an insurance agent in Addison, IL at 240 Lake Street #205, 
 - Opening hours (OSM syntax): Mo-Th 08:30-17:30; Fr 08:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/farmers-insurance-addison/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-addison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6149453180 (license ODbL-1.0); source data as of 2026-07-28

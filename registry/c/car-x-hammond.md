@@ -15,7 +15,7 @@ Car-X is an auto repair shop in Hammond, IN at 1337 Calumet Avenue, Hammond, IN 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/car-x-hammond/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/car-x-hammond.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1329739601 (license ODbL-1.0); source data as of 2026-06-01

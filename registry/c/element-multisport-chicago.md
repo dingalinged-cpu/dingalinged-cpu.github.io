@@ -15,7 +15,7 @@ Element Multisport is a bike shop in Chicago, IL at 2754 North Clybourn Avenue #
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/element-multisport-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/element-multisport-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1319742219 (license ODbL-1.0); source data as of 2026-06-01

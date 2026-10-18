@@ -15,7 +15,7 @@ Molina Realtors is a real estate agency in Minneapolis, MN at 507 East Lake Stre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/molina-realtors-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/molina-realtors-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13626237164 (license ODbL-1.0); source data as of 2026-05-31

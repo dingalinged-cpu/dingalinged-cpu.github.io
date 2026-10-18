@@ -15,7 +15,7 @@ Joe's Barber Shop is a hair salon in Chicago, IL at 2641 West Fullerton Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/joes-barber-shop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/joes-barber-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209455197 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ CityDeskStudio is an architect in Saint Paul, MN at 550 Vandalia Street ##101, S
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/citydeskstudio-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/citydeskstudio-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7176539506 (license ODbL-1.0); source data as of 2026-05-31

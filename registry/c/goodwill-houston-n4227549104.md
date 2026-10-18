@@ -1,0 +1,23 @@
+Goodwill is a thrift store in Houston, TX at 14464 Hillcroft Avenue, Houston, TX 77085.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: 14464 Hillcroft Avenue, Houston, TX 77085
+- City: Houston
+- State: TX
+- ZIP: 77085
+- Coordinates: 29.6166952, -95.4933649
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-houston-n4227549104/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-houston-n4227549104.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4227549104 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Gross Barry A is an insurance agent in Wheeling, IL at 765B West Dundee Road, Wh
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gross-barry-a-wheeling/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gross-barry-a-wheeling.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11382558118 (license ODbL-1.0); source data as of 2026-07-28

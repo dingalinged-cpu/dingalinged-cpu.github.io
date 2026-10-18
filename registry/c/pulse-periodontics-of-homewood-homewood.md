@@ -15,7 +15,7 @@ Pulse Periodontics of Homewood is a dentist in Homewood, IL at 18358 Governors H
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pulse-periodontics-of-homewood-homewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pulse-periodontics-of-homewood-homewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13082073859 (license ODbL-1.0); source data as of 2026-07-28

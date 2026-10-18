@@ -15,7 +15,7 @@ Expert Nails is a nail salon in Roseville, MN at 1131 Larpenteur Avenue West, Ro
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/expert-nails-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/expert-nails-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1914627260 (license ODbL-1.0); source data as of 2026-06-01

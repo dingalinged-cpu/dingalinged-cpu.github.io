@@ -1,0 +1,23 @@
+Celebrity Nails is a nail salon in Plano, TX at 5717 Legacy Drive #140, Plano, TX 75024. Phone: +19726731266. Website: https://celebritynailsplano.com/.
+
+# Celebrity Nails
+
+- Category: nail salon
+- Services: nail salon, waxing
+- Address: 5717 Legacy Drive #140, Plano, TX 75024
+- City: Plano
+- State: TX
+- ZIP: 75024
+- Coordinates: 33.0784021, -96.8203717
+- Phone: +19726731266
+- Website: https://celebritynailsplano.com/
+- Email: celebritynails1200@gmail.com
+- Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-19:00; Su 11:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/celebrity-nails-plano/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/celebrity-nails-plano.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12404228547 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

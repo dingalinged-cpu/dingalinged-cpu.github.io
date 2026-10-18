@@ -15,7 +15,7 @@ Uncommon James is a jewelry store in Chicago, IL at 849 West Randolph Street, Ch
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/uncommon-james-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/uncommon-james-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1504753595 (license ODbL-1.0); source data as of 2026-06-01

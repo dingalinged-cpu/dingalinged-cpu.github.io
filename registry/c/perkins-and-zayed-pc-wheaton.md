@@ -15,7 +15,7 @@ Perkins & Zayed PC is a real estate agency in Wheaton, IL at 1745 South Napervil
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/perkins-and-zayed-pc-wheaton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/perkins-and-zayed-pc-wheaton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5135017453 (license ODbL-1.0); source data as of 2026-07-28

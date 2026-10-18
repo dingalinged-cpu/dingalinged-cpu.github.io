@@ -15,7 +15,7 @@ Asrai Garden is a florist in Chicago, IL at 1953 West North Avenue, Chicago, IL 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/asrai-garden-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/asrai-garden-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2324554556 (license ODbL-1.0); source data as of 2026-06-01

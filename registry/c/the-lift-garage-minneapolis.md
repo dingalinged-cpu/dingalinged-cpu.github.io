@@ -15,7 +15,7 @@ The Lift Garage is an auto repair shop in Minneapolis, MN at 2401 East Lake Stre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-lift-garage-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-lift-garage-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/161379227 (license ODbL-1.0); source data as of 2026-06-01

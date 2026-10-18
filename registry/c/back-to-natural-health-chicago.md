@@ -15,7 +15,7 @@ Back To Natural Health is a chiropractor in Chicago, IL at West Diversey Parkway
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/back-to-natural-health-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/back-to-natural-health-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9859720196 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+Hawn Event Center is an event venue in Dallas, TX at 13953 C F Hawn Freeway, Dallas, TX 75253.
+
+# Hawn Event Center
+
+- Category: event venues
+- Services: event venues
+- Address: 13953 C F Hawn Freeway, Dallas, TX 75253
+- City: Dallas
+- State: TX
+- ZIP: 75253
+- Coordinates: 32.6746799, -96.5960692
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hawn-event-center-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hawn-event-center-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/471147926 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

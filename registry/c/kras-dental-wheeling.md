@@ -15,7 +15,7 @@ Kras Dental is a dentist in Wheeling, IL at 1532 East Lake Cook Road, Wheeling, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kras-dental-wheeling/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kras-dental-wheeling.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5728537463 (license ODbL-1.0); source data as of 2026-07-28

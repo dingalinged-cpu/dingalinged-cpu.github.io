@@ -15,7 +15,7 @@ Allstate is an insurance agent in Oakdale, MN at 5701 Hadley Avenue North, Oakda
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-oakdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-oakdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6636466380 (license ODbL-1.0); source data as of 2026-05-31

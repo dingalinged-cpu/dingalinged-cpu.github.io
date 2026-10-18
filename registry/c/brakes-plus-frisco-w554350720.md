@@ -1,0 +1,23 @@
+Brakes Plus is an auto repair shop in Frisco, TX at 9049 Preston Vineyard Drive, Frisco, TX 75035. Phone: +14696339717. Website: https://www.brakesplus.com/.
+
+# Brakes Plus
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 9049 Preston Vineyard Drive, Frisco, TX 75035
+- City: Frisco
+- State: TX
+- ZIP: 75035
+- Coordinates: 33.1335438, -96.8036409
+- Phone: +14696339717
+- Website: https://www.brakesplus.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/brakes-plus-frisco-w554350720/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/brakes-plus-frisco-w554350720.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/554350720 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Level 10 Coatings is a flooring company in Crown Point, IN at 1200 Arrowhead Ct,
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00, Sat 08:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/level-10-coatings-crown-point/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/level-10-coatings-crown-point.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13371521127 (license ODbL-1.0); source data as of 2026-06-01

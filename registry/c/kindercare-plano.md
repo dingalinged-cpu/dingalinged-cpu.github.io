@@ -1,0 +1,23 @@
+KinderCare is a preschool in Plano, TX at 6900 Preston Meadow Drive, Plano, TX 75024. Phone: +19726181499. Website: https://www.kindercare.com/.
+
+# KinderCare
+
+- Category: preschool
+- Services: preschool
+- Address: 6900 Preston Meadow Drive, Plano, TX 75024
+- City: Plano
+- State: TX
+- ZIP: 75024
+- Coordinates: 33.0701062, -96.7781674
+- Phone: +19726181499
+- Website: https://www.kindercare.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 06:30-18:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/kindercare-plano/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kindercare-plano.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2980404581 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

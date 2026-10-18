@@ -15,7 +15,7 @@ Oil Max Express Inc is an auto repair shop in Schaumburg, IL at 1815 West Wise R
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oil-max-express-inc-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oil-max-express-inc-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/495749971 (license ODbL-1.0); source data as of 2026-06-01

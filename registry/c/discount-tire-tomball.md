@@ -1,0 +1,23 @@
+Discount Tire is a tire shop in Tomball, TX at 14239 FM 2920, Tomball, TX 77377. Phone: +12812907091.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 14239 FM 2920, Tomball, TX 77377
+- City: Tomball
+- State: TX
+- ZIP: 77377
+- Coordinates: 30.0888793, -95.6391375
+- Phone: +12812907091
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/discount-tire-tomball/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-tomball.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/683603690 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

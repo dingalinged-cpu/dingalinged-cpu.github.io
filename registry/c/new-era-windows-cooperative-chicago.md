@@ -15,7 +15,7 @@ New Era Windows Cooperative is a window installer in Chicago, IL at 2600 West 35
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-era-windows-cooperative-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-era-windows-cooperative-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8779156621 (license ODbL-1.0); source data as of 2026-06-01

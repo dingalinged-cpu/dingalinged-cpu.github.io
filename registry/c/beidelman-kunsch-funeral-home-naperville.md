@@ -15,7 +15,7 @@ Beidelman-Kunsch Funeral Home is a funeral home in Naperville, IL at 516 South W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/beidelman-kunsch-funeral-home-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/beidelman-kunsch-funeral-home-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/161997505 (license ODbL-1.0); source data as of 2026-06-01

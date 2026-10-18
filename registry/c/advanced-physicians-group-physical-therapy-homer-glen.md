@@ -15,7 +15,7 @@ Advanced Physician's Group Physical Therapy is a physical therapy clinic in Home
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/advanced-physicians-group-physical-therapy-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/advanced-physicians-group-physical-therapy-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11986524296 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+Hair ByKizzy is a hair salon in Milwaukee, WI at 4250 West Fond du Lac Avenue, Milwaukee, WI 53216.
+
+# Hair ByKizzy
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 4250 West Fond du Lac Avenue, Milwaukee, WI 53216
+- City: Milwaukee
+- State: WI
+- ZIP: 53216
+- Coordinates: 43.0826375, -87.966669
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hair-bykizzy-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hair-bykizzy-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12269131355 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

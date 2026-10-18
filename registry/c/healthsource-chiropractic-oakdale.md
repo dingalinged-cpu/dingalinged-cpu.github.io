@@ -15,7 +15,7 @@ HealthSource Chiropractic is a chiropractor in Oakdale, MN at 5705 Hadley Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/healthsource-chiropractic-oakdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/healthsource-chiropractic-oakdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6636466381 (license ODbL-1.0); source data as of 2026-06-01

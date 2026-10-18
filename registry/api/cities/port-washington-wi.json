@@ -1,0 +1,83 @@
+{
+ "place": "Port Washington, WI",
+ "slug": "port-washington-wi",
+ "count": 2,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "dentist port washington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-port-washington-wi.json"
+  },
+  {
+   "keyword": "vet port washington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-port-washington-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "portage-veterinary-clinic-port-washington",
+   "name": "Portage Veterinary Clinic",
+   "summary": "Portage Veterinary Clinic is a veterinarian in Port Washington, WI at 118 South Webster Street, Port Washington, WI 53074. Phone: +12622847103.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/portage-veterinary-clinic-port-washington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/portage-veterinary-clinic-port-washington.json",
+   "address": {
+    "streetAddress": "118 South Webster Street",
+    "addressLocality": "Port Washington",
+    "addressRegion": "WI",
+    "postalCode": "53074",
+    "addressCountry": "US"
+   },
+   "city": "Port Washington",
+   "state": "WI",
+   "zip": "53074",
+   "geo": {
+    "lat": 43.3869734,
+    "lon": -87.8757091
+   },
+   "phone": "+12622847103",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8999098417",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nomad-dental-practices-port-washington",
+   "name": "Nomad Dental Practices",
+   "summary": "Nomad Dental Practices is a dentist in Port Washington, WI at 1349 West Grand Avenue, Port Washington, WI 53074.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nomad-dental-practices-port-washington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nomad-dental-practices-port-washington.json",
+   "address": {
+    "streetAddress": "1349 West Grand Avenue",
+    "addressLocality": "Port Washington",
+    "addressRegion": "WI",
+    "postalCode": "53074",
+    "addressCountry": "US"
+   },
+   "city": "Port Washington",
+   "state": "WI",
+   "zip": "53074",
+   "geo": {
+    "lat": 43.3851905,
+    "lon": -87.8965418
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13063959304",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

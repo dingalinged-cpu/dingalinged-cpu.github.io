@@ -15,7 +15,7 @@ Larue's is a gift shop in Minneapolis, MN.
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00; Su 12:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/larues-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/larues-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3532499011 (license ODbL-1.0); source data as of 2026-06-01

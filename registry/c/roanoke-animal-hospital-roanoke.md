@@ -1,0 +1,23 @@
+Roanoke Animal Hospital is a veterinarian in Roanoke, TX.
+
+# Roanoke Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: Roanoke, TX
+- City: Roanoke
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0029312, -97.220938
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/roanoke-animal-hospital-roanoke/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/roanoke-animal-hospital-roanoke.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/603895919 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

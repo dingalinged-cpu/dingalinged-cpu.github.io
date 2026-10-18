@@ -15,7 +15,7 @@ Willwerscheid Funeral Homes is a funeral home in Saint Paul, MN at 1167 Grand Av
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/willwerscheid-funeral-homes-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/willwerscheid-funeral-homes-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/79236596 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ PetSmart is a pet store in Tinley Park, IL at 7340 West 191st Street, Tinley Par
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/petsmart-tinley-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/petsmart-tinley-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8370768973 (license ODbL-1.0); source data as of 2026-06-01

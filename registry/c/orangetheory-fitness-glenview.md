@@ -15,7 +15,7 @@ Orangetheory Fitness is a gym in Glenview, IL at 1464 Waukegan Road, Glenview, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9462537069 (license ODbL-1.0); source data as of 2026-06-01

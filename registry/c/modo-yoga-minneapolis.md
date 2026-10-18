@@ -15,7 +15,7 @@ Modo Yoga is a yoga studio in Minneapolis, MN at 3252B Lake Street West, Minneap
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/modo-yoga-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/modo-yoga-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6701050776 (license ODbL-1.0); source data as of 2026-07-15

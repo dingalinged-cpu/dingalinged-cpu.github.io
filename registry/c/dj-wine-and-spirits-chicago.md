@@ -15,7 +15,7 @@ DJ Wine & Spirits is a liquor store in Chicago, IL at 6111 West Diversey Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dj-wine-and-spirits-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dj-wine-and-spirits-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12171116277 (license ODbL-1.0); source data as of 2026-06-01

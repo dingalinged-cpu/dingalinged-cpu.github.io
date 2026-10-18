@@ -15,7 +15,7 @@ Cutting Edge Salon + Spa is a hair salon in Palatine, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cutting-edge-salon-spa-palatine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cutting-edge-salon-spa-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10114596406 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Merrill Lynch Wealth Management is a financial advisor in Chicago, IL at 1750-17
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/merrill-lynch-wealth-management-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/merrill-lynch-wealth-management-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210318663 (license ODbL-1.0); source data as of 2026-07-28

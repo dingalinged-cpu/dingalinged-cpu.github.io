@@ -15,7 +15,7 @@ Edina Realty is a real estate agency in Maple Grove, MN at 13603 80th Circle Nor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edina-realty-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edina-realty-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/288327021 (license ODbL-1.0); source data as of 2026-05-31

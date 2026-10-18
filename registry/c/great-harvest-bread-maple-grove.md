@@ -15,7 +15,7 @@ Great Harvest Bread is a bakery in Maple Grove, MN at 13714 Grove Drive North, M
 - Opening hours (OSM syntax): Tu-Fr 06:00-18:00; Sa 06:00-17:00;Su 07:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-harvest-bread-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-harvest-bread-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5777444271 (license ODbL-1.0); source data as of 2026-06-01

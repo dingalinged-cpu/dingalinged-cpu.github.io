@@ -1,4 +1,4 @@
-The top unpaid bike shop listing for the United States is 2 Bici (a bike shop in Willow Springs, IL at 8695 South Archer Avenue #23-24, Willow Springs, IL 60480. Phone: +17083305234. Website: https://2bici.com/). 173 bike shop businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for the United States is 2 Bici (a bike shop in Willow Springs, IL at 8695 South Archer Avenue #23-24, Willow Springs, IL 60480. Phone: +17083305234. Website: https://2bici.com/). 254 bike shop businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in the United States?
 
@@ -8,188 +8,168 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 
 1. 2 Bici | trust 20.0 | 2 Bici is a bike shop in Willow Springs, IL at 8695 South Archer Avenue #23-24, Willow Springs, IL 60480. Phone: +17083305234. Website: https://2bici.com/. | https://dingalinged-cpu.github.io/registry/c/2-bici-willow-springs/
 2. Angry Catfish Bicycle Shop | trust 20.0 | Angry Catfish Bicycle Shop is a bike shop in Minneapolis, MN at 2900 East 42nd Street, Minneapolis, MN 55406. Phone: +16127221538. Website: https://www.angrycatfishbicycle.com/. | https://dingalinged-cpu.github.io/registry/c/angry-catfish-bicycle-shop-minneapolis/
-3. Barnard's Schwinn | trust 20.0 | Barnard's Schwinn is a bike shop in Oak Park, IL at 6109 West North Avenue, Oak Park, IL 60302. Phone: +17085242825. Website: https://barnardsschwinn.com/. | https://dingalinged-cpu.github.io/registry/c/barnards-schwinn-oak-park/
-4. Behind Bars Bicycle Shop | trust 20.0 | Behind Bars Bicycle Shop is a bike shop in Minneapolis, MN at 208 Northeast 13th Avenue, Minneapolis, MN 55413. Phone: +16124360255. Website: https://behind-bars.com/. | https://dingalinged-cpu.github.io/registry/c/behind-bars-bicycle-shop-minneapolis/
-5. BFF Bikes | trust 20.0 | BFF Bikes is a bike shop in Chicago, IL at 2056 North Damen Avenue, Chicago, IL 60647. Phone: +17736665153. Website: https://www.bffbikes.com/. | https://dingalinged-cpu.github.io/registry/c/bff-bikes-chicago-n12004405010/
-6. Bicycle Chain | trust 20.0 | Bicycle Chain is a bike shop in Roseville, MN at 1712 Lexington Avenue North, Roseville, MN 55113. Phone: +16514894513. Website: https://www.bicyclechain.com/. | https://dingalinged-cpu.github.io/registry/c/bicycle-chain-roseville/
-7. Blackstone Bicycle Works | trust 20.0 | Blackstone Bicycle Works is a bike shop in Chicago, IL at 6100 South Blackstone Avenue, Chicago, IL 60637. Phone: +17732415458. Website: https://www.experimentalstation.org/blackstone. | https://dingalinged-cpu.github.io/registry/c/blackstone-bicycle-works-chicago/
-8. Bobby's Bike Hike | trust 20.0 | Bobby's Bike Hike is a bike shop in Chicago, IL at 540 North Lake Shore Drive, Chicago, IL 60611. Phone: +13122459300. Website: https://www.bobbysbikehike.com/. | https://dingalinged-cpu.github.io/registry/c/bobbys-bike-hike-chicago/
-9. Boulevard Bikes | trust 20.0 | Boulevard Bikes is a bike shop in Chicago, IL at 2769 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17732359109. Website: https://boulevardbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/boulevard-bikes-chicago/
-10. CapD Bike Shop | trust 20.0 | CapD Bike Shop is a bike shop in Saint Paul, MN at 710 Smith Avenue South, Saint Paul, MN 55107. Phone: +16512228380. Website: https://capdbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/capd-bike-shop-saint-paul/
-11. Comrade Cycles | trust 20.0 | Comrade Cycles is a bike shop in Chicago, IL at 1908 West Chicago Avenue, Chicago, IL 60622. Phone: +17732922522. Website: https://comradecycles.com/. | https://dingalinged-cpu.github.io/registry/c/comrade-cycles-chicago/
-12. Cosmic Bikes | trust 20.0 | Cosmic Bikes is a bike shop in Chicago, IL at 4641 North Milwaukee Avenue, Chicago, IL 60630. Phone: +17739304076. Website: https://www.cosmicbikes.com/. | https://dingalinged-cpu.github.io/registry/c/cosmic-bikes-chicago/
-13. Deerfield Cyclery | trust 20.0 | Deerfield Cyclery is a bike shop in Deerfield, IL at 705 Waukegan Road, Deerfield, IL 60015. Phone: +18479450700. Website: https://www.deerfieldcyclery.com/. | https://dingalinged-cpu.github.io/registry/c/deerfield-cyclery-deerfield/
-14. Earth Rider Cycling | trust 20.0 | Earth Rider Cycling is a bike shop in Chicago, IL at 1873 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17733601816. Website: https://www.earthridercycling.com/. | https://dingalinged-cpu.github.io/registry/c/earth-rider-cycling-chicago/
-15. Erik's - Bike Board Ski Lynlake | trust 20.0 | Erik's - Bike Board Ski Lynlake is a bike shop in Minneapolis, MN at 2800 Lyndale Avenue South ##1, Minneapolis, MN 55405. Phone: +16128728600. Website: https://www.eriksbikeshop.com/pages/locations/minneapolis-lynlake-mn. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-board-ski-lynlake-minneapolis/
-16. ERIK'S Bike Board Ski | trust 20.0 | ERIK'S Bike Board Ski is a bike shop in Coon Rapids, MN at 2120 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17638620091. Website: https://www.eriksbikeshop.com/store/coon-rapids-mn-55433/Cnrp. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-board-ski-coon-rapids/
-17. Erik's Bike Shop | trust 20.0 | Erik's Bike Shop is a bike shop in Saint Paul, MN at 2191 Ford Parkway, Saint Paul, MN 55116. Phone: +16516994679. Website: https://www.eriksbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-shop-saint-paul/
-18. Erik's Bikes | trust 20.0 | Erik's Bikes is a bike shop in Saint Louis Park, MN at 8006 Minnetonka Boulevard, Saint Louis Park, MN 55426. Phone: +19529319322. Website: https://www.eriksbikeshop.com/store/st-louis-park-mn-55426/Park. | https://dingalinged-cpu.github.io/registry/c/eriks-bikes-saint-louis-park/
-19. Express Bike Shop | trust 20.0 | Express Bike Shop is a bike shop in Saint Paul, MN at 1158 Selby Avenue, Saint Paul, MN 55104. Phone: +16516449660. Website: https://www.exbike.com/home/. | https://dingalinged-cpu.github.io/registry/c/express-bike-shop-saint-paul/
-20. Flanders Bros Cycle | trust 20.0 | Flanders Bros Cycle is a bike shop in Minneapolis, MN at 2707 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16128726994. Website: https://www.flandersbros.com/. | https://dingalinged-cpu.github.io/registry/c/flanders-bros-cycle-minneapolis/
-21. Freewheel Bike | trust 20.0 | Freewheel Bike is a bike shop in Bloomington, MN at 3916 West Old Shakopee Road, Bloomington, MN 55437. Phone: +19528881427. Website: https://www.freewheelbike.com/. | https://dingalinged-cpu.github.io/registry/c/freewheel-bike-bloomington/
-22. Freewheel Bike | trust 20.0 | Freewheel Bike is a bike shop in Eagan, MN at 1275 Promenade Place, Eagan, MN 55121. Phone: +16518821241. Website: https://www.freewheelbike.com/. | https://dingalinged-cpu.github.io/registry/c/freewheel-bike-eagan/
-23. Freewheel Bike | trust 20.0 | Freewheel Bike is a bike shop in Minneapolis, MN at 750 Southeast 9th Street, Minneapolis, MN 55414. Phone: +16125009430. Website: https://www.freewheelbike.com/. | https://dingalinged-cpu.github.io/registry/c/freewheel-bike-minneapolis/
-24. Freewheel Bike | trust 20.0 | Freewheel Bike is a bike shop in Saint Paul, MN at 799 Grand Avenue, Saint Paul, MN 55105. Phone: +16515059091. Website: https://www.freewheelbike.com/about/saint-paul-pg1194.htm. | https://dingalinged-cpu.github.io/registry/c/freewheel-bike-saint-paul/
-25. Full Cycle | trust 20.0 | Full Cycle is a bike shop in Minneapolis, MN at 3515 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16128247581. Website: https://fullcyclebikeshop.org/. | https://dingalinged-cpu.github.io/registry/c/full-cycle-minneapolis/
-26. Glenview Cycle | trust 20.0 | Glenview Cycle is a bike shop in Glenview, IL at 1011 Harlem Avenue, Glenview, IL 60025. Phone: +18479985900. Website: https://glenviewcycle.com/. | https://dingalinged-cpu.github.io/registry/c/glenview-cycle-glenview/
-27. Grand Performance | trust 20.0 | Grand Performance is a bike shop in Saint Paul, MN at 1938 Grand Avenue, Saint Paul, MN 55105. Phone: +16516992640. Website: https://www.gpbicycles.com/. | https://dingalinged-cpu.github.io/registry/c/grand-performance-saint-paul/
-28. Green Bay Cycles | trust 20.0 | Green Bay Cycles is a bike shop in Winnetka, IL at 999 Green Bay Road #1, Winnetka, IL 60093. Phone: +18474467433. Website: https://www.greenbaycycles.com/. | https://dingalinged-cpu.github.io/registry/c/green-bay-cycles-winnetka/
-29. Heritage General Store | trust 20.0 | Heritage General Store is a bike shop in Chicago, IL at 2959 North Lincoln Avenue, Chicago, IL 60657. Phone: +17732453005. Website: https://www.heritagebicycles.com/. | https://dingalinged-cpu.github.io/registry/c/heritage-general-store-chicago/
-30. J & R Cycle & Ski | trust 20.0 | J & R Cycle & Ski is a bike shop in Villa Park, IL at 240 West Saint Charles Road, Villa Park, IL 60181. Phone: +16306201606. Website: https://www.jandrcycleandski.com/. | https://dingalinged-cpu.github.io/registry/c/j-and-r-cycle-and-ski-villa-park/
-31. Kozy's Cyclery | trust 20.0 | Kozy's Cyclery is a bike shop in Chicago, IL at 3712 North Halsted Street, Chicago, IL 60613. Phone: +17732812263. Website: https://www.kozy.com/. | https://dingalinged-cpu.github.io/registry/c/kozys-cyclery-chicago-n7943259927/
-32. Lowertown Bike Shop;Lower Town Bike Shop Coffee Station | trust 20.0 | Lowertown Bike Shop;Lower Town Bike Shop Coffee Station is a bike shop in Saint Paul, MN at 214 East 4th Street #120, Saint Paul, MN 55101. Phone: +16512220775. Website: https://www.lowertownbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/lowertown-bike-shop-lower-town-bike-shop-coffee-station-saint-paul/
-33. Mack's Bike & Goods | trust 20.0 | Mack's Bike & Goods is a bike shop in Evanston, IL at 2948 Central Street, Evanston, IL 60201. Phone: +18478778877. Website: https://www.macksbikeandgoods.com/. | https://dingalinged-cpu.github.io/registry/c/macks-bike-and-goods-evanston/
-34. Maple Grove Cycling | trust 20.0 | Maple Grove Cycling is a bike shop in Maple Grove, MN at 13950 Grove Drive North #100, Maple Grove, MN 55311. Phone: +17634208878. Website: https://maplegrovecycling.com/. | https://dingalinged-cpu.github.io/registry/c/maple-grove-cycling-maple-grove/
-35. Mikes Bike Shop | trust 20.0 | Mikes Bike Shop is a bike shop in Palatine, IL at 155 East Northwest Highway, Palatine, IL 60067. Phone: +18473580948. Website: https://mikesbikeshoppalatine.com/. | https://dingalinged-cpu.github.io/registry/c/mikes-bike-shop-palatine/
-36. Mr. Michael Recycles Bicycles | trust 20.0 | Mr. Michael Recycles Bicycles is a bike shop in Saint Paul, MN at 520 North Prior Avenue, Saint Paul, MN 55104. Phone: +16516411037. Website: https://mmrbstore.com/. | https://dingalinged-cpu.github.io/registry/c/mr-michael-recycles-bicycles-saint-paul/
-37. Nearly New Bikes | trust 20.0 | Nearly New Bikes is a bike shop in Chicago, IL at 4075 North Broadway, Chicago, IL 60613. Phone: +17735250692. Website: https://nearlynewbikes.com/. | https://dingalinged-cpu.github.io/registry/c/nearly-new-bikes-chicago/
-38. Nokomis Cycle | trust 20.0 | Nokomis Cycle is a bike shop in Minneapolis, MN at 4553 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +16127212959. Website: https://www.nokomiscycle.com/. | https://dingalinged-cpu.github.io/registry/c/nokomis-cycle-minneapolis/
-39. Now Bikes & Fitness | trust 20.0 | Now Bikes & Fitness is a bike shop in Saint Paul, MN at 75 Snelling Avenue, Saint Paul, MN 55104. Phone: +16516442354. Website: https://www.nowbikes-fitness.com/. | https://dingalinged-cpu.github.io/registry/c/now-bikes-and-fitness-saint-paul/
-40. Orland Park Cyclery | trust 20.0 | Orland Park Cyclery is a bike shop in Orland Park, IL at 14445 John Humphrey Drive, Orland Park, IL 60462. Phone: +17084602999. Website: https://orlandparkcyclery.com/. | https://dingalinged-cpu.github.io/registry/c/orland-park-cyclery-orland-park/
-41. Paul's Bicycle Shop | trust 20.0 | Paul's Bicycle Shop is a bike shop in Shakopee, MN at 120 Holmes Street South, Shakopee, MN 55379. Phone: +19526886820. Website: https://www.paulsbicyclerepair.com/. | https://dingalinged-cpu.github.io/registry/c/pauls-bicycle-shop-shakopee/
-42. Pedal to the People | trust 20.0 | Pedal to the People is a bike shop in Chicago, IL at 2030 West Hubbard Street, Chicago, IL 60612. Phone: +17733550882. Website: https://www.pedaltothepeople.com/. | https://dingalinged-cpu.github.io/registry/c/pedal-to-the-people-chicago/
-43. Peregrine Bicycle Studio | trust 20.0 | Peregrine Bicycle Studio is a bike shop in Chicago, IL at 621 West Fulton Street, Chicago, IL 60661. Phone: +13128775349. Website: https://peregrinebicyclestudio.com/. | https://dingalinged-cpu.github.io/registry/c/peregrine-bicycle-studio-chicago/
-44. Perennial Cycle | trust 20.0 | Perennial Cycle is a bike shop in Minneapolis, MN at 3342 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16128278000. Website: https://www.perennialcycle.com/. | https://dingalinged-cpu.github.io/registry/c/perennial-cycle-minneapolis/
-45. Recovery Bike Shop | trust 20.0 | Recovery Bike Shop is a bike shop in Minneapolis, MN at 2504 Central Avenue Northeast, Minneapolis, MN 55418. Phone: +16128765356. Website: https://recovery.bike/. | https://dingalinged-cpu.github.io/registry/c/recovery-bike-shop-minneapolis/
-46. Roscoe Village Bikes | trust 20.0 | Roscoe Village Bikes is a bike shop in Chicago, IL at 2016 West Roscoe Street, Chicago, IL 60618. Phone: +17734777550. Website: https://roscoevillagebikes.com/. | https://dingalinged-cpu.github.io/registry/c/roscoe-village-bikes-chicago/
-47. Rudy's Cycle and Fitness | trust 20.0 | Rudy's Cycle and Fitness is a bike shop in Chicago, IL at 5711 West Irving Park Road, Chicago, IL 60634. Phone: +17737364395. Website: https://www.rudysbikes.com/. | https://dingalinged-cpu.github.io/registry/c/rudys-cycle-and-fitness-chicago/
-48. Small Shop Cycles & Service | trust 20.0 | Small Shop Cycles & Service is a bike shop in Chicago, IL at 4250 South Cottage Grove Avenue, Chicago, IL 60653. Phone: +17736888449. Website: https://smallshopchicago.com/. | https://dingalinged-cpu.github.io/registry/c/small-shop-cycles-and-service-chicago/
-49. Specialized | trust 20.0 | Specialized is a bike shop in Chicago, IL at 925 West Lake Street, Chicago, IL 60607. Phone: +13122542852. Website: https://specializedchicago.com/. | https://dingalinged-cpu.github.io/registry/c/specialized-chicago/
-50. Tamago | trust 20.0 | Tamago is a bike shop in Chicago, IL at 1451 East 57th Street, Chicago, IL 60637. Phone: +17738881225. Website: https://www.tamago.cc/. | https://dingalinged-cpu.github.io/registry/c/tamago-chicago/
-51. The Pony Shop | trust 20.0 | The Pony Shop is a bike shop in Evanston, IL at 1224 Chicago Avenue, Evanston, IL 60202. Phone: +18478645775. Website: https://www.ponyshop.com/. | https://dingalinged-cpu.github.io/registry/c/the-pony-shop-evanston/
-52. Tonka Cycle & Ski | trust 20.0 | Tonka Cycle & Ski is a bike shop in Hopkins, MN at 416 11th Avenue South, Hopkins, MN 55343. Phone: +19529388336. Website: https://www.tonkacycleandski.com/. | https://dingalinged-cpu.github.io/registry/c/tonka-cycle-and-ski-hopkins/
-53. Trailhead Cycling | trust 20.0 | Trailhead Cycling is a bike shop in Champlin, MN at 11350 Aquila Drive North, Champlin, MN 55316. Phone: +17637120312. Website: https://www.trailheadcycling.com/. | https://dingalinged-cpu.github.io/registry/c/trailhead-cycling-champlin/
-54. Trek | trust 20.0 | Trek is a bike shop in Schererville, IN at 651 East US-30, Schererville, IN 46375. Phone: +12193222453. Website: https://www.trekbikes.com/us/en_US/retail/schererville/. | https://dingalinged-cpu.github.io/registry/c/trek-schererville/
-55. U of M Bike Center | trust 20.0 | U of M Bike Center is a bike shop in Minneapolis, MN at 401 Southeast Oak Street, Minneapolis, MN 55414. Phone: +16126249468. Website: https://pts.umn.edu/walk-bike-and-scooter/bike/bike-center. | https://dingalinged-cpu.github.io/registry/c/u-of-m-bike-center-minneapolis/
-56. Venture Bikes and Coffee | trust 20.0 | Venture Bikes and Coffee is a bike shop in Minneapolis, MN at 1000 Midtown Greenway, Minneapolis, MN 55407. Phone: +16123773029. Website: https://venturebikesmn.com/. | https://dingalinged-cpu.github.io/registry/c/venture-bikes-and-coffee-minneapolis/
-57. Village Cycle Center | trust 20.0 | Village Cycle Center is a bike shop in Chicago, IL at 1337 North Wells Street, Chicago, IL 60610. Phone: +13127512488. Website: https://www.villagecycle.com/. | https://dingalinged-cpu.github.io/registry/c/village-cycle-center-chicago/
-58. Kozy's Cyclery | trust 19.0 | Kozy's Cyclery is a bike shop in Chicago, IL at 3255 North Milwaukee Avenue, Chicago, IL. Phone: +17732820202. Website: https://www.kozy.com/. | https://dingalinged-cpu.github.io/registry/c/kozys-cyclery-chicago/
-59. Kozy's Cyclery | trust 19.0 | Kozy's Cyclery is a bike shop in Chicago, IL at 219 West Erie Street, Chicago, IL. Phone: +13122661700. Website: https://kozy.com/. | https://dingalinged-cpu.github.io/registry/c/kozys-cyclery-chicago-n12096153399/
-60. Tangletown Bike Shop | trust 19.0 | Tangletown Bike Shop is a bike shop in Minneapolis, MN at 816 West 50th Street, Minneapolis, MN. Phone: +16122598180. Website: https://www.tangletownbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/tangletown-bike-shop-minneapolis/
-61. Al's Cycle Shop | trust 16.0 | Al's Cycle Shop is a bike shop in Skokie, IL at 8118 Lincoln Avenue, Skokie, IL 60077. Phone: +18476730135. Website: https://alscycleshop.com/. | https://dingalinged-cpu.github.io/registry/c/als-cycle-shop-skokie/
-62. Armitage Bike Shop | trust 16.0 | Armitage Bike Shop is a bike shop in Chicago, IL at 3601 West Armitage Avenue, Chicago, IL 60647. Phone: +17737725433. Website: https://www.bike4lifechicago.org/. | https://dingalinged-cpu.github.io/registry/c/armitage-bike-shop-chicago/
-63. Art's Cycling & Fitness | trust 16.0 | Art's Cycling & Fitness is a bike shop in Berwyn, IL at 6212 West Cermak Road, Berwyn, IL 60402. Phone: +17087880943. Website: https://artscycling.com/. | https://dingalinged-cpu.github.io/registry/c/arts-cycling-and-fitness-berwyn/
-64. Beverly Bike & Ski | trust 16.0 | Beverly Bike & Ski is a bike shop in Chicago, IL at 9121 South Western Avenue, Chicago, IL 60643. Phone: +17732385704. Website: https://www.beverlyallseasons.com/. | https://dingalinged-cpu.github.io/registry/c/beverly-bike-and-ski-chicago/
-65. BFF Bikes | trust 16.0 | BFF Bikes is a bike shop in Chicago, IL at 2113 West Armitage Avenue, Chicago, IL 60647. Phone: +17736665153. Website: https://www.bffbikes.com/. | https://dingalinged-cpu.github.io/registry/c/bff-bikes-chicago/
-66. Bicycles Etc. | trust 16.0 | Bicycles Etc. is a bike shop in Lisle, IL at 6460 College Road, Lisle, IL 60532. Phone: +16303692453. Website: https://www.bicyclesetc-il.com/. | https://dingalinged-cpu.github.io/registry/c/bicycles-etc-lisle/
-67. Bikefix | trust 16.0 | Bikefix is a bike shop in Oak Park, IL at 310 Lake Street #A, Oak Park, IL 60302. Phone: +17084458760. Website: https://bikefixinc.com/. | https://dingalinged-cpu.github.io/registry/c/bikefix-oak-park/
-68. Blue City Cycles | trust 16.0 | Blue City Cycles is a bike shop in Chicago, IL at 3201 South Halsted Street, Chicago, IL 60608. Phone: +13122253780. Website: https://bluecitycycles.com/. | https://dingalinged-cpu.github.io/registry/c/blue-city-cycles-chicago/
-69. Bob's Bike Shop | trust 16.0 | Bob's Bike Shop is a bike shop in Park Ridge, IL at 141 Vine Avenue, Park Ridge, IL 60068. Phone: +18478254438. Website: https://www.bobsbikepr.com/. | https://dingalinged-cpu.github.io/registry/c/bobs-bike-shop-park-ridge/
-70. Bucephalus Bikes | trust 16.0 | Bucephalus Bikes is a bike shop in Evanston, IL at 1424 Lake Street, Evanston, IL 60201. Phone: +18478640924. Website: https://bucephalusbikes.com/. | https://dingalinged-cpu.github.io/registry/c/bucephalus-bikes-evanston/
-71. Crank Revolution Bike Shop | trust 16.0 | Crank Revolution Bike Shop is a bike shop in Hoffman Estates, IL at 1744 Algonquin Rd, Hoffman Estates, IL 60192. Phone: +18477905115. Website: https://www.crankrevolution.com/. | https://dingalinged-cpu.github.io/registry/c/crank-revolution-bike-shop-hoffman-estates/
-72. Erik's | trust 16.0 | Erik's is a bike shop in Skokie, IL at 3801 Oakton Street, Skokie, IL 60076. Phone: +18473245134. Website: https://www.eriksbikeshop.com/store/skokie-il-60076/Skok. | https://dingalinged-cpu.github.io/registry/c/eriks-skokie/
-73. Four Star Family Cyclery | trust 16.0 | Four Star Family Cyclery is a bike shop in Chicago, IL at 3101 West Diversey Avenue, Chicago, IL 60647. Phone: +12243585455. Website: https://www.fourstarfamilycyclery.com/. | https://dingalinged-cpu.github.io/registry/c/four-star-family-cyclery-chicago/
-74. Freewheel Bike | trust 16.0 | Freewheel Bike is a bike shop in Richfield, MN at 6824 Penn Avenue South, Richfield, MN 55423. Phone: +16128667540. Website: https://www.freewheelbike.com/. | https://dingalinged-cpu.github.io/registry/c/freewheel-bike-richfield/
-75. Igor Does My Bike | trust 16.0 | Igor Does My Bike is a bike shop in Chicago, IL. Phone: +17739682453. Website: https://www.igordoesmybike.com/. | https://dingalinged-cpu.github.io/registry/c/igor-does-my-bike-chicago/
-76. J. C. Lind Bike Co. | trust 16.0 | J. C. Lind Bike Co. is a bike shop in Chicago, IL at 1311 North Wells Street, Chicago, IL 60610. Phone: +13126431670. Website: https://www.jclindbikes.com/. | https://dingalinged-cpu.github.io/registry/c/j-c-lind-bike-co-chicago/
-77. LaMere Cycles | trust 16.0 | LaMere Cycles is a bike shop in Saint Louis Park, MN at 4415 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16123153905. Website: https://www.lamerecycles.com/. | https://dingalinged-cpu.github.io/registry/c/lamere-cycles-saint-louis-park/
-78. Lickbike.com | trust 16.0 | Lickbike.com is a bike shop in Oak Park, IL at 310 Lake Street #B, Oak Park, IL 60302. Phone: +17083832130. Website: https://www.lickbike.com/. | https://dingalinged-cpu.github.io/registry/c/lickbike-com-oak-park/
-79. Now Bikes & Fitness | trust 16.0 | Now Bikes & Fitness is a bike shop in Arden Hills, MN at 1201 West County Road E, Arden Hills, MN 55112. Phone: +16514907709. Website: https://www.nowbikes-fitness.com/. | https://dingalinged-cpu.github.io/registry/c/now-bikes-and-fitness-arden-hills/
-80. Powerbikes.com | trust 16.0 | Powerbikes.com is a bike shop in Saint Louis Park, MN at 5500 36th Street West, Saint Louis Park, MN 55416. Phone: +19522240897. Website: https://powerbikes.com/. | https://dingalinged-cpu.github.io/registry/c/powerbikes-com-saint-louis-park/
-81. Samcycle Electric Bikes | trust 16.0 | Samcycle Electric Bikes is a bike shop in Palatine, IL at 144 West Northwest Highway, Palatine, IL 60067. Phone: +18474857014. Website: https://samcycle.online/. | https://dingalinged-cpu.github.io/registry/c/samcycle-electric-bikes-palatine/
-82. Spokes | trust 16.0 | Spokes is a bike shop in Saint Bonifacius, MN at 8850 Glacier Road, Saint Bonifacius, MN 55375. Phone: +19524461666. Website: https://www.spokesmn.com/. | https://dingalinged-cpu.github.io/registry/c/spokes-saint-bonifacius/
-83. The Cargo Bike Shop | trust 16.0 | The Cargo Bike Shop is a bike shop in Saint Paul, MN at 1592 Selby Avenue, Saint Paul, MN 55104. Phone: +16082475847. Website: https://www.thecargobikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/the-cargo-bike-shop-saint-paul/
-84. Wheel & Sprocket | trust 16.0 | Wheel & Sprocket is a bike shop in Evanston, IL at 1027 Davis Street, Evanston, IL 60201. Phone: +18478647660. Website: https://www.wheelandsprocket.com/about/evanston-pg330.htm. | https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-evanston/
-85. Mox Multisport | trust 15.0 | Mox Multisport is a bike shop in Chicago, IL at 648 West Randolph Street, Chicago, IL. Phone: +13124669111. Website: https://www.moxmultisport.com/. | https://dingalinged-cpu.github.io/registry/c/mox-multisport-chicago/
-86. Broadway Bikes | trust 14.0 | Broadway Bikes is a bike shop in Chicago, IL at 4653 North Broadway, Chicago, IL 60640. Phone: +17737285212. | https://dingalinged-cpu.github.io/registry/c/broadway-bikes-chicago/
-87. Camden Cycles | trust 14.0 | Camden Cycles is a bike shop in Minneapolis, MN at 1420 North Dowling Avenue, Minneapolis, MN 55412. Website: https://www.camdenbicycles.com/home. | https://dingalinged-cpu.github.io/registry/c/camden-cycles-minneapolis/
-88. Cycle Bike Shop | trust 14.0 | Cycle Bike Shop is a bike shop in Chicago, IL at 2130 South Halsted Street, Chicago, IL 60608. Phone: +13129871080. | https://dingalinged-cpu.github.io/registry/c/cycle-bike-shop-chicago/
-89. Erik's Bike Shop | trust 14.0 | Erik's Bike Shop is a bike shop in Eagan, MN at 1555 Cliff Road, Eagan, MN 55122. Phone: +16512096046. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-shop-eagan/
-90. Grease Pit Bike Shop | trust 14.0 | Grease Pit Bike Shop is a bike shop in Minneapolis, MN at 2750 Bloomington Avenue South, Minneapolis, MN 55407. Website: https://www.instagram.com/greasepitbikeshop/?hl=en. | https://dingalinged-cpu.github.io/registry/c/grease-pit-bike-shop-minneapolis/
-91. Jonny Rock Bikes | trust 14.0 | Jonny Rock Bikes is a bike shop in Bloomington, MN at 9150 Old Cedar Avenue South, Bloomington, MN 55425. Phone: +19523034371. | https://dingalinged-cpu.github.io/registry/c/jonny-rock-bikes-bloomington/
-92. Linden Hills Bike Shop | trust 14.0 | Linden Hills Bike Shop is a bike shop in Minneapolis, MN at 3308 West 44th Street, Minneapolis, MN 55410. Website: https://www.lindenhillsbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/linden-hills-bike-shop-minneapolis/
-93. OneTen Cycles | trust 14.0 | OneTen Cycles is a bike shop in Mendota Heights, MN at 1040 West Dakota Drive, Mendota Heights, MN 55120. Website: https://www.onetencycles.com/. | https://dingalinged-cpu.github.io/registry/c/oneten-cycles-mendota-heights/
-94. Village CycleSport | trust 14.0 | Village CycleSport is a bike shop in Barrington, IL at 203 West Northwest Highway, Barrington, IL 60010. Website: https://www.villagecyclesport.com/. | https://dingalinged-cpu.github.io/registry/c/village-cyclesport-barrington/
-95. Village CycleSport | trust 14.0 | Village CycleSport is a bike shop in Prospect Heights, IL at 1326 N. Rand Rd., Prospect Heights, IL 60004. Website: https://www.villagecyclesport.com/. | https://dingalinged-cpu.github.io/registry/c/village-cyclesport-prospect-heights/
-96. Bicycle Clinic | trust 10.0 | Bicycle Clinic is a bike shop in Chicago, IL at 2221 East 71st Street, Chicago, IL 60649. Phone: +17739552028. | https://dingalinged-cpu.github.io/registry/c/bicycle-clinic-chicago/
-97. Bike Doctors | trust 10.0 | Bike Doctors is a bike shop in Hazel Crest, IL at 17306 Kedzie Avenue, Hazel Crest, IL 60429. Phone: +17083352755. | https://dingalinged-cpu.github.io/registry/c/bike-doctors-hazel-crest/
-98. Chicagoland Bicycle | trust 10.0 | Chicagoland Bicycle is a bike shop in Chicago, IL at 10355 South Kedzie Avenue, Chicago, IL 60655. Website: https://www.chicagolandbicycles.com/. | https://dingalinged-cpu.github.io/registry/c/chicagoland-bicycle-chicago/
-99. Ciclo Urbano | trust 10.0 | Ciclo Urbano is a bike shop in Chicago, IL at 2459 West Division Street, Chicago, IL 60622. Website: https://ciclourbanochicago.com/. | https://dingalinged-cpu.github.io/registry/c/ciclo-urbano-chicago/
-100. Cog Cycles | trust 10.0 | Cog Cycles is a bike shop in Chicago, IL at 3217 West Bryn Mawr Avenue, Chicago, IL 60625. Website: https://www.cogcycleschicago.com/. | https://dingalinged-cpu.github.io/registry/c/cog-cycles-chicago/
-101. Compleat Cyclist | trust 10.0 | Compleat Cyclist is a bike shop in Dolton, IL at 703 East Sibley Boulevard, Dolton, IL 60419. Website: https://www.compleatcyclist.com/. | https://dingalinged-cpu.github.io/registry/c/compleat-cyclist-dolton/
-102. Erik's Bike Board Ski | trust 10.0 | Erik's Bike Board Ski is a bike shop in Maple Grove, MN. Website: https://www.eriksbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-board-ski-maple-grove/
-103. Gateway Cycle | trust 10.0 | Gateway Cycle is a bike shop in Oakdale, MN at 6028 MN Highway 36, Oakdale, MN 55128. Website: https://www.gatewaycycle.com/. | https://dingalinged-cpu.github.io/registry/c/gateway-cycle-oakdale/
-104. Gears2You | trust 10.0 | Gears2You is a bike shop in Brookfield, IL at 9219 Broadway Avenue, Brookfield, IL 60513. Website: https://www.gears2you.com/. | https://dingalinged-cpu.github.io/registry/c/gears2you-brookfield/
-105. Gears2You | trust 10.0 | Gears2You is a bike shop in Riverside, IL at 90 Bloomingbank Road, Riverside, IL 60546. Website: https://www.gears2you.com/. | https://dingalinged-cpu.github.io/registry/c/gears2you-riverside/
-106. GoodSpeed Cycles | trust 10.0 | GoodSpeed Cycles is a bike shop in Homewood, IL at 2125 183rd Street, Homewood, IL 60430. Website: https://www.goodspeedcycles.com/. | https://dingalinged-cpu.github.io/registry/c/goodspeed-cycles-homewood/
-107. Johnny Sprockets | trust 10.0 | Johnny Sprockets is a bike shop in Chicago, IL at 3140 North Broadway, Chicago, IL 60657. Website: https://www.johnnysprockets.com/. | https://dingalinged-cpu.github.io/registry/c/johnny-sprockets-chicago/
-108. Never Ending Cycles | trust 10.0 | Never Ending Cycles is a bike shop in Streamwood, IL at 1060 East Schaumburg Road, Streamwood, IL 60107. Website: https://www.neverendingcyclesshop.com/. | https://dingalinged-cpu.github.io/registry/c/never-ending-cycles-streamwood/
-109. Pioneer Cycle | trust 10.0 | Pioneer Cycle is a bike shop in Blaine, MN at 12741 Central Avenue Northeast, Blaine, MN 55434. Phone: +17637558871. | https://dingalinged-cpu.github.io/registry/c/pioneer-cycle-blaine/
-110. Vern and Sonny’s | trust 10.0 | Vern and Sonny’s is a bike shop in Chicago, IL at 3031 West Armitage Avenue, Chicago, IL 60647. Website: https://vernandsonny.com/. | https://dingalinged-cpu.github.io/registry/c/vern-and-sonny-s-chicago/
-111. Wheel & Sprocket | trust 10.0 | Wheel & Sprocket is a bike shop in Oak Park, IL at 1118 Westgate Street, Oak Park, IL 60301. Website: https://wheelandsprocket.com/. | https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-oak-park/
-112. Wilmette Bicycle & Sport Shop | trust 10.0 | Wilmette Bicycle & Sport Shop is a bike shop in Wilmette, IL at 605 Green Bay Road, Wilmette, IL 60091. Website: https://www.wilmettesportshop.com/. | https://dingalinged-cpu.github.io/registry/c/wilmette-bicycle-and-sport-shop-wilmette/
-113. YMEN Bike Box | trust 10.0 | YMEN Bike Box is a bike shop in Chicago, IL at 1300 South Pulaski Road, Chicago, IL 60624. Website: https://www.ymenchicago.com/. | https://dingalinged-cpu.github.io/registry/c/ymen-bike-box-chicago/
-114. International Bike Shop | trust 8.0 | International Bike Shop is a bike shop in Chicago, IL at 3821 West North Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/international-bike-shop-chicago/
-115. Specialized | trust 8.0 | Specialized is a bike shop in Chicago, IL at 2104 North Halsted Street, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/specialized-chicago-n12156678415/
-116. Terry's Bike Shop | trust 8.0 | Terry's Bike Shop is a bike shop in Countryside, IL at 9828 West 55th Street, Countryside, IL 60525. | https://dingalinged-cpu.github.io/registry/c/terrys-bike-shop-countryside/
-117. Trek | trust 8.0 | Trek is a bike shop in Chicago, IL at 1647 North Milwaukee Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/trek-chicago/
-118. DS Bicycles | trust 6.0 | DS Bicycles is a bike shop in Chicago, IL. Phone: +13129985211. | https://dingalinged-cpu.github.io/registry/c/ds-bicycles-chicago/
-119. Bicycle Bill's | trust 4.0 | Bicycle Bill's is a bike shop in West Saint Paul, MN at 1260 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/bicycle-bills-west-saint-paul/
-120. Bike King | trust 4.0 | Bike King is a bike shop in Inver Grove Heights, MN at 6489 Cahill Avenue, Inver Grove Heights, MN 55076. | https://dingalinged-cpu.github.io/registry/c/bike-king-inver-grove-heights/
-121. Cars Bike Shop | trust 4.0 | Cars Bike Shop is a bike shop in Mounds View, MN at 2661 West County Road I, Mounds View, MN 55112. | https://dingalinged-cpu.github.io/registry/c/cars-bike-shop-mounds-view/
-122. Edgebrook Cycle | trust 4.0 | Edgebrook Cycle is a bike shop in Chicago, IL at 6450 North Central Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/edgebrook-cycle-chicago/
-123. Element Multisport | trust 4.0 | Element Multisport is a bike shop in Chicago, IL at 2754 North Clybourn Avenue #B-5, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/element-multisport-chicago/
-124. Element Multisport | trust 4.0 | Element Multisport is a bike shop in Oak Park, IL at 1101 Chicago Avenue, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/element-multisport-oak-park/
-125. Erik's Bike Shop | trust 4.0 | Erik's Bike Shop is a bike shop in Roseville, MN at 2059 Snelling Avenue North, Roseville, MN 55113. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-shop-roseville/
-126. Gary's Cycle Shop | trust 4.0 | Gary's Cycle Shop is a bike shop in Chicago, IL at 6317 North Clark Street, Chicago, IL 60660. | https://dingalinged-cpu.github.io/registry/c/garys-cycle-shop-chicago/
-127. George Garner Cyclery | trust 4.0 | George Garner Cyclery is a bike shop in Lake Zurich, IL at Ela Road, Lake Zurich, IL 60047. | https://dingalinged-cpu.github.io/registry/c/george-garner-cyclery-lake-zurich/
-128. George Garner Cyclery | trust 4.0 | George Garner Cyclery is a bike shop in Northbrook, IL at 1111 Waukegan Road, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/george-garner-cyclery-northbrook/
-129. John's Hardware & Bicycle Shop | trust 4.0 | John's Hardware & Bicycle Shop is a bike shop in Chicago, IL at 7350 South Halsted Street, Chicago, IL 60621. | https://dingalinged-cpu.github.io/registry/c/johns-hardware-and-bicycle-shop-chicago/
-130. Johnny Sprockets | trust 4.0 | Johnny Sprockets is a bike shop in Chicago, IL at 5434 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/johnny-sprockets-chicago-n13670093524/
-131. McDonald's Cycle Center | trust 4.0 | McDonald's Cycle Center is a bike shop in Chicago, IL at 239 East Randolph Street, Chicago, IL 60601. | https://dingalinged-cpu.github.io/registry/c/mcdonalds-cycle-center-chicago/
-132. Oscar Wastyn Cycles | trust 4.0 | Oscar Wastyn Cycles is a bike shop in Chicago, IL at 2412 North Talman Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/oscar-wastyn-cycles-chicago/
-133. Park Schwinn Cyclery | trust 4.0 | Park Schwinn Cyclery is a bike shop in Evergreen Park, IL at 3333 West 95th Street, Evergreen Park, IL 60805. | https://dingalinged-cpu.github.io/registry/c/park-schwinn-cyclery-evergreen-park/
-134. Pilsen Bike Shop | trust 4.0 | Pilsen Bike Shop is a bike shop in Chicago, IL at 3541 South Archer Avenue, Chicago, IL 60609. | https://dingalinged-cpu.github.io/registry/c/pilsen-bike-shop-chicago/
-135. Prairie Path Cycles | trust 4.0 | Prairie Path Cycles is a bike shop in Winfield, IL at 27W181 Geneva #Road, Winfield, IL 60190. | https://dingalinged-cpu.github.io/registry/c/prairie-path-cycles-winfield/
-136. Ramsey Bicycle | trust 4.0 | Ramsey Bicycle is a bike shop in Ramsey, MN at 6825 US-10, Ramsey, MN 55303. | https://dingalinged-cpu.github.io/registry/c/ramsey-bicycle-ramsey/
-137. Richard's Bicycles | trust 4.0 | Richard's Bicycles is a bike shop in Palos Heights, IL at 11933 Harlem Avenue, Palos Heights, IL 60463. | https://dingalinged-cpu.github.io/registry/c/richards-bicycles-palos-heights/
-138. Robert's Cycle | trust 4.0 | Robert's Cycle is a bike shop in Chicago, IL at 7054 North Clark Street, Chicago, IL 60626. | https://dingalinged-cpu.github.io/registry/c/roberts-cycle-chicago/
-139. Sanchez Bike Repair | trust 4.0 | Sanchez Bike Repair is a bike shop in Chicago, IL at 3654 West 26th Street, Chicago, IL 60623. | https://dingalinged-cpu.github.io/registry/c/sanchez-bike-repair-chicago/
-140. Stellar Cycleworks | trust 4.0 | Stellar Cycleworks is a bike shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/stellar-cycleworks-chicago/
-141. The Bike Lane | trust 4.0 | The Bike Lane is a bike shop in Chicago, IL at 2130 North Milwaukee Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/the-bike-lane-chicago/
-142. The Recyclery Collective | trust 4.0 | The Recyclery Collective is a bike shop in Chicago, IL at 7628 North Paulina Street, Chicago, IL 60626. | https://dingalinged-cpu.github.io/registry/c/the-recyclery-collective-chicago/
-143. Trek | trust 4.0 | Trek is a bike shop in Downers Grove, IL at 639 Ogden Avenue, Downers Grove, IL 60515. | https://dingalinged-cpu.github.io/registry/c/trek-downers-grove/
-144. Trek | trust 4.0 | Trek is a bike shop in Highland Park, IL at 1925 Skokie Valley Road, Highland Park, IL 60035. | https://dingalinged-cpu.github.io/registry/c/trek-highland-park/
-145. Turin Bicycle | trust 4.0 | Turin Bicycle is a bike shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/turin-bicycle-chicago/
-146. West Town Bikes | trust 4.0 | West Town Bikes is a bike shop in Chicago, IL at 1147 North Campbell Avenue, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/west-town-bikes-chicago/
-147. Wheel & Sprocket | trust 4.0 | Wheel & Sprocket is a bike shop in Park Ridge, IL at 672 North Northwest Highway, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-park-ridge/
-148. Working Bikes Cooperative | trust 4.0 | Working Bikes Cooperative is a bike shop in Chicago, IL at 2434 South Western Avenue, Chicago, IL 60608. | https://dingalinged-cpu.github.io/registry/c/working-bikes-cooperative-chicago/
-149. Carmen's Bicycles | trust 3.0 | Carmen's Bicycles is a bike shop in Chicago, IL at 6519 West Archer Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/carmens-bicycles-chicago/
-150. Irv's Bike Shop | trust 3.0 | Irv's Bike Shop is a bike shop in Chicago, IL at 1725 South Racine Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/irvs-bike-shop-chicago/
-151. 3rd Coast Cycles | trust 0.0 | 3rd Coast Cycles is a bike shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/3rd-coast-cycles-chicago/
-152. Big City Bikes | trust 0.0 | Big City Bikes is a bike shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/big-city-bikes-chicago/
-153. Bike Rentals | trust 0.0 | Bike Rentals is a bike shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/bike-rentals-chicago/
-154. Bike Rentals | trust 0.0 | Bike Rentals is a bike shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/bike-rentals-chicago-w210392326/
-155. Boco Bikes | trust 0.0 | Boco Bikes is a bike shop in Chanhassen, MN. | https://dingalinged-cpu.github.io/registry/c/boco-bikes-chanhassen/
-156. Bokoo Bikes | trust 0.0 | Bokoo Bikes is a bike shop in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/bokoo-bikes-minnetonka/
-157. Cyclebar | trust 0.0 | Cyclebar is a bike shop in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/cyclebar-wheaton/
-158. Dan's Bike Shop | trust 0.0 | Dan's Bike Shop is a bike shop in Berwyn, IL. | https://dingalinged-cpu.github.io/registry/c/dans-bike-shop-berwyn/
-159. Erik's Bike | trust 0.0 | Erik's Bike is a bike shop in Vadnais Heights, MN. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-vadnais-heights/
-160. Erik's Bikes | trust 0.0 | Erik's Bikes is a bike shop in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/eriks-bikes-eden-prairie/
-161. Freewheel | trust 0.0 | Freewheel is a bike shop in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/freewheel-eden-prairie/
-162. Golas & Sons Bike Shop | trust 0.0 | Golas & Sons Bike Shop is a bike shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/golas-and-sons-bike-shop-chicago/
-163. Jerry's Bike Shop | trust 0.0 | Jerry's Bike Shop is a bike shop in Coon Rapids, MN. | https://dingalinged-cpu.github.io/registry/c/jerrys-bike-shop-coon-rapids/
-164. Jonny Rock Bikes | trust 0.0 | Jonny Rock Bikes is a bike shop in Hopkins, MN. | https://dingalinged-cpu.github.io/registry/c/jonny-rock-bikes-hopkins/
-165. Lakeshore Bike | trust 0.0 | Lakeshore Bike is a bike shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/lakeshore-bike-chicago/
-166. M & M Cyclery | trust 0.0 | M & M Cyclery is a bike shop in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/m-and-m-cyclery-buffalo-grove/
-167. Midwest Cyclery | trust 0.0 | Midwest Cyclery is a bike shop in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/midwest-cyclery-wheaton/
-168. Roll | trust 0.0 | Roll is a bike shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/roll-chicago/
-169. Spokes | trust 0.0 | Spokes is a bike shop in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/spokes-wheaton/
-170. Strauss Skates and Bicycles | trust 0.0 | Strauss Skates and Bicycles is a bike shop in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/strauss-skates-and-bicycles-maplewood/
-171. The Wheel Thing | trust 0.0 | The Wheel Thing is a bike shop in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/the-wheel-thing-la-grange-park/
-172. Yojimbo's Garage | trust 0.0 | Yojimbo's Garage is a bike shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/yojimbos-garage-chicago/
-173. Your Community Bike Shop | trust 0.0 | Your Community Bike Shop is a bike shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/your-community-bike-shop-chicago/
+3. B&B Bicycles | trust 20.0 | B&B Bicycles is a bike shop in Cedar Hill, TX at 223 East Farm-to-Market Road 1382 #Ste. 127, Cedar Hill, TX 75104. Phone: +19722933100. Website: https://www.bbbicycles.com/. | https://dingalinged-cpu.github.io/registry/c/b-and-b-bicycles-cedar-hill/
+4. Barnard's Schwinn | trust 20.0 | Barnard's Schwinn is a bike shop in Oak Park, IL at 6109 West North Avenue, Oak Park, IL 60302. Phone: +17085242825. Website: https://barnardsschwinn.com/. | https://dingalinged-cpu.github.io/registry/c/barnards-schwinn-oak-park/
+5. Behind Bars Bicycle Shop | trust 20.0 | Behind Bars Bicycle Shop is a bike shop in Minneapolis, MN at 208 Northeast 13th Avenue, Minneapolis, MN 55413. Phone: +16124360255. Website: https://behind-bars.com/. | https://dingalinged-cpu.github.io/registry/c/behind-bars-bicycle-shop-minneapolis/
+6. Ben's Cycle | trust 20.0 | Ben's Cycle is a bike shop in Milwaukee, WI at 1013 West Lincoln Avenue, Milwaukee, WI 53215. Phone: +14143842236. Website: https://www.benscycle.com/. | https://dingalinged-cpu.github.io/registry/c/bens-cycle-milwaukee/
+7. BFF Bikes | trust 20.0 | BFF Bikes is a bike shop in Chicago, IL at 2056 North Damen Avenue, Chicago, IL 60647. Phone: +17736665153. Website: https://www.bffbikes.com/. | https://dingalinged-cpu.github.io/registry/c/bff-bikes-chicago-n12004405010/
+8. Bicycle Chain | trust 20.0 | Bicycle Chain is a bike shop in Roseville, MN at 1712 Lexington Avenue North, Roseville, MN 55113. Phone: +16514894513. Website: https://www.bicyclechain.com/. | https://dingalinged-cpu.github.io/registry/c/bicycle-chain-roseville/
+9. Bike Friendly South Dallas | trust 20.0 | Bike Friendly South Dallas is a bike shop in Dallas, TX at 1616 Al Lipscomb Way, Dallas, TX 75215. Phone: +14693991742. Website: https://www.bikefriendlysouthdallas.org/. | https://dingalinged-cpu.github.io/registry/c/bike-friendly-south-dallas-dallas/
+10. Bike Mart | trust 20.0 | Bike Mart is a bike shop in Dallas, TX at 9040 Garland Road, Dallas, TX 75218. Phone: +12143210705. Website: https://www.bikemart.com/. | https://dingalinged-cpu.github.io/registry/c/bike-mart-dallas/
+11. Bike Mart | trust 20.0 | Bike Mart is a bike shop in Dallas, TX at 5427 West Lovers Lane, Dallas, TX 75209. Phone: +19727077581. Website: https://www.bikemart.com/. | https://dingalinged-cpu.github.io/registry/c/bike-mart-dallas-n12185250277/
+12. Blackstone Bicycle Works | trust 20.0 | Blackstone Bicycle Works is a bike shop in Chicago, IL at 6100 South Blackstone Avenue, Chicago, IL 60637. Phone: +17732415458. Website: https://www.experimentalstation.org/blackstone. | https://dingalinged-cpu.github.io/registry/c/blackstone-bicycle-works-chicago/
+13. Blue Line Bike Lab | trust 20.0 | Blue Line Bike Lab is a bike shop in Houston, TX at 1504 Yale Street, Houston, TX 77008. Phone: +17138021707. Website: https://www.bluelinebikelab.com/. | https://dingalinged-cpu.github.io/registry/c/blue-line-bike-lab-houston-n7799604949/
+14. Bobby's Bike Hike | trust 20.0 | Bobby's Bike Hike is a bike shop in Chicago, IL at 540 North Lake Shore Drive, Chicago, IL 60611. Phone: +13122459300. Website: https://www.bobbysbikehike.com/. | https://dingalinged-cpu.github.io/registry/c/bobbys-bike-hike-chicago/
+15. Boulevard Bikes | trust 20.0 | Boulevard Bikes is a bike shop in Chicago, IL at 2769 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17732359109. Website: https://boulevardbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/boulevard-bikes-chicago/
+16. Cadence Cyclery | trust 20.0 | Cadence Cyclery is a bike shop in McKinney, TX at 119 South Tennessee Street, McKinney, TX 75069. Phone: +19725487400. Website: https://www.cadencecyclery.com/. | https://dingalinged-cpu.github.io/registry/c/cadence-cyclery-mckinney/
+17. Cadence Cyclery of Preston Hollow | trust 20.0 | Cadence Cyclery of Preston Hollow is a bike shop in Dallas, TX at 3850 West Northwest Highway ##1170, Dallas, TX 75220. Phone: +14696770027. Website: https://www.cadencecyclery.com/about/preston-hollow-tx-pg257.htm. | https://dingalinged-cpu.github.io/registry/c/cadence-cyclery-of-preston-hollow-dallas/
+18. CapD Bike Shop | trust 20.0 | CapD Bike Shop is a bike shop in Saint Paul, MN at 710 Smith Avenue South, Saint Paul, MN 55107. Phone: +16512228380. Website: https://capdbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/capd-bike-shop-saint-paul/
+19. Comrade Cycles | trust 20.0 | Comrade Cycles is a bike shop in Chicago, IL at 1908 West Chicago Avenue, Chicago, IL 60622. Phone: +17732922522. Website: https://comradecycles.com/. | https://dingalinged-cpu.github.io/registry/c/comrade-cycles-chicago/
+20. Cosmic Bikes | trust 20.0 | Cosmic Bikes is a bike shop in Chicago, IL at 4641 North Milwaukee Avenue, Chicago, IL 60630. Phone: +17739304076. Website: https://www.cosmicbikes.com/. | https://dingalinged-cpu.github.io/registry/c/cosmic-bikes-chicago/
+21. Deerfield Cyclery | trust 20.0 | Deerfield Cyclery is a bike shop in Deerfield, IL at 705 Waukegan Road, Deerfield, IL 60015. Phone: +18479450700. Website: https://www.deerfieldcyclery.com/. | https://dingalinged-cpu.github.io/registry/c/deerfield-cyclery-deerfield/
+22. DreamBikes | trust 20.0 | DreamBikes is a bike shop in Milwaukee, WI at 2021A North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14147630909. Website: https://dream-bikes.org/. | https://dingalinged-cpu.github.io/registry/c/dreambikes-milwaukee/
+23. Earth Rider Cycling | trust 20.0 | Earth Rider Cycling is a bike shop in Chicago, IL at 1873 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17733601816. Website: https://www.earthridercycling.com/. | https://dingalinged-cpu.github.io/registry/c/earth-rider-cycling-chicago/
+24. Erik's - Bike Board Ski Lynlake | trust 20.0 | Erik's - Bike Board Ski Lynlake is a bike shop in Minneapolis, MN at 2800 Lyndale Avenue South ##1, Minneapolis, MN 55405. Phone: +16128728600. Website: https://www.eriksbikeshop.com/pages/locations/minneapolis-lynlake-mn. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-board-ski-lynlake-minneapolis/
+25. ERIK'S Bike Board Ski | trust 20.0 | ERIK'S Bike Board Ski is a bike shop in Coon Rapids, MN at 2120 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17638620091. Website: https://www.eriksbikeshop.com/store/coon-rapids-mn-55433/Cnrp. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-board-ski-coon-rapids/
+26. Erik's Bike Shop | trust 20.0 | Erik's Bike Shop is a bike shop in Saint Paul, MN at 2191 Ford Parkway, Saint Paul, MN 55116. Phone: +16516994679. Website: https://www.eriksbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-shop-saint-paul/
+27. Erik's Bikes | trust 20.0 | Erik's Bikes is a bike shop in Saint Louis Park, MN at 8006 Minnetonka Boulevard, Saint Louis Park, MN 55426. Phone: +19529319322. Website: https://www.eriksbikeshop.com/store/st-louis-park-mn-55426/Park. | https://dingalinged-cpu.github.io/registry/c/eriks-bikes-saint-louis-park/
+28. Express Bike Shop | trust 20.0 | Express Bike Shop is a bike shop in Saint Paul, MN at 1158 Selby Avenue, Saint Paul, MN 55104. Phone: +16516449660. Website: https://www.exbike.com/home/. | https://dingalinged-cpu.github.io/registry/c/express-bike-shop-saint-paul/
+29. Flanders Bros Cycle | trust 20.0 | Flanders Bros Cycle is a bike shop in Minneapolis, MN at 2707 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16128726994. Website: https://www.flandersbros.com/. | https://dingalinged-cpu.github.io/registry/c/flanders-bros-cycle-minneapolis/
+30. Freewheel Bike | trust 20.0 | Freewheel Bike is a bike shop in Bloomington, MN at 3916 West Old Shakopee Road, Bloomington, MN 55437. Phone: +19528881427. Website: https://www.freewheelbike.com/. | https://dingalinged-cpu.github.io/registry/c/freewheel-bike-bloomington/
+31. Freewheel Bike | trust 20.0 | Freewheel Bike is a bike shop in Eagan, MN at 1275 Promenade Place, Eagan, MN 55121. Phone: +16518821241. Website: https://www.freewheelbike.com/. | https://dingalinged-cpu.github.io/registry/c/freewheel-bike-eagan/
+32. Freewheel Bike | trust 20.0 | Freewheel Bike is a bike shop in Minneapolis, MN at 750 Southeast 9th Street, Minneapolis, MN 55414. Phone: +16125009430. Website: https://www.freewheelbike.com/. | https://dingalinged-cpu.github.io/registry/c/freewheel-bike-minneapolis/
+33. Freewheel Bike | trust 20.0 | Freewheel Bike is a bike shop in Saint Paul, MN at 799 Grand Avenue, Saint Paul, MN 55105. Phone: +16515059091. Website: https://www.freewheelbike.com/about/saint-paul-pg1194.htm. | https://dingalinged-cpu.github.io/registry/c/freewheel-bike-saint-paul/
+34. Full Cycle | trust 20.0 | Full Cycle is a bike shop in Minneapolis, MN at 3515 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16128247581. Website: https://fullcyclebikeshop.org/. | https://dingalinged-cpu.github.io/registry/c/full-cycle-minneapolis/
+35. Glenview Cycle | trust 20.0 | Glenview Cycle is a bike shop in Glenview, IL at 1011 Harlem Avenue, Glenview, IL 60025. Phone: +18479985900. Website: https://glenviewcycle.com/. | https://dingalinged-cpu.github.io/registry/c/glenview-cycle-glenview/
+36. Grand Performance | trust 20.0 | Grand Performance is a bike shop in Saint Paul, MN at 1938 Grand Avenue, Saint Paul, MN 55105. Phone: +16516992640. Website: https://www.gpbicycles.com/. | https://dingalinged-cpu.github.io/registry/c/grand-performance-saint-paul/
+37. Green Bay Cycles | trust 20.0 | Green Bay Cycles is a bike shop in Winnetka, IL at 999 Green Bay Road #1, Winnetka, IL 60093. Phone: +18474467433. Website: https://www.greenbaycycles.com/. | https://dingalinged-cpu.github.io/registry/c/green-bay-cycles-winnetka/
+38. Heritage General Store | trust 20.0 | Heritage General Store is a bike shop in Chicago, IL at 2959 North Lincoln Avenue, Chicago, IL 60657. Phone: +17732453005. Website: https://www.heritagebicycles.com/. | https://dingalinged-cpu.github.io/registry/c/heritage-general-store-chicago/
+39. Hilltop Bicycle Center | trust 20.0 | Hilltop Bicycle Center is a bike shop in Mansfield, TX at 130 North Main Street, Mansfield, TX 76063. Phone: +18172256275. Website: https://hilltop.bike/. | https://dingalinged-cpu.github.io/registry/c/hilltop-bicycle-center-mansfield/
+40. J & R Cycle & Ski | trust 20.0 | J & R Cycle & Ski is a bike shop in Villa Park, IL at 240 West Saint Charles Road, Villa Park, IL 60181. Phone: +16306201606. Website: https://www.jandrcycleandski.com/. | https://dingalinged-cpu.github.io/registry/c/j-and-r-cycle-and-ski-villa-park/
+41. John’s Trikes & Bikes | trust 20.0 | John’s Trikes & Bikes is a bike shop in Lancaster, TX at 157 Historic Town Square, Lancaster, TX 75146. Phone: +19722277360. Website: https://www.johnstrikesbikes.com/. | https://dingalinged-cpu.github.io/registry/c/john-s-trikes-and-bikes-lancaster/
+42. Kozy's Cyclery | trust 20.0 | Kozy's Cyclery is a bike shop in Chicago, IL at 3712 North Halsted Street, Chicago, IL 60613. Phone: +17732812263. Website: https://www.kozy.com/. | https://dingalinged-cpu.github.io/registry/c/kozys-cyclery-chicago-n7943259927/
+43. Lowertown Bike Shop;Lower Town Bike Shop Coffee Station | trust 20.0 | Lowertown Bike Shop;Lower Town Bike Shop Coffee Station is a bike shop in Saint Paul, MN at 214 East 4th Street #120, Saint Paul, MN 55101. Phone: +16512220775. Website: https://www.lowertownbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/lowertown-bike-shop-lower-town-bike-shop-coffee-station-saint-paul/
+44. Mack's Bike & Goods | trust 20.0 | Mack's Bike & Goods is a bike shop in Evanston, IL at 2948 Central Street, Evanston, IL 60201. Phone: +18478778877. Website: https://www.macksbikeandgoods.com/. | https://dingalinged-cpu.github.io/registry/c/macks-bike-and-goods-evanston/
+45. Maple Grove Cycling | trust 20.0 | Maple Grove Cycling is a bike shop in Maple Grove, MN at 13950 Grove Drive North #100, Maple Grove, MN 55311. Phone: +17634208878. Website: https://maplegrovecycling.com/. | https://dingalinged-cpu.github.io/registry/c/maple-grove-cycling-maple-grove/
+46. Mikes Bike Shop | trust 20.0 | Mikes Bike Shop is a bike shop in Palatine, IL at 155 East Northwest Highway, Palatine, IL 60067. Phone: +18473580948. Website: https://mikesbikeshoppalatine.com/. | https://dingalinged-cpu.github.io/registry/c/mikes-bike-shop-palatine/
+47. Milwaukee Bicycle Collective | trust 20.0 | Milwaukee Bicycle Collective is a bike shop in Milwaukee, WI at 2930 West Clybourn Street, Milwaukee, WI 53208. Phone: +14144310825. Website: https://www.bikecollective.org/. | https://dingalinged-cpu.github.io/registry/c/milwaukee-bicycle-collective-milwaukee/
+48. Mr. Michael Recycles Bicycles | trust 20.0 | Mr. Michael Recycles Bicycles is a bike shop in Saint Paul, MN at 520 North Prior Avenue, Saint Paul, MN 55104. Phone: +16516411037. Website: https://mmrbstore.com/. | https://dingalinged-cpu.github.io/registry/c/mr-michael-recycles-bicycles-saint-paul/
+49. Nearly New Bikes | trust 20.0 | Nearly New Bikes is a bike shop in Chicago, IL at 4075 North Broadway, Chicago, IL 60613. Phone: +17735250692. Website: https://nearlynewbikes.com/. | https://dingalinged-cpu.github.io/registry/c/nearly-new-bikes-chicago/
+50. Nokomis Cycle | trust 20.0 | Nokomis Cycle is a bike shop in Minneapolis, MN at 4553 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +16127212959. Website: https://www.nokomiscycle.com/. | https://dingalinged-cpu.github.io/registry/c/nokomis-cycle-minneapolis/
+
+## More bike shop listings (254 total; top 50 unpaid shown)
+- Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/bike-shop.jsonl
+- Chicago, IL: 68 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-chicago-il/
+- Houston, TX: 16 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-houston-tx/
+- Minneapolis, MN: 15 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-minneapolis-mn/
+- Dallas, TX: 12 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-dallas-tx/
+- Saint Paul, MN: 9 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-saint-paul-mn/
+- Milwaukee, WI: 8 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-milwaukee-wi/
+- Oak Park, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-oak-park-il/
+- Evanston, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-evanston-il/
+- Denton, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-denton-tx/
+- Wheaton, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-wheaton-il/
+- Saint Louis Park, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-saint-louis-park-mn/
+- Skokie, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-skokie-il/
+- Berwyn, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-berwyn-il/
+- Park Ridge, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-park-ridge-il/
+- Palatine, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-palatine-il/
+- Waukesha, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-waukesha-wi/
+- Wauwatosa, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-wauwatosa-wi/
+- Roseville, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-roseville-mn/
+- Coon Rapids, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-coon-rapids-mn/
+- Maple Grove, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-maple-grove-mn/
+- Eagan, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-eagan-mn/
+- Eden Prairie, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-eden-prairie-mn/
+- Bloomington, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-bloomington-mn/
+- Hopkins, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-hopkins-mn/
+- Frisco, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-frisco-tx/
+- Mckinney, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-mckinney-tx/
+- Richardson, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-richardson-tx/
+- Flower Mound, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-flower-mound-tx/
+- Willow Springs, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-willow-springs-il/
+- Lisle, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-lisle-il/
+- Hazel Crest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-hazel-crest-il/
+- Dolton, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-dolton-il/
+- Hoffman Estates, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-hoffman-estates-il/
+- Deerfield, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-deerfield-il/
+- Brookfield, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-brookfield-il/
+- Riverside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-riverside-il/
+- Lake Zurich, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-lake-zurich-il/
+- Northbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-northbrook-il/
+- Glenview, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-glenview-il/
+- Homewood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-homewood-il/
+- Winnetka, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-winnetka-il/
+- Villa Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-villa-park-il/
+- Buffalo Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-buffalo-grove-il/
+- Streamwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-streamwood-il/
+- Orland Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-orland-park-il/
+- Evergreen Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-evergreen-park-il/
+- Winfield, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-winfield-il/
+- Palos Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-palos-heights-il/
+- Countryside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-countryside-il/
+- La Grange Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-la-grange-park-il/
+- Downers Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-downers-grove-il/
+- Highland Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-highland-park-il/
+- Barrington, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-barrington-il/
+- Prospect Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-prospect-heights-il/
+- Wilmette, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-wilmette-il/
+- West Allis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-west-allis-wi/
+- Greenfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-greenfield-wi/
+- Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-brookfield-wi/
+- City Of Pewaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-city-of-pewaukee-wi/
+- Hales Corners, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-hales-corners-wi/
+- Cudahy, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-cudahy-wi/
+- New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-new-berlin-wi/
+- Mequon, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-mequon-wi/
+- Village Of Pewaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-village-of-pewaukee-wi/
+- Fox Point, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-fox-point-wi/
+- Franklin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-franklin-wi/
+- West Saint Paul, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-west-saint-paul-mn/
+- Inver Grove Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-inver-grove-heights-mn/
+- Chanhassen, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-chanhassen-mn/
+- Minnetonka, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-minnetonka-mn/
+- Mounds View, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-mounds-view-mn/
+- Vadnais Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-vadnais-heights-mn/
+- Richfield, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-richfield-mn/
+- Oakdale, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-oakdale-mn/
+- Arden Hills, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-arden-hills-mn/
+- Mendota Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-mendota-heights-mn/
+- Shakopee, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-shakopee-mn/
+- Blaine, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-blaine-mn/
+- Ramsey, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-ramsey-mn/
+- Saint Bonifacius, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-saint-bonifacius-mn/
+- Maplewood, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-maplewood-mn/
+- Champlin, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-champlin-mn/
+- Cedar Hill, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-cedar-hill-tx/
+- Magnolia, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-magnolia-tx/
+- Southlake, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-southlake-tx/
+- Allen, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-allen-tx/
+- Shenandoah, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-shenandoah-tx/
+- Katy, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-katy-tx/
+- Carrollton, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-carrollton-tx/
+- Mansfield, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-mansfield-tx/
+- Lancaster, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-lancaster-tx/
+- Grapevine, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-grapevine-tx/
+- Roanoke, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-roanoke-tx/
+- Jersey Village, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-jersey-village-tx/
+- Pearland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-pearland-tx/
+- Rockwall, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-rockwall-tx/
+- Coppell, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-coppell-tx/
+- University Park, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-university-park-tx/
+- Arlington, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-arlington-tx/
+- Schererville, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/bike-shop-schererville-in/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
-- US monthly searches: 140,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
 - CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 173
+- Registry businesses competing: 254
 - Equivalent Google Ads cost per month: ~$52,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/bike-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#bike-shop | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/bike-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#bike-shop | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Rudy's Cycle and Fitness is a bike shop in Chicago, IL at 5711 West Irving Park 
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 11:00-18:00; Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rudys-cycle-and-fitness-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rudys-cycle-and-fitness-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5287162921 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Liberty Tax is a tax preparation service in Stafford, TX at 508 FM 1092 Road #Suite B, Stafford, TX 77477.
+
+# Liberty Tax
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 508 FM 1092 Road #Suite B, Stafford, TX 77477
+- City: Stafford
+- State: TX
+- ZIP: 77477
+- Coordinates: 29.6112636, -95.5649204
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/liberty-tax-stafford/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/liberty-tax-stafford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13231555198 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

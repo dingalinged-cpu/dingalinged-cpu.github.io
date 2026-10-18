@@ -15,7 +15,7 @@ Fey & Co Jewelers is a jewelry store in Naperville, IL at 833 North Washington S
 - Opening hours (OSM syntax): Mo-We 10:00-17:30, Th 10:00-19:00, Fr-Sa 10:00-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fey-and-co-jewelers-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fey-and-co-jewelers-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/201524623 (license ODbL-1.0); source data as of 2026-06-01

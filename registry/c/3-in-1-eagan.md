@@ -15,7 +15,7 @@
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00, Sa 11:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/3-in-1-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/3-in-1-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12107180052 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Bargain Mart Furniture is a furniture store in Crystal, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bargain-mart-furniture-crystal/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bargain-mart-furniture-crystal.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7129455332 (license ODbL-1.0); source data as of 2026-06-01

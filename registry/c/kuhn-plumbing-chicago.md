@@ -15,7 +15,7 @@ Kuhn Plumbing is a plumber in Chicago, IL at 2330 West Nelson Street, Chicago, I
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kuhn-plumbing-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kuhn-plumbing-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12142097023 (license ODbL-1.0); source data as of 2026-06-01

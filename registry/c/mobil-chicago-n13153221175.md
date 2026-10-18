@@ -15,7 +15,7 @@ Mobil is a car wash in Chicago, IL at 850 East 63rd Street, Chicago, IL 60637.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-chicago-n13153221175/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-chicago-n13153221175.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13153221175 (license ODbL-1.0); source data as of 2026-07-28

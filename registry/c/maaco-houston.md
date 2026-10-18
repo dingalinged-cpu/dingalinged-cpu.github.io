@@ -1,0 +1,23 @@
+MAACO is an auto repair shop in Houston, TX.
+
+# MAACO
+
+- Category: auto repair
+- Services: auto repair, mechanic, auto body shop
+- Address: Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.8393705, -95.3838797
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/maaco-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/maaco-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12064693602 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

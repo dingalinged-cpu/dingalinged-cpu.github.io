@@ -15,7 +15,7 @@ Honest-1 Auto Care is an auto repair shop in Maple Grove, MN at 6310 Vinewood La
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/honest-1-auto-care-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/honest-1-auto-care-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/317971696 (license ODbL-1.0); source data as of 2026-06-01

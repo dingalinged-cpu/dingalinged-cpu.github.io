@@ -15,7 +15,7 @@ BWS #2 - Beer Wine & Spirits is a liquor store in Chicago, IL at 1586 North Clyb
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bws-2-beer-wine-and-spirits-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bws-2-beer-wine-and-spirits-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9686834141 (license ODbL-1.0); source data as of 2026-06-01

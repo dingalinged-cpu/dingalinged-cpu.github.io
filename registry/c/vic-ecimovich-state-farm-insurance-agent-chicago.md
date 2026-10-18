@@ -15,7 +15,7 @@ Vic Ecimovich - State Farm Insurance Agent is an insurance agent in Chicago, IL 
 - Opening hours (OSM syntax): Mo, Tu, We, Fr 09:00-18:00; Th 09:00-20:00; Sa-Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vic-ecimovich-state-farm-insurance-agent-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vic-ecimovich-state-farm-insurance-agent-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5439797804 (license ODbL-1.0); source data as of 2026-07-28

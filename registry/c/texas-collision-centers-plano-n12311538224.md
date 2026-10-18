@@ -1,0 +1,23 @@
+Texas Collision Centers is an auto repair shop in Plano, TX at 1001 Preston Rd, Plano, TX 75093. Phone: +14698292999. Website: https://texascollisioncenters.com/.
+
+# Texas Collision Centers
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 1001 Preston Rd, Plano, TX 75093
+- City: Plano
+- State: TX
+- ZIP: 75093
+- Coordinates: 33.0138506, -96.7958424
+- Phone: +14698292999
+- Website: https://texascollisioncenters.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/texas-collision-centers-plano-n12311538224/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/texas-collision-centers-plano-n12311538224.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12311538224 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Queen's African Hairbraiding is a hair salon in Milwaukee, WI at 4411 West North Avenue, Milwaukee, WI 53208. Phone: +14144425686.
+
+# Queen's African Hairbraiding
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 4411 West North Avenue, Milwaukee, WI 53208
+- City: Milwaukee
+- State: WI
+- ZIP: 53208
+- Coordinates: 43.0605049, -87.9693304
+- Phone: +14144425686
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/queens-african-hairbraiding-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/queens-african-hairbraiding-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12591226069 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

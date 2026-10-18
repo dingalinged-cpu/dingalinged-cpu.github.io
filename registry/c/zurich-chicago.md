@@ -15,7 +15,7 @@ Zurich is an insurance agent in Chicago, IL at 550 West Washington Boulevard, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/zurich-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/zurich-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210270722 (license ODbL-1.0); source data as of 2026-07-28

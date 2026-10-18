@@ -1,0 +1,23 @@
+The Leather Sofa Co. is a furniture store in Lewisville, TX. Website: https://www.leathersofaco.com/.
+
+# The Leather Sofa Co.
+
+- Category: furniture store
+- Services: furniture store
+- Address: Lewisville, TX
+- City: Lewisville
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0403455, -97.0249174
+- Phone: n/a
+- Website: https://www.leathersofaco.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-16:00; Sa-Su closed; PH closed
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-leather-sofa-co-lewisville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-leather-sofa-co-lewisville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11967615889 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

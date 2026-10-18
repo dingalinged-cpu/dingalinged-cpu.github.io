@@ -15,7 +15,7 @@ Crash Champions is an auto repair shop in Mokena, IL. Phone: +17084794321. Websi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crash-champions-mokena/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-mokena.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1390239471 (license ODbL-1.0); source data as of 2026-06-01

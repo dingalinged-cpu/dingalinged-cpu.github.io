@@ -15,7 +15,7 @@ Pilatesville is a gym in Chicago, IL at 1617 North Clybourn Avenue, Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pilatesville-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pilatesville-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13574784330 (license ODbL-1.0); source data as of 2026-06-01

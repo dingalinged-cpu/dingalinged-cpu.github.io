@@ -15,7 +15,7 @@ Thy Plumber is a plumber in Lyons, IL. Website: https://www.thyplumber.com/.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/thy-plumber-lyons/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/thy-plumber-lyons.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9707358076 (license ODbL-1.0); source data as of 2026-06-01

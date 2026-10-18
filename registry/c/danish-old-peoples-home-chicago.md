@@ -15,7 +15,7 @@ Danish Old Peoples Home is an assisted living facility in Chicago, IL at 5656 No
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/danish-old-peoples-home-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/danish-old-peoples-home-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163325308 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ The UPS Store is a printing service in Chicago, IL at 1953 North Clybourn Avenue
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 10:00-17:00; Su 12:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-chicago-n6426600059/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-chicago-n6426600059.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6426600059 (license ODbL-1.0); source data as of 2026-06-01

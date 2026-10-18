@@ -1,0 +1,23 @@
+Anderson-Clayton-Gonzalez Funeral Home is a funeral home in Mesquite, TX at 1111 Military Parkway, Mesquite, TX 75149.
+
+# Anderson-Clayton-Gonzalez Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 1111 Military Parkway, Mesquite, TX 75149
+- City: Mesquite
+- State: TX
+- ZIP: 75149
+- Coordinates: 32.7679678, -96.6130725
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/anderson-clayton-gonzalez-funeral-home-mesquite/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/anderson-clayton-gonzalez-funeral-home-mesquite.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/672207530 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

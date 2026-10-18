@@ -15,7 +15,7 @@ Logan Square Animal Hospital is a veterinarian in Chicago, IL at 2543 North Milw
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/logan-square-animal-hospital-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/logan-square-animal-hospital-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3551784088 (license ODbL-1.0); source data as of 2026-07-28

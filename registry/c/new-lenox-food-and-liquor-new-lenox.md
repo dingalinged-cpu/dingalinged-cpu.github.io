@@ -15,7 +15,7 @@ New Lenox Food & Liquor is a liquor store in New Lenox, IL at 13410 Maple Road, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-lenox-food-and-liquor-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-lenox-food-and-liquor-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1207913572 (license ODbL-1.0); source data as of 2026-06-01

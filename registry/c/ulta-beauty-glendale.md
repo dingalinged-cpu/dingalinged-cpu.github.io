@@ -1,0 +1,23 @@
+Ulta Beauty is a skin care studio in Glendale, WI at 5654 North Bayshore Drive #F-118, Glendale, WI 53217. Phone: +14143323150. Website: https://www.ulta.com/stores/glendale-wi-646.
+
+# Ulta Beauty
+
+- Category: facial
+- Services: facial
+- Address: 5654 North Bayshore Drive #F-118, Glendale, WI 53217
+- City: Glendale
+- State: WI
+- ZIP: 53217
+- Coordinates: 43.1199184, -87.9141015
+- Phone: +14143323150
+- Website: https://www.ulta.com/stores/glendale-wi-646
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ulta-beauty-glendale/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-glendale.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1152756707 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

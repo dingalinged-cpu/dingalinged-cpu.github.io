@@ -15,7 +15,7 @@ Betty Q Beauty Salon is a hair salon in Villa Park, IL at 352 North Ardmore Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/betty-q-beauty-salon-villa-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/betty-q-beauty-salon-villa-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13530550702 (license ODbL-1.0); source data as of 2026-06-01

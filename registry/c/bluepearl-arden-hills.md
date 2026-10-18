@@ -15,7 +15,7 @@ BluePearl is a veterinarian in Arden Hills, MN at 1285 Grey Fox Road, Arden Hill
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bluepearl-arden-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bluepearl-arden-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11985813281 (license ODbL-1.0); source data as of 2026-07-24

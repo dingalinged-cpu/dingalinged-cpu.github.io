@@ -15,7 +15,7 @@ Illinois Vehicle Auto Insurance is an insurance agent in Chicago, IL at 2118 Nor
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/illinois-vehicle-auto-insurance-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/illinois-vehicle-auto-insurance-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12154305169 (license ODbL-1.0); source data as of 2026-07-28

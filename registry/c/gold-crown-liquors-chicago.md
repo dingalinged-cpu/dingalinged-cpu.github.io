@@ -15,7 +15,7 @@ Gold Crown Liquors is a liquor store in Chicago, IL. Phone: +17739351700.
 - Opening hours (OSM syntax): Mo-Th,Su 11:00-22:45; Fr-Sa 11:00-23:45
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gold-crown-liquors-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gold-crown-liquors-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5364425024 (license ODbL-1.0); source data as of 2026-06-01

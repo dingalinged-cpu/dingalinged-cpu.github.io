@@ -1,0 +1,23 @@
+Throne of Nails is a nail salon in West Allis, WI at 1911 South 60th Street, West Allis, WI 53219.
+
+# Throne of Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: 1911 South 60th Street, West Allis, WI 53219
+- City: West Allis
+- State: WI
+- ZIP: 53219
+- Coordinates: 43.0098761, -87.9875282
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/throne-of-nails-west-allis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/throne-of-nails-west-allis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11973957223 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

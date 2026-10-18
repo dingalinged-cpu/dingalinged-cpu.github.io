@@ -15,7 +15,7 @@ Lindsay's Leather and Shoe Repair is a shoe repair in Naperville, IL at 1512 Nap
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lindsays-leather-and-shoe-repair-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lindsays-leather-and-shoe-repair-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/993474296 (license ODbL-1.0); source data as of 2026-06-01

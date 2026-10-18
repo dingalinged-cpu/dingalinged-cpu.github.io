@@ -15,7 +15,7 @@ AFC Urgent Care is an urgent care clinic in Morton Grove, IL at 6841 West Dempst
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/afc-urgent-care-morton-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/afc-urgent-care-morton-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9467094553 (license ODbL-1.0); source data as of 2026-07-28

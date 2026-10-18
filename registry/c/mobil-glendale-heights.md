@@ -15,7 +15,7 @@ Mobil is a car wash in Glendale Heights, IL at 602 East North Avenue, Glendale H
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-glendale-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-glendale-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13263528928 (license ODbL-1.0); source data as of 2026-07-28

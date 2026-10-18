@@ -15,7 +15,7 @@ Champer Family Dentistry is a dentist in Naperville, IL at 1001 East Ogden Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/champer-family-dentistry-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/champer-family-dentistry-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11402430667 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,434 @@
+{
+ "place": "Cleveland, TX",
+ "slug": "cleveland-tx",
+ "count": 12,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "dentist cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-cleveland-tx.json"
+  },
+  {
+   "keyword": "event venues cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-cleveland-tx.json"
+  },
+  {
+   "keyword": "eye doctor cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-cleveland-tx.json"
+  },
+  {
+   "keyword": "furniture store cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-cleveland-tx.json"
+  },
+  {
+   "keyword": "gym cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-cleveland-tx.json"
+  },
+  {
+   "keyword": "hair salon cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-cleveland-tx.json"
+  },
+  {
+   "keyword": "haircut cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-cleveland-tx.json"
+  },
+  {
+   "keyword": "insurance agency cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-cleveland-tx.json"
+  },
+  {
+   "keyword": "insurance agent cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-cleveland-tx.json"
+  },
+  {
+   "keyword": "insurance agents cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-cleveland-tx.json"
+  },
+  {
+   "keyword": "nail salon cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-cleveland-tx.json"
+  },
+  {
+   "keyword": "real estate agent cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-cleveland-tx.json"
+  },
+  {
+   "keyword": "realtor cleveland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-cleveland-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "beasley-bit-and-bridal-cleveland",
+   "name": "Beasley Bit and Bridal",
+   "summary": "Beasley Bit and Bridal is an event venue in Cleveland, TX at 2218 County Road 2252, Cleveland, TX 77327. Phone: +12816395130. Website: https://beasleybitandbridal.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beasley-bit-and-bridal-cleveland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beasley-bit-and-bridal-cleveland.json",
+   "address": {
+    "streetAddress": "2218 County Road 2252",
+    "addressLocality": "Cleveland",
+    "addressRegion": "TX",
+    "postalCode": "77327",
+    "addressCountry": "US"
+   },
+   "city": "Cleveland",
+   "state": "TX",
+   "zip": "77327",
+   "geo": {
+    "lat": 30.3234411,
+    "lon": -94.9253099
+   },
+   "phone": "+12816395130",
+   "website": "https://beasleybitandbridal.com/",
+   "opening_hours": "Mo-Su 10:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11142972552",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "buddys-home-furnishings-cleveland",
+   "name": "Buddy's Home Furnishings",
+   "summary": "Buddy's Home Furnishings is a furniture store in Cleveland, TX at 429 West Southline Street, Cleveland, TX 77327. Phone: +12815928200. Website: https://www.buddyrents.com/stores/cleveland-tx/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/buddys-home-furnishings-cleveland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/buddys-home-furnishings-cleveland.json",
+   "address": {
+    "streetAddress": "429 West Southline Street",
+    "addressLocality": "Cleveland",
+    "addressRegion": "TX",
+    "postalCode": "77327",
+    "addressCountry": "US"
+   },
+   "city": "Cleveland",
+   "state": "TX",
+   "zip": "77327",
+   "geo": {
+    "lat": 30.335817,
+    "lon": -95.0963391
+   },
+   "phone": "+12815928200",
+   "website": "https://www.buddyrents.com/stores/cleveland-tx/",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6164611451",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "trey-furrey-state-farm-insurance-cleveland",
+   "name": "Trey Furrey - State Farm Insurance",
+   "summary": "Trey Furrey - State Farm Insurance is an insurance agent in Cleveland, TX at 429 West Southline Street #600, Cleveland, TX 77327. Phone: +12815931113. Website: https://www.treyfurreysf.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trey-furrey-state-farm-insurance-cleveland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trey-furrey-state-farm-insurance-cleveland.json",
+   "address": {
+    "streetAddress": "429 West Southline Street #600",
+    "addressLocality": "Cleveland",
+    "addressRegion": "TX",
+    "postalCode": "77327",
+    "addressCountry": "US"
+   },
+   "city": "Cleveland",
+   "state": "TX",
+   "zip": "77327",
+   "geo": {
+    "lat": 30.3354384,
+    "lon": -95.0963151
+   },
+   "phone": "+12815931113",
+   "website": "https://www.treyfurreysf.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6164611701",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mann-eye-institute-cleveland",
+   "name": "Mann Eye Institute",
+   "summary": "Mann Eye Institute is an eye care practice in Cleveland, TX at 429 West Southline Street, Cleveland, TX 77327. Phone: +12815924343. Website: https://www.manneye.com/locations-directions/cleveland-location/.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mann-eye-institute-cleveland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mann-eye-institute-cleveland.json",
+   "address": {
+    "streetAddress": "429 West Southline Street",
+    "addressLocality": "Cleveland",
+    "addressRegion": "TX",
+    "postalCode": "77327",
+    "addressCountry": "US"
+   },
+   "city": "Cleveland",
+   "state": "TX",
+   "zip": "77327",
+   "geo": {
+    "lat": 30.3357653,
+    "lon": -95.0963339
+   },
+   "phone": "+12815924343",
+   "website": "https://www.manneye.com/locations-directions/cleveland-location/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6164611452",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "solar-deluxe-nails-cleveland",
+   "name": "Solar Deluxe Nails",
+   "summary": "Solar Deluxe Nails is a nail salon in Cleveland, TX at 429 West Southline Street, Cleveland, TX 77327. Phone: +12815929903.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/solar-deluxe-nails-cleveland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/solar-deluxe-nails-cleveland.json",
+   "address": {
+    "streetAddress": "429 West Southline Street",
+    "addressLocality": "Cleveland",
+    "addressRegion": "TX",
+    "postalCode": "77327",
+    "addressCountry": "US"
+   },
+   "city": "Cleveland",
+   "state": "TX",
+   "zip": "77327",
+   "geo": {
+    "lat": 30.3353634,
+    "lon": -95.096313
+   },
+   "phone": "+12815929903",
+   "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6164611702",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "a2z-dental-and-braces-cleveland",
+   "name": "A2Z Dental and Braces",
+   "summary": "A2Z Dental and Braces is a dentist in Cleveland, TX at 1214 East Houston Street, Cleveland, TX 77327. Website: https://www.a2zdentaltx.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a2z-dental-and-braces-cleveland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a2z-dental-and-braces-cleveland.json",
+   "address": {
+    "streetAddress": "1214 East Houston Street",
+    "addressLocality": "Cleveland",
+    "addressRegion": "TX",
+    "postalCode": "77327",
+    "addressCountry": "US"
+   },
+   "city": "Cleveland",
+   "state": "TX",
+   "zip": "77327",
+   "geo": {
+    "lat": 30.3406452,
+    "lon": -95.0732552
+   },
+   "website": "https://www.a2zdentaltx.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13712018393",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aarons-cleveland",
+   "name": "Aaron's",
+   "summary": "Aaron's is a furniture store in Cleveland, TX at 1721 East Houston Street, Cleveland, TX 77327.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aarons-cleveland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aarons-cleveland.json",
+   "address": {
+    "streetAddress": "1721 East Houston Street",
+    "addressLocality": "Cleveland",
+    "addressRegion": "TX",
+    "postalCode": "77327",
+    "addressCountry": "US"
+   },
+   "city": "Cleveland",
+   "state": "TX",
+   "zip": "77327",
+   "geo": {
+    "lat": 30.3404341,
+    "lon": -95.0673425
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13712018437",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crystal-nails-cleveland",
+   "name": "Crystal Nails",
+   "summary": "Crystal Nails is a nail salon in Cleveland, TX at 1823 East Houston Street, Cleveland, TX 77327.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crystal-nails-cleveland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crystal-nails-cleveland.json",
+   "address": {
+    "streetAddress": "1823 East Houston Street",
+    "addressLocality": "Cleveland",
+    "addressRegion": "TX",
+    "postalCode": "77327",
+    "addressCountry": "US"
+   },
+   "city": "Cleveland",
+   "state": "TX",
+   "zip": "77327",
+   "geo": {
+    "lat": 30.3392977,
+    "lon": -95.0666954
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13712018443",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "palm-harbor-homes-cleveland",
+   "name": "Palm Harbor Homes",
+   "summary": "Palm Harbor Homes is a real estate agency in Cleveland, TX at 1152 US-59 Bypass, Cleveland, TX 77327.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-harbor-homes-cleveland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-harbor-homes-cleveland.json",
+   "address": {
+    "streetAddress": "1152 US-59 Bypass",
+    "addressLocality": "Cleveland",
+    "addressRegion": "TX",
+    "postalCode": "77327",
+    "addressCountry": "US"
+   },
+   "city": "Cleveland",
+   "state": "TX",
+   "zip": "77327",
+   "geo": {
+    "lat": 30.3524047,
+    "lon": -95.0916396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13410601716",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "snap-fitness-cleveland",
+   "name": "Snap Fitness",
+   "summary": "Snap Fitness is a gym in Cleveland, TX at 1715 East Houston Street, Cleveland, TX 77327.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snap-fitness-cleveland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-cleveland.json",
+   "address": {
+    "streetAddress": "1715 East Houston Street",
+    "addressLocality": "Cleveland",
+    "addressRegion": "TX",
+    "postalCode": "77327",
+    "addressCountry": "US"
+   },
+   "city": "Cleveland",
+   "state": "TX",
+   "zip": "77327",
+   "geo": {
+    "lat": 30.3405515,
+    "lon": -95.0676827
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13712018436",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "smartstyle-cleveland",
+   "name": "SmartStyle",
+   "summary": "SmartStyle is a hair salon in Cleveland, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smartstyle-cleveland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smartstyle-cleveland.json",
+   "address": {
+    "addressLocality": "Cleveland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Cleveland",
+   "state": "TX",
+   "geo": {
+    "lat": 30.33371,
+    "lon": -95.0975166
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9365012828",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tgf-cleveland",
+   "name": "TGF",
+   "summary": "TGF is a hair salon in Cleveland, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tgf-cleveland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tgf-cleveland.json",
+   "address": {
+    "addressLocality": "Cleveland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Cleveland",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3336219,
+    "lon": -95.0975977
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9365012827",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

@@ -15,7 +15,7 @@ TGK Automotive is an auto repair shop in Rogers, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tgk-automotive-rogers/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tgk-automotive-rogers.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/102923748 (license ODbL-1.0); source data as of 2026-06-01

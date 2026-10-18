@@ -1,0 +1,23 @@
+Lone Star Cremation is a funeral home in Mansfield, TX at 1804 Owen Court, Mansfield, TX 76063. Phone: +18175460108. Website: https://www.lonestarcremation.com/.
+
+# Lone Star Cremation
+
+- Category: funeral home
+- Services: funeral home
+- Address: 1804 Owen Court, Mansfield, TX 76063
+- City: Mansfield
+- State: TX
+- ZIP: 76063
+- Coordinates: 32.5810628, -97.1797988
+- Phone: +18175460108
+- Website: https://www.lonestarcremation.com/
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lone-star-cremation-mansfield/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lone-star-cremation-mansfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6295561820 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

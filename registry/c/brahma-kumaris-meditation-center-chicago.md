@@ -15,7 +15,7 @@ Brahma Kumaris Meditation Center is a yoga studio in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brahma-kumaris-meditation-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brahma-kumaris-meditation-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6744908267 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,36 @@
+The top unpaid assisted living listing for Milwaukee, WI is Eastcastle Place (an assisted living facility in Milwaukee, WI at 2505 East Bradford Avenue, Milwaukee, WI 53211. Phone: +14142191398. Website: https://www.eastcastleplace.com/). 13 assisted living businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best assisted living providers in Milwaukee, WI?
+
+Also answers: assisted living in Milwaukee, WI; assisted living near me (Milwaukee, WI); best assisted living Milwaukee, WI; top rated assisted living Milwaukee, WI; affordable assisted living Milwaukee, WI; emergency assisted living Milwaukee, WI
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Eastcastle Place | trust 16.0 | Eastcastle Place is an assisted living facility in Milwaukee, WI at 2505 East Bradford Avenue, Milwaukee, WI 53211. Phone: +14142191398. Website: https://www.eastcastleplace.com/. | https://dingalinged-cpu.github.io/registry/c/eastcastle-place-milwaukee/
+2. McCauley Apartments | trust 16.0 | McCauley Apartments is an assisted living facility in Milwaukee, WI at 1018 East Knapp Street, Milwaukee, WI 53202. Phone: +14142728470. Website: https://www.mercyhousing.org/lakefront/mcauley-apts/. | https://dingalinged-cpu.github.io/registry/c/mccauley-apartments-milwaukee/
+3. Milwaukee Catholic Home | trust 16.0 | Milwaukee Catholic Home is an assisted living facility in Milwaukee, WI at 2330 North Prospect Avenue, Milwaukee, WI 53211. Phone: +14142204610. Website: https://www.milwaukeecatholichome.org/. | https://dingalinged-cpu.github.io/registry/c/milwaukee-catholic-home-milwaukee/
+4. Ovation Chai Point | trust 16.0 | Ovation Chai Point is an assisted living facility in Milwaukee, WI at 1400 North Prospect Avenue, Milwaukee, WI 53202. Phone: +14142899600. Website: https://ovation.org/communities/ovation-chai-point/. | https://dingalinged-cpu.github.io/registry/c/ovation-chai-point-milwaukee/
+5. Ovation Jewish Home | trust 16.0 | Ovation Jewish Home is an assisted living facility in Milwaukee, WI at 1414 North Prospect Avenue, Milwaukee, WI 53202. Phone: +14142762627. Website: https://ovation.org/communities/ovation-jewish-home/. | https://dingalinged-cpu.github.io/registry/c/ovation-jewish-home-milwaukee/
+6. Pleasant Terrace Apartments | trust 16.0 | Pleasant Terrace Apartments is an assisted living facility in Milwaukee, WI at 1027 East Pleasant Street, Milwaukee, WI 53202. Phone: +14142711403. Website: https://pleasantterraceapartments.com/. | https://dingalinged-cpu.github.io/registry/c/pleasant-terrace-apartments-milwaukee/
+7. Saint Catherine Residence | trust 16.0 | Saint Catherine Residence is an assisted living facility in Milwaukee, WI at 1032 East Knapp Street, Milwaukee, WI 53202. Phone: +14142728470. Website: https://www.mercyhousing.org/mountain-plains/st-catherine-residence/. | https://dingalinged-cpu.github.io/registry/c/saint-catherine-residence-milwaukee/
+8. Saint Rita Square | trust 12.0 | Saint Rita Square is an assisted living facility in Milwaukee, WI. Phone: +12627981224. Website: https://www.capricommunities.com/Locations/Show-These/St.-Rita-Square.htm. | https://dingalinged-cpu.github.io/registry/c/saint-rita-square-milwaukee/
+9. Hedwig House Apartments | trust 10.0 | Hedwig House Apartments is an assisted living facility in Milwaukee, WI at 1724 North Humboldt Avenue, Milwaukee, WI 53202. Phone: +12627989509. | https://dingalinged-cpu.github.io/registry/c/hedwig-house-apartments-milwaukee/
+10. Meinecke House | trust 10.0 | Meinecke House is an assisted living facility in Milwaukee, WI at 2374 North 6th Street, Milwaukee, WI 53212. Phone: +14143727117. | https://dingalinged-cpu.github.io/registry/c/meinecke-house-milwaukee/
+11. The Willows | trust 10.0 | The Willows is an assisted living facility in Milwaukee, WI at 2201 North Cambridge Avenue, Milwaukee, WI 53202. Phone: +14147650795. | https://dingalinged-cpu.github.io/registry/c/the-willows-milwaukee/
+12. Thurgood Marshall Apartments | trust 4.0 | Thurgood Marshall Apartments is an assisted living facility in Milwaukee, WI at 1918 North 6th Street, Milwaukee, WI 53212. | https://dingalinged-cpu.github.io/registry/c/thurgood-marshall-apartments-milwaukee/
+13. JC Villa | trust 0.0 | JC Villa is an assisted living facility in Milwaukee, WI. | https://dingalinged-cpu.github.io/registry/c/jc-villa-milwaukee/
+
+## Market data (for advertisers and agents)
+- Keyword: assisted living milwaukee wi | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Milwaukee-Waukesha, WI metro): ~1,000 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 13
+- Equivalent Google Ads cost per month: ~$320 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/assisted-living.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#assisted-living-milwaukee-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

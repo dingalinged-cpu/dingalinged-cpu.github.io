@@ -1,0 +1,4122 @@
+{
+ "place": "Garland, TX",
+ "slug": "garland-tx",
+ "count": 132,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "allergist garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/allergist-garland-tx.json"
+  },
+  {
+   "keyword": "assisted living garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-garland-tx.json"
+  },
+  {
+   "keyword": "attorney garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-garland-tx.json"
+  },
+  {
+   "keyword": "auto repair garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-garland-tx.json"
+  },
+  {
+   "keyword": "barber shop garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-garland-tx.json"
+  },
+  {
+   "keyword": "car wash garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-garland-tx.json"
+  },
+  {
+   "keyword": "chiropractor garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-garland-tx.json"
+  },
+  {
+   "keyword": "dance studio garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-garland-tx.json"
+  },
+  {
+   "keyword": "daycare garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-garland-tx.json"
+  },
+  {
+   "keyword": "dentist garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-garland-tx.json"
+  },
+  {
+   "keyword": "dry cleaners garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-garland-tx.json"
+  },
+  {
+   "keyword": "drywall repair garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/drywall-repair-garland-tx.json"
+  },
+  {
+   "keyword": "event venues garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-garland-tx.json"
+  },
+  {
+   "keyword": "exterminator garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/exterminator-garland-tx.json"
+  },
+  {
+   "keyword": "facial garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-garland-tx.json"
+  },
+  {
+   "keyword": "flooring companies garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-garland-tx.json"
+  },
+  {
+   "keyword": "florist garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-garland-tx.json"
+  },
+  {
+   "keyword": "funeral home garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-garland-tx.json"
+  },
+  {
+   "keyword": "furniture store garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-garland-tx.json"
+  },
+  {
+   "keyword": "gift shop garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-garland-tx.json"
+  },
+  {
+   "keyword": "gym garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-garland-tx.json"
+  },
+  {
+   "keyword": "hair salon garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-garland-tx.json"
+  },
+  {
+   "keyword": "haircut garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-garland-tx.json"
+  },
+  {
+   "keyword": "insurance agency garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-garland-tx.json"
+  },
+  {
+   "keyword": "insurance agent garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-garland-tx.json"
+  },
+  {
+   "keyword": "insurance agents garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-garland-tx.json"
+  },
+  {
+   "keyword": "jewelry store garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-garland-tx.json"
+  },
+  {
+   "keyword": "lawyer garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-garland-tx.json"
+  },
+  {
+   "keyword": "liquor store garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-garland-tx.json"
+  },
+  {
+   "keyword": "martial arts garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-garland-tx.json"
+  },
+  {
+   "keyword": "massage garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-garland-tx.json"
+  },
+  {
+   "keyword": "mattress store garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-garland-tx.json"
+  },
+  {
+   "keyword": "mechanic garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-garland-tx.json"
+  },
+  {
+   "keyword": "nail salon garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-garland-tx.json"
+  },
+  {
+   "keyword": "occupational therapist garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/occupational-therapist-garland-tx.json"
+  },
+  {
+   "keyword": "pediatrician garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pediatrician-garland-tx.json"
+  },
+  {
+   "keyword": "pest control garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pest-control-garland-tx.json"
+  },
+  {
+   "keyword": "pet store garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-garland-tx.json"
+  },
+  {
+   "keyword": "phone repair garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/phone-repair-garland-tx.json"
+  },
+  {
+   "keyword": "photographer garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/photographer-garland-tx.json"
+  },
+  {
+   "keyword": "plumber garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumber-garland-tx.json"
+  },
+  {
+   "keyword": "plumbers garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbers-garland-tx.json"
+  },
+  {
+   "keyword": "plumbing services garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbing-services-garland-tx.json"
+  },
+  {
+   "keyword": "preschool garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-garland-tx.json"
+  },
+  {
+   "keyword": "printing services garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-garland-tx.json"
+  },
+  {
+   "keyword": "storage units garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-garland-tx.json"
+  },
+  {
+   "keyword": "tailor garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-garland-tx.json"
+  },
+  {
+   "keyword": "tattoo shop garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-garland-tx.json"
+  },
+  {
+   "keyword": "tax preparation garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-garland-tx.json"
+  },
+  {
+   "keyword": "tax preparer garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-garland-tx.json"
+  },
+  {
+   "keyword": "thrift store garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-garland-tx.json"
+  },
+  {
+   "keyword": "tire shop garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-garland-tx.json"
+  },
+  {
+   "keyword": "used cars for sale garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-garland-tx.json"
+  },
+  {
+   "keyword": "vet garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-garland-tx.json"
+  },
+  {
+   "keyword": "waxing garland tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-garland-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "anytime-plumbing-365-drain-cleaning-and-repair-garland",
+   "name": "Anytime Plumbing 365, Drain Cleaning & Repair",
+   "summary": "Anytime Plumbing 365, Drain Cleaning & Repair is a plumber in Garland, TX at 102 North Shiloh Road #Suite 104, Garland, TX 75042. Phone: +12143074264. Website: https://www.anytimeplumbing365.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-plumbing-365-drain-cleaning-and-repair-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-plumbing-365-drain-cleaning-and-repair-garland.json",
+   "address": {
+    "streetAddress": "102 North Shiloh Road #Suite 104",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75042",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75042",
+   "geo": {
+    "lat": 32.9133018,
+    "lon": -96.665041
+   },
+   "phone": "+12143074264",
+   "website": "https://www.anytimeplumbing365.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13588936567",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "best-law-center-garland",
+   "name": "Best Law Center",
+   "summary": "Best Law Center is a lawyer in Garland, TX at 870 West Interstate 30, Garland, TX 75043. Phone: +12145286060. Website: https://bestlawcenter.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-law-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-law-center-garland.json",
+   "address": {
+    "streetAddress": "870 West Interstate 30",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8349799,
+    "lon": -96.6046441
+   },
+   "phone": "+12145286060",
+   "website": "https://bestlawcenter.com/",
+   "opening_hours": "Mo-Fr 08:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/671665394",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brooks-plumbing-garland",
+   "name": "Brooks Plumbing",
+   "summary": "Brooks Plumbing is a plumber in Garland, TX at 627 East Walnut Circle, Garland, TX 75040. Phone: +12143683838. Website: https://brooksplumbingtexas.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brooks-plumbing-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brooks-plumbing-garland.json",
+   "address": {
+    "streetAddress": "627 East Walnut Circle",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9165108,
+    "lon": -96.6266496
+   },
+   "phone": "+12143683838",
+   "website": "https://brooksplumbingtexas.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12046903851",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chelle-cates-photography-garland",
+   "name": "Chelle Cates Photography",
+   "summary": "Chelle Cates Photography is a photographer in Garland, TX at 610 West State Street, Garland, TX 75040. Phone: +12144923262. Website: https://www.chellecates.com/.",
+   "categories": [
+    "photographer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chelle-cates-photography-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chelle-cates-photography-garland.json",
+   "address": {
+    "streetAddress": "610 West State Street",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9132186,
+    "lon": -96.6382598
+   },
+   "phone": "+12144923262",
+   "website": "https://www.chellecates.com/",
+   "opening_hours": "Tu-Fr 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/547726288",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "el-pino-engine-repair-and-cylinder-head-shop-garland",
+   "name": "El Pino Engine Repair & Cylinder Head Shop",
+   "summary": "El Pino Engine Repair & Cylinder Head Shop is an auto repair shop in Garland, TX at 3529 W Miller Rd, Garland, TX 75041. Phone: +12147035190. Website: https://elpinoenginerepair.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/el-pino-engine-repair-and-cylinder-head-shop-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/el-pino-engine-repair-and-cylinder-head-shop-garland.json",
+   "address": {
+    "streetAddress": "3529 W Miller Rd",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.8950508,
+    "lon": -96.6841035
+   },
+   "phone": "+12147035190",
+   "website": "https://elpinoenginerepair.com/",
+   "opening_hours": "Mo-Fr 08:00-18:30, Sa,Su 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9754071427",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "family-thrift-center-garland",
+   "name": "Family Thrift Center",
+   "summary": "Family Thrift Center is a thrift store in Garland, TX at 861 West Miller Road, Garland, TX 75041. Phone: +12147039470. Website: https://familythriftcenter.com/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-thrift-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-thrift-center-garland.json",
+   "address": {
+    "streetAddress": "861 West Miller Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.8957083,
+    "lon": -96.6419959
+   },
+   "phone": "+12147039470",
+   "website": "https://familythriftcenter.com/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 12:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9008537451",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fields-recreation-center-garland",
+   "name": "Fields Recreation Center",
+   "summary": "Fields Recreation Center is a gym in Garland, TX at 1701 Dairy Road, Garland, TX 75040. Phone: +19722053090. Website: https://www.garlandtx.gov/facilities/facility/details/Fields-Recreation-Center-94.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fields-recreation-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fields-recreation-center-garland.json",
+   "address": {
+    "streetAddress": "1701 Dairy Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.8976832,
+    "lon": -96.6231243
+   },
+   "phone": "+19722053090",
+   "website": "https://www.garlandtx.gov/facilities/facility/details/Fields-Recreation-Center-94",
+   "opening_hours": "Mo-Th 09:00-21:00; Fr 09:00-17:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13115181601",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "garland-ata-black-belt-academy-garland",
+   "name": "Garland Ata Black Belt Academy",
+   "summary": "Garland Ata Black Belt Academy is a martial arts school in Garland, TX at 3420 Broadway Boulevard #126, Garland, TX 75043. Phone: +19722715425. Website: https://www.garlandata.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/garland-ata-black-belt-academy-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/garland-ata-black-belt-academy-garland.json",
+   "address": {
+    "streetAddress": "3420 Broadway Boulevard #126",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.873688,
+    "lon": -96.6141614
+   },
+   "phone": "+19722715425",
+   "website": "https://www.garlandata.com/",
+   "opening_hours": "Mo,We,Fr 16:30-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9673669096",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-garland-w641613451",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Garland, TX at 1661 Northwest Highway, Garland, TX 75041. Phone: +12148077195. Website: https://www.goodwilldallas.org/locations/nw-hwy-store-and-donation-center/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-garland-w641613451/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-garland-w641613451.json",
+   "address": {
+    "streetAddress": "1661 Northwest Highway",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.8646457,
+    "lon": -96.6529656
+   },
+   "phone": "+12148077195",
+   "website": "https://www.goodwilldallas.org/locations/nw-hwy-store-and-donation-center/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/641613451",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-garland-w679557212",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Garland, TX at 3106 North Shiloh Road, Garland, TX 75044. Phone: +19725304542. Website: https://www.goodwilldallas.org/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-garland-w679557212/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-garland-w679557212.json",
+   "address": {
+    "streetAddress": "3106 North Shiloh Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75044",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75044",
+   "geo": {
+    "lat": 32.9459935,
+    "lon": -96.66462
+   },
+   "phone": "+19725304542",
+   "website": "https://www.goodwilldallas.org/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/679557212",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ideal-image-garland",
+   "name": "Ideal Image",
+   "summary": "Ideal Image is a skin care studio in Garland, TX at 4430 Lavon Drive #364, Garland, TX 75040. Phone: +19727462823. Website: https://www.idealimage.com/locations/texas/dallas-garland.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ideal-image-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ideal-image-garland.json",
+   "address": {
+    "streetAddress": "4430 Lavon Drive #364",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9573643,
+    "lon": -96.6152111
+   },
+   "phone": "+19727462823",
+   "website": "https://www.idealimage.com/locations/texas/dallas-garland",
+   "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9419540888",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "james-avery-jewelry-garland",
+   "name": "James Avery Jewelry",
+   "summary": "James Avery Jewelry is a jewelry store in Garland, TX at 435 Coneflower Drive, Garland, TX 75040. Phone: +19724954414. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=726.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-avery-jewelry-garland.json",
+   "address": {
+    "streetAddress": "435 Coneflower Drive",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9526966,
+    "lon": -96.6125833
+   },
+   "phone": "+19724954414",
+   "website": "https://www.jamesavery.com/custserv/store_details.jsp?storeId=726",
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4248316168",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "life-time-garland",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Garland, TX at 5602 Naaman Forest Boulevard, Garland, TX 75044. Phone: +19724965000. Website: https://www.lifetime.life/life-time-locations/tx-garland.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-garland.json",
+   "address": {
+    "streetAddress": "5602 Naaman Forest Boulevard",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75044",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75044",
+   "geo": {
+    "lat": 32.9645284,
+    "lon": -96.648071
+   },
+   "phone": "+19724965000",
+   "website": "https://www.lifetime.life/life-time-locations/tx-garland.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/317004545",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "little-butterflies-learning-center-garland",
+   "name": "Little Butterflies Learning Center",
+   "summary": "Little Butterflies Learning Center is a daycare in Garland, TX at 2814 Lavon Dr., Garland, TX 75040. Phone: +19729551488. Website: https://littlebutterflieslc.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-butterflies-learning-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-butterflies-learning-center-garland.json",
+   "address": {
+    "streetAddress": "2814 Lavon Dr.",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9415417,
+    "lon": -96.6215832
+   },
+   "phone": "+19729551488",
+   "website": "https://littlebutterflieslc.org/",
+   "opening_hours": "Mo-Fr 06:00-18:45; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/645660444",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "little-spurs-pediatric-urgent-care-garland",
+   "name": "Little Spurs Pediatric Urgent Care",
+   "summary": "Little Spurs Pediatric Urgent Care is a pediatrician in Garland, TX at 6520 North President George Bush Highway #100, Garland, TX 75044. Phone: +19725329967. Website: https://littlespurspedi.com/location/garland-clinic/.",
+   "categories": [
+    "pediatrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-spurs-pediatric-urgent-care-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-spurs-pediatric-urgent-care-garland.json",
+   "address": {
+    "streetAddress": "6520 North President George Bush Highway #100",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75044",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75044",
+   "geo": {
+    "lat": 32.9747252,
+    "lon": -96.6541174
+   },
+   "phone": "+19725329967",
+   "website": "https://littlespurspedi.com/location/garland-clinic/",
+   "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1300765172",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mtp-barbershop-garland",
+   "name": "MTP Barbershop",
+   "summary": "MTP Barbershop is a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mtp-barbershop-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mtp-barbershop-garland.json",
+   "address": {
+    "streetAddress": "2404 West Walnut Street #104",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75042",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75042",
+   "geo": {
+    "lat": 32.9160293,
+    "lon": -96.6643649
+   },
+   "phone": "+19726394051",
+   "website": "https://chunkcutzz.square.site/",
+   "opening_hours": "Tu-We 14:00-18:00; Th-Fr 10:00-21:00; Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13937799262",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "oak-ridge-dental-garland",
+   "name": "Oak Ridge Dental",
+   "summary": "Oak Ridge Dental is a dentist in Garland, TX at 2334 West Buckingham Road #260, Garland, TX 75042. Phone: +14692982157. Website: https://www.dentistgarlandtx.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oak-ridge-dental-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oak-ridge-dental-garland.json",
+   "address": {
+    "streetAddress": "2334 West Buckingham Road #260",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75042",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75042",
+   "geo": {
+    "lat": 32.9291205,
+    "lon": -96.6629214
+   },
+   "phone": "+14692982157",
+   "website": "https://www.dentistgarlandtx.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13154637328",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-garland",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Garland, TX at 5401 North Garland Avenue, Garland, TX 75040. Phone: +19726754900. Website: https://www.petsmart.com/stores/us/tx/garland-store1109.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-garland.json",
+   "address": {
+    "streetAddress": "5401 North Garland Avenue",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.966549,
+    "lon": -96.6455904
+   },
+   "phone": "+19726754900",
+   "website": "https://www.petsmart.com/stores/us/tx/garland-store1109.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/679572081",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "purnell-insurance-agency-allstate-insurance-garland",
+   "name": "Purnell Insurance Agency: Allstate Insurance",
+   "summary": "Purnell Insurance Agency: Allstate Insurance is an insurance agent in Garland, TX at 3927 Broadway Boulevard, Garland, TX 75043. Phone: +19729295900. Website: https://agents.allstate.com/terrence-purnell-carrollton-tx.html.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/purnell-insurance-agency-allstate-insurance-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/purnell-insurance-agency-allstate-insurance-garland.json",
+   "address": {
+    "streetAddress": "3927 Broadway Boulevard",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8657551,
+    "lon": -96.6070648
+   },
+   "phone": "+19729295900",
+   "website": "https://agents.allstate.com/terrence-purnell-carrollton-tx.html",
+   "opening_hours": "Mo-Th 09:00-18:00; Fr 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13152890264",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rowlett-florist-and-gifts-garland",
+   "name": "Rowlett Florist and Gifts",
+   "summary": "Rowlett Florist and Gifts is a florist in Garland, TX at 513 West State Street, Garland, TX 75040. Phone: +19724752098. Website: https://www.rowlettflowers.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rowlett-florist-and-gifts-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rowlett-florist-and-gifts-garland.json",
+   "address": {
+    "streetAddress": "513 West State Street",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9135961,
+    "lon": -96.6371783
+   },
+   "phone": "+19724752098",
+   "website": "https://www.rowlettflowers.com/",
+   "opening_hours": "Mo-Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/547694420",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "schwed-pediatric-dentistry-and-orthodontics-garland",
+   "name": "Schwed Pediatric Dentistry and Orthodontics",
+   "summary": "Schwed Pediatric Dentistry and Orthodontics is a dentist in Garland, TX at 2006 West Campbell Road #Suite 300, Garland, TX 75044. Phone: +19722100688. Website: https://schwedkidsdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schwed-pediatric-dentistry-and-orthodontics-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schwed-pediatric-dentistry-and-orthodontics-garland.json",
+   "address": {
+    "streetAddress": "2006 West Campbell Road #Suite 300",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75044",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75044",
+   "geo": {
+    "lat": 32.9747558,
+    "lon": -96.6595663
+   },
+   "phone": "+19722100688",
+   "website": "https://schwedkidsdental.com/",
+   "opening_hours": "Mo-Th 08:00-17:00, Fr 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7891677032",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-thrift-garland",
+   "name": "Texas Thrift",
+   "summary": "Texas Thrift is a thrift store in Garland, TX at 1406 West Walnut Street, Garland, TX 75042. Phone: +12147030454. Website: https://buythrift.com/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-thrift-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-thrift-garland.json",
+   "address": {
+    "streetAddress": "1406 West Walnut Street",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75042",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75042",
+   "geo": {
+    "lat": 32.9148164,
+    "lon": -96.6503284
+   },
+   "phone": "+12147030454",
+   "website": "https://buythrift.com/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9008537452",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "therapeutic-healing-garland",
+   "name": "Therapeutic Healing",
+   "summary": "Therapeutic Healing is a massage studio in Garland, TX at 605 West State Street, Garland, TX 75040. Phone: +19724858759. Website: https://www.therapeutichealing.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/therapeutic-healing-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/therapeutic-healing-garland.json",
+   "address": {
+    "streetAddress": "605 West State Street",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9136138,
+    "lon": -96.6380116
+   },
+   "phone": "+19724858759",
+   "website": "https://www.therapeutichealing.com/",
+   "opening_hours": "Mo-Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/547700053",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "toppers-wildlife-removal-garland",
+   "name": "Topper's Wildlife Removal",
+   "summary": "Topper's Wildlife Removal is a pest control company in Garland, TX at 5306 Brookport Drive, Garland, TX 75043. Phone: +12148465554. Website: https://www.topperswildliferemoval.com/.",
+   "categories": [
+    "pest control"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/toppers-wildlife-removal-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/toppers-wildlife-removal-garland.json",
+   "address": {
+    "streetAddress": "5306 Brookport Drive",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8528399,
+    "lon": -96.5587395
+   },
+   "phone": "+12148465554",
+   "website": "https://www.topperswildliferemoval.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13346992354",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vietnam-home-health-care-garland",
+   "name": "Vietnam Home Health Care",
+   "summary": "Vietnam Home Health Care is an occupational therapist in Garland, TX at 3538 W. Walnut St, Garland, TX 75042. Phone: +12142215399. Website: https://vietnamhomehealthcare.com/.",
+   "categories": [
+    "occupational therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vietnam-home-health-care-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vietnam-home-health-care-garland.json",
+   "address": {
+    "streetAddress": "3538 W. Walnut St",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75042",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75042",
+   "geo": {
+    "lat": 32.9165644,
+    "lon": -96.6847707
+   },
+   "phone": "+12142215399",
+   "website": "https://vietnamhomehealthcare.com/",
+   "opening_hours": "Mo-Fr 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10777224220",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vinces-salon-garland",
+   "name": "Vince's Salon",
+   "summary": "Vince's Salon is a hair salon in Garland, TX at 5966 Broadway Boulevard, Garland, TX 75043. Phone: +19722408730. Website: https://vinces-salon.edan.io/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vinces-salon-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vinces-salon-garland.json",
+   "address": {
+    "streetAddress": "5966 Broadway Boulevard",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8429891,
+    "lon": -96.5949393
+   },
+   "phone": "+19722408730",
+   "website": "https://vinces-salon.edan.io/",
+   "opening_hours": "Su 12:00-17:00; Mo 10:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9509211248",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "visiting-angels-senior-home-care-garland",
+   "name": "Visiting Angels Senior Home Care",
+   "summary": "Visiting Angels Senior Home Care is an assisted living facility in Garland, TX at 3631 Broadway Boulevard, Garland, TX 75043. Phone: +12147038123. Website: https://www.visitingangels.com/garland/home.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/visiting-angels-senior-home-care-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/visiting-angels-senior-home-care-garland.json",
+   "address": {
+    "streetAddress": "3631 Broadway Boulevard",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8700882,
+    "lon": -96.6122992
+   },
+   "phone": "+12147038123",
+   "website": "https://www.visitingangels.com/garland/home",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13664312667",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "3q-fitness-crossfit-garland-garland",
+   "name": "3Q Fitness CrossFit Garland",
+   "summary": "3Q Fitness CrossFit Garland is a gym in Garland, TX at 109 S 6th St, Garland, TX 75040. Phone: +19724942545. Website: https://crossfitgarland.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/3q-fitness-crossfit-garland-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/3q-fitness-crossfit-garland-garland.json",
+   "address": {
+    "streetAddress": "109 S 6th St",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.912048,
+    "lon": -96.638063
+   },
+   "phone": "+19724942545",
+   "website": "https://crossfitgarland.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9857092227",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allan-m-stafford-attorney-garland",
+   "name": "Allan M. Stafford Attorney",
+   "summary": "Allan M. Stafford Attorney is a lawyer in Garland, TX at 505 West State Street, Garland, TX 75040. Phone: +19722768321. Website: https://allanstafford.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allan-m-stafford-attorney-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allan-m-stafford-attorney-garland.json",
+   "address": {
+    "streetAddress": "505 West State Street",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9135214,
+    "lon": -96.6369065
+   },
+   "phone": "+19722768321",
+   "website": "https://allanstafford.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/547697166",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "distinctive-dental-concepts-garland",
+   "name": "Distinctive Dental Concepts",
+   "summary": "Distinctive Dental Concepts is a dentist in Garland, TX at 1215 Thomasville Court, Garland, TX 75044. Phone: +19724940004. Website: https://www.ddctx.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/distinctive-dental-concepts-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/distinctive-dental-concepts-garland.json",
+   "address": {
+    "streetAddress": "1215 Thomasville Court",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75044",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75044",
+   "geo": {
+    "lat": 32.9810623,
+    "lon": -96.614589
+   },
+   "phone": "+19724940004",
+   "website": "https://www.ddctx.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6385353796",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-insurance-juanita-vank-garland",
+   "name": "Farmers Insurance - Juanita Vank",
+   "summary": "Farmers Insurance - Juanita Vank is an insurance agent in Garland, TX at 629 West Centerville Road ##200, Garland, TX 75041. Phone: +19728400304. Website: https://agents.farmers.com/tx/garland/juanita-vank.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-juanita-vank-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-juanita-vank-garland.json",
+   "address": {
+    "streetAddress": "629 West Centerville Road ##200",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.8636378,
+    "lon": -96.6406353
+   },
+   "phone": "+19728400304",
+   "website": "https://agents.farmers.com/tx/garland/juanita-vank",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5892398957",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "marcias-beauty-box-garland",
+   "name": "Marcia's Beauty Box",
+   "summary": "Marcia's Beauty Box is a hair salon in Garland, TX at 609 Main Street, Garland, TX 75040. Phone: +19722760009. Website: https://marciasbeautybox.placeweb.site/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marcias-beauty-box-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marcias-beauty-box-garland.json",
+   "address": {
+    "streetAddress": "609 Main Street",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9128162,
+    "lon": -96.638247
+   },
+   "phone": "+19722760009",
+   "website": "https://marciasbeautybox.placeweb.site/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/547729372",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-garland",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Garland, TX at 5435 North Garland Avenue #100, Garland, TX 75040. Phone: +12142275583. Website: https://www.mattressfirm.com/en-us/stores/tx/garland/002040/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-garland.json",
+   "address": {
+    "streetAddress": "5435 North Garland Avenue #100",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9666694,
+    "lon": -96.6452577
+   },
+   "phone": "+12142275583",
+   "website": "https://www.mattressfirm.com/en-us/stores/tx/garland/002040/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3925629851",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "williams-funeral-directors-garland",
+   "name": "Williams Funeral Directors",
+   "summary": "Williams Funeral Directors is a funeral home in Garland, TX at 1600 South Garland Avenue, Garland, TX 75040. Phone: +19722765000. Website: https://www.williamsfuneral.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/williams-funeral-directors-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/williams-funeral-directors-garland.json",
+   "address": {
+    "streetAddress": "1600 South Garland Avenue",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.898902,
+    "lon": -96.6481436
+   },
+   "phone": "+19722765000",
+   "website": "https://www.williamsfuneral.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13007248601",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwrench-automotive-garland",
+   "name": "Goodwrench Automotive",
+   "summary": "Goodwrench Automotive is an auto repair shop in Garland, TX at 701 Shepherd Drive #104, Garland, TX. Phone: +19724949353. Website: https://goodwrenchautomotive.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwrench-automotive-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwrench-automotive-garland.json",
+   "address": {
+    "streetAddress": "701 Shepherd Drive #104",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9058098,
+    "lon": -96.6968075
+   },
+   "phone": "+19724949353",
+   "website": "https://goodwrenchautomotive.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12560261727",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allergy-partners-of-dallas-fort-worth-garland",
+   "name": "Allergy Partners of Dallas-Fort Worth",
+   "summary": "Allergy Partners of Dallas-Fort Worth is an allergist in Garland, TX at 760 North Shiloh Road, Garland, TX 75042. Phone: +19729447023.",
+   "categories": [
+    "allergist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allergy-partners-of-dallas-fort-worth-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allergy-partners-of-dallas-fort-worth-garland.json",
+   "address": {
+    "streetAddress": "760 North Shiloh Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75042",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75042",
+   "geo": {
+    "lat": 32.9191219,
+    "lon": -96.6647895
+   },
+   "phone": "+19729447023",
+   "opening_hours": "Mo, Tu, Th, Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/651582998",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "continental-office-group-garland",
+   "name": "Continental Office Group",
+   "summary": "Continental Office Group is a furniture store in Garland, TX at 4002 West Miller Road #130, Garland, TX 75041. Website: https://continentalofficegroup.business.site/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/continental-office-group-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/continental-office-group-garland.json",
+   "address": {
+    "streetAddress": "4002 West Miller Road #130",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.8940274,
+    "lon": -96.6920575
+   },
+   "website": "https://continentalofficegroup.business.site/",
+   "opening_hours": "Mo-Fr 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9273518902",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fusion-autowerks-garland",
+   "name": "Fusion Autowerks",
+   "summary": "Fusion Autowerks is an auto repair shop in Garland, TX at 2635 South Garland Avenue, Garland, TX 75041. Website: https://www.facebook.com/p/Fusion-Autowerks-100063898266900/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fusion-autowerks-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fusion-autowerks-garland.json",
+   "address": {
+    "streetAddress": "2635 South Garland Avenue",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.8863001,
+    "lon": -96.6555367
+   },
+   "website": "https://www.facebook.com/p/Fusion-Autowerks-100063898266900/",
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11255245838",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mr-ice-water-fade-at-crown-barbershop-garland",
+   "name": "Mr. Ice Water Fade  at Crown Barbershop",
+   "summary": "Mr. Ice Water Fade  at Crown Barbershop is a barber shop in Garland, TX at 518 North Plano Road, Garland, TX 75042. Phone: +12145718950.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mr-ice-water-fade-at-crown-barbershop-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mr-ice-water-fade-at-crown-barbershop-garland.json",
+   "address": {
+    "streetAddress": "518 North Plano Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75042",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75042",
+   "geo": {
+    "lat": 32.9173334,
+    "lon": -96.6998511
+   },
+   "phone": "+12145718950",
+   "opening_hours": "Mo-Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13718327368",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carmax-garland",
+   "name": "CarMax",
+   "summary": "CarMax is an used car dealer in Garland, TX at 12715 Lyndon B Johnson Freeway, Garland, TX 75041. Website: https://www.carmax.com/stores/7109.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-garland.json",
+   "address": {
+    "streetAddress": "12715 Lyndon B Johnson Freeway",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.8672976,
+    "lon": -96.6613631
+   },
+   "website": "https://www.carmax.com/stores/7109",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/641613447",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "clopton-and-company-llc-garland",
+   "name": "Clopton & Company, LLC",
+   "summary": "Clopton & Company, LLC is a tax preparation service in Garland, TX at 610 Main Street, Garland, TX 75040. Phone: +19722726478.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clopton-and-company-llc-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clopton-and-company-llc-garland.json",
+   "address": {
+    "streetAddress": "610 Main Street",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9125153,
+    "lon": -96.6382562
+   },
+   "phone": "+19722726478",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/547733417",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "curtis-culwell-center-garland",
+   "name": "Curtis Culwell Center",
+   "summary": "Curtis Culwell Center is an event venue in Garland, TX at 4999 Naaman Forest Boulevard, Garland, TX 75040. Website: https://www.curtisculwellcenter.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/curtis-culwell-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/curtis-culwell-center-garland.json",
+   "address": {
+    "streetAddress": "4999 Naaman Forest Boulevard",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9593216,
+    "lon": -96.6416987
+   },
+   "website": "https://www.curtisculwellcenter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/67124909",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-garland",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Garland, TX at 1500 Eastgate Drive, Garland, TX 75041. Phone: +19722786444.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-garland.json",
+   "address": {
+    "streetAddress": "1500 Eastgate Drive",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.858249,
+    "lon": -96.6503989
+   },
+   "phone": "+19722786444",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/666368155",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "town-center-dental-garland",
+   "name": "Town Center Dental",
+   "summary": "Town Center Dental is a dentist in Garland, TX at 4430 Lavon Drive #370, Garland, TX 75040. Website: https://www.towncenterdentalgarland.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/town-center-dental-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/town-center-dental-garland.json",
+   "address": {
+    "streetAddress": "4430 Lavon Drive #370",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.957125,
+    "lon": -96.6153578
+   },
+   "website": "https://www.towncenterdentalgarland.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9419540886",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "essence-of-locks-garland",
+   "name": "Essence of Locks",
+   "summary": "Essence of Locks is a hair salon in Garland, TX at 4222 Rosehill Road #11, Garland, TX 75043.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/essence-of-locks-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/essence-of-locks-garland.json",
+   "address": {
+    "streetAddress": "4222 Rosehill Road #11",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8629217,
+    "lon": -96.6026855
+   },
+   "opening_hours": "Tu-Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13301955716",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-garland",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Garland, TX at 451 West Interstate 30 #100, Garland, TX 75043.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-garland.json",
+   "address": {
+    "streetAddress": "451 West Interstate 30 #100",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8422407,
+    "lon": -96.5943444
+   },
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-19:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/600437662",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "roach-feed-and-seed-garland",
+   "name": "Roach Feed and Seed",
+   "summary": "Roach Feed and Seed is a pet store in Garland, TX at 409 Main Street, Garland, TX 75040.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/roach-feed-and-seed-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/roach-feed-and-seed-garland.json",
+   "address": {
+    "streetAddress": "409 Main Street",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9128871,
+    "lon": -96.635864
+   },
+   "opening_hours": "Mo-Su 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/555467227",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pea-events-center-garland",
+   "name": "PEA Events Center",
+   "summary": "PEA Events Center is an event venue in Garland, TX. Website: https://peaeventscenter.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pea-events-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pea-events-center-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8856724,
+    "lon": -96.627806
+   },
+   "website": "https://peaeventscenter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/9196383",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "best-in-show-collision-repair-center-garland",
+   "name": "Best in Show Collision Repair Center",
+   "summary": "Best in Show Collision Repair Center is an auto repair shop in Garland, TX at 3533 West Miller Road, Garland, TX 75041.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-in-show-collision-repair-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-in-show-collision-repair-center-garland.json",
+   "address": {
+    "streetAddress": "3533 West Miller Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.8948752,
+    "lon": -96.6844557
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/587038335",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dallas-golden-gloves-garland",
+   "name": "Dallas Golden Gloves",
+   "summary": "Dallas Golden Gloves is a gym in Garland, TX at 2121 Rowlett Road, Garland, TX 75043.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dallas-golden-gloves-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dallas-golden-gloves-garland.json",
+   "address": {
+    "streetAddress": "2121 Rowlett Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8629277,
+    "lon": -96.5759343
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/679521351",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dental-oncology-professionals-garland",
+   "name": "Dental Oncology Professionals",
+   "summary": "Dental Oncology Professionals is a dentist in Garland, TX at 6452 Broadway Boulevard, Garland, TX 75043.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-oncology-professionals-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-oncology-professionals-garland.json",
+   "address": {
+    "streetAddress": "6452 Broadway Boulevard",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8358613,
+    "lon": -96.594666
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/523791600",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dfw-discount-tire-and-auto-garland",
+   "name": "DFW Discount Tire & Auto",
+   "summary": "DFW Discount Tire & Auto is a tire shop in Garland, TX at 1922 North Plano Road, Garland, TX 75042.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dfw-discount-tire-and-auto-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dfw-discount-tire-and-auto-garland.json",
+   "address": {
+    "streetAddress": "1922 North Plano Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75042",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75042",
+   "geo": {
+    "lat": 32.9309292,
+    "lon": -96.6996017
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/652060980",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dobsons-flooring-america-garland",
+   "name": "Dobson's Flooring America",
+   "summary": "Dobson's Flooring America is a flooring company in Garland, TX at 12925 Lyndon B Johnson Freeway, Garland, TX 75041.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dobsons-flooring-america-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dobsons-flooring-america-garland.json",
+   "address": {
+    "streetAddress": "12925 Lyndon B Johnson Freeway",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.8629406,
+    "lon": -96.6575675
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/641434422",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eastgate-funeral-home-garland",
+   "name": "Eastgate Funeral Home",
+   "summary": "Eastgate Funeral Home is a funeral home in Garland, TX at 1910 Eastgate Drive, Garland, TX 75041.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eastgate-funeral-home-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eastgate-funeral-home-garland.json",
+   "address": {
+    "streetAddress": "1910 Eastgate Drive",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.862225,
+    "lon": -96.656645
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/641434427",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fashion-home-furniture-garland",
+   "name": "Fashion Home Furniture",
+   "summary": "Fashion Home Furniture is a furniture store in Garland, TX at 336 West Interstate 30, Garland, TX 75043.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fashion-home-furniture-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fashion-home-furniture-garland.json",
+   "address": {
+    "streetAddress": "336 West Interstate 30",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8415665,
+    "lon": -96.5900224
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/645030309",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-garland",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Garland, TX at 903 West Centerville Road, Garland, TX 75041.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-garland.json",
+   "address": {
+    "streetAddress": "903 West Centerville Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.8603884,
+    "lon": -96.6443335
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10841199421",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-garland-w652063585",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Garland, TX at 4570 West Buckingham Road, Garland, TX 75042.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-garland-w652063585/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-garland-w652063585.json",
+   "address": {
+    "streetAddress": "4570 West Buckingham Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75042",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75042",
+   "geo": {
+    "lat": 32.930812,
+    "lon": -96.702428
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/652063585",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "five-star-fades-garland",
+   "name": "Five Star Fades",
+   "summary": "Five Star Fades is a hair salon in Garland, TX at 2309 Guthrie Road, Garland, TX 75043.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/five-star-fades-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/five-star-fades-garland.json",
+   "address": {
+    "streetAddress": "2309 Guthrie Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8371526,
+    "lon": -96.5947239
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7931631648",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hvc-auto-service-garland",
+   "name": "HVC Auto Service",
+   "summary": "HVC Auto Service is an auto repair shop in Garland, TX at 525 West Oates Road, Garland, TX 75043.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hvc-auto-service-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hvc-auto-service-garland.json",
+   "address": {
+    "streetAddress": "525 West Oates Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8479512,
+    "lon": -96.6183619
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/645359112",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kids-central-garland",
+   "name": "Kids Central",
+   "summary": "Kids Central is a daycare in Garland, TX at 2319 Guthrie Road, Garland, TX 75043.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kids-central-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kids-central-garland.json",
+   "address": {
+    "streetAddress": "2319 Guthrie Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8373218,
+    "lon": -96.5941993
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/645030299",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "poetry-place-garland",
+   "name": "Poetry Place",
+   "summary": "Poetry Place is an event venue in Garland, TX at 620 Main Street, Garland, TX 75040.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/poetry-place-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/poetry-place-garland.json",
+   "address": {
+    "streetAddress": "620 Main Street",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9124454,
+    "lon": -96.6386579
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/549812884",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-sachse",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Sachse, TX at 5760 Bunker Hill Road, Sachse, TX 75048.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-sachse/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-sachse.json",
+   "address": {
+    "streetAddress": "5760 Bunker Hill Road",
+    "addressLocality": "Sachse",
+    "addressRegion": "TX",
+    "postalCode": "75048",
+    "addressCountry": "US"
+   },
+   "city": "Sachse",
+   "state": "TX",
+   "zip": "75048",
+   "geo": {
+    "lat": 32.9670295,
+    "lon": -96.6072169
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1299985569",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "retro-fitness-garland",
+   "name": "Retro Fitness",
+   "summary": "Retro Fitness is a gym in Garland, TX at 3265 Broadway Boulevard #102, Garland, TX 75043.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/retro-fitness-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/retro-fitness-garland.json",
+   "address": {
+    "streetAddress": "3265 Broadway Boulevard #102",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75043",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75043",
+   "geo": {
+    "lat": 32.8758532,
+    "lon": -96.6205291
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11154497803",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sleep-experts-garland",
+   "name": "Sleep Experts",
+   "summary": "Sleep Experts is a mattress store in Garland, TX at 3315 North President George Bush Highway #200, Garland, TX 75040.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-experts-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-experts-garland.json",
+   "address": {
+    "streetAddress": "3315 North President George Bush Highway #200",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9479167,
+    "lon": -96.6175297
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7746773001",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "take-5-oil-change-garland-w645319835",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Garland, TX at 4555 Forest Lane, Garland, TX 75042.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-garland-w645319835/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-garland-w645319835.json",
+   "address": {
+    "streetAddress": "4555 Forest Lane",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75042",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75042",
+   "geo": {
+    "lat": 32.9094658,
+    "lon": -96.7001581
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/645319835",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-great-westen-furniture-company-garland",
+   "name": "The Great Westen Furniture Company",
+   "summary": "The Great Westen Furniture Company is a furniture store in Garland, TX at 11413 Lyndon B Johnson Freeway, Garland, TX 75041.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-great-westen-furniture-company-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-great-westen-furniture-company-garland.json",
+   "address": {
+    "streetAddress": "11413 Lyndon B Johnson Freeway",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.875382,
+    "lon": -96.6820885
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/498407358",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-garland",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Garland, TX at 5435 North Garland Avenue #140, Garland, TX 75040.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-garland.json",
+   "address": {
+    "streetAddress": "5435 North Garland Avenue #140",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75040",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75040",
+   "geo": {
+    "lat": 32.9669231,
+    "lon": -96.6455299
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11346963958",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "u-haul-garland",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Garland, TX at 12215 Lyndon B Johnson Freeway, Garland, TX 75041.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-garland.json",
+   "address": {
+    "streetAddress": "12215 Lyndon B Johnson Freeway",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.87005,
+    "lon": -96.6682131
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/498407769",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vida-family-dentistry-garland",
+   "name": "Vida Family Dentistry",
+   "summary": "Vida Family Dentistry is a dentist in Garland, TX at 1101 West Centerville Road #200, Garland, TX 75041.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vida-family-dentistry-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vida-family-dentistry-garland.json",
+   "address": {
+    "streetAddress": "1101 West Centerville Road #200",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "postalCode": "75041",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "zip": "75041",
+   "geo": {
+    "lat": 32.8583041,
+    "lon": -96.6466447
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13131239751",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "a-and-j-cell-phone-repair-garland",
+   "name": "A&J Cell Phone Repair",
+   "summary": "A&J Cell Phone Repair is a phone repair shop in Garland, TX at 5116 North Jupiter Road, Garland, TX.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-and-j-cell-phone-repair-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-and-j-cell-phone-repair-garland.json",
+   "address": {
+    "streetAddress": "5116 North Jupiter Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9624723,
+    "lon": -96.6814898
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13339683624",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "city-garage-garland",
+   "name": "City Garage",
+   "summary": "City Garage is an auto repair shop in Garland, TX at 6246 West Campbell Road, Garland, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-garage-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-garage-garland.json",
+   "address": {
+    "streetAddress": "6246 West Campbell Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9722201,
+    "lon": -96.6820999
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692447003",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "duck-creek-dental-garland",
+   "name": "Duck Creek Dental",
+   "summary": "Duck Creek Dental is a dentist in Garland, TX at 5024 North Jupiter Road, Garland, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/duck-creek-dental-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/duck-creek-dental-garland.json",
+   "address": {
+    "streetAddress": "5024 North Jupiter Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9621275,
+    "lon": -96.6814837
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13339683622",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "handprints-academy-garland",
+   "name": "Handprints Academy",
+   "summary": "Handprints Academy is a daycare in Garland, TX at 2409 College Avenue, Garland, TX.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/handprints-academy-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/handprints-academy-garland.json",
+   "address": {
+    "streetAddress": "2409 College Avenue",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.915616,
+    "lon": -96.6638503
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/651584493",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "handprints-academy-garland-w651584504",
+   "name": "Handprints Academy",
+   "summary": "Handprints Academy is a daycare in Garland, TX at 2422 College Avenue, Garland, TX.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/handprints-academy-garland-w651584504/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/handprints-academy-garland-w651584504.json",
+   "address": {
+    "streetAddress": "2422 College Avenue",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9150913,
+    "lon": -96.6644288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/651584504",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kings-beer-and-wine-garland",
+   "name": "King's Beer and Wine",
+   "summary": "King's Beer and Wine is a liquor store in Garland, TX at 3520 West Kingsley Road, Garland, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kings-beer-and-wine-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kings-beer-and-wine-garland.json",
+   "address": {
+    "streetAddress": "3520 West Kingsley Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8783696,
+    "lon": -96.6838613
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/498406737",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lee-nails-garland",
+   "name": "Lee Nails",
+   "summary": "Lee Nails is a nail salon in Garland, TX at 5018 North Jupiter Road, Garland, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lee-nails-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lee-nails-garland.json",
+   "address": {
+    "streetAddress": "5018 North Jupiter Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9620761,
+    "lon": -96.6814728
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13339710000",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "whitewater-express-car-wash-garland",
+   "name": "WhiteWater Express Car Wash",
+   "summary": "WhiteWater Express Car Wash is a car wash in Garland, TX at 3331 Arapaho Road, Garland, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/whitewater-express-car-wash-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/whitewater-express-car-wash-garland.json",
+   "address": {
+    "streetAddress": "3331 Arapaho Road",
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.961293,
+    "lon": -96.6811516
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13339730195",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aaa-insurance-garland",
+   "name": "AAA Insurance",
+   "summary": "AAA Insurance is an insurance agent in Garland, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aaa-insurance-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aaa-insurance-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9562643,
+    "lon": -96.6164285
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13422311925",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allure-nails-garland",
+   "name": "Allure Nails",
+   "summary": "Allure Nails is a nail salon in Garland, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allure-nails-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allure-nails-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.956419,
+    "lon": -96.6162871
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13451924839",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anna-salon-garland",
+   "name": "Anna Salon",
+   "summary": "Anna Salon is a tattoo shop in Garland, TX.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anna-salon-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anna-salon-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8588372,
+    "lon": -96.6466372
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10257527391",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "boxlunch-garland",
+   "name": "BoxLunch",
+   "summary": "BoxLunch is a gift shop in Garland, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boxlunch-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boxlunch-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9534357,
+    "lon": -96.6124331
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13062704051",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brident-dental-and-orthodontics-garland",
+   "name": "Brident Dental & Orthodontics",
+   "summary": "Brident Dental & Orthodontics is a dentist in Garland, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brident-dental-and-orthodontics-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brident-dental-and-orthodontics-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8781477,
+    "lon": -96.6212652
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10257712209",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bright-white-dental-garland",
+   "name": "Bright White Dental",
+   "summary": "Bright White Dental is a dentist in Garland, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bright-white-dental-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bright-white-dental-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8941516,
+    "lon": -96.6454762
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/655040324",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "broadway-family-dental-garland",
+   "name": "Broadway Family Dental",
+   "summary": "Broadway Family Dental is a dentist in Garland, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/broadway-family-dental-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/broadway-family-dental-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8778707,
+    "lon": -96.6190422
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10257694000",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "c-and-m-tire-wheel-garland",
+   "name": "C&M Tire-Wheel",
+   "summary": "C&M Tire-Wheel is an auto repair shop in Garland, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/c-and-m-tire-wheel-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/c-and-m-tire-wheel-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.945423,
+    "lon": -96.6648124
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/679557207",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "christian-brothers-automotive-garland",
+   "name": "Christian Brothers Automotive",
+   "summary": "Christian Brothers Automotive is an auto repair shop in Garland, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christian-brothers-automotive-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9477255,
+    "lon": -96.6213149
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2412397067",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "city-garage-garland-w1300741631",
+   "name": "City Garage",
+   "summary": "City Garage is an auto repair shop in Garland, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-garage-garland-w1300741631/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-garage-garland-w1300741631.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9454925,
+    "lon": -96.6174376
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1300741631",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cubesmart-garland",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Garland, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9251289,
+    "lon": -96.6296987
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12053425977",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cubesmart-garland-w1299582081",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Garland, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-garland-w1299582081/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-garland-w1299582081.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9603062,
+    "lon": -96.6638396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1299582081",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dry-clean-super-center-garland",
+   "name": "Dry Clean Super Center",
+   "summary": "Dry Clean Super Center is a dry cleaner in Garland, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dry-clean-super-center-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.931236,
+    "lon": -96.664392
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/495926610",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "european-wax-center-garland",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Garland, TX.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9573252,
+    "lon": -96.6157136
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13451924844",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-insurance-garland",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Garland, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8779653,
+    "lon": -96.6312982
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10257693974",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-garland-w495947102",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Garland, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-garland-w495947102/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-garland-w495947102.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9673879,
+    "lon": -96.6077614
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/495947102",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firewheel-modern-dentistry-garland",
+   "name": "Firewheel Modern Dentistry",
+   "summary": "Firewheel Modern Dentistry is a dentist in Garland, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firewheel-modern-dentistry-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firewheel-modern-dentistry-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9632584,
+    "lon": -96.6462357
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3925629848",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firewheel-salon-garland",
+   "name": "Firewheel Salon",
+   "summary": "Firewheel Salon is a hair salon in Garland, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firewheel-salon-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firewheel-salon-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9560072,
+    "lon": -96.6162993
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13451924842",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fit-factory-garland",
+   "name": "Fit Factory",
+   "summary": "Fit Factory is a gym in Garland, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fit-factory-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fit-factory-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9521029,
+    "lon": -96.6137098
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13062678697",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fred-loya-insurance-garland",
+   "name": "Fred Loya Insurance",
+   "summary": "Fred Loya Insurance is an insurance agent in Garland, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fred-loya-insurance-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fred-loya-insurance-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9152045,
+    "lon": -96.6509386
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9049363881",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "garland-commercial-contractors-garland",
+   "name": "Garland Commercial Contractors",
+   "summary": "Garland Commercial Contractors is a drywall contractor in Garland, TX.",
+   "categories": [
+    "drywall repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/garland-commercial-contractors-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/garland-commercial-contractors-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8744873,
+    "lon": -96.6576531
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8993102503",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "garland-recreational-center-garland",
+   "name": "Garland Recreational Center",
+   "summary": "Garland Recreational Center is a gym in Garland, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/garland-recreational-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/garland-recreational-center-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.906297,
+    "lon": -96.6470822
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/645377998",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-garland",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Garland, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9563721,
+    "lon": -96.6163173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13451924840",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "guerrero-auto-repair-garland",
+   "name": "Guerrero Auto Repair",
+   "summary": "Guerrero Auto Repair is an auto repair shop in Garland, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/guerrero-auto-repair-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/guerrero-auto-repair-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9061338,
+    "lon": -96.6362382
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/645379626",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kay-jewelers-garland",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Garland, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9531145,
+    "lon": -96.6118225
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13062704056",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-fitness-garland",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Garland, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8581011,
+    "lon": -96.6477386
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/641434448",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-hair-studio-garland",
+   "name": "LA Hair Studio",
+   "summary": "LA Hair Studio is a hair salon in Garland, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-hair-studio-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-hair-studio-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9671101,
+    "lon": -96.6459065
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3925629849",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "magos-brake-and-tire-garland",
+   "name": "Mago's Brake & Tire",
+   "summary": "Mago's Brake & Tire is an auto repair shop in Garland, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magos-brake-and-tire-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magos-brake-and-tire-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8791065,
+    "lon": -96.65575
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/655039624",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-envy-garland",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Garland, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9572367,
+    "lon": -96.6157809
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11815774951",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "may-allen-tailoring-garland",
+   "name": "May Allen Tailoring",
+   "summary": "May Allen Tailoring is a tailor in Garland, TX.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/may-allen-tailoring-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/may-allen-tailoring-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9542856,
+    "lon": -96.6118448
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13062704029",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mexico-2000-ballet-folklorico-garland",
+   "name": "Mexico 2000 Ballet Folklorico",
+   "summary": "Mexico 2000 Ballet Folklorico is a dance studio in Garland, TX.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mexico-2000-ballet-folklorico-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mexico-2000-ballet-folklorico-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8977874,
+    "lon": -96.6367129
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/645380818",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "miller-car-wash-garland",
+   "name": "Miller Car Wash",
+   "summary": "Miller Car Wash is a car wash in Garland, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/miller-car-wash-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/miller-car-wash-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.893902,
+    "lon": -96.61059
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/659135636",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "my-nail-spa-garland",
+   "name": "My Nail Spa",
+   "summary": "My Nail Spa is a nail salon in Garland, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/my-nail-spa-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/my-nail-spa-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9521171,
+    "lon": -96.6120361
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13062704053",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nasr-jewelers-garland",
+   "name": "Nasr Jewelers",
+   "summary": "Nasr Jewelers is a jewelry store in Garland, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nasr-jewelers-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nasr-jewelers-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9538805,
+    "lon": -96.6121388
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13062704032",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pandora-garland",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Garland, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9534634,
+    "lon": -96.6124975
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13062704050",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "payless-tires-garland",
+   "name": "Payless Tires",
+   "summary": "Payless Tires is a tire shop in Garland, TX.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/payless-tires-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/payless-tires-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9120889,
+    "lon": -96.6299665
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5592788444",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-supplies-plus-garland",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Garland, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8628235,
+    "lon": -96.643631
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10257527309",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petco-garland",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Garland, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9448969,
+    "lon": -96.6123901
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/645660461",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petmobile-pet-hospital-garland",
+   "name": "Petmobile Pet Hospital",
+   "summary": "Petmobile Pet Hospital is a veterinarian in Garland, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petmobile-pet-hospital-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petmobile-pet-hospital-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8378367,
+    "lon": -96.5985643
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13650142181",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "planet-fitness-garland",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Garland, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9148154,
+    "lon": -96.6491821
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9049363876",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "platinum-printing-imprenta-garland",
+   "name": "Platinum Printing Imprenta",
+   "summary": "Platinum Printing Imprenta is a printing service in Garland, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/platinum-printing-imprenta-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/platinum-printing-imprenta-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9062233,
+    "lon": -96.6364557
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/645379547",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-garland",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Garland, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9341875,
+    "lon": -96.6820431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1523082953",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rent-a-center-garland",
+   "name": "Rent-A-Center",
+   "summary": "Rent-A-Center is a furniture store in Garland, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rent-a-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rent-a-center-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9150698,
+    "lon": -96.6509312
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9049363879",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sams-fine-jewelry-garland",
+   "name": "Sam's Fine Jewelry",
+   "summary": "Sam's Fine Jewelry is a jewelry store in Garland, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sams-fine-jewelry-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sams-fine-jewelry-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9539421,
+    "lon": -96.6134169
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13062704045",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "south-first-dental-garland",
+   "name": "South First Dental",
+   "summary": "South First Dental is a dentist in Garland, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/south-first-dental-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/south-first-dental-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8781436,
+    "lon": -96.6312934
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10257693973",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "spencers-garland",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in Garland, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9530075,
+    "lon": -96.6108148
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13062704018",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "take-5-oil-change-garland",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Garland, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9148326,
+    "lon": -96.6484247
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/645152238",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-bubble-zone-car-wash-and-lube-center-garland",
+   "name": "The Bubble Zone  Car Wash & Lube Center",
+   "summary": "The Bubble Zone  Car Wash & Lube Center is a car wash in Garland, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-bubble-zone-car-wash-and-lube-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-bubble-zone-car-wash-and-lube-center-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9599768,
+    "lon": -96.646551
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1300623046",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-dental-specialists-and-med-spa-garland",
+   "name": "The Dental Specialists & Med Spa",
+   "summary": "The Dental Specialists & Med Spa is a dentist in Garland, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dental-specialists-and-med-spa-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dental-specialists-and-med-spa-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9611274,
+    "lon": -96.6336613
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1300043260",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-joint-chiropractic-garland",
+   "name": "The Joint Chiropractic",
+   "summary": "The Joint Chiropractic is a chiropractor in Garland, TX.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9552668,
+    "lon": -96.6167405
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13451924848",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-salons-at-bella-suites-garland",
+   "name": "The Salons at Bella Suites",
+   "summary": "The Salons at Bella Suites is a hair salon in Garland, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salons-at-bella-suites-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salons-at-bella-suites-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9544977,
+    "lon": -96.6110849
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13062704027",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-warren-center-garland",
+   "name": "The Warren Center",
+   "summary": "The Warren Center is a preschool in Garland, TX.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-warren-center-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-warren-center-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8857688,
+    "lon": -96.650054
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1301332535",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "top-auto-care-and-tires-garland",
+   "name": "Top Auto Care & Tires",
+   "summary": "Top Auto Care & Tires is an auto repair shop in Garland, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-auto-care-and-tires-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-auto-care-and-tires-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.893785,
+    "lon": -96.6100655
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/659135637",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ultimate-car-wash-garland",
+   "name": "Ultimate Car Wash",
+   "summary": "Ultimate Car Wash is a car wash in Garland, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ultimate-car-wash-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ultimate-car-wash-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.893907,
+    "lon": -96.646161
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/655040323",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zales-garland",
+   "name": "Zales",
+   "summary": "Zales is a jewelry store in Garland, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zales-garland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zales-garland.json",
+   "address": {
+    "addressLocality": "Garland",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Garland",
+   "state": "TX",
+   "geo": {
+    "lat": 32.9532723,
+    "lon": -96.6113352
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13062704022",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

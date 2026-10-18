@@ -15,7 +15,7 @@ Assured Air is a HVAC contractor in Willow Springs, IL at 8440 South Archer Aven
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Sa 09:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/assured-air-willow-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/assured-air-willow-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1228191632 (license ODbL-1.0); source data as of 2026-06-01

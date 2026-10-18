@@ -15,7 +15,7 @@ Stretch Zone is a gym in Western Springs, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/stretch-zone-western-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/stretch-zone-western-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9525687918 (license ODbL-1.0); source data as of 2026-06-01

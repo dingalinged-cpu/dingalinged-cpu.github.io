@@ -15,7 +15,7 @@ Pro Master Auto Service is an auto repair shop in Minneapolis, MN at 3452 Lyndal
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pro-master-auto-service-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pro-master-auto-service-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4806273387 (license ODbL-1.0); source data as of 2026-06-01

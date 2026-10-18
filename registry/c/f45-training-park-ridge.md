@@ -15,7 +15,7 @@ F45 Training is a gym in Park Ridge, IL at 948 North Northwest Highway, Park Rid
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/f45-training-park-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/f45-training-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9404299085 (license ODbL-1.0); source data as of 2026-06-01

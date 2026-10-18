@@ -15,7 +15,7 @@ Edward Jones is a financial advisor in Naperville, IL at 796 Royal Saint George 
 - Opening hours (OSM syntax): Mo-Th 08:00-16:30; Fr 12:00-24:00; Sa, Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-jones-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9044512060 (license ODbL-1.0); source data as of 2026-07-28

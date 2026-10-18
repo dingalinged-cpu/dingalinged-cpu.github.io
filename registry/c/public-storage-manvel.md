@@ -1,0 +1,23 @@
+Public Storage is a self-storage facility in Manvel, TX.
+
+# Public Storage
+
+- Category: storage units
+- Services: storage units
+- Address: Manvel, TX
+- City: Manvel
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.4810435, -95.398926
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-manvel/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-manvel.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11163480452 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

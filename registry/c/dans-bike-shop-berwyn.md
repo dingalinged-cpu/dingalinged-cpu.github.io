@@ -15,7 +15,7 @@ Dan's Bike Shop is a bike shop in Berwyn, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dans-bike-shop-berwyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dans-bike-shop-berwyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2499067539 (license ODbL-1.0); source data as of 2026-06-01

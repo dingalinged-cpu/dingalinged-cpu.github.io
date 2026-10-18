@@ -15,7 +15,7 @@ Kriser's Natural Pet is a pet store in Chicago, IL at 5353 North Clark Street, C
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/krisers-natural-pet-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9219709805 (license ODbL-1.0); source data as of 2026-06-01

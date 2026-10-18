@@ -15,7 +15,7 @@ Bike Doctors is a bike shop in Hazel Crest, IL at 17306 Kedzie Avenue, Hazel Cre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bike-doctors-hazel-crest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bike-doctors-hazel-crest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2488855154 (license ODbL-1.0); source data as of 2026-06-01

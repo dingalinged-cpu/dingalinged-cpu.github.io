@@ -15,7 +15,7 @@ Dental Specialists. of Niles, P.C is a dentist in Niles, IL at 8216 West Oakton 
 - Opening hours (OSM syntax): Mo,We 10:00-19:00; Tu,Th,Su off; Fr 10:00-16:00; Sa 10:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dental-specialists-of-niles-p-c-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dental-specialists-of-niles-p-c-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5670600851 (license ODbL-1.0); source data as of 2026-07-28

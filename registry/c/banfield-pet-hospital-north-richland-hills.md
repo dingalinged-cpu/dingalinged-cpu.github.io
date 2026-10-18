@@ -1,0 +1,23 @@
+Banfield Pet Hospital is a veterinarian in North Richland Hills, TX.
+
+# Banfield Pet Hospital
+
+- Category: vet
+- Services: vet
+- Address: North Richland Hills, TX
+- City: North Richland Hills
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.9022018, -97.1903862
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-north-richland-hills/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-north-richland-hills.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7412553730 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

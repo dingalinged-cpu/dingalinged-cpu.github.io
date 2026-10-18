@@ -15,7 +15,7 @@ BP is a car wash in Munster, IN at 10444 Calumet Avenue, Munster, IN 46321.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bp-munster/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bp-munster.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1242292123 (license ODbL-1.0); source data as of 2026-07-28

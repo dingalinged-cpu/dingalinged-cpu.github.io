@@ -1,0 +1,23 @@
+Dallas Dent Company is an auto repair shop in Dallas, TX.
+
+# Dallas Dent Company
+
+- Category: auto repair
+- Services: auto repair, mechanic, auto body shop
+- Address: Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.8997066, -96.8962296
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/dallas-dent-company-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dallas-dent-company-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11779804975 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

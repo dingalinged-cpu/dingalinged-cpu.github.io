@@ -15,7 +15,7 @@ CubeSmart is a self-storage facility in Chicago, IL at 6000 West Touhy Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cubesmart-chicago-w693869786/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-chicago-w693869786.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/693869786 (license ODbL-1.0); source data as of 2026-06-01

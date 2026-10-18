@@ -15,7 +15,7 @@ Wheel & Sprocket is a bike shop in Evanston, IL at 1027 Davis Street, Evanston, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wheel-and-sprocket-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/168370540 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Rise Bagel Company is a bakery in Minneapolis, MN at 530 3rd Street North, Minne
 - Opening hours (OSM syntax): Tu-Su 07:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rise-bagel-company-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rise-bagel-company-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8502295524 (license ODbL-1.0); source data as of 2026-06-01

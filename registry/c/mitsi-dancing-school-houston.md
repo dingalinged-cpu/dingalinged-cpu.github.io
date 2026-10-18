@@ -1,0 +1,23 @@
+Mitsi Dancing School is a dance studio in Houston, TX at 9889 Bellaire Boulevard #D251, Houston, TX 77036.
+
+# Mitsi Dancing School
+
+- Category: dance studio
+- Services: dance studio
+- Address: 9889 Bellaire Boulevard #D251, Houston, TX 77036
+- City: Houston
+- State: TX
+- ZIP: 77036
+- Coordinates: 29.7032137, -95.55289
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mitsi-dancing-school-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mitsi-dancing-school-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12540861233 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

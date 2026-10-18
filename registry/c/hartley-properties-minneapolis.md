@@ -15,7 +15,7 @@ Hartley Properties is a real estate agency in Minneapolis, MN at 1414 3rd Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hartley-properties-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hartley-properties-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6453554565 (license ODbL-1.0); source data as of 2026-05-31

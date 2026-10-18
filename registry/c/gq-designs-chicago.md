@@ -15,7 +15,7 @@ GQ Designs is a graphic designer in Chicago, IL at 4223 West Lake Street, Chicag
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gq-designs-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gq-designs-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13800884479 (license ODbL-1.0); source data as of 2026-07-28

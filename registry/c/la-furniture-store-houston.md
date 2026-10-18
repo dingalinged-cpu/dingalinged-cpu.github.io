@@ -1,0 +1,23 @@
+LA Furniture Store is a furniture store in Houston, TX at 7071 Southwest Freeway Frontage Road, Houston, TX 77074. Phone: +17133577440. Website: https://www.lafurniturestore.com/special/la-furniture-store-houston-tx.html.
+
+# LA Furniture Store
+
+- Category: furniture store
+- Services: furniture store
+- Address: 7071 Southwest Freeway Frontage Road, Houston, TX 77074
+- City: Houston
+- State: TX
+- ZIP: 77074
+- Coordinates: 29.705658, -95.5085303
+- Phone: +17133577440
+- Website: https://www.lafurniturestore.com/special/la-furniture-store-houston-tx.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/la-furniture-store-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-furniture-store-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1274317747 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

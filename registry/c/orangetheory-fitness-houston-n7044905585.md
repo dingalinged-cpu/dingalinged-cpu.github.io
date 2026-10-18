@@ -1,0 +1,23 @@
+Orangetheory Fitness is a gym in Houston, TX at 2313 Edwards Street #135, Houston, TX 77007. Phone: +18329162138.
+
+# Orangetheory Fitness
+
+- Category: gym
+- Services: gym
+- Address: 2313 Edwards Street #135, Houston, TX 77007
+- City: Houston
+- State: TX
+- ZIP: 77007
+- Coordinates: 29.7701486, -95.3811881
+- Phone: +18329162138
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-houston-n7044905585/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-houston-n7044905585.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7044905585 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

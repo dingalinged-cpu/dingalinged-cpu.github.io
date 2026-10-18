@@ -15,7 +15,7 @@ Blue Line Coral is a pet store in Naperville, IL at 1238 West Ogden Avenue, Nape
 - Opening hours (OSM syntax): Mo, Tu, Fr "by appointment"; We, Th 12:00-18:00; Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/blue-line-coral-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/blue-line-coral-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8519309420 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Vasilatos Injury Law is a lawyer in Flossmoor, IL at 19801 Governors Highway, Fl
 - Opening hours (OSM syntax): Mo-Fr 08:30-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vasilatos-injury-law-flossmoor/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vasilatos-injury-law-flossmoor.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4313588888 (license ODbL-1.0); source data as of 2026-07-28

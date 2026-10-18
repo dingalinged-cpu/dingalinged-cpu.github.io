@@ -1,0 +1,23 @@
+Hooper Plumbing is a plumber in Mesquite, TX at 1313 Nehrmeyer Street, Mesquite, TX 75150.
+
+# Hooper Plumbing
+
+- Category: plumber
+- Services: plumber, plumbers, plumbing services
+- Address: 1313 Nehrmeyer Street, Mesquite, TX 75150
+- City: Mesquite
+- State: TX
+- ZIP: 75150
+- Coordinates: 32.7935895, -96.6151394
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hooper-plumbing-mesquite/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hooper-plumbing-mesquite.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/669789478 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

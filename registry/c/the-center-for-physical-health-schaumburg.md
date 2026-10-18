@@ -15,7 +15,7 @@ The Center For Physical Health is a chiropractor in Schaumburg, IL at 2201 W Sch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-center-for-physical-health-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-center-for-physical-health-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9859534454 (license ODbL-1.0); source data as of 2026-07-28

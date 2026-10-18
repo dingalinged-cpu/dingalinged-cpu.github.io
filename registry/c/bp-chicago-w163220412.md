@@ -15,7 +15,7 @@ BP is a car wash in Chicago, IL at 5210 North Northwest Highway, Chicago, IL 606
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bp-chicago-w163220412/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bp-chicago-w163220412.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163220412 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Metro Self Storage is a self-storage facility in Chicago, IL at 2740 West 79th S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/metro-self-storage-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/metro-self-storage-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/165098230 (license ODbL-1.0); source data as of 2026-06-01

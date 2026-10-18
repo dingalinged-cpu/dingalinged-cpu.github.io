@@ -15,7 +15,7 @@ Sen Hao Seng Jewelry is a jewelry store in Saint Paul, MN at 633 West Minnehaha 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sen-hao-seng-jewelry-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sen-hao-seng-jewelry-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8931357563 (license ODbL-1.0); source data as of 2026-06-01

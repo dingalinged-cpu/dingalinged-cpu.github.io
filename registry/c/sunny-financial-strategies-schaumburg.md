@@ -15,7 +15,7 @@ Sunny Financial Strategies is a financial advisor in Schaumburg, IL at 475 North
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 09:00-17:00; Sa 10:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sunny-financial-strategies-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sunny-financial-strategies-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11303916951 (license ODbL-1.0); source data as of 2026-07-28

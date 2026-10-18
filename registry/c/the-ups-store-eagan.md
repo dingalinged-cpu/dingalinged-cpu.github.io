@@ -15,7 +15,7 @@ The UPS Store is a printing service in Eagan, MN at 1960 Cliff Lake Road #129, E
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-16:00; Su 11:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4824705621 (license ODbL-1.0); source data as of 2026-06-01

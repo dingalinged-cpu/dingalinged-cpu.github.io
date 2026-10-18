@@ -1,4 +1,4 @@
-The top unpaid pet store listing for the United States is Aquarium Adventure (a pet store in Hoffman Estates, IL at 11 Golf Center, Hoffman Estates, IL 60195. Phone: +18474909334. Website: https://www.aquariumadventure.com/AquariumAdventureLocations.htm). 233 pet store businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for the United States is Aquarium Adventure (a pet store in Hoffman Estates, IL at 11 Golf Center, Hoffman Estates, IL 60195. Phone: +18474909334. Website: https://www.aquariumadventure.com/AquariumAdventureLocations.htm). 496 pet store businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in the United States?
 
@@ -7,249 +7,255 @@ Also answers: pet store in the United States; pet store near me (the United Stat
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
 1. Aquarium Adventure | trust 20.0 | Aquarium Adventure is a pet store in Hoffman Estates, IL at 11 Golf Center, Hoffman Estates, IL 60195. Phone: +18474909334. Website: https://www.aquariumadventure.com/AquariumAdventureLocations.htm. | https://dingalinged-cpu.github.io/registry/c/aquarium-adventure-hoffman-estates/
-2. Bentley's Pet Stuff | trust 20.0 | Bentley's Pet Stuff is a pet store in Excelsior, MN at 400 Water Street, Excelsior, MN 55331. Phone: +19528554329. Website: https://petstuff.com/. | https://dingalinged-cpu.github.io/registry/c/bentleys-pet-stuff-excelsior/
-3. Birdmans Parrots | trust 20.0 | Birdmans Parrots is a pet store in Niles, IL at 7752 North Milwaukee Avenue, Niles, IL 60714. Phone: +17733173785. Website: https://birdmansparrots.com/. | https://dingalinged-cpu.github.io/registry/c/birdmans-parrots-niles/
-4. Blue Line Coral | trust 20.0 | Blue Line Coral is a pet store in Naperville, IL at 1238 West Ogden Avenue, Naperville, IL 60563. Phone: +16308579166. Website: https://www.bluelinecoral.com/. | https://dingalinged-cpu.github.io/registry/c/blue-line-coral-naperville/
-5. Chi-Town Dog House | trust 20.0 | Chi-Town Dog House is a pet store in Chicago, IL at 2231 West Belmont Avenue, Chicago, IL 60618. Phone: +17733489663. Website: https://www.chitowndoghouse.com/. | https://dingalinged-cpu.github.io/registry/c/chi-town-dog-house-chicago/
-6. Chicago Reptile House | trust 20.0 | Chicago Reptile House is a pet store in Orland Park, IL at 14410 John Humphrey Drive, Orland Park, IL 60462. Phone: +17083499055. Website: https://chicagoreptile.net/. | https://dingalinged-cpu.github.io/registry/c/chicago-reptile-house-orland-park/
-7. Chuck & Don's | trust 20.0 | Chuck & Don's is a pet store in Maple Grove, MN at 8115 Wedgewood Lane #1, Maple Grove, MN 55369. Phone: +17634164877. Website: https://chuckanddons.com/. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-maple-grove/
-8. Chuck & Don's | trust 20.0 | Chuck & Don's is a pet store in Minneapolis, MN at 3246 Lake Street West, Minneapolis, MN 55416. Phone: +16129268161. Website: https://chuckanddons.com/. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-minneapolis/
-9. Chuck & Don's | trust 20.0 | Chuck & Don's is a pet store in Saint Paul, MN at 282 East 6th Street, Saint Paul, MN 55101. Phone: +16122300279. Website: https://chuckanddons.com/stores/view/index/id/034/. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-saint-paul/
-10. Doggy Style Pet Shop | trust 20.0 | Doggy Style Pet Shop is a pet store in Chicago, IL at 2023 West Division Street, Chicago, IL 60622. Phone: +17732359663. Website: https://doggystylepetshop.com/. | https://dingalinged-cpu.github.io/registry/c/doggy-style-pet-shop-chicago/
-11. Fido's Pantry | trust 20.0 | Fido's Pantry is a pet store in Chanhassen, MN at 2473 Minnesota State Highway 7, Chanhassen, MN 55331. Phone: +19524749383. Website: https://www.fidospantry.com/. | https://dingalinged-cpu.github.io/registry/c/fidos-pantry-chanhassen/
-12. Hollywood Feed | trust 20.0 | Hollywood Feed is a pet store in Evanston, IL at 2672 Green Bay Road, Evanston, IL 60201. Phone: +18479050272. Website: https://locations.hollywoodfeed.com/illinois/evanston/. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-evanston/
-13. It's So Fluffy Pet Backery | trust 20.0 | It's So Fluffy Pet Backery is a pet store in Lombard, IL at 225 Yorktown Shopping Center, Lombard, IL 60148. Phone: +16307853400. Website: https://www.itssofluffybakery.com/. | https://dingalinged-cpu.github.io/registry/c/its-so-fluffy-pet-backery-lombard/
-14. It's So Fluffy Pet Bakery | trust 20.0 | It's So Fluffy Pet Bakery is a pet store in Bolingbrook, IL at 643 East Boughton Road #110, Bolingbrook, IL 60440. Phone: +16303128583. Website: https://www.itssofluffybakery.com/. | https://dingalinged-cpu.github.io/registry/c/its-so-fluffy-pet-bakery-bolingbrook/
-15. Kiki's Korner | trust 20.0 | Kiki's Korner is a pet store in Winfield, IL at 27W460 Beecher Ave, #A & B, Winfield, IL 60190. Phone: +16308683160. Website: https://kikiskorner.net/. | https://dingalinged-cpu.github.io/registry/c/kikis-korner-winfield/
-16. Liz's Pet Shop | trust 20.0 | Liz's Pet Shop is a pet store in Chicago, IL at 2403 West Chicago Avenue, Chicago, IL 60622. Phone: +17737724011. Website: https://www.lizspetshop.com/. | https://dingalinged-cpu.github.io/registry/c/lizs-pet-shop-chicago/
-17. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in La Grange, IL at 15 North La Grange Road, La Grange, IL 60525. Phone: +17086032139. Website: https://www.petsuppliesplus.com/store/il/la-grange/4457-la-grange/4457. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-la-grange/
-18. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in Naperville, IL at 720 East Ogden Avenue #110, Naperville, IL 60563. Phone: +16309042100. Website: https://www.petsuppliesplus.com/store/il/naperville/184-north-naperville/184. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-naperville/
-19. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in Wauconda, IL at 535 West Liberty Street, Wauconda, IL 60084. Phone: +18478655695. Website: https://petsuppliesplus.com/store/il/wauconda/4319-wauconda/4319. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-wauconda/
-20. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 3046 North Halsted Street, Chicago, IL 60657. Phone: +17739357547. Website: https://stores.petco.com/. | https://dingalinged-cpu.github.io/registry/c/petco-chicago/
-21. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 2000 North Clybourn Avenue, Chicago, IL 60614. Phone: +17736651368. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-869.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-n11819718923/
-22. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 440 North Orleans Street, Chicago, IL 60654. Phone: +13126703747. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1965.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-n2478422405/
-23. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 6236 North Western Avenue, Chicago, IL 60659. Phone: +17732741608. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1988.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-n7232041442/
-24. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 4039 West Diversey Avenue, Chicago, IL 60647. Phone: +17736870488. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1991.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-n8017941529/
-25. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 611 West Roosevelt Road, Chicago, IL 60607. Phone: +13122432620. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1989.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-n8833158363/
-26. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 3320 North Western Avenue, Chicago, IL 60618. Phone: +17734726186. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-5601.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-n8936283287/
-27. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 4840 North Pulaski Road #100, Chicago, IL 60630. Phone: +17732831248. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1987.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-w162464246/
-28. Petco | trust 20.0 | Petco is a pet store in Coon Rapids, MN at 3380 124th Avenue Northwest, Coon Rapids, MN 55433. Phone: +17635769100. Website: https://stores.petco.com/mn/coonrapids/pet-supplies-coonrapids-mn-884.html. | https://dingalinged-cpu.github.io/registry/c/petco-coon-rapids/
-29. Petco | trust 20.0 | Petco is a pet store in Downers Grove, IL at 1400 75th Street #F, Downers Grove, IL 60516. Phone: +16309601278. Website: https://stores.petco.com/il/downersgrove/pet-supplies-downersgrove-il-1932.html. | https://dingalinged-cpu.github.io/registry/c/petco-downers-grove/
-30. Petco | trust 20.0 | Petco is a pet store in Eagan, MN at 1505 Central Park Commons Drive #100, Eagan, MN 55121. Phone: +16512864898. Website: https://stores.petco.com/mn/eagan/pet-supplies-eagan-mn-2619.html. | https://dingalinged-cpu.github.io/registry/c/petco-eagan/
-31. Petco | trust 20.0 | Petco is a pet store in Eden Prairie, MN at 8020 Glen Lane, Eden Prairie, MN 55344. Phone: +19528298808. Website: https://stores.petco.com/mn/edenprairie/pet-supplies-edenprairie-mn-606.html. | https://dingalinged-cpu.github.io/registry/c/petco-eden-prairie/
-32. Petco | trust 20.0 | Petco is a pet store in Evergreen Park, IL at 9670 South Western Avenue, Evergreen Park, IL 60805. Phone: +17089074297. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1990.html. | https://dingalinged-cpu.github.io/registry/c/petco-evergreen-park/
-33. Petco | trust 20.0 | Petco is a pet store in Glenview, IL at 2727 Pfingsten Road #8, Glenview, IL 60026. Phone: +18475628653. Website: https://stores.petco.com/il/glenview/pet-supplies-glenview-il-5605.html. | https://dingalinged-cpu.github.io/registry/c/petco-glenview/
-34. Petco | trust 20.0 | Petco is a pet store in Highland, IN at 10235 Indianapolis Boulevard, Highland, IN 46322. Phone: +12199249219. Website: https://stores.petco.com/in/highland/pet-supplies-highland-in-860.html. | https://dingalinged-cpu.github.io/registry/c/petco-highland/
-35. Petco | trust 20.0 | Petco is a pet store in Hillside, IL at 160 Mannheim Road #100, Hillside, IL 60162. Phone: +17084932237. Website: https://stores.petco.com/il/hillside/pet-supplies-hillside-il-1981.html. | https://dingalinged-cpu.github.io/registry/c/petco-hillside/
-36. Petco | trust 20.0 | Petco is a pet store in Homewood, IL at 17930 Halsted Street, Homewood, IL 60430. Phone: +17082060639. Website: https://stores.petco.com/il/homewood/pet-supplies-homewood-il-1967.html. | https://dingalinged-cpu.github.io/registry/c/petco-homewood/
-37. Petco | trust 20.0 | Petco is a pet store in Maple Grove, MN at 8010 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634205230. Website: https://stores.petco.com/mn/maplegrove/pet-supplies-maplegrove-mn-625.html. | https://dingalinged-cpu.github.io/registry/c/petco-maple-grove/
-38. Petco | trust 20.0 | Petco is a pet store in New Lenox, IL at 495 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154620639. Website: https://stores.petco.com/il/newlenox/pet-supplies-newlenox-il-2604.html. | https://dingalinged-cpu.github.io/registry/c/petco-new-lenox/
-39. Petco | trust 20.0 | Petco is a pet store in Norridge, IL at 4161 North Harlem Avenue, Norridge, IL 60706. Phone: +17084578603. Website: https://stores.petco.com/il/norridge/pet-supplies-norridge-il-1980.html. | https://dingalinged-cpu.github.io/registry/c/petco-norridge/
-40. Petco | trust 20.0 | Petco is a pet store in Oak Lawn, IL at 6220 West 95th Street, Oak Lawn, IL 60453. Phone: +17084304400. Website: https://stores.petco.com/il/oaklawn/pet-supplies-oaklawn-il-868.html. | https://dingalinged-cpu.github.io/registry/c/petco-oak-lawn/
-41. Petco | trust 20.0 | Petco is a pet store in Orland Park, IL at 15790 South La Grange Road, Orland Park, IL 60462. Phone: +17083647490. Website: https://stores.petco.com/il/orlandpark/pet-supplies-orlandpark-il-1915.html. | https://dingalinged-cpu.github.io/registry/c/petco-orland-park/
-42. Petco | trust 20.0 | Petco is a pet store in Richfield, MN at 710 West 66th Street, Richfield, MN 55423. Phone: +16128611335. Website: https://stores.petco.com/mn/richfield/pet-supplies-richfield-mn-608.html. | https://dingalinged-cpu.github.io/registry/c/petco-richfield/
-43. Petco | trust 20.0 | Petco is a pet store in Romeoville, IL at 369 South Weber Road, Romeoville, IL 60446. Phone: +18158382368. Website: https://stores.petco.com/il/romeoville/pet-supplies-romeoville-il-1979.html. | https://dingalinged-cpu.github.io/registry/c/petco-romeoville/
-44. Petco | trust 20.0 | Petco is a pet store in Saint Paul, MN at 2277 Ford Parkway, Saint Paul, MN 55116. Phone: +16516961906. Website: https://stores.petco.com/mn/st-paul/pet-supplies-st-paul-mn-626.html. | https://dingalinged-cpu.github.io/registry/c/petco-saint-paul/
-45. Petco | trust 20.0 | Petco is a pet store in Schaumburg, IL at 60 East Golf Road, Schaumburg, IL 60173. Phone: +18478848370. Website: https://stores.petco.com/il/schaumburg/pet-supplies-schaumburg-il-698.html. | https://dingalinged-cpu.github.io/registry/c/petco-schaumburg/
-46. Petco | trust 20.0 | Petco is a pet store in Skokie, IL at 9645 Skokie Boulevard, Skokie, IL 60077. Phone: +18476742192. Website: https://stores.petco.com/il/skokie/pet-supplies-skokie-il-1940.html. | https://dingalinged-cpu.github.io/registry/c/petco-skokie/
-47. Petco | trust 20.0 | Petco is a pet store in West Saint Paul, MN at 1970 Robert Street South, West Saint Paul, MN 55118. Phone: +16514506204. Website: https://stores.petco.com/mn/westst-paul/pet-supplies-westst-paul-mn-1652.html. | https://dingalinged-cpu.github.io/registry/c/petco-west-saint-paul/
-48. Petco | trust 20.0 | Petco is a pet store in Wheaton, IL at 23 Danada Square East, Wheaton, IL 60189. Phone: +16306537301. Website: https://stores.petco.com/il/wheaton/pet-supplies-wheaton-il-649.html. | https://dingalinged-cpu.github.io/registry/c/petco-wheaton/
-49. Petco | trust 20.0 | Petco is a pet store in Wood Dale, IL at 391 West Irving Park Road, Wood Dale, IL 60191. Phone: +16307667387. Website: https://stores.petco.com/il/wooddale/pet-supplies-wooddale-il-672.html. | https://dingalinged-cpu.github.io/registry/c/petco-wood-dale/
-50. PetSmart | trust 20.0 | PetSmart is a pet store in Blaine, MN at 10451 Baltimore Street Northeast, Blaine, MN 55449. Phone: +17636143055. Website: https://www.petsmart.com/store-locator/store/. | https://dingalinged-cpu.github.io/registry/c/petsmart-blaine/
-51. PetSmart | trust 20.0 | PetSmart is a pet store in Bolingbrook, IL at 159 North Weber Road, Bolingbrook, IL 60490. Phone: +16307719777. Website: https://www.petsmart.com/stores/us/il/bolingbrook-store1102.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-bolingbrook/
-52. PetSmart | trust 20.0 | PetSmart is a pet store in Broadview, IL at 500 Broadview Village Square, Broadview, IL 60155. Phone: +17083442951. Website: https://www.petsmart.com/stores/us/il/broadview-store0420.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-broadview/
-53. PetSmart | trust 20.0 | PetSmart is a pet store in Burbank, IL at 7730 South Cicero Avenue, Burbank, IL 60459. Phone: +17083469500. Website: https://www.petsmart.com/stores/us/il/burbank-store0423.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-burbank/
-54. PetSmart | trust 20.0 | PetSmart is a pet store in Chicago, IL at 1101 South Canal Street, Chicago, IL 60607. Phone: +13125880138. Website: https://www.petsmart.com/stores/us/il/chicago-store1658.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-chicago/
-55. PetSmart | trust 20.0 | PetSmart is a pet store in Chicago, IL at 1415 North Kingsbury Street, Chicago, IL 60642. Phone: +13122792026. Website: https://www.petsmart.com/stores/us/il/chicago-store2262.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-chicago-n6187928567/
-56. PetSmart | trust 20.0 | PetSmart is a pet store in Chicago, IL at 3736 North Halsted Street, Chicago, IL 60613. Phone: +17732895352. Website: https://www.petsmart.com/stores/us/il/chicago-store2525.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-chicago-n7393995556/
-57. PetSmart | trust 20.0 | PetSmart is a pet store in Chicago, IL at 3319 North Ashland Avenue, Chicago, IL 60657. Phone: +17732895494. Website: https://www.petsmart.com/stores/us/il/chicago-store2554.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-chicago-n7393995561/
-58. PetSmart | trust 20.0 | PetSmart is a pet store in Chicago, IL at 4146 South Pulaski Road, Chicago, IL 60632. Phone: +17732999611. Website: https://www.petsmart.com/stores/us/il/chicago-store2458.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-chicago-n9054882217/
-59. PetSmart | trust 20.0 | PetSmart is a pet store in Chicago, IL at 2257-2291 West Logan Boulevard, Chicago, IL 60647. Phone: +17733421300. Website: https://www.petsmart.com/stores/us/il/chicago-store0428.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-chicago-w209453782/
-60. PetSmart | trust 20.0 | PetSmart is a pet store in Chicago, IL at 5210 North Broadway, Chicago, IL 60640. Phone: +17732500201. Website: https://www.petsmart.com/stores/us/il/chicago-store2524.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-chicago-w293387739/
-61. PetSmart | trust 20.0 | PetSmart is a pet store in Chicago, IL at 4640 West Irving Park Road, Chicago, IL 60641. Phone: +17732729119. Website: https://www.petsmart.com/stores/us/il/chicago-store2526.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-chicago-w322172183/
-62. PetSmart | trust 20.0 | PetSmart is a pet store in Countryside, IL at 24 Countryside Plaza, Countryside, IL 60525. Phone: +17085795948. Website: https://www.petsmart.com/stores/us/il/countryside-store1375.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-countryside/
-63. PetSmart | trust 20.0 | PetSmart is a pet store in Crestwood, IL at 4975 Cal Sag Road, Crestwood, IL 60445. Phone: +17083962900. Website: https://www.petsmart.com/stores/us/il/crestwood-store0432.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-crestwood/
-64. PetSmart | trust 20.0 | PetSmart is a pet store in Darien, IL at 2153 75th Street, Darien, IL 60561. Phone: +16302711223. Website: https://www.petsmart.com/stores/us/il/darien-store0422.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-darien/
-65. PetSmart | trust 20.0 | PetSmart is a pet store in Downers Grove, IL at 1550 Butterfield Road, Downers Grove, IL 60515. Phone: +16306270193. Website: https://www.petsmart.com/stores/us/il/downers-grove-store1136.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-downers-grove/
-66. PetSmart | trust 20.0 | PetSmart is a pet store in Eagan, MN at 1297 Promenade Place #2A, Eagan, MN 55121. Phone: +16514521140. Website: https://www.petsmart.com/stores/us/mn/eagan-store0469.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-eagan/
-67. PetSmart | trust 20.0 | PetSmart is a pet store in Eden Prairie, MN at 11200 Prairie Lakes Drive, Eden Prairie, MN 55344. Phone: +19529414660. Website: https://www.petsmart.com/stores/us/mn/eden-prairie-store0458.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-eden-prairie/
-68. PetSmart | trust 20.0 | PetSmart is a pet store in Evanston, IL at 2221 Oakton Street, Evanston, IL 60202. Phone: +18473281814. Website: https://www.petsmart.com/stores/us/il/evanston-store0427.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-evanston/
-69. PetSmart | trust 20.0 | PetSmart is a pet store in Evergreen Park, IL at 2603 West 95th Street, Evergreen Park, IL 60805. Phone: +17084599112. Website: https://www.petsmart.com/stores/us/il/evergreen-park-store2310.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-evergreen-park/
-70. PetSmart | trust 20.0 | PetSmart is a pet store in Glenview, IL at 1523 Waukegan Road, Glenview, IL 60025. Phone: +18479041556. Website: https://www.petsmart.com/stores/us/il/glenview-store2579.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-glenview/
-71. PetSmart | trust 20.0 | PetSmart is a pet store in Joliet, IL at 2775 Plainfield Road, Joliet, IL 60435. Phone: +18154397100. Website: https://www.petsmart.com/stores/us/il/joliet-store0434.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-joliet/
-72. PetSmart | trust 20.0 | PetSmart is a pet store in Maple Grove, MN at 11200 Fountains Drive, Maple Grove, MN 55369. Phone: +17634243639. Website: https://www.petsmart.com/stores/us/mn/maple-grove-store1585.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-maple-grove/
-73. PetSmart | trust 20.0 | PetSmart is a pet store in Maplewood, MN at 2370 White Bear Avenue North, Maplewood, MN 55109. Phone: +16517779533. Website: https://www.petsmart.com/stores/us/mn/maplewood-store0461.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-maplewood/
-74. PetSmart | trust 20.0 | PetSmart is a pet store in Matteson, IL at 4824 Lincoln Highway, Matteson, IL 60443. Phone: +17083003108. Website: https://www.petsmart.com/stores/us/il/matteson-store2332.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-matteson/
-75. PetSmart | trust 20.0 | PetSmart is a pet store in Merrillville, IN at 2881 East 81st Avenue, Merrillville, IN 46410. Phone: +12199425598. Website: https://www.petsmart.com/stores/us/in/merrillville-store0437.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-merrillville/
-76. PetSmart | trust 20.0 | PetSmart is a pet store in Minneapolis, MN at 1640 New Brighton Boulevard, Minneapolis, MN 55413. Phone: +16127887045. Website: https://www.petsmart.com/stores/us/mn/minneapolis-store0460.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-minneapolis/
-77. PetSmart | trust 20.0 | PetSmart is a pet store in Mokena, IL at 21430 Wolf Road, Mokena, IL 60448. Phone: +18154644979. Website: https://www.petsmart.com/stores/us/il/mokena-store1656.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-mokena/
-78. PetSmart | trust 20.0 | PetSmart is a pet store in Niles, IL at 8287 West Golf Road, Niles, IL 60714. Phone: +18479960867. Website: https://www.petsmart.com/stores/us/il/niles-store1262.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-niles/
-79. PetSmart | trust 20.0 | PetSmart is a pet store in Northbrook, IL at 291 Skokie Boulevard, Northbrook, IL 60062. Phone: +18475620922. Website: https://www.petsmart.com/stores/us/il/northbrook-store0431.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-northbrook/
-80. PetSmart | trust 20.0 | PetSmart is a pet store in Orland Hills, IL at 9277 West 159th Street, Orland Hills, IL 60487. Phone: +17084601116. Website: https://www.petsmart.com/stores/us/il/orland-hills-store0425.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-orland-hills/
-81. PetSmart | trust 20.0 | PetSmart is a pet store in Richfield, MN at 1100 West 78th Street, Richfield, MN 55423. Phone: +16127983665. Website: https://www.petsmart.com/stores/us/mn/richfield-store0459.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-richfield/
-82. PetSmart | trust 20.0 | PetSmart is a pet store in Roseville, MN at 2480 Fairview Avenue North, Roseville, MN 55113. Phone: +16516393912. Website: https://www.petsmart.com/stores/us/mn/roseville-store1971.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-roseville/
-83. PetSmart | trust 20.0 | PetSmart is a pet store in Saint Louis Park, MN at 5640 Cedar Lake Road, Saint Louis Park, MN 55416. Phone: +19527979798. Website: https://www.petsmart.com/stores/us/mn/minneapolis-store0463.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-saint-louis-park/
-84. PetSmart | trust 20.0 | PetSmart is a pet store in Schaumburg, IL at 1440 East Golf Road, Schaumburg, IL 60173. Phone: +18474130982. Website: https://www.petsmart.com/stores/us/il/schaumburg-store1181.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-schaumburg/
-85. PetSmart | trust 20.0 | PetSmart is a pet store in Skokie, IL at 5485 West Touhy Avenue #17, Skokie, IL 60077. Phone: +18476744654. Website: https://www.petsmart.com/stores/us/il/skokie-store1139.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-skokie/
-86. PetSmart | trust 20.0 | PetSmart is a pet store in Tinley Park, IL at 7340 West 191st Street, Tinley Park, IL 60487. Phone: +18154643041. Website: https://www.petsmart.com/stores/us/il/tinley-park-store1641.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-tinley-park/
-87. PetSmart | trust 20.0 | PetSmart is a pet store in Vernon Hills, IL at 700 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18478166251. Website: https://www.petsmart.com/stores/us/il/vernon-hills-store2147.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-vernon-hills/
-88. PetSmart | trust 20.0 | PetSmart is a pet store in Wheaton, IL at 63 Rice Lake Square, Wheaton, IL 60189. Phone: +16304627345. Website: https://www.petsmart.com/stores/us/il/wheaton-store1376.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-wheaton/
-89. Pups Pet Club | trust 20.0 | Pups Pet Club is a pet store in Chicago, IL at 316 West Illinois Street, Chicago, IL 60654. Phone: +13128832340. Website: https://pupspetclub.com/clubs/river-north/. | https://dingalinged-cpu.github.io/registry/c/pups-pet-club-chicago/
-90. Purrniture Cat Furniture | trust 20.0 | Purrniture Cat Furniture is a pet store in Saint Paul, MN at 2242 University Avenue West, Saint Paul, MN 55114. Phone: +16516421946. Website: https://www.purrniture.com/. | https://dingalinged-cpu.github.io/registry/c/purrniture-cat-furniture-saint-paul/
-91. Twin Cities Reptiles | trust 20.0 | Twin Cities Reptiles is a pet store in Saint Paul, MN at 2363 University Avenue West, Saint Paul, MN 55114. Phone: +16516474479. Website: https://www.twincitiesreptiles.net/. | https://dingalinged-cpu.github.io/registry/c/twin-cities-reptiles-saint-paul/
-92. Two Bostons Pet Botique | trust 20.0 | Two Bostons Pet Botique is a pet store in Naperville, IL at 103 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303577621. Website: https://twobostons.com/. | https://dingalinged-cpu.github.io/registry/c/two-bostons-pet-botique-naperville/
-93. Wild Birds Unlimited | trust 20.0 | Wild Birds Unlimited is a pet store in Minnetonka, MN at 11210 Wayzata Boulevard, Minnetonka, MN 55305. Phone: +19525259365. Website: https://minnetonka.wbu.com/. | https://dingalinged-cpu.github.io/registry/c/wild-birds-unlimited-minnetonka/
-94. Blossom Pet Salon | trust 19.0 | Blossom Pet Salon is a pet store in Little Canada, MN at 2900 Rice Street #260, Little Canada, MN. Phone: +16512160542. Website: https://www.blossompetsalonmn.com/. | https://dingalinged-cpu.github.io/registry/c/blossom-pet-salon-little-canada/
-95. Chuck & Don's | trust 19.0 | Chuck & Don's is a pet store in Roseville, MN at 1661 West County Road C, Roseville, MN. Phone: +16512870986. Website: https://chuckanddons.com/a/pages/locations/625/chuck-dons-roseville. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-roseville/
-96. Bark Bark Club | trust 16.0 | Bark Bark Club is a pet store in Chicago, IL at 5943 North Broadway, Chicago, IL 60660. Phone: +17739898807. Website: https://www.barkbarkclub.com/. | https://dingalinged-cpu.github.io/registry/c/bark-bark-club-chicago/
-97. Bentley's Pet Stuff | trust 16.0 | Bentley's Pet Stuff is a pet store in Chicago, IL at 3657 North Southport Avenue, Chicago, IL 60613. Phone: +17738577600. Website: https://petstuff.com/. | https://dingalinged-cpu.github.io/registry/c/bentleys-pet-stuff-chicago-n8704132331/
-98. EarthWise Pet | trust 16.0 | EarthWise Pet is a pet store in Naperville, IL at 790 Royal Saint George Drive #111, Naperville, IL 60563. Phone: +16304709739. Website: https://naperville.earthwisepet.com/. | https://dingalinged-cpu.github.io/registry/c/earthwise-pet-naperville/
-99. Furry Babies | trust 16.0 | Furry Babies is a pet store in Lombard, IL at 170 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16307853064. Website: https://furrybabiespuppies.com/. | https://dingalinged-cpu.github.io/registry/c/furry-babies-lombard/
-100. Hollywood Feed | trust 16.0 | Hollywood Feed is a pet store in Naperville, IL at 1212 South Naper Boulevard #105, Naperville, IL 60540. Phone: +16304458414. Website: https://locations.hollywoodfeed.com/illinois/naperville/1212-s-naper-blvd/. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-naperville/
-101. Pampered Pooch Playground | trust 16.0 | Pampered Pooch Playground is a pet store in Saint Louis Park, MN at 7020 Walker Street, Saint Louis Park, MN 55426. Phone: +19529228183. Website: https://www.pamperedpoochplayground.com/?y_source=1_MjU3NDY4OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D. | https://dingalinged-cpu.github.io/registry/c/pampered-pooch-playground-saint-louis-park/
-102. Pet Wants | trust 16.0 | Pet Wants is a pet store in Naperville, IL at 630 East Ogden Avenue, Naperville, IL 60563. Phone: +16303526062. Website: https://petwantsnaperville.com/shop_home/203278. | https://dingalinged-cpu.github.io/registry/c/pet-wants-naperville/
-103. Premier Aquarium Service | trust 16.0 | Premier Aquarium Service is a pet store in Saint Louis Park, MN at 5801 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16122431335. Website: https://www.premieraquarium.com/. | https://dingalinged-cpu.github.io/registry/c/premier-aquarium-service-saint-louis-park/
-104. Underdog Rescue MN | trust 16.0 | Underdog Rescue MN is a pet store in Saint Louis Park, MN at 3345 Dakota Avenue South, Saint Louis Park, MN 55416. Phone: +19529290777. Website: https://www.underdogrescuemn.com/. | https://dingalinged-cpu.github.io/registry/c/underdog-rescue-mn-saint-louis-park/
-105. Urban Tails Pet Supply | trust 16.0 | Urban Tails Pet Supply is a pet store in Minneapolis, MN at 2106 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16128790709. Website: https://www.urbantailspetsupply.com/. | https://dingalinged-cpu.github.io/registry/c/urban-tails-pet-supply-minneapolis/
-106. Woody's Pet Food Deli | trust 16.0 | Woody's Pet Food Deli is a pet store in Saint Paul, MN at 647 Snelling Avenue South, Saint Paul, MN 55116. Phone: +16514937269. Website: https://www.woodyspetdeli.com/. | https://dingalinged-cpu.github.io/registry/c/woodys-pet-food-deli-saint-paul/
-107. Bentley's Pet Stuff | trust 14.0 | Bentley's Pet Stuff is a pet store in Chicago, IL at 1201 North Wells Street, Chicago, IL 60610. Phone: +13122551955. | https://dingalinged-cpu.github.io/registry/c/bentleys-pet-stuff-chicago/
-108. Birdman's Parrots | trust 14.0 | Birdman's Parrots is a pet store in Des Plaines, IL at 710 Lee Street, Des Plaines, IL 60016. Phone: +17733173785. | https://dingalinged-cpu.github.io/registry/c/birdmans-parrots-des-plaines/
-109. Chuck & Don's | trust 14.0 | Chuck & Don's is a pet store in Minneapolis, MN at 5045 France Avenue South, Minneapolis, MN 55410. Website: https://chuckanddons.com/a/pages/locations/590/50th-france. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-minneapolis-n12138867423/
-110. Follow Your Nose | trust 14.0 | Follow Your Nose is a pet store in Evanston, IL at 917 Chicago Avenue, Evanston, IL 60202. Website: https://www.followyournosehere.com/. | https://dingalinged-cpu.github.io/registry/c/follow-your-nose-evanston/
-111. Happy Dog Barkery | trust 14.0 | Happy Dog Barkery is a pet store in Downers Grove, IL at 5118 Main Street, Downers Grove, IL 60515. Website: https://happydogbarkery.com/. | https://dingalinged-cpu.github.io/registry/c/happy-dog-barkery-downers-grove/
-112. Logan Square PetShoppe | trust 14.0 | Logan Square PetShoppe is a pet store in Chicago, IL at 3145 West Logan Boulevard, Chicago, IL 60647. Phone: +17734890712. | https://dingalinged-cpu.github.io/registry/c/logan-square-petshoppe-chicago/
-113. Pet Supplies Plus | trust 14.0 | Pet Supplies Plus is a pet store in Bloomington, MN at 3701 West Old Shakopee Road #300, Bloomington, MN 55431. Phone: +19528859725. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-bloomington/
-114. Petco | trust 14.0 | Petco is a pet store in Lake Zurich, IL at 787 West Main Street, Lake Zurich, IL 60047. Phone: +18475506760. | https://dingalinged-cpu.github.io/registry/c/petco-lake-zurich/
-115. Petland | trust 14.0 | Petland is a pet store in Merrillville, IN at 1736 East 80th Avenue, Merrillville, IN 46410. Website: https://petlandmerrillville.com/. | https://dingalinged-cpu.github.io/registry/c/petland-merrillville/
-116. Rivershore Aquariums | trust 14.0 | Rivershore Aquariums is a pet store in Minneapolis, MN at 6015 Lyndale Avenue South, Minneapolis, MN 55419. Phone: +16123153946. | https://dingalinged-cpu.github.io/registry/c/rivershore-aquariums-minneapolis/
-117. Stone Mountain Pet Lodge | trust 14.0 | Stone Mountain Pet Lodge is a pet store in Blaine, MN at 9935 Radisson Road Northeast, Blaine, MN 55449. Website: https://stonemountainpetlodge.com/. | https://dingalinged-cpu.github.io/registry/c/stone-mountain-pet-lodge-blaine/
-118. Woodys Pet Food Deli | trust 14.0 | Woodys Pet Food Deli is a pet store in Minneapolis, MN at 3008 West 50th Street, Minneapolis, MN 55410. Website: https://www.woodyspetdeli.com/. | https://dingalinged-cpu.github.io/registry/c/woodys-pet-food-deli-minneapolis/
-119. Cat Amewsement | trust 13.0 | Cat Amewsement is a pet store in Saint Paul, MN at 102 North Sibley Street, Saint Paul, MN. Website: https://www.catamewsement.com/. | https://dingalinged-cpu.github.io/registry/c/cat-amewsement-saint-paul/
-120. Chuck & Don's | trust 13.0 | Chuck & Don's is a pet store in Mahtomedi, MN at 910 Wildwood Road, Mahtomedi, MN. Website: https://stores.chuckanddons.com/mn-mahtomedi-104/. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-mahtomedi/
-121. JustFoodForDogs | trust 12.0 | JustFoodForDogs is a pet store in Chicago, IL. Phone: +13129715724. Website: https://www.justfoodfordogs.com/. | https://dingalinged-cpu.github.io/registry/c/justfoodfordogs-chicago/
-122. Urban Mutt | trust 12.0 | Urban Mutt is a pet store in Brookfield, IL. Phone: +17084848006. Website: https://www.theurbanmuttstore.com/home.html. | https://dingalinged-cpu.github.io/registry/c/urban-mutt-brookfield/
-123. All Pet Supplies | trust 10.0 | All Pet Supplies is a pet store in Gary, IN at 3982 Broadway, Gary, IN 46408. Phone: +12198859670. | https://dingalinged-cpu.github.io/registry/c/all-pet-supplies-gary/
-124. Barking Spot Bakery | trust 10.0 | Barking Spot Bakery is a pet store in Chicago, IL at 131 North Clinton Street, Chicago, IL 60661. Website: https://frenchmarketchicago.com/vendor/barking-spot-bakery-and-boutique/. | https://dingalinged-cpu.github.io/registry/c/barking-spot-bakery-chicago/
-125. Chanhassen Groomers | trust 10.0 | Chanhassen Groomers is a pet store in Chanhassen, MN at 450 West 79th Street, Chanhassen, MN 55317. Phone: +19529345688. | https://dingalinged-cpu.github.io/registry/c/chanhassen-groomers-chanhassen/
-126. Copilot Dog Outfitters | trust 10.0 | Copilot Dog Outfitters is a pet store in Minneapolis, MN. Website: https://copilotdogoutfitters.com/. | https://dingalinged-cpu.github.io/registry/c/copilot-dog-outfitters-minneapolis/
-127. For Dogs Sake | trust 10.0 | For Dogs Sake is a pet store in Chicago, IL at 1757 North Kimball Avenue, Chicago, IL 60647. Website: https://www.fordogsake.com/. | https://dingalinged-cpu.github.io/registry/c/for-dogs-sake-chicago/
-128. Grooming by Galdy | trust 10.0 | Grooming by Galdy is a pet store in Chicago, IL at 7011 North Sheridan Road, Chicago, IL 60626. Phone: +17737642275. | https://dingalinged-cpu.github.io/registry/c/grooming-by-galdy-chicago/
-129. It's So Fluffy Pet Bakery | trust 10.0 | It's So Fluffy Pet Bakery is a pet store in Lombard, IL at 203 Yorktown Shopping Center #205, Lombard, IL 60148. Phone: +16307853400. | https://dingalinged-cpu.github.io/registry/c/its-so-fluffy-pet-bakery-lombard/
-130. Kriser's | trust 10.0 | Kriser's is a pet store in Chicago, IL at 1103 South State Street, Chicago, IL 60605. Website: https://krisers.com/. | https://dingalinged-cpu.github.io/registry/c/krisers-chicago/
-131. Kriser's Natural Pet | trust 10.0 | Kriser's Natural Pet is a pet store in Chicago, IL at 1658 North Milwaukee Avenue #D, Chicago, IL 60647. Website: https://stores.krisers.com/il-chicago-406/. | https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-chicago-n13501901700/
-132. Kriser's Natural Pet | trust 10.0 | Kriser's Natural Pet is a pet store in Wilmette, IL at 3232 Lake Avenue #310, Wilmette, IL 60091. Website: https://stores.krisers.com/il-wilmette-403/. | https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-wilmette/
-133. Old Town Aquarium | trust 10.0 | Old Town Aquarium is a pet store in Chicago, IL at 1538 North Wells Street, Chicago, IL 60610. Website: https://www.oldtownaquarium.com/. | https://dingalinged-cpu.github.io/registry/c/old-town-aquarium-chicago/
-134. Palatine Family Pet Care LLC | trust 10.0 | Palatine Family Pet Care LLC is a pet store in Palatine, IL at 1100 West Northwest Highway, Palatine, IL 60067. Website: https://www.palatinepet.com/. | https://dingalinged-cpu.github.io/registry/c/palatine-family-pet-care-llc-palatine/
-135. Paws Abilities Dog Training | trust 10.0 | Paws Abilities Dog Training is a pet store in Inver Grove Heights, MN at 6475 Cahill Avenue, Inver Grove Heights, MN 55076. Website: https://pawsabilitiesmn.com/. | https://dingalinged-cpu.github.io/registry/c/paws-abilities-dog-training-inver-grove-heights/
-136. Pet Supplies Plus | trust 10.0 | Pet Supplies Plus is a pet store in Arlington Heights, IL at 67 West Golf Road, Arlington Heights, IL 60005. Website: https://www.petsuppliesplus.com/Store/IL/Arlington-Heights/Arlington-Heights/57. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-arlington-heights/
-137. Pet Supplies Plus | trust 10.0 | Pet Supplies Plus is a pet store in Berwyn, IL at 7133 West Cermak Road, Berwyn, IL 60402. Website: https://www.petsuppliesplus.com/Store/IL/Berwyn/Berwyn/4246. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-berwyn/
-138. Pet Supplies Plus | trust 10.0 | Pet Supplies Plus is a pet store in Chicago, IL at 3757 North Lincoln Avenue, Chicago, IL 60613. Phone: +17733277314. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-chicago-n9354635439/
-139. Pet Supplies Plus | trust 10.0 | Pet Supplies Plus is a pet store in Deerfield, IL at 9 North Waukegan Road, Deerfield, IL 60015. Website: https://www.petsuppliesplus.com/Store/IL/Deerfield/Deerfield/237. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-deerfield/
-140. Pet Supplies Plus | trust 10.0 | Pet Supplies Plus is a pet store in Merrionette Park, IL at 3205 West 115th Street, Merrionette Park, IL 60803. Website: https://www.petsuppliesplus.com/Store/IL/MERRIONETTE-PARK/Merrionette-Park/4038. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-merrionette-park/
-141. Pet Supplies Plus | trust 10.0 | Pet Supplies Plus is a pet store in Oak Lawn, IL at 8717 South Ridgeland Avenue, Oak Lawn, IL 60453. Website: https://www.petsuppliesplus.com/Store/IL/Oak-Lawn/Oak-Lawn/4101. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-oak-lawn/
-142. Petco | trust 10.0 | Petco is a pet store in Bloomingdale, IL at 412 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16303071210. | https://dingalinged-cpu.github.io/registry/c/petco-bloomingdale/
-143. Petco | trust 10.0 | Petco is a pet store in North Riverside, IL at 2204 South Harlem Avenue, North Riverside, IL 60546. Website: https://stores.petco.com/il/northriverside/pet-supplies-northriverside-il-648.html. | https://dingalinged-cpu.github.io/registry/c/petco-north-riverside/
-144. The Pet Bodega | trust 10.0 | The Pet Bodega is a pet store in Mount Prospect, IL at 109 East Prospect Avenue, Mount Prospect, IL 60056. Phone: +18472228005. | https://dingalinged-cpu.github.io/registry/c/the-pet-bodega-mount-prospect/
-145. For The Love Of Dogs | trust 9.0 | For The Love Of Dogs is a pet store in Mendota Heights, MN at 2415 Pilot Knob Road, Mendota Heights, MN. Website: https://www.fortheloveofdogstrainingschool.com/. | https://dingalinged-cpu.github.io/registry/c/for-the-love-of-dogs-mendota-heights/
-146. Kriser's Natural Pet | trust 9.0 | Kriser's Natural Pet is a pet store in Chicago, IL at 453 West Chicago Avenue, Chicago, IL. Website: https://stores.krisers.com/il-chicago-414. | https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-chicago-n13571650896/
-147. Pet Supplies Plus | trust 9.0 | Pet Supplies Plus is a pet store in Glen Ellyn, IL at 299 Roosevelt Rd, Glen Ellyn, IL. Phone: +16305101111. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-glen-ellyn/
-148. Bark Place | trust 8.0 | Bark Place is a pet store in Chicago, IL at 1775 West Greenleaf Avenue, Chicago, IL 60626. | https://dingalinged-cpu.github.io/registry/c/bark-place-chicago/
-149. Curious Creatures | trust 8.0 | Curious Creatures is a pet store in Chicago, IL at 4133 North Broadway, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/curious-creatures-chicago/
-150. Fetched-Up | trust 8.0 | Fetched-Up is a pet store in Ramsey, MN at 6111 T.H 10 Service Road #300, Ramsey, MN 55303. | https://dingalinged-cpu.github.io/registry/c/fetched-up-ramsey/
-151. Kriser's | trust 8.0 | Kriser's is a pet store in Chicago, IL at 356 East Ohio Street, Chicago, IL 60611. | https://dingalinged-cpu.github.io/registry/c/krisers-chicago-n3664793223/
-152. Kriser's Natural Pet | trust 8.0 | Kriser's Natural Pet is a pet store in Chicago, IL at 5353 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-chicago/
-153. Paw Naturals | trust 8.0 | Paw Naturals is a pet store in Chicago, IL at 932 West Monroe Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/paw-naturals-chicago/
-154. Pet Supplies Plus | trust 8.0 | Pet Supplies Plus is a pet store in Homer Glen, IL at 12845 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-homer-glen/
-155. Ruff Haus Pets | trust 8.0 | Ruff Haus Pets is a pet store in Chicago, IL at 4768 North Lincoln Avenue, Chicago, IL 60625. | https://dingalinged-cpu.github.io/registry/c/ruff-haus-pets-chicago/
-156. Sprocket & Stone | trust 8.0 | Sprocket & Stone is a pet store in Chicago, IL at 1013 East 53rd Street, Chicago, IL 60615. | https://dingalinged-cpu.github.io/registry/c/sprocket-and-stone-chicago/
-157. The Dog Wash | trust 8.0 | The Dog Wash is a pet store in Wilmette, IL at 340 Linden Avenue, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/the-dog-wash-wilmette/
-158. Pet Stuff | trust 7.0 | Pet Stuff is a pet store in Minnetonka, MN at 14731 Excelsior Boulevard, Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/pet-stuff-minnetonka/
-159. Pet Evolution | trust 6.0 | Pet Evolution is a pet store in Blaine, MN. Website: https://www.petevolution.com/. | https://dingalinged-cpu.github.io/registry/c/pet-evolution-blaine/
-160. Aquarium Adventure - Petland | trust 4.0 | Aquarium Adventure - Petland is a pet store in Bolingbrook, IL at 744 Boughton Road, Bolingbrook, IL 60440. | https://dingalinged-cpu.github.io/registry/c/aquarium-adventure-petland-bolingbrook/
-161. Best Friends Pet Care | trust 4.0 | Best Friends Pet Care is a pet store in Chicago, IL at 1628 North Elston Avenue, Chicago, IL 60642. | https://dingalinged-cpu.github.io/registry/c/best-friends-pet-care-chicago/
-162. Chanhassen Vetrinary Clinic | trust 4.0 | Chanhassen Vetrinary Clinic is a pet store in Chanhassen, MN at 440 West 79th Street, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/chanhassen-vetrinary-clinic-chanhassen/
-163. Chuck & Don's | trust 4.0 | Chuck & Don's is a pet store in Eden Prairie, MN at 8022 Den Road, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-eden-prairie/
-164. Chuck & Don's Pet Food & Supplies | trust 4.0 | Chuck & Don's Pet Food & Supplies is a pet store in Chanhassen, MN at 7818 Market Boulevard, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-and-supplies-chanhassen/
-165. Coral Reef Pet Center | trust 4.0 | Coral Reef Pet Center is a pet store in Norridge, IL at 7723 West Lawrence Avenue, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/coral-reef-pet-center-norridge/
-166. Golly Gear | trust 4.0 | Golly Gear is a pet store in Skokie, IL at 7951 Babb Avenue, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/golly-gear-skokie/
-167. Jules Pet Shop | trust 4.0 | Jules Pet Shop is a pet store in Chicago, IL at 2214 North Milwaukee Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/jules-pet-shop-chicago/
-168. Ludwig's Feed Store | trust 4.0 | Ludwig's Feed Store is a pet store in Lemont Township, IL at 13205 West 131st Street, Lemont Township, IL 60439. | https://dingalinged-cpu.github.io/registry/c/ludwigs-feed-store-lemont-township/
-169. North Minneapolis Pet Resource Center | trust 4.0 | North Minneapolis Pet Resource Center is a pet store in Minneapolis, MN at 2825 North 2nd Street, Minneapolis, MN 55411. | https://dingalinged-cpu.github.io/registry/c/north-minneapolis-pet-resource-center-minneapolis/
-170. Pet Supplies Plus | trust 4.0 | Pet Supplies Plus is a pet store in Chicago, IL at 7220 West Foster Avenue, Chicago, IL 60656. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-chicago/
-171. Pet Supplies Plus | trust 4.0 | Pet Supplies Plus is a pet store in Chicago, IL at 3145 South Ashland Avenue #102, Chicago, IL 60608. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-chicago-n8218212119/
-172. Pet Supplies Plus | trust 4.0 | Pet Supplies Plus is a pet store in Chicago, IL at 1289 North Milwaukee Avenue, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-chicago-w1354203169/
-173. Pet Supplies Plus | trust 4.0 | Pet Supplies Plus is a pet store in Chicago, IL at 3640 North Elston Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-chicago-w163907086/
-174. Pet Supplies Plus | trust 4.0 | Pet Supplies Plus is a pet store in Elmwood Park, IL at 1748 North Harlem Avenue, Elmwood Park, IL 60707. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-elmwood-park/
-175. Pet Supplies Plus | trust 4.0 | Pet Supplies Plus is a pet store in Evanston, IL at 1916 Dempster Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-evanston/
-176. Pet Supplies Plus | trust 4.0 | Pet Supplies Plus is a pet store in Lincolnwood, IL at 7031 North Lincoln Avenue, Lincolnwood, IL 60712. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-lincolnwood/
-177. Pet Supplies Plus | trust 4.0 | Pet Supplies Plus is a pet store in Morton Grove, IL at 7204 West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-morton-grove/
-178. Petland | trust 4.0 | Petland is a pet store in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/petland-hoffman-estates/
-179. Petropawlis | trust 4.0 | Petropawlis is a pet store in Saint Louis Park, MN at 6500 Lake Street West, Saint Louis Park, MN 55426. | https://dingalinged-cpu.github.io/registry/c/petropawlis-saint-louis-park/
-180. PetSmart | trust 4.0 | PetSmart is a pet store in River Forest, IL at 7265 Lake Street, River Forest, IL 60305. | https://dingalinged-cpu.github.io/registry/c/petsmart-river-forest/
-181. Pink Poodle Dog Grooming | trust 4.0 | Pink Poodle Dog Grooming is a pet store in Chicago, IL at 5510 West Lawrence Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/pink-poodle-dog-grooming-chicago/
-182. Re-tails | trust 4.0 | Re-tails is a pet store in Chicago, IL at 5514 West Lawrence Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/re-tails-chicago/
-183. Regal Pet Grooming | trust 4.0 | Regal Pet Grooming is a pet store in Minneapolis, MN at 2700 East 38th Street, Minneapolis, MN 55406. | https://dingalinged-cpu.github.io/registry/c/regal-pet-grooming-minneapolis/
-184. Spotless Self-Serve Dog Wash | trust 4.0 | Spotless Self-Serve Dog Wash is a pet store in Evanston, IL at 1121 Emerson Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/spotless-self-serve-dog-wash-evanston/
-185. The Real Meal | trust 4.0 | The Real Meal is a pet store in Chicago, IL at 7529 North Claremont Avenue, Chicago, IL 60645. | https://dingalinged-cpu.github.io/registry/c/the-real-meal-chicago/
-186. Thee Fish Bowl | trust 4.0 | Thee Fish Bowl is a pet store in Evanston, IL at 600 Dempster Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/thee-fish-bowl-evanston/
-187. Wilmette Pet Center | trust 4.0 | Wilmette Pet Center is a pet store in Wilmette, IL at 625 Green Bay Road, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/wilmette-pet-center-wilmette/
-188. Chuck and Don's | trust 3.0 | Chuck and Don's is a pet store in Eagan, MN at 1254, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-eagan/
-189. Cocobear Pet Care | trust 3.0 | Cocobear Pet Care is a pet store in Saint Paul, MN at 197, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/cocobear-pet-care-saint-paul/
-190. Your Pet's Wellness | trust 3.0 | Your Pet's Wellness is a pet store in Chicago, IL at 2659 North Milwaukee Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/your-pets-wellness-chicago/
-191. Pet Supplies Plus | trust 1.0 | Pet Supplies Plus is a pet store in Dyer, IN. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-dyer/
-192. American Tails Pet Supply | trust 0.0 | American Tails Pet Supply is a pet store in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/american-tails-pet-supply-lombard/
-193. Animal Relief Area | trust 0.0 | Animal Relief Area is a pet store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/animal-relief-area-chicago/
-194. Bark N' Bites | trust 0.0 | Bark N' Bites is a pet store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/bark-n-bites-chicago/
-195. Barks N' Rec | trust 0.0 | Barks N' Rec is a pet store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/barks-n-rec-chicago/
-196. Bentley's Pet Food | trust 0.0 | Bentley's Pet Food is a pet store in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/bentleys-pet-food-hoffman-estates/
-197. Betta World | trust 0.0 | Betta World is a pet store in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/betta-world-saint-paul/
-198. Bubbles 2 Biscuits | trust 0.0 | Bubbles 2 Biscuits is a pet store in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/bubbles-2-biscuits-rogers/
-199. Chuck & Don's Pet Food & Supplies | trust 0.0 | Chuck & Don's Pet Food & Supplies is a pet store in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-and-supplies-minneapolis/
-200. Chuck & Don's pet food and supplies | trust 0.0 | Chuck & Don's pet food and supplies is a pet store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-and-supplies-minnetonka/
-201. Chuck & Don's Pet Food Outlet | trust 0.0 | Chuck & Don's Pet Food Outlet is a pet store in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-outlet-saint-paul/
-202. Chuck and Don's | trust 0.0 | Chuck and Don's is a pet store in Wayzata, MN. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-wayzata/
-203. For the Birds | trust 0.0 | For the Birds is a pet store in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/for-the-birds-brookfield/
-204. Golf Rose Pet Store | trust 0.0 | Golf Rose Pet Store is a pet store in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/golf-rose-pet-store-schaumburg/
-205. Healthy Hounds | trust 0.0 | Healthy Hounds is a pet store in Flossmoor, IL. | https://dingalinged-cpu.github.io/registry/c/healthy-hounds-flossmoor/
-206. Kriser's Natural Pet | trust 0.0 | Kriser's Natural Pet is a pet store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-chicago-n12434602345/
-207. Kriser's Natural Pet | trust 0.0 | Kriser's Natural Pet is a pet store in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-orland-park/
-208. Natural Pet Market | trust 0.0 | Natural Pet Market is a pet store in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/natural-pet-market-wheaton/
-209. Pawz & Klawz Pet Salon | trust 0.0 | Pawz & Klawz Pet Salon is a pet store in Lemont Township, IL. | https://dingalinged-cpu.github.io/registry/c/pawz-and-klawz-pet-salon-lemont-township/
-210. Pet & Mac's Pet Resort | trust 0.0 | Pet & Mac's Pet Resort is a pet store in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/pet-and-macs-pet-resort-palatine/
-211. Pet Evolution | trust 0.0 | Pet Evolution is a pet store in Arden Hills, MN. | https://dingalinged-cpu.github.io/registry/c/pet-evolution-arden-hills/
-212. Pet Spa | trust 0.0 | Pet Spa is a pet store in Chaska, MN. | https://dingalinged-cpu.github.io/registry/c/pet-spa-chaska/
-213. Pet Supplies Plus | trust 0.0 | Pet Supplies Plus is a pet store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-bolingbrook/
-214. Pet Supplies Plus | trust 0.0 | Pet Supplies Plus is a pet store in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-crystal/
-215. Pet Supplies Plus | trust 0.0 | Pet Supplies Plus is a pet store in Fridley, MN. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-fridley/
-216. Pet Supplies Plus | trust 0.0 | Pet Supplies Plus is a pet store in Libertyville, IL. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-libertyville/
-217. Pet Supplies Plus | trust 0.0 | Pet Supplies Plus is a pet store in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-minneapolis/
-218. Pet Supplies Plus | trust 0.0 | Pet Supplies Plus is a pet store in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-orland-park/
-219. Pet Supplies Plus | trust 0.0 | Pet Supplies Plus is a pet store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-roseville/
-220. Pet Supplies Plus | trust 0.0 | Pet Supplies Plus is a pet store in Streamwood, IL. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-streamwood/
-221. Pet Supplies Plus | trust 0.0 | Pet Supplies Plus is a pet store in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-westmont/
-222. Pet Wants | trust 0.0 | Pet Wants is a pet store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/pet-wants-chicago/
-223. Petco | trust 0.0 | Petco is a pet store in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/petco-blaine/
-224. Petco | trust 0.0 | Petco is a pet store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/petco-roseville/
-225. Petco | trust 0.0 | Petco is a pet store in Willowbrook, IL. | https://dingalinged-cpu.github.io/registry/c/petco-willowbrook/
-226. PetPeople | trust 0.0 | PetPeople is a pet store in Lake Forest, IL. | https://dingalinged-cpu.github.io/registry/c/petpeople-lake-forest/
-227. PetPeople | trust 0.0 | PetPeople is a pet store in Western Springs, IL. | https://dingalinged-cpu.github.io/registry/c/petpeople-western-springs/
-228. PetSmart | trust 0.0 | PetSmart is a pet store in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/petsmart-plymouth/
-229. The Urban Mutt | trust 0.0 | The Urban Mutt is a pet store in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/the-urban-mutt-la-grange/
-230. Total Dog Company | trust 0.0 | Total Dog Company is a pet store in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/total-dog-company-new-hope/
-231. Two Bostons | trust 0.0 | Two Bostons is a pet store in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/two-bostons-burr-ridge/
-232. Wet Nose | trust 0.0 | Wet Nose is a pet store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/wet-nose-oak-brook/
-233. Wild Bird | trust 0.0 | Wild Bird is a pet store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/wild-bird-minnetonka/
+2. Bark Avenue Market & Bakery | trust 20.0 | Bark Avenue Market & Bakery is a pet store in Colleyville, TX at 5615 Colleyville Boulevard #230, Colleyville, TX 76034. Phone: +18176562275. Website: https://barkavenuemarket.com/. | https://dingalinged-cpu.github.io/registry/c/bark-avenue-market-and-bakery-colleyville/
+3. Bark n' Scratch Outpost | trust 20.0 | Bark n' Scratch Outpost is a pet store in Milwaukee, WI at 5835 West Bluemound Road, Milwaukee, WI 53213. Phone: +14144444110. Website: https://milwaukeepetfood.com/. | https://dingalinged-cpu.github.io/registry/c/bark-n-scratch-outpost-milwaukee/
+4. Bentley's Pet Stuff | trust 20.0 | Bentley's Pet Stuff is a pet store in Excelsior, MN at 400 Water Street, Excelsior, MN 55331. Phone: +19528554329. Website: https://petstuff.com/. | https://dingalinged-cpu.github.io/registry/c/bentleys-pet-stuff-excelsior/
+5. Best Fish | trust 20.0 | Best Fish is a pet store in Milwaukee, WI at 1335 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14142240486. Website: https://bestfish.us/. | https://dingalinged-cpu.github.io/registry/c/best-fish-milwaukee/
+6. Birdmans Parrots | trust 20.0 | Birdmans Parrots is a pet store in Niles, IL at 7752 North Milwaukee Avenue, Niles, IL 60714. Phone: +17733173785. Website: https://birdmansparrots.com/. | https://dingalinged-cpu.github.io/registry/c/birdmans-parrots-niles/
+7. Blue Line Coral | trust 20.0 | Blue Line Coral is a pet store in Naperville, IL at 1238 West Ogden Avenue, Naperville, IL 60563. Phone: +16308579166. Website: https://www.bluelinecoral.com/. | https://dingalinged-cpu.github.io/registry/c/blue-line-coral-naperville/
+8. Chi-Town Dog House | trust 20.0 | Chi-Town Dog House is a pet store in Chicago, IL at 2231 West Belmont Avenue, Chicago, IL 60618. Phone: +17733489663. Website: https://www.chitowndoghouse.com/. | https://dingalinged-cpu.github.io/registry/c/chi-town-dog-house-chicago/
+9. Chicago Reptile House | trust 20.0 | Chicago Reptile House is a pet store in Orland Park, IL at 14410 John Humphrey Drive, Orland Park, IL 60462. Phone: +17083499055. Website: https://chicagoreptile.net/. | https://dingalinged-cpu.github.io/registry/c/chicago-reptile-house-orland-park/
+10. Chuck & Don's | trust 20.0 | Chuck & Don's is a pet store in Maple Grove, MN at 8115 Wedgewood Lane #1, Maple Grove, MN 55369. Phone: +17634164877. Website: https://chuckanddons.com/. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-maple-grove/
+11. Chuck & Don's | trust 20.0 | Chuck & Don's is a pet store in Minneapolis, MN at 3246 Lake Street West, Minneapolis, MN 55416. Phone: +16129268161. Website: https://chuckanddons.com/. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-minneapolis/
+12. Chuck & Don's | trust 20.0 | Chuck & Don's is a pet store in Saint Paul, MN at 282 East 6th Street, Saint Paul, MN 55101. Phone: +16122300279. Website: https://chuckanddons.com/stores/view/index/id/034/. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-saint-paul/
+13. Dallas North Aquarium | trust 20.0 | Dallas North Aquarium is a pet store in Carrollton, TX at 2910 E Trinity Mills Road, Carrollton, TX 75006. Phone: +19724926165. Website: https://dallasnorthaquarium.com/. | https://dingalinged-cpu.github.io/registry/c/dallas-north-aquarium-carrollton/
+14. DFW Reptile | trust 20.0 | DFW Reptile is a pet store in Dallas, TX at 2410 South Tyler Street, Dallas, TX 75224. Phone: +17175218855. Website: https://www.dfwreptileco.com/. | https://dingalinged-cpu.github.io/registry/c/dfw-reptile-dallas/
+15. Dog-Gone Lovely | trust 20.0 | Dog-Gone Lovely is a pet store in West Allis, WI at 11076 West National Avenue, West Allis, WI 53227. Phone: +14143270166. Website: https://doggonelovely.com/. | https://dingalinged-cpu.github.io/registry/c/dog-gone-lovely-west-allis/
+16. Doggy Style Pet Shop | trust 20.0 | Doggy Style Pet Shop is a pet store in Chicago, IL at 2023 West Division Street, Chicago, IL 60622. Phone: +17732359663. Website: https://doggystylepetshop.com/. | https://dingalinged-cpu.github.io/registry/c/doggy-style-pet-shop-chicago/
+17. Fido's Pantry | trust 20.0 | Fido's Pantry is a pet store in Chanhassen, MN at 2473 Minnesota State Highway 7, Chanhassen, MN 55331. Phone: +19524749383. Website: https://www.fidospantry.com/. | https://dingalinged-cpu.github.io/registry/c/fidos-pantry-chanhassen/
+18. Friends of Nature | trust 20.0 | Friends of Nature is a pet store in Menomonee Falls, WI at N88W15483 Main Street, Menomonee Falls, WI 53051. Phone: +12622539889. Website: https://friendsofnaturewi.com/. | https://dingalinged-cpu.github.io/registry/c/friends-of-nature-menomonee-falls/
+19. Hollyweed Feed | trust 20.0 | Hollyweed Feed is a pet store in Dallas, TX at 7150 Skillman Street #100, Dallas, TX 75231. Phone: +14694536247. Website: https://locations.hollywoodfeed.com/tx/dallas/7150-skillman-st.html. | https://dingalinged-cpu.github.io/registry/c/hollyweed-feed-dallas/
+20. Hollywood Feed | trust 20.0 | Hollywood Feed is a pet store in Evanston, IL at 2672 Green Bay Road, Evanston, IL 60201. Phone: +18479050272. Website: https://locations.hollywoodfeed.com/illinois/evanston/. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-evanston/
+21. Hollywood Feed | trust 20.0 | Hollywood Feed is a pet store in Rockwall, TX at 2930 Ridge Road, Rockwall, TX 75032. Phone: +14698682050. Website: https://locations.hollywoodfeed.com/texas/rockwall/2930-ridge-rd/. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-rockwall/
+22. Infinite Aquatics | trust 20.0 | Infinite Aquatics is a pet store in Pasadena, TX at 7407 Spencer Highway #440, Pasadena, TX 77505. Phone: +12818848431. Website: https://infiniteaquatics.net/. | https://dingalinged-cpu.github.io/registry/c/infinite-aquatics-pasadena/
+23. It's So Fluffy Pet Backery | trust 20.0 | It's So Fluffy Pet Backery is a pet store in Lombard, IL at 225 Yorktown Shopping Center, Lombard, IL 60148. Phone: +16307853400. Website: https://www.itssofluffybakery.com/. | https://dingalinged-cpu.github.io/registry/c/its-so-fluffy-pet-backery-lombard/
+24. It's So Fluffy Pet Bakery | trust 20.0 | It's So Fluffy Pet Bakery is a pet store in Bolingbrook, IL at 643 East Boughton Road #110, Bolingbrook, IL 60440. Phone: +16303128583. Website: https://www.itssofluffybakery.com/. | https://dingalinged-cpu.github.io/registry/c/its-so-fluffy-pet-bakery-bolingbrook/
+25. Kiki's Korner | trust 20.0 | Kiki's Korner is a pet store in Winfield, IL at 27W460 Beecher Ave, #A & B, Winfield, IL 60190. Phone: +16308683160. Website: https://kikiskorner.net/. | https://dingalinged-cpu.github.io/registry/c/kikis-korner-winfield/
+26. Liz's Pet Shop | trust 20.0 | Liz's Pet Shop is a pet store in Chicago, IL at 2403 West Chicago Avenue, Chicago, IL 60622. Phone: +17737724011. Website: https://www.lizspetshop.com/. | https://dingalinged-cpu.github.io/registry/c/lizs-pet-shop-chicago/
+27. Midwest Pet Feed | trust 20.0 | Midwest Pet Feed is a pet store in Union Grove, WI at 1330 15th Avenue, Union Grove, WI 53182. Phone: +12623327468. Website: https://midwestpetfeed.com/. | https://dingalinged-cpu.github.io/registry/c/midwest-pet-feed-union-grove/
+28. Natural Pawz | trust 20.0 | Natural Pawz is a pet store in Houston, TX at 4015 Washington Avenue #A, Houston, TX 77007. Phone: +13469801975. Website: https://naturalpawz.com/a/pages/locations/517/washington-ave. | https://dingalinged-cpu.github.io/registry/c/natural-pawz-houston-n9711569283/
+29. Pet Supermarket | trust 20.0 | Pet Supermarket is a pet store in North Richland Hills, TX at 8500 North Tarrant Parkway, North Richland Hills, TX 76182. Phone: +18176059604. Website: https://www.petsupermarket.com/storelocator/?storeId=264. | https://dingalinged-cpu.github.io/registry/c/pet-supermarket-north-richland-hills/
+30. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in Dallas, TX at 6060 East Mockingbird Lane #A, Dallas, TX 75206. Phone: +12148271248. Website: https://www.petsuppliesplus.com/store/tx/dallas/7002-dallas---mockingbird-ln/7002. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-dallas/
+31. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in Fate, TX at 5000 East Interstate 30 #140, Fate, TX 75189. Phone: +14693385280. Website: https://www.petsuppliesplus.com/store/tx/fate/4222-fate/4222. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-fate/
+32. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in Frisco, TX at 12205 Teel Parkway #300, Frisco, TX 75033. Phone: +14698035712. Website: https://www.petsuppliesplus.com/store/tx/frisco/frisco/4133. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-frisco/
+33. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in Greenfield, WI at 4505 South 76th Street, Greenfield, WI 53220. Phone: +14145459790. Website: https://www.petsuppliesplus.com/store/wi/greenfield/81-greenfield/81. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-greenfield/
+34. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in La Grange, IL at 15 North La Grange Road, La Grange, IL 60525. Phone: +17086032139. Website: https://www.petsuppliesplus.com/store/il/la-grange/4457-la-grange/4457. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-la-grange/
+35. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in Missouri City, TX at 9018 Sienna Crossing Drive #200, Missouri City, TX 77459. Phone: +13463967387. Website: https://www.petsuppliesplus.com/store/tx/missouri-city/4427-sienna/4427. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-missouri-city/
+36. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in Naperville, IL at 720 East Ogden Avenue #110, Naperville, IL 60563. Phone: +16309042100. Website: https://www.petsuppliesplus.com/store/il/naperville/184-north-naperville/184. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-naperville/
+37. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in Wauconda, IL at 535 West Liberty Street, Wauconda, IL 60084. Phone: +18478655695. Website: https://petsuppliesplus.com/store/il/wauconda/4319-wauconda/4319. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-wauconda/
+38. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in Wylie, TX at 807 Woodbridge Parkway, Wylie, TX 75098. Phone: +14699916200. Website: https://www.petsuppliesplus.com/store/tx/wylie/4140-wylie/4140. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-wylie/
+39. Pet Wants Roanoke | trust 20.0 | Pet Wants Roanoke is a pet store in Roanoke, TX at 2550 Bobcat Boulevard #101, Roanoke, TX 76262. Phone: +19728980415. Website: https://www.petwantsroanoke.com/. | https://dingalinged-cpu.github.io/registry/c/pet-wants-roanoke-roanoke/
+40. Petco | trust 20.0 | Petco is a pet store in Arlington, TX at 4001 West Green Oaks Boulevard #159, Arlington, TX 76016. Phone: +18174782741. Website: https://stores.petco.com/tx/arlington/pet-supplies-arlington-tx-2418.html. | https://dingalinged-cpu.github.io/registry/c/petco-arlington/
+41. Petco | trust 20.0 | Petco is a pet store in Baytown, TX at 4665 Garth Road #400, Baytown, TX 77521. Phone: +12814274374. Website: https://stores.petco.com/tx/baytown/pet-supplies-baytown-tx-1487.html. | https://dingalinged-cpu.github.io/registry/c/petco-baytown/
+42. Petco | trust 20.0 | Petco is a pet store in Carrollton, TX at 2722 North Josey Lane #107, Carrollton, TX 75007. Phone: +19724662822. Website: https://stores.petco.com/tx/carrollton/pet-supplies-carrollton-tx-430.html. | https://dingalinged-cpu.github.io/registry/c/petco-carrollton/
+43. Petco | trust 20.0 | Petco is a pet store in Cedar Hill, TX at 433 East FM 1382 Bld H, Cedar Hill, TX 75104. Phone: +19722931092. Website: https://stores.petco.com/tx/cedarhill/pet-supplies-cedarhill-tx-1401.html. | https://dingalinged-cpu.github.io/registry/c/petco-cedar-hill/
+44. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 3046 North Halsted Street, Chicago, IL 60657. Phone: +17739357547. Website: https://stores.petco.com/. | https://dingalinged-cpu.github.io/registry/c/petco-chicago/
+45. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 2000 North Clybourn Avenue, Chicago, IL 60614. Phone: +17736651368. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-869.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-n11819718923/
+46. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 440 North Orleans Street, Chicago, IL 60654. Phone: +13126703747. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1965.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-n2478422405/
+47. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 6236 North Western Avenue, Chicago, IL 60659. Phone: +17732741608. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1988.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-n7232041442/
+48. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 4039 West Diversey Avenue, Chicago, IL 60647. Phone: +17736870488. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1991.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-n8017941529/
+49. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 611 West Roosevelt Road, Chicago, IL 60607. Phone: +13122432620. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1989.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-n8833158363/
+50. Petco | trust 20.0 | Petco is a pet store in Chicago, IL at 3320 North Western Avenue, Chicago, IL 60618. Phone: +17734726186. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-5601.html. | https://dingalinged-cpu.github.io/registry/c/petco-chicago-n8936283287/
+
+## More pet store listings (496 total; top 50 unpaid shown)
+- Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/pet-store.jsonl
+- Chicago, IL: 55 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-chicago-il/
+- Houston, TX: 43 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-houston-tx/
+- Dallas, TX: 24 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-dallas-tx/
+- Minneapolis, MN: 11 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-minneapolis-mn/
+- Saint Paul, MN: 9 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-saint-paul-mn/
+- Plano, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-plano-tx/
+- Carrollton, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-carrollton-tx/
+- Naperville, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-naperville-il/
+- Evanston, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-evanston-il/
+- Humble, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-humble-tx/
+- Flower Mound, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-flower-mound-tx/
+- Richardson, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-richardson-tx/
+- Harris County, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-harris-county-tx/
+- The Woodlands, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-the-woodlands-tx/
+- Frisco, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-frisco-tx/
+- Irving, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-irving-tx/
+- Saint Louis Park, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-saint-louis-park-mn/
+- Denton, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-denton-tx/
+- Arlington, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-arlington-tx/
+- Conroe, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-conroe-tx/
+- Garland, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-garland-tx/
+- Lewisville, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-lewisville-tx/
+- Katy, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-katy-tx/
+- Lombard, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-lombard-il/
+- Bolingbrook, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-bolingbrook-il/
+- Orland Park, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-orland-park-il/
+- Milwaukee, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-milwaukee-wi/
+- Brookfield, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-brookfield-wi/
+- Mount Pleasant, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-mount-pleasant-wi/
+- Greenfield, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-greenfield-wi/
+- Chanhassen, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-chanhassen-mn/
+- Minnetonka, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-minnetonka-mn/
+- Roseville, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-roseville-mn/
+- Blaine, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-blaine-mn/
+- Mckinney, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-mckinney-tx/
+- Prosper, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-prosper-tx/
+- Rockwall, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-rockwall-tx/
+- Sugar Land, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-sugar-land-tx/
+- League City, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-league-city-tx/
+- Hoffman Estates, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-hoffman-estates-il/
+- Schaumburg, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-schaumburg-il/
+- Skokie, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-skokie-il/
+- Downers Grove, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-downers-grove-il/
+- Wilmette, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-wilmette-il/
+- Wheaton, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-wheaton-il/
+- Racine, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-racine-wi/
+- West Allis, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-west-allis-wi/
+- Eagan, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-eagan-mn/
+- Eden Prairie, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-eden-prairie-mn/
+- Maple Grove, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-maple-grove-mn/
+- Colleyville, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-colleyville-tx/
+- Highland Village, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-highland-village-tx/
+- Montgomery County, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-montgomery-county-tx/
+- Southlake, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-southlake-tx/
+- Addison, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-addison-tx/
+- Hurst, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-hurst-tx/
+- University Park, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-university-park-tx/
+- North Richland Hills, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-north-richland-hills-tx/
+- Fort Bend County, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-fort-bend-county-tx/
+- Wylie, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-wylie-tx/
+- Duncanville, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-duncanville-tx/
+- Roanoke, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-roanoke-tx/
+- Baytown, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-baytown-tx/
+- Cedar Hill, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-cedar-hill-tx/
+- Mansfield, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-mansfield-tx/
+- Richmond, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-richmond-tx/
+- Shenandoah, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-shenandoah-tx/
+- Hobart, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-hobart-in/
+- Merrillville, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-merrillville-in/
+- Niles, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-niles-il/
+- Norridge, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-norridge-il/
+- Brookfield, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-brookfield-il/
+- Lemont Township, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-lemont-township-il/
+- Palatine, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-palatine-il/
+- La Grange, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-la-grange-il/
+- Oak Lawn, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-oak-lawn-il/
+- Evergreen Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-evergreen-park-il/
+- Glenview, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-glenview-il/
+- Wauwatosa, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-wauwatosa-wi/
+- Slinger, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-slinger-wi/
+- Union Grove, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-union-grove-wi/
+- West Bend, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-west-bend-wi/
+- Waukesha, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-waukesha-wi/
+- Oak Creek, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-oak-creek-wi/
+- Mequon, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-mequon-wi/
+- Richfield, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-richfield-mn/
+- Splendora, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-splendora-tx/
+- Coppell, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-coppell-tx/
+- Deer Park, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-deer-park-tx/
+- Pasadena, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-pasadena-tx/
+- Fate, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-fate-tx/
+- Missouri City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-missouri-city-tx/
+- Trophy Club, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-trophy-club-tx/
+- Bedford, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-bedford-tx/
+- Grapevine, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-grapevine-tx/
+- Keller, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-keller-tx/
+- Midlothian, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-midlothian-tx/
+- Rosenberg, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-rosenberg-tx/
+- Allen, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-allen-tx/
+- Dickinson, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-dickinson-tx/
+- Euless, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-euless-tx/
+- Magnolia, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-magnolia-tx/
+- Mesquite, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-mesquite-tx/
+- Pearland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-pearland-tx/
+- Rowlett, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-rowlett-tx/
+- Tomball, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-tomball-tx/
+- Webster, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-webster-tx/
+- Lancaster, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-lancaster-tx/
+- Farmers Branch, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-farmers-branch-tx/
+- Grand Prairie, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-grand-prairie-tx/
+- Gary, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-gary-in/
+- Dyer, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-dyer-in/
+- Highland, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-highland-in/
+- Des Plaines, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-des-plaines-il/
+- Flossmoor, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-flossmoor-il/
+- Winfield, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-winfield-il/
+- Arlington Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-arlington-heights-il/
+- Berwyn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-berwyn-il/
+- Deerfield, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-deerfield-il/
+- Elmwood Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-elmwood-park-il/
+- Glen Ellyn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-glen-ellyn-il/
+- Homer Glen, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-homer-glen-il/
+- Libertyville, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-libertyville-il/
+- Lincolnwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-lincolnwood-il/
+- Merrionette Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-merrionette-park-il/
+- Morton Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-morton-grove-il/
+- Streamwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-streamwood-il/
+- Wauconda, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-wauconda-il/
+- Westmont, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-westmont-il/
+- Bloomingdale, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-bloomingdale-il/
+- Hillside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-hillside-il/
+- Homewood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-homewood-il/
+- Lake Zurich, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-lake-zurich-il/
+- New Lenox, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-new-lenox-il/
+- North Riverside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-north-riverside-il/
+- Romeoville, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-romeoville-il/
+- Willowbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-willowbrook-il/
+- Wood Dale, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-wood-dale-il/
+- Lake Forest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-lake-forest-il/
+- Western Springs, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-western-springs-il/
+- Broadview, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-broadview-il/
+- Burbank, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-burbank-il/
+- Countryside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-countryside-il/
+- Crestwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-crestwood-il/
+- Darien, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-darien-il/
+- Joliet, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-joliet-il/
+- Matteson, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-matteson-il/
+- Mokena, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-mokena-il/
+- Northbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-northbrook-il/
+- Orland Hills, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-orland-hills-il/
+- River Forest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-river-forest-il/
+- Tinley Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-tinley-park-il/
+- Vernon Hills, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-vernon-hills-il/
+- Mount Prospect, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-mount-prospect-il/
+- Burr Ridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-burr-ridge-il/
+- Oak Brook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-oak-brook-il/
+- Bayside, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-bayside-wi/
+- Menomonee Falls, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-menomonee-falls-wi/
+- Franklin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-franklin-wi/
+- Hales Corners, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-hales-corners-wi/
+- Whitefish Bay, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-whitefish-bay-wi/
+- Waterford, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-waterford-wi/
+- Glendale, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-glendale-wi/
+- Saint Francis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-saint-francis-wi/
+- Village Of Germantown, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-village-of-germantown-wi/
+- Grafton, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-grafton-wi/
+- Village Of Pewaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-village-of-pewaukee-wi/
+- New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-new-berlin-wi/
+- Excelsior, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-excelsior-mn/
+- Little Canada, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-little-canada-mn/
+- Rogers, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-rogers-mn/
+- Mahtomedi, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-mahtomedi-mn/
+- Wayzata, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-wayzata-mn/
+- Ramsey, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-ramsey-mn/
+- Mendota Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-mendota-heights-mn/
+- Inver Grove Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-inver-grove-heights-mn/
+- Arden Hills, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-arden-hills-mn/
+- Chaska, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-chaska-mn/
+- Bloomington, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-bloomington-mn/
+- Crystal, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-crystal-mn/
+- Fridley, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-fridley-mn/
+- Coon Rapids, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-coon-rapids-mn/
+- West Saint Paul, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-west-saint-paul-mn/
+- Maplewood, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-maplewood-mn/
+- Plymouth, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-plymouth-mn/
+- New Hope, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/pet-store-new-hope-mn/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
-- US monthly searches: 140,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
 - CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 233
+- Registry businesses competing: 496
 - Equivalent Google Ads cost per month: ~$52,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pet-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pet-store | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pet-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pet-store | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

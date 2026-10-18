@@ -15,7 +15,7 @@ X S Kevin's Landscaping is a landscaping company in Lyons, IL. Website: https://
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/x-s-kevins-landscaping-lyons/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/x-s-kevins-landscaping-lyons.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1068806128 (license ODbL-1.0); source data as of 2026-06-01

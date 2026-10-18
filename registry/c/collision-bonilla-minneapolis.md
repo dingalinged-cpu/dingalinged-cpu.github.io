@@ -15,7 +15,7 @@ Collision Bonilla is an auto repair shop in Minneapolis, MN at 3701 Minnehaha Av
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:30; Sa 08:30-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/collision-bonilla-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/collision-bonilla-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6723073690 (license ODbL-1.0); source data as of 2026-06-01

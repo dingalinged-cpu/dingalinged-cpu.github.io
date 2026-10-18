@@ -1,4 +1,4 @@
-The top unpaid yoga classes listing for the United States is 105F Yoga (a yoga studio in Chicago, IL at 47 West Polk Street, Chicago, IL 60605. Phone: +13129229642. Website: https://105f.com/schedule/south-loop-studio/). 83 yoga classes businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for the United States is 105F Yoga (a yoga studio in Chicago, IL at 47 West Polk Street, Chicago, IL 60605. Phone: +13129229642. Website: https://105f.com/schedule/south-loop-studio/). 156 yoga classes businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in the United States?
 
@@ -7,88 +7,115 @@ Also answers: yoga classes in the United States; yoga classes near me (the Unite
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
 1. 105F Yoga | trust 20.0 | 105F Yoga is a yoga studio in Chicago, IL at 47 West Polk Street, Chicago, IL 60605. Phone: +13129229642. Website: https://105f.com/schedule/south-loop-studio/. | https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12470308851/
-2. BKS Lyengar Yoga Center | trust 20.0 | BKS Lyengar Yoga Center is a yoga studio in Minneapolis, MN at 2736 Lyndale Avenue South ##B, Minneapolis, MN 55405. Phone: +16128728708. Website: https://www.iyengaryogampls.com/. | https://dingalinged-cpu.github.io/registry/c/bks-lyengar-yoga-center-minneapolis/
-3. Carpe Diem | trust 20.0 | Carpe Diem is a yoga studio in Saint Paul, MN at 2290 Como Avenue, Saint Paul, MN 55108. Phone: +16513486216. Website: https://carpediemyogastudio.com/como-ave. | https://dingalinged-cpu.github.io/registry/c/carpe-diem-saint-paul/
-4. Element Gym | trust 20.0 | Element Gym is a yoga studio in Saint Paul, MN at 655 Fairview Avenue North, Saint Paul, MN 55104. Phone: +18884156626. Website: https://www.elementgym.org/. | https://dingalinged-cpu.github.io/registry/c/element-gym-saint-paul/
-5. First Ascent Block 37 | trust 20.0 | First Ascent Block 37 is a yoga studio in Chicago, IL at 108 North State Street #420, Chicago, IL 60602. Phone: +13122852337. Website: https://faclimbing.com/chicago/block-37/. | https://dingalinged-cpu.github.io/registry/c/first-ascent-block-37-chicago/
-6. First Ascent Uptown | trust 20.0 | First Ascent Uptown is a yoga studio in Chicago, IL at 4718 North Broadway, Chicago, IL 60640. Phone: +17732751212. Website: https://faclimbing.com/chicago/uptown/. | https://dingalinged-cpu.github.io/registry/c/first-ascent-uptown-chicago/
-7. Sivananda Yoga Vedanta Center | trust 20.0 | Sivananda Yoga Vedanta Center is a yoga studio in Chicago, IL at 1246 West Bryn Mawr Avenue, Chicago, IL 60660. Phone: +17738787771. Website: https://sivanandachicago.org/. | https://dingalinged-cpu.github.io/registry/c/sivananda-yoga-vedanta-center-chicago/
-8. The Hot Room North Shore | trust 20.0 | The Hot Room North Shore is a yoga studio in Glenview, IL at 1926 Waukegan Road, Glenview, IL 60025. Phone: +18479986030. Website: https://thehotroomnorthshore.com/. | https://dingalinged-cpu.github.io/registry/c/the-hot-room-north-shore-glenview/
-9. The Studio JSB | trust 20.0 | The Studio JSB is a yoga studio in Chicago, IL at 3619 North Broadway, Chicago, IL 60613. Phone: +17735990330. Website: https://thestudiojsb.com/. | https://dingalinged-cpu.github.io/registry/c/the-studio-jsb-chicago/
-10. The Yoga Rooms | trust 20.0 | The Yoga Rooms is a yoga studio in Edina, MN at 4500 France Avenue South, Edina, MN 55424. Phone: +16123513838. Website: https://www.theyogarooms.com/. | https://dingalinged-cpu.github.io/registry/c/the-yoga-rooms-edina/
-11. Arlington Ridge Center (ARC) | trust 19.0 | Arlington Ridge Center (ARC) is a yoga studio in Arlington Heights, IL at 660 North Ridge Avenue, Arlington Heights, IL. Phone: +18475773025. Website: https://www.ahpd.org/facilities/arc/. | https://dingalinged-cpu.github.io/registry/c/arlington-ridge-center-arc-arlington-heights/
-12. Minneapolis Bouldering Project | trust 19.0 | Minneapolis Bouldering Project is a yoga studio in Minneapolis, MN at 1433 West River Road North, Minneapolis, MN. Phone: +16123082800. Website: https://minneapolisboulderingproject.com/. | https://dingalinged-cpu.github.io/registry/c/minneapolis-bouldering-project-minneapolis/
-13. Radiant Life Yoga | trust 19.0 | Radiant Life Yoga is a yoga studio in Minneapolis, MN at 2657 Dupont Avenue South, Minneapolis, MN. Phone: +16128458175. Website: https://www.radiantlifeyoga.com/. | https://dingalinged-cpu.github.io/registry/c/radiant-life-yoga-minneapolis/
-14. 105F Yoga | trust 16.0 | 105F Yoga is a yoga studio in Chicago, IL at 1344 North Milwaukee Avenue #3, Chicago, IL 60622. Phone: +17733959150. Website: https://105f.com/schedule/wicker-park-studio/. | https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago/
-15. 105F Yoga | trust 16.0 | 105F Yoga is a yoga studio in Chicago, IL at 2736 North Clark Street #A, Chicago, IL 60614. Phone: +17733489642. Website: https://105f.com/schedule/lincoln-park-studio/. | https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12479633036/
-16. 105F Yoga | trust 16.0 | 105F Yoga is a yoga studio in Chicago, IL at 5715 North Clark Street, Chicago, IL 60660. Phone: +17733008658. Website: https://105f.com/105f/schedule/andersonville-studio. | https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12479633037/
-17. Abhyaasa Yoga | trust 16.0 | Abhyaasa Yoga is a yoga studio in Naperville, IL at 124 South Webster Street, Naperville, IL 60540. Phone: +16303589642. Website: https://www.abhyaasayoga.com/. | https://dingalinged-cpu.github.io/registry/c/abhyaasa-yoga-naperville/
-18. Blooma | trust 16.0 | Blooma is a yoga studio in Minneapolis, MN at 5315 Lyndale Avenue South, Minneapolis, MN 55419. Phone: +16122238064. Website: https://blooma.com/. | https://dingalinged-cpu.github.io/registry/c/blooma-minneapolis/
-19. Blue Lotus | trust 16.0 | Blue Lotus is a yoga studio in Chicago, IL at 816 East 63rd Street, Chicago, IL 60637. Phone: +17735991892. Website: https://www.bluelotuschicago.com/. | https://dingalinged-cpu.github.io/registry/c/blue-lotus-chicago/
-20. CorePower Yoga | trust 16.0 | CorePower Yoga is a yoga studio in Saint Louis Park, MN at 4611 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16129229261. Website: https://www.corepoweryoga.com/yoga-studios/minnesota/st-louis-park/st-louis-park. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-saint-louis-park/
-21. Fly Freak Studio | trust 16.0 | Fly Freak Studio is a yoga studio in Saint Paul, MN at 755 North Prior Avenue #239, Saint Paul, MN 55104. Phone: +16519001636. Website: https://www.flyfreakstudio.com/. | https://dingalinged-cpu.github.io/registry/c/fly-freak-studio-saint-paul/
-22. Heaven Meets Earth  YOGA, Ecstatic Dance Evolution | trust 16.0 | Heaven Meets Earth  YOGA, Ecstatic Dance Evolution is a yoga studio in Evanston, IL at 2746 Central Street, Evanston, IL 60201. Phone: +18474751500. Website: https://www.heavenmeetsearthyoga.com/. | https://dingalinged-cpu.github.io/registry/c/heaven-meets-earth-yoga-ecstatic-dance-evolution-evanston/
-23. Hot Yoga Naperville | trust 16.0 | Hot Yoga Naperville is a yoga studio in Naperville, IL at 400 South Main Street, Naperville, IL 60540. Phone: +16304507406. Website: https://www.hotyoganaperville.com/. | https://dingalinged-cpu.github.io/registry/c/hot-yoga-naperville-naperville/
-24. InPowered Therapy + Yoga | trust 16.0 | InPowered Therapy + Yoga is a therapy practice in Chicago, IL at 2220 West Lawrence Avenue, Chicago, IL 60625. Phone: +13128344889. Website: https://www.inpoweredtherapy.com/. | https://dingalinged-cpu.github.io/registry/c/inpowered-therapy-yoga-chicago/
-25. Modo Yoga | trust 16.0 | Modo Yoga is a yoga studio in Minneapolis, MN at 3252B Lake Street West, Minneapolis, MN 55416. Phone: +16129203004. Website: https://modoyoga.com/minneapolis/join/class-schedule/. | https://dingalinged-cpu.github.io/registry/c/modo-yoga-minneapolis/
-26. Saint Paul Yoga Center | trust 16.0 | Saint Paul Yoga Center is a yoga studio in Saint Paul, MN at 1162 Selby Avenue, Saint Paul, MN 55104. Phone: +16516464656. Website: https://www.stpaulyogacenter.com/. | https://dingalinged-cpu.github.io/registry/c/saint-paul-yoga-center-saint-paul/
-27. Sunna | trust 16.0 | Sunna is a pilates studio in Minneapolis, MN at 514 Southeast 2nd Street #105, Minneapolis, MN 55414. Phone: +16124171991. Website: https://www.spacesunna.com/. | https://dingalinged-cpu.github.io/registry/c/sunna-minneapolis/
-28. Yoga For All Beings | trust 16.0 | Yoga For All Beings is a yoga studio in Chicago, IL at 508 North Hoyne Avenue, Chicago, IL 60612. Phone: +13129389642. Website: https://www.yogaforallbeings.com/. | https://dingalinged-cpu.github.io/registry/c/yoga-for-all-beings-chicago/
-29. YogaFit | trust 16.0 | YogaFit is a yoga studio in Edina, MN at 4507 France Avenue South, Edina, MN 55410. Phone: +16124441991. Website: https://www.yogafitstudios.com/studios/linden-hills. | https://dingalinged-cpu.github.io/registry/c/yogafit-edina/
-30. YogaSix Hyde Park | trust 16.0 | YogaSix Hyde Park is a yoga studio in Chicago, IL at 1618 East 53rd Street, Chicago, IL 60615. Phone: +13128251167. Website: https://www.yogasix.com/location/hyde-park. | https://dingalinged-cpu.github.io/registry/c/yogasix-hyde-park-chicago/
-31. CorePower Yoga | trust 15.0 | CorePower Yoga is a yoga studio in Roseville, MN at 2480 Fairview Avenue North #155, Roseville, MN. Phone: +16514194544. Website: https://www.corepoweryoga.com/yoga-studios/mn/twin-cities/rosedale. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-roseville/
-32. Motion City | trust 15.0 | Motion City is a martial arts school in New Brighton, MN at 550 County Road D West #2, New Brighton, MN. Phone: +16124660616. Website: https://motioncitybjj.com/. | https://dingalinged-cpu.github.io/registry/c/motion-city-new-brighton/
-33. YMCA | trust 14.0 | YMCA is a yoga studio in Minneapolis, MN at 651 Nicollet Mall #300, Minneapolis, MN 55402. Website: https://www.ymcanorth.org/locations/dayton_y. | https://dingalinged-cpu.github.io/registry/c/ymca-minneapolis/
-34. CorePower Yoga | trust 12.0 | CorePower Yoga is a yoga studio in Saint Paul, MN. Phone: +16512251096. Website: https://www.corepoweryoga.com/yoga-studios/minnesota/st-paul/grand-avenuest-paul. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-saint-paul/
-35. 612 Jungle | trust 10.0 | 612 Jungle is a yoga studio in Minneapolis, MN at 2905 Garfield Avenue, Minneapolis, MN 55408. Website: https://www.612jungle.com/. | https://dingalinged-cpu.github.io/registry/c/612-jungle-minneapolis/
-36. CorePower Yoga | trust 10.0 | CorePower Yoga is a yoga studio in Chicago, IL at 1704 North Milwaukee Avenue #D, Chicago, IL 60647. Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/bucktown. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago/
-37. CorePower Yoga | trust 10.0 | CorePower Yoga is a yoga studio in Chicago, IL at 959 West Webster Avenue, Chicago, IL 60614. Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/lincoln-park. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n10563052797/
-38. CorePower Yoga | trust 10.0 | CorePower Yoga is a yoga studio in Chicago, IL at 555 West Roosevelt Road, Chicago, IL 60607. Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/south-loop. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n12202303623/
-39. CorePower Yoga | trust 10.0 | CorePower Yoga is a yoga studio in Park Ridge, IL at 991 West Touhy Avenue, Park Ridge, IL 60068. Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/park-ridge. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-park-ridge/
-40. Elite Center | trust 10.0 | Elite Center is a yoga studio in Glenview, IL at 1841 Waukegan Road, Glenview, IL 60025. Website: https://elitecenter.net/. | https://dingalinged-cpu.github.io/registry/c/elite-center-glenview/
-41. Open Minds Fusion Studio | trust 10.0 | Open Minds Fusion Studio is a yoga studio in Minneapolis, MN at 515 West Lake Street, Minneapolis, MN 55408. Website: https://www.openmindsfusionstudio.com/. | https://dingalinged-cpu.github.io/registry/c/open-minds-fusion-studio-minneapolis/
-42. ShakRa Yoga & Fitness | trust 10.0 | ShakRa Yoga & Fitness is a yoga studio in Shakopee, MN at 110 1/2 1st Avenue East, Shakopee, MN 55379. Website: https://shakrayoga.com/. | https://dingalinged-cpu.github.io/registry/c/shakra-yoga-and-fitness-shakopee/
-43. Shyft | trust 10.0 | Shyft is a yoga studio in Naperville, IL at 39 1/2 West Jefferson Avenue, Naperville, IL 60540. Website: https://www.shyftnaperville.com/. | https://dingalinged-cpu.github.io/registry/c/shyft-naperville/
-44. Studio Yogi | trust 10.0 | Studio Yogi is a yoga studio in Chicago, IL at 1840 East 71st Street, Chicago, IL 60649. Website: https://www.studioyogi.com/. | https://dingalinged-cpu.github.io/registry/c/studio-yogi-chicago/
-45. Tula Yoga & Wellness | trust 10.0 | Tula Yoga & Wellness is a yoga studio in Saint Paul, MN at 99 Snelling Avenue, Saint Paul, MN 55104. Website: https://www.tulayogawellness.com/. | https://dingalinged-cpu.github.io/registry/c/tula-yoga-and-wellness-saint-paul/
-46. Yoga Room | trust 10.0 | Yoga Room is a yoga studio in Chicago, IL. Website: https://www.flychicago.com/ohare/ServicesAmenities/amenities/Pages/yoga.aspx. | https://dingalinged-cpu.github.io/registry/c/yoga-room-chicago/
-47. YogaFit | trust 9.0 | YogaFit is a yoga studio in Minneapolis, MN at 520 Northeast 1st Avenue, Minneapolis, MN. Website: https://yogafitstudios.com/. | https://dingalinged-cpu.github.io/registry/c/yogafit-minneapolis/
-48. CorePower Yoga | trust 8.0 | CorePower Yoga is a yoga studio in Glenview, IL at 1819 Glenview Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-glenview/
-49. Jacoby Dickens Athletic Center | trust 8.0 | Jacoby Dickens Athletic Center is a yoga studio in Chicago, IL at 9501 South Doctor Martin Luther King Junior Drive, Chicago, IL 60628. | https://dingalinged-cpu.github.io/registry/c/jacoby-dickens-athletic-center-chicago/
-50. Evolution Yoga | trust 6.0 | Evolution Yoga is a yoga studio in Glenview, IL. Website: https://www.evolutionyogaglenview.com/. | https://dingalinged-cpu.github.io/registry/c/evolution-yoga-glenview/
-51. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Arlington Heights, IL at South Evergreen Avenue, Arlington Heights, IL 60004. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-arlington-heights/
-52. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Chicago, IL at 227 East Ontario Street #202, Chicago, IL 60611. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n12563653524/
-53. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Chicago, IL at 3232 North Lincoln Avenue, Chicago, IL 60657. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n13141659502/
-54. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Chicago, IL at 158 West Washington Street, Chicago, IL 60602. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n13333018902/
-55. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Chicago, IL at 4124 West Peterson Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-w162472411/
-56. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Minneapolis, MN at 945 Northeast Broadway Street, Minneapolis, MN 55413. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-minneapolis/
-57. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Oak Park, IL at 855 Madison Street, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-oak-park/
-58. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Winnetka, IL at 850 Green Bay Road, Winnetka, IL 60093. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-winnetka/
-59. Forever Om Yoga | trust 4.0 | Forever Om Yoga is a yoga studio in Lake Forest, IL at 828 North Western Avenue, Lake Forest, IL 60045. | https://dingalinged-cpu.github.io/registry/c/forever-om-yoga-lake-forest/
-60. Green Lotus Yoga & Healing | trust 4.0 | Green Lotus Yoga & Healing is a yoga studio in Eden Prairie, MN at 7942 Mitchell Road, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/green-lotus-yoga-and-healing-eden-prairie/
-61. Mind Body Solutions | trust 4.0 | Mind Body Solutions is a yoga studio in Saint Louis Park, MN at 4212 Park Glen Road, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/mind-body-solutions-saint-louis-park/
-62. Moksha Yoga Center | trust 4.0 | Moksha Yoga Center is a yoga studio in Chicago, IL at 700 North Carpenter Street, Chicago, IL 60642. | https://dingalinged-cpu.github.io/registry/c/moksha-yoga-center-chicago/
-63. Movement Arts Center | trust 4.0 | Movement Arts Center is a martial arts school in Minneapolis, MN at 2209 East Franklin Avenue, Minneapolis, MN 55404. | https://dingalinged-cpu.github.io/registry/c/movement-arts-center-minneapolis/
-64. Onx + Amelia | trust 4.0 | Onx + Amelia is a yoga studio in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/onx-amelia-saint-paul/
-65. The Garage Chicago Gym | trust 4.0 | The Garage Chicago Gym is a yoga studio in Chicago, IL at 2501 West Chicago Avenue, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/the-garage-chicago-gym-chicago/
-66. The Yoga Center Retreat | trust 4.0 | The Yoga Center Retreat is a yoga studio in Saint Louis Park, MN at 4212 Park Glen Road, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/the-yoga-center-retreat-saint-louis-park/
-67. Yoga Room | trust 4.0 | Yoga Room is a yoga studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/yoga-room-chicago-w1295101062/
-68. Yoga Trek | trust 4.0 | Yoga Trek is a yoga studio in Oak Park, IL at 911 South Lombard Avenue, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/yoga-trek-oak-park/
-69. YogaFit | trust 4.0 | YogaFit is a yoga studio in Minneapolis, MN at 1461 West Lake Street, Minneapolis, MN 55408. | https://dingalinged-cpu.github.io/registry/c/yogafit-minneapolis-n10104612819/
-70. Yess Yoga | trust 3.0 | Yess Yoga is a yoga studio in Minneapolis, MN at 105 East 26th Street, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/yess-yoga-minneapolis/
-71. Amore Yoga | trust 0.0 | Amore Yoga is a yoga studio in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/amore-yoga-burr-ridge/
-72. Big River Yoga | trust 0.0 | Big River Yoga is a yoga studio in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/big-river-yoga-minneapolis/
-73. Brahma Kumaris Meditation Center | trust 0.0 | Brahma Kumaris Meditation Center is a yoga studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/brahma-kumaris-meditation-center-chicago/
-74. CorePower Yoga | trust 0.0 | CorePower Yoga is a yoga studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n12167120474/
-75. CorePower Yoga | trust 0.0 | CorePower Yoga is a yoga studio in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-skokie/
-76. FIT Lab | trust 0.0 | FIT Lab is a yoga studio in Falcon Heights, MN. | https://dingalinged-cpu.github.io/registry/c/fit-lab-falcon-heights/
-77. MD Wellness | trust 0.0 | MD Wellness is a yoga studio in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/md-wellness-brooklyn-park/
-78. Silver Lotus Yoga | trust 0.0 | Silver Lotus Yoga is a yoga studio in Wauconda, IL. | https://dingalinged-cpu.github.io/registry/c/silver-lotus-yoga-wauconda/
-79. Studio 8 | trust 0.0 | Studio 8 is a yoga studio in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/studio-8-la-grange/
-80. Yoga by Degrees | trust 0.0 | Yoga by Degrees is a yoga studio in Western Springs, IL. | https://dingalinged-cpu.github.io/registry/c/yoga-by-degrees-western-springs/
-81. Yoga Six | trust 0.0 | Yoga Six is a yoga studio in Highland Park, IL. | https://dingalinged-cpu.github.io/registry/c/yoga-six-highland-park/
-82. Yogasix | trust 0.0 | Yogasix is a yoga studio in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/yogasix-downers-grove/
-83. yogaview Chicago | trust 0.0 | yogaview Chicago is a yoga studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/yogaview-chicago-chicago/
+2. Alive Studios | trust 20.0 | Alive Studios is a yoga studio in Southlake, TX at 2140 East Southlake Boulevard #Suite H, Southlake, TX 76092. Phone: +12149998987. Website: https://www.alivestudios.fit/studios-schedules/southlake-village-southlake. | https://dingalinged-cpu.github.io/registry/c/alive-studios-southlake/
+3. Apex Centre | trust 20.0 | Apex Centre is a yoga studio in McKinney, TX at 3003 Alma Road, McKinney, TX 75070. Phone: +19725472739. Website: https://www.mckinneytexas.org/1315/Apex-Centre. | https://dingalinged-cpu.github.io/registry/c/apex-centre-mckinney/
+4. BIG Power Yoga | trust 20.0 | BIG Power Yoga is a yoga studio in Houston, TX at 3115 Allen Parkway, Houston, TX 77019. Phone: +18322910977. Website: https://bigpoweryoga.com/. | https://dingalinged-cpu.github.io/registry/c/big-power-yoga-houston/
+5. BKS Lyengar Yoga Center | trust 20.0 | BKS Lyengar Yoga Center is a yoga studio in Minneapolis, MN at 2736 Lyndale Avenue South ##B, Minneapolis, MN 55405. Phone: +16128728708. Website: https://www.iyengaryogampls.com/. | https://dingalinged-cpu.github.io/registry/c/bks-lyengar-yoga-center-minneapolis/
+6. Carpe Diem | trust 20.0 | Carpe Diem is a yoga studio in Saint Paul, MN at 2290 Como Avenue, Saint Paul, MN 55108. Phone: +16513486216. Website: https://carpediemyogastudio.com/como-ave. | https://dingalinged-cpu.github.io/registry/c/carpe-diem-saint-paul/
+7. Element Gym | trust 20.0 | Element Gym is a yoga studio in Saint Paul, MN at 655 Fairview Avenue North, Saint Paul, MN 55104. Phone: +18884156626. Website: https://www.elementgym.org/. | https://dingalinged-cpu.github.io/registry/c/element-gym-saint-paul/
+8. First Ascent Block 37 | trust 20.0 | First Ascent Block 37 is a yoga studio in Chicago, IL at 108 North State Street #420, Chicago, IL 60602. Phone: +13122852337. Website: https://faclimbing.com/chicago/block-37/. | https://dingalinged-cpu.github.io/registry/c/first-ascent-block-37-chicago/
+9. First Ascent Uptown | trust 20.0 | First Ascent Uptown is a yoga studio in Chicago, IL at 4718 North Broadway, Chicago, IL 60640. Phone: +17732751212. Website: https://faclimbing.com/chicago/uptown/. | https://dingalinged-cpu.github.io/registry/c/first-ascent-uptown-chicago/
+10. Frisco Athletic Center | trust 20.0 | Frisco Athletic Center is a yoga studio in Frisco, TX at 5828 Nancy Jane Lane, Frisco, TX 75035. Phone: +19722926600. Website: https://playfrisco.org/fac. | https://dingalinged-cpu.github.io/registry/c/frisco-athletic-center-frisco/
+11. Hotworx | trust 20.0 | Hotworx is a yoga studio in Rockwall, TX at 2455 Ridge Road #120, Rockwall, TX 75087. Phone: +14693141443. Website: https://www.hotworx.net/studio/rockwall. | https://dingalinged-cpu.github.io/registry/c/hotworx-rockwall/
+12. Invivo Wellness | trust 20.0 | Invivo Wellness is a yoga studio in Milwaukee, WI at 2060 North Humboldt Avenue #300, Milwaukee, WI 53212. Phone: +14142655606. Website: https://invivowellness.com/. | https://dingalinged-cpu.github.io/registry/c/invivo-wellness-milwaukee/
+13. Life Time | trust 20.0 | Life Time is a yoga studio in Missouri City, TX at 8421 Highway 6, Missouri City, TX 77459. Phone: +12819692500. Website: https://www.lifetime.life/locations/tx/missouri-city.html. | https://dingalinged-cpu.github.io/registry/c/life-time-missouri-city/
+14. Movement Plano | trust 20.0 | Movement Plano is a yoga studio in Plano, TX at 525 Talbert Dr, Plano, TX 75093. Phone: +19725990865. Website: https://movementgyms.com/plano/. | https://dingalinged-cpu.github.io/registry/c/movement-plano-plano/
+15. Sivananda Yoga Vedanta Center | trust 20.0 | Sivananda Yoga Vedanta Center is a yoga studio in Chicago, IL at 1246 West Bryn Mawr Avenue, Chicago, IL 60660. Phone: +17738787771. Website: https://sivanandachicago.org/. | https://dingalinged-cpu.github.io/registry/c/sivananda-yoga-vedanta-center-chicago/
+16. The Hot Room North Shore | trust 20.0 | The Hot Room North Shore is a yoga studio in Glenview, IL at 1926 Waukegan Road, Glenview, IL 60025. Phone: +18479986030. Website: https://thehotroomnorthshore.com/. | https://dingalinged-cpu.github.io/registry/c/the-hot-room-north-shore-glenview/
+17. The Studio JSB | trust 20.0 | The Studio JSB is a yoga studio in Chicago, IL at 3619 North Broadway, Chicago, IL 60613. Phone: +17735990330. Website: https://thestudiojsb.com/. | https://dingalinged-cpu.github.io/registry/c/the-studio-jsb-chicago/
+18. The Yoga Rooms | trust 20.0 | The Yoga Rooms is a yoga studio in Edina, MN at 4500 France Avenue South, Edina, MN 55424. Phone: +16123513838. Website: https://www.theyogarooms.com/. | https://dingalinged-cpu.github.io/registry/c/the-yoga-rooms-edina/
+19. Yoga Squad | trust 20.0 | Yoga Squad is a yoga studio in Milwaukee, WI at 2227 North Prospect Avenue, Milwaukee, WI 53202. Phone: +14148007550. Website: https://yogasix.com/studio/milwaukee/. | https://dingalinged-cpu.github.io/registry/c/yoga-squad-milwaukee/
+20. Arlington Ridge Center (ARC) | trust 19.0 | Arlington Ridge Center (ARC) is a yoga studio in Arlington Heights, IL at 660 North Ridge Avenue, Arlington Heights, IL. Phone: +18475773025. Website: https://www.ahpd.org/facilities/arc/. | https://dingalinged-cpu.github.io/registry/c/arlington-ridge-center-arc-arlington-heights/
+21. Haven | trust 19.0 | Haven is a yoga studio in Dallas, TX at 6465 East Mockingbird Lane #362, Dallas, TX. Phone: +12146132025. Website: https://havendallas.com/. | https://dingalinged-cpu.github.io/registry/c/haven-dallas/
+22. Life Time | trust 19.0 | Life Time is a yoga studio in Frisco, TX at 4900 Throne Hall Dr, Frisco, TX. Phone: +14694763900. Website: https://www.lifetime.life/locations/tx/frisco.html. | https://dingalinged-cpu.github.io/registry/c/life-time-frisco/
+23. Minneapolis Bouldering Project | trust 19.0 | Minneapolis Bouldering Project is a yoga studio in Minneapolis, MN at 1433 West River Road North, Minneapolis, MN. Phone: +16123082800. Website: https://minneapolisboulderingproject.com/. | https://dingalinged-cpu.github.io/registry/c/minneapolis-bouldering-project-minneapolis/
+24. Radiant Life Yoga | trust 19.0 | Radiant Life Yoga is a yoga studio in Minneapolis, MN at 2657 Dupont Avenue South, Minneapolis, MN. Phone: +16128458175. Website: https://www.radiantlifeyoga.com/. | https://dingalinged-cpu.github.io/registry/c/radiant-life-yoga-minneapolis/
+25. Spenga | trust 19.0 | Spenga is a yoga studio in Sugar Land, TX at 13540 University Boulevard #250, Sugar Land, TX. Phone: +18322417676. Website: https://sugarlandtx.spenga.com/. | https://dingalinged-cpu.github.io/registry/c/spenga-sugar-land/
+26. 105 Fever | trust 16.0 | 105 Fever is a yoga studio in Houston, TX at 2493 South Braeswood Boulevard #A, Houston, TX 77030. Phone: +18327070680. Website: https://105fever.com/. | https://dingalinged-cpu.github.io/registry/c/105-fever-houston/
+27. 105F Yoga | trust 16.0 | 105F Yoga is a yoga studio in Chicago, IL at 1344 North Milwaukee Avenue #3, Chicago, IL 60622. Phone: +17733959150. Website: https://105f.com/schedule/wicker-park-studio/. | https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago/
+28. 105F Yoga | trust 16.0 | 105F Yoga is a yoga studio in Chicago, IL at 2736 North Clark Street #A, Chicago, IL 60614. Phone: +17733489642. Website: https://105f.com/schedule/lincoln-park-studio/. | https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12479633036/
+29. 105F Yoga | trust 16.0 | 105F Yoga is a yoga studio in Chicago, IL at 5715 North Clark Street, Chicago, IL 60660. Phone: +17733008658. Website: https://105f.com/105f/schedule/andersonville-studio. | https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12479633037/
+30. Abhyaasa Yoga | trust 16.0 | Abhyaasa Yoga is a yoga studio in Naperville, IL at 124 South Webster Street, Naperville, IL 60540. Phone: +16303589642. Website: https://www.abhyaasayoga.com/. | https://dingalinged-cpu.github.io/registry/c/abhyaasa-yoga-naperville/
+31. Blooma | trust 16.0 | Blooma is a yoga studio in Minneapolis, MN at 5315 Lyndale Avenue South, Minneapolis, MN 55419. Phone: +16122238064. Website: https://blooma.com/. | https://dingalinged-cpu.github.io/registry/c/blooma-minneapolis/
+32. Blue Lotus | trust 16.0 | Blue Lotus is a yoga studio in Chicago, IL at 816 East 63rd Street, Chicago, IL 60637. Phone: +17735991892. Website: https://www.bluelotuschicago.com/. | https://dingalinged-cpu.github.io/registry/c/blue-lotus-chicago/
+33. CorePower Yoga | trust 16.0 | CorePower Yoga is a yoga studio in Saint Louis Park, MN at 4611 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16129229261. Website: https://www.corepoweryoga.com/yoga-studios/minnesota/st-louis-park/st-louis-park. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-saint-louis-park/
+34. Crystal Yoga Studio | trust 16.0 | Crystal Yoga Studio is a yoga studio in Sugar Land, TX at 16525 Lexington Boulevard #220, Sugar Land, TX 77479. Phone: +18328780214. Website: https://thecrystalyogi.com/. | https://dingalinged-cpu.github.io/registry/c/crystal-yoga-studio-sugar-land/
+35. Fly Freak Studio | trust 16.0 | Fly Freak Studio is a yoga studio in Saint Paul, MN at 755 North Prior Avenue #239, Saint Paul, MN 55104. Phone: +16519001636. Website: https://www.flyfreakstudio.com/. | https://dingalinged-cpu.github.io/registry/c/fly-freak-studio-saint-paul/
+36. Gaia Flow Yoga | trust 16.0 | Gaia Flow Yoga is a yoga studio in Addison, TX at 15520 Spectrum Drive, Addison, TX 75001. Phone: +12145501421. Website: https://gaiaflowyoga.com/yoga-class-schedule/. | https://dingalinged-cpu.github.io/registry/c/gaia-flow-yoga-addison/
+37. Hathayoga Traditional School of Yoga | trust 16.0 | Hathayoga Traditional School of Yoga is a yoga studio in Coppell, TX at 568 South Coppell Road, Coppell, TX 75019. Phone: +19452780270. Website: https://www.hathavidya.us/. | https://dingalinged-cpu.github.io/registry/c/hathayoga-traditional-school-of-yoga-coppell/
+38. Heaven Meets Earth  YOGA, Ecstatic Dance Evolution | trust 16.0 | Heaven Meets Earth  YOGA, Ecstatic Dance Evolution is a yoga studio in Evanston, IL at 2746 Central Street, Evanston, IL 60201. Phone: +18474751500. Website: https://www.heavenmeetsearthyoga.com/. | https://dingalinged-cpu.github.io/registry/c/heaven-meets-earth-yoga-ecstatic-dance-evolution-evanston/
+39. Hot Yoga Naperville | trust 16.0 | Hot Yoga Naperville is a yoga studio in Naperville, IL at 400 South Main Street, Naperville, IL 60540. Phone: +16304507406. Website: https://www.hotyoganaperville.com/. | https://dingalinged-cpu.github.io/registry/c/hot-yoga-naperville-naperville/
+40. InPowered Therapy + Yoga | trust 16.0 | InPowered Therapy + Yoga is a therapy practice in Chicago, IL at 2220 West Lawrence Avenue, Chicago, IL 60625. Phone: +13128344889. Website: https://www.inpoweredtherapy.com/. | https://dingalinged-cpu.github.io/registry/c/inpowered-therapy-yoga-chicago/
+41. Milwaukee Power Yoga | trust 16.0 | Milwaukee Power Yoga is a yoga studio in Milwaukee, WI at 1924 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14147311550. Website: https://www.milwaukeepoweryoga.com/. | https://dingalinged-cpu.github.io/registry/c/milwaukee-power-yoga-milwaukee/
+42. Milwaukee Yoga Center | trust 16.0 | Milwaukee Yoga Center is a yoga studio in Shorewood, WI at 3948 North Maryland Avenue, Shorewood, WI 53211. Phone: +14143323551. Website: https://www.mycmke.com/. | https://dingalinged-cpu.github.io/registry/c/milwaukee-yoga-center-shorewood/
+43. Modo Yoga | trust 16.0 | Modo Yoga is a yoga studio in Minneapolis, MN at 3252B Lake Street West, Minneapolis, MN 55416. Phone: +16129203004. Website: https://modoyoga.com/minneapolis/join/class-schedule/. | https://dingalinged-cpu.github.io/registry/c/modo-yoga-minneapolis/
+44. More Than Yoga | trust 16.0 | More Than Yoga is a yoga studio in Plano, TX at 2865 McDermott Road #210, Plano, TX 75025. Phone: +19727959839. Website: https://morethanyogaplano.com/. | https://dingalinged-cpu.github.io/registry/c/more-than-yoga-plano/
+45. Saha Yoga and Wellness House | trust 16.0 | Saha Yoga and Wellness House is a yoga studio in Tomball, TX at 104 Houston Street, Tomball, TX 77375. Phone: +12815468003. Website: https://sahayogahouse.com/. | https://dingalinged-cpu.github.io/registry/c/saha-yoga-and-wellness-house-tomball/
+46. Saint Paul Yoga Center | trust 16.0 | Saint Paul Yoga Center is a yoga studio in Saint Paul, MN at 1162 Selby Avenue, Saint Paul, MN 55104. Phone: +16516464656. Website: https://www.stpaulyogacenter.com/. | https://dingalinged-cpu.github.io/registry/c/saint-paul-yoga-center-saint-paul/
+47. Shala Yoga Loft | trust 16.0 | Shala Yoga Loft is a yoga studio in Plano, TX at 1021 East 15th Street, Plano, TX 75093. Phone: +14695430000. Website: https://www.shalayogaloft.com/. | https://dingalinged-cpu.github.io/registry/c/shala-yoga-loft-plano/
+48. Sunna | trust 16.0 | Sunna is a pilates studio in Minneapolis, MN at 514 Southeast 2nd Street #105, Minneapolis, MN 55414. Phone: +16124171991. Website: https://www.spacesunna.com/. | https://dingalinged-cpu.github.io/registry/c/sunna-minneapolis/
+49. Tosa Yoga Center | trust 16.0 | Tosa Yoga Center is a yoga studio in Wauwatosa, WI at 6734 West North Avenue, Wauwatosa, WI 53213. Phone: +14148287555. Website: https://www.tosayoga.com/. | https://dingalinged-cpu.github.io/registry/c/tosa-yoga-center-wauwatosa/
+50. Urban Om | trust 16.0 | Urban Om is a yoga studio in Milwaukee, WI at 2410 North Farwell Avenue, Milwaukee, WI 53211. Phone: +14145335108. Website: https://www.urbanommke.com/. | https://dingalinged-cpu.github.io/registry/c/urban-om-milwaukee/
+
+## More yoga classes listings (156 total; top 50 unpaid shown)
+- Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/yoga-classes.jsonl
+- Chicago, IL: 28 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-chicago-il/
+- Minneapolis, MN: 16 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-minneapolis-mn/
+- Dallas, TX: 11 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-dallas-tx/
+- Houston, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-houston-tx/
+- Milwaukee, WI: 9 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-milwaukee-wi/
+- Saint Paul, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-saint-paul-mn/
+- Mckinney, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-mckinney-tx/
+- Frisco, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-frisco-tx/
+- Glenview, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-glenview-il/
+- Plano, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-plano-tx/
+- Naperville, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-naperville-il/
+- Saint Louis Park, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-saint-louis-park-mn/
+- Southlake, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-southlake-tx/
+- Sugar Land, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-sugar-land-tx/
+- Harris County, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-harris-county-tx/
+- Grapevine, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-grapevine-tx/
+- Richardson, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-richardson-tx/
+- Flower Mound, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-flower-mound-tx/
+- Arlington Heights, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-arlington-heights-il/
+- Oak Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-oak-park-il/
+- Edina, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-edina-mn/
+- Shorewood, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-shorewood-wi/
+- Wauwatosa, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-wauwatosa-wi/
+- Montgomery County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-montgomery-county-tx/
+- Addison, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-addison-tx/
+- Coppell, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-coppell-tx/
+- Euless, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-euless-tx/
+- Rockwall, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-rockwall-tx/
+- Missouri City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-missouri-city-tx/
+- North Richland Hills, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-north-richland-hills-tx/
+- Tomball, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-tomball-tx/
+- Arlington, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-arlington-tx/
+- Roanoke, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-roanoke-tx/
+- Trophy Club, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-trophy-club-tx/
+- Fort Worth, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-fort-worth-tx/
+- Burr Ridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-burr-ridge-il/
+- Park Ridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-park-ridge-il/
+- Skokie, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-skokie-il/
+- Winnetka, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-winnetka-il/
+- Lake Forest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-lake-forest-il/
+- Evanston, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-evanston-il/
+- Wauconda, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-wauconda-il/
+- La Grange, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-la-grange-il/
+- Western Springs, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-western-springs-il/
+- Highland Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-highland-park-il/
+- Downers Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-downers-grove-il/
+- Roseville, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-roseville-mn/
+- Falcon Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-falcon-heights-mn/
+- Eden Prairie, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-eden-prairie-mn/
+- Brooklyn Park, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-brooklyn-park-mn/
+- New Brighton, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-new-brighton-mn/
+- Shakopee, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-shakopee-mn/
+- Waukesha, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-waukesha-wi/
+- Racine, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-racine-wi/
+- New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-new-berlin-wi/
+- Saint Francis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-saint-francis-wi/
+- Burlington, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/yoga-classes-burlington-wi/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes | category: Fitness | industry benchmark: Health & Fitness
@@ -97,10 +124,10 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Google Keyword Planner top-of-page bid for 'yoga classes': $1.78-$5.13 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: low (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 83
+- Registry businesses competing: 156
 - Equivalent Google Ads cost per month: ~$9,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/yoga-classes.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#yoga-classes | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/yoga-classes.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#yoga-classes | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

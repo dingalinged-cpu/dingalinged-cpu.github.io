@@ -15,7 +15,7 @@ DentalWorks is a dentist in Calumet City, IL at 1514 Torrence Avenue, Calumet Ci
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dentalworks-calumet-city/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dentalworks-calumet-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12587988657 (license ODbL-1.0); source data as of 2026-07-28

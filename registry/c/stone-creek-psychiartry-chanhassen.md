@@ -15,7 +15,7 @@ Stone Creek Psychiartry is a therapy practice in Chanhassen, MN at 7945 Stone Cr
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/stone-creek-psychiartry-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/stone-creek-psychiartry-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6734428568 (license ODbL-1.0); source data as of 2026-06-01

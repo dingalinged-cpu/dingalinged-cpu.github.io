@@ -15,7 +15,7 @@ Planned Parenthood is a therapy practice in Chicago, IL at 1200 North LaSalle Dr
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planned-parenthood-chicago-w210679337/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planned-parenthood-chicago-w210679337.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210679337 (license ODbL-1.0); source data as of 2026-07-28

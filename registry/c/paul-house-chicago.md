@@ -15,7 +15,7 @@ Paul House is an assisted living facility in Chicago, IL at 3800 North Californi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/paul-house-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/paul-house-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/relation/2814746 (license ODbL-1.0); source data as of 2026-07-28

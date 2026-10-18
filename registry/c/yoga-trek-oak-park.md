@@ -15,7 +15,7 @@ Yoga Trek is a yoga studio in Oak Park, IL at 911 South Lombard Avenue, Oak Park
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/yoga-trek-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/yoga-trek-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3750501801 (license ODbL-1.0); source data as of 2026-06-01

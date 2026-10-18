@@ -15,7 +15,7 @@ Behind Bars Bicycle Shop is a bike shop in Minneapolis, MN at 208 Northeast 13th
 - Opening hours (OSM syntax): Tu-Fr 10:00-19:00, Sa 10:00-17:00, Su 12:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/behind-bars-bicycle-shop-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/behind-bars-bicycle-shop-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6835603391 (license ODbL-1.0); source data as of 2026-06-01

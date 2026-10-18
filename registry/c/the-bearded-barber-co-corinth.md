@@ -1,0 +1,23 @@
+The Bearded Barber Co is a hair salon in Corinth, TX at 3901 Swisher Road, Corinth, TX 76210. Phone: +19404982337. Website: https://www.thebeardedbarberco.com/.
+
+# The Bearded Barber Co
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 3901 Swisher Road, Corinth, TX 76210
+- City: Corinth
+- State: TX
+- ZIP: 76210
+- Coordinates: 33.1304123, -97.0489386
+- Phone: +19404982337
+- Website: https://www.thebeardedbarberco.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-bearded-barber-co-corinth/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-bearded-barber-co-corinth.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13850693101 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

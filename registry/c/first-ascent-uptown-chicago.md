@@ -15,7 +15,7 @@ First Ascent Uptown is a yoga studio in Chicago, IL at 4718 North Broadway, Chic
 - Opening hours (OSM syntax): Mo-Fr 06:00-23:00, Sa-Su 10:00–20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/first-ascent-uptown-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/first-ascent-uptown-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210382218 (license ODbL-1.0); source data as of 2026-06-01

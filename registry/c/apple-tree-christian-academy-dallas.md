@@ -1,0 +1,23 @@
+Apple Tree Christian Academy is a daycare in Dallas, TX at 2726 West Illinois Avenue, Dallas, TX 75233. Phone: +12143300413. Website: https://www.appletreechristian.com/.
+
+# Apple Tree Christian Academy
+
+- Category: daycare
+- Services: daycare
+- Address: 2726 West Illinois Avenue, Dallas, TX 75233
+- City: Dallas
+- State: TX
+- ZIP: 75233
+- Coordinates: 32.719905, -96.8649128
+- Phone: +12143300413
+- Website: https://www.appletreechristian.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 06:30-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/apple-tree-christian-academy-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/apple-tree-christian-academy-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5798147049 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

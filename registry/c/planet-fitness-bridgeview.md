@@ -15,7 +15,7 @@ Planet Fitness is a gym in Bridgeview, IL at 8741-8751 Harlem Avenue, Bridgeview
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-bridgeview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-bridgeview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12585965881 (license ODbL-1.0); source data as of 2026-06-01

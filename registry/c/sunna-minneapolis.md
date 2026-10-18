@@ -15,7 +15,7 @@ Sunna is a pilates studio in Minneapolis, MN at 514 Southeast 2nd Street #105, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sunna-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sunna-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13644296199 (license ODbL-1.0); source data as of 2026-07-15

@@ -15,7 +15,7 @@ Washburn-McReavy Robbinsdale Chapel is a funeral home in Robbinsdale, MN at 4239
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-robbinsdale-chapel-robbinsdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-robbinsdale-chapel-robbinsdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/762945825 (license ODbL-1.0); source data as of 2026-06-01

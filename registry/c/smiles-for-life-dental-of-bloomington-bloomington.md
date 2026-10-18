@@ -15,7 +15,7 @@ Smiles For Life Dental of Bloomington is a dentist in Bloomington, MN at 9801 Du
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/smiles-for-life-dental-of-bloomington-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/smiles-for-life-dental-of-bloomington-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13019489690 (license ODbL-1.0); source data as of 2026-07-24

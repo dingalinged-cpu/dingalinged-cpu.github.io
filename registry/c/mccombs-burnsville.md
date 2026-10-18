@@ -15,7 +15,7 @@ McCombs is a chiropractor in Burnsville, MN at 2550, Burnsville, MN. Phone: +195
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mccombs-burnsville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mccombs-burnsville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12801289387 (license ODbL-1.0); source data as of 2026-06-01

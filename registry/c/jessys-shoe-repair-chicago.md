@@ -15,7 +15,7 @@ Jessy's Shoe Repair is a shoe repair in Chicago, IL at 2107 North Western Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jessys-shoe-repair-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jessys-shoe-repair-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13430566401 (license ODbL-1.0); source data as of 2026-06-01

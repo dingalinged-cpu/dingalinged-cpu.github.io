@@ -1,0 +1,23 @@
+Black Belt Karate Studio of Racine is a martial arts school in Mount Pleasant, WI at 5630 Washington Avenue, Mount Pleasant, WI.
+
+# Black Belt Karate Studio of Racine
+
+- Category: martial arts
+- Services: martial arts
+- Address: 5630 Washington Avenue, Mount Pleasant, WI
+- City: Mount Pleasant
+- State: WI
+- ZIP: n/a
+- Coordinates: 42.7215485, -87.8482576
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/black-belt-karate-studio-of-racine-mount-pleasant/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/black-belt-karate-studio-of-racine-mount-pleasant.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/362345245 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

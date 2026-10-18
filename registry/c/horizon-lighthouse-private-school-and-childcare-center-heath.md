@@ -1,0 +1,23 @@
+Horizon Lighthouse Private School and Childcare Center is a preschool in Heath, TX at 5600 Horizon Road, Heath, TX 75032. Phone: +19722959241. Website: https://lighthouse-school.com/.
+
+# Horizon Lighthouse Private School and Childcare Center
+
+- Category: preschool
+- Services: preschool
+- Address: 5600 Horizon Road, Heath, TX 75032
+- City: Heath
+- State: TX
+- ZIP: 75032
+- Coordinates: 32.8758741, -96.4535562
+- Phone: +19722959241
+- Website: https://lighthouse-school.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/horizon-lighthouse-private-school-and-childcare-center-heath/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/horizon-lighthouse-private-school-and-childcare-center-heath.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1500772787 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

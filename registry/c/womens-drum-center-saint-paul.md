@@ -15,7 +15,7 @@ Women's Drum Center is a music school in Saint Paul, MN at 2242 University Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/womens-drum-center-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/womens-drum-center-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7152738745 (license ODbL-1.0); source data as of 2026-07-24

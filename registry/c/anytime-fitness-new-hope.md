@@ -15,7 +15,7 @@ Anytime Fitness is a gym in New Hope, MN at 3540 Winnetka Avenue North, New Hope
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-new-hope/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-new-hope.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4183839907 (license ODbL-1.0); source data as of 2026-07-15

@@ -15,7 +15,7 @@ Tula Yoga & Wellness is a yoga studio in Saint Paul, MN at 99 Snelling Avenue, S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tula-yoga-and-wellness-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tula-yoga-and-wellness-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/832399835 (license ODbL-1.0); source data as of 2026-07-15

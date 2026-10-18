@@ -15,7 +15,7 @@ Snap Fitness is a gym in Falcon Heights, MN at 1557 Larpenteur Avenue West, Falc
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/snap-fitness-falcon-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-falcon-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7294714127 (license ODbL-1.0); source data as of 2026-07-15

@@ -15,7 +15,7 @@ Vernon Hills Animal Hospital is a veterinarian in Mundelein, IL at 1260 South Bu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vernon-hills-animal-hospital-mundelein/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vernon-hills-animal-hospital-mundelein.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1327929659 (license ODbL-1.0); source data as of 2026-07-28

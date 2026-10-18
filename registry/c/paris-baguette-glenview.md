@@ -15,7 +15,7 @@ Paris Baguette is a bakery in Glenview, IL at 610 Milwaukee Avenue #100, Glenvie
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/paris-baguette-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/paris-baguette-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9459638330 (license ODbL-1.0); source data as of 2026-06-01

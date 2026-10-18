@@ -15,7 +15,7 @@ Steel Petal Press is a gift shop in Chicago, IL at 2321 North Milwaukee Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/steel-petal-press-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/steel-petal-press-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11289378844 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Interlachen Dental Associates is a dentist in Edina, MN. Phone: +19529209579. We
 - Opening hours (OSM syntax): Mo-Th 07:00-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/interlachen-dental-associates-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/interlachen-dental-associates-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12335504029 (license ODbL-1.0); source data as of 2026-07-24

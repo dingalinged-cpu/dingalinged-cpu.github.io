@@ -15,7 +15,7 @@ Lake Animal Hospital is a veterinarian in White Bear Township, MN at 5900 Highwa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lake-animal-hospital-white-bear-township/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lake-animal-hospital-white-bear-township.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1121948445 (license ODbL-1.0); source data as of 2026-07-24

@@ -1,0 +1,23 @@
+Parlor Doughtnuts is a bakery in Nassau Bay, TX at 1850 East NASA Parkway, Nassau Bay, TX 77058. Phone: +12815494675. Website: https://parlordoughnuts.com/.
+
+# Parlor Doughtnuts
+
+- Category: bakery
+- Services: bakery
+- Address: 1850 East NASA Parkway, Nassau Bay, TX 77058
+- City: Nassau Bay
+- State: TX
+- ZIP: 77058
+- Coordinates: 29.5500944, -95.0915743
+- Phone: +12815494675
+- Website: https://parlordoughnuts.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 06:00-19:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/parlor-doughtnuts-nassau-bay/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/parlor-doughtnuts-nassau-bay.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12996152101 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

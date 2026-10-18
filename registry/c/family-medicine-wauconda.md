@@ -15,7 +15,7 @@ Family Medicine is a family medicine practice in Wauconda, IL at 431 West Libert
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/family-medicine-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/family-medicine-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9064967529 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Creekside Acupunture Clinic is an acupuncture clinic in Minneapolis, MN at 4826 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/creekside-acupunture-clinic-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/creekside-acupunture-clinic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7690319805 (license ODbL-1.0); source data as of 2026-06-01

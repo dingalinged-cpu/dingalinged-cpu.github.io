@@ -15,7 +15,7 @@ A-OK Automotive Collison Center is an auto repair shop in Chicago, IL at 5805 So
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/a-ok-automotive-collison-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-ok-automotive-collison-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8144849182 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Main Street Car Wash is a car wash in Crete, IL at 1110 Main Street, Crete, IL 6
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/main-street-car-wash-crete/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/main-street-car-wash-crete.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1333773832 (license ODbL-1.0); source data as of 2026-07-28

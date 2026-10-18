@@ -1,0 +1,23 @@
+Northlake Family EyeCare is an eye care practice in Northlake, TX at 1500 Commons Circle #Suite 200, Northlake, TX 76226.
+
+# Northlake Family EyeCare
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: 1500 Commons Circle #Suite 200, Northlake, TX 76226
+- City: Northlake
+- State: TX
+- ZIP: 76226
+- Coordinates: 33.1016983, -97.2330348
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/northlake-family-eyecare-northlake/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/northlake-family-eyecare-northlake.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/826380513 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Midwest Carpet & Flooring is a flooring company in Chicago, IL at 1201 West 37th
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midwest-carpet-and-flooring-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midwest-carpet-and-flooring-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210167624 (license ODbL-1.0); source data as of 2026-06-01

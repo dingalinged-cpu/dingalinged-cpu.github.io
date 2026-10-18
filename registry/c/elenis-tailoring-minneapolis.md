@@ -15,7 +15,7 @@ Eleni's Tailoring is a tailor in Minneapolis, MN at West Lake Street, Minneapoli
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-15:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elenis-tailoring-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elenis-tailoring-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6450215751 (license ODbL-1.0); source data as of 2026-06-01

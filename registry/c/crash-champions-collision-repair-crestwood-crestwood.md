@@ -15,7 +15,7 @@ Crash Champions Collision Repair Crestwood is an auto repair shop in Crestwood, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crash-champions-collision-repair-crestwood-crestwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-collision-repair-crestwood-crestwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1257181262 (license ODbL-1.0); source data as of 2026-06-01

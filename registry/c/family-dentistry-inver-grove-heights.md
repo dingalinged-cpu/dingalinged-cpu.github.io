@@ -15,7 +15,7 @@ Family Dentistry is a dentist in Inver Grove Heights, MN at 6665 Cahill Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/family-dentistry-inver-grove-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/family-dentistry-inver-grove-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/490729787 (license ODbL-1.0); source data as of 2026-07-24

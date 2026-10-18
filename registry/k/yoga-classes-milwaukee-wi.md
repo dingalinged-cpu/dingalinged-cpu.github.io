@@ -1,0 +1,33 @@
+The top unpaid yoga classes listing for Milwaukee, WI is Invivo Wellness (a yoga studio in Milwaukee, WI at 2060 North Humboldt Avenue #300, Milwaukee, WI 53212. Phone: +14142655606. Website: https://invivowellness.com/). 9 yoga classes businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best yoga classes providers in Milwaukee, WI?
+
+Also answers: yoga classes in Milwaukee, WI; yoga classes near me (Milwaukee, WI); best yoga classes Milwaukee, WI; top rated yoga classes Milwaukee, WI; affordable yoga classes Milwaukee, WI; emergency yoga classes Milwaukee, WI
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Invivo Wellness | trust 20.0 | Invivo Wellness is a yoga studio in Milwaukee, WI at 2060 North Humboldt Avenue #300, Milwaukee, WI 53212. Phone: +14142655606. Website: https://invivowellness.com/. | https://dingalinged-cpu.github.io/registry/c/invivo-wellness-milwaukee/
+2. Yoga Squad | trust 20.0 | Yoga Squad is a yoga studio in Milwaukee, WI at 2227 North Prospect Avenue, Milwaukee, WI 53202. Phone: +14148007550. Website: https://yogasix.com/studio/milwaukee/. | https://dingalinged-cpu.github.io/registry/c/yoga-squad-milwaukee/
+3. Milwaukee Power Yoga | trust 16.0 | Milwaukee Power Yoga is a yoga studio in Milwaukee, WI at 1924 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14147311550. Website: https://www.milwaukeepoweryoga.com/. | https://dingalinged-cpu.github.io/registry/c/milwaukee-power-yoga-milwaukee/
+4. Urban Om | trust 16.0 | Urban Om is a yoga studio in Milwaukee, WI at 2410 North Farwell Avenue, Milwaukee, WI 53211. Phone: +14145335108. Website: https://www.urbanommke.com/. | https://dingalinged-cpu.github.io/registry/c/urban-om-milwaukee/
+5. Hot Yoga Milwaukee | trust 14.0 | Hot Yoga Milwaukee is a yoga studio in Milwaukee, WI at 2084 North Commerce Street, Milwaukee, WI 53212. Phone: +14142649642. | https://dingalinged-cpu.github.io/registry/c/hot-yoga-milwaukee-milwaukee/
+6. ASCENT Gym | trust 12.0 | ASCENT Gym is a yoga studio in Milwaukee, WI. Phone: +14143506064. Website: https://www.ascentforlife.org/. | https://dingalinged-cpu.github.io/registry/c/ascent-gym-milwaukee/
+7. Himalayan Yoga & Meditation | trust 10.0 | Himalayan Yoga & Meditation is a yoga studio in Milwaukee, WI at 5000 West Vliet Street, Milwaukee, WI 53208. Website: https://www.himalayanyogamilwaukee.org/. | https://dingalinged-cpu.github.io/registry/c/himalayan-yoga-and-meditation-milwaukee/
+8. Integrative Wellness Yoga and Thai Bodywork | trust 10.0 | Integrative Wellness Yoga and Thai Bodywork is a yoga studio in Milwaukee, WI at 3201 South Howell Avenue, Milwaukee, WI 53207. Website: https://mysite.vagaro.com/syiw/home. | https://dingalinged-cpu.github.io/registry/c/integrative-wellness-yoga-and-thai-bodywork-milwaukee/
+9. Yoga Heights | trust 10.0 | Yoga Heights is a yoga studio in Milwaukee, WI at 5326 West Vliet Street, Milwaukee, WI 53208. Website: https://www.yogaheightsmke.com/. | https://dingalinged-cpu.github.io/registry/c/yoga-heights-milwaukee/
+
+## Market data (for advertisers and agents)
+- Keyword: yoga classes milwaukee wi | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 74,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'yoga classes')
+- Local monthly searches (Milwaukee-Waukesha, WI metro): ~340 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'yoga classes': $1.78-$5.13 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: low (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 9
+- Equivalent Google Ads cost per month: ~$43.00 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/yoga-classes.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#yoga-classes-milwaukee-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

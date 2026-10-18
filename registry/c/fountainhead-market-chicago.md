@@ -15,7 +15,7 @@ Fountainhead Market is a liquor store in Chicago, IL at 1966 West Montrose Avenu
 - Opening hours (OSM syntax): Tu-Th 015:00-20:00; Fr-Sa 12:00-20:00; Su 12:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fountainhead-market-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fountainhead-market-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8893388698 (license ODbL-1.0); source data as of 2026-06-01

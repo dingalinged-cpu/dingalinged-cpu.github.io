@@ -15,7 +15,7 @@ West River Dental Care is a dentist in Minneapolis, MN. Phone: +16127212424.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/west-river-dental-care-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/west-river-dental-care-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8829958521 (license ODbL-1.0); source data as of 2026-07-24

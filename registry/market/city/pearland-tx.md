@@ -1,0 +1,58 @@
+Keyword market for Pearland, TX: 53 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
+
+# Top keywords in Pearland, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage pearland tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-pearland-tx/
+2. car wash pearland tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-pearland-tx/
+3. dentist pearland tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/dentist-pearland-tx/
+4. gym pearland tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/gym-pearland-tx/
+5. hair salon pearland tx | searches/mo 35,000 (est) | CPC $0.55 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/hair-salon-pearland-tx/
+6. nail salon pearland tx | searches/mo 23,000 (est) | CPC $0.61 | value $14,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/nail-salon-pearland-tx/
+7. mechanic pearland tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/mechanic-pearland-tx/
+8. tire shop pearland tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-pearland-tx/
+9. vet pearland tx | searches/mo 13,000 (est) | CPC $4.06 | value $53,000 | Google Ads equiv $3,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-pearland-tx/
+10. dog groomer pearland tx | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-pearland-tx/
+11. haircut pearland tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-pearland-tx/
+12. auto repair pearland tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/auto-repair-pearland-tx/
+13. chiropractor pearland tx | searches/mo 5,700 (est) | CPC $4.76 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/chiropractor-pearland-tx/
+14. real estate agent pearland tx | searches/mo 4,600 (est) | CPC $3.61 | value $17,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-pearland-tx/
+15. car inspection pearland tx | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-inspection-pearland-tx/
+
+## By CPC
+1. hvac repair pearland tx | searches/mo 1,700 (est) | CPC $17.76 | value $30,000 | Google Ads equiv $1,900/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-pearland-tx/
+2. attorney pearland tx | searches/mo 1,700 (est) | CPC $9.87 | value $17,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-pearland-tx/
+3. lawyer pearland tx | searches/mo 1,100 (est) | CPC $9.87 | value $11,000 | Google Ads equiv $650/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-pearland-tx/
+4. heating and air pearland tx | searches/mo 83.00 (est) | CPC $8.33 | value $690 | Google Ads equiv $44.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/heating-and-air-pearland-tx/
+5. storage units pearland tx | searches/mo 5,100 (est) | CPC $8.33 | value $42,000 | Google Ads equiv $2,700/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/storage-units-pearland-tx/
+6. bakery pearland tx | searches/mo 5,100 (est) | CPC $7.17 | value $37,000 | Google Ads equiv $2,800/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/bakery-pearland-tx/
+7. martial arts pearland tx | searches/mo 6,900 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/martial-arts-pearland-tx/
+8. tax preparer pearland tx | searches/mo 1,400 (est) | CPC $5.87 | value $8,200 | Google Ads equiv $460/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-pearland-tx/
+9. daycare pearland tx | searches/mo 5,100 (est) | CPC $4.81 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/daycare-pearland-tx/
+10. music lessons pearland tx | searches/mo 930 (est) | CPC $4.81 | value $4,500 | Google Ads equiv $260/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/music-lessons-pearland-tx/
+11. preschool pearland tx | searches/mo 5,100 (est) | CPC $4.81 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/preschool-pearland-tx/
+12. audiologist pearland tx | searches/mo 760 (est) | CPC $4.76 | value $3,600 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/audiologist-pearland-tx/
+13. chiropractor pearland tx | searches/mo 5,700 (est) | CPC $4.76 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/chiropractor-pearland-tx/
+14. eye doctor pearland tx | searches/mo 5,100 (est) | CPC $4.76 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/eye-doctor-pearland-tx/
+15. plastic surgeon pearland tx | searches/mo 760 (est) | CPC $4.76 | value $3,600 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/plastic-surgeon-pearland-tx/
+
+## By value (searches x CPC)
+1. massage pearland tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-pearland-tx/
+2. dentist pearland tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/dentist-pearland-tx/
+3. car wash pearland tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-pearland-tx/
+4. gym pearland tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/gym-pearland-tx/
+5. mechanic pearland tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/mechanic-pearland-tx/
+6. tire shop pearland tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-pearland-tx/
+7. vet pearland tx | searches/mo 13,000 (est) | CPC $4.06 | value $53,000 | Google Ads equiv $3,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-pearland-tx/
+8. dog groomer pearland tx | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-pearland-tx/
+9. haircut pearland tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-pearland-tx/
+10. auto repair pearland tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/auto-repair-pearland-tx/
+11. hvac repair pearland tx | searches/mo 1,700 (est) | CPC $17.76 | value $30,000 | Google Ads equiv $1,900/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-pearland-tx/
+12. chiropractor pearland tx | searches/mo 5,700 (est) | CPC $4.76 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/chiropractor-pearland-tx/
+13. hair salon pearland tx | searches/mo 35,000 (est) | CPC $0.55 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/hair-salon-pearland-tx/
+14. attorney pearland tx | searches/mo 1,700 (est) | CPC $9.87 | value $17,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-pearland-tx/
+15. real estate agent pearland tx | searches/mo 4,600 (est) | CPC $3.61 | value $17,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-pearland-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

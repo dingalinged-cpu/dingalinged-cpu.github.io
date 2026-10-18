@@ -15,7 +15,7 @@ Just Tires is a tire shop in Deerfield, IL at 25 North Waukegan Road, Deerfield,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/just-tires-deerfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/just-tires-deerfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1225723031 (license ODbL-1.0); source data as of 2026-06-01

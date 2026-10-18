@@ -15,7 +15,7 @@ Yoga For All Beings is a yoga studio in Chicago, IL at 508 North Hoyne Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/yoga-for-all-beings-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/yoga-for-all-beings-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209841797 (license ODbL-1.0); source data as of 2026-06-01

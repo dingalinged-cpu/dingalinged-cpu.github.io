@@ -15,7 +15,7 @@ Feist Automotive is an auto repair shop in Golden Valley, MN at 1875 Lilac Drive
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/feist-automotive-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/feist-automotive-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/356876108 (license ODbL-1.0); source data as of 2026-06-01

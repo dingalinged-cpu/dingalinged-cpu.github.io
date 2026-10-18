@@ -15,7 +15,7 @@ Next Door & Window is a window installer in Naperville, IL at 815 East Ogden Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/next-door-and-window-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/next-door-and-window-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/292642483 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Shake Guys is a roofer in Lake Zurich, IL at 550 IL-22, Lake Zurich, IL 60047. P
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00; Sa-Su closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shake-guys-lake-zurich/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shake-guys-lake-zurich.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11158570532 (license ODbL-1.0); source data as of 2026-06-01

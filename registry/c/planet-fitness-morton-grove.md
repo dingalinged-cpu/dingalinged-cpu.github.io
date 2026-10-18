@@ -15,7 +15,7 @@ Planet Fitness is a gym in Morton Grove, IL at 7300 West Dempster Street, Morton
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-morton-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-morton-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/729237197 (license ODbL-1.0); source data as of 2026-06-01

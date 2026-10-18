@@ -15,7 +15,7 @@ Gas N Wash is a car wash in Stickney, IL at 3800 South Cicero Avenue, Stickney, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gas-n-wash-stickney/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gas-n-wash-stickney.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1232236508 (license ODbL-1.0); source data as of 2026-07-28

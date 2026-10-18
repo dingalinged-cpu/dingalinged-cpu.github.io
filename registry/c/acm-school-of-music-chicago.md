@@ -15,7 +15,7 @@ ACM School of Music is a music school in Chicago, IL at 1758 West Wilson Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/acm-school-of-music-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/acm-school-of-music-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13512388406 (license ODbL-1.0); source data as of 2026-07-28

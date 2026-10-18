@@ -15,7 +15,7 @@ El Trigal Mexicana Bakery is a bakery in Chicago, IL at 3107 West Montrose Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/el-trigal-mexicana-bakery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/el-trigal-mexicana-bakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6285906282 (license ODbL-1.0); source data as of 2026-06-01

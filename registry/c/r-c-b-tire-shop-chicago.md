@@ -15,7 +15,7 @@ R.C.B Tire Shop is a tire shop in Chicago, IL at 9262 South South Chicago Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/r-c-b-tire-shop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/r-c-b-tire-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211362498 (license ODbL-1.0); source data as of 2026-06-01

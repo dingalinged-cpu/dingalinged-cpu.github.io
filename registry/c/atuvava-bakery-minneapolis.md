@@ -15,7 +15,7 @@ atuvava bakery is a bakery in Minneapolis, MN at 3800 28th Avenue South, Minneap
 - Opening hours (OSM syntax): We-Sa 12:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/atuvava-bakery-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/atuvava-bakery-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2832104548 (license ODbL-1.0); source data as of 2026-06-01

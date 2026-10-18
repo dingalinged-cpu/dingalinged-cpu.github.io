@@ -1,0 +1,76 @@
+{
+ "place": "Aubrey, TX",
+ "slug": "aubrey-tx",
+ "count": 2,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [],
+ "companies": [
+  {
+   "slug": "dental-depot-aubrey",
+   "name": "Dental Depot",
+   "summary": "Dental Depot is a dentist in Aubrey, TX at 26747 E University Dr, Aubrey, TX 76227. Phone: +14698372892. Website: https://dentaldepotdfw.com/locations/aubrey/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-depot-aubrey/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-depot-aubrey.json",
+   "address": {
+    "streetAddress": "26747 E University Dr",
+    "addressLocality": "Aubrey",
+    "addressRegion": "TX",
+    "postalCode": "76227",
+    "addressCountry": "US"
+   },
+   "city": "Aubrey",
+   "state": "TX",
+   "zip": "76227",
+   "geo": {
+    "lat": 33.2213322,
+    "lon": -96.9316787
+   },
+   "phone": "+14698372892",
+   "website": "https://dentaldepotdfw.com/locations/aubrey/",
+   "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa,Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12323013505",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "big-brand-tire-and-service-aubrey",
+   "name": "Big Brand Tire & Service",
+   "summary": "Big Brand Tire & Service is a tire shop in Aubrey, TX at 26779 US Highway 380 East, Aubrey, TX 76227.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-brand-tire-and-service-aubrey/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-brand-tire-and-service-aubrey.json",
+   "address": {
+    "streetAddress": "26779 US Highway 380 East",
+    "addressLocality": "Aubrey",
+    "addressRegion": "TX",
+    "postalCode": "76227",
+    "addressCountry": "US"
+   },
+   "city": "Aubrey",
+   "state": "TX",
+   "zip": "76227",
+   "geo": {
+    "lat": 33.2206792,
+    "lon": -96.9167511
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/746754419",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

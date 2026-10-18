@@ -15,7 +15,7 @@ Adams Driving School is a driving school in Wauconda, IL at 205 North Main Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/adams-driving-school-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/adams-driving-school-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9316625031 (license ODbL-1.0); source data as of 2026-07-28

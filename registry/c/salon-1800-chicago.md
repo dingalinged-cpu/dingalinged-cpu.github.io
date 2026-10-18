@@ -15,7 +15,7 @@ Salon 1800 is a hair salon in Chicago, IL at 1962 North Clybourn Avenue, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/salon-1800-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/salon-1800-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13574784349 (license ODbL-1.0); source data as of 2026-06-01

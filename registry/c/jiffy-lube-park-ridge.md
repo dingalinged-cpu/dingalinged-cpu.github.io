@@ -15,7 +15,7 @@ Jiffy Lube is an auto repair shop in Park Ridge, IL at 700 Higgins Road, Park Ri
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-park-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/545920853 (license ODbL-1.0); source data as of 2026-06-01

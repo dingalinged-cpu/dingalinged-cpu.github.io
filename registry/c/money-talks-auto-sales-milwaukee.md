@@ -1,0 +1,23 @@
+Money Talks Auto Sales is an used car dealer in Milwaukee, WI at 6502 West Fond du Lac Avenue, Milwaukee, WI 53218. Phone: +14142437470.
+
+# Money Talks Auto Sales
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 6502 West Fond du Lac Avenue, Milwaukee, WI 53218
+- City: Milwaukee
+- State: WI
+- ZIP: 53218
+- Coordinates: 43.1034036, -87.9927909
+- Phone: +14142437470
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/money-talks-auto-sales-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/money-talks-auto-sales-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12288754646 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ All Temp is a HVAC contractor in Wauconda, IL at 124 East Liberty Street, Waucon
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/all-temp-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/all-temp-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/978584882 (license ODbL-1.0); source data as of 2026-06-01

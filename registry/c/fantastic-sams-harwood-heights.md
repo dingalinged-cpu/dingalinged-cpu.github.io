@@ -15,7 +15,7 @@ Fantastic Sams is a hair salon in Harwood Heights, IL at 4711 North Harlem Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fantastic-sams-harwood-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fantastic-sams-harwood-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4929729042 (license ODbL-1.0); source data as of 2026-06-01

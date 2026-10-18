@@ -15,7 +15,7 @@ Doc Able's Auto Clinic is an auto repair shop in Evanston, IL at 936 Chicago Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/doc-ables-auto-clinic-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/doc-ables-auto-clinic-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/168764391 (license ODbL-1.0); source data as of 2026-06-01

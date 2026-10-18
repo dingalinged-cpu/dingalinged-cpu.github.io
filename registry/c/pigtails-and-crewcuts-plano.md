@@ -1,0 +1,23 @@
+Pigtails & Crewcuts is a hair salon in Plano, TX at 4801 West Park Boulevard #417, Plano, TX 75093.
+
+# Pigtails & Crewcuts
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 4801 West Park Boulevard #417, Plano, TX 75093
+- City: Plano
+- State: TX
+- ZIP: 75093
+- Coordinates: 33.028157, -96.7909289
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/pigtails-and-crewcuts-plano/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pigtails-and-crewcuts-plano.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8252573073 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

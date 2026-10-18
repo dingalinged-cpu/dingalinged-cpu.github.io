@@ -15,7 +15,7 @@ Edward Jones is a financial advisor in Naperville, IL at 2048 Aurora Avenue #116
 - Opening hours (OSM syntax): Mo-Th 07:30-17:00; Fr 07:30-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-jones-naperville-w975861156/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-naperville-w975861156.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/975861156 (license ODbL-1.0); source data as of 2026-07-28

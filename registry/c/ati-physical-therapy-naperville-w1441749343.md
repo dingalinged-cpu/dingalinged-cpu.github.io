@@ -15,7 +15,7 @@ ATI Physical Therapy is a physical therapy clinic in Naperville, IL at 1212 Sout
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-naperville-w1441749343/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-naperville-w1441749343.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1441749343 (license ODbL-1.0); source data as of 2026-07-28

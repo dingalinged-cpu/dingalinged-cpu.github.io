@@ -15,7 +15,7 @@ Continental Toyota is an used car dealer in Hodgkins, IL at 6701 South La Grange
 - Opening hours (OSM syntax): Mo-Tu 07:00-17:00; We 07:00-18:00; Th-Sa 07:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/continental-toyota-hodgkins/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/continental-toyota-hodgkins.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1040880508 (license ODbL-1.0); source data as of 2026-06-01

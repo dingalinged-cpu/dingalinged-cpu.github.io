@@ -15,7 +15,7 @@ The Hot Room North Shore is a yoga studio in Glenview, IL at 1926 Waukegan Road,
 - Opening hours (OSM syntax): Su 08:00-18:30, Mo 05:30-13:00, 16:00-19:30, Tu & Th 05:30-13:30, 16:00-21:00, We 05:30-13:30, 16:00-20:00, Fr 05:30-13:30, 17:00-19:30, Sa 06:30-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-hot-room-north-shore-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-hot-room-north-shore-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13287832746 (license ODbL-1.0); source data as of 2026-06-01

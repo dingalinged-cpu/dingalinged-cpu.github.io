@@ -15,7 +15,7 @@ MGM Wine & Spirits is a liquor store in Roseville, MN at 1149 Larpenteur Avenue 
 - Opening hours (OSM syntax): Mo-Fr 09:00-22:00; Sa 08:00-22:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mgm-wine-and-spirits-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mgm-wine-and-spirits-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1914627267 (license ODbL-1.0); source data as of 2026-06-01

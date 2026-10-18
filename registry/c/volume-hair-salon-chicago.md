@@ -15,7 +15,7 @@ Volume Hair Salon is a hair salon in Chicago, IL at 1717 West Chicago Avenue, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/volume-hair-salon-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/volume-hair-salon-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6538249096 (license ODbL-1.0); source data as of 2026-06-01

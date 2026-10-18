@@ -15,7 +15,7 @@ Wedding Day Diamonds is a jewelry store in Eden Prairie, MN at 8320 Flying Cloud
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wedding-day-diamonds-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wedding-day-diamonds-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/47233359 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Krueger Funeral Home is a funeral home in Blue Island, IL at 13050 Greenwood Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/krueger-funeral-home-blue-island/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/krueger-funeral-home-blue-island.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1363947214 (license ODbL-1.0); source data as of 2026-06-01

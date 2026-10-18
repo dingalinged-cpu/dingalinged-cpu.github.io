@@ -15,7 +15,7 @@ Lone Tree Manor Banquet Hall is an event venue in Niles, IL at 7730 North Milwau
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lone-tree-manor-banquet-hall-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lone-tree-manor-banquet-hall-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1217682561 (license ODbL-1.0); source data as of 2026-07-28

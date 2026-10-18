@@ -15,7 +15,7 @@ V's Barbershop is a hair salon in White Bear Lake, MN at 999 Wildwood Road, Whit
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vs-barbershop-white-bear-lake/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vs-barbershop-white-bear-lake.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12162218161 (license ODbL-1.0); source data as of 2026-06-01

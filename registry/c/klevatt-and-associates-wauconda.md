@@ -15,7 +15,7 @@ Klevatt & Associates is a lawyer in Wauconda, IL at 110B North Main Street #D, W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/klevatt-and-associates-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/klevatt-and-associates-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9712795493 (license ODbL-1.0); source data as of 2026-07-28

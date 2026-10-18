@@ -15,7 +15,7 @@ Cambridge Companies Design-Build is a business consultant in Griffith, IN at 500
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cambridge-companies-design-build-griffith/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cambridge-companies-design-build-griffith.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10096922665 (license ODbL-1.0); source data as of 2026-07-28

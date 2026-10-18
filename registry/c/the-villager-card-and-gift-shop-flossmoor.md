@@ -15,7 +15,7 @@ The Villager Card & Gift Shop is a gift shop in Flossmoor, IL at 1042 Sterling A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-villager-card-and-gift-shop-flossmoor/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-villager-card-and-gift-shop-flossmoor.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4605538448 (license ODbL-1.0); source data as of 2026-06-01

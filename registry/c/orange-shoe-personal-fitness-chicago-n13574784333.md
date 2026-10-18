@@ -15,7 +15,7 @@ Orange Shoe Personal Fitness is a gym in Chicago, IL at 1637 North Clybourn Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/orange-shoe-personal-fitness-chicago-n13574784333/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/orange-shoe-personal-fitness-chicago-n13574784333.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13574784333 (license ODbL-1.0); source data as of 2026-06-01

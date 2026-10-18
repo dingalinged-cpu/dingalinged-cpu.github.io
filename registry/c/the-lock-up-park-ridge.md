@@ -15,7 +15,7 @@ The Lock Up is a self-storage facility in Park Ridge, IL at 750 Busse Highway, P
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-lock-up-park-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-lock-up-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1380988625 (license ODbL-1.0); source data as of 2026-06-01

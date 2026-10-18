@@ -1,0 +1,23 @@
+Elevated Roofing, LLC is a roofer in Frisco, TX at 15222 King Road #402, Frisco, TX 75034. Phone: +14693050010. Website: https://elevatedroofing.com/.
+
+# Elevated Roofing, LLC
+
+- Category: roofer
+- Services: roofer, roofing contractor
+- Address: 15222 King Road #402, Frisco, TX 75034
+- City: Frisco
+- State: TX
+- ZIP: 75034
+- Coordinates: 33.1558241, -96.9103588
+- Phone: +14693050010
+- Website: https://elevatedroofing.com/
+- Email: contact@elevatedroofing.com
+- Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-13:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/elevated-roofing-llc-frisco/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/elevated-roofing-llc-frisco.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5178431833 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

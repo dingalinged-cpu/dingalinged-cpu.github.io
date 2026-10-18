@@ -15,7 +15,7 @@ Big Island Bouldering Climbing Gym is a gym in Plymouth, MN at 161 Cheshire Lane
 - Opening hours (OSM syntax): Mo-Fr 06:00-21:00; Sa-Su 07:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/big-island-bouldering-climbing-gym-plymouth/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/big-island-bouldering-climbing-gym-plymouth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12752661501 (license ODbL-1.0); source data as of 2026-07-15

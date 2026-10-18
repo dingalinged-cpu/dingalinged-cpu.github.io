@@ -15,7 +15,7 @@ Anthos Training Club is a gym in Chicago, IL at 1558 East 53rd Street, Chicago, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anthos-training-club-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anthos-training-club-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1468110543 (license ODbL-1.0); source data as of 2026-06-01

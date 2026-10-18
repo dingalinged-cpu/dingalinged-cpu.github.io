@@ -15,7 +15,7 @@ Kay Jewelers is a jewelry store in Arlington Heights, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kay-jewelers-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5413184911 (license ODbL-1.0); source data as of 2026-06-01

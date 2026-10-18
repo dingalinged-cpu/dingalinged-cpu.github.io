@@ -1,0 +1,23 @@
+Sun's Tailor is a tailor in Allen, TX.
+
+# Sun's Tailor
+
+- Category: tailor
+- Services: tailor
+- Address: Allen, TX
+- City: Allen
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.128216, -96.6576207
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/suns-tailor-allen/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/suns-tailor-allen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3780008570 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

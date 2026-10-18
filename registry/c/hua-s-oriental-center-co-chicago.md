@@ -15,7 +15,7 @@ Hua’s Oriental Center Co. is an acupuncture clinic in Chicago, IL at 634 West 
 - Opening hours (OSM syntax): Mo-We,Fr-Sa 09:15-17:30; Th,Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hua-s-oriental-center-co-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hua-s-oriental-center-co-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11227977938 (license ODbL-1.0); source data as of 2026-07-28

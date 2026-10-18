@@ -15,7 +15,7 @@ Ludwig's Feed Store is a pet store in Lemont Township, IL at 13205 West 131st St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ludwigs-feed-store-lemont-township/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ludwigs-feed-store-lemont-township.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1078399063 (license ODbL-1.0); source data as of 2026-06-01

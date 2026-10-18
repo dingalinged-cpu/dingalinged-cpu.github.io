@@ -15,7 +15,7 @@ Acupuncture Center ChunAm is an acupuncture clinic in Wheeling, IL at 737 West D
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/acupuncture-center-chunam-wheeling/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/acupuncture-center-chunam-wheeling.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11382585773 (license ODbL-1.0); source data as of 2026-07-28

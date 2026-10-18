@@ -15,7 +15,7 @@ Bowdental of Evanston is a dentist in Evanston, IL at 2611 Broadway Avenue, Evan
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bowdental-of-evanston-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bowdental-of-evanston-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13019435184 (license ODbL-1.0); source data as of 2026-07-28

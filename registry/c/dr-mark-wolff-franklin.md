@@ -1,0 +1,23 @@
+Dr. Mark Wolff is a chiropractor in Franklin, WI at 7186 South 76th Street, Franklin, WI 53132.
+
+# Dr. Mark Wolff
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 7186 South 76th Street, Franklin, WI 53132
+- City: Franklin
+- State: WI
+- ZIP: 53132
+- Coordinates: 42.9134725, -88.0075551
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-mark-wolff-franklin/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-mark-wolff-franklin.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1175952907 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

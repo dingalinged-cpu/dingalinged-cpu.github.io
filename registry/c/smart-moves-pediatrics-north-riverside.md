@@ -15,7 +15,7 @@ Smart Moves Pediatrics is a pediatrician in North Riverside, IL. Website: https:
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/smart-moves-pediatrics-north-riverside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/smart-moves-pediatrics-north-riverside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10721774994 (license ODbL-1.0); source data as of 2026-07-28

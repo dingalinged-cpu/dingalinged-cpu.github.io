@@ -15,7 +15,7 @@ Unity Preschool is a preschool in Evanston, IL at 926 Noyes Street, Evanston, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/unity-preschool-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/unity-preschool-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2295263001 (license ODbL-1.0); source data as of 2026-07-28

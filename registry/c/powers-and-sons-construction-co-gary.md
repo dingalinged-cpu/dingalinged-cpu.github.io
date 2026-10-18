@@ -15,7 +15,7 @@ Powers And Sons Construction Co. is an architect in Gary, IN at 2636 West 15th A
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/powers-and-sons-construction-co-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/powers-and-sons-construction-co-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10690926688 (license ODbL-1.0); source data as of 2026-07-28

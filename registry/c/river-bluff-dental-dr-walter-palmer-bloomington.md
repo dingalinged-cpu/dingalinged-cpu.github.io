@@ -15,7 +15,7 @@ River Bluff Dental - Dr. Walter Palmer is a dentist in Bloomington, MN at 10851 
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu-Th 07:00-16:30; Fr 08:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/river-bluff-dental-dr-walter-palmer-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/river-bluff-dental-dr-walter-palmer-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/362842348 (license ODbL-1.0); source data as of 2026-07-24

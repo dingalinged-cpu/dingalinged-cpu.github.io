@@ -15,7 +15,7 @@ Sanchez Bike Repair is a bike shop in Chicago, IL at 3654 West 26th Street, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sanchez-bike-repair-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sanchez-bike-repair-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7895372531 (license ODbL-1.0); source data as of 2026-06-01

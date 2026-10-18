@@ -15,7 +15,7 @@ B Sharp Hair is a hair salon in Edina, MN.
 - Opening hours (OSM syntax): Sa,Su 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/b-sharp-hair-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/b-sharp-hair-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12138867401 (license ODbL-1.0); source data as of 2026-06-01

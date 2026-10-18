@@ -15,7 +15,7 @@ The Seville is an event venue in Streamwood, IL at 700 South Barrington Road, St
 - Opening hours (OSM syntax): Tu-Fr 10:00-20:00; Sa 10:00-17:00; Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-seville-streamwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-seville-streamwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6973732723 (license ODbL-1.0); source data as of 2026-07-28

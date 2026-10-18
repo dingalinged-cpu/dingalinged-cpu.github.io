@@ -15,7 +15,7 @@ Vida Bodywork is a massage studio in Minneapolis, MN at 611 West Lake Street, Mi
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vida-bodywork-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vida-bodywork-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5292643310 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Kindred Counselling is a therapy practice in Naperville, IL at 121 North Washing
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kindred-counselling-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kindred-counselling-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8893105803 (license ODbL-1.0); source data as of 2026-07-28

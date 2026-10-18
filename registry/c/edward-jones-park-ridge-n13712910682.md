@@ -15,7 +15,7 @@ Edward Jones is a financial advisor in Park Ridge, IL at 131 North Northwest Hig
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-jones-park-ridge-n13712910682/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-park-ridge-n13712910682.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13712910682 (license ODbL-1.0); source data as of 2026-07-28

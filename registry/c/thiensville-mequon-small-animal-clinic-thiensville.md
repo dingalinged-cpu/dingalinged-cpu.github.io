@@ -1,0 +1,23 @@
+Thiensville-Mequon Small Animal Clinic is a veterinarian in Thiensville, WI at 425 Main Street, Thiensville, WI 53092.
+
+# Thiensville-Mequon Small Animal Clinic
+
+- Category: vet
+- Services: vet
+- Address: 425 Main Street, Thiensville, WI 53092
+- City: Thiensville
+- State: WI
+- ZIP: 53092
+- Coordinates: 43.2396327, -87.9859619
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/thiensville-mequon-small-animal-clinic-thiensville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/thiensville-mequon-small-animal-clinic-thiensville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4554615009 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+The UPS Store is a printing service in Richardson, TX at 224 West Campbell Road, Richardson, TX 75080.
+
+# The UPS Store
+
+- Category: printing services
+- Services: printing services
+- Address: 224 West Campbell Road, Richardson, TX 75080
+- City: Richardson
+- State: TX
+- ZIP: 75080
+- Coordinates: 32.9762213, -96.720817
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-15:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-richardson-n5265099001/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-richardson-n5265099001.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5265099001 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

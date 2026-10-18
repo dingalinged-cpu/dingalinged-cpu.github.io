@@ -15,7 +15,7 @@ Norblom Plumbing is a plumber in Saint Paul, MN at 1465 Selby Avenue, Saint Paul
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/norblom-plumbing-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/norblom-plumbing-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/845504165 (license ODbL-1.0); source data as of 2026-07-24

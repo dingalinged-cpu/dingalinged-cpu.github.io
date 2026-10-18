@@ -1,0 +1,45 @@
+{
+ "place": "Glenn Heights, TX",
+ "slug": "glenn-heights-tx",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "liquor store glenn heights tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-glenn-heights-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "liquor-depot-glenn-heights",
+   "name": "Liquor Depot",
+   "summary": "Liquor Depot is a liquor store in Glenn Heights, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-depot-glenn-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-depot-glenn-heights.json",
+   "address": {
+    "addressLocality": "Glenn Heights",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Glenn Heights",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5597455,
+    "lon": -96.8241226
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7068186167",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

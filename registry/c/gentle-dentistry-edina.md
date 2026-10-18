@@ -15,7 +15,7 @@ Gentle Dentistry is a dentist in Edina, MN at 5107 Gus Young Lane, Edina, MN 554
 - Opening hours (OSM syntax): Mo 07:00-16:00; Tu 08:00-18:00; We 07:00-17:00; Th 07:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gentle-dentistry-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gentle-dentistry-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12272163248 (license ODbL-1.0); source data as of 2026-07-24

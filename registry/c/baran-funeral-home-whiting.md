@@ -15,7 +15,7 @@ Baran Funeral Home is a funeral home in Whiting, IN at 1235 119th Street, Whitin
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/baran-funeral-home-whiting/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/baran-funeral-home-whiting.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1232071667 (license ODbL-1.0); source data as of 2026-06-01

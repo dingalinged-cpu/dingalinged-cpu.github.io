@@ -15,7 +15,7 @@ All Smiles Orthodontics is a dentist in Flossmoor, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/all-smiles-orthodontics-flossmoor/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/all-smiles-orthodontics-flossmoor.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12161691059 (license ODbL-1.0); source data as of 2026-07-28

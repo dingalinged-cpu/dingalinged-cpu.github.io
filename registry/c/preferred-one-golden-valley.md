@@ -15,7 +15,7 @@ Preferred One is an insurance agent in Golden Valley, MN at 6105 Golden Hills Dr
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/preferred-one-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/preferred-one-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/44970397 (license ODbL-1.0); source data as of 2026-05-31

@@ -1,0 +1,23 @@
+Firestone Complete Auto Care is a tire shop in Bedford, TX.
+
+# Firestone Complete Auto Care
+
+- Category: tire shop
+- Services: tire shop
+- Address: Bedford, TX
+- City: Bedford
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.8524583, -97.1160261
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/firestone-complete-auto-care-bedford/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/firestone-complete-auto-care-bedford.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/689708403 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

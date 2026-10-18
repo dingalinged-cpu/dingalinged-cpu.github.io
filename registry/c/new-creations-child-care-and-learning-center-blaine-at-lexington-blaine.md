@@ -15,7 +15,7 @@ New Creations Child Care & Learning Center | Blaine (at Lexington) is a daycare 
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-blaine-at-lexington-blaine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-creations-child-care-and-learning-center-blaine-at-lexington-blaine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11030600305 (license ODbL-1.0); source data as of 2026-07-24

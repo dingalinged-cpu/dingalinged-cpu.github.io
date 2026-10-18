@@ -15,7 +15,7 @@ Chloe’s Sweets & Treats is a bakery in Chicago, IL at 6100 South Ellis Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chloe-s-sweets-and-treats-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chloe-s-sweets-and-treats-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6282567299 (license ODbL-1.0); source data as of 2026-06-01

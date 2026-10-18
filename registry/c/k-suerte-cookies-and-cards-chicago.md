@@ -15,7 +15,7 @@ K-suerte Cookies & Cards is a bakery in Chicago, IL at 2419 West 14th Street, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/k-suerte-cookies-and-cards-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/k-suerte-cookies-and-cards-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6319063595 (license ODbL-1.0); source data as of 2026-06-01

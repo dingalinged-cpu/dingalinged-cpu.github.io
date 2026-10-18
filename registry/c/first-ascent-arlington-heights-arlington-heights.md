@@ -15,7 +15,7 @@ First Ascent Arlington Heights is a gym in Arlington Heights, IL at 701 Rohlwing
 - Opening hours (OSM syntax): Mo-Fr 06:00-22:00; Sa-Su 10:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/first-ascent-arlington-heights-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/first-ascent-arlington-heights-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10283066309 (license ODbL-1.0); source data as of 2026-06-01

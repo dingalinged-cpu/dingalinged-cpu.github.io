@@ -15,7 +15,7 @@ Golden Living Center is an assisted living facility in Fridley, MN at 5700 East 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/golden-living-center-fridley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/golden-living-center-fridley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/219848723 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Maas Auto is an auto repair shop in Countryside, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/maas-auto-countryside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/maas-auto-countryside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1150636880 (license ODbL-1.0); source data as of 2026-06-01

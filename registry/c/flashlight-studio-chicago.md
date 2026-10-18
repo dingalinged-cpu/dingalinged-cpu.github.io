@@ -15,7 +15,7 @@ Flashlight Studio is a photographer in Chicago, IL at 62 West Huron Street, Chic
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/flashlight-studio-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/flashlight-studio-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5805992174 (license ODbL-1.0); source data as of 2026-06-01

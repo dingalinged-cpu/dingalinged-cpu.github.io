@@ -15,7 +15,7 @@ t lee custom design jewelry is a jewelry store in Minneapolis, MN at 509 1/2 Nor
 - Opening hours (OSM syntax): Tu-Sa 10:00-17:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/t-lee-custom-design-jewelry-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/t-lee-custom-design-jewelry-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6773414118 (license ODbL-1.0); source data as of 2026-06-01

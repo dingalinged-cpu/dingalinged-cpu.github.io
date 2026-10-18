@@ -1,0 +1,23 @@
+Face Forward Houston is a plastic surgeon in Houston, TX at 427 W 20th Street, Suite 100, Houston, TX 77018. Phone: +17133212424. Website: https://www.faceforwardhouston.com/.
+
+# Face Forward Houston
+
+- Category: plastic surgeon
+- Services: plastic surgeon
+- Address: 427 W 20th Street, Suite 100, Houston, TX 77018
+- City: Houston
+- State: TX
+- ZIP: 77018
+- Coordinates: 29.8119607, -95.4361772
+- Phone: +17133212424
+- Website: https://www.faceforwardhouston.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo 09:00-16:00; Tu,Th 09:00-17:00; We 07:30-15:00; Fr 09:00-15:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/face-forward-houston-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/face-forward-houston-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11045843694 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

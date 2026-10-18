@@ -1,0 +1,23 @@
+Missouri Car Care is an auto repair shop in Missouri City, TX at 1653 Cartwright Road, Missouri City, TX 77489.
+
+# Missouri Car Care
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 1653 Cartwright Road, Missouri City, TX 77489
+- City: Missouri City
+- State: TX
+- ZIP: 77489
+- Coordinates: 29.5831363, -95.5279962
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/missouri-car-care-missouri-city/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/missouri-car-care-missouri-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4227549150 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,5197 @@
+{
+ "place": "The Woodlands, TX",
+ "slug": "the-woodlands-tx",
+ "count": 175,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "accounting services the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "assisted living the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "attorney the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "auto repair the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "bakery the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "car wash the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "chiropractor the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "coworking space the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/coworking-space-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "dance studio the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "daycare the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "dentist the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "dog groomer the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "dry cleaners the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "eye doctor the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "facial the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "family doctor the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "financial advisor the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "furniture store the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "gift shop the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "graphic designer the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/graphic-designer-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "gym the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "hair salon the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "haircut the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "heating and air the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "hvac repair the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "insurance agency the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "insurance agent the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "insurance agents the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "jewelry store the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "landscaping the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/landscaping-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "lawyer the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "liquor store the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "martial arts the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "massage the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "mattress store the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "mechanic the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "music lessons the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/music-lessons-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "nail salon the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "occupational therapist the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/occupational-therapist-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "oil change the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "pet store the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "phone repair the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/phone-repair-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "photographer the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/photographer-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "plumber the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumber-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "plumbers the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbers-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "plumbing services the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbing-services-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "preschool the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "primary care physician the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "printing services the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "real estate agent the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "realtor the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "storage units the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "tax preparation the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "tax preparer the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "therapist the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "tire shop the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-the-woodlands-tx.json"
+  },
+  {
+   "keyword": "vet the woodlands tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-the-woodlands-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "action-behavior-centers-the-woodlands",
+   "name": "Action Behavior Centers",
+   "summary": "Action Behavior Centers is a therapy practice in The Woodlands, TX at 3608 Research Forest Drive #500, The Woodlands, TX 77381. Phone: +17133886410. Website: https://www.actionbehavior.com/locations/aba-therapy-woodlands/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/action-behavior-centers-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/action-behavior-centers-the-woodlands.json",
+   "address": {
+    "streetAddress": "3608 Research Forest Drive #500",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77381",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77381",
+   "geo": {
+    "lat": 30.1818672,
+    "lon": -95.4832511
+   },
+   "phone": "+17133886410",
+   "website": "https://www.actionbehavior.com/locations/aba-therapy-woodlands/",
+   "opening_hours": "Mo-Fr 08:00-17:00, Sa-Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8063083643",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anytime-plumbing-365-drain-cleaning-and-repair-the-woodlands",
+   "name": "Anytime Plumbing 365, Drain Cleaning & Repair",
+   "summary": "Anytime Plumbing 365, Drain Cleaning & Repair is a plumber in The Woodlands, TX at 25420 Kuykendahl Rd, Suite B200-236, The Woodlands, TX 77375. Phone: +17134877943. Website: https://www.anytimeplumbing365.com/emergency-plumbing-repairs/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-plumbing-365-drain-cleaning-and-repair-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-plumbing-365-drain-cleaning-and-repair-the-woodlands.json",
+   "address": {
+    "streetAddress": "25420 Kuykendahl Rd, Suite B200-236",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77375",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77375",
+   "geo": {
+    "lat": 30.130395,
+    "lon": -95.5517336
+   },
+   "phone": "+17134877943",
+   "website": "https://www.anytimeplumbing365.com/emergency-plumbing-repairs/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13526087276",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "daniel-j-hoffman-and-associates-the-woodlands",
+   "name": "Daniel J. Hoffman & Associates",
+   "summary": "Daniel J. Hoffman & Associates is a tax preparation service in The Woodlands, TX at 719 Sawdust Road #117, The Woodlands, TX 77380. Phone: +12813679550. Website: https://www.dhoffman.com/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/daniel-j-hoffman-and-associates-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/daniel-j-hoffman-and-associates-the-woodlands.json",
+   "address": {
+    "streetAddress": "719 Sawdust Road #117",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1260391,
+    "lon": -95.4535983
+   },
+   "phone": "+12813679550",
+   "website": "https://www.dhoffman.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6410991102",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dionecsa-the-woodlands",
+   "name": "DIONECSA",
+   "summary": "DIONECSA is a graphic designer in The Woodlands, TX at 21 Waterway Avenue #300, The Woodlands, TX 77380. Phone: +12813622794. Website: https://dionecsa.com/.",
+   "categories": [
+    "graphic designer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dionecsa-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dionecsa-the-woodlands.json",
+   "address": {
+    "streetAddress": "21 Waterway Avenue #300",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1603392,
+    "lon": -95.4594157
+   },
+   "phone": "+12813622794",
+   "website": "https://dionecsa.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8961385917",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dylans-liquor-store-the-woodlands",
+   "name": "Dylan's Liquor Store",
+   "summary": "Dylan's Liquor Store is a liquor store in The Woodlands, TX at 8000 Research Forest Drive #120, The Woodlands, TX 77382. Phone: +13463312157. Website: https://www.dylansliquor.net/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dylans-liquor-store-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dylans-liquor-store-the-woodlands.json",
+   "address": {
+    "streetAddress": "8000 Research Forest Drive #120",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77382",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77382",
+   "geo": {
+    "lat": 30.2097842,
+    "lon": -95.5267477
+   },
+   "phone": "+13463312157",
+   "website": "https://www.dylansliquor.net/",
+   "opening_hours": "Mo-Fr 13:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9462233129",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farley-orthodontics-the-woodlands",
+   "name": "Farley Orthodontics",
+   "summary": "Farley Orthodontics is a dentist in The Woodlands, TX at 8000 Research Forest Drive #150, The Woodlands, TX 77382. Phone: +12812924272. Website: https://getitstraightnow.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farley-orthodontics-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farley-orthodontics-the-woodlands.json",
+   "address": {
+    "streetAddress": "8000 Research Forest Drive #150",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77382",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77382",
+   "geo": {
+    "lat": 30.2099754,
+    "lon": -95.5271179
+   },
+   "phone": "+12812924272",
+   "website": "https://getitstraightnow.com/",
+   "opening_hours": "\"see website\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9462233134",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "first-primary-care-the-woodlands",
+   "name": "First Primary Care",
+   "summary": "First Primary Care is a family medicine practice in The Woodlands, TX at 25511 Budde Road #3703, The Woodlands, TX 77380. Phone: +12815498060. Website: https://www.firstprimarycare.com/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-primary-care-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-primary-care-the-woodlands.json",
+   "address": {
+    "streetAddress": "25511 Budde Road #3703",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1316727,
+    "lon": -95.4510516
+   },
+   "phone": "+12815498060",
+   "website": "https://www.firstprimarycare.com/",
+   "opening_hours": "Mo-Th 08:30-16:30; Fr 08:30-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13603595822",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "greenscape-innovations-llc-the-woodlands",
+   "name": "Greenscape Innovations, LLC",
+   "summary": "Greenscape Innovations, LLC is a landscaping company in The Woodlands, TX at 1501 Ashland Drive, The Woodlands, TX 77385. Phone: +19362715001. Website: https://www.greenscapeinnovationsllc.com/.",
+   "categories": [
+    "landscaping"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greenscape-innovations-llc-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greenscape-innovations-llc-the-woodlands.json",
+   "address": {
+    "streetAddress": "1501 Ashland Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1945941,
+    "lon": -95.4125652
+   },
+   "phone": "+19362715001",
+   "website": "https://www.greenscapeinnovationsllc.com/",
+   "opening_hours": "Mo-Fr 07:00-17:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5783983089",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hughes-and-cozad-orthodontics-the-woodlands",
+   "name": "Hughes & Cozad Orthodontics",
+   "summary": "Hughes & Cozad Orthodontics is a dentist in The Woodlands, TX at 10393 Kuykendahl Road, The Woodlands, TX 77382. Phone: +12816811118. Website: https://hughescozadortho.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hughes-and-cozad-orthodontics-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hughes-and-cozad-orthodontics-the-woodlands.json",
+   "address": {
+    "streetAddress": "10393 Kuykendahl Road",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77382",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77382",
+   "geo": {
+    "lat": 30.1828573,
+    "lon": -95.5343099
+   },
+   "phone": "+12816811118",
+   "website": "https://hughescozadortho.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1394863268",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "james-avery-jewelry-the-woodlands",
+   "name": "James Avery Jewelry",
+   "summary": "James Avery Jewelry is a jewelry store in The Woodlands, TX at 1201 Lake Woodlands Drive #400, The Woodlands, TX 77380. Phone: +12813639300. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=799.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-avery-jewelry-the-woodlands.json",
+   "address": {
+    "streetAddress": "1201 Lake Woodlands Drive #400",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1643842,
+    "lon": -95.4550446
+   },
+   "phone": "+12813639300",
+   "website": "https://www.jamesavery.com/custserv/store_details.jsp?storeId=799",
+   "opening_hours": "Mo-Sa 10:00-21:00, Su 12:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4999638786",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "keller-williams-realty-the-woodlands",
+   "name": "Keller Williams Realty",
+   "summary": "Keller Williams Realty is a real estate agency in The Woodlands, TX at 2201 Lake Woodlands Dr, The Woodlands, TX 77380. Phone: +12813641588. Website: https://kwwoodlands.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/keller-williams-realty-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/keller-williams-realty-the-woodlands.json",
+   "address": {
+    "streetAddress": "2201 Lake Woodlands Dr",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.165686,
+    "lon": -95.4695461
+   },
+   "phone": "+12813641588",
+   "website": "https://kwwoodlands.com/",
+   "opening_hours": "Mo-Su 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6045703185",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lomness-cpa-services-inc-the-woodlands",
+   "name": "Lomness CPA Services, Inc.",
+   "summary": "Lomness CPA Services, Inc. is an accountant in The Woodlands, TX at 8505 Technology Forest Place #202, The Woodlands, TX 77381. Phone: +12819620310. Website: https://www.lomnesscpa.com/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lomness-cpa-services-inc-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lomness-cpa-services-inc-the-woodlands.json",
+   "address": {
+    "streetAddress": "8505 Technology Forest Place #202",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77381",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77381",
+   "geo": {
+    "lat": 30.1878748,
+    "lon": -95.4802144
+   },
+   "phone": "+12819620310",
+   "website": "https://www.lomnesscpa.com/",
+   "opening_hours": "Mo-Fr 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7787402173",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lucid-private-offices-the-woodlands",
+   "name": "Lucid Private Offices",
+   "summary": "Lucid Private Offices is a coworking space in The Woodlands, TX at 2001 Timberloch Place #Suite 500, The Woodlands, TX 77380. Phone: +12813159841. Website: https://www.lucidprivateoffices.com/texas/the-woodlands/2001-timberloch-place/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lucid-private-offices-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lucid-private-offices-the-woodlands.json",
+   "address": {
+    "streetAddress": "2001 Timberloch Place #Suite 500",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1585408,
+    "lon": -95.4506636
+   },
+   "phone": "+12813159841",
+   "website": "https://www.lucidprivateoffices.com/texas/the-woodlands/2001-timberloch-place/",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13511830688",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nonstopjustice-pllc-the-woodlands",
+   "name": "Nonstopjustice PLLC",
+   "summary": "Nonstopjustice PLLC is a lawyer in The Woodlands, TX at 350 Nursery Road #Suite 6102, The Woodlands, TX 77380. Phone: +18323813430. Website: https://www.nonstopjustice.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nonstopjustice-pllc-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nonstopjustice-pllc-the-woodlands.json",
+   "address": {
+    "streetAddress": "350 Nursery Road #Suite 6102",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1409598,
+    "lon": -95.4503325
+   },
+   "phone": "+18323813430",
+   "website": "https://www.nonstopjustice.com/",
+   "opening_hours": "Mo-Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13570169608",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "orthodontic-nations-the-woodlands",
+   "name": "Orthodontic Nations",
+   "summary": "Orthodontic Nations is a dentist in The Woodlands, TX at 3091 College Park Dr #STE 310, The Woodlands, TX 77384. Phone: +19362420788. Website: https://www.orthodonticnations.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orthodontic-nations-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orthodontic-nations-the-woodlands.json",
+   "address": {
+    "streetAddress": "3091 College Park Dr #STE 310",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.205199,
+    "lon": -95.4624837
+   },
+   "phone": "+19362420788",
+   "website": "https://www.orthodonticnations.com/",
+   "opening_hours": "Tu 09:30-13:30; We,Fr 08:00-17:00; Sa 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13294294029",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petco-the-woodlands",
+   "name": "Petco",
+   "summary": "Petco is a pet store in The Woodlands, TX at 10864 Kuykendahl Road, The Woodlands, TX 77381. Phone: +12814654771. Website: https://stores.petco.com/tx/thewoodlands/pet-supplies-thewoodlands-tx-1481.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-the-woodlands.json",
+   "address": {
+    "streetAddress": "10864 Kuykendahl Road",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77381",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77381",
+   "geo": {
+    "lat": 30.1759294,
+    "lon": -95.5358214
+   },
+   "phone": "+12814654771",
+   "website": "https://stores.petco.com/tx/thewoodlands/pet-supplies-thewoodlands-tx-1481.html",
+   "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8669771066",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ramos-law-group-pllc-the-woodlands",
+   "name": "Ramos Law Group PLLC",
+   "summary": "Ramos Law Group PLLC is a lawyer in The Woodlands, TX at 8505 Technology Forest Place #104, The Woodlands, TX 77381. Phone: +19362845084. Website: https://www.ramosfamilylaw.com/locations/the-woodlands/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ramos-law-group-pllc-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ramos-law-group-pllc-the-woodlands.json",
+   "address": {
+    "streetAddress": "8505 Technology Forest Place #104",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77381",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77381",
+   "geo": {
+    "lat": 30.1873115,
+    "lon": -95.4801008
+   },
+   "phone": "+19362845084",
+   "website": "https://www.ramosfamilylaw.com/locations/the-woodlands/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13081356935",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rhame-and-gorrell-wealth-management-the-woodlands",
+   "name": "Rhame & Gorrell Wealth Management",
+   "summary": "Rhame & Gorrell Wealth Management is a financial advisor in The Woodlands, TX at 1330 Lake Robbins Drive, The Woodlands, TX 77380. Phone: +18327891100. Website: https://rgwealth.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rhame-and-gorrell-wealth-management-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rhame-and-gorrell-wealth-management-the-woodlands.json",
+   "address": {
+    "streetAddress": "1330 Lake Robbins Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1616482,
+    "lon": -95.4550953
+   },
+   "phone": "+18327891100",
+   "website": "https://rgwealth.com/",
+   "opening_hours": "Mo-Th 08:00-16:30; Fr 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10844731682",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "robichaus-jewelry-the-woodlands",
+   "name": "Robichau's Jewelry",
+   "summary": "Robichau's Jewelry is a jewelry store in The Woodlands, TX at 4775 West Panther Creek Drive #B-245, The Woodlands, TX 77381. Phone: +12813677807. Website: https://www.robichausjewelry.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/robichaus-jewelry-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/robichaus-jewelry-the-woodlands.json",
+   "address": {
+    "streetAddress": "4775 West Panther Creek Drive #B-245",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77381",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77381",
+   "geo": {
+    "lat": 30.1679176,
+    "lon": -95.5039638
+   },
+   "phone": "+12813677807",
+   "website": "https://www.robichausjewelry.com/",
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5763809235",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woof-gang-bakery-and-grooming-the-woodlands",
+   "name": "Woof Gang Bakery and Grooming",
+   "summary": "Woof Gang Bakery and Grooming is a dog groomer in The Woodlands, TX at 3091 College Park Drive #280, The Woodlands, TX 77384. Phone: +13462209663. Website: https://woofgangbakery.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woof-gang-bakery-and-grooming-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woof-gang-bakery-and-grooming-the-woodlands.json",
+   "address": {
+    "streetAddress": "3091 College Park Drive #280",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.2054079,
+    "lon": -95.462535
+   },
+   "phone": "+13462209663",
+   "website": "https://woofgangbakery.com/",
+   "opening_hours": "Mo-Sa 09:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12366389996",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "accur-ac-the-woodlands",
+   "name": "Accur-AC",
+   "summary": "Accur-AC is a HVAC contractor in The Woodlands, TX at 1790 Hughes Landing Boulevard, The Woodlands, TX 77380. Phone: +12816023410. Website: https://www.accur-ac.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/accur-ac-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/accur-ac-the-woodlands.json",
+   "address": {
+    "streetAddress": "1790 Hughes Landing Boulevard",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1722814,
+    "lon": -95.4702748
+   },
+   "phone": "+12816023410",
+   "website": "https://www.accur-ac.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4073755178",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "amerejuve-medspa-houston-the-woodlands",
+   "name": "Amerejuve MedSpa Houston",
+   "summary": "Amerejuve MedSpa Houston is a skin care studio in The Woodlands, TX at 3091 College Park Drive #275, The Woodlands, TX 77384. Phone: +17139606262. Website: https://www.amerejuve.com/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/amerejuve-medspa-houston-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/amerejuve-medspa-houston-the-woodlands.json",
+   "address": {
+    "streetAddress": "3091 College Park Drive #275",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.2052363,
+    "lon": -95.4625216
+   },
+   "phone": "+17139606262",
+   "website": "https://www.amerejuve.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12366389995",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "behavioral-innovations-the-woodlands",
+   "name": "Behavioral Innovations",
+   "summary": "Behavioral Innovations is an occupational therapist in The Woodlands, TX at 8101 Kuykendahl Road #Suite 100, The Woodlands, TX 77382. Phone: +18557827822. Website: https://behavioral-innovations.com/.",
+   "categories": [
+    "occupational therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/behavioral-innovations-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/behavioral-innovations-the-woodlands.json",
+   "address": {
+    "streetAddress": "8101 Kuykendahl Road #Suite 100",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77382",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77382",
+   "geo": {
+    "lat": 30.20994,
+    "lon": -95.5250534
+   },
+   "phone": "+18557827822",
+   "website": "https://behavioral-innovations.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9295077436",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "complete-car-care-the-woodlands",
+   "name": "Complete Car Care",
+   "summary": "Complete Car Care is an auto repair shop in The Woodlands, TX at 8181 Kuykendahl Road, The Woodlands, TX 77382. Phone: +12814197333. Website: https://www.goodyear.com/en-US/tire-shop/The+Woodlands+TX+77382+US/000197428.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/complete-car-care-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/complete-car-care-the-woodlands.json",
+   "address": {
+    "streetAddress": "8181 Kuykendahl Road",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77382",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77382",
+   "geo": {
+    "lat": 30.2094674,
+    "lon": -95.525574
+   },
+   "phone": "+12814197333",
+   "website": "https://www.goodyear.com/en-US/tire-shop/The+Woodlands+TX+77382+US/000197428",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1026288393",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cryo-sports-cryotherapy-of-the-woodlands-the-woodlands",
+   "name": "Cryo: Sports Cryotherapy of The Woodlands",
+   "summary": "Cryo: Sports Cryotherapy of The Woodlands is an occupational therapist in The Woodlands, TX at 8101 Kuykendahl Road, The Woodlands, TX 77382. Phone: +12817551321. Website: https://www.sportscryoofthewoodlands.com/.",
+   "categories": [
+    "occupational therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cryo-sports-cryotherapy-of-the-woodlands-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cryo-sports-cryotherapy-of-the-woodlands-the-woodlands.json",
+   "address": {
+    "streetAddress": "8101 Kuykendahl Road",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77382",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77382",
+   "geo": {
+    "lat": 30.2101747,
+    "lon": -95.524914
+   },
+   "phone": "+12817551321",
+   "website": "https://www.sportscryoofthewoodlands.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9295062222",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "james-law-firm-p-l-l-c-the-woodlands",
+   "name": "James Law Firm, P.L.L.C.",
+   "summary": "James Law Firm, P.L.L.C. is a lawyer in The Woodlands, TX at 719 Sawdust Road #300, The Woodlands, TX 77380. Phone: +17133895755. Website: https://www.rcjlawfirm.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-law-firm-p-l-l-c-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-law-firm-p-l-l-c-the-woodlands.json",
+   "address": {
+    "streetAddress": "719 Sawdust Road #300",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1259521,
+    "lon": -95.4536184
+   },
+   "phone": "+17133895755",
+   "website": "https://www.rcjlawfirm.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6399990018",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lavantage-salon-the-woodlands",
+   "name": "L'aVantage Salon",
+   "summary": "L'aVantage Salon is a hair salon in The Woodlands, TX at 8000 Research Forest Drive #155, The Woodlands, TX 77382. Phone: +12813628905. Website: https://lavantageonline.com/alden-bridge/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lavantage-salon-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lavantage-salon-the-woodlands.json",
+   "address": {
+    "streetAddress": "8000 Research Forest Drive #155",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77382",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77382",
+   "geo": {
+    "lat": 30.2100045,
+    "lon": -95.527175
+   },
+   "phone": "+12813628905",
+   "website": "https://lavantageonline.com/alden-bridge/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9462233135",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-the-woodlands",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in The Woodlands, TX at 1585 Lake Woodlands Drive, The Woodlands, TX 77380. Phone: +18325850800. Website: https://www.mattressfirm.com/en-us/stores/tx/the-woodlands/001170/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-the-woodlands.json",
+   "address": {
+    "streetAddress": "1585 Lake Woodlands Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1693938,
+    "lon": -95.4594126
+   },
+   "phone": "+18325850800",
+   "website": "https://www.mattressfirm.com/en-us/stores/tx/the-woodlands/001170/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6740172891",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-the-woodlands-n10252326473",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in The Woodlands, TX at 1340 Lake Woodlands Drive #B, The Woodlands, TX 77380. Phone: +12813671181. Website: https://www.mattressfirm.com/en-us/stores/tx/the-woodlands/001022/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-the-woodlands-n10252326473/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-the-woodlands-n10252326473.json",
+   "address": {
+    "streetAddress": "1340 Lake Woodlands Drive #B",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1681237,
+    "lon": -95.4558948
+   },
+   "phone": "+12813671181",
+   "website": "https://www.mattressfirm.com/en-us/stores/tx/the-woodlands/001022/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10252326473",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "quik-pics-portrait-studio-the-woodlands",
+   "name": "Quik Pics Portrait Studio",
+   "summary": "Quik Pics Portrait Studio is a photographer in The Woodlands, TX at 25329 Budde Rd, #604, The Woodlands, TX 77380. Phone: +12812962100. Website: https://qpstudios.com/.",
+   "categories": [
+    "photographer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quik-pics-portrait-studio-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quik-pics-portrait-studio-the-woodlands.json",
+   "address": {
+    "streetAddress": "25329 Budde Rd, #604",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1297536,
+    "lon": -95.4508394
+   },
+   "phone": "+12812962100",
+   "website": "https://qpstudios.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9850053243",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anytime-fitness-conroe",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Conroe, TX at 9420 College Park Drive #20, Conroe, TX 77384. Phone: +19362735090.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-conroe.json",
+   "address": {
+    "streetAddress": "9420 College Park Drive #20",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.2293877,
+    "lon": -95.509281
+   },
+   "phone": "+19362735090",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5330117273",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ince-karate-the-woodlands",
+   "name": "Ince Karate",
+   "summary": "Ince Karate is a martial arts school in The Woodlands, TX at 8000 Research Forest Drive #165, The Woodlands, TX 77382. Website: https://www.incekarate.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ince-karate-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ince-karate-the-woodlands.json",
+   "address": {
+    "streetAddress": "8000 Research Forest Drive #165",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77382",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77382",
+   "geo": {
+    "lat": 30.2100462,
+    "lon": -95.52726
+   },
+   "website": "https://www.incekarate.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9462233136",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "smartstop-self-storage-the-woodlands",
+   "name": "SmartStop Self Storage",
+   "summary": "SmartStop Self Storage is a self-storage facility in The Woodlands, TX at 3750 FM 1488, The Woodlands, TX 77384.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smartstop-self-storage-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smartstop-self-storage-the-woodlands.json",
+   "address": {
+    "streetAddress": "3750 FM 1488",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.2286484,
+    "lon": -95.5225096
+   },
+   "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:00-16:00; Su 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/552010984",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lavantage-salon-the-woodlands-n13052360072",
+   "name": "L'aVantage Salon",
+   "summary": "L'aVantage Salon is a hair salon in The Woodlands, TX. Website: https://lavantageonline.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lavantage-salon-the-woodlands-n13052360072/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lavantage-salon-the-woodlands-n13052360072.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1828921,
+    "lon": -95.5369639
+   },
+   "website": "https://lavantageonline.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13052360072",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "leiker-orthodontics-the-woodlands",
+   "name": "Leiker Orthodontics",
+   "summary": "Leiker Orthodontics is a dentist in The Woodlands, TX. Website: https://woodlandsorthodontist.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leiker-orthodontics-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leiker-orthodontics-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.155735,
+    "lon": -95.4999098
+   },
+   "website": "https://woodlandsorthodontist.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1101043264",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "re-max-one-the-woodlands",
+   "name": "RE/MAX ONE",
+   "summary": "RE/MAX ONE is a real estate agency in The Woodlands, TX. Website: https://one-and-spring-the-woodlands-tx.remax.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-one-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-one-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1811086,
+    "lon": -95.5355605
+   },
+   "website": "https://one-and-spring-the-woodlands-tx.remax.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/431990684",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-forum-at-the-woodlands-the-woodlands",
+   "name": "The Forum at The Woodlands",
+   "summary": "The Forum at The Woodlands is an assisted living facility in The Woodlands, TX. Website: https://www.fivestarseniorliving.com/communities/tx/woodlands/the-forum-at-the-woodlands.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-forum-at-the-woodlands-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-forum-at-the-woodlands-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1701224,
+    "lon": -95.5008584
+   },
+   "website": "https://www.fivestarseniorliving.com/communities/tx/woodlands/the-forum-at-the-woodlands",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/560536183",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "animal-clinics-of-the-woodlands-alden-bridge-the-woodlands",
+   "name": "Animal Clinics Of The Woodlands - Alden Bridge",
+   "summary": "Animal Clinics Of The Woodlands - Alden Bridge is a veterinarian in The Woodlands, TX at 8000 Research Forest Drive #125, The Woodlands, TX 77382.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-clinics-of-the-woodlands-alden-bridge-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-clinics-of-the-woodlands-alden-bridge-the-woodlands.json",
+   "address": {
+    "streetAddress": "8000 Research Forest Drive #125",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77382",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77382",
+   "geo": {
+    "lat": 30.2098176,
+    "lon": -95.5268269
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9462233128",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-insurance-the-woodlands",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in The Woodlands, TX at 8105 Kuykendahl Road #Suite 100, The Woodlands, TX 77382.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-the-woodlands.json",
+   "address": {
+    "streetAddress": "8105 Kuykendahl Road #Suite 100",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77382",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77382",
+   "geo": {
+    "lat": 30.2101227,
+    "lon": -95.5253248
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9295077433",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "forest-cafe-and-bakery-the-woodlands",
+   "name": "Forest Cafe and Bakery",
+   "summary": "Forest Cafe and Bakery is a bakery in The Woodlands, TX at 3091 College Park Drive #245, The Woodlands, TX 77384.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forest-cafe-and-bakery-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forest-cafe-and-bakery-the-woodlands.json",
+   "address": {
+    "streetAddress": "3091 College Park Drive #245",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.2050074,
+    "lon": -95.4629118
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12366389985",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "forest-crossing-kindercare-the-woodlands",
+   "name": "Forest Crossing KinderCare",
+   "summary": "Forest Crossing KinderCare is a daycare in The Woodlands, TX at 9005 Forest Crossing Drive, The Woodlands, TX 77381.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forest-crossing-kindercare-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forest-crossing-kindercare-the-woodlands.json",
+   "address": {
+    "streetAddress": "9005 Forest Crossing Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77381",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77381",
+   "geo": {
+    "lat": 30.1829305,
+    "lon": -95.4878585
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/735336931",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-kar-lube-and-repair-the-woodlands",
+   "name": "Kwik Kar Lube and Repair",
+   "summary": "Kwik Kar Lube and Repair is an auto repair shop in The Woodlands, TX at 6801 Woodlands Parkway, The Woodlands, TX 77382.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-kar-lube-and-repair-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-kar-lube-and-repair-the-woodlands.json",
+   "address": {
+    "streetAddress": "6801 Woodlands Parkway",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77382",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77382",
+   "geo": {
+    "lat": 30.180766,
+    "lon": -95.5387573
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/431990630",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-the-woodlands-n11682994181",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in The Woodlands, TX at 6700 Woodlands Parkway #230, The Woodlands, TX 77382.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-the-woodlands-n11682994181/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-the-woodlands-n11682994181.json",
+   "address": {
+    "streetAddress": "6700 Woodlands Parkway #230",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77382",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77382",
+   "geo": {
+    "lat": 30.1827587,
+    "lon": -95.5362168
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11682994181",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "24-hour-fitness-the-woodlands",
+   "name": "24 Hour Fitness",
+   "summary": "24 Hour Fitness is a gym in The Woodlands, TX at 1800 Lake Woodlands Drive, The Woodlands, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/24-hour-fitness-the-woodlands.json",
+   "address": {
+    "streetAddress": "1800 Lake Woodlands Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1661389,
+    "lon": -95.4620948
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/122313747",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cubesmart-the-woodlands",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in The Woodlands, TX at 32010 Conroe Hufsmith Road, The Woodlands, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-the-woodlands.json",
+   "address": {
+    "streetAddress": "32010 Conroe Hufsmith Road",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2080474,
+    "lon": -95.5735292
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/737160919",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "david-griffith-agency-the-woodlands",
+   "name": "David Griffith Agency",
+   "summary": "David Griffith Agency is an insurance agent in The Woodlands, TX at 27130 Glen Loch Drive, The Woodlands, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/david-griffith-agency-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/david-griffith-agency-the-woodlands.json",
+   "address": {
+    "streetAddress": "27130 Glen Loch Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1516125,
+    "lon": -95.4944489
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10076040793",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "f-i-t-human-performance-the-woodlands",
+   "name": "F.I.T. Human Performance",
+   "summary": "F.I.T. Human Performance is a gym in The Woodlands, TX at 27240 Glen Loch Drive, The Woodlands, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/f-i-t-human-performance-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/f-i-t-human-performance-the-woodlands.json",
+   "address": {
+    "streetAddress": "27240 Glen Loch Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1520824,
+    "lon": -95.4948965
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10076040802",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "family-hair-design-the-woodlands",
+   "name": "Family Hair Design",
+   "summary": "Family Hair Design is a hair salon in The Woodlands, TX at 27150 Glen Loch Drive, The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-hair-design-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-hair-design-the-woodlands.json",
+   "address": {
+    "streetAddress": "27150 Glen Loch Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1517173,
+    "lon": -95.4945491
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10076040795",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fieldings-local-tomball",
+   "name": "Fieldings Local",
+   "summary": "Fieldings Local is a hair salon in Tomball, TX at 26400 Kuykendahl Road, Tomball, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fieldings-local-tomball/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fieldings-local-tomball.json",
+   "address": {
+    "streetAddress": "26400 Kuykendahl Road",
+    "addressLocality": "Tomball",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Tomball",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1436544,
+    "lon": -95.5483913
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521206580",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gina-nails-the-woodlands",
+   "name": "Gina Nails",
+   "summary": "Gina Nails is a nail salon in The Woodlands, TX at 27180 Glen Loch Drive, The Woodlands, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gina-nails-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gina-nails-the-woodlands.json",
+   "address": {
+    "streetAddress": "27180 Glen Loch Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1518745,
+    "lon": -95.4946995
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10076040798",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "havertys-the-woodlands",
+   "name": "Havertys",
+   "summary": "Havertys is a furniture store in The Woodlands, TX at 1560 Lake Woodlands Drive, The Woodlands, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/havertys-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/havertys-the-woodlands.json",
+   "address": {
+    "streetAddress": "1560 Lake Woodlands Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1699226,
+    "lon": -95.4591792
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/122321794",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "henrys-the-woodlands",
+   "name": "Henry's",
+   "summary": "Henry's is a hair salon in The Woodlands, TX at 27210 Glen Loch Drive, The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/henrys-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/henrys-the-woodlands.json",
+   "address": {
+    "streetAddress": "27210 Glen Loch Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1519793,
+    "lon": -95.4947997
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10076040800",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "independence-title-the-woodlands",
+   "name": "Independence Title",
+   "summary": "Independence Title is an insurance agent in The Woodlands, TX at 25305 Interstate 45 North, The Woodlands, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/independence-title-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/independence-title-the-woodlands.json",
+   "address": {
+    "streetAddress": "25305 Interstate 45 North",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1293545,
+    "lon": -95.444635
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1071796335",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "performing-arts-center-of-the-woodlands-the-woodlands",
+   "name": "Performing Arts Center of the Woodlands",
+   "summary": "Performing Arts Center of the Woodlands is a dance studio in The Woodlands, TX at 27220 Glen Loch Drive, The Woodlands, TX.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/performing-arts-center-of-the-woodlands-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/performing-arts-center-of-the-woodlands-the-woodlands.json",
+   "address": {
+    "streetAddress": "27220 Glen Loch Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1520308,
+    "lon": -95.4948481
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10076040801",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "premier-beverage-the-woodlands",
+   "name": "Premier Beverage",
+   "summary": "Premier Beverage is a liquor store in The Woodlands, TX at 27170 Glen Loch Drive, The Woodlands, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premier-beverage-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premier-beverage-the-woodlands.json",
+   "address": {
+    "streetAddress": "27170 Glen Loch Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1518221,
+    "lon": -95.4946494
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10076040797",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "shannon-fine-jewelry-the-woodlands",
+   "name": "Shannon Fine Jewelry",
+   "summary": "Shannon Fine Jewelry is a jewelry store in The Woodlands, TX at 1440 Lake Woodlands Drive #I, The Woodlands, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shannon-fine-jewelry-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shannon-fine-jewelry-the-woodlands.json",
+   "address": {
+    "streetAddress": "1440 Lake Woodlands Drive #I",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1688964,
+    "lon": -95.4575698
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8613647395",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "take-5-the-woodlands",
+   "name": "Take 5",
+   "summary": "Take 5 is an auto repair shop in The Woodlands, TX at 7940 Research Forest Drive, The Woodlands, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-the-woodlands.json",
+   "address": {
+    "streetAddress": "7940 Research Forest Drive",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2086931,
+    "lon": -95.5270163
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/736414525",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "thomas-markle-jewelers-the-woodlands",
+   "name": "Thomas Markle Jewelers",
+   "summary": "Thomas Markle Jewelers is a jewelry store in The Woodlands, TX at 9595 Market Street #950, The Woodlands, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thomas-markle-jewelers-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thomas-markle-jewelers-the-woodlands.json",
+   "address": {
+    "streetAddress": "9595 Market Street #950",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1638253,
+    "lon": -95.4642863
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8597049163",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tide-cleaners-the-woodlands-n6897070276",
+   "name": "Tide Cleaners",
+   "summary": "Tide Cleaners is a dry cleaner in The Woodlands, TX at 9420 College Park Drive #150, The Woodlands, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tide-cleaners-the-woodlands-n6897070276/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tide-cleaners-the-woodlands-n6897070276.json",
+   "address": {
+    "streetAddress": "9420 College Park Drive #150",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2282572,
+    "lon": -95.5088529
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6897070276",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tide-cleaners-the-woodlands-n7041270972",
+   "name": "Tide Cleaners",
+   "summary": "Tide Cleaners is a dry cleaner in The Woodlands, TX at 8000 Research Forest Drive #135, The Woodlands, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tide-cleaners-the-woodlands-n7041270972/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tide-cleaners-the-woodlands-n7041270972.json",
+   "address": {
+    "streetAddress": "8000 Research Forest Drive #135",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2098964,
+    "lon": -95.5269917
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7041270972",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tide-cleaners-the-woodlands-n7041270973",
+   "name": "Tide Cleaners",
+   "summary": "Tide Cleaners is a dry cleaner in The Woodlands, TX at 6777 Woodlands Parkway #306, The Woodlands, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tide-cleaners-the-woodlands-n7041270973/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tide-cleaners-the-woodlands-n7041270973.json",
+   "address": {
+    "streetAddress": "6777 Woodlands Parkway #306",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1796241,
+    "lon": -95.5379384
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7041270973",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tide-cleaners-the-woodlands-n7041289696",
+   "name": "Tide Cleaners",
+   "summary": "Tide Cleaners is a dry cleaner in The Woodlands, TX at 8576 Creekside Forest Drive #A100, The Woodlands, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tide-cleaners-the-woodlands-n7041289696/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tide-cleaners-the-woodlands-n7041289696.json",
+   "address": {
+    "streetAddress": "8576 Creekside Forest Drive #A100",
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1462654,
+    "lon": -95.5494277
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7041289696",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-e-b-car-wash-the-woodlands",
+   "name": "H-E-B Car Wash",
+   "summary": "H-E-B Car Wash is a car wash in The Woodlands, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-car-wash-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.2271321,
+    "lon": -95.5203691
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 1.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/503245640",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "9-round-kickbox-fitness-the-woodlands",
+   "name": "9 Round Kickbox Fitness",
+   "summary": "9 Round Kickbox Fitness is a martial arts school in The Woodlands, TX.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/9-round-kickbox-fitness-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/9-round-kickbox-fitness-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1952181,
+    "lon": -95.5876737
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360383",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "alden-bridge-family-dental-the-woodlands",
+   "name": "Alden Bridge Family Dental",
+   "summary": "Alden Bridge Family Dental is a dentist in The Woodlands, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alden-bridge-family-dental-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alden-bridge-family-dental-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2111043,
+    "lon": -95.5288722
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894634736",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "alianza-preschool-the-woodlands",
+   "name": "Alianza Preschool",
+   "summary": "Alianza Preschool is a preschool in The Woodlands, TX.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alianza-preschool-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alianza-preschool-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1784797,
+    "lon": -95.543383
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/579389781",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-the-woodlands",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in The Woodlands, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.228345,
+    "lon": -95.5088712
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6897070275",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "altard-state-the-woodlands",
+   "name": "Altar'd State",
+   "summary": "Altar'd State is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/altard-state-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/altard-state-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1643885,
+    "lon": -95.4549149
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235821740",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "animal-clinic-the-woodlands",
+   "name": "Animal Clinic",
+   "summary": "Animal Clinic is a veterinarian in The Woodlands, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-clinic-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-clinic-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1862118,
+    "lon": -95.4904586
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6897064360",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "arhaus-the-woodlands",
+   "name": "Arhaus",
+   "summary": "Arhaus is a furniture store in The Woodlands, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arhaus-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arhaus-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1649007,
+    "lon": -95.4562344
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235821769",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "as-seen-on-tv-plus-the-woodlands",
+   "name": "As Seen on TV Plus",
+   "summary": "As Seen on TV Plus is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/as-seen-on-tv-plus-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/as-seen-on-tv-plus-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.163995,
+    "lon": -95.4564354
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170928",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "asiri-family-dentistry-the-woodlands",
+   "name": "Asiri Family Dentistry",
+   "summary": "Asiri Family Dentistry is a dentist in The Woodlands, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/asiri-family-dentistry-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/asiri-family-dentistry-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1825778,
+    "lon": -95.5588741
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13109585870",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "athletic-center-the-woodlands",
+   "name": "Athletic Center",
+   "summary": "Athletic Center is a gym in The Woodlands, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletic-center-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletic-center-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1744723,
+    "lon": -95.5249622
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1479346288",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bear-branch-animal-hospital-the-woodlands",
+   "name": "Bear Branch Animal Hospital",
+   "summary": "Bear Branch Animal Hospital is a veterinarian in The Woodlands, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bear-branch-animal-hospital-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bear-branch-animal-hospital-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.195301,
+    "lon": -95.5878224
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360384",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bear-branch-family-dentistry-the-woodlands",
+   "name": "Bear Branch Family Dentistry",
+   "summary": "Bear Branch Family Dentistry is a dentist in The Woodlands, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bear-branch-family-dentistry-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bear-branch-family-dentistry-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1943759,
+    "lon": -95.5881402
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360378",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "best-of-canvas-the-woodlands",
+   "name": "Best of Canvas",
+   "summary": "Best of Canvas is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-of-canvas-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-of-canvas-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1641193,
+    "lon": -95.4547519
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170853",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "boss-chiropractic-and-rehabilitation-the-woodlands",
+   "name": "Boss Chiropractic & Rehabilitation",
+   "summary": "Boss Chiropractic & Rehabilitation is a chiropractor in The Woodlands, TX.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boss-chiropractic-and-rehabilitation-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boss-chiropractic-and-rehabilitation-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1826818,
+    "lon": -95.5360386
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13052360076",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bradshaw-periodontics-the-woodlands",
+   "name": "Bradshaw Periodontics",
+   "summary": "Bradshaw Periodontics is a dentist in The Woodlands, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bradshaw-periodontics-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bradshaw-periodontics-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1928683,
+    "lon": -95.5881064
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360367",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brighton-the-woodlands",
+   "name": "Brighton",
+   "summary": "Brighton is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brighton-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brighton-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1646267,
+    "lon": -95.4558501
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237171321",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brookstone-the-woodlands",
+   "name": "Brookstone",
+   "summary": "Brookstone is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookstone-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookstone-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1642173,
+    "lon": -95.4544808
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235821744",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carlos-bakery-the-woodlands",
+   "name": "Carlo's Bakery",
+   "summary": "Carlo's Bakery is a bakery in The Woodlands, TX.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carlos-bakery-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carlos-bakery-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1642955,
+    "lon": -95.4554649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235821756",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cellairis-the-woodlands",
+   "name": "Cellairis",
+   "summary": "Cellairis is a phone repair shop in The Woodlands, TX.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cellairis-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cellairis-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1643503,
+    "lon": -95.4556194
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237171334",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "child-and-family-eye-care-the-woodlands",
+   "name": "Child & Family Eye Care",
+   "summary": "Child & Family Eye Care is an eye care practice in The Woodlands, TX.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/child-and-family-eye-care-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/child-and-family-eye-care-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1823329,
+    "lon": -95.5347043
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13052360085",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dentist-the-woodlands",
+   "name": "Dentist",
+   "summary": "Dentist is a dentist in The Woodlands, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dentist-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dentist-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1822879,
+    "lon": -95.5347362
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13052360084",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "disney-store-the-woodlands",
+   "name": "Disney Store",
+   "summary": "Disney Store is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/disney-store-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/disney-store-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1645312,
+    "lon": -95.4546502
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170859",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-the-woodlands",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in The Woodlands, TX.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1929317,
+    "lon": -95.588289
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360366",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-insurance-the-woodlands-n13109585869",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in The Woodlands, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-the-woodlands-n13109585869/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-the-woodlands-n13109585869.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1826235,
+    "lon": -95.5589733
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13109585869",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fedex-office-the-woodlands",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in The Woodlands, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1676983,
+    "lon": -95.4593176
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6740172894",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fedex-office-the-woodlands-n9177279463",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in The Woodlands, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-the-woodlands-n9177279463/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-the-woodlands-n9177279463.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1899162,
+    "lon": -95.5886988
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9177279463",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fidelity-investments-the-woodlands",
+   "name": "Fidelity Investments",
+   "summary": "Fidelity Investments is a financial advisor in The Woodlands, TX.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fidelity-investments-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fidelity-investments-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1621597,
+    "lon": -95.4609473
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12780077286",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-the-woodlands",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in The Woodlands, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2116414,
+    "lon": -95.4578159
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/119498894",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "folk-portraits-the-woodlands",
+   "name": "Folk Portraits",
+   "summary": "Folk Portraits is a photographer in The Woodlands, TX.",
+   "categories": [
+    "photographer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/folk-portraits-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/folk-portraits-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.195134,
+    "lon": -95.5874985
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360381",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "foundation-chiropractic-the-woodlands",
+   "name": "Foundation Chiropractic",
+   "summary": "Foundation Chiropractic is a chiropractor in The Woodlands, TX.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/foundation-chiropractic-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/foundation-chiropractic-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2262676,
+    "lon": -95.522178
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894648088",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gold-elements-the-woodlands",
+   "name": "Gold Elements",
+   "summary": "Gold Elements is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gold-elements-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gold-elements-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1639012,
+    "lon": -95.4553404
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235805522",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-the-woodlands",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1674925,
+    "lon": -95.4610542
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6740172887",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-the-woodlands-n13052360071",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-the-woodlands-n13052360071/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-the-woodlands-n13052360071.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.182904,
+    "lon": -95.5370559
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13052360071",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-e-b-car-wash-the-woodlands-w521206680",
+   "name": "H-E-B Car Wash",
+   "summary": "H-E-B Car Wash is a car wash in The Woodlands, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-the-woodlands-w521206680/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-car-wash-the-woodlands-w521206680.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1427003,
+    "lon": -95.549956
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521206680",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hallmark-the-woodlands",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1642313,
+    "lon": -95.4538639
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235821747",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hallmark-the-woodlands-n13052360070",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-the-woodlands-n13052360070/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-the-woodlands-n13052360070.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1829183,
+    "lon": -95.5371532
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13052360070",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "harvestwood-apartments-the-woodlands",
+   "name": "Harvestwood Apartments",
+   "summary": "Harvestwood Apartments is an assisted living facility in The Woodlands, TX.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harvestwood-apartments-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harvestwood-apartments-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1631796,
+    "lon": -95.5053946
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/560560602",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "helzberg-diamonds-the-woodlands",
+   "name": "Helzberg Diamonds",
+   "summary": "Helzberg Diamonds is a jewelry store in The Woodlands, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-diamonds-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1645308,
+    "lon": -95.4552777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235822548",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hollywood-feed-the-woodlands",
+   "name": "Hollywood Feed",
+   "summary": "Hollywood Feed is a pet store in The Woodlands, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hollywood-feed-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hollywood-feed-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1857254,
+    "lon": -95.4903665
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6897064354",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "j-thompson-salons-the-woodlands",
+   "name": "J. Thompson Salons",
+   "summary": "J. Thompson Salons is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-thompson-salons-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-thompson-salons-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1937488,
+    "lon": -95.5888301
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360373",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jarmz-the-woodlands",
+   "name": "Jarmz",
+   "summary": "Jarmz is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jarmz-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jarmz-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1643881,
+    "lon": -95.4567964
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170929",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-lube-the-woodlands",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in The Woodlands, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1819261,
+    "lon": -95.5378499
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1420439357",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "just-nails-the-woodlands",
+   "name": "Just Nails",
+   "summary": "Just Nails is a nail salon in The Woodlands, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-nails-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-nails-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1642314,
+    "lon": -95.4536424
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235821752",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "karate-and-mma-the-woodlands",
+   "name": "Karate & MMA",
+   "summary": "Karate & MMA is a martial arts school in The Woodlands, TX.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/karate-and-mma-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/karate-and-mma-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1942498,
+    "lon": -95.5882426
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360377",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kay-jewelers-the-woodlands",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in The Woodlands, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1641724,
+    "lon": -95.4558149
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170924",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kiehls-the-woodlands",
+   "name": "Kiehl's",
+   "summary": "Kiehl's is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kiehls-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kiehls-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1648005,
+    "lon": -95.4564753
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235821772",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "koko-fit-club-the-woodlands",
+   "name": "Koko Fit Club",
+   "summary": "Koko Fit Club is a gym in The Woodlands, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/koko-fit-club-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/koko-fit-club-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2108567,
+    "lon": -95.5288614
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894634734",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-z-boy-the-woodlands",
+   "name": "La-Z-Boy",
+   "summary": "La-Z-Boy is a furniture store in The Woodlands, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-z-boy-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-z-boy-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2108685,
+    "lon": -95.4577263
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/119498857",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "life-storage-the-woodlands",
+   "name": "Life Storage",
+   "summary": "Life Storage is a self-storage facility in The Woodlands, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-storage-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-storage-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2068584,
+    "lon": -95.5284875
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/19426954",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "little-sunshines-playhouse-and-preschool-the-woodlands",
+   "name": "Little Sunshine's Playhouse & Preschool",
+   "summary": "Little Sunshine's Playhouse & Preschool is a preschool in The Woodlands, TX.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-sunshines-playhouse-and-preschool-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-sunshines-playhouse-and-preschool-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2099709,
+    "lon": -95.5499934
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/585510224",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lolli-and-pops-the-woodlands",
+   "name": "Lolli and Pops",
+   "summary": "Lolli and Pops is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lolli-and-pops-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lolli-and-pops-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1642914,
+    "lon": -95.4558396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235805525",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lovesac-the-woodlands",
+   "name": "Lovesac",
+   "summary": "Lovesac is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1648537,
+    "lon": -95.4566413
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237171324",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "made-ya-smile-dental-the-woodlands",
+   "name": "Made Ya Smile Dental",
+   "summary": "Made Ya Smile Dental is a dentist in The Woodlands, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/made-ya-smile-dental-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/made-ya-smile-dental-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2263186,
+    "lon": -95.5217593
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894648085",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-heights-the-woodlands",
+   "name": "Massage Heights",
+   "summary": "Massage Heights is a massage studio in The Woodlands, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-heights-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-heights-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2102736,
+    "lon": -95.527743
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894634728",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mastercuts-the-woodlands",
+   "name": "Mastercuts",
+   "summary": "Mastercuts is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mastercuts-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mastercuts-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1648261,
+    "lon": -95.4571257
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235822544",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mastros-ocean-club-the-woodlands",
+   "name": "Mastros Ocean Club",
+   "summary": "Mastros Ocean Club is a gym in The Woodlands, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mastros-ocean-club-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mastros-ocean-club-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1643997,
+    "lon": -95.4615671
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11816615780",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "my-smile-the-woodlands",
+   "name": "My Smile",
+   "summary": "My Smile is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/my-smile-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/my-smile-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1650517,
+    "lon": -95.457372
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170932",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "n-luxe-the-woodlands",
+   "name": "N Luxe",
+   "summary": "N Luxe is a skin care studio in The Woodlands, TX.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/n-luxe-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/n-luxe-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2049933,
+    "lon": -95.4631782
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12052335765",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nails-and-spa-today-the-woodlands",
+   "name": "Nails & Spa Today",
+   "summary": "Nails & Spa Today is a nail salon in The Woodlands, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nails-and-spa-today-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nails-and-spa-today-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1827281,
+    "lon": -95.5592002
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13109585866",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nails-of-america-the-woodlands",
+   "name": "Nails of America",
+   "summary": "Nails of America is a nail salon in The Woodlands, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nails-of-america-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nails-of-america-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2107622,
+    "lon": -95.5286457
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894634730",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "natural-pawz-the-woodlands",
+   "name": "Natural Pawz",
+   "summary": "Natural Pawz is a pet store in The Woodlands, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/natural-pawz-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/natural-pawz-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1694909,
+    "lon": -95.4594123
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12751688693",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "natural-pawz-the-woodlands-n13052360069",
+   "name": "Natural Pawz",
+   "summary": "Natural Pawz is a pet store in The Woodlands, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/natural-pawz-the-woodlands-n13052360069/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/natural-pawz-the-woodlands-n13052360069.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1829108,
+    "lon": -95.537299
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13052360069",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "oasis-massage-salon-the-woodlands",
+   "name": "Oasis Massage Salon",
+   "summary": "Oasis Massage Salon is a massage studio in The Woodlands, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oasis-massage-salon-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oasis-massage-salon-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2262834,
+    "lon": -95.5220926
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894648087",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "oil-and-vinegar-the-woodlands",
+   "name": "Oil & Vinegar",
+   "summary": "Oil & Vinegar is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oil-and-vinegar-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oil-and-vinegar-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1639774,
+    "lon": -95.4553336
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235822528",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "on-stage-hair-salon-the-woodlands",
+   "name": "On Stage Hair Salon",
+   "summary": "On Stage Hair Salon is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/on-stage-hair-salon-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/on-stage-hair-salon-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2262378,
+    "lon": -95.522239
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894648089",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "orthodontist-the-woodlands",
+   "name": "Orthodontist",
+   "summary": "Orthodontist is a dentist in The Woodlands, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orthodontist-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orthodontist-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.192965,
+    "lon": -95.5883495
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360369",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pandora-the-woodlands",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in The Woodlands, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1642135,
+    "lon": -95.455116
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235822531",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "partners-dentures-and-implants-the-woodlands",
+   "name": "Partners Dentures & Implants",
+   "summary": "Partners Dentures & Implants is a dentist in The Woodlands, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/partners-dentures-and-implants-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/partners-dentures-and-implants-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2275266,
+    "lon": -95.5087533
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6897082785",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pediatric-dentisty-the-woodlands",
+   "name": "Pediatric Dentisty",
+   "summary": "Pediatric Dentisty is a dentist in The Woodlands, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pediatric-dentisty-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pediatric-dentisty-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2262975,
+    "lon": -95.5219544
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894648086",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-fair-the-woodlands",
+   "name": "Pet Fair",
+   "summary": "Pet Fair is a pet store in The Woodlands, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-fair-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-fair-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1649786,
+    "lon": -95.4571518
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170931",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "phenomenails-the-woodlands",
+   "name": "Phenomenails",
+   "summary": "Phenomenails is a nail salon in The Woodlands, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/phenomenails-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/phenomenails-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1930253,
+    "lon": -95.5885036
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360371",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pottery-barn-the-woodlands",
+   "name": "Pottery Barn",
+   "summary": "Pottery Barn is a furniture store in The Woodlands, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pottery-barn-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pottery-barn-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1635217,
+    "lon": -95.4558288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235822524",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "regal-nails-the-woodlands",
+   "name": "Regal Nails",
+   "summary": "Regal Nails is a nail salon in The Woodlands, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/regal-nails-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/regal-nails-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1899982,
+    "lon": -95.5886753
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9177279461",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "regis-the-woodlands",
+   "name": "Regis",
+   "summary": "Regis is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/regis-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/regis-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1650324,
+    "lon": -95.4572936
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237171327",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "relaxen-bodywork-the-woodlands",
+   "name": "Relaxen Bodywork",
+   "summary": "Relaxen Bodywork is a massage studio in The Woodlands, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/relaxen-bodywork-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/relaxen-bodywork-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1642336,
+    "lon": -95.4537499
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235821749",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rooster-ridge-car-care-the-woodlands",
+   "name": "Rooster Ridge Car Care",
+   "summary": "Rooster Ridge Car Care is an auto repair shop in The Woodlands, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rooster-ridge-car-care-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rooster-ridge-car-care-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1822484,
+    "lon": -95.5338462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/431990690",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-bugatti-the-woodlands",
+   "name": "Salon Bugatti",
+   "summary": "Salon Bugatti is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-bugatti-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-bugatti-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1771595,
+    "lon": -95.4758965
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6896563925",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "samuels-jewelers-the-woodlands",
+   "name": "Samuels Jewelers",
+   "summary": "Samuels Jewelers is a jewelry store in The Woodlands, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/samuels-jewelers-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/samuels-jewelers-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1645676,
+    "lon": -95.4539765
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170860",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "school-of-rock-the-woodlands",
+   "name": "School of Rock",
+   "summary": "School of Rock is a music school in The Woodlands, TX.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/school-of-rock-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/school-of-rock-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1938358,
+    "lon": -95.5885563
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360375",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "shatiff-nails-and-spa-the-woodlands",
+   "name": "ShaTiff Nails & Spa",
+   "summary": "ShaTiff Nails & Spa is a nail salon in The Woodlands, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shatiff-nails-and-spa-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shatiff-nails-and-spa-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2264819,
+    "lon": -95.5224931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894648092",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "shell-the-woodlands",
+   "name": "Shell",
+   "summary": "Shell is a car wash in The Woodlands, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.184725,
+    "lon": -95.4885453
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/736663667",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sleep-number-the-woodlands",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in The Woodlands, TX.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1645728,
+    "lon": -95.4537291
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170862",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "snip-its-the-woodlands",
+   "name": "Snip its",
+   "summary": "Snip its is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snip-its-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snip-its-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1638415,
+    "lon": -95.4555808
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235821783",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specs-the-woodlands",
+   "name": "Spec's",
+   "summary": "Spec's is a liquor store in The Woodlands, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specs-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specs-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1816069,
+    "lon": -95.5340121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/431990688",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "spencers-the-woodlands",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1649313,
+    "lon": -95.4570006
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170930",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-the-woodlands",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1824394,
+    "lon": -95.5346261
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13052360082",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-the-woodlands",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in The Woodlands, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1827804,
+    "lon": -95.5362676
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13052360073",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sts-simon-and-jude-gift-shop-and-books-the-woodlands",
+   "name": "Sts. Simon and Jude Gift Shop & Books",
+   "summary": "Sts. Simon and Jude Gift Shop & Books is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sts-simon-and-jude-gift-shop-and-books-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sts-simon-and-jude-gift-shop-and-books-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1496951,
+    "lon": -95.4915613
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1420094636",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "swarovski-the-woodlands",
+   "name": "Swarovski",
+   "summary": "Swarovski is a jewelry store in The Woodlands, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swarovski-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swarovski-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1645169,
+    "lon": -95.4559363
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235821761",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "teakwondo-the-woodlands",
+   "name": "Teakwondo",
+   "summary": "Teakwondo is a martial arts school in The Woodlands, TX.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/teakwondo-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/teakwondo-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1825365,
+    "lon": -95.5587844
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13109585871",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tempur-pedic-the-woodlands",
+   "name": "Tempur-Pedic",
+   "summary": "Tempur-Pedic is a mattress store in The Woodlands, TX.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tempur-pedic-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tempur-pedic-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1636294,
+    "lon": -95.4557875
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12552309738",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tgf-the-woodlands",
+   "name": "TGF",
+   "summary": "TGF is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tgf-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tgf-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1900867,
+    "lon": -95.5885884
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9177279460",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tgf-city-cuts-the-woodlands",
+   "name": "TGF City Cuts",
+   "summary": "TGF City Cuts is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tgf-city-cuts-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tgf-city-cuts-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2107249,
+    "lon": -95.5285872
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894634729",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-art-of-shving-the-woodlands",
+   "name": "The art of Shving",
+   "summary": "The art of Shving is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-art-of-shving-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-art-of-shving-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1643271,
+    "lon": -95.4560171
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235821762",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-the-woodlands",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in The Woodlands, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1859885,
+    "lon": -95.4904125
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6897064358",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-village-vet-animal-medical-and-surgical-center-the-woodlands",
+   "name": "The Village Vet Animal Medical & Surgical Center",
+   "summary": "The Village Vet Animal Medical & Surgical Center is a veterinarian in The Woodlands, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-village-vet-animal-medical-and-surgical-center-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-village-vet-animal-medical-and-surgical-center-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.182894,
+    "lon": -95.5374368
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13052360068",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-woodlands-hair-elite-the-woodlands",
+   "name": "The Woodlands Hair Elite",
+   "summary": "The Woodlands Hair Elite is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-woodlands-hair-elite-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-woodlands-hair-elite-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.227704,
+    "lon": -95.5087818
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6897070283",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-zoo-health-club-the-woodlands",
+   "name": "The Zoo Health Club",
+   "summary": "The Zoo Health Club is a gym in The Woodlands, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-zoo-health-club-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-zoo-health-club-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1947867,
+    "lon": -95.5878127
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360380",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "things-remembered-the-woodlands",
+   "name": "Things Remembered",
+   "summary": "Things Remembered is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/things-remembered-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/things-remembered-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1646695,
+    "lon": -95.4560593
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170923",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tide-cleaners-the-woodlands",
+   "name": "Tide Cleaners",
+   "summary": "Tide Cleaners is a dry cleaner in The Woodlands, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tide-cleaners-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tide-cleaners-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1860881,
+    "lon": -95.4903925
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6595408032",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tiffany-and-company-the-woodlands",
+   "name": "Tiffany & Company",
+   "summary": "Tiffany & Company is a jewelry store in The Woodlands, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiffany-and-company-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1637786,
+    "lon": -95.4622878
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11816615783",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tiger-rock-martial-arts-the-woodlands",
+   "name": "Tiger Rock Martial Arts",
+   "summary": "Tiger Rock Martial Arts is a martial arts school in The Woodlands, TX.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiger-rock-martial-arts-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiger-rock-martial-arts-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2280236,
+    "lon": -95.5088204
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6897070279",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "topcoat-nail-boutique-the-woodlands",
+   "name": "Topcoat Nail Boutique",
+   "summary": "Topcoat Nail Boutique is a nail salon in The Woodlands, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/topcoat-nail-boutique-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/topcoat-nail-boutique-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1822283,
+    "lon": -95.5351321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13052360079",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "total-mens-primary-care-the-woodlands",
+   "name": "Total Men's Primary Care",
+   "summary": "Total Men's Primary Care is a family medicine practice in The Woodlands, TX.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-mens-primary-care-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-mens-primary-care-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1823999,
+    "lon": -95.5346623
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13052360083",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tweez-nailz-the-woodlands",
+   "name": "Tweez Nailz",
+   "summary": "Tweez Nailz is a nail salon in The Woodlands, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tweez-nailz-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tweez-nailz-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2279551,
+    "lon": -95.5088123
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6897070280",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "visible-changes-the-woodlands",
+   "name": "Visible Changes",
+   "summary": "Visible Changes is a hair salon in The Woodlands, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/visible-changes-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/visible-changes-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1641261,
+    "lon": -95.4539516
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170945",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woodlands-ballet-theater-the-woodlands",
+   "name": "Woodlands Ballet Theater",
+   "summary": "Woodlands Ballet Theater is a dance studio in The Woodlands, TX.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodlands-ballet-theater-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodlands-ballet-theater-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1937598,
+    "lon": -95.5886573
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360374",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woops-the-woodlands",
+   "name": "Woops!",
+   "summary": "Woops! is a bakery in The Woodlands, TX.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woops-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woops-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1643125,
+    "lon": -95.4542748
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170873",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ww-studio-the-woodlands",
+   "name": "WW Studio",
+   "summary": "WW Studio is a therapy practice in The Woodlands, TX.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ww-studio-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ww-studio-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1676441,
+    "lon": -95.4610462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6740172888",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "yalls-texas-store-the-woodlands",
+   "name": "Y'alls Texas Store",
+   "summary": "Y'alls Texas Store is a gift shop in The Woodlands, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yalls-texas-store-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yalls-texas-store-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1645799,
+    "lon": -95.4534935
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170863",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zales-the-woodlands",
+   "name": "Zales",
+   "summary": "Zales is a jewelry store in The Woodlands, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zales-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zales-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.164566,
+    "lon": -95.4555499
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5235822547",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "j-the-woodlands",
+   "name": "€J",
+   "summary": "€J is a jewelry store in The Woodlands, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-the-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-the-woodlands.json",
+   "address": {
+    "addressLocality": "The Woodlands",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "The Woodlands",
+   "state": "TX",
+   "geo": {
+    "lat": 30.164421,
+    "lon": -95.4559326
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5237170937",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

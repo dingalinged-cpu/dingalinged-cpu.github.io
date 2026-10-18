@@ -15,7 +15,7 @@ Oscar Auto Body is an auto repair shop in Minneapolis, MN at 2827 1st Avenue Sou
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oscar-auto-body-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oscar-auto-body-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4630861788 (license ODbL-1.0); source data as of 2026-06-01

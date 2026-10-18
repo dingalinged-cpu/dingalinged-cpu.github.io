@@ -15,7 +15,7 @@ NAPA AutoCare Center is an auto repair shop in Brooklyn Center, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/napa-autocare-center-brooklyn-center/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/napa-autocare-center-brooklyn-center.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1258088776 (license ODbL-1.0); source data as of 2026-06-01

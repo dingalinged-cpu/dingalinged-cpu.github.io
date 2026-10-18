@@ -15,7 +15,7 @@ Lovey Nail is a massage studio in Evanston, IL at 953 Howard Street, Evanston, I
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lovey-nail-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lovey-nail-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2294092498 (license ODbL-1.0); source data as of 2026-06-01

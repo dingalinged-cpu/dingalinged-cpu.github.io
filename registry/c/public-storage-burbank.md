@@ -15,7 +15,7 @@ Public Storage is a self-storage facility in Burbank, IL at 8320 South Cicero Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-burbank/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-burbank.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7498475948 (license ODbL-1.0); source data as of 2026-06-01

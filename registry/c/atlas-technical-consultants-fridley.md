@@ -15,7 +15,7 @@ Atlas Technical Consultants is a business consultant in Fridley, MN at 5301 East
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/atlas-technical-consultants-fridley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/atlas-technical-consultants-fridley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13140376156 (license ODbL-1.0); source data as of 2026-05-31

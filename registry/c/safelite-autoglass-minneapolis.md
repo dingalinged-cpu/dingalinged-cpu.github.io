@@ -15,7 +15,7 @@ Safelite AutoGlass is an auto repair shop in Minneapolis, MN at 504 Southeast Ma
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/safelite-autoglass-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/safelite-autoglass-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6329878280 (license ODbL-1.0); source data as of 2026-06-01

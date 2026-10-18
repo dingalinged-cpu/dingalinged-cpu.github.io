@@ -15,7 +15,7 @@ Fitness Formula Clubs is a gym in Chicago, IL at 1151 South State Street, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fitness-formula-clubs-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fitness-formula-clubs-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2362605070 (license ODbL-1.0); source data as of 2026-06-01

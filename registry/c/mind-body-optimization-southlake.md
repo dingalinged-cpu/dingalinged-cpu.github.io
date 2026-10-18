@@ -1,0 +1,23 @@
+Mind Body Optimization is a therapy practice in Southlake, TX at 271 West Southlake Boulevard, Southlake, TX 76092. Phone: +19723918885. Website: https://mindbodyo.com/.
+
+# Mind Body Optimization
+
+- Category: therapist
+- Services: therapist
+- Address: 271 West Southlake Boulevard, Southlake, TX 76092
+- City: Southlake
+- State: TX
+- ZIP: 76092
+- Coordinates: 32.9398584, -97.1533584
+- Phone: +19723918885
+- Website: https://mindbodyo.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-19:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mind-body-optimization-southlake/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mind-body-optimization-southlake.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11989660192 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

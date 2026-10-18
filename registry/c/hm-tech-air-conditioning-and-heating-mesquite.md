@@ -1,0 +1,23 @@
+HM Tech Air Conditioning and Heating is a HVAC contractor in Mesquite, TX at Hugh Walker Drive, Mesquite, TX 75149. Phone: +19722898129. Website: https://hmtechacheating.com/.
+
+# HM Tech Air Conditioning and Heating
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: Hugh Walker Drive, Mesquite, TX 75149
+- City: Mesquite
+- State: TX
+- ZIP: 75149
+- Coordinates: 32.7726622, -96.5859644
+- Phone: +19722898129
+- Website: https://hmtechacheating.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00, Sa 07:00-15:00, Su 09:00-15:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hm-tech-air-conditioning-and-heating-mesquite/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hm-tech-air-conditioning-and-heating-mesquite.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9946547740 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

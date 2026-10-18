@@ -15,7 +15,7 @@ Binny's Beverage Depot is a liquor store in Lincolnwood, IL at 7175 North Lincol
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-lincolnwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/binnys-beverage-depot-lincolnwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/773040585 (license ODbL-1.0); source data as of 2026-06-01

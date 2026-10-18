@@ -1,0 +1,23 @@
+UTEX Self Storage is a self-storage facility in Denton, TX at 2820 Virginia Circle, Denton, TX 76209. Phone: +19405355339. Website: https://www.utexselfstorage.com/locations/denton-tx-76209.
+
+# UTEX Self Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 2820 Virginia Circle, Denton, TX 76209
+- City: Denton
+- State: TX
+- ZIP: 76209
+- Coordinates: 33.2326432, -97.093757
+- Phone: +19405355339
+- Website: https://www.utexselfstorage.com/locations/denton-tx-76209
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/utex-self-storage-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/utex-self-storage-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1339967797 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

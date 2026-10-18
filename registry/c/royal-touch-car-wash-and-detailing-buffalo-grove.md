@@ -15,7 +15,7 @@ Royal Touch Car Wash & Detailing is a car wash in Buffalo Grove, IL at 1701 Nort
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/royal-touch-car-wash-and-detailing-buffalo-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/royal-touch-car-wash-and-detailing-buffalo-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1215808025 (license ODbL-1.0); source data as of 2026-07-28

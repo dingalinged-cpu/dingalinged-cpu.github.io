@@ -15,7 +15,7 @@ Star is a marketing agency in Brooklyn Park, MN at 6688 93rd Avenue North, Brook
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/star-brooklyn-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/star-brooklyn-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9275900995 (license ODbL-1.0); source data as of 2026-05-31

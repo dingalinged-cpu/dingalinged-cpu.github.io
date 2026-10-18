@@ -15,7 +15,7 @@ BJ's Market & Bakery is a bakery in Chicago, IL at 1737 East 95th Street, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bjs-market-and-bakery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bjs-market-and-bakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11300504659 (license ODbL-1.0); source data as of 2026-06-01

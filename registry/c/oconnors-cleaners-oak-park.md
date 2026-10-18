@@ -15,7 +15,7 @@ O'Connor's Cleaners is a dry cleaner in Oak Park, IL at 1045 Chicago Avenue, Oak
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oconnors-cleaners-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oconnors-cleaners-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/327700202 (license ODbL-1.0); source data as of 2026-06-01

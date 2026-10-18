@@ -15,7 +15,7 @@ U-Haul is a self-storage facility in Calumet City, IL at 1510 Torrence Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/u-haul-calumet-city/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-haul-calumet-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1295081009 (license ODbL-1.0); source data as of 2026-06-01

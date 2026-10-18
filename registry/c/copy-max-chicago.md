@@ -15,7 +15,7 @@ Copy Max is a printing service in Chicago, IL at 1321 North Milwaukee Avenue, Ch
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/copy-max-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/copy-max-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209853276 (license ODbL-1.0); source data as of 2026-06-01

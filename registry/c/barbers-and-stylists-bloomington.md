@@ -15,7 +15,7 @@ Barbers & Stylists is a barber shop in Bloomington, MN at 10580 France Avenue So
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/barbers-and-stylists-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/barbers-and-stylists-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13783820541 (license ODbL-1.0); source data as of 2026-06-01

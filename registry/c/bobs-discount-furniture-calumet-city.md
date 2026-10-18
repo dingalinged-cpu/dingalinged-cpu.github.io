@@ -15,7 +15,7 @@ Bob's Discount Furniture is a furniture store in Calumet City, IL at 1370 Torren
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-calumet-city/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bobs-discount-furniture-calumet-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12587988638 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ H&R Block is a tax preparation service in Wauconda, IL at 604 West Liberty Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/h-and-r-block-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9780744850 (license ODbL-1.0); source data as of 2026-07-28

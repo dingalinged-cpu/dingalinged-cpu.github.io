@@ -15,7 +15,7 @@ Little Nest Care is a daycare in Chicago, IL at 5426 West Devon Avenue, Chicago,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/little-nest-care-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/little-nest-care-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162836631 (license ODbL-1.0); source data as of 2026-07-28

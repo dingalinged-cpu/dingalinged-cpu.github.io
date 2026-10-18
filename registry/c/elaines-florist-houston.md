@@ -1,0 +1,23 @@
+Elaine's Florist is a florist in Houston, TX at 4782 Beechnut Street, Houston, TX.
+
+# Elaine's Florist
+
+- Category: florist
+- Services: florist
+- Address: 4782 Beechnut Street, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.6895981, -95.4611147
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/elaines-florist-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/elaines-florist-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2356452021 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Topsy Turby Nursery and Kindergarten is a daycare in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/topsy-turby-nursery-and-kindergarten-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/topsy-turby-nursery-and-kindergarten-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/354273156 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Palm Beach Tan is a tanning salon in Niles, IL at 5653 West Touhy Avenue #144, N
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/686708803 (license ODbL-1.0); source data as of 2026-06-01

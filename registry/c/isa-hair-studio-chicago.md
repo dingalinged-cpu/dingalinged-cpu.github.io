@@ -15,7 +15,7 @@ ISA Hair Studio is a hair salon in Chicago, IL at 3705 North Broadway, Chicago, 
 - Opening hours (OSM syntax): Mo,We-Fr 10:00-20:00; Tu 13:00-20:00; Sa 09:00-17:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/isa-hair-studio-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/isa-hair-studio-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11227932695 (license ODbL-1.0); source data as of 2026-06-01

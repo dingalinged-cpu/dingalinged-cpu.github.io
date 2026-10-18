@@ -15,7 +15,7 @@ Planet Color Hair Salon is a hair salon in Frankfort, IL at 10179 West Lincoln H
 - Opening hours (OSM syntax): Tu-Fr 09:00-21:00; Sa 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-color-hair-salon-frankfort/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-color-hair-salon-frankfort.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12659467301 (license ODbL-1.0); source data as of 2026-06-01

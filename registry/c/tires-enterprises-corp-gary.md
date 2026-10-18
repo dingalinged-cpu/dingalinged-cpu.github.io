@@ -15,7 +15,7 @@ Tires Enterprises Corp. is a tire shop in Gary, IN at 3716 West Ridge Road, Gary
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tires-enterprises-corp-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tires-enterprises-corp-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1331515554 (license ODbL-1.0); source data as of 2026-06-01

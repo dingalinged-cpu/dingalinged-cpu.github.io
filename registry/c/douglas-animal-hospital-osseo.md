@@ -15,7 +15,7 @@ Douglas Animal Hospital is a veterinarian in Osseo, MN at 116 Central Avenue, Os
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/douglas-animal-hospital-osseo/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/douglas-animal-hospital-osseo.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/766064545 (license ODbL-1.0); source data as of 2026-07-24

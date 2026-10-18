@@ -15,7 +15,7 @@ Dr. Dino's Dental Oasis is a dentist in Lombard, IL at 510 East 22nd Street, Lom
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-dinos-dental-oasis-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-dinos-dental-oasis-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4555064624 (license ODbL-1.0); source data as of 2026-07-28

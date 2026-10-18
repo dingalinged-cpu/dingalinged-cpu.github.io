@@ -15,7 +15,7 @@ Blaine Dentistry is a dentist in Blaine, MN at 1384 109th Avenue Northeast #200,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/blaine-dentistry-blaine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/blaine-dentistry-blaine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12516572195 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Tierra Encantada Dodd is a daycare in Eagan, MN at 835 Vikings Parkway, Eagan, M
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tierra-encantada-dodd-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tierra-encantada-dodd-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1138991999 (license ODbL-1.0); source data as of 2026-07-24

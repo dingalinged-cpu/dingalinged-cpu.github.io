@@ -15,7 +15,7 @@ Village Thrift Store is a thrift store in Chicago, IL at 3301 West Lawrence Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/village-thrift-store-chicago-w163944705/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/village-thrift-store-chicago-w163944705.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163944705 (license ODbL-1.0); source data as of 2026-06-01

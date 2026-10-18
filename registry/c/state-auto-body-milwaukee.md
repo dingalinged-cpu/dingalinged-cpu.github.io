@@ -1,0 +1,23 @@
+State Auto Body is an auto repair shop in Milwaukee, WI at 5000 West State Street, Milwaukee, WI 53208.
+
+# State Auto Body
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 5000 West State Street, Milwaukee, WI 53208
+- City: Milwaukee
+- State: WI
+- ZIP: 53208
+- Coordinates: 43.0445935, -87.9759683
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/state-auto-body-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-auto-body-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/662419212 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

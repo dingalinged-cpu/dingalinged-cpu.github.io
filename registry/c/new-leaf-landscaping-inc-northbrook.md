@@ -15,7 +15,7 @@ New Leaf Landscaping, Inc is a landscaping company in Northbrook, IL at 876 Bitt
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-leaf-landscaping-inc-northbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-leaf-landscaping-inc-northbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5773955088 (license ODbL-1.0); source data as of 2026-06-01

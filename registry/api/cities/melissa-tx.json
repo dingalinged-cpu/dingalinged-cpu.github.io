@@ -1,0 +1,45 @@
+{
+ "place": "Melissa, TX",
+ "slug": "melissa-tx",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "printing services melissa tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-melissa-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "the-ups-store-melissa",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Melissa, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-melissa/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-melissa.json",
+   "address": {
+    "addressLocality": "Melissa",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Melissa",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2689826,
+    "lon": -96.5924538
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13248673107",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

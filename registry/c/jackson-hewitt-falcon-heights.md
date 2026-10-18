@@ -15,7 +15,7 @@ Jackson Hewitt is a tax preparation service in Falcon Heights, MN at 1551 Larpen
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 12:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-falcon-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-falcon-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7294714123 (license ODbL-1.0); source data as of 2026-05-31

@@ -15,7 +15,7 @@ Casa Blanca Flowers is a florist in Chicago, IL at 5949 West Lawrence Avenue, Ch
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 11:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/casa-blanca-flowers-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/casa-blanca-flowers-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4131957037 (license ODbL-1.0); source data as of 2026-06-01

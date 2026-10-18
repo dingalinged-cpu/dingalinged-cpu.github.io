@@ -15,7 +15,7 @@ Torres-Omar Jewelry is a jewelry store in Chicago, IL at 2624 North Milwaukee Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/torres-omar-jewelry-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/torres-omar-jewelry-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1779962296 (license ODbL-1.0); source data as of 2026-06-01

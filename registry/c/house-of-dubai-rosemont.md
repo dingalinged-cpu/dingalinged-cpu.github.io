@@ -15,7 +15,7 @@ House of Dubai is a jewelry store in Rosemont, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/house-of-dubai-rosemont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/house-of-dubai-rosemont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13731720768 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Hair Apothecary is a hair salon in Chicago, IL at 1833 West Irving Park Road, Ch
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 12:00-20:00; Sa 08:00-16:00; Su 09:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hair-apothecary-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hair-apothecary-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12299625003 (license ODbL-1.0); source data as of 2026-06-01

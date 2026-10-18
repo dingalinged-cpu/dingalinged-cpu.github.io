@@ -15,7 +15,7 @@ Jerry Haggerty Chevrolet is an used car dealer in Glen Ellyn, IL at 300 West Roo
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jerry-haggerty-chevrolet-glen-ellyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jerry-haggerty-chevrolet-glen-ellyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/850669425 (license ODbL-1.0); source data as of 2026-06-01

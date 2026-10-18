@@ -15,7 +15,7 @@ Swirlz Cupcakes is a bakery in Chicago, IL at 705 West Belden Avenue, Chicago, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/swirlz-cupcakes-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/swirlz-cupcakes-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6303037859 (license ODbL-1.0); source data as of 2026-06-01

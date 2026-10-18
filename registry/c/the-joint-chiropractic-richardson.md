@@ -1,0 +1,23 @@
+The Joint Chiropractic is a chiropractor in Richardson, TX at 1415 East Renner Road #220, Richardson, TX 75082.
+
+# The Joint Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 1415 East Renner Road #220, Richardson, TX 75082
+- City: Richardson
+- State: TX
+- ZIP: 75082
+- Coordinates: 32.9986257, -96.6979994
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Su 10:00-16:00; Sa 10:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-richardson/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-richardson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5813465039 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

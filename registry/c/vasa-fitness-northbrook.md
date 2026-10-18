@@ -15,7 +15,7 @@ VASA Fitness is a gym in Northbrook, IL at 4125 Dundee Road, Northbrook, IL 6006
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vasa-fitness-northbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vasa-fitness-northbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/131833390 (license ODbL-1.0); source data as of 2026-06-01

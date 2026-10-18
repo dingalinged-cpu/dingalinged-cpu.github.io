@@ -15,7 +15,7 @@ NorBella Senior Living is an assisted living facility in Centerville, MN at 2025
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/norbella-senior-living-centerville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/norbella-senior-living-centerville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1191445726 (license ODbL-1.0); source data as of 2026-07-24

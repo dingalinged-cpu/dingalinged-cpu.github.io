@@ -15,7 +15,7 @@ Salon Lofts is a hair salon in Richfield, MN at 6521 Lyndale Avenue South, Richf
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/salon-lofts-richfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/salon-lofts-richfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11688555171 (license ODbL-1.0); source data as of 2026-06-01

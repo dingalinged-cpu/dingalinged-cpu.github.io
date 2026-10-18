@@ -15,7 +15,7 @@ Vegas Nails is a nail salon in Mundelein, IL at 424, Mundelein, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vegas-nails-mundelein/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vegas-nails-mundelein.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9802370331 (license ODbL-1.0); source data as of 2026-06-01

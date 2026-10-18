@@ -15,7 +15,7 @@ Midwest Orthopaedics at Rush is an orthopedic surgeon in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midwest-orthopaedics-at-rush-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midwest-orthopaedics-at-rush-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13427327310 (license ODbL-1.0); source data as of 2026-07-28

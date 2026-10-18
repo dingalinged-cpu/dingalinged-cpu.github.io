@@ -15,7 +15,7 @@ Hooriyah Jewelers is a jewelry store in Lombard, IL at 117 Yorktown Shopping Cen
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hooriyah-jewelers-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hooriyah-jewelers-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1121098240 (license ODbL-1.0); source data as of 2026-06-01

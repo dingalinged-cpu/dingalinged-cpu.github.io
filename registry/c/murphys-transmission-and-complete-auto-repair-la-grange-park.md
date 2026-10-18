@@ -15,7 +15,7 @@ Murphy's Transmission & Complete Auto Repair is an auto repair shop in La Grange
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/murphys-transmission-and-complete-auto-repair-la-grange-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/murphys-transmission-and-complete-auto-repair-la-grange-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/967841479 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+EŌS Fitness is a gym in Hurst, TX.
+
+# EŌS Fitness
+
+- Category: gym
+- Services: gym
+- Address: Hurst, TX
+- City: Hurst
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.822384, -97.207058
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/e-s-fitness-hurst/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/e-s-fitness-hurst.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/733433938 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

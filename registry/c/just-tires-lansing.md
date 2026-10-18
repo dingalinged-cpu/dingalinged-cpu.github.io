@@ -15,7 +15,7 @@ Just Tires is a tire shop in Lansing, IL at 2500 173rd Street, Lansing, IL 60438
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/just-tires-lansing/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/just-tires-lansing.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1329496131 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Colonial-Wojciechowski Funeral Home is a funeral home in Chicago, IL at 6250 Nor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/colonial-wojciechowski-funeral-home-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/colonial-wojciechowski-funeral-home-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163238198 (license ODbL-1.0); source data as of 2026-06-01

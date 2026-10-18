@@ -15,7 +15,7 @@ Brownstone Jazz Club is an event venue in Minneapolis, MN at 2756 Hennepin Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brownstone-jazz-club-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brownstone-jazz-club-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13630058535 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Sindelar Family Dental is a dentist in Naperville, IL at 567 South Washington St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sindelar-family-dental-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sindelar-family-dental-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/478343013 (license ODbL-1.0); source data as of 2026-07-28

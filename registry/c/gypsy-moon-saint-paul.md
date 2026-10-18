@@ -15,7 +15,7 @@ Gypsy Moon is a gift shop in Saint Paul, MN at 1887 Randolph Avenue, Saint Paul,
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gypsy-moon-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gypsy-moon-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/143180119 (license ODbL-1.0); source data as of 2026-06-01

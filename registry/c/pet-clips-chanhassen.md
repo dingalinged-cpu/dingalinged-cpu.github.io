@@ -15,7 +15,7 @@ Pet Clips is a dog groomer in Chanhassen, MN at 2445 Minnesota State Highway 7, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pet-clips-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pet-clips-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11215299481 (license ODbL-1.0); source data as of 2026-06-01

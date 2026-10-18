@@ -1,0 +1,23 @@
+Rockwall Tailor & Shoe Repair is a tailor in Rockwall, TX at 109 East Bourn Street, Rockwall, TX 75087.
+
+# Rockwall Tailor & Shoe Repair
+
+- Category: tailor
+- Services: tailor
+- Address: 109 East Bourn Street, Rockwall, TX 75087
+- City: Rockwall
+- State: TX
+- ZIP: 75087
+- Coordinates: 32.9220715, -96.459862
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/rockwall-tailor-and-shoe-repair-rockwall/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rockwall-tailor-and-shoe-repair-rockwall.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13792601658 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

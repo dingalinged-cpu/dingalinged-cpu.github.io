@@ -1,0 +1,830 @@
+{
+ "place": "Farmersville, TX",
+ "slug": "farmersville-tx",
+ "count": 25,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-farmersville-tx.json"
+  },
+  {
+   "keyword": "bakery farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-farmersville-tx.json"
+  },
+  {
+   "keyword": "car wash farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-farmersville-tx.json"
+  },
+  {
+   "keyword": "chiropractor farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-farmersville-tx.json"
+  },
+  {
+   "keyword": "dentist farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-farmersville-tx.json"
+  },
+  {
+   "keyword": "driving school farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/driving-school-farmersville-tx.json"
+  },
+  {
+   "keyword": "event venues farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-farmersville-tx.json"
+  },
+  {
+   "keyword": "family doctor farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-farmersville-tx.json"
+  },
+  {
+   "keyword": "flooring companies farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-farmersville-tx.json"
+  },
+  {
+   "keyword": "florist farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-farmersville-tx.json"
+  },
+  {
+   "keyword": "funeral home farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-farmersville-tx.json"
+  },
+  {
+   "keyword": "gym farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-farmersville-tx.json"
+  },
+  {
+   "keyword": "insurance agency farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-farmersville-tx.json"
+  },
+  {
+   "keyword": "insurance agent farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-farmersville-tx.json"
+  },
+  {
+   "keyword": "insurance agents farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-farmersville-tx.json"
+  },
+  {
+   "keyword": "mechanic farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-farmersville-tx.json"
+  },
+  {
+   "keyword": "nail salon farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-farmersville-tx.json"
+  },
+  {
+   "keyword": "pediatrician farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pediatrician-farmersville-tx.json"
+  },
+  {
+   "keyword": "physical therapy farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-farmersville-tx.json"
+  },
+  {
+   "keyword": "primary care physician farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-farmersville-tx.json"
+  },
+  {
+   "keyword": "thrift store farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-farmersville-tx.json"
+  },
+  {
+   "keyword": "tire shop farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-farmersville-tx.json"
+  },
+  {
+   "keyword": "vet farmersville tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-farmersville-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "family-care-chriopratic-farmersville",
+   "name": "Family Care Chriopratic",
+   "summary": "Family Care Chriopratic is a chiropractor in Farmersville, TX at 604 South Raymond Street #B, Farmersville, TX 75442. Phone: +19727827707. Website: https://www.chiropracticrockwall.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-care-chriopratic-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-care-chriopratic-farmersville.json",
+   "address": {
+    "streetAddress": "604 South Raymond Street #B",
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "postalCode": "75442",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "zip": "75442",
+   "geo": {
+    "lat": 33.1577032,
+    "lon": -96.3722033
+   },
+   "phone": "+19727827707",
+   "website": "https://www.chiropracticrockwall.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6165582206",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "harvest-dental-farmersville",
+   "name": "Harvest Dental",
+   "summary": "Harvest Dental is a dentist in Farmersville, TX at 1704 West Audie Murphy Parkway, Farmersville, TX 75442. Phone: +14698127100. Website: https://www.harvestdentaltexas.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harvest-dental-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harvest-dental-farmersville.json",
+   "address": {
+    "streetAddress": "1704 West Audie Murphy Parkway",
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "postalCode": "75442",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "zip": "75442",
+   "geo": {
+    "lat": 33.159488,
+    "lon": -96.388232
+   },
+   "phone": "+14698127100",
+   "website": "https://www.harvestdentaltexas.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6165571709",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carries-floral-creations-farmersville",
+   "name": "Carrie's Floral Creations",
+   "summary": "Carrie's Floral Creations is a florist in Farmersville, TX at 101 McKinney Street, Farmersville, TX 75442. Phone: +19727847000.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carries-floral-creations-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carries-floral-creations-farmersville.json",
+   "address": {
+    "streetAddress": "101 McKinney Street",
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "postalCode": "75442",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "zip": "75442",
+   "geo": {
+    "lat": 33.1630302,
+    "lon": -96.3601085
+   },
+   "phone": "+19727847000",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6165571169",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "catrachos-tire-and-mufflers-farmersville",
+   "name": "Catrachos Tire & Mufflers",
+   "summary": "Catrachos Tire & Mufflers is a tire shop in Farmersville, TX at 421 East Audie Murphy Parkway, Farmersville, TX 75442. Phone: +19727828287.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/catrachos-tire-and-mufflers-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/catrachos-tire-and-mufflers-farmersville.json",
+   "address": {
+    "streetAddress": "421 East Audie Murphy Parkway",
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "postalCode": "75442",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "zip": "75442",
+   "geo": {
+    "lat": 33.156862,
+    "lon": -96.3548101
+   },
+   "phone": "+19727828287",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6165571696",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmersville-car-wash-farmersville",
+   "name": "Farmersville Car Wash",
+   "summary": "Farmersville Car Wash is a car wash in Farmersville, TX at 1701 West Audie Murphy Parkway, Farmersville, TX 75442. Website: https://farmersvillecarwash.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmersville-car-wash-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmersville-car-wash-farmersville.json",
+   "address": {
+    "streetAddress": "1701 West Audie Murphy Parkway",
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "postalCode": "75442",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "zip": "75442",
+   "geo": {
+    "lat": 33.1583114,
+    "lon": -96.3879106
+   },
+   "website": "https://farmersvillecarwash.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13806673595",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmersville-veterinary-clinic-farmersville",
+   "name": "Farmersville Veterinary Clinic",
+   "summary": "Farmersville Veterinary Clinic is a veterinarian in Farmersville, TX at 610 North State Highway 78, Farmersville, TX 75442. Website: https://farmersvilleveterinaryclinic.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmersville-veterinary-clinic-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmersville-veterinary-clinic-farmersville.json",
+   "address": {
+    "streetAddress": "610 North State Highway 78",
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "postalCode": "75442",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "zip": "75442",
+   "geo": {
+    "lat": 33.1718515,
+    "lon": -96.3677239
+   },
+   "website": "https://farmersvilleveterinaryclinic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/658941266",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "greater-therapy-centers-farmersville",
+   "name": "Greater Therapy Centers",
+   "summary": "Greater Therapy Centers is a physical therapy clinic in Farmersville, TX at 1022 North State Highway 78, Farmersville, TX 75442. Website: https://therapypartnersgroup.com/location/farmersville/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greater-therapy-centers-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greater-therapy-centers-farmersville.json",
+   "address": {
+    "streetAddress": "1022 North State Highway 78",
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "postalCode": "75442",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "zip": "75442",
+   "geo": {
+    "lat": 33.1741724,
+    "lon": -96.3680229
+   },
+   "website": "https://therapypartnersgroup.com/location/farmersville/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13978143518",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rock-fitness-farmersville",
+   "name": "Rock Fitness",
+   "summary": "Rock Fitness is a gym in Farmersville, TX at 1022 North State Highway 78, Farmersville, TX 75442. Website: https://rockfitnesscamp.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rock-fitness-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rock-fitness-farmersville.json",
+   "address": {
+    "streetAddress": "1022 North State Highway 78",
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "postalCode": "75442",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "zip": "75442",
+   "geo": {
+    "lat": 33.174284,
+    "lon": -96.3682337
+   },
+   "website": "https://rockfitnesscamp.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13978143517",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-farm-bureau-insurance-company-farmersville",
+   "name": "Texas Farm Bureau Insurance Company",
+   "summary": "Texas Farm Bureau Insurance Company is an insurance agent in Farmersville, TX at 1300 West Audie Murphy Parkway #5, Farmersville, TX 75442. Phone: +19727847779.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-farm-bureau-insurance-company-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-farm-bureau-insurance-company-farmersville.json",
+   "address": {
+    "streetAddress": "1300 West Audie Murphy Parkway #5",
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "postalCode": "75442",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "zip": "75442",
+   "geo": {
+    "lat": 33.1588416,
+    "lon": -96.3800711
+   },
+   "phone": "+19727847779",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6165571705",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "genesis-thrift-store-farmersville",
+   "name": "Genesis Thrift Store",
+   "summary": "Genesis Thrift Store is a thrift store in Farmersville, TX. Website: https://www.facebook.com/p/Genesis-Thrift-Store-100090646633738/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/genesis-thrift-store-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/genesis-thrift-store-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1635432,
+    "lon": -96.368227
+   },
+   "website": "https://www.facebook.com/p/Genesis-Thrift-Store-100090646633738/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/658939580",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hursts-fielder-baker-funeral-home-farmersville",
+   "name": "Hurst's Fielder Baker Funeral Home",
+   "summary": "Hurst's Fielder Baker Funeral Home is a funeral home in Farmersville, TX. Website: https://hfbfuneral.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hursts-fielder-baker-funeral-home-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hursts-fielder-baker-funeral-home-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1640485,
+    "lon": -96.3613395
+   },
+   "website": "https://hfbfuneral.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/658939613",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "all-heart-veterinary-center-farmersville",
+   "name": "All Heart Veterinary Center",
+   "summary": "All Heart Veterinary Center is a veterinarian in Farmersville, TX at 1022 North State Highway 78, Farmersville, TX 75442.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-heart-veterinary-center-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-heart-veterinary-center-farmersville.json",
+   "address": {
+    "streetAddress": "1022 North State Highway 78",
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "postalCode": "75442",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "zip": "75442",
+   "geo": {
+    "lat": 33.1740219,
+    "lon": -96.3682215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13978143516",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "best-donuts-farmersville",
+   "name": "Best Donuts",
+   "summary": "Best Donuts is a bakery in Farmersville, TX at 602 TX-78 #105, Farmersville, TX 75442.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-donuts-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-donuts-farmersville.json",
+   "address": {
+    "streetAddress": "602 TX-78 #105",
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "postalCode": "75442",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "zip": "75442",
+   "geo": {
+    "lat": 33.1703116,
+    "lon": -96.3676506
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6165571715",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "doctor-gloria-gamboa-farmersville",
+   "name": "Doctor Gloria Gamboa",
+   "summary": "Doctor Gloria Gamboa is a family medicine practice in Farmersville, TX at 103 McKinney Street, Farmersville, TX 75442.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/doctor-gloria-gamboa-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/doctor-gloria-gamboa-farmersville.json",
+   "address": {
+    "streetAddress": "103 McKinney Street",
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "postalCode": "75442",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "zip": "75442",
+   "geo": {
+    "lat": 33.1630404,
+    "lon": -96.3602434
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6165571170",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "baez-tire-shop-farmersville",
+   "name": "Baez Tire Shop",
+   "summary": "Baez Tire Shop is a tire shop in Farmersville, TX.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baez-tire-shop-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baez-tire-shop-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1570065,
+    "lon": -96.372934
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/658944628",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carevide-pediatrics-and-family-medicine-farmersville",
+   "name": "CareVide Pediatrics and Family Medicine",
+   "summary": "CareVide Pediatrics and Family Medicine is a pediatrician in Farmersville, TX.",
+   "categories": [
+    "pediatrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carevide-pediatrics-and-family-medicine-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carevide-pediatrics-and-family-medicine-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1595287,
+    "lon": -96.3892834
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13831176324",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "castle-floors-farmersville",
+   "name": "Castle Floors",
+   "summary": "Castle Floors is a flooring company in Farmersville, TX.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/castle-floors-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/castle-floors-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1571211,
+    "lon": -96.3754554
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13846159950",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmersville-dental-group-farmersville",
+   "name": "Farmersville Dental Group",
+   "summary": "Farmersville Dental Group is a dentist in Farmersville, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmersville-dental-group-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmersville-dental-group-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1569785,
+    "lon": -96.3742158
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13799015535",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gallery-nail-spa-farmersville",
+   "name": "Gallery Nail Spa",
+   "summary": "Gallery Nail Spa is a nail salon in Farmersville, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gallery-nail-spa-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gallery-nail-spa-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1707628,
+    "lon": -96.3676403
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13831034941",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "harmony-driving-school-farmersville",
+   "name": "Harmony Driving School",
+   "summary": "Harmony Driving School is a driving school in Farmersville, TX.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harmony-driving-school-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harmony-driving-school-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1572925,
+    "lon": -96.3760618
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13846159951",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "james-auto-repair-farmersville",
+   "name": "James Auto Repair",
+   "summary": "James Auto Repair is an auto repair shop in Farmersville, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-auto-repair-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-auto-repair-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1635045,
+    "lon": -96.362156
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/658939635",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lopez-truck-tire-shop-farmersville",
+   "name": "Lopez Truck Tire Shop",
+   "summary": "Lopez Truck Tire Shop is a tire shop in Farmersville, TX.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lopez-truck-tire-shop-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lopez-truck-tire-shop-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1579709,
+    "lon": -96.3700021
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/658944641",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mckinney-auto-and-tires-farmersville",
+   "name": "McKinney Auto and Tires",
+   "summary": "McKinney Auto and Tires is an auto repair shop in Farmersville, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mckinney-auto-and-tires-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mckinney-auto-and-tires-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1573477,
+    "lon": -96.3691584
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/658944604",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "plums-nail-salon-farmersville",
+   "name": "Plums Nail Salon",
+   "summary": "Plums Nail Salon is a nail salon in Farmersville, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/plums-nail-salon-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/plums-nail-salon-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.159477,
+    "lon": -96.3886773
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13831176321",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "room-3-56-farmersville",
+   "name": "Room 3:56",
+   "summary": "Room 3:56 is an event venue in Farmersville, TX.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/room-3-56-farmersville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/room-3-56-farmersville.json",
+   "address": {
+    "addressLocality": "Farmersville",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Farmersville",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1635205,
+    "lon": -96.3641767
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13825092532",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

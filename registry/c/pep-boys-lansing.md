@@ -15,7 +15,7 @@ Pep Boys is an auto repair shop in Lansing, IL at 17015 Torrence Avenue, Lansing
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pep-boys-lansing/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-lansing.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7777637642 (license ODbL-1.0); source data as of 2026-06-01

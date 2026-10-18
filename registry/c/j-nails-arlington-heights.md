@@ -15,7 +15,7 @@ J Nails is a nail salon in Arlington Heights, IL. Phone: +12247352437.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/j-nails-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/j-nails-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13004850886 (license ODbL-1.0); source data as of 2026-06-01

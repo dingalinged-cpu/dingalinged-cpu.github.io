@@ -15,7 +15,7 @@ Oscar Wastyn Cycles is a bike shop in Chicago, IL at 2412 North Talman Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oscar-wastyn-cycles-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oscar-wastyn-cycles-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/relation/2814726 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Chase Behavior Solutions is a therapy practice in Houston, TX at 23836 Highway 59 North, Houston, TX 77339. Website: https://chasebehavior.com/.
+
+# Chase Behavior Solutions
+
+- Category: therapist
+- Services: therapist
+- Address: 23836 Highway 59 North, Houston, TX 77339
+- City: Houston
+- State: TX
+- ZIP: 77339
+- Coordinates: 30.0611992, -95.2473079
+- Phone: n/a
+- Website: https://chasebehavior.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/chase-behavior-solutions-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/chase-behavior-solutions-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7633149814 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

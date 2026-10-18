@@ -15,7 +15,7 @@ Kuratko-Nosek is a funeral home in North Riverside, IL at 2447 Des Plaines Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kuratko-nosek-north-riverside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kuratko-nosek-north-riverside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1152711314 (license ODbL-1.0); source data as of 2026-06-01

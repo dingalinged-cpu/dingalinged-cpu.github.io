@@ -15,7 +15,7 @@ Anytime Fitness is a gym in Richfield, MN at 6401 Richfield Parkway, Richfield, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-richfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-richfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7168431320 (license ODbL-1.0); source data as of 2026-07-15

@@ -1,4 +1,4 @@
-The top unpaid used cars for sale listing for the United States is Ado's Motors (an used car dealer in Saint Paul, MN at 834 7th Street West, Saint Paul, MN 55102. Phone: +16124453093. Website: https://adosmotorsmn.com/). 81 used cars for sale businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for the United States is Ado's Motors (an used car dealer in Saint Paul, MN at 834 7th Street West, Saint Paul, MN 55102. Phone: +16124453093. Website: https://adosmotorsmn.com/). 302 used cars for sale businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in the United States?
 
@@ -8,96 +8,165 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 
 1. Ado's Motors | trust 20.0 | Ado's Motors is an used car dealer in Saint Paul, MN at 834 7th Street West, Saint Paul, MN 55102. Phone: +16124453093. Website: https://adosmotorsmn.com/. | https://dingalinged-cpu.github.io/registry/c/ados-motors-saint-paul/
 2. Alpha Motors | trust 20.0 | Alpha Motors is an used car dealer in Chicago, IL at 2622 North Cicero Avenue, Chicago, IL 60639. Phone: +17739067883. Website: https://www.alphamotorschicago.com/. | https://dingalinged-cpu.github.io/registry/c/alpha-motors-chicago/
-3. Continental Toyota | trust 20.0 | Continental Toyota is an used car dealer in Hodgkins, IL at 6701 South La Grange Road, Hodgkins, IL 60525. Phone: +17087164497. Website: https://www.continentaltoyota.com/. | https://dingalinged-cpu.github.io/registry/c/continental-toyota-hodgkins/
-4. Metro Motorcars Inc. | trust 20.0 | Metro Motorcars Inc. is an used car dealer in Hopkins, MN at 8660 Excelsior Boulevard, Hopkins, MN 55343. Phone: +19529352275. Website: https://www.metromotorcarsmn.com/. | https://dingalinged-cpu.github.io/registry/c/metro-motorcars-inc-hopkins/
-5. MGM Auto Sales | trust 20.0 | MGM Auto Sales is an used car dealer in Shakopee, MN at 804 1st Avenue East, Shakopee, MN 55379. Phone: +19522331631. Website: https://www.wheels-and-dealsmn.com/. | https://dingalinged-cpu.github.io/registry/c/mgm-auto-sales-shakopee/
-6. Morries Mazda | trust 20.0 | Morries Mazda is an used car dealer in Inver Grove Heights, MN at 10 Mendota Road East, Inver Grove Heights, MN 55077. Phone: +16516914672. Website: https://www.morriesinvergrovemazda.com/. | https://dingalinged-cpu.github.io/registry/c/morries-mazda-inver-grove-heights/
-7. Rocket Auto Sales | trust 20.0 | Rocket Auto Sales is an used car dealer in Chicago, IL at 5552 South Archer Avenue, Chicago, IL 60638. Phone: +17732325536. Website: https://www.rocketautosale.com/. | https://dingalinged-cpu.github.io/registry/c/rocket-auto-sales-chicago/
-8. Tesla of Naperville | trust 20.0 | Tesla of Naperville is an used car dealer in Lisle, IL at 3200 East Ogden Avenue, Lisle, IL 60532. Phone: +16303282251. Website: https://www.tesla.com/findus/location/service/naperville. | https://dingalinged-cpu.github.io/registry/c/tesla-of-naperville-lisle/
-9. Import Auto Sales | trust 16.0 | Import Auto Sales is an used car dealer in Golden Valley, MN at 730 Florida Avenue South, Golden Valley, MN 55426. Phone: +19525911797. Website: https://www.carsmn.com/. | https://dingalinged-cpu.github.io/registry/c/import-auto-sales-golden-valley/
-10. Luther Westside | trust 16.0 | Luther Westside is an used car dealer in Saint Louis Park, MN at 2440 State Highway 100, Saint Louis Park, MN 55416. Phone: +18335950632. Website: https://www.westsidevw.com/parts/department.htm. | https://dingalinged-cpu.github.io/registry/c/luther-westside-saint-louis-park/
-11. Midway Ford | trust 16.0 | Midway Ford is an used car dealer in Roseville, MN. Phone: +16516368200. Website: https://www.rosevillemidwayford.com/. | https://dingalinged-cpu.github.io/registry/c/midway-ford-roseville/
-12. Orland Toyota | trust 16.0 | Orland Toyota is an used car dealer in Tinley Park, IL at 8505 West 159th Street, Tinley Park, IL 60487. Phone: +17084282720. Website: https://www.orlandtoyota.com/. | https://dingalinged-cpu.github.io/registry/c/orland-toyota-tinley-park/
-13. Perillo BMW | trust 16.0 | Perillo BMW is an used car dealer in Chicago, IL at 1035 North Clark Street, Chicago, IL 60610. Phone: +13129810000. Website: https://www.perillobmw.com/. | https://dingalinged-cpu.github.io/registry/c/perillo-bmw-chicago/
-14. Poquet Auto Sales, Inc. | trust 16.0 | Poquet Auto Sales, Inc. is an used car dealer in Golden Valley, MN at 800 Lilac Drive North, Golden Valley, MN 55422. Phone: +17635222000. Website: https://www.poquetauto.com/. | https://dingalinged-cpu.github.io/registry/c/poquet-auto-sales-inc-golden-valley/
-15. Rizza Cadillac | trust 16.0 | Rizza Cadillac is an used car dealer in Tinley Park, IL at 8545 West 159th Street, Tinley Park, IL 60487. Phone: +17088407542. Website: https://www.rizzacadillac.com/. | https://dingalinged-cpu.github.io/registry/c/rizza-cadillac-tinley-park/
-16. Superior Ford | trust 16.0 | Superior Ford is an used car dealer in Plymouth, MN at 9700 56th Avenue North, Plymouth, MN 55442. Phone: +17634536953. Website: https://www.superiorford.com/. | https://dingalinged-cpu.github.io/registry/c/superior-ford-plymouth/
-17. Ziegler Nissan of Orland Park | trust 16.0 | Ziegler Nissan of Orland Park is an used car dealer in Orland Park, IL at 8550 West 159th Street, Orland Park, IL 60462. Phone: +17084031300. Website: https://www.zeiglernissanoforlandpark.com/. | https://dingalinged-cpu.github.io/registry/c/ziegler-nissan-of-orland-park-orland-park/
-18. Beth's Auto Sales | trust 14.0 | Beth's Auto Sales is an used car dealer in Minneapolis, MN at 2723 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16122364263. | https://dingalinged-cpu.github.io/registry/c/beths-auto-sales-minneapolis/
-19. Quick Sales Corporation | trust 14.0 | Quick Sales Corporation is an used car dealer in Chicago, IL at 5800 West Fullerton Avenue, Chicago, IL 60639. Phone: +18476089800. | https://dingalinged-cpu.github.io/registry/c/quick-sales-corporation-chicago/
-20. Tasca Chevrolet | trust 14.0 | Tasca Chevrolet is an used car dealer in Wheeling, IL at 700 West Dundee Road, Wheeling, IL 60090. Website: https://www.tascachevroletwheeling.com/. | https://dingalinged-cpu.github.io/registry/c/tasca-chevrolet-wheeling/
-21. 5 Stars Auto Service And Sales | trust 10.0 | 5 Stars Auto Service And Sales is an used car dealer in Chicago, IL at 7446 North Clark Street, Chicago, IL 60626. Website: https://www.5starsautochicago.com/. | https://dingalinged-cpu.github.io/registry/c/5-stars-auto-service-and-sales-chicago/
-22. Arrow Truck Sales | trust 10.0 | Arrow Truck Sales is an used car dealer in Bolingbrook, IL at 245 West South Frontage Road, Bolingbrook, IL 60440. Website: https://www.arrowtruck.com/location/chicago-il. | https://dingalinged-cpu.github.io/registry/c/arrow-truck-sales-bolingbrook/
-23. Auto Center Bargain Lot | trust 10.0 | Auto Center Bargain Lot is an used car dealer in Wayzata, MN at 1805 Wayzata Boulevard, Wayzata, MN 55391. Website: https://www.autocenterbargainlot.com/. | https://dingalinged-cpu.github.io/registry/c/auto-center-bargain-lot-wayzata/
-24. Car Credit 7600 | trust 10.0 | Car Credit 7600 is an used car dealer in Chicago, IL at 7630 South Western Avenue, Chicago, IL 60620. Website: https://www.carcredit7600.com/. | https://dingalinged-cpu.github.io/registry/c/car-credit-7600-chicago/
-25. Carfect | trust 10.0 | Carfect is an used car dealer in Chicago, IL at 4530 South Archer Avenue, Chicago, IL 60632. Website: https://carfect.com/chicago-used-car-dealers/. | https://dingalinged-cpu.github.io/registry/c/carfect-chicago/
-26. CarMax | trust 10.0 | CarMax is an used car dealer in Glencoe, IL at 2000 Frontage Road, Glencoe, IL 60022. Website: https://www.carmax.com/stores/7208. | https://dingalinged-cpu.github.io/registry/c/carmax-glencoe/
-27. CarMax | trust 10.0 | CarMax is an used car dealer in Hillside, IL at 101 North Wolf Road, Hillside, IL 60162. Website: https://www.carmax.com/stores/7146. | https://dingalinged-cpu.github.io/registry/c/carmax-hillside/
-28. CarMax | trust 10.0 | CarMax is an used car dealer in Merrillville, IN at 1370 East 79th Avenue, Merrillville, IN 46410. Website: https://www.carmax.com/stores/7180. | https://dingalinged-cpu.github.io/registry/c/carmax-merrillville/
-29. CarMax | trust 10.0 | CarMax is an used car dealer in Oak Lawn, IL at 6540 West 95th Street, Oak Lawn, IL 60453. Website: https://www.carmax.com/stores/7199. | https://dingalinged-cpu.github.io/registry/c/carmax-oak-lawn/
-30. CarMax | trust 10.0 | CarMax is an used car dealer in Schaumburg, IL at 250 East Golf Road, Schaumburg, IL 60173. Website: https://www.carmax.com/stores/7128. | https://dingalinged-cpu.github.io/registry/c/carmax-schaumburg/
-31. East Side Auto | trust 10.0 | East Side Auto is an used car dealer in Saint Paul Park, MN at 805 Main Street, Saint Paul Park, MN 55071. Website: https://www.eastside-auto.com/. | https://dingalinged-cpu.github.io/registry/c/east-side-auto-saint-paul-park/
-32. Ettleson Hyundai | trust 10.0 | Ettleson Hyundai is an used car dealer in Countryside, IL at 5631 South La Grange Road, Countryside, IL 60525. Website: https://www.ettlesonhyundai.com/. | https://dingalinged-cpu.github.io/registry/c/ettleson-hyundai-countryside/
-33. JZ Auto Sales | trust 10.0 | JZ Auto Sales is an used car dealer in Summit, IL at 6158 South Harlem Avenue, Summit, IL 60501. Website: https://www.jzautosale.net/. | https://dingalinged-cpu.github.io/registry/c/jz-auto-sales-summit/
-34. Kunes Lakes Chevorlet | trust 10.0 | Kunes Lakes Chevorlet is an used car dealer in Lake Bluff, IL at 1 Sherwood Terrace, Lake Bluff, IL 60044. Phone: +18478101975. | https://dingalinged-cpu.github.io/registry/c/kunes-lakes-chevorlet-lake-bluff/
-35. Mercedes-Benz of Orland Park | trust 10.0 | Mercedes-Benz of Orland Park is an used car dealer in Orland Park, IL at 8430 West 159th Street, Orland Park, IL 60462. Website: https://www.mercedesbenzorlandpark.com/. | https://dingalinged-cpu.github.io/registry/c/mercedes-benz-of-orland-park-orland-park/
-36. Muller's Woodfield Acura | trust 10.0 | Muller's Woodfield Acura is an used car dealer in Hoffman Estates, IL at 1099 West Higgins Road, Hoffman Estates, IL 60169. Phone: +18473544213. | https://dingalinged-cpu.github.io/registry/c/mullers-woodfield-acura-hoffman-estates/
-37. Twin City Auto Exchange | trust 10.0 | Twin City Auto Exchange is an used car dealer in Minneapolis, MN at 2501 West Broadway, Minneapolis, MN 55411. Phone: +16122903244. | https://dingalinged-cpu.github.io/registry/c/twin-city-auto-exchange-minneapolis/
-38. Jerry Haggerty Chevrolet | trust 9.0 | Jerry Haggerty Chevrolet is an used car dealer in Glen Ellyn, IL at 300 West Roosevelt Road, Glen Ellyn, IL. Phone: +16305184219. | https://dingalinged-cpu.github.io/registry/c/jerry-haggerty-chevrolet-glen-ellyn/
-39. Luther Used Car Company | trust 9.0 | Luther Used Car Company is an used car dealer in Brooklyn Park, MN at 7417 Brooklyn Boulevard, Brooklyn Park, MN. Website: https://www.lutherusedcarcompany.com/. | https://dingalinged-cpu.github.io/registry/c/luther-used-car-company-brooklyn-park/
-40. Bedrock Motors | trust 8.0 | Bedrock Motors is an used car dealer in Rogers, MN at 13830 Northdale Boulevard, Rogers, MN 55374. | https://dingalinged-cpu.github.io/registry/c/bedrock-motors-rogers/
-41. CarMax | trust 6.0 | CarMax is an used car dealer in Brooklyn Park, MN. Website: https://www.carmax.com/stores/6008. | https://dingalinged-cpu.github.io/registry/c/carmax-brooklyn-park/
-42. Carmax | trust 6.0 | Carmax is an used car dealer in Maplewood, MN. Website: https://www.carmax.com/stores/7633. | https://dingalinged-cpu.github.io/registry/c/carmax-maplewood/
-43. CarMax | trust 6.0 | CarMax is an used car dealer in Tinley Park, IL. Website: https://www.carmax.com/stores/7123. | https://dingalinged-cpu.github.io/registry/c/carmax-tinley-park/
-44. Drive Appeal | trust 6.0 | Drive Appeal is an used car dealer in New Hope, MN. Website: https://www.driveappeal.com/. | https://dingalinged-cpu.github.io/registry/c/drive-appeal-new-hope/
-45. Berwyn Kia | trust 4.0 | Berwyn Kia is an used car dealer in Berwyn, IL at 7050 Ogden Avenue, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/berwyn-kia-berwyn/
-46. Carver Auto Sales | trust 4.0 | Carver Auto Sales is an used car dealer in Saint Paul, MN at 1328 Point Douglas Road South, Saint Paul, MN 55119. | https://dingalinged-cpu.github.io/registry/c/carver-auto-sales-saint-paul/
-47. DriveTime | trust 4.0 | DriveTime is an used car dealer in Midlothian, IL at 14500 South Cicero Avenue, Midlothian, IL 60445. | https://dingalinged-cpu.github.io/registry/c/drivetime-midlothian/
-48. DriveTime Used Cars | trust 4.0 | DriveTime Used Cars is an used car dealer in Lombard, IL at 500 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/drivetime-used-cars-lombard/
-49. Fletcher Jones Audi | trust 4.0 | Fletcher Jones Audi is an used car dealer in Chicago, IL at 1523 West North Avenue, Chicago, IL 60642. | https://dingalinged-cpu.github.io/registry/c/fletcher-jones-audi-chicago/
-50. Freeway Motors | trust 4.0 | Freeway Motors is an used car dealer in Rogers, MN at 14080 Main Street, Rogers, MN 55374. | https://dingalinged-cpu.github.io/registry/c/freeway-motors-rogers/
-51. Hertz Car Sales | trust 4.0 | Hertz Car Sales is an used car dealer in Des Plaines, IL at 2174 Mannheim Road, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/hertz-car-sales-des-plaines/
-52. Lupient Nissan | trust 4.0 | Lupient Nissan is an used car dealer in Brooklyn Park, MN at 7910 Lakeland Avenue North, Brooklyn Park, MN 55445. | https://dingalinged-cpu.github.io/registry/c/lupient-nissan-brooklyn-park/
-53. Mexico Motorsports, Inc. | trust 4.0 | Mexico Motorsports, Inc. is an used car dealer in Melrose Park, IL at 4701 West Lake Street, Melrose Park, IL 60160. | https://dingalinged-cpu.github.io/registry/c/mexico-motorsports-inc-melrose-park/
-54. North Suburban Auto Sales | trust 4.0 | North Suburban Auto Sales is an used car dealer in Hugo, MN at 14529 Forest Boulevard North, Hugo, MN 55038. | https://dingalinged-cpu.github.io/registry/c/north-suburban-auto-sales-hugo/
-55. Northern Lights Auto Sales | trust 4.0 | Northern Lights Auto Sales is an used car dealer in South Saint Paul, MN at 144 Concord Exchange South, South Saint Paul, MN 55075. | https://dingalinged-cpu.github.io/registry/c/northern-lights-auto-sales-south-saint-paul/
-56. Quality Auto Sales | trust 4.0 | Quality Auto Sales is an used car dealer in Robbinsdale, MN at 5912 42nd Avenue North, Robbinsdale, MN 55422. | https://dingalinged-cpu.github.io/registry/c/quality-auto-sales-robbinsdale/
-57. Ulrich's Used Cars | trust 4.0 | Ulrich's Used Cars is an used car dealer in Minneapolis, MN at 2642 Central Avenue Northeast, Minneapolis, MN 55418. | https://dingalinged-cpu.github.io/registry/c/ulrichs-used-cars-minneapolis/
-58. Ultimate Golf Carts | trust 4.0 | Ultimate Golf Carts is an used car dealer in Rogers, MN at 14295 James Road #Suite 100, Rogers, MN 55374. | https://dingalinged-cpu.github.io/registry/c/ultimate-golf-carts-rogers/
-59. Walser Subaru | trust 4.0 | Walser Subaru is an used car dealer in South Saint Paul, MN at 740 Concord Street South, South Saint Paul, MN 55075. | https://dingalinged-cpu.github.io/registry/c/walser-subaru-south-saint-paul/
-60. Warner Motors LLC | trust 4.0 | Warner Motors LLC is an used car dealer in Hopkins, MN at 400 11th Avenue South, Hopkins, MN 55343. | https://dingalinged-cpu.github.io/registry/c/warner-motors-llc-hopkins/
-61. Alex Used Cars | trust 3.0 | Alex Used Cars is an used car dealer in Minneapolis, MN at 1619 Chicago Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/alex-used-cars-minneapolis/
-62. Auto Sales | trust 3.0 | Auto Sales is an used car dealer in Chicago, IL at 6712-6714 North Western Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/auto-sales-chicago/
-63. Gloria's Downtown Auto Sales | trust 3.0 | Gloria's Downtown Auto Sales is an used car dealer in Saint Paul, MN at 359 Robert Street South, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/glorias-downtown-auto-sales-saint-paul/
-64. Ellingson Motorcars | trust 1.0 | Ellingson Motorcars is an used car dealer in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/ellingson-motorcars-rogers/
-65. Admiral Motors | trust 0.0 | Admiral Motors is an used car dealer in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/admiral-motors-arlington-heights/
-66. AutoBank | trust 0.0 | AutoBank is an used car dealer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/autobank-chicago/
-67. C & G Auto Sales | trust 0.0 | C & G Auto Sales is an used car dealer in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/c-and-g-auto-sales-gary/
-68. Christy Motors | trust 0.0 | Christy Motors is an used car dealer in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/christy-motors-crystal/
-69. Ford | trust 0.0 | Ford is an used car dealer in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/ford-downers-grove/
-70. Harlem Motor Sales | trust 0.0 | Harlem Motor Sales is an used car dealer in Palos Hills, IL. | https://dingalinged-cpu.github.io/registry/c/harlem-motor-sales-palos-hills/
-71. Hyundai of Palatine | trust 0.0 | Hyundai of Palatine is an used car dealer in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/hyundai-of-palatine-palatine/
-72. I 80 AutoSales | trust 0.0 | I 80 AutoSales is an used car dealer in Hazel Crest, IL. | https://dingalinged-cpu.github.io/registry/c/i-80-autosales-hazel-crest/
-73. Manheim Chicago Auto Auction | trust 0.0 | Manheim Chicago Auto Auction is an used car dealer in Matteson, IL. | https://dingalinged-cpu.github.io/registry/c/manheim-chicago-auto-auction-matteson/
-74. Marino Chrysler Jeep Dodge | trust 0.0 | Marino Chrysler Jeep Dodge is an used car dealer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/marino-chrysler-jeep-dodge-chicago/
-75. Mike Anderson Chevrolet | trust 0.0 | Mike Anderson Chevrolet is an used car dealer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/mike-anderson-chevrolet-chicago/
-76. RAVMOTORS of Crystal | trust 0.0 | RAVMOTORS of Crystal is an used car dealer in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/ravmotors-of-crystal-crystal/
-77. Schaumburg Pre-Driven Used Cars | trust 0.0 | Schaumburg Pre-Driven Used Cars is an used car dealer in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/schaumburg-pre-driven-used-cars-schaumburg/
-78. Silver Auto | trust 0.0 | Silver Auto is an used car dealer in Frankfort, IL. | https://dingalinged-cpu.github.io/registry/c/silver-auto-frankfort/
-79. Tower Auto Mart | trust 0.0 | Tower Auto Mart is an used car dealer in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/tower-auto-mart-crystal/
-80. Wheels of Chicago | trust 0.0 | Wheels of Chicago is an used car dealer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/wheels-of-chicago-chicago/
-81. Wholesale Outlet | trust 0.0 | Wholesale Outlet is an used car dealer in Hazel Crest, IL. | https://dingalinged-cpu.github.io/registry/c/wholesale-outlet-hazel-crest/
+3. Auto Maxx | trust 20.0 | Auto Maxx is an used car dealer in Houston, TX at 1908 Blalock Road, Houston, TX 77080. Phone: +17134856533. Website: https://www.automaxxhouston.com/. | https://dingalinged-cpu.github.io/registry/c/auto-maxx-houston/
+4. Baytown Ford | trust 20.0 | Baytown Ford is an used car dealer in Baytown, TX at 4110 Interstate 10, Baytown, TX 77521. Phone: +18557602180. Website: https://www.baytownford.com/. | https://dingalinged-cpu.github.io/registry/c/baytown-ford-baytown/
+5. Big Bill's Used Cars | trust 20.0 | Big Bill's Used Cars is an used car dealer in Milwaukee, WI at 5801 West Center Street, Milwaukee, WI 53210. Phone: +14145017428. Website: https://www.bigbillsauto.com/. | https://dingalinged-cpu.github.io/registry/c/big-bills-used-cars-milwaukee/
+6. Carbox | trust 20.0 | Carbox is an used car dealer in Racine, WI at 3317 Durand Avenue, Racine, WI 53405. Phone: +12625584447. Website: https://carboxwi.com/store. | https://dingalinged-cpu.github.io/registry/c/carbox-racine/
+7. CarMax | trust 20.0 | CarMax is an used car dealer in Plano, TX at 4448 West Plano Parkway, Plano, TX 75093. Phone: +19729437590. Website: https://www.carmax.com/stores/7207. | https://dingalinged-cpu.github.io/registry/c/carmax-plano/
+8. Continental Toyota | trust 20.0 | Continental Toyota is an used car dealer in Hodgkins, IL at 6701 South La Grange Road, Hodgkins, IL 60525. Phone: +17087164497. Website: https://www.continentaltoyota.com/. | https://dingalinged-cpu.github.io/registry/c/continental-toyota-hodgkins/
+9. Corner Choice Motors | trust 20.0 | Corner Choice Motors is an used car dealer in West Allis, WI at 9200 West Oklahoma Avenue, West Allis, WI 53227. Phone: +14144463543. Website: https://www.cornerchoicemotors.com/. | https://dingalinged-cpu.github.io/registry/c/corner-choice-motors-west-allis/
+10. Crest Volvo | trust 20.0 | Crest Volvo is an used car dealer in Frisco, TX at 6020 State Highway 121, Frisco, TX 75034. Phone: +18885644042. Website: https://www.crestvolvocars.com/. | https://dingalinged-cpu.github.io/registry/c/crest-volvo-frisco/
+11. EchoPark Automotive Dallas (Plano) | trust 20.0 | EchoPark Automotive Dallas (Plano) is an used car dealer in Plano, TX at 4400 West Plano Parkway, Plano, TX 75093. Phone: +14693311080. Website: https://www.echopark.com/dealerships/plano.htm. | https://dingalinged-cpu.github.io/registry/c/echopark-automotive-dallas-plano-plano/
+12. EchoPark Automotive Houston Southwest Freeway | trust 20.0 | EchoPark Automotive Houston Southwest Freeway is an used car dealer in Houston, TX at 10050 Southwest Freeway, Houston, TX 77074. Phone: +17136091194. Website: https://www.echopark.com/dealerships/southwest-houston.htm. | https://dingalinged-cpu.github.io/registry/c/echopark-automotive-houston-southwest-freeway-houston/
+13. Ewing Subaru of Plano | trust 20.0 | Ewing Subaru of Plano is an used car dealer in Plano, TX at 1555 Dallas Parkway, Plano, TX 75093. Phone: +19728019900. Website: https://www.ewingsubaruofplano.com/. | https://dingalinged-cpu.github.io/registry/c/ewing-subaru-of-plano-plano/
+14. EZ Motorcars | trust 20.0 | EZ Motorcars is an used car dealer in West Allis, WI at 7606 West Beloit Road, West Allis, WI 53219. Phone: +14142512091. Website: https://www.ezmotorcars.com/. | https://dingalinged-cpu.github.io/registry/c/ez-motorcars-west-allis/
+15. Fairview Motors | trust 20.0 | Fairview Motors is an used car dealer in West Allis, WI at 1965 South 60th Street, West Allis, WI 53219. Phone: +14144881893. Website: https://www.fairviewcars.com/. | https://dingalinged-cpu.github.io/registry/c/fairview-motors-west-allis/
+16. Five Star Subaru | trust 20.0 | Five Star Subaru is an used car dealer in Grapevine, TX at 2651 William D Tate Avenue, Grapevine, TX 76051. Phone: +18772570646. Website: https://www.subarugrapevine.net/. | https://dingalinged-cpu.github.io/registry/c/five-star-subaru-grapevine/
+17. Freeman Toyota | trust 20.0 | Freeman Toyota is an used car dealer in Hurst, TX at 240 Northeast Loop 820 Frontage Road, Hurst, TX 76053. Phone: +18174799625. Website: https://www.freemantoyota.com/. | https://dingalinged-cpu.github.io/registry/c/freeman-toyota-hurst/
+18. Hurst Autoplex Mitsubishi | trust 20.0 | Hurst Autoplex Mitsubishi is an used car dealer in Hurst, TX at 240 Northeast Loop 820 Frontage Road, Hurst, TX 76053. Phone: +18883361121. Website: https://hurstautoplex.com/. | https://dingalinged-cpu.github.io/registry/c/hurst-autoplex-mitsubishi-hurst/
+19. Interstate Classic Cars | trust 20.0 | Interstate Classic Cars is an used car dealer in Rockwall, TX at 3101 Springer Road, Rockwall, TX 75032. Phone: +12145032599. Website: https://www.interstateclassiccars.com/. | https://dingalinged-cpu.github.io/registry/c/interstate-classic-cars-rockwall/
+20. Lake Chevrolet | trust 20.0 | Lake Chevrolet is an used car dealer in Milwaukee, WI at 4100 South 27th Street, Milwaukee, WI 53221. Phone: +14143950964. Website: https://www.lakechevymke.com/. | https://dingalinged-cpu.github.io/registry/c/lake-chevrolet-milwaukee/
+21. Lake City Automotive | trust 20.0 | Lake City Automotive is an used car dealer in Milwaukee, WI at 2202 West Greenfield Avenue, Milwaukee, WI 53204. Phone: +14142512392. Website: https://www.lakecityautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/lake-city-automotive-milwaukee/
+22. Land Rover Houston North | trust 20.0 | Land Rover Houston North is an used car dealer in Houston, TX at 18205 North Freeway, Houston, TX 77090. Phone: +18448961938. Website: https://www.landrovernorth.net/. | https://dingalinged-cpu.github.io/registry/c/land-rover-houston-north-houston/
+23. Metro Motorcars Inc. | trust 20.0 | Metro Motorcars Inc. is an used car dealer in Hopkins, MN at 8660 Excelsior Boulevard, Hopkins, MN 55343. Phone: +19529352275. Website: https://www.metromotorcarsmn.com/. | https://dingalinged-cpu.github.io/registry/c/metro-motorcars-inc-hopkins/
+24. MGM Auto Sales | trust 20.0 | MGM Auto Sales is an used car dealer in Shakopee, MN at 804 1st Avenue East, Shakopee, MN 55379. Phone: +19522331631. Website: https://www.wheels-and-dealsmn.com/. | https://dingalinged-cpu.github.io/registry/c/mgm-auto-sales-shakopee/
+25. Momentum BMW | trust 20.0 | Momentum BMW is an used car dealer in Houston, TX at 9570 Southwest Freeway, Houston, TX 77074. Phone: +18556456452. Website: https://www.momentumbmw.net/. | https://dingalinged-cpu.github.io/registry/c/momentum-bmw-houston/
+26. Momentum MINI | trust 20.0 | Momentum MINI is an used car dealer in Houston, TX at 9570 Southwest Freeway, Houston, TX 77074. Phone: +17138935324. Website: https://www.momentummini.com/. | https://dingalinged-cpu.github.io/registry/c/momentum-mini-houston/
+27. Moritz Kia of Hurst | trust 20.0 | Moritz Kia of Hurst is an used car dealer in Hurst, TX at 110 Northeast Loop 820 Frontage Road, Hurst, TX 76053. Phone: +18175958280. Website: https://www.moritzkiahurst.com/. | https://dingalinged-cpu.github.io/registry/c/moritz-kia-of-hurst-hurst/
+28. Morries Mazda | trust 20.0 | Morries Mazda is an used car dealer in Inver Grove Heights, MN at 10 Mendota Road East, Inver Grove Heights, MN 55077. Phone: +16516914672. Website: https://www.morriesinvergrovemazda.com/. | https://dingalinged-cpu.github.io/registry/c/morries-mazda-inver-grove-heights/
+29. Plano Used Cars | trust 20.0 | Plano Used Cars is an used car dealer in Plano, TX at 1608 14th Street, Plano, TX 75074. Phone: +19724324365. Website: https://www.planousedcars.com/. | https://dingalinged-cpu.github.io/registry/c/plano-used-cars-plano/
+30. Ridge Auto Sales | trust 20.0 | Ridge Auto Sales is an used car dealer in West Allis, WI at 5735 West National Avenue, West Allis, WI 53214. Phone: +14147770905. Website: https://ridgeautosales.com/. | https://dingalinged-cpu.github.io/registry/c/ridge-auto-sales-west-allis/
+31. Rocket Auto Sales | trust 20.0 | Rocket Auto Sales is an used car dealer in Chicago, IL at 5552 South Archer Avenue, Chicago, IL 60638. Phone: +17732325536. Website: https://www.rocketautosale.com/. | https://dingalinged-cpu.github.io/registry/c/rocket-auto-sales-chicago/
+32. Sanchez Auto Sales | trust 20.0 | Sanchez Auto Sales is an used car dealer in Milwaukee, WI at 502 West Greenfield Avenue, Milwaukee, WI 53204. Phone: +14142512401. Website: https://www.sanchezautosalesllc.com/. | https://dingalinged-cpu.github.io/registry/c/sanchez-auto-sales-milwaukee/
+33. Serra Toyota | trust 20.0 | Serra Toyota is an used car dealer in Milwaukee, WI at 5727,5757 South 27th Street, Milwaukee, WI 53221. Phone: +14142813100. Website: https://www.serratoyotamke.com/. | https://dingalinged-cpu.github.io/registry/c/serra-toyota-milwaukee/
+34. Sphinx Auto Sales LLC | trust 20.0 | Sphinx Auto Sales LLC is an used car dealer in Milwaukee, WI at 3402 West National Avenue, Milwaukee, WI 53215. Phone: +14147023311. Website: https://www.sphinx-auto.com/. | https://dingalinged-cpu.github.io/registry/c/sphinx-auto-sales-llc-milwaukee/
+35. Strudel Auto Lease | trust 20.0 | Strudel Auto Lease is an used car dealer in Houston, TX at 700 West 11th Street, Houston, TX 77008. Phone: +17139554433. Website: https://www.strudelauto.com/. | https://dingalinged-cpu.github.io/registry/c/strudel-auto-lease-houston/
+36. Suave Motors | trust 20.0 | Suave Motors is an used car dealer in Houston, TX at 5645 Hillcroft Avenue, Houston, TX 77036. Phone: +17135326677. Website: https://www.suavemotorsllc.com/. | https://dingalinged-cpu.github.io/registry/c/suave-motors-houston/
+37. Tesla of Naperville | trust 20.0 | Tesla of Naperville is an used car dealer in Lisle, IL at 3200 East Ogden Avenue, Lisle, IL 60532. Phone: +16303282251. Website: https://www.tesla.com/findus/location/service/naperville. | https://dingalinged-cpu.github.io/registry/c/tesla-of-naperville-lisle/
+38. Texas United Auto | trust 20.0 | Texas United Auto is an used car dealer in Dallas, TX at 2413 Community Drive, Dallas, TX 75220. Phone: +12142729954. Website: https://texasunitedauto.com/. | https://dingalinged-cpu.github.io/registry/c/texas-united-auto-dallas/
+39. Xtreme Motors LLC | trust 20.0 | Xtreme Motors LLC is an used car dealer in Milwaukee, WI at 3505 South 76th Street, Milwaukee, WI 53220. Phone: +14145460905. Website: https://www.xtrememotorswi.com/. | https://dingalinged-cpu.github.io/registry/c/xtreme-motors-llc-milwaukee/
+40. Don Herring Mitsubishi | trust 19.0 | Don Herring Mitsubishi is an used car dealer in Plano, TX at 4225 West Plano Parkway, Plano, TX. Phone: +14694420013. Website: https://www.donherringplano.com/. | https://dingalinged-cpu.github.io/registry/c/don-herring-mitsubishi-plano/
+41. Grapevine Honda | trust 19.0 | Grapevine Honda is an used car dealer in Grapevine, TX at 2301 William D Tate Avenue, Grapevine, TX. Phone: +18172142282. Website: https://www.grapevinehonda.com/. | https://dingalinged-cpu.github.io/registry/c/grapevine-honda-grapevine/
+42. Above and Beyond Auto Sales | trust 16.0 | Above and Beyond Auto Sales is an used car dealer in Milwaukee, WI at 5211 West Lisbon Avenue, Milwaukee, WI 53210. Phone: +14144495320. Website: https://www.aboveandbeyond-auto.com/. | https://dingalinged-cpu.github.io/registry/c/above-and-beyond-auto-sales-milwaukee/
+43. Angel's Auto Sales | trust 16.0 | Angel's Auto Sales is an used car dealer in Milwaukee, WI at 5312 West Lisbon Avenue, Milwaukee, WI 53210. Phone: +14144416781. Website: https://angels-autosales.com/. | https://dingalinged-cpu.github.io/registry/c/angels-auto-sales-milwaukee/
+44. Bill Utter Ford | trust 16.0 | Bill Utter Ford is an used car dealer in Corinth, TX at 4901 South Interstate 35E, Corinth, TX 76210. Phone: +19403217400. Website: https://billutterford.com/. | https://dingalinged-cpu.github.io/registry/c/bill-utter-ford-corinth/
+45. Brandon Tomes Subaru | trust 16.0 | Brandon Tomes Subaru is an used car dealer in McKinney, TX at 4660 State Highway 121, McKinney, TX 75070. Phone: +14699072205. Website: https://www.brandontomessubaru.com/. | https://dingalinged-cpu.github.io/registry/c/brandon-tomes-subaru-mckinney/
+46. CarMax | trust 16.0 | CarMax is an used car dealer in Denton, TX at 4200 South Interstate 35E, Denton, TX 76210. Phone: +19403043950. Website: https://www.carmax.com/stores/6095. | https://dingalinged-cpu.github.io/registry/c/carmax-denton/
+47. Compton Motors | trust 16.0 | Compton Motors is an used car dealer in Sturtevant, WI at 2800 Wisconsin Street, Sturtevant, WI 53177. Phone: +12623210444. Website: https://www.comptonmotors.com/. | https://dingalinged-cpu.github.io/registry/c/compton-motors-sturtevant/
+48. EchoPark Automotive | trust 16.0 | EchoPark Automotive is an used car dealer in Houston, TX at 8477 North Freeway, Houston, TX 77088. Phone: +12813771318. Website: https://www.echopark.com/. | https://dingalinged-cpu.github.io/registry/c/echopark-automotive-houston/
+49. Eckert Hyundai | trust 16.0 | Eckert Hyundai is an used car dealer in Denton, TX at 4011 South Interstate 35E, Denton, TX 76210. Phone: +19402436200. Website: https://www.eckerthyundai.com/. | https://dingalinged-cpu.github.io/registry/c/eckert-hyundai-denton/
+50. Genesis of Denton | trust 16.0 | Genesis of Denton is an used car dealer in Denton, TX at 4011 South Interstate 35E, Denton, TX 76210. Phone: +19402436200. Website: https://www.genesisofdenton.com/. | https://dingalinged-cpu.github.io/registry/c/genesis-of-denton-denton/
+
+## More used cars for sale listings (302 total; top 50 unpaid shown)
+- Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/used-cars-for-sale.jsonl
+- Houston, TX: 47 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-houston-tx/
+- Milwaukee, WI: 28 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-milwaukee-wi/
+- Dallas, TX: 25 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-dallas-tx/
+- Denton, TX: 19 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-denton-tx/
+- Chicago, IL: 13 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-chicago-il/
+- Addison, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-addison-tx/
+- Plano, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-plano-tx/
+- Harris County, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-harris-county-tx/
+- Mesquite, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-mesquite-tx/
+- Mckinney, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-mckinney-tx/
+- Rockwall, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-rockwall-tx/
+- Grapevine, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-grapevine-tx/
+- West Allis, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-west-allis-wi/
+- Minneapolis, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-minneapolis-mn/
+- Rogers, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-rogers-mn/
+- Irving, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-irving-tx/
+- Corinth, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-corinth-tx/
+- Waxahachie, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-waxahachie-tx/
+- Arlington, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-arlington-tx/
+- Hurst, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-hurst-tx/
+- Tinley Park, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-tinley-park-il/
+- Saint Paul, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-saint-paul-mn/
+- Brooklyn Park, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-brooklyn-park-mn/
+- Crystal, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-crystal-mn/
+- Fate, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-fate-tx/
+- Lancaster, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-lancaster-tx/
+- Richardson, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-richardson-tx/
+- Humble, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-humble-tx/
+- Schaumburg, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-schaumburg-il/
+- Hazel Crest, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-hazel-crest-il/
+- Orland Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-orland-park-il/
+- Waukesha, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-waukesha-wi/
+- Greenfield, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-greenfield-wi/
+- Oak Creek, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-oak-creek-wi/
+- Wauwatosa, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-wauwatosa-wi/
+- Golden Valley, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-golden-valley-mn/
+- Hopkins, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-hopkins-mn/
+- South Saint Paul, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-south-saint-paul-mn/
+- Murphy, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-murphy-tx/
+- Duncanville, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-duncanville-tx/
+- Baytown, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-baytown-tx/
+- Richmond, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-richmond-tx/
+- Fort Bend County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-fort-bend-county-tx/
+- Fort Worth, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-fort-worth-tx/
+- Garland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-garland-tx/
+- Frisco, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-frisco-tx/
+- Kaufman, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-kaufman-tx/
+- Lewisville, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-lewisville-tx/
+- North Richland Hills, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-north-richland-hills-tx/
+- League City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-league-city-tx/
+- Prosper, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-prosper-tx/
+- Katy, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-katy-tx/
+- Pearland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-pearland-tx/
+- Wharton, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-wharton-tx/
+- Arlington Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-arlington-heights-il/
+- Bolingbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-bolingbrook-il/
+- Berwyn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-berwyn-il/
+- Glencoe, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-glencoe-il/
+- Hillside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-hillside-il/
+- Oak Lawn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-oak-lawn-il/
+- Hodgkins, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-hodgkins-il/
+- Midlothian, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-midlothian-il/
+- Lombard, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-lombard-il/
+- Countryside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-countryside-il/
+- Downers Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-downers-grove-il/
+- Palos Hills, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-palos-hills-il/
+- Des Plaines, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-des-plaines-il/
+- Palatine, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-palatine-il/
+- Glen Ellyn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-glen-ellyn-il/
+- Summit, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-summit-il/
+- Lake Bluff, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-lake-bluff-il/
+- Matteson, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-matteson-il/
+- Melrose Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-melrose-park-il/
+- Hoffman Estates, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-hoffman-estates-il/
+- Frankfort, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-frankfort-il/
+- Wheeling, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-wheeling-il/
+- Lisle, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-lisle-il/
+- Glendale, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-glendale-wi/
+- Racine, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-racine-wi/
+- Sturtevant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-sturtevant-wi/
+- Cudahy, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-cudahy-wi/
+- Saukville, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-saukville-wi/
+- Mount Pleasant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-mount-pleasant-wi/
+- Burlington, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-burlington-wi/
+- Wayzata, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-wayzata-mn/
+- Maplewood, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-maplewood-mn/
+- New Hope, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-new-hope-mn/
+- Saint Paul Park, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-saint-paul-park-mn/
+- Saint Louis Park, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-saint-louis-park-mn/
+- Shakopee, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-shakopee-mn/
+- Roseville, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-roseville-mn/
+- Inver Grove Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-inver-grove-heights-mn/
+- Hugo, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-hugo-mn/
+- Robbinsdale, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-robbinsdale-mn/
+- Plymouth, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-plymouth-mn/
+- Gary, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-gary-in/
+- Merrillville, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-merrillville-in/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
-- US monthly searches: 140,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
 - CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 81
+- Registry businesses competing: 302
 - Equivalent Google Ads cost per month: ~$52,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/used-cars-for-sale.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#used-cars-for-sale | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/used-cars-for-sale.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#used-cars-for-sale | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

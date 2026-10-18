@@ -15,7 +15,7 @@ Stonehaven of Eagan is an assisted living facility in Eagan, MN at 1000 Station 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/stonehaven-of-eagan-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/stonehaven-of-eagan-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/768556914 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Hair Cuttery is a hair salon in Skokie, IL at 5451 West Touhy Avenue #20, Skokie
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hair-cuttery-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hair-cuttery-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/686726374 (license ODbL-1.0); source data as of 2026-06-01

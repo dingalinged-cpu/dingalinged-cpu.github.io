@@ -1,0 +1,23 @@
+Block Advisors is a tax preparation service in Dallas, TX at 11661 Preston Road #112, Dallas, TX 75230. Phone: +12143730700. Website: https://www.blockadvisors.com/tax-office-near-me/texas/dallas/40754/.
+
+# Block Advisors
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 11661 Preston Road #112, Dallas, TX 75230
+- City: Dallas
+- State: TX
+- ZIP: 75230
+- Coordinates: 32.9073289, -96.8048157
+- Phone: +12143730700
+- Website: https://www.blockadvisors.com/tax-office-near-me/texas/dallas/40754/
+- Email: n/a
+- Opening hours (OSM syntax): "by appointment"
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/block-advisors-dallas-n13265962932/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/block-advisors-dallas-n13265962932.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13265962932 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

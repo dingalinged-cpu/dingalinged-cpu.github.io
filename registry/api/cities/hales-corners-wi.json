@@ -1,0 +1,654 @@
+{
+ "place": "Hales Corners, WI",
+ "slug": "hales-corners-wi",
+ "count": 19,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-hales-corners-wi.json"
+  },
+  {
+   "keyword": "bakery hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-hales-corners-wi.json"
+  },
+  {
+   "keyword": "bike shop hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-hales-corners-wi.json"
+  },
+  {
+   "keyword": "chiropractor hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-hales-corners-wi.json"
+  },
+  {
+   "keyword": "dentist hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-hales-corners-wi.json"
+  },
+  {
+   "keyword": "facial hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-hales-corners-wi.json"
+  },
+  {
+   "keyword": "florist hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-hales-corners-wi.json"
+  },
+  {
+   "keyword": "gym hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-hales-corners-wi.json"
+  },
+  {
+   "keyword": "insurance agency hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-hales-corners-wi.json"
+  },
+  {
+   "keyword": "insurance agent hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-hales-corners-wi.json"
+  },
+  {
+   "keyword": "insurance agents hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-hales-corners-wi.json"
+  },
+  {
+   "keyword": "liquor store hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-hales-corners-wi.json"
+  },
+  {
+   "keyword": "martial arts hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-hales-corners-wi.json"
+  },
+  {
+   "keyword": "nail salon hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-hales-corners-wi.json"
+  },
+  {
+   "keyword": "pet store hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-hales-corners-wi.json"
+  },
+  {
+   "keyword": "physical therapy hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-hales-corners-wi.json"
+  },
+  {
+   "keyword": "tax preparation hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-hales-corners-wi.json"
+  },
+  {
+   "keyword": "tax preparer hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-hales-corners-wi.json"
+  },
+  {
+   "keyword": "thrift store hales corners wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-hales-corners-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "chiro-one-wellness-centers-hales-corners",
+   "name": "Chiro One Wellness Centers",
+   "summary": "Chiro One Wellness Centers is a chiropractor in Hales Corners, WI at 5305 South 108th Street, Hales Corners, WI 53130. Phone: +18334680358. Website: https://www.chiroone.com/locations/hales-corners-wisconsin/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chiro-one-wellness-centers-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chiro-one-wellness-centers-hales-corners.json",
+   "address": {
+    "streetAddress": "5305 South 108th Street",
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "postalCode": "53130",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "zip": "53130",
+   "geo": {
+    "lat": 42.948707,
+    "lon": -88.049292
+   },
+   "phone": "+18334680358",
+   "website": "https://www.chiroone.com/locations/hales-corners-wisconsin/",
+   "opening_hours": "mo-th 07:30-10:30, 15:00-18:30,",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13786103068",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "consumer-beverages-outlet-hales-corners",
+   "name": "Consumer Beverages Outlet",
+   "summary": "Consumer Beverages Outlet is a liquor store in Hales Corners, WI at 5313 South 108th Street, Hales Corners, WI 53130. Phone: +14144251550. Website: https://www.consumerbeverageoutlet.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/consumer-beverages-outlet-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/consumer-beverages-outlet-hales-corners.json",
+   "address": {
+    "streetAddress": "5313 South 108th Street",
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "postalCode": "53130",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "zip": "53130",
+   "geo": {
+    "lat": 42.9484162,
+    "lon": -88.0492762
+   },
+   "phone": "+14144251550",
+   "website": "https://www.consumerbeverageoutlet.com/",
+   "opening_hours": "Mo-Sa 09:00-21:00, Su 09:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13786103061",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cora-physical-therapy-hales-corners",
+   "name": "Cora Physical Therapy",
+   "summary": "Cora Physical Therapy is a physical therapy clinic in Hales Corners, WI at 5301 South 108th Street, Hales Corners, WI 53130. Phone: +14145297375. Website: https://coraphysicaltherapy.com/location/cora-hales-corners-wisconsin/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cora-physical-therapy-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cora-physical-therapy-hales-corners.json",
+   "address": {
+    "streetAddress": "5301 South 108th Street",
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "postalCode": "53130",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "zip": "53130",
+   "geo": {
+    "lat": 42.9489008,
+    "lon": -88.0492945
+   },
+   "phone": "+14145297375",
+   "website": "https://coraphysicaltherapy.com/location/cora-hales-corners-wisconsin/",
+   "opening_hours": "mo-th 07:00-19:00, sa 07:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13786103063",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jk-lee-tae-kwon-do-hales-corners",
+   "name": "JK Lee Tae Kwon Do",
+   "summary": "JK Lee Tae Kwon Do is a martial arts school in Hales Corners, WI at 5301 South 108th Street #A, Hales Corners, WI 53130. Phone: +12625475425. Website: https://jkleeblackbelt.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jk-lee-tae-kwon-do-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jk-lee-tae-kwon-do-hales-corners.json",
+   "address": {
+    "streetAddress": "5301 South 108th Street #A",
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "postalCode": "53130",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "zip": "53130",
+   "geo": {
+    "lat": 42.9489933,
+    "lon": -88.0492984
+   },
+   "phone": "+12625475425",
+   "website": "https://jkleeblackbelt.com/",
+   "opening_hours": "Mo,We 15:30-20:30, Tu,Th 11:30-20:30, Fr 16:30-20:00, sa 08:30-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13786103066",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "liberty-tax-hales-corners",
+   "name": "Liberty Tax",
+   "summary": "Liberty Tax is a tax preparation service in Hales Corners, WI at 5307 South 108th Street, Hales Corners, WI 53130. Phone: +14142693751. Website: https://www.libertytax.com/income-tax-preparation-locations/wisconsin/hales-corners/16367.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liberty-tax-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liberty-tax-hales-corners.json",
+   "address": {
+    "streetAddress": "5307 South 108th Street",
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "postalCode": "53130",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "zip": "53130",
+   "geo": {
+    "lat": 42.9486383,
+    "lon": -88.0492794
+   },
+   "phone": "+14142693751",
+   "website": "https://www.libertytax.com/income-tax-preparation-locations/wisconsin/hales-corners/16367",
+   "opening_hours": "we 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13786103065",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "motifaith-fitness-hales-corners",
+   "name": "Motifaith Fitness",
+   "summary": "Motifaith Fitness is a gym in Hales Corners, WI at 6282 S 108th St, Hales Corners, WI 53130. Phone: +14142098080. Website: https://www.motifaithfit.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/motifaith-fitness-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/motifaith-fitness-hales-corners.json",
+   "address": {
+    "streetAddress": "6282 S 108th St",
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "postalCode": "53130",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "zip": "53130",
+   "geo": {
+    "lat": 42.9306177,
+    "lon": -88.0479319
+   },
+   "phone": "+14142098080",
+   "website": "https://www.motifaithfit.com/",
+   "opening_hours": "Mo-Th 05:00-20:00,Fr 05:00-19:00,Sa 07:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11938881475",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sola-salons-hales-corners",
+   "name": "Sola Salons",
+   "summary": "Sola Salons is a nail salon in Hales Corners, WI at 5319 South Lovers Lane Road, Hales Corners, WI 53130. Phone: +14148107652. Website: https://www.solasalonstudios.com/locations/hales-corners.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-hales-corners.json",
+   "address": {
+    "streetAddress": "5319 South Lovers Lane Road",
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "postalCode": "53130",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "zip": "53130",
+   "geo": {
+    "lat": 42.948087,
+    "lon": -88.0492715
+   },
+   "phone": "+14148107652",
+   "website": "https://www.solasalonstudios.com/locations/hales-corners",
+   "opening_hours": "Mo-Fr 09:00-20:00, Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13786103064",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-salvation-army-hales-corners",
+   "name": "The Salvation Army",
+   "summary": "The Salvation Army is a thrift store in Hales Corners, WI at 5317 South 108th Street, Hales Corners, WI 53130. Website: https://satruck.org/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-hales-corners.json",
+   "address": {
+    "streetAddress": "5317 South 108th Street",
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "postalCode": "53130",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "zip": "53130",
+   "geo": {
+    "lat": 42.9482245,
+    "lon": -88.0492792
+   },
+   "website": "https://satruck.org/",
+   "opening_hours": "Mo-Sa 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13786103060",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "barbs-green-house-florist-hales-corners",
+   "name": "Barb's Green House Florist",
+   "summary": "Barb's Green House Florist is a florist in Hales Corners, WI. Website: https://www.barbsgreenhouseflorist.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barbs-green-house-florist-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barbs-green-house-florist-hales-corners.json",
+   "address": {
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9414646,
+    "lon": -88.0490441
+   },
+   "website": "https://www.barbsgreenhouseflorist.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11501159340",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "forest-ridge-senior-community-hales-corners",
+   "name": "Forest Ridge Senior Community",
+   "summary": "Forest Ridge Senior Community is an assisted living facility in Hales Corners, WI at 11077 West Forest Home Avenue, Hales Corners, WI 53130.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forest-ridge-senior-community-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forest-ridge-senior-community-hales-corners.json",
+   "address": {
+    "streetAddress": "11077 West Forest Home Avenue",
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "postalCode": "53130",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "zip": "53130",
+   "geo": {
+    "lat": 42.9312216,
+    "lon": -88.0500181
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/452967668",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "1st-lady-nails-hales-corners",
+   "name": "1st Lady Nails",
+   "summary": "1st Lady Nails is a nail salon in Hales Corners, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1st-lady-nails-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1st-lady-nails-hales-corners.json",
+   "address": {
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9416432,
+    "lon": -88.0476658
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9538745397",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-family-insurance-hales-corners",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Hales Corners, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-hales-corners.json",
+   "address": {
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9449096,
+    "lon": -88.0467386
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9538745405",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dk-dental-care-hales-corners",
+   "name": "DK Dental Care",
+   "summary": "DK Dental Care is a dentist in Hales Corners, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dk-dental-care-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dk-dental-care-hales-corners.json",
+   "address": {
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9438874,
+    "lon": -88.0487473
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11466720005",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "doctors-of-physical-therapy-hales-corners",
+   "name": "Doctors of Physical Therapy",
+   "summary": "Doctors of Physical Therapy is a physical therapy clinic in Hales Corners, WI.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/doctors-of-physical-therapy-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/doctors-of-physical-therapy-hales-corners.json",
+   "address": {
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9407448,
+    "lon": -88.0476874
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9538745392",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "happy-tails-pet-supplies-hales-corners",
+   "name": "Happy Tails Pet Supplies",
+   "summary": "Happy Tails Pet Supplies is a pet store in Hales Corners, WI.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-tails-pet-supplies-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-tails-pet-supplies-hales-corners.json",
+   "address": {
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9418898,
+    "lon": -88.0473429
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9538745402",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "healthwise-chiropractic-hales-corners",
+   "name": "Healthwise Chiropractic",
+   "summary": "Healthwise Chiropractic is a chiropractor in Hales Corners, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthwise-chiropractic-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthwise-chiropractic-hales-corners.json",
+   "address": {
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9357639,
+    "lon": -88.0468821
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215770117",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "karate-hales-corners",
+   "name": "Karate",
+   "summary": "Karate is a martial arts school in Hales Corners, WI.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/karate-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/karate-hales-corners.json",
+   "address": {
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9402795,
+    "lon": -88.0476915
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9538745386",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mama-bevs-bakery-hales-corners",
+   "name": "Mama Bev's Bakery",
+   "summary": "Mama Bev's Bakery is a bakery in Hales Corners, WI.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mama-bevs-bakery-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mama-bevs-bakery-hales-corners.json",
+   "address": {
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9418212,
+    "lon": -88.0476569
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9538745399",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "patio-bike-shop-hales-corners",
+   "name": "Patio Bike Shop",
+   "summary": "Patio Bike Shop is a bike shop in Hales Corners, WI.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/patio-bike-shop-hales-corners/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/patio-bike-shop-hales-corners.json",
+   "address": {
+    "addressLocality": "Hales Corners",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Hales Corners",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9452895,
+    "lon": -88.0360673
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9538855356",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

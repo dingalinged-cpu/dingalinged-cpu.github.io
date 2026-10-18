@@ -15,7 +15,7 @@ Salon G is a hair salon in Vernon Hills, IL at 275 Evergreen Drive, Vernon Hills
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/salon-g-vernon-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/salon-g-vernon-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4927674535 (license ODbL-1.0); source data as of 2026-06-01

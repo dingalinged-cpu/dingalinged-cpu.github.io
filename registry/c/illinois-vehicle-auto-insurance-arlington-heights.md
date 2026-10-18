@@ -15,7 +15,7 @@ Illinois Vehicle Auto Insurance is an insurance agent in Arlington Heights, IL a
 - Opening hours (OSM syntax): Mo-Fr 9:30-18:00; Sa 9:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/illinois-vehicle-auto-insurance-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/illinois-vehicle-auto-insurance-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12626030360 (license ODbL-1.0); source data as of 2026-07-28

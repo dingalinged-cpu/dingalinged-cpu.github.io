@@ -15,7 +15,7 @@ Freeway Insurance is an insurance agent in Lansing, IL at 16831 Torrence Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/freeway-insurance-lansing/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/freeway-insurance-lansing.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12587988639 (license ODbL-1.0); source data as of 2026-07-28

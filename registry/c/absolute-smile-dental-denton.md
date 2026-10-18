@@ -1,0 +1,23 @@
+Absolute Smile Dental is a dentist in Denton, TX at 2700 West University Drive #Suite 1060, Denton, TX 76201.
+
+# Absolute Smile Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 2700 West University Drive #Suite 1060, Denton, TX 76201
+- City: Denton
+- State: TX
+- ZIP: 76201
+- Coordinates: 33.2307361, -97.1669208
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/absolute-smile-dental-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/absolute-smile-dental-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9406986598 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

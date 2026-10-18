@@ -15,7 +15,7 @@ Crystal Liquor Warehouse is a liquor store in Crystal, MN at 6200 Bass Lake Road
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crystal-liquor-warehouse-crystal/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crystal-liquor-warehouse-crystal.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/770696224 (license ODbL-1.0); source data as of 2026-06-01

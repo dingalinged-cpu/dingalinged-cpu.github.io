@@ -15,7 +15,7 @@ Village Law is a lawyer in Downers Grove, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/village-law-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/village-law-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9843863414 (license ODbL-1.0); source data as of 2026-07-28

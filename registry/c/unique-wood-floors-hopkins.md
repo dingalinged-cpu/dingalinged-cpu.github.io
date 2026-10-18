@@ -15,7 +15,7 @@ Unique Wood Floors is a flooring company in Hopkins, MN at 1202 5th Street South
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/unique-wood-floors-hopkins/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/unique-wood-floors-hopkins.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8057944019 (license ODbL-1.0); source data as of 2026-06-01

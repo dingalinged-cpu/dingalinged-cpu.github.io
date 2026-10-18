@@ -15,7 +15,7 @@ Shannon Auto Glass is an auto repair shop in Newport, MN at 1950 Hastings Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shannon-auto-glass-newport/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shannon-auto-glass-newport.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/977614330 (license ODbL-1.0); source data as of 2026-06-01

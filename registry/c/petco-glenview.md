@@ -15,7 +15,7 @@ Petco is a pet store in Glenview, IL at 2727 Pfingsten Road #8, Glenview, IL 600
 - Opening hours (OSM syntax): Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/petco-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/petco-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7262648971 (license ODbL-1.0); source data as of 2026-06-01

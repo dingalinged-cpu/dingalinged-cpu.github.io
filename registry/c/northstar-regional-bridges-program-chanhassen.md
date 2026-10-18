@@ -15,7 +15,7 @@ NorthStar Regional Bridges Program is a therapy practice in Chanhassen, MN at 79
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northstar-regional-bridges-program-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northstar-regional-bridges-program-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6734428571 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Santana Law Office P.C. is a lawyer in Northlake, IL at 236 East North Avenue, N
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/santana-law-office-p-c-northlake/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/santana-law-office-p-c-northlake.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13271248695 (license ODbL-1.0); source data as of 2026-07-28

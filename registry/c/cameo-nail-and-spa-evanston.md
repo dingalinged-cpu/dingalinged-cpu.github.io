@@ -15,7 +15,7 @@ Cameo Nail & Spa is a nail salon in Evanston, IL at 2928 Central Street, Evansto
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cameo-nail-and-spa-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cameo-nail-and-spa-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2295250192 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Willowbrook Wildlife Hospital is a veterinarian in Glen Ellyn, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/willowbrook-wildlife-hospital-glen-ellyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/willowbrook-wildlife-hospital-glen-ellyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/426415756 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Davenport Family Funeral Homes and Crematory is a funeral home in Lake Zurich, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/davenport-family-funeral-homes-and-crematory-lake-zurich/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/davenport-family-funeral-homes-and-crematory-lake-zurich.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1215596561 (license ODbL-1.0); source data as of 2026-06-01

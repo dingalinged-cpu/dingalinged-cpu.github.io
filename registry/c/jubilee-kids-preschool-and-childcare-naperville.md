@@ -15,7 +15,7 @@ Jubilee Kids Preschool and Childcare is a preschool in Naperville, IL at 420 Wes
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jubilee-kids-preschool-and-childcare-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jubilee-kids-preschool-and-childcare-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8307889438 (license ODbL-1.0); source data as of 2026-07-28

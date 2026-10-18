@@ -1,0 +1,23 @@
+Second Glance is a thrift store in North Richland Hills, TX at 6308 Rufe Snow Drive, North Richland Hills, TX 76148. Phone: +18175811909.
+
+# Second Glance
+
+- Category: thrift store
+- Services: thrift store
+- Address: 6308 Rufe Snow Drive, North Richland Hills, TX 76148
+- City: North Richland Hills
+- State: TX
+- ZIP: 76148
+- Coordinates: 32.8615614, -97.2367873
+- Phone: +18175811909
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-18:00; Su 00:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/second-glance-north-richland-hills/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/second-glance-north-richland-hills.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13457169502 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

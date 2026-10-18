@@ -15,7 +15,7 @@ Route 66 Auto Service is an auto repair shop in Willowbrook, IL at 7551 South Ma
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/route-66-auto-service-willowbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/route-66-auto-service-willowbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12714701631 (license ODbL-1.0); source data as of 2026-06-01

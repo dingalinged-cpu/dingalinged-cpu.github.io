@@ -15,7 +15,7 @@ Palm Beach Tan is a tanning salon in Minneapolis, MN at 1015 West Lake Street, M
 - Opening hours (OSM syntax): Mo-Fr 07:00-22:00; Sa 08:00-21:00; Su 09:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/771701402 (license ODbL-1.0); source data as of 2026-06-01

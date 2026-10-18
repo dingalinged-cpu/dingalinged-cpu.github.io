@@ -1,0 +1,23 @@
+Smile Dental is a dentist in Mesquite, TX at 301 West Grubb Drive, Mesquite, TX 75149.
+
+# Smile Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 301 West Grubb Drive, Mesquite, TX 75149
+- City: Mesquite
+- State: TX
+- ZIP: 75149
+- Coordinates: 32.7756382, -96.6012206
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/smile-dental-mesquite/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/smile-dental-mesquite.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/669251620 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

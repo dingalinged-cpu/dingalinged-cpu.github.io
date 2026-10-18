@@ -15,7 +15,7 @@ CubeSmart is a self-storage facility in Schererville, IN at 1104 Joliet Street, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cubesmart-schererville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-schererville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12723738458 (license ODbL-1.0); source data as of 2026-06-01

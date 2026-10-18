@@ -15,7 +15,7 @@ Ronald Knox Montessori School is a preschool in Wilmette, IL at 2031 Elmwood Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ronald-knox-montessori-school-wilmette/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ronald-knox-montessori-school-wilmette.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/206020592 (license ODbL-1.0); source data as of 2026-07-28

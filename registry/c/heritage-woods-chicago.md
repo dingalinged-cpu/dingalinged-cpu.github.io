@@ -15,7 +15,7 @@ Heritage Woods is an assisted living facility in Chicago, IL at 2800 West Fulton
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/heritage-woods-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/heritage-woods-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209382106 (license ODbL-1.0); source data as of 2026-07-28

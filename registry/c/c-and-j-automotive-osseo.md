@@ -15,7 +15,7 @@ C&J Automotive is an auto repair shop in Osseo, MN at 248 Central Avenue, Osseo,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/c-and-j-automotive-osseo/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/c-and-j-automotive-osseo.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/766064561 (license ODbL-1.0); source data as of 2026-06-01

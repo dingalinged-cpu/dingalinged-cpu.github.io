@@ -15,7 +15,7 @@ Minneapolis Exterior House Painting Pros is a painting contractor in Minneapolis
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/minneapolis-exterior-house-painting-pros-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/minneapolis-exterior-house-painting-pros-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9628707634 (license ODbL-1.0); source data as of 2026-07-24

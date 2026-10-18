@@ -15,7 +15,7 @@ Zimmerman-Harnett Funeral Home is a funeral home in Forest Park, IL at 7319 Madi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/zimmerman-harnett-funeral-home-forest-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/zimmerman-harnett-funeral-home-forest-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4993723031 (license ODbL-1.0); source data as of 2026-06-01

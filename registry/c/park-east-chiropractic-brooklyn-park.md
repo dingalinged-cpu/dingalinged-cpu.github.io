@@ -15,7 +15,7 @@ Park East Chiropractic is a chiropractor in Brooklyn Park, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/park-east-chiropractic-brooklyn-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/park-east-chiropractic-brooklyn-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8149707706 (license ODbL-1.0); source data as of 2026-06-01

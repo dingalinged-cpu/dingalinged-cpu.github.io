@@ -15,7 +15,7 @@ Aervita Integrative Medicine + Hyperbarics is a massage studio in Edina, MN at 4
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/aervita-integrative-medicine-hyperbarics-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/aervita-integrative-medicine-hyperbarics-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13006819699 (license ODbL-1.0); source data as of 2026-06-01

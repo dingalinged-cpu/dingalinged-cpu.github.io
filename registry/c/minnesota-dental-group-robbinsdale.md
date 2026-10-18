@@ -15,7 +15,7 @@ Minnesota Dental Group is a dentist in Robbinsdale, MN at 4125 Lakeland Avenue N
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/minnesota-dental-group-robbinsdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/minnesota-dental-group-robbinsdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7129231770 (license ODbL-1.0); source data as of 2026-07-24

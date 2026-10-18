@@ -15,7 +15,7 @@ Arlington Ridge Center (ARC) is a yoga studio in Arlington Heights, IL at 660 No
 - Opening hours (OSM syntax): Mo-Th 5:30-21:00; Fr 5:30-20:00; Sa 5:30-19:00; Su 6:30-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/arlington-ridge-center-arc-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/arlington-ridge-center-arc-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1313090153 (license ODbL-1.0); source data as of 2026-06-01

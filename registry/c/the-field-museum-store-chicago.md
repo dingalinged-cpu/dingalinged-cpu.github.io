@@ -15,7 +15,7 @@ The Field Museum Store is a gift shop in Chicago, IL.
 - Opening hours (OSM syntax): 08:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-field-museum-store-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-field-museum-store-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6375342619 (license ODbL-1.0); source data as of 2026-06-01

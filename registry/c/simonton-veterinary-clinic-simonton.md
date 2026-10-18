@@ -1,0 +1,23 @@
+Simonton Veterinary Clinic is a veterinarian in Simonton, TX.
+
+# Simonton Veterinary Clinic
+
+- Category: vet
+- Services: vet
+- Address: Simonton, TX
+- City: Simonton
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.6792833, -95.9748358
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/simonton-veterinary-clinic-simonton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/simonton-veterinary-clinic-simonton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/630329323 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

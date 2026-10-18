@@ -1,0 +1,23 @@
+North Carrollton Veterinary Hospital is a veterinarian in Carrollton, TX at 1839 East Frankford Road, Carrollton, TX 75007. Phone: +19727984534. Website: https://www.ncvh.com/.
+
+# North Carrollton Veterinary Hospital
+
+- Category: vet
+- Services: vet
+- Address: 1839 East Frankford Road, Carrollton, TX 75007
+- City: Carrollton
+- State: TX
+- ZIP: 75007
+- Coordinates: 33.0006255, -96.8880789
+- Phone: +19727984534
+- Website: https://www.ncvh.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/north-carrollton-veterinary-hospital-carrollton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-carrollton-veterinary-hospital-carrollton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9928081828 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

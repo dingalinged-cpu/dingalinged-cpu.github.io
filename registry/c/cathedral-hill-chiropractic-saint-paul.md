@@ -15,7 +15,7 @@ Cathedral Hill Chiropractic is a chiropractor in Saint Paul, MN at 400 Selby Ave
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-18:00; Tu 09:00-12:00; Sa 09:00-10:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cathedral-hill-chiropractic-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cathedral-hill-chiropractic-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12818310793 (license ODbL-1.0); source data as of 2026-06-01

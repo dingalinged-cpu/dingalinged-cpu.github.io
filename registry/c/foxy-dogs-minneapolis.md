@@ -15,7 +15,7 @@ Foxy Dogs is a dog groomer in Minneapolis, MN at 5457 Nicollet Avenue South, Min
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/foxy-dogs-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/foxy-dogs-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13628545544 (license ODbL-1.0); source data as of 2026-06-01

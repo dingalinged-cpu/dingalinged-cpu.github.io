@@ -15,7 +15,7 @@ Auto Body Shop of Minneapolis is an auto repair shop in Fridley, MN at 7741 Main
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/auto-body-shop-of-minneapolis-fridley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/auto-body-shop-of-minneapolis-fridley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3707375630 (license ODbL-1.0); source data as of 2026-06-01

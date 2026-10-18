@@ -15,7 +15,7 @@ Planet Fitness is a gym in Des Plaines, IL at 751 West Golf Road, Des Plaines, I
 - Opening hours (OSM syntax): Mo-Fr 00:00-21:00; Sa,Su 07:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-des-plaines-w143220280/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-des-plaines-w143220280.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/143220280 (license ODbL-1.0); source data as of 2026-06-01

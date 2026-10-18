@@ -1,0 +1,23 @@
+Rockwall Complete Healing & Wellness is a spa in Rockwall, TX at 2455 Ridge Road #151, Rockwall, TX 75087. Phone: +19727718900. Website: https://rockwallcompletewellness.com/.
+
+# Rockwall Complete Healing & Wellness
+
+- Category: spa
+- Services: spa
+- Address: 2455 Ridge Road #151, Rockwall, TX 75087
+- City: Rockwall
+- State: TX
+- ZIP: 75087
+- Coordinates: 32.8996157, -96.4664628
+- Phone: +19727718900
+- Website: https://rockwallcompletewellness.com/
+- Email: rockwallcolonics@att.net
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/rockwall-complete-healing-and-wellness-rockwall/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rockwall-complete-healing-and-wellness-rockwall.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12116248288 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

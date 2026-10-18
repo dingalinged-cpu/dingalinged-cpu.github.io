@@ -15,7 +15,7 @@ Valvoline is an auto repair shop in Shorewood, MN. Website: https://store.vioc.c
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/valvoline-shorewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/valvoline-shorewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11735236153 (license ODbL-1.0); source data as of 2026-06-01

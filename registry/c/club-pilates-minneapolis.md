@@ -15,7 +15,7 @@ Club Pilates is a pilates studio in Minneapolis, MN at 3200B Lake Street West, M
 - Opening hours (OSM syntax): Mo-Th 06:00-20:00; Fr 06:00-17:00; Sa-Su 08:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/club-pilates-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/club-pilates-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12661266904 (license ODbL-1.0); source data as of 2026-07-15

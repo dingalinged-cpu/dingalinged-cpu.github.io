@@ -15,7 +15,7 @@ YMCA Child Care is a daycare in Chicago, IL at 7 North Homan Avenue, Chicago, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ymca-child-care-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ymca-child-care-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163780109 (license ODbL-1.0); source data as of 2026-07-28

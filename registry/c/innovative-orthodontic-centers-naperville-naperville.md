@@ -15,7 +15,7 @@ Innovative Orthodontic Centers Naperville is an orthopedic surgeon in Naperville
 - Opening hours (OSM syntax): Mo-Tu 09:00-18:00; We 09:00-17:00; Th 08:00-17:00; Fr 08:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/innovative-orthodontic-centers-naperville-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/innovative-orthodontic-centers-naperville-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5593747555 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ YMEN Bike Box is a bike shop in Chicago, IL at 1300 South Pulaski Road, Chicago,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ymen-bike-box-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ymen-bike-box-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1011932743 (license ODbL-1.0); source data as of 2026-06-01

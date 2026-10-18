@@ -15,7 +15,7 @@ ONYX is a pilates studio in Chicago, IL at 102 West Chicago Avenue, Chicago, IL 
 - Opening hours (OSM syntax): Mo-Su 06:30-17:15
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/onyx-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/onyx-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12104351976 (license ODbL-1.0); source data as of 2026-06-01

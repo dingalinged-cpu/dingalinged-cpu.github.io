@@ -15,7 +15,7 @@ Discount Tire is a tire shop in Brooklyn Center, MN at 1450 Shingle Creek Crossi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/discount-tire-brooklyn-center/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-brooklyn-center.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/875263442 (license ODbL-1.0); source data as of 2026-06-01

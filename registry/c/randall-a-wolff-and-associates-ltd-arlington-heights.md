@@ -15,7 +15,7 @@ Randall A. Wolff & Associates, Ltd. is a lawyer in Arlington Heights, IL at 3325
 - Opening hours (OSM syntax): Mo-Fr 09:00 - 17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/randall-a-wolff-and-associates-ltd-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/randall-a-wolff-and-associates-ltd-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1165060910 (license ODbL-1.0); source data as of 2026-07-28

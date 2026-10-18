@@ -15,7 +15,7 @@ ATI Physical Therapy is a physical therapy clinic in Woodridge, IL at 6435 Main 
 - Opening hours (OSM syntax): Mo-Fr 7:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-woodridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-woodridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5762071786 (license ODbL-1.0); source data as of 2026-07-28

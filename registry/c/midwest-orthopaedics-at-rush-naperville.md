@@ -15,7 +15,7 @@ Midwest Orthopaedics at Rush is an orthopedic surgeon in Naperville, IL at 55 Sh
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midwest-orthopaedics-at-rush-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midwest-orthopaedics-at-rush-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12458475686 (license ODbL-1.0); source data as of 2026-07-28

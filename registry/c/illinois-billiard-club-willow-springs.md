@@ -15,7 +15,7 @@ Illinois Billiard Club is an event venue in Willow Springs, IL at 8442 Archer Av
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/illinois-billiard-club-willow-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/illinois-billiard-club-willow-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1228191633 (license ODbL-1.0); source data as of 2026-07-28

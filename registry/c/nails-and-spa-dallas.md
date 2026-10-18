@@ -1,0 +1,23 @@
+Nails & Spa is a nail salon in Dallas, TX. Phone: +12144341799.
+
+# Nails & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7946746, -96.7635441
+- Phone: +12144341799
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Su 11:00-17:00; Mo-Sa 10:00-19:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/nails-and-spa-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/nails-and-spa-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5099645002 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

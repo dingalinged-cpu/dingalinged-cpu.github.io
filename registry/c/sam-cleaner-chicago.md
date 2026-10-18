@@ -15,7 +15,7 @@ Sam Cleaner is a dry cleaner in Chicago, IL at 5234 North Nagle Avenue, Chicago,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sam-cleaner-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sam-cleaner-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4251831572 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ FedEx Office is a printing service in Lombard, IL at 801 Butterfield Road, Lomba
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fedex-office-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/775741959 (license ODbL-1.0); source data as of 2026-06-01

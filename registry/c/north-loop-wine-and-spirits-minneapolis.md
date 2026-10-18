@@ -15,7 +15,7 @@ North Loop Wine & Spirits is a liquor store in Minneapolis, MN at 218 Washington
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/north-loop-wine-and-spirits-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-loop-wine-and-spirits-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12754418502 (license ODbL-1.0); source data as of 2026-06-01

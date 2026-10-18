@@ -15,7 +15,7 @@ CFX Ford City is a gym in Chicago, IL at 7600 South Pulaski Road, Chicago, IL 60
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cfx-ford-city-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cfx-ford-city-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11388536640 (license ODbL-1.0); source data as of 2026-06-01

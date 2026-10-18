@@ -15,7 +15,7 @@ Insurance Navy Brokers is an insurance agent in Melrose Park, IL at 2523 West La
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-melrose-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-melrose-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8595430004 (license ODbL-1.0); source data as of 2026-07-28

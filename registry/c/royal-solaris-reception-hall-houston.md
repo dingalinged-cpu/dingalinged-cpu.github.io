@@ -1,0 +1,23 @@
+Royal Solaris Reception Hall is an event venue in Houston, TX at 925 Tidwell Road, Houston, TX. Phone: +17136958220. Website: https://www.solarisreceptionhall.com/.
+
+# Royal Solaris Reception Hall
+
+- Category: event venues
+- Services: event venues
+- Address: 925 Tidwell Road, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.8467363, -95.3635014
+- Phone: +17136958220
+- Website: https://www.solarisreceptionhall.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/royal-solaris-reception-hall-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/royal-solaris-reception-hall-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/238455592 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

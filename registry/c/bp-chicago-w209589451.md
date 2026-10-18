@@ -15,7 +15,7 @@ BP is a car wash in Chicago, IL at 7130 North Western Avenue, Chicago, IL 60645.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bp-chicago-w209589451/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bp-chicago-w209589451.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209589451 (license ODbL-1.0); source data as of 2026-07-28

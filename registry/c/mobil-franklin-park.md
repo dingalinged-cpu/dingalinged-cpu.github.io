@@ -15,7 +15,7 @@ Mobil is a car wash in Franklin Park, IL at 3201 North Mannheim Road, Franklin P
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-franklin-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-franklin-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1330653496 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ McDonald's Cycle Center is a bike shop in Chicago, IL at 239 East Randolph Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mcdonalds-cycle-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mcdonalds-cycle-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/234847842 (license ODbL-1.0); source data as of 2026-06-01

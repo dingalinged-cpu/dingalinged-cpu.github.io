@@ -15,7 +15,7 @@ Doctor Rooter Plumbing, Inc. is a plumber in Bensenville, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/doctor-rooter-plumbing-inc-bensenville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/doctor-rooter-plumbing-inc-bensenville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8443657334 (license ODbL-1.0); source data as of 2026-06-01

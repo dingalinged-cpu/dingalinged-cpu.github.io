@@ -15,7 +15,7 @@ Car Guy & Son is an auto repair shop in Oakdale, MN at 6027 Georgia Boulevard No
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/car-guy-and-son-oakdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/car-guy-and-son-oakdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13055261416 (license ODbL-1.0); source data as of 2026-06-01

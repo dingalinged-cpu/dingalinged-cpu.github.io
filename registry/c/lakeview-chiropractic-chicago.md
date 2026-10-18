@@ -15,7 +15,7 @@ Lakeview Chiropractic is a chiropractor in Chicago, IL at 3832 North Broadway, C
 - Opening hours (OSM syntax): Mo 09:45-13:00,15:00-19:00; Tu-Th 09:00-13:00,15:00-19:00; Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lakeview-chiropractic-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lakeview-chiropractic-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10091338623 (license ODbL-1.0); source data as of 2026-07-28

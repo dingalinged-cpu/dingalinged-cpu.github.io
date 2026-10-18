@@ -15,7 +15,7 @@ Continental Therapeutic Services is a physical therapy clinic in Chicago, IL. Ph
 - Opening hours (OSM syntax): Mo-Fr "By appt"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/continental-therapeutic-services-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/continental-therapeutic-services-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9962776681 (license ODbL-1.0); source data as of 2026-07-28

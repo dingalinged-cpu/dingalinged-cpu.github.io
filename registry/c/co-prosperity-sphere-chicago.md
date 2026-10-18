@@ -15,7 +15,7 @@ Co-Prosperity Sphere is an event venue in Chicago, IL at 3219 South Morgan Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/co-prosperity-sphere-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/co-prosperity-sphere-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8957884247 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,2251 @@
+{
+ "place": "Grand Prairie, TX",
+ "slug": "grand-prairie-tx",
+ "count": 67,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "accounting services grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "assisted living grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "attorney grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "auto repair grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "bakery grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "barber shop grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "brake repair grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/brake-repair-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "car wash grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "chiropractor grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "dance studio grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "daycare grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "dentist grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "drug rehab grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/drug-rehab-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "dry cleaners grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "event venues grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "flooring companies grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "funeral home grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "furniture store grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "gym grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "hair salon grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "haircut grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "heating and air grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "hvac repair grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "insurance agency grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "insurance agent grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "insurance agents grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "lawyer grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "massage grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "mechanic grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "motorcycle repair grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/motorcycle-repair-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "movers grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/movers-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "moving company grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/moving-company-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "nail salon grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "oil change grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "painters grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/painters-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "pet store grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "preschool grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "property management companies grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-companies-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "property management company grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-company-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "storage units grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "tax preparation grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "tax preparer grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "tire shop grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "transmission repair grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/transmission-repair-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "vet grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-grand-prairie-tx.json"
+  },
+  {
+   "keyword": "window replacement grand prairie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-replacement-grand-prairie-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "all-points-of-texas-grand-prairie-grand-prairie",
+   "name": "All Points of Texas - Grand Prairie",
+   "summary": "All Points of Texas - Grand Prairie is a moving company in Grand Prairie, TX at 2880 113th Street #200, Grand Prairie, TX 75050. Phone: +18172756888. Website: https://www.allpointsoftexas.com/contact/grand-prairie/.",
+   "categories": [
+    "movers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-points-of-texas-grand-prairie-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-points-of-texas-grand-prairie-grand-prairie.json",
+   "address": {
+    "streetAddress": "2880 113th Street #200",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.797086,
+    "lon": -97.0409165
+   },
+   "phone": "+18172756888",
+   "website": "https://www.allpointsoftexas.com/contact/grand-prairie/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13528524995",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bebe-nails-bar-grand-prairie",
+   "name": "BeBe Nails Bar",
+   "summary": "BeBe Nails Bar is a nail salon in Grand Prairie, TX at 7535 Lake Ridge Parkway #140, Grand Prairie, TX 75054. Phone: +16822227058. Website: https://bebenailsbargrandprairie.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bebe-nails-bar-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bebe-nails-bar-grand-prairie.json",
+   "address": {
+    "streetAddress": "7535 Lake Ridge Parkway #140",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75054",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75054",
+   "geo": {
+    "lat": 32.5918767,
+    "lon": -97.0348164
+   },
+   "phone": "+16822227058",
+   "website": "https://bebenailsbargrandprairie.com/",
+   "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:00-19:00; Su 11:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13564450046",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chiropractic-center-of-grand-prairie-grand-prairie",
+   "name": "Chiropractic Center of Grand Prairie",
+   "summary": "Chiropractic Center of Grand Prairie is a chiropractor in Grand Prairie, TX at 315 W Main St, Grand Prairie, TX 75050. Phone: +19722627373. Website: https://www.chirocentergp.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chiropractic-center-of-grand-prairie-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chiropractic-center-of-grand-prairie-grand-prairie.json",
+   "address": {
+    "streetAddress": "315 W Main St",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.7451585,
+    "lon": -97.0069227
+   },
+   "phone": "+19722627373",
+   "website": "https://www.chirocentergp.com/",
+   "opening_hours": "Mo-Fr 10:00-17:00, Sa 09:00-11:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6384874996",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "conservation-construction-of-dallas-grand-prairie",
+   "name": "Conservation Construction of Dallas",
+   "summary": "Conservation Construction of Dallas is a window installer in Grand Prairie, TX at 1201 East Avenue J, Grand Prairie, TX 75050. Phone: +18174168005. Website: https://conservationconstructionofdallas.com/.",
+   "categories": [
+    "window replacement"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/conservation-construction-of-dallas-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/conservation-construction-of-dallas-grand-prairie.json",
+   "address": {
+    "streetAddress": "1201 East Avenue J",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.767835,
+    "lon": -97.0444395
+   },
+   "phone": "+18174168005",
+   "website": "https://conservationconstructionofdallas.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12451034855",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "emergency-dentist-of-dallas-fort-worth-grand-prairie",
+   "name": "Emergency Dentist of Dallas Fort Worth",
+   "summary": "Emergency Dentist of Dallas Fort Worth is a dentist in Grand Prairie, TX at 2205 I-20 #Suite 700, Grand Prairie, TX 75052. Phone: +12146008205. Website: https://emergencydentistdallas.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/emergency-dentist-of-dallas-fort-worth-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/emergency-dentist-of-dallas-fort-worth-grand-prairie.json",
+   "address": {
+    "streetAddress": "2205 I-20 #Suite 700",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6751932,
+    "lon": -97.0352809
+   },
+   "phone": "+12146008205",
+   "website": "https://emergencydentistdallas.com/",
+   "opening_hours": "Fr 12:00-20:00, Sa 08:00-20:00, Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13718328718",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grand-prairie-family-dental-grand-prairie",
+   "name": "Grand Prairie Family Dental",
+   "summary": "Grand Prairie Family Dental is a dentist in Grand Prairie, TX at 2475 W Pioneer Parkway, Grand Prairie, TX 75051. Phone: +19729880900. Website: https://www.gentlegrandprairiedentist.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grand-prairie-family-dental-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grand-prairie-family-dental-grand-prairie.json",
+   "address": {
+    "streetAddress": "2475 W Pioneer Parkway",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.7112331,
+    "lon": -97.0425989
+   },
+   "phone": "+19729880900",
+   "website": "https://www.gentlegrandprairiedentist.com/",
+   "opening_hours": "Mo-We 09:00-17:00; Th 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9392585390",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hawaii-nail-spa-grand-prairie",
+   "name": "Hawaii Nail Spa",
+   "summary": "Hawaii Nail Spa is a nail salon in Grand Prairie, TX at 3040 W Camp Wisdom Rd ##130, Grand Prairie, TX 75052. Phone: +19726393993. Website: https://www.hawaiinailspatx.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hawaii-nail-spa-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hawaii-nail-spa-grand-prairie.json",
+   "address": {
+    "streetAddress": "3040 W Camp Wisdom Rd ##130",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6488994,
+    "lon": -97.0588089
+   },
+   "phone": "+19726393993",
+   "website": "https://www.hawaiinailspatx.com/",
+   "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:00-19:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5974258745",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "law-office-of-frank-w-pettigrew-grand-prairie",
+   "name": "Law Office of Frank W Pettigrew",
+   "summary": "Law Office of Frank W Pettigrew is a lawyer in Grand Prairie, TX at 5115 Lake Ridge Parkway #170, Grand Prairie, TX 75052. Phone: +19726069000. Website: https://attorney-grandprairie.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/law-office-of-frank-w-pettigrew-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/law-office-of-frank-w-pettigrew-grand-prairie.json",
+   "address": {
+    "streetAddress": "5115 Lake Ridge Parkway #170",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6513597,
+    "lon": -97.0438454
+   },
+   "phone": "+19726069000",
+   "website": "https://attorney-grandprairie.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12011547690",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "michael-parum-attorney-at-law-grand-prairie",
+   "name": "Michael Parum Attorney At Law",
+   "summary": "Michael Parum Attorney At Law is a lawyer in Grand Prairie, TX at 2306 Oak Ln, #105, Grand Prairie, TX 75051. Phone: +19722641569. Website: https://www.michaelparumattorneyatlaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/michael-parum-attorney-at-law-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/michael-parum-attorney-at-law-grand-prairie.json",
+   "address": {
+    "streetAddress": "2306 Oak Ln, #105",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.7109022,
+    "lon": -97.0045262
+   },
+   "phone": "+19722641569",
+   "website": "https://www.michaelparumattorneyatlaw.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9676353963",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "on-demand-barbering-grand-prairie",
+   "name": "On Demand Barbering",
+   "summary": "On Demand Barbering is a barber shop in Grand Prairie, TX at 2985 South Watson Road, Grand Prairie, TX 75052. Phone: +13145132583. Website: https://on-demand-barbering.square.site/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/on-demand-barbering-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/on-demand-barbering-grand-prairie.json",
+   "address": {
+    "streetAddress": "2985 South Watson Road",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6943292,
+    "lon": -97.0614511
+   },
+   "phone": "+13145132583",
+   "website": "https://on-demand-barbering.square.site/",
+   "opening_hours": "Mo-Su 07:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13302570348",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petal-and-brow-threading-and-spa-grand-prairie",
+   "name": "Petal & Brow Threading and Spa",
+   "summary": "Petal & Brow Threading and Spa is a massage studio in Grand Prairie, TX at 7535 Lake Ridge Parkway #150, Grand Prairie, TX 75054. Phone: +16822227005. Website: https://petalandbrowco.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petal-and-brow-threading-and-spa-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petal-and-brow-threading-and-spa-grand-prairie.json",
+   "address": {
+    "streetAddress": "7535 Lake Ridge Parkway #150",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75054",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75054",
+   "geo": {
+    "lat": 32.5919482,
+    "lon": -97.0348548
+   },
+   "phone": "+16822227005",
+   "website": "https://petalandbrowco.com/",
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13564414043",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "planet-fitness-grand-prairie",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Grand Prairie, TX at 541 West Pioneer Parkway, Grand Prairie, TX 75051. Phone: +18882379005. Website: https://www.planetfitness.com/gyms/grand-prairie-tx-1127.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-grand-prairie.json",
+   "address": {
+    "streetAddress": "541 West Pioneer Parkway",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.7087189,
+    "lon": -97.0104535
+   },
+   "phone": "+18882379005",
+   "website": "https://www.planetfitness.com/gyms/grand-prairie-tx-1127",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3598276853",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-grand-prairie",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Grand Prairie, TX at 1401 North State Highway 161, Grand Prairie, TX 75050. Phone: +19729056839. Website: https://www.publicstorage.com/texas/self-storage-grand-prairie-tx/75050-self-storage/882?PID=PSLocalSearch&CID=1341&CHID=LL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-grand-prairie.json",
+   "address": {
+    "streetAddress": "1401 North State Highway 161",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.7578326,
+    "lon": -97.027448
+   },
+   "phone": "+19729056839",
+   "website": "https://www.publicstorage.com/texas/self-storage-grand-prairie-tx/75050-self-storage/882?PID=PSLocalSearch&CID=1341&CHID=LL",
+   "opening_hours": "Mo-Fr 09:00-17:30, Sa-Su 09:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/423024371",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ram-carpet-and-flooring-services-grand-prairie",
+   "name": "Ram Carpet and Flooring Services",
+   "summary": "Ram Carpet and Flooring Services is a flooring company in Grand Prairie, TX at 833 Brian Dr, Grand Prairie, TX 75052. Phone: +19727750567. Website: https://ramflooring.us/.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ram-carpet-and-flooring-services-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ram-carpet-and-flooring-services-grand-prairie.json",
+   "address": {
+    "streetAddress": "833 Brian Dr",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6873699,
+    "lon": -97.0171386
+   },
+   "phone": "+19727750567",
+   "website": "https://ramflooring.us/",
+   "opening_hours": "Mo-Sa 07:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12759084725",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sca-commercial-cleaning-grand-prairie",
+   "name": "SCA Commercial Cleaning",
+   "summary": "SCA Commercial Cleaning is a painting contractor in Grand Prairie, TX at 3055 Larreta, Grand Prairie, TX 75054. Phone: +19723018132. Website: https://scacommercialcleaning.com/.",
+   "categories": [
+    "painters"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sca-commercial-cleaning-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sca-commercial-cleaning-grand-prairie.json",
+   "address": {
+    "streetAddress": "3055 Larreta",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75054",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75054",
+   "geo": {
+    "lat": 32.5895092,
+    "lon": -97.0582315
+   },
+   "phone": "+19723018132",
+   "website": "https://scacommercialcleaning.com/",
+   "opening_hours": "Mo-Fr 08:00-17:30, Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5892310513",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "south-texas-dental-grand-prairie",
+   "name": "South Texas Dental",
+   "summary": "South Texas Dental is a dentist in Grand Prairie, TX at 106 East Main Street, Grand Prairie, TX 75050. Phone: +19723144867. Website: https://www.southtexasdental.com/locations-arlington.html.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/south-texas-dental-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/south-texas-dental-grand-prairie.json",
+   "address": {
+    "streetAddress": "106 East Main Street",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.7457322,
+    "lon": -97.0032439
+   },
+   "phone": "+19723144867",
+   "website": "https://www.southtexasdental.com/locations-arlington.html",
+   "opening_hours": "Mo,Fr 09:00-17:00; Tu,Th 11:00-19:00; Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/318033626",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-dental-place-grand-prairie",
+   "name": "The Dental Place",
+   "summary": "The Dental Place is a dentist in Grand Prairie, TX at 2126 Virginia Drive, Grand Prairie, TX 75051. Phone: +19722645795. Website: https://cosmeticdentistsgrandprairie.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dental-place-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dental-place-grand-prairie.json",
+   "address": {
+    "streetAddress": "2126 Virginia Drive",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.718461,
+    "lon": -97.0141774
+   },
+   "phone": "+19722645795",
+   "website": "https://cosmeticdentistsgrandprairie.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13444326186",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zoom-performance-and-body-shop-grand-prairie",
+   "name": "Zoom Performance & Body Shop",
+   "summary": "Zoom Performance & Body Shop is an auto repair shop in Grand Prairie, TX at 2100 East Main Street #Suite B, Grand Prairie, TX 75050. Phone: +12146770008. Website: https://www.zoomperformance.shop/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zoom-performance-and-body-shop-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zoom-performance-and-body-shop-grand-prairie.json",
+   "address": {
+    "streetAddress": "2100 East Main Street #Suite B",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.7500169,
+    "lon": -96.9754359
+   },
+   "phone": "+12146770008",
+   "website": "https://www.zoomperformance.shop/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12055579936",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anytime-fitness-grand-prairie",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Grand Prairie, TX at 2360 West Camp Wisdom Road #190, Grand Prairie, TX 75052. Phone: +14692787200. Website: https://anytimefitness.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-grand-prairie.json",
+   "address": {
+    "streetAddress": "2360 West Camp Wisdom Road #190",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6488111,
+    "lon": -97.0417844
+   },
+   "phone": "+14692787200",
+   "website": "https://anytimefitness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11988061790",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carrillo-funeral-home-grand-prairie",
+   "name": "Carrillo Funeral Home",
+   "summary": "Carrillo Funeral Home is a funeral home in Grand Prairie, TX at 800 Southwest 3rd Street, Grand Prairie, TX 75051. Phone: +12147907700. Website: https://www.carrillofuneralhomes.com/location/grand-prairie-tx-funeral-home/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carrillo-funeral-home-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carrillo-funeral-home-grand-prairie.json",
+   "address": {
+    "streetAddress": "800 Southwest 3rd Street",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.7371789,
+    "lon": -97.0049821
+   },
+   "phone": "+12147907700",
+   "website": "https://www.carrillofuneralhomes.com/location/grand-prairie-tx-funeral-home/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/366893185",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "conditioned-air-services-grand-prairie",
+   "name": "Conditioned Air Services",
+   "summary": "Conditioned Air Services is a HVAC contractor in Grand Prairie, TX at 217 South Belt Line Road, Grand Prairie, TX 75051. Phone: +19722631800. Website: https://www.conditionedairservice.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/conditioned-air-services-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/conditioned-air-services-grand-prairie.json",
+   "address": {
+    "streetAddress": "217 South Belt Line Road",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.7441737,
+    "lon": -96.994788
+   },
+   "phone": "+19722631800",
+   "website": "https://www.conditionedairservice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4149671407",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "greenhouse-treatment-center-grand-prairie",
+   "name": "Greenhouse Treatment Center",
+   "summary": "Greenhouse Treatment Center is an addiction treatment center in Grand Prairie, TX at 1171 107th Street, Grand Prairie, TX 75050. Phone: +19728480221. Website: https://www.greenhousetreatment.com/.",
+   "categories": [
+    "drug rehab"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greenhouse-treatment-center-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greenhouse-treatment-center-grand-prairie.json",
+   "address": {
+    "streetAddress": "1171 107th Street",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.7647662,
+    "lon": -97.0591212
+   },
+   "phone": "+19728480221",
+   "website": "https://www.greenhousetreatment.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/642270411",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lennox-house-grand-prairie",
+   "name": "Lennox House",
+   "summary": "Lennox House is an assisted living facility in Grand Prairie, TX at 110 Northwest 2nd Street, Grand Prairie, TX 75051. Phone: +19722638420. Website: https://www.nationalchurchresidences.org/communities/tx/grand-prairie/lennox-house.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lennox-house-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lennox-house-grand-prairie.json",
+   "address": {
+    "streetAddress": "110 Northwest 2nd Street",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.7460715,
+    "lon": -97.0047314
+   },
+   "phone": "+19722638420",
+   "website": "https://www.nationalchurchresidences.org/communities/tx/grand-prairie/lennox-house",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/318073155",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lynncora-arlington",
+   "name": "LynnCora",
+   "summary": "LynnCora is a property management company in Arlington, TX at 3145 Lynn Creek Parkway, Arlington, TX 75052. Phone: +18337481017. Website: https://www.lynncora.com/.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lynncora-arlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lynncora-arlington.json",
+   "address": {
+    "streetAddress": "3145 Lynn Creek Parkway",
+    "addressLocality": "Arlington",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Arlington",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6347061,
+    "lon": -97.0610795
+   },
+   "phone": "+18337481017",
+   "website": "https://www.lynncora.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1409464735",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ruthe-jackson-center-grand-prairie",
+   "name": "Ruthe Jackson Center",
+   "summary": "Ruthe Jackson Center is an event venue in Grand Prairie, TX at 3113 South Carrier Parkway, Grand Prairie, TX 75052. Phone: +19722377500. Website: https://ruthejacksoncenter.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ruthe-jackson-center-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ruthe-jackson-center-grand-prairie.json",
+   "address": {
+    "streetAddress": "3113 South Carrier Parkway",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6974722,
+    "lon": -97.0138501
+   },
+   "phone": "+19722377500",
+   "website": "https://ruthejacksoncenter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/364855885",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-company-grand-prairie",
+   "name": "Discount Tire Company",
+   "summary": "Discount Tire Company is a tire shop in Grand Prairie, TX at 130 West Pioneer Parkway, Grand Prairie, TX 75051. Phone: +19722649362.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-company-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-company-grand-prairie.json",
+   "address": {
+    "streetAddress": "130 West Pioneer Parkway",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.7099552,
+    "lon": -97.0040103
+   },
+   "phone": "+19722649362",
+   "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/356338468",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "g-will-barber-shop-grand-prairie",
+   "name": "G-Will Barber Shop",
+   "summary": "G-Will Barber Shop is a hair salon in Grand Prairie, TX at 412 East Main Street, Grand Prairie, TX 75050. Phone: +12142993226.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/g-will-barber-shop-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/g-will-barber-shop-grand-prairie.json",
+   "address": {
+    "streetAddress": "412 East Main Street",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.745891,
+    "lon": -96.9993401
+   },
+   "phone": "+12142993226",
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/369185967",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jrg-motorcycle-repair-grand-prairie",
+   "name": "JRG Motorcycle Repair",
+   "summary": "JRG Motorcycle Repair is a motorcycle repair shop in Grand Prairie, TX at 1921 Curtiss Street, Grand Prairie, TX 75050. Phone: +14693593392.",
+   "categories": [
+    "motorcycle repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jrg-motorcycle-repair-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jrg-motorcycle-repair-grand-prairie.json",
+   "address": {
+    "streetAddress": "1921 Curtiss Street",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.7482353,
+    "lon": -96.9761529
+   },
+   "phone": "+14693593392",
+   "opening_hours": "Tu-Fr 10:00-19:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13674790411",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nails-art-grand-prairie",
+   "name": "Nails Art",
+   "summary": "Nails Art is a nail salon in Grand Prairie, TX at 2305 I-20 #150, Grand Prairie, TX 75052. Phone: +19726416111.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nails-art-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nails-art-grand-prairie.json",
+   "address": {
+    "streetAddress": "2305 I-20 #150",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6748229,
+    "lon": -97.0383786
+   },
+   "phone": "+19726416111",
+   "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:00-19:30; Su 11:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13059504808",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "natures-own-discount-bakery-store-grand-prairie",
+   "name": "Nature's Own Discount Bakery Store",
+   "summary": "Nature's Own Discount Bakery Store is a bakery in Grand Prairie, TX at 180 Pioneer Parkway, Grand Prairie, TX 75051. Phone: +19722660320.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/natures-own-discount-bakery-store-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/natures-own-discount-bakery-store-grand-prairie.json",
+   "address": {
+    "streetAddress": "180 Pioneer Parkway",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.7102072,
+    "lon": -97.0045129
+   },
+   "phone": "+19722660320",
+   "opening_hours": "Mo-Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/315701229",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "top-cuts-grand-prairie",
+   "name": "Top Cuts",
+   "summary": "Top Cuts is a hair salon in Grand Prairie, TX at 410 East Pioneer Parkway, Grand Prairie, TX 75051. Phone: +19722620920.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-cuts-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-cuts-grand-prairie.json",
+   "address": {
+    "streetAddress": "410 East Pioneer Parkway",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.7099875,
+    "lon": -97.0004394
+   },
+   "phone": "+19722620920",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13652450001",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "club4-fitness-grand-prairie-grand-prairie",
+   "name": "Club4 Fitness Grand Prairie",
+   "summary": "Club4 Fitness Grand Prairie is a gym in Grand Prairie, TX at 514 S Carrier Pkwy, Grand Prairie, TX 75051. Phone: +14698442582.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/club4-fitness-grand-prairie-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/club4-fitness-grand-prairie-grand-prairie.json",
+   "address": {
+    "streetAddress": "514 S Carrier Pkwy",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.740329,
+    "lon": -97.0168707
+   },
+   "phone": "+14698442582",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12961507809",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-grand-prairie",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Grand Prairie, TX at 2505 I 20 Frontage Road, Grand Prairie, TX 75052. Phone: +19726023385.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-grand-prairie.json",
+   "address": {
+    "streetAddress": "2505 I 20 Frontage Road",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6750418,
+    "lon": -97.0412307
+   },
+   "phone": "+19726023385",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/665956005",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ikea-grand-prairie",
+   "name": "IKEA",
+   "summary": "IKEA is a furniture store in Grand Prairie, TX at 1000 IKEA Place, Grand Prairie, TX 75052. Website: https://www.ikea.com/us/en/stores/grand-prairie/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ikea-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ikea-grand-prairie.json",
+   "address": {
+    "streetAddress": "1000 IKEA Place",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6906092,
+    "lon": -97.0221677
+   },
+   "website": "https://www.ikea.com/us/en/stores/grand-prairie/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/643189820",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jackson-hewitt-grand-prairie",
+   "name": "Jackson Hewitt",
+   "summary": "Jackson Hewitt is a tax preparation service in Grand Prairie, TX at 133 West Main Street, Grand Prairie, TX 75050. Phone: +14692121756.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-grand-prairie.json",
+   "address": {
+    "streetAddress": "133 West Main Street",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.7452329,
+    "lon": -97.0049372
+   },
+   "phone": "+14692121756",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13135340019",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "medicare-coverage-center-grand-prairie",
+   "name": "Medicare Coverage Center",
+   "summary": "Medicare Coverage Center is an insurance agent in Grand Prairie, TX at 2030 North State Highway 360, Grand Prairie, TX 75050. Phone: +19722045855.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/medicare-coverage-center-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/medicare-coverage-center-grand-prairie.json",
+   "address": {
+    "streetAddress": "2030 North State Highway 360",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.7832671,
+    "lon": -97.0584101
+   },
+   "phone": "+19722045855",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13798953710",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "4-express-car-wash-grand-prairie",
+   "name": "$4 Express Car Wash",
+   "summary": "$4 Express Car Wash is a car wash in Grand Prairie, TX at 3949 South Belt Line Road, Grand Prairie, TX 75052.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/4-express-car-wash-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/4-express-car-wash-grand-prairie.json",
+   "address": {
+    "streetAddress": "3949 South Belt Line Road",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6781395,
+    "lon": -96.9858667
+   },
+   "opening_hours": "Mo-Sa 08:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/6390866",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carrier-animal-hospital-grand-prairie",
+   "name": "Carrier Animal Hospital",
+   "summary": "Carrier Animal Hospital is a veterinarian in Grand Prairie, TX at 2405 South Carrier Parkway, Grand Prairie, TX 75051.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carrier-animal-hospital-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carrier-animal-hospital-grand-prairie.json",
+   "address": {
+    "streetAddress": "2405 South Carrier Parkway",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.7129932,
+    "lon": -97.0147702
+   },
+   "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3174374929",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "marquez-car-wash-grand-prairie",
+   "name": "Marquez Car Wash",
+   "summary": "Marquez Car Wash is a car wash in Grand Prairie, TX at 211 Southwest 3rd Street, Grand Prairie, TX 75051.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marquez-car-wash-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marquez-car-wash-grand-prairie.json",
+   "address": {
+    "streetAddress": "211 Southwest 3rd Street",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75051",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75051",
+   "geo": {
+    "lat": 32.743856,
+    "lon": -97.006155
+   },
+   "opening_hours": "Mo-Su 06:00-24:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/360970721",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "southern-maid-donuts-grand-prairie",
+   "name": "Southern Maid Donuts",
+   "summary": "Southern Maid Donuts is a bakery in Grand Prairie, TX at 810 West Main Street, Grand Prairie, TX 75050.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southern-maid-donuts-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southern-maid-donuts-grand-prairie.json",
+   "address": {
+    "streetAddress": "810 West Main Street",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.7430944,
+    "lon": -97.0144744
+   },
+   "opening_hours": "Mo-Sa 05:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3195301003",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wash-masters-grand-prairie",
+   "name": "Wash Masters",
+   "summary": "Wash Masters is a car wash in Grand Prairie, TX at 3190 Lynn Creek Parkway, Grand Prairie, TX 75052.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wash-masters-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wash-masters-grand-prairie.json",
+   "address": {
+    "streetAddress": "3190 Lynn Creek Parkway",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6367337,
+    "lon": -97.0626379
+   },
+   "opening_hours": "Mo-Su 07:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1396024914",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "24-hour-fitness-grand-prairie",
+   "name": "24 Hour Fitness",
+   "summary": "24 Hour Fitness is a gym in Grand Prairie, TX at 5208 South State Highway 360, Grand Prairie, TX 75052.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/24-hour-fitness-grand-prairie.json",
+   "address": {
+    "streetAddress": "5208 South State Highway 360",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.646334,
+    "lon": -97.0587444
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/671709460",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "center-street-barbers-grand-prairie",
+   "name": "Center Street Barbers",
+   "summary": "Center Street Barbers is a hair salon in Grand Prairie, TX at 111 South Center Street, Grand Prairie, TX 75050.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/center-street-barbers-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/center-street-barbers-grand-prairie.json",
+   "address": {
+    "streetAddress": "111 South Center Street",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.7451201,
+    "lon": -97.0037346
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3729974670",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "epic-nails-and-lashes-bar-grand-prairie",
+   "name": "Epic Nails and Lashes Bar",
+   "summary": "Epic Nails and Lashes Bar is a nail salon in Grand Prairie, TX at 3810 S State Hwy 161 #200, Grand Prairie, TX 75052.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/epic-nails-and-lashes-bar-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/epic-nails-and-lashes-bar-grand-prairie.json",
+   "address": {
+    "streetAddress": "3810 S State Hwy 161 #200",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.680366,
+    "lon": -97.0230089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13014208041",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grand-prairie-dental-studio-grand-prairie",
+   "name": "Grand Prairie Dental Studio",
+   "summary": "Grand Prairie Dental Studio is a dentist in Grand Prairie, TX at 3241 South Carrier Parkway, Grand Prairie, TX 75052.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grand-prairie-dental-studio-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grand-prairie-dental-studio-grand-prairie.json",
+   "address": {
+    "streetAddress": "3241 South Carrier Parkway",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6910899,
+    "lon": -97.0149945
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13946156214",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kids-community-preschool-grand-prairie",
+   "name": "Kid's Community Preschool",
+   "summary": "Kid's Community Preschool is a preschool in Grand Prairie, TX at 4165 Magna Carta Boulevard, Grand Prairie, TX 75052.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kids-community-preschool-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kids-community-preschool-grand-prairie.json",
+   "address": {
+    "streetAddress": "4165 Magna Carta Boulevard",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6699527,
+    "lon": -97.0596579
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/732747682",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-fitness-grand-prairie",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Grand Prairie, TX at 2803 West Interstate 20, Grand Prairie, TX 75052.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-grand-prairie.json",
+   "address": {
+    "streetAddress": "2803 West Interstate 20",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75052",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75052",
+   "geo": {
+    "lat": 32.6755396,
+    "lon": -97.0523032
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/665955999",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "legendz-barber-shop-grand-prairie",
+   "name": "Legendz Barber Shop",
+   "summary": "Legendz Barber Shop is a hair salon in Grand Prairie, TX at 102 West Main Street, Grand Prairie, TX 75050.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/legendz-barber-shop-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/legendz-barber-shop-grand-prairie.json",
+   "address": {
+    "streetAddress": "102 West Main Street",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.7457232,
+    "lon": -97.0037555
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/318033629",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "u-haul-grand-prairie",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Grand Prairie, TX at 2455 West Tarrant Road, Grand Prairie, TX 75050.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-grand-prairie.json",
+   "address": {
+    "streetAddress": "2455 West Tarrant Road",
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "postalCode": "75050",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "zip": "75050",
+   "geo": {
+    "lat": 32.7561245,
+    "lon": -97.036026
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/463190271",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "western-kountry-club-midlothian",
+   "name": "Western Kountry Club",
+   "summary": "Western Kountry Club is a dance studio in Midlothian, TX at 5728 Lakeview Drive, Midlothian, TX 76065.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/western-kountry-club-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/western-kountry-club-midlothian.json",
+   "address": {
+    "streetAddress": "5728 Lakeview Drive",
+    "addressLocality": "Midlothian",
+    "addressRegion": "TX",
+    "postalCode": "76065",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "TX",
+   "zip": "76065",
+   "geo": {
+    "lat": 32.5094345,
+    "lon": -97.0640554
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/706236990",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "banfield-pet-hospital-grand-prairie",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Grand Prairie, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7037186,
+    "lon": -97.0236849
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13438929590",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "childcare-network-grand-prairie",
+   "name": "Childcare Network",
+   "summary": "Childcare Network is a daycare in Grand Prairie, TX.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/childcare-network-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/childcare-network-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6605481,
+    "lon": -97.0601878
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/671704927",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fitness-connection-grand-prairie",
+   "name": "Fitness Connection",
+   "summary": "Fitness Connection is a gym in Grand Prairie, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fitness-connection-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fitness-connection-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6724804,
+    "lon": -97.0079953
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10294204401",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gail-willis-certified-public-accountant-grand-prairie",
+   "name": "Gail Willis Certified Public Accountant",
+   "summary": "Gail Willis Certified Public Accountant is an accountant in Grand Prairie, TX.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gail-willis-certified-public-accountant-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gail-willis-certified-public-accountant-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7452543,
+    "lon": -97.0039699
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3729974674",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodyear-grand-prairie",
+   "name": "Goodyear",
+   "summary": "Goodyear is an auto repair shop in Grand Prairie, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodyear-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6777107,
+    "lon": -97.0515279
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10817160494",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grand-prairie-ford-service-and-auto-repair-center-grand-prairie",
+   "name": "Grand Prairie Ford Service and Auto Repair Center",
+   "summary": "Grand Prairie Ford Service and Auto Repair Center is an auto repair shop in Grand Prairie, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grand-prairie-ford-service-and-auto-repair-center-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grand-prairie-ford-service-and-auto-repair-center-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7612034,
+    "lon": -96.9972755
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3166055229",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jefferson-dental-clinic-grand-prairie",
+   "name": "Jefferson Dental Clinic",
+   "summary": "Jefferson Dental Clinic is a dentist in Grand Prairie, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jefferson-dental-clinic-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jefferson-dental-clinic-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7453182,
+    "lon": -96.9990586
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/318664227",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-laundry-cleaners-grand-prairie",
+   "name": "Jiffy Laundry Cleaners",
+   "summary": "Jiffy Laundry Cleaners is a dry cleaner in Grand Prairie, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-laundry-cleaners-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-laundry-cleaners-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7497316,
+    "lon": -97.0053876
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3215178789",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kleen-car-grand-prairie",
+   "name": "Kleen Car",
+   "summary": "Kleen Car is a car wash in Grand Prairie, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kleen-car-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kleen-car-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6621855,
+    "lon": -97.0600685
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/19794126",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "liberty-tax-grand-prairie",
+   "name": "Liberty Tax",
+   "summary": "Liberty Tax is a tax preparation service in Grand Prairie, TX.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liberty-tax-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liberty-tax-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7457198,
+    "lon": -97.0038345
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/369185973",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "million-nails-and-bar-grand-prairie",
+   "name": "Million Nails & Bar",
+   "summary": "Million Nails & Bar is a nail salon in Grand Prairie, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/million-nails-and-bar-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/million-nails-and-bar-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6933742,
+    "lon": -97.0611991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13141866584",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rooms-to-go-grand-prairie",
+   "name": "Rooms To Go",
+   "summary": "Rooms To Go is a furniture store in Grand Prairie, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rooms-to-go-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rooms-to-go-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7000956,
+    "lon": -97.0606842
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/388818535",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "scrub-a-dub-grand-prairie",
+   "name": "Scrub-A-Dub",
+   "summary": "Scrub-A-Dub is a car wash in Grand Prairie, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scrub-a-dub-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scrub-a-dub-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7568262,
+    "lon": -97.0310216
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11074229471",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "securcare-self-storage-grand-prairie",
+   "name": "SecurCare Self Storage",
+   "summary": "SecurCare Self Storage is a self-storage facility in Grand Prairie, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/securcare-self-storage-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/securcare-self-storage-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7574621,
+    "lon": -96.9938956
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10800774962",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "skyhigh-nail-salon-grand-prairie",
+   "name": "SkyHigh Nail Salon",
+   "summary": "SkyHigh Nail Salon is a nail salon in Grand Prairie, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/skyhigh-nail-salon-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/skyhigh-nail-salon-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6868089,
+    "lon": -97.0231832
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13438929592",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-pet-stop-grand-prairie",
+   "name": "The Pet Stop",
+   "summary": "The Pet Stop is a pet store in Grand Prairie, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-pet-stop-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-pet-stop-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.679009,
+    "lon": -97.0549335
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10817160449",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "veg-veterinary-emergency-group-grand-prairie",
+   "name": "VEG - Veterinary Emergency Group",
+   "summary": "VEG - Veterinary Emergency Group is a veterinarian in Grand Prairie, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/veg-veterinary-emergency-group-grand-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/veg-veterinary-emergency-group-grand-prairie.json",
+   "address": {
+    "addressLocality": "Grand Prairie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Grand Prairie",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6956039,
+    "lon": -97.0232363
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13438929585",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

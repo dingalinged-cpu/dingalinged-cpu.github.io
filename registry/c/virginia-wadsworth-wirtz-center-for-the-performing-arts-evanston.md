@@ -15,7 +15,7 @@ Virginia Wadsworth Wirtz Center for the Performing Arts is an event venue in Eva
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/virginia-wadsworth-wirtz-center-for-the-performing-arts-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/virginia-wadsworth-wirtz-center-for-the-performing-arts-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/relation/4630782 (license ODbL-1.0); source data as of 2026-07-28

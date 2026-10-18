@@ -15,7 +15,7 @@ B&L Auto Body is an auto repair shop in Naperville, IL at 1340 West Ogden Avenue
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00; Sa, Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/b-and-l-auto-body-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/b-and-l-auto-body-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8918313617 (license ODbL-1.0); source data as of 2026-06-01

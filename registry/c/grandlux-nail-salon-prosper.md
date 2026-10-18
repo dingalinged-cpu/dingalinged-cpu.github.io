@@ -1,0 +1,23 @@
+Grandlux Nail Salon is a nail salon in Prosper, TX at 4740 West University Drive #60, Prosper, TX.
+
+# Grandlux Nail Salon
+
+- Category: nail salon
+- Services: nail salon
+- Address: 4740 West University Drive #60, Prosper, TX
+- City: Prosper
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.2208185, -96.8793723
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/grandlux-nail-salon-prosper/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/grandlux-nail-salon-prosper.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13307483377 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

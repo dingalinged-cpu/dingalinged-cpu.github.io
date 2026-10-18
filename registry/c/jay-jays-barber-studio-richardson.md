@@ -1,0 +1,23 @@
+Jay Jay's Barber Studio is a hair salon in Richardson, TX.
+
+# Jay Jay's Barber Studio
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Richardson, TX
+- City: Richardson
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.9613908, -96.7676767
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jay-jays-barber-studio-richardson/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jay-jays-barber-studio-richardson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9236165842 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

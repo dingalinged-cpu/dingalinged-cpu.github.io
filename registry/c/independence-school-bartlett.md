@@ -15,7 +15,7 @@ Independence School is a preschool in Bartlett, IL at 200 Taylor Avenue, Bartlet
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/independence-school-bartlett/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/independence-school-bartlett.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/779695835 (license ODbL-1.0); source data as of 2026-07-28

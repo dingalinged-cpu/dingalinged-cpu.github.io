@@ -15,7 +15,7 @@ FedEx Office is a printing service in Maple Grove, MN at 8057 Wedgewood Lane, Ma
 - Opening hours (OSM syntax): Mo-Fr 07:00-22:00;Sa 08:00-20:00;Su 10:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fedex-office-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/613971252 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Maclyn is a marketing agency in Naperville, IL at 1573 Naperville-Wheaton Road, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/maclyn-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/maclyn-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1229586141 (license ODbL-1.0); source data as of 2026-07-28

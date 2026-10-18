@@ -1,0 +1,23 @@
+Grand Liquor is a liquor store in Montgomery County, TX at 20306 Eastex Freeway #C, Montgomery County, TX.
+
+# Grand Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 20306 Eastex Freeway #C, Montgomery County, TX
+- City: Montgomery County
+- State: TX
+- ZIP: n/a
+- Coordinates: 30.1508984, -95.2193138
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/grand-liquor-montgomery-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/grand-liquor-montgomery-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10634748126 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

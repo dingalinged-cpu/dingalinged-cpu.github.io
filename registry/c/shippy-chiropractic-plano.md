@@ -1,0 +1,23 @@
+Shippy Chiropractic is a chiropractor in Plano, TX at 4000 West Park Boulevard, Plano, TX.
+
+# Shippy Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 4000 West Park Boulevard, Plano, TX
+- City: Plano
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0264612, -96.7705509
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/shippy-chiropractic-plano/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/shippy-chiropractic-plano.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12333481863 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

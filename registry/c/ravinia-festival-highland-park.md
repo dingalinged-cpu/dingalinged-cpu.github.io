@@ -15,7 +15,7 @@ Ravinia Festival is an event venue in Highland Park, IL at 418 Sheridan Road, Hi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ravinia-festival-highland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ravinia-festival-highland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/relation/7419783 (license ODbL-1.0); source data as of 2026-07-28

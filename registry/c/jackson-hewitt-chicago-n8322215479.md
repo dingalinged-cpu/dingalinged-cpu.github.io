@@ -15,7 +15,7 @@ Jackson Hewitt is a tax preparation service in Chicago, IL at 1548 West 95th Str
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-chicago-n8322215479/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-chicago-n8322215479.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8322215479 (license ODbL-1.0); source data as of 2026-07-28

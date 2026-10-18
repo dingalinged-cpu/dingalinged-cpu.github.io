@@ -15,7 +15,7 @@ PetSmart is a pet store in Schaumburg, IL at 1440 East Golf Road, Schaumburg, IL
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/petsmart-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/petsmart-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10030406990 (license ODbL-1.0); source data as of 2026-06-01

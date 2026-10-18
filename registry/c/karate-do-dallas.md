@@ -1,0 +1,23 @@
+Karate Do is a martial arts school in Dallas, TX at 10825 Ferguson Road #120, Dallas, TX.
+
+# Karate Do
+
+- Category: martial arts
+- Services: martial arts
+- Address: 10825 Ferguson Road #120, Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.8434026, -96.6642994
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/karate-do-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/karate-do-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13993661161 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

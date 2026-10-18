@@ -1,0 +1,345 @@
+{
+ "place": "Pantego, TX",
+ "slug": "pantego-tx",
+ "count": 9,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair pantego tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-pantego-tx.json"
+  },
+  {
+   "keyword": "hair salon pantego tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-pantego-tx.json"
+  },
+  {
+   "keyword": "haircut pantego tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-pantego-tx.json"
+  },
+  {
+   "keyword": "marketing agency pantego tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/marketing-agency-pantego-tx.json"
+  },
+  {
+   "keyword": "massage pantego tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-pantego-tx.json"
+  },
+  {
+   "keyword": "mechanic pantego tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-pantego-tx.json"
+  },
+  {
+   "keyword": "real estate agent pantego tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-pantego-tx.json"
+  },
+  {
+   "keyword": "realtor pantego tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-pantego-tx.json"
+  },
+  {
+   "keyword": "shoe repair pantego tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/shoe-repair-pantego-tx.json"
+  },
+  {
+   "keyword": "tailor pantego tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-pantego-tx.json"
+  },
+  {
+   "keyword": "thrift store pantego tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-pantego-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "cleaning-business-growth-llc-pantego",
+   "name": "Cleaning Business Growth LLC",
+   "summary": "Cleaning Business Growth LLC is a marketing agency in Pantego, TX at 3630 W. Pioneer Pkwy, Suite 300, Pantego, TX 76013. Phone: +12144443994. Website: https://cleaningbusinessgrowth.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cleaning-business-growth-llc-pantego/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cleaning-business-growth-llc-pantego.json",
+   "address": {
+    "streetAddress": "3630 W. Pioneer Pkwy, Suite 300",
+    "addressLocality": "Pantego",
+    "addressRegion": "TX",
+    "postalCode": "76013",
+    "addressCountry": "US"
+   },
+   "city": "Pantego",
+   "state": "TX",
+   "zip": "76013",
+   "geo": {
+    "lat": 32.7126998,
+    "lon": -97.1643642
+   },
+   "phone": "+12144443994",
+   "website": "https://cleaningbusinessgrowth.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00, Sa-Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12655642529",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ktc-tune-and-lube-pantego",
+   "name": "KTC TUNE AND LUBE",
+   "summary": "KTC TUNE AND LUBE is an auto repair shop in Pantego, TX at 2321 West Pioneer Parkway, Pantego, TX 76013. Phone: +18172740500. Website: https://www.ktcautocare.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ktc-tune-and-lube-pantego/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ktc-tune-and-lube-pantego.json",
+   "address": {
+    "streetAddress": "2321 West Pioneer Parkway",
+    "addressLocality": "Pantego",
+    "addressRegion": "TX",
+    "postalCode": "76013",
+    "addressCountry": "US"
+   },
+   "city": "Pantego",
+   "state": "TX",
+   "zip": "76013",
+   "geo": {
+    "lat": 32.7102739,
+    "lon": -97.1448785
+   },
+   "phone": "+18172740500",
+   "website": "https://www.ktcautocare.com/",
+   "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13981179501",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nu2u-resale-arlington",
+   "name": "Nu2U Resale",
+   "summary": "Nu2U Resale is a thrift store in Arlington, TX at 2220 West Park Row Drive #B, Arlington, TX 76013. Phone: +18177956379. Website: https://arlingtonurbanministries.org/nu2u-resale.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nu2u-resale-arlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nu2u-resale-arlington.json",
+   "address": {
+    "streetAddress": "2220 West Park Row Drive #B",
+    "addressLocality": "Arlington",
+    "addressRegion": "TX",
+    "postalCode": "76013",
+    "addressCountry": "US"
+   },
+   "city": "Arlington",
+   "state": "TX",
+   "zip": "76013",
+   "geo": {
+    "lat": 32.7208526,
+    "lon": -97.1434685
+   },
+   "phone": "+18177956379",
+   "website": "https://arlingtonurbanministries.org/nu2u-resale",
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7054875104",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stress-free-auto-care-pantego",
+   "name": "Stress-Free Auto Care",
+   "summary": "Stress-Free Auto Care is an auto repair shop in Pantego, TX at 3201 West Pioneer Parkway, Pantego, TX 76013. Phone: +18177640202. Website: https://www.stressfree.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stress-free-auto-care-pantego/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stress-free-auto-care-pantego.json",
+   "address": {
+    "streetAddress": "3201 West Pioneer Parkway",
+    "addressLocality": "Pantego",
+    "addressRegion": "TX",
+    "postalCode": "76013",
+    "addressCountry": "US"
+   },
+   "city": "Pantego",
+   "state": "TX",
+   "zip": "76013",
+   "geo": {
+    "lat": 32.7120445,
+    "lon": -97.1580963
+   },
+   "phone": "+18177640202",
+   "website": "https://www.stressfree.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12715205946",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "balance-in-life-massage-pantego",
+   "name": "Balance In Life Massage",
+   "summary": "Balance In Life Massage is a massage studio in Pantego, TX at 3630 West Pioneer Parkway #115, Pantego, TX 76013. Phone: +19725952445.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/balance-in-life-massage-pantego/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/balance-in-life-massage-pantego.json",
+   "address": {
+    "streetAddress": "3630 West Pioneer Parkway #115",
+    "addressLocality": "Pantego",
+    "addressRegion": "TX",
+    "postalCode": "76013",
+    "addressCountry": "US"
+   },
+   "city": "Pantego",
+   "state": "TX",
+   "zip": "76013",
+   "geo": {
+    "lat": 32.7127905,
+    "lon": -97.1642909
+   },
+   "phone": "+19725952445",
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13835031186",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "arlington-park-realtors-pantego",
+   "name": "Arlington Park Realtors",
+   "summary": "Arlington Park Realtors is a real estate agency in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18174606011.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arlington-park-realtors-pantego/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arlington-park-realtors-pantego.json",
+   "address": {
+    "streetAddress": "2425 West Arkansas Lane",
+    "addressLocality": "Pantego",
+    "addressRegion": "TX",
+    "postalCode": "76013",
+    "addressCountry": "US"
+   },
+   "city": "Pantego",
+   "state": "TX",
+   "zip": "76013",
+   "geo": {
+    "lat": 32.7072132,
+    "lon": -97.1484739
+   },
+   "phone": "+18174606011",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/498168828",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bills-boot-and-shoe-repair-pantego",
+   "name": "Bill's Boot & Shoe Repair",
+   "summary": "Bill's Boot & Shoe Repair is a shoe repair in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18174600600.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bills-boot-and-shoe-repair-pantego/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bills-boot-and-shoe-repair-pantego.json",
+   "address": {
+    "streetAddress": "2425 West Arkansas Lane",
+    "addressLocality": "Pantego",
+    "addressRegion": "TX",
+    "postalCode": "76013",
+    "addressCountry": "US"
+   },
+   "city": "Pantego",
+   "state": "TX",
+   "zip": "76013",
+   "geo": {
+    "lat": 32.7073652,
+    "lon": -97.1485991
+   },
+   "phone": "+18174600600",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/498168826",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stitch-niche-pantego",
+   "name": "Stitch Niche",
+   "summary": "Stitch Niche is a tailor in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18172774281.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stitch-niche-pantego/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stitch-niche-pantego.json",
+   "address": {
+    "streetAddress": "2425 West Arkansas Lane",
+    "addressLocality": "Pantego",
+    "addressRegion": "TX",
+    "postalCode": "76013",
+    "addressCountry": "US"
+   },
+   "city": "Pantego",
+   "state": "TX",
+   "zip": "76013",
+   "geo": {
+    "lat": 32.707365,
+    "lon": -97.1486652
+   },
+   "phone": "+18172774281",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/498168825",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "beauty-and-style-salon-pantego",
+   "name": "Beauty & Style Salon",
+   "summary": "Beauty & Style Salon is a hair salon in Pantego, TX at 2400 West Park Row Drive, Pantego, TX 76013.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beauty-and-style-salon-pantego/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beauty-and-style-salon-pantego.json",
+   "address": {
+    "streetAddress": "2400 West Park Row Drive",
+    "addressLocality": "Pantego",
+    "addressRegion": "TX",
+    "postalCode": "76013",
+    "addressCountry": "US"
+   },
+   "city": "Pantego",
+   "state": "TX",
+   "zip": "76013",
+   "geo": {
+    "lat": 32.7208372,
+    "lon": -97.1468346
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12992455991",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

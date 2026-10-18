@@ -51,7 +51,7 @@
    "trust_score": 10.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1336317586",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "bp-country-club-hills",
@@ -81,7 +81,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1336317608",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "public-storage-country-club-hills",
@@ -111,7 +111,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/8244380428",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "extra-space-storage-country-club-hills",
@@ -138,7 +138,7 @@
    "trust_score": 0.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/369461869",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   }
  ]
 }

@@ -15,7 +15,7 @@ Doggie Doo's Spa and Retreat is a dog groomer in Shakopee, MN at 2555 Vierling D
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/doggie-doos-spa-and-retreat-shakopee/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/doggie-doos-spa-and-retreat-shakopee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/966565468 (license ODbL-1.0); source data as of 2026-06-01

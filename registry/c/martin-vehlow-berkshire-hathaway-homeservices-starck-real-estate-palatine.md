@@ -15,7 +15,7 @@ Martin Vehlow - Berkshire Hathaway HomeServices Starck Real Estate is a real est
 - Opening hours (OSM syntax): Mo-Th 08:00-20:00; Fr-Sa 08:00-17:00; Su 13:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/martin-vehlow-berkshire-hathaway-homeservices-starck-real-estate-palatine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/martin-vehlow-berkshire-hathaway-homeservices-starck-real-estate-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11226392591 (license ODbL-1.0); source data as of 2026-07-28

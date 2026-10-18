@@ -15,7 +15,7 @@ Dogtopia is a dog boarding facility in Roseville, MN at 2216 County Road D West 
 - Opening hours (OSM syntax): Mo-Fr 07:00-12:00,14:00-19:00; Sa,Su 10:00-12:00,14:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dogtopia-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dogtopia-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12889601931 (license ODbL-1.0); source data as of 2026-07-24

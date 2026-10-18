@@ -1,0 +1,23 @@
+Prestige Tailors by Mario is a tailor in Houston, TX at 7532 Cypress Creek Parkway, Houston, TX.
+
+# Prestige Tailors by Mario
+
+- Category: tailor
+- Services: tailor
+- Address: 7532 Cypress Creek Parkway, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9660298, -95.5410891
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/prestige-tailors-by-mario-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/prestige-tailors-by-mario-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2606379751 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

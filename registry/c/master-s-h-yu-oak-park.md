@@ -15,7 +15,7 @@ Master S. H. Yu is a martial arts school in Oak Park, IL at 6701 West North Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/master-s-h-yu-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/master-s-h-yu-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/416828669 (license ODbL-1.0); source data as of 2026-07-28

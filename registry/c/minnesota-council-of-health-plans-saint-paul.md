@@ -15,7 +15,7 @@ Minnesota Council of Health Plans is an insurance agent in Saint Paul, MN at 255
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/minnesota-council-of-health-plans-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/minnesota-council-of-health-plans-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6275543778 (license ODbL-1.0); source data as of 2026-05-31

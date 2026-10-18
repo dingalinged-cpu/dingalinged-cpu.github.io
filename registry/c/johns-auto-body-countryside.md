@@ -15,7 +15,7 @@ John's Auto Body is an auto repair shop in Countryside, IL. Website: https://www
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/johns-auto-body-countryside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/johns-auto-body-countryside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9948866689 (license ODbL-1.0); source data as of 2026-06-01

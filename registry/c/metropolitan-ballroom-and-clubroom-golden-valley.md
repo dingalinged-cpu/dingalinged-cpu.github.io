@@ -15,7 +15,7 @@ Metropolitan Ballroom & Clubroom is a dance studio in Golden Valley, MN at 5418 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/metropolitan-ballroom-and-clubroom-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/metropolitan-ballroom-and-clubroom-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/44970409 (license ODbL-1.0); source data as of 2026-07-15

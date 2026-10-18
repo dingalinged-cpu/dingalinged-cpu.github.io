@@ -15,7 +15,7 @@ Quality Cleaners is a dry cleaner in New Lenox, IL at 13150 East Lincoln Highway
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00, Sa 08:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/quality-cleaners-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/quality-cleaners-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9195011824 (license ODbL-1.0); source data as of 2026-06-01

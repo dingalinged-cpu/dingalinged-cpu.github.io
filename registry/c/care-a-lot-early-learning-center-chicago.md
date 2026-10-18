@@ -15,7 +15,7 @@ Care-A-Lot Early Learning Center is a preschool in Chicago, IL at 5522 North Mil
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/care-a-lot-early-learning-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/care-a-lot-early-learning-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/427313721 (license ODbL-1.0); source data as of 2026-07-28

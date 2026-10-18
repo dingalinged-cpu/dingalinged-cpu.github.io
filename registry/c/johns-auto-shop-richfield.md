@@ -15,7 +15,7 @@ John's Auto Shop is an auto repair shop in Richfield, MN. Phone: +16128695256.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/johns-auto-shop-richfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/johns-auto-shop-richfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12294243094 (license ODbL-1.0); source data as of 2026-06-01

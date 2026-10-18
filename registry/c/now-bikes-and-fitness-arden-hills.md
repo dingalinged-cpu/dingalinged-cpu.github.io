@@ -15,7 +15,7 @@ Now Bikes & Fitness is a bike shop in Arden Hills, MN at 1201 West County Road E
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/now-bikes-and-fitness-arden-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/now-bikes-and-fitness-arden-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8822788417 (license ODbL-1.0); source data as of 2026-06-01

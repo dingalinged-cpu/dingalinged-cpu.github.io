@@ -15,7 +15,7 @@ Kru Strength + Fitness is a gym in Chicago, IL at 5117 North Clark Street, Chica
 - Opening hours (OSM syntax): Mo-Su 06:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kru-strength-fitness-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kru-strength-fitness-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4989764321 (license ODbL-1.0); source data as of 2026-06-01

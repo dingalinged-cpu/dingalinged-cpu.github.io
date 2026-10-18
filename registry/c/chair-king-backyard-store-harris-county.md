@@ -1,0 +1,23 @@
+Chair King Backyard Store is a furniture store in Harris County, TX.
+
+# Chair King Backyard Store
+
+- Category: furniture store
+- Services: furniture store
+- Address: Harris County, TX
+- City: Harris County
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7829008, -95.721312
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/chair-king-backyard-store-harris-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/chair-king-backyard-store-harris-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3905564358 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

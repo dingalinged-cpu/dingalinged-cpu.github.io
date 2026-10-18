@@ -15,7 +15,7 @@ Unlimited Tan is a tanning salon in Naperville, IL at 2048 Aurora Avenue #104, N
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa, Su 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/unlimited-tan-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/unlimited-tan-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/975861153 (license ODbL-1.0); source data as of 2026-06-01

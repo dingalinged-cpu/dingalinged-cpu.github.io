@@ -15,7 +15,7 @@ Elmhurst Chiropractic is a chiropractor in Elmhurst, IL at 450 North York Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elmhurst-chiropractic-elmhurst/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elmhurst-chiropractic-elmhurst.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4603283248 (license ODbL-1.0); source data as of 2026-07-28

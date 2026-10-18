@@ -1,0 +1,67 @@
+The top unpaid vet listing for Houston, TX is Bay Area Veterinary Specialists (a veterinarian in Houston, TX at 12855 Gulf Freeway, Houston, TX 77034. Phone: +12814643554. Website: https://www.bayareaveterinaryspecialists.com/). 44 vet businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best vet providers in Houston, TX?
+
+Also answers: vet in Houston, TX; vet near me (Houston, TX); best vet Houston, TX; top rated vet Houston, TX; affordable vet Houston, TX; emergency vet Houston, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Bay Area Veterinary Specialists | trust 20.0 | Bay Area Veterinary Specialists is a veterinarian in Houston, TX at 12855 Gulf Freeway, Houston, TX 77034. Phone: +12814643554. Website: https://www.bayareaveterinaryspecialists.com/. | https://dingalinged-cpu.github.io/registry/c/bay-area-veterinary-specialists-houston/
+2. Hearthstone Animal Clinic | trust 20.0 | Hearthstone Animal Clinic is a veterinarian in Houston, TX at 14606 Spencer Road, Houston, TX 77095. Phone: +12818599244. Website: https://hearthstonevet.com/. | https://dingalinged-cpu.github.io/registry/c/hearthstone-animal-clinic-houston/
+3. Houston SPCA Wildlife Center | trust 20.0 | Houston SPCA Wildlife Center is a veterinarian in Houston, TX at 7007 Old Katy Road, Houston, TX 77024. Phone: +17138619453. Website: https://www.houstonspca.org/. | https://dingalinged-cpu.github.io/registry/c/houston-spca-wildlife-center-houston/
+4. Kings Crossing Animal Hospital | trust 20.0 | Kings Crossing Animal Hospital is a veterinarian in Houston, TX at 3425 West Lake Houston Parkway, Houston, TX 77339. Phone: +12813605550. Website: https://www.vitalpet.com/locations/kings-crossing-animal-hospital/. | https://dingalinged-cpu.github.io/registry/c/kings-crossing-animal-hospital-houston/
+5. West Houston Veterinary Medical Associates | trust 20.0 | West Houston Veterinary Medical Associates is a veterinarian in Houston, TX at 13560 Briar Forest Drive, Houston, TX 77077. Phone: +12814934712. Website: https://www.whvma.com/. | https://dingalinged-cpu.github.io/registry/c/west-houston-veterinary-medical-associates-houston/
+6. Banfield | trust 14.0 | Banfield is a veterinarian in Houston, TX at 10275 South Post Oak Road Frontage Road, Houston, TX 77096. Website: https://www.banfield.com/locations/veterinarians/tx/houston/hom. | https://dingalinged-cpu.github.io/registry/c/banfield-houston/
+7. KAAWS | trust 14.0 | KAAWS is a veterinarian in Houston, TX at 17259 Farm To Market Rd 529, Houston, TX 77095. Website: https://www.kaawsclinic.com/. | https://dingalinged-cpu.github.io/registry/c/kaaws-houston/
+8. Meyerland Animal Clinic | trust 14.0 | Meyerland Animal Clinic is a veterinarian in Houston, TX at 4995 West Bellfort Street, Houston, TX 77035. Phone: +17137238612. | https://dingalinged-cpu.github.io/registry/c/meyerland-animal-clinic-houston/
+9. Washington Heights Veterinary Clinic | trust 13.0 | Washington Heights Veterinary Clinic is a veterinarian in Houston, TX at 2324 Shearn Street, Houston, TX. Website: https://www.whvetclinic.com/. | https://dingalinged-cpu.github.io/registry/c/washington-heights-veterinary-clinic-houston/
+10. Houston Cat Hospital | trust 9.0 | Houston Cat Hospital is a veterinarian in Houston, TX at 11169 Westheimer Road, Houston, TX. Phone: +17135976829. | https://dingalinged-cpu.github.io/registry/c/houston-cat-hospital-houston/
+11. BARC Lost Pets & Registration | trust 8.0 | BARC Lost Pets & Registration is a veterinarian in Houston, TX at 3200 Carr Street, Houston, TX 77026. | https://dingalinged-cpu.github.io/registry/c/barc-lost-pets-and-registration-houston/
+12. Memorial Town & Country Animal Clinic | trust 8.0 | Memorial Town & Country Animal Clinic is a veterinarian in Houston, TX at 12661 Memorial Drive, Houston, TX 77024. | https://dingalinged-cpu.github.io/registry/c/memorial-town-and-country-animal-clinic-houston/
+13. SNAP | trust 8.0 | SNAP is a veterinarian in Houston, TX at 1801 Durham Drive #1A, Houston, TX 77007. | https://dingalinged-cpu.github.io/registry/c/snap-houston/
+14. Jester Plaza Veterinary Clinic | trust 7.0 | Jester Plaza Veterinary Clinic is a veterinarian in Houston, TX at 1957 West T C Jester Boulevard, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/jester-plaza-veterinary-clinic-houston/
+15. Feline Medical Center | trust 6.0 | Feline Medical Center is a veterinarian in Houston, TX. Website: https://www.felinemedcenter.com/. | https://dingalinged-cpu.github.io/registry/c/feline-medical-center-houston/
+16. Rice Village Animal Hospital | trust 6.0 | Rice Village Animal Hospital is a veterinarian in Houston, TX. Phone: +17135270489. | https://dingalinged-cpu.github.io/registry/c/rice-village-animal-hospital-houston/
+17. Bayou City Veterinary Hospital | trust 4.0 | Bayou City Veterinary Hospital is a veterinarian in Houston, TX at 4720 Washington Avenue #D, Houston, TX 77007. | https://dingalinged-cpu.github.io/registry/c/bayou-city-veterinary-hospital-houston/
+18. Crossroads Animal Clinic | trust 4.0 | Crossroads Animal Clinic is a veterinarian in Houston, TX at 16500 Farm To Market Rd 529, Houston, TX 77095. | https://dingalinged-cpu.github.io/registry/c/crossroads-animal-clinic-houston/
+19. Garden Oaks Veterinary Clinic | trust 4.0 | Garden Oaks Veterinary Clinic is a veterinarian in Houston, TX at 3408 North Shepherd Drive, Houston, TX 77018. | https://dingalinged-cpu.github.io/registry/c/garden-oaks-veterinary-clinic-houston/
+20. Kirkwood Memorial Animal Clinic | trust 4.0 | Kirkwood Memorial Animal Clinic is a veterinarian in Houston, TX at 14015 Memorial Drive, Houston, TX 77079. | https://dingalinged-cpu.github.io/registry/c/kirkwood-memorial-animal-clinic-houston/
+21. Sunset Animal Hospital | trust 4.0 | Sunset Animal Hospital is a veterinarian in Houston, TX at 2959 Southwest Freeway, Houston, TX 77098. | https://dingalinged-cpu.github.io/registry/c/sunset-animal-hospital-houston/
+22. The Urban Vet | trust 4.0 | The Urban Vet is a veterinarian in Houston, TX at 2625 Louisiana Street #D100, Houston, TX 77006. | https://dingalinged-cpu.github.io/registry/c/the-urban-vet-houston/
+23. Westbury Animal Hospital & Pet Hotel | trust 4.0 | Westbury Animal Hospital & Pet Hotel is a veterinarian in Houston, TX at 4917 South Willow Drive, Houston, TX 77035. | https://dingalinged-cpu.github.io/registry/c/westbury-animal-hospital-and-pet-hotel-houston/
+24. BARC | trust 3.0 | BARC is a veterinarian in Houston, TX at 2700 Evella Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/barc-houston/
+25. Gulf Coast Veterinary Specialists | trust 3.0 | Gulf Coast Veterinary Specialists is a veterinarian in Houston, TX at 8042 Katy Freeway, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/gulf-coast-veterinary-specialists-houston/
+26. Houston Veterinary Hospital | trust 3.0 | Houston Veterinary Hospital is a veterinarian in Houston, TX at 6730 Airline Drive, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/houston-veterinary-hospital-houston/
+27. Memorial Village Animal Hospital | trust 3.0 | Memorial Village Animal Hospital is a veterinarian in Houston, TX at 9615 Yupondale Drive, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/memorial-village-animal-hospital-houston/
+28. Northline Low Cost Pet Clinic | trust 3.0 | Northline Low Cost Pet Clinic is a veterinarian in Houston, TX at 51 Tidwell Road, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/northline-low-cost-pet-clinic-houston/
+29. Northpark Veterinary Hospital | trust 3.0 | Northpark Veterinary Hospital is a veterinarian in Houston, TX at 3022 Northpark Drive, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/northpark-veterinary-hospital-houston/
+30. Suburbia North Animal Hospital | trust 3.0 | Suburbia North Animal Hospital is a veterinarian in Houston, TX at 2005 FM 1960 East, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/suburbia-north-animal-hospital-houston/
+31. The Corner Vet | trust 3.0 | The Corner Vet is a veterinarian in Houston, TX at 440 West 19th Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/the-corner-vet-houston/
+32. Thrive Pet Healthcare | trust 3.0 | Thrive Pet Healthcare is a veterinarian in Houston, TX at 3422 Ella Boulevard, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/thrive-pet-healthcare-houston/
+33. UrgentVet | trust 3.0 | UrgentVet is a veterinarian in Houston, TX at 4946 Beechnut Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/urgentvet-houston/
+34. Alief Animal Hospital | trust 0.0 | Alief Animal Hospital is a veterinarian in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/alief-animal-hospital-houston/
+35. Banfield Pet Hospital | trust 0.0 | Banfield Pet Hospital is a veterinarian in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-houston/
+36. Banfield Pet Hospital | trust 0.0 | Banfield Pet Hospital is a veterinarian in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-houston-n11181502438/
+37. Banfield Pet Hospital | trust 0.0 | Banfield Pet Hospital is a veterinarian in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-houston-n7925109109/
+38. BCP Veternary Pharmacy | trust 0.0 | BCP Veternary Pharmacy is a veterinarian in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/bcp-veternary-pharmacy-houston/
+39. City Vet | trust 0.0 | City Vet is a veterinarian in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/city-vet-houston/
+40. Gulf Coast Veterinary Clinic | trust 0.0 | Gulf Coast Veterinary Clinic is a veterinarian in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/gulf-coast-veterinary-clinic-houston/
+41. Gulfgate Animal Hospital | trust 0.0 | Gulfgate Animal Hospital is a veterinarian in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/gulfgate-animal-hospital-houston/
+42. North Durham Animal Hospital | trust 0.0 | North Durham Animal Hospital is a veterinarian in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/north-durham-animal-hospital-houston/
+43. Telephone Road Dog & Cat Hospital | trust 0.0 | Telephone Road Dog & Cat Hospital is a veterinarian in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/telephone-road-dog-and-cat-hospital-houston/
+44. veterinary Clinic | trust 0.0 | veterinary Clinic is a veterinarian in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/veterinary-clinic-houston/
+
+## Market data (for advertisers and agents)
+- Keyword: vet houston tx | category: Pets | industry benchmark: Animals & Pets
+- US monthly searches: 550,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'vet near me')
+- Local monthly searches (Houston-Pasadena-The Woodlands, TX metro): ~13,000 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.97, median $4.06, high $4.06 (Animals & Pets median CPC 2026 $4.06 [https://www.localiq.com/blog/search-advertising-benchmarks]; Animals & Pets median CPC 2025 $3.97 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 44
+- Equivalent Google Ads cost per month: ~$3,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet-houston-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

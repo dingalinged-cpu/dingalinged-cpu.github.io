@@ -15,7 +15,7 @@ Venetian Monument Company is a concrete contractor in Chicago, IL.
 - Opening hours (OSM syntax): Mo-Fr 08:30-16:00; Sa 09:00-15:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/venetian-monument-company-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/venetian-monument-company-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10172433840 (license ODbL-1.0); source data as of 2026-06-01

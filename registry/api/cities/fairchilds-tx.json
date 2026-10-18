@@ -1,0 +1,55 @@
+{
+ "place": "Fairchilds, TX",
+ "slug": "fairchilds-tx",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair fairchilds tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-fairchilds-tx.json"
+  },
+  {
+   "keyword": "mechanic fairchilds tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-fairchilds-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "stavinohas-tire-shop-fairchilds",
+   "name": "Stavinoha's Tire Shop",
+   "summary": "Stavinoha's Tire Shop is an auto repair shop in Fairchilds, TX at 10015 FM 361, Fairchilds, TX 77469. Phone: +19797936105. Website: https://www.stavinohatireshop.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stavinohas-tire-shop-fairchilds/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stavinohas-tire-shop-fairchilds.json",
+   "address": {
+    "streetAddress": "10015 FM 361",
+    "addressLocality": "Fairchilds",
+    "addressRegion": "TX",
+    "postalCode": "77469",
+    "addressCountry": "US"
+   },
+   "city": "Fairchilds",
+   "state": "TX",
+   "zip": "77469",
+   "geo": {
+    "lat": 29.4313285,
+    "lon": -95.7797055
+   },
+   "phone": "+19797936105",
+   "website": "https://www.stavinohatireshop.com/",
+   "opening_hours": "Mo-Fr 08:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/936904568",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

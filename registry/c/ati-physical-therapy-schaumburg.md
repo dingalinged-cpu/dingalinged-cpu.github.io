@@ -15,7 +15,7 @@ ATI Physical Therapy is a physical therapy clinic in Schaumburg, IL at 2562 Scha
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3472296533 (license ODbL-1.0); source data as of 2026-07-28

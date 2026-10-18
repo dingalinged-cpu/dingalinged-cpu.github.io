@@ -15,7 +15,7 @@ Life Time is a gym in Schaumburg, IL at 900 East Higgins Road, Schaumburg, IL 60
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/life-time-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/life-time-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/316982508 (license ODbL-1.0); source data as of 2026-06-01

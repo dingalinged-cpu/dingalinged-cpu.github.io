@@ -15,7 +15,7 @@ Orangetheory Fitness is a gym in Minnetonka, MN at 4703 County Road 101, Minneto
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-minnetonka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-minnetonka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11098487971 (license ODbL-1.0); source data as of 2026-07-15

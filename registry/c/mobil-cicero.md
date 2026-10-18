@@ -15,7 +15,7 @@ Mobil is a car wash in Cicero, IL at 5147 West Roosevelt Road, Cicero, IL 60804.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-cicero/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-cicero.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13256089155 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Zen Spa Asian Massage is a massage studio in Naperville, IL at 1592 West Ogden A
 - Opening hours (OSM syntax): Mo-Su 09:00-22:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/zen-spa-asian-massage-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/zen-spa-asian-massage-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1181040592 (license ODbL-1.0); source data as of 2026-06-01

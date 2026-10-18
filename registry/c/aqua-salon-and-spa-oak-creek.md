@@ -1,0 +1,23 @@
+Aqua Salon & Spa is a nail salon in Oak Creek, WI at 7435 South Howell Avenue, Oak Creek, WI 53154.
+
+# Aqua Salon & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 7435 South Howell Avenue, Oak Creek, WI 53154
+- City: Oak Creek
+- State: WI
+- ZIP: 53154
+- Coordinates: 42.9095266, -87.9118229
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/aqua-salon-and-spa-oak-creek/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/aqua-salon-and-spa-oak-creek.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/664279973 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

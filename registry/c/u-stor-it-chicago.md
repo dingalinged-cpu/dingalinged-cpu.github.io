@@ -15,7 +15,7 @@ U-Stor-It is a self-storage facility in Chicago, IL at 615-617 South Wabash Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/u-stor-it-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-stor-it-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/147078398 (license ODbL-1.0); source data as of 2026-06-01

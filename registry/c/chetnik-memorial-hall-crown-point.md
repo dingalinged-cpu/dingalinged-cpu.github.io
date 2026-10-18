@@ -15,7 +15,7 @@ Chetnik Memorial Hall is an event venue in Crown Point, IN at 1350 Woodview Driv
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chetnik-memorial-hall-crown-point/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chetnik-memorial-hall-crown-point.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1337554432 (license ODbL-1.0); source data as of 2026-07-28

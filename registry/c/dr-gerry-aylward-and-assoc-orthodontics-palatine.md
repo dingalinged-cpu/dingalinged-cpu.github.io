@@ -15,7 +15,7 @@ Dr. Gerry Aylward & Assoc. Orthodontics is a dentist in Palatine, IL. Phone: +18
 - Opening hours (OSM syntax): Mo,Tu,Th 08:30-17:00; Fr,Sa 08:00-12:00 "2 Fridays and Saturdays per month; please call for specific dates"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-gerry-aylward-and-assoc-orthodontics-palatine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-gerry-aylward-and-assoc-orthodontics-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12960297568 (license ODbL-1.0); source data as of 2026-07-28

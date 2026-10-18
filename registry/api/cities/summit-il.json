@@ -81,7 +81,7 @@
    "trust_score": 20.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/9958528349",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "jz-auto-sales-summit",
@@ -112,7 +112,7 @@
    "trust_score": 10.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1230282890",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "liberty-tax-summit",
@@ -143,7 +143,7 @@
    "trust_score": 10.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1230282891",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "summit-animal-hospital-summit",
@@ -174,7 +174,7 @@
    "trust_score": 10.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/282577567",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "karinas-bakery-summit",
@@ -204,7 +204,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/9485933703",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "overflow-summit",
@@ -232,7 +232,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/13577853601",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "royals-wine-and-spirit-summit",
@@ -262,7 +262,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1217139308",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "the-potters-hand-summit",
@@ -290,7 +290,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/13577853701",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "romo-furniture-summit",
@@ -317,7 +317,7 @@
    "trust_score": 0.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/13577853603",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "valladolid-banquet-hall-summit",
@@ -344,7 +344,7 @@
    "trust_score": 0.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/13577853702",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   }
  ]
 }

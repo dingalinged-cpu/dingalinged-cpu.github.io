@@ -15,7 +15,7 @@ Gears2You is a bike shop in Brookfield, IL at 9219 Broadway Avenue, Brookfield, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gears2you-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gears2you-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12633701672 (license ODbL-1.0); source data as of 2026-06-01

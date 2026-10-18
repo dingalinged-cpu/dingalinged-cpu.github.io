@@ -15,7 +15,7 @@ Anytime Fitness is a gym in Bloomington, MN at 5107 West 98th Street, Bloomingto
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1168049768 (license ODbL-1.0); source data as of 2026-07-15

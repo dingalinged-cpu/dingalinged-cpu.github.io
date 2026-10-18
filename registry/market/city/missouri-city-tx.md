@@ -1,0 +1,54 @@
+Keyword market for Missouri City, TX: 23 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
+
+# Top keywords in Missouri City, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash missouri city tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-missouri-city-tx/
+2. gym missouri city tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-missouri-city-tx/
+3. hair salon missouri city tx | searches/mo 35,000 (est) | CPC $0.55 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hair-salon-missouri-city-tx/
+4. nail salon missouri city tx | searches/mo 23,000 (est) | CPC $0.61 | value $14,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-missouri-city-tx/
+5. mechanic missouri city tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-missouri-city-tx/
+6. tire shop missouri city tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-missouri-city-tx/
+7. vet missouri city tx | searches/mo 13,000 (est) | CPC $4.06 | value $53,000 | Google Ads equiv $3,500/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-missouri-city-tx/
+8. haircut missouri city tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/haircut-missouri-city-tx/
+9. auto repair missouri city tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-missouri-city-tx/
+10. insurance agency missouri city tx | searches/mo 2,100 (est) | CPC $3.39 | value $7,100 | Google Ads equiv $590/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-missouri-city-tx/
+11. yoga classes missouri city tx | searches/mo 1,700 (est) | CPC $1.78 | value $3,000 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/yoga-classes-missouri-city-tx/
+12. insurance agents missouri city tx | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-missouri-city-tx/
+13. insurance agent missouri city tx | searches/mo 940 (est) | CPC $3.39 | value $3,200 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-missouri-city-tx/
+
+## By CPC
+1. storage units missouri city tx | searches/mo 5,100 (est) | CPC $8.33 | value $42,000 | Google Ads equiv $2,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/storage-units-missouri-city-tx/
+2. event venues missouri city tx | searches/mo 5,100 (est) | CPC $7.17 | value $37,000 | Google Ads equiv $2,800/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/event-venues-missouri-city-tx/
+3. preschool missouri city tx | searches/mo 5,100 (est) | CPC $4.81 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/preschool-missouri-city-tx/
+4. assisted living missouri city tx | searches/mo 5,100 (est) | CPC $4.76 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/assisted-living-missouri-city-tx/
+5. haircut missouri city tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/haircut-missouri-city-tx/
+6. auto repair missouri city tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-missouri-city-tx/
+7. car wash missouri city tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-missouri-city-tx/
+8. mechanic missouri city tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-missouri-city-tx/
+9. tire shop missouri city tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-missouri-city-tx/
+10. gift shop missouri city tx | searches/mo 420 (est) | CPC $4.14 | value $1,700 | Google Ads equiv $160/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gift-shop-missouri-city-tx/
+11. jewelry store missouri city tx | searches/mo 3,200 (est) | CPC $4.14 | value $13,000 | Google Ads equiv $1,200/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/jewelry-store-missouri-city-tx/
+12. liquor store missouri city tx | searches/mo 3,200 (est) | CPC $4.14 | value $13,000 | Google Ads equiv $1,200/mo | our featured min $10/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/liquor-store-missouri-city-tx/
+13. pet store missouri city tx | searches/mo 3,200 (est) | CPC $4.14 | value $13,000 | Google Ads equiv $1,200/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pet-store-missouri-city-tx/
+14. thrift store missouri city tx | searches/mo 3,200 (est) | CPC $4.14 | value $13,000 | Google Ads equiv $1,200/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/thrift-store-missouri-city-tx/
+15. vet missouri city tx | searches/mo 13,000 (est) | CPC $4.06 | value $53,000 | Google Ads equiv $3,500/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-missouri-city-tx/
+
+## By value (searches x CPC)
+1. car wash missouri city tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-missouri-city-tx/
+2. gym missouri city tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-missouri-city-tx/
+3. mechanic missouri city tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-missouri-city-tx/
+4. tire shop missouri city tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-missouri-city-tx/
+5. vet missouri city tx | searches/mo 13,000 (est) | CPC $4.06 | value $53,000 | Google Ads equiv $3,500/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-missouri-city-tx/
+6. haircut missouri city tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/haircut-missouri-city-tx/
+7. auto repair missouri city tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-missouri-city-tx/
+8. hair salon missouri city tx | searches/mo 35,000 (est) | CPC $0.55 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hair-salon-missouri-city-tx/
+9. nail salon missouri city tx | searches/mo 23,000 (est) | CPC $0.61 | value $14,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-missouri-city-tx/
+10. insurance agency missouri city tx | searches/mo 2,100 (est) | CPC $3.39 | value $7,100 | Google Ads equiv $590/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-missouri-city-tx/
+11. insurance agents missouri city tx | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-missouri-city-tx/
+12. insurance agent missouri city tx | searches/mo 940 (est) | CPC $3.39 | value $3,200 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-missouri-city-tx/
+13. yoga classes missouri city tx | searches/mo 1,700 (est) | CPC $1.78 | value $3,000 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/yoga-classes-missouri-city-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

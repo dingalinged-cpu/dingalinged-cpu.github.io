@@ -15,7 +15,7 @@ Superior Ford is an used car dealer in Plymouth, MN at 9700 56th Avenue North, P
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/superior-ford-plymouth/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/superior-ford-plymouth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/767358815 (license ODbL-1.0); source data as of 2026-06-01

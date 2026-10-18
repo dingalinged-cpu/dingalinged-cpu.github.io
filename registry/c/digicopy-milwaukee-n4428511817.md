@@ -1,0 +1,23 @@
+DigiCOPY is a printing service in Milwaukee, WI at 1681 North Van Buren Street, Milwaukee, WI 53202. Phone: +14142832679. Website: https://dcopy.net/locations/milwaukee.php.
+
+# DigiCOPY
+
+- Category: printing services
+- Services: printing services
+- Address: 1681 North Van Buren Street, Milwaukee, WI 53202
+- City: Milwaukee
+- State: WI
+- ZIP: 53202
+- Coordinates: 43.0525361, -87.9037723
+- Phone: +14142832679
+- Website: https://dcopy.net/locations/milwaukee.php
+- Email: milwaukee@dcopy.net
+- Opening hours (OSM syntax): Mo-Th 07:00-22:00; Fr 07:00-19:00; Sa 09:00-18:00; Su 12:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/digicopy-milwaukee-n4428511817/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/digicopy-milwaukee-n4428511817.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4428511817 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

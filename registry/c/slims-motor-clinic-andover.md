@@ -15,7 +15,7 @@ Slims Motor Clinic is an auto repair shop in Andover, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/slims-motor-clinic-andover/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/slims-motor-clinic-andover.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1148564936 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ TY Spa is a massage studio in Orland Park, IL at 11225 West 159th Street #A, Orl
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ty-spa-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ty-spa-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/957988062 (license ODbL-1.0); source data as of 2026-06-01

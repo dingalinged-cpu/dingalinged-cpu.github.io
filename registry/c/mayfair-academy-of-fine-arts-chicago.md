@@ -15,7 +15,7 @@ Mayfair Academy of Fine Arts is a dance studio in Chicago, IL at 8701 South Benn
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mayfair-academy-of-fine-arts-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mayfair-academy-of-fine-arts-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211289124 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Lady Di’s Bakery is a bakery in Chicago, IL at 4356 West Ford City Drive, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lady-di-s-bakery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lady-di-s-bakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6324364855 (license ODbL-1.0); source data as of 2026-06-01

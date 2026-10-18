@@ -1,0 +1,23 @@
+Parkway Family Chiropractic is a chiropractor in Houston, TX at 1560 Eldridge Parkway #144, Houston, TX 77077. Phone: +12812939180. Website: https://www.parkwayfamilychiro.com/.
+
+# Parkway Family Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 1560 Eldridge Parkway #144, Houston, TX 77077
+- City: Houston
+- State: TX
+- ZIP: 77077
+- Coordinates: 29.7569277, -95.6279285
+- Phone: +12812939180
+- Website: https://www.parkwayfamilychiro.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/parkway-family-chiropractic-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/parkway-family-chiropractic-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/834041975 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

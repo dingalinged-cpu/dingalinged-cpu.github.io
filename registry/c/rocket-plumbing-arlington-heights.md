@@ -15,7 +15,7 @@ Rocket Plumbing is a plumber in Arlington Heights, IL at 417 South Arlington Hei
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rocket-plumbing-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rocket-plumbing-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13637588630 (license ODbL-1.0); source data as of 2026-06-01

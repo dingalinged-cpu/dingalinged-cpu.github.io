@@ -15,7 +15,7 @@ Animal Medical Center of Itasca is a veterinarian in Itasca, IL at 220 Catalpa A
 - Opening hours (OSM syntax): Mo,Tu,Th 07:00-20:00; We,Fr 07:00-18:00; Sa 07:00-15:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/animal-medical-center-of-itasca-itasca/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/animal-medical-center-of-itasca-itasca.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/264408451 (license ODbL-1.0); source data as of 2026-07-28

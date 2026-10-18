@@ -15,7 +15,7 @@ Baker's Field Flour & Bread is a bakery in Minneapolis, MN at 1401 Marshal St. N
 - Opening hours (OSM syntax): Mo-Su 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bakers-field-flour-and-bread-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bakers-field-flour-and-bread-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11699042307 (license ODbL-1.0); source data as of 2026-06-01

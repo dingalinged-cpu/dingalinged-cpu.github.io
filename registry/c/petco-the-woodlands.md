@@ -1,0 +1,23 @@
+Petco is a pet store in The Woodlands, TX at 10864 Kuykendahl Road, The Woodlands, TX 77381. Phone: +12814654771. Website: https://stores.petco.com/tx/thewoodlands/pet-supplies-thewoodlands-tx-1481.html.
+
+# Petco
+
+- Category: pet store
+- Services: pet store
+- Address: 10864 Kuykendahl Road, The Woodlands, TX 77381
+- City: The Woodlands
+- State: TX
+- ZIP: 77381
+- Coordinates: 30.1759294, -95.5358214
+- Phone: +12814654771
+- Website: https://stores.petco.com/tx/thewoodlands/pet-supplies-thewoodlands-tx-1481.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/petco-the-woodlands/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/petco-the-woodlands.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8669771066 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

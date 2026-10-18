@@ -1,0 +1,23 @@
+Rogers Behavioral Health is a therapy practice in West Allis, WI at 2424 South 102nd Street, West Allis, WI 53227. Phone: +18007674411. Website: https://rogersbh.org/locations/west-allis/west-allis-child-and-adolescent-center.
+
+# Rogers Behavioral Health
+
+- Category: therapist
+- Services: therapist
+- Address: 2424 South 102nd Street, West Allis, WI 53227
+- City: West Allis
+- State: WI
+- ZIP: 53227
+- Coordinates: 42.9999186, -88.0412594
+- Phone: +18007674411
+- Website: https://rogersbh.org/locations/west-allis/west-allis-child-and-adolescent-center
+- Email: info@rogersbh.org
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/rogers-behavioral-health-west-allis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rogers-behavioral-health-west-allis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11509234895 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

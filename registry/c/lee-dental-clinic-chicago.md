@@ -15,7 +15,7 @@ Lee Dental Clinic is a dentist in Chicago, IL at 3811 North Broadway, Chicago, I
 - Opening hours (OSM syntax): Mo 07:00-14:00, Tu 09:00-16:00, We-Fr 07:00-16:00; PH off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lee-dental-clinic-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lee-dental-clinic-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10093673594 (license ODbL-1.0); source data as of 2026-07-28

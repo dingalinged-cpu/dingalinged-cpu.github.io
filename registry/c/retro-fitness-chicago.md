@@ -15,7 +15,7 @@ Retro Fitness is a gym in Chicago, IL at 4901 West Irving Park Road, Chicago, IL
 - Opening hours (OSM syntax): Mo-Fr 04:00-00:00; Sa 07:00-22:00; Su 07:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/retro-fitness-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/retro-fitness-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5425340104 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ De Leon, Nestor & Torres is a lawyer in Minneapolis, MN at 3547 Cedar Avenue Sou
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/de-leon-nestor-and-torres-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/de-leon-nestor-and-torres-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/171839273 (license ODbL-1.0); source data as of 2026-05-31

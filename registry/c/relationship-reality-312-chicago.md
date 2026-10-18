@@ -15,7 +15,7 @@ Relationship Reality 312 is a therapy practice in Chicago, IL at 333 North Michi
 - Opening hours (OSM syntax): Mo-Th 08:00-21:00; Fr 08:00-20:00; Sa 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/relationship-reality-312-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/relationship-reality-312-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7329301957 (license ODbL-1.0); source data as of 2026-07-28

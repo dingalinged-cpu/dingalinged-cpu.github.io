@@ -1,0 +1,23 @@
+Rockstar Martial Arts is a martial arts school in Prosper, TX at 4740 West University Drive #70, Prosper, TX.
+
+# Rockstar Martial Arts
+
+- Category: martial arts
+- Services: martial arts
+- Address: 4740 West University Drive #70, Prosper, TX
+- City: Prosper
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.2207988, -96.8792577
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/rockstar-martial-arts-prosper-n13307483378/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rockstar-martial-arts-prosper-n13307483378.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13307483378 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

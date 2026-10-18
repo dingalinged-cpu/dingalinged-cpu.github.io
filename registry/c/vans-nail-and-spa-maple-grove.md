@@ -15,7 +15,7 @@ Van's Nail & Spa is a nail salon in Maple Grove, MN at 8066 Wedgewood Lane, Mapl
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00;Su 11:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vans-nail-and-spa-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vans-nail-and-spa-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/613971285 (license ODbL-1.0); source data as of 2026-06-01

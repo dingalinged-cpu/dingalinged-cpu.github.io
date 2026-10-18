@@ -15,7 +15,7 @@ J. Hilburn Stylist Studio is a tailor in Minneapolis, MN at 5047 France Avenue S
 - Opening hours (OSM syntax): We-Sa 11:00-17:00; Su 12:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/j-hilburn-stylist-studio-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/j-hilburn-stylist-studio-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12143327853 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Home2Home Project is a thrift store in Hodgkins, IL. Website: https://www.theh2h
 - Opening hours (OSM syntax): Tu 10:00-14:00; We 16:00-19:00; Th 10:00-14:00; Sa 10:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/home2home-project-hodgkins/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/home2home-project-hodgkins.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13421884707 (license ODbL-1.0); source data as of 2026-06-01

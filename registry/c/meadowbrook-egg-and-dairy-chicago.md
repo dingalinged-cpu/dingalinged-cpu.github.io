@@ -15,7 +15,7 @@ Meadowbrook Egg & Dairy is a bakery in Chicago, IL at 2455 South Damen Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/meadowbrook-egg-and-dairy-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/meadowbrook-egg-and-dairy-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6326365810 (license ODbL-1.0); source data as of 2026-06-01

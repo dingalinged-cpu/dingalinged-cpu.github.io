@@ -1,0 +1,299 @@
+{
+ "place": "Dickinson, TX",
+ "slug": "dickinson-tx",
+ "count": 8,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair dickinson tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-dickinson-tx.json"
+  },
+  {
+   "keyword": "car wash dickinson tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-dickinson-tx.json"
+  },
+  {
+   "keyword": "funeral home dickinson tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-dickinson-tx.json"
+  },
+  {
+   "keyword": "liquor store dickinson tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-dickinson-tx.json"
+  },
+  {
+   "keyword": "mechanic dickinson tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-dickinson-tx.json"
+  },
+  {
+   "keyword": "oil change dickinson tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-dickinson-tx.json"
+  },
+  {
+   "keyword": "pet store dickinson tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-dickinson-tx.json"
+  },
+  {
+   "keyword": "storage units dickinson tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-dickinson-tx.json"
+  },
+  {
+   "keyword": "vet dickinson tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-dickinson-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "dickinson-animal-hospital-dickinson",
+   "name": "Dickinson Animal Hospital",
+   "summary": "Dickinson Animal Hospital is a veterinarian in Dickinson, TX at 1100 FM 517 West, Dickinson, TX 77539. Phone: +12813374535. Website: https://www.dickinsonanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dickinson-animal-hospital-dickinson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dickinson-animal-hospital-dickinson.json",
+   "address": {
+    "streetAddress": "1100 FM 517 West",
+    "addressLocality": "Dickinson",
+    "addressRegion": "TX",
+    "postalCode": "77539",
+    "addressCountry": "US"
+   },
+   "city": "Dickinson",
+   "state": "TX",
+   "zip": "77539",
+   "geo": {
+    "lat": 29.4387464,
+    "lon": -95.1008839
+   },
+   "phone": "+12813374535",
+   "website": "https://www.dickinsonanimalhospital.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/519720245",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-kar-lube-dickinson",
+   "name": "Kwik Kar Lube",
+   "summary": "Kwik Kar Lube is an auto repair shop in Dickinson, TX at 551 FM 517 W, Dickinson, TX 77539. Phone: +12815342271. Website: https://kwikkaronline.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-kar-lube-dickinson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-kar-lube-dickinson.json",
+   "address": {
+    "streetAddress": "551 FM 517 W",
+    "addressLocality": "Dickinson",
+    "addressRegion": "TX",
+    "postalCode": "77539",
+    "addressCountry": "US"
+   },
+   "city": "Dickinson",
+   "state": "TX",
+   "zip": "77539",
+   "geo": {
+    "lat": 29.4452637,
+    "lon": -95.0862135
+   },
+   "phone": "+12815342271",
+   "website": "https://kwikkaronline.com/",
+   "opening_hours": "Mo-Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/520366458",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-dickinson",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Dickinson, TX at 1921 South Gulf Freeway, Dickinson, TX 77539. Phone: +12815344590. Website: https://www.petsmart.com/stores/us/tx/dickinson-store1729.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-dickinson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-dickinson.json",
+   "address": {
+    "streetAddress": "1921 South Gulf Freeway",
+    "addressLocality": "Dickinson",
+    "addressRegion": "TX",
+    "postalCode": "77539",
+    "addressCountry": "US"
+   },
+   "city": "Dickinson",
+   "state": "TX",
+   "zip": "77539",
+   "geo": {
+    "lat": 29.4641399,
+    "lon": -95.0868246
+   },
+   "phone": "+12815344590",
+   "website": "https://www.petsmart.com/stores/us/tx/dickinson-store1729.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/122040044",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crowder-funeral-home-dickinson",
+   "name": "Crowder Funeral Home",
+   "summary": "Crowder Funeral Home is a funeral home in Dickinson, TX at 851 FM 517 W, Dickinson, TX 77539. Phone: +12813371515. Website: https://crowderfuneralhome.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crowder-funeral-home-dickinson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crowder-funeral-home-dickinson.json",
+   "address": {
+    "streetAddress": "851 FM 517 W",
+    "addressLocality": "Dickinson",
+    "addressRegion": "TX",
+    "postalCode": "77539",
+    "addressCountry": "US"
+   },
+   "city": "Dickinson",
+   "state": "TX",
+   "zip": "77539",
+   "geo": {
+    "lat": 29.4426255,
+    "lon": -95.0919396
+   },
+   "phone": "+12813371515",
+   "website": "https://crowderfuneralhome.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/520729030",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pro-exhaust-dickinson",
+   "name": "Pro Exhaust",
+   "summary": "Pro Exhaust is an auto repair shop in Dickinson, TX at 3302 TX-3, Dickinson, TX 77539.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pro-exhaust-dickinson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pro-exhaust-dickinson.json",
+   "address": {
+    "streetAddress": "3302 TX-3",
+    "addressLocality": "Dickinson",
+    "addressRegion": "TX",
+    "postalCode": "77539",
+    "addressCountry": "US"
+   },
+   "city": "Dickinson",
+   "state": "TX",
+   "zip": "77539",
+   "geo": {
+    "lat": 29.466681,
+    "lon": -95.0577945
+   },
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/520151911",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "high-point-storage-dickinson",
+   "name": "High Point Storage",
+   "summary": "High Point Storage is a self-storage facility in Dickinson, TX at 5600 FM 646 W, Dickinson, TX 77539.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/high-point-storage-dickinson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/high-point-storage-dickinson.json",
+   "address": {
+    "streetAddress": "5600 FM 646 W",
+    "addressLocality": "Dickinson",
+    "addressRegion": "TX",
+    "postalCode": "77539",
+    "addressCountry": "US"
+   },
+   "city": "Dickinson",
+   "state": "TX",
+   "zip": "77539",
+   "geo": {
+    "lat": 29.4426004,
+    "lon": -95.0939915
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/520387322",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hills-liquor-dickinson",
+   "name": "Hill's Liquor",
+   "summary": "Hill's Liquor is a liquor store in Dickinson, TX at 3430 Gulf Freeway, Dickinson, TX 77539.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hills-liquor-dickinson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hills-liquor-dickinson.json",
+   "address": {
+    "streetAddress": "3430 Gulf Freeway",
+    "addressLocality": "Dickinson",
+    "addressRegion": "TX",
+    "postalCode": "77539",
+    "addressCountry": "US"
+   },
+   "city": "Dickinson",
+   "state": "TX",
+   "zip": "77539",
+   "geo": {
+    "lat": 29.4496201,
+    "lon": -95.0791397
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4545126036",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jjs-carwash-dickinson",
+   "name": "JJ's Carwash",
+   "summary": "JJ's Carwash is a car wash in Dickinson, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jjs-carwash-dickinson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jjs-carwash-dickinson.json",
+   "address": {
+    "addressLocality": "Dickinson",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Dickinson",
+   "state": "TX",
+   "geo": {
+    "lat": 29.4454511,
+    "lon": -95.0839287
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11289872319",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

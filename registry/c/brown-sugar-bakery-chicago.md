@@ -15,7 +15,7 @@ Brown Sugar Bakery is a bakery in Chicago, IL at 600 East Grand Avenue, Chicago,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brown-sugar-bakery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brown-sugar-bakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6273546448 (license ODbL-1.0); source data as of 2026-06-01

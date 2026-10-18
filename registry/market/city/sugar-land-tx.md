@@ -1,0 +1,58 @@
+Keyword market for Sugar Land, TX: 72 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
+
+# Top keywords in Sugar Land, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage sugar land tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/massage-sugar-land-tx/
+2. car wash sugar land tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-sugar-land-tx/
+3. dentist sugar land tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 17 | https://dingalinged-cpu.github.io/registry/k/dentist-sugar-land-tx/
+4. gym sugar land tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/gym-sugar-land-tx/
+5. oil change sugar land tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/oil-change-sugar-land-tx/
+6. hair salon sugar land tx | searches/mo 35,000 (est) | CPC $0.55 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/hair-salon-sugar-land-tx/
+7. nail salon sugar land tx | searches/mo 23,000 (est) | CPC $0.61 | value $14,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/nail-salon-sugar-land-tx/
+8. mechanic sugar land tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/mechanic-sugar-land-tx/
+9. tire shop sugar land tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-sugar-land-tx/
+10. vet sugar land tx | searches/mo 13,000 (est) | CPC $4.06 | value $53,000 | Google Ads equiv $3,500/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/vet-sugar-land-tx/
+11. dog groomer sugar land tx | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-sugar-land-tx/
+12. haircut sugar land tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/haircut-sugar-land-tx/
+13. auto repair sugar land tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/auto-repair-sugar-land-tx/
+14. pilates sugar land tx | searches/mo 7,000 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-sugar-land-tx/
+15. chiropractor sugar land tx | searches/mo 5,700 (est) | CPC $4.76 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/chiropractor-sugar-land-tx/
+
+## By CPC
+1. electrician sugar land tx | searches/mo 5,700 (est) | CPC $12.18 | value $69,000 | Google Ads equiv $4,400/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-sugar-land-tx/
+2. roofing contractor sugar land tx | searches/mo 3,100 (est) | CPC $11.79 | value $37,000 | Google Ads equiv $2,300/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-sugar-land-tx/
+3. roofer sugar land tx | searches/mo 1,100 (est) | CPC $10.70 | value $12,000 | Google Ads equiv $750/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofer-sugar-land-tx/
+4. attorney sugar land tx | searches/mo 1,700 (est) | CPC $9.87 | value $17,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/attorney-sugar-land-tx/
+5. lawyer sugar land tx | searches/mo 1,100 (est) | CPC $9.87 | value $11,000 | Google Ads equiv $650/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/lawyer-sugar-land-tx/
+6. architect sugar land tx | searches/mo 930 (est) | CPC $8.33 | value $7,700 | Google Ads equiv $490/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/architect-sugar-land-tx/
+7. storage units sugar land tx | searches/mo 5,100 (est) | CPC $8.33 | value $42,000 | Google Ads equiv $2,700/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/storage-units-sugar-land-tx/
+8. bakery sugar land tx | searches/mo 5,100 (est) | CPC $7.17 | value $37,000 | Google Ads equiv $2,800/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/bakery-sugar-land-tx/
+9. event venues sugar land tx | searches/mo 5,100 (est) | CPC $7.17 | value $37,000 | Google Ads equiv $2,800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-sugar-land-tx/
+10. florist sugar land tx | searches/mo 5,100 (est) | CPC $7.17 | value $37,000 | Google Ads equiv $2,800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/florist-sugar-land-tx/
+11. photographer sugar land tx | searches/mo 5,100 (est) | CPC $7.17 | value $37,000 | Google Ads equiv $2,800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/photographer-sugar-land-tx/
+12. crossfit sugar land tx | searches/mo 940 (est) | CPC $6.17 | value $5,800 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/crossfit-sugar-land-tx/
+13. dance studio sugar land tx | searches/mo 930 (est) | CPC $6.17 | value $5,700 | Google Ads equiv $410/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dance-studio-sugar-land-tx/
+14. martial arts sugar land tx | searches/mo 6,900 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/martial-arts-sugar-land-tx/
+15. pilates sugar land tx | searches/mo 7,000 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-sugar-land-tx/
+
+## By value (searches x CPC)
+1. massage sugar land tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/massage-sugar-land-tx/
+2. dentist sugar land tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 17 | https://dingalinged-cpu.github.io/registry/k/dentist-sugar-land-tx/
+3. car wash sugar land tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-sugar-land-tx/
+4. oil change sugar land tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/oil-change-sugar-land-tx/
+5. gym sugar land tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/gym-sugar-land-tx/
+6. mechanic sugar land tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/mechanic-sugar-land-tx/
+7. electrician sugar land tx | searches/mo 5,700 (est) | CPC $12.18 | value $69,000 | Google Ads equiv $4,400/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-sugar-land-tx/
+8. tire shop sugar land tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-sugar-land-tx/
+9. vet sugar land tx | searches/mo 13,000 (est) | CPC $4.06 | value $53,000 | Google Ads equiv $3,500/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/vet-sugar-land-tx/
+10. pilates sugar land tx | searches/mo 7,000 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-sugar-land-tx/
+11. dog groomer sugar land tx | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-sugar-land-tx/
+12. haircut sugar land tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/haircut-sugar-land-tx/
+13. roofing contractor sugar land tx | searches/mo 3,100 (est) | CPC $11.79 | value $37,000 | Google Ads equiv $2,300/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-sugar-land-tx/
+14. auto repair sugar land tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/auto-repair-sugar-land-tx/
+15. chiropractor sugar land tx | searches/mo 5,700 (est) | CPC $4.76 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/chiropractor-sugar-land-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

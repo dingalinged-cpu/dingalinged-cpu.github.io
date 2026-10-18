@@ -15,7 +15,7 @@ Activa-te fitness & Nutrition is a gym in Chicago, IL at 3919 West 63rd Street, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/activa-te-fitness-and-nutrition-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/activa-te-fitness-and-nutrition-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13653637430 (license ODbL-1.0); source data as of 2026-06-01

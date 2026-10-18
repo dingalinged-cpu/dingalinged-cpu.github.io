@@ -15,7 +15,7 @@ Bob's Discount Furniture is a furniture store in Joliet, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-joliet/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bobs-discount-furniture-joliet.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/967756753 (license ODbL-1.0); source data as of 2026-06-01

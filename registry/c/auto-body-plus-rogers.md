@@ -15,7 +15,7 @@ Auto Body Plus is an auto repair shop in Rogers, MN at 21301 County Road 81, Rog
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/auto-body-plus-rogers/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/auto-body-plus-rogers.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/766028941 (license ODbL-1.0); source data as of 2026-06-01

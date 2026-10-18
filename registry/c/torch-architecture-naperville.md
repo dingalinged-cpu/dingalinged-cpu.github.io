@@ -15,7 +15,7 @@ Torch Architecture is an architect in Naperville, IL at 27 West Jefferson Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/torch-architecture-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/torch-architecture-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1040101916 (license ODbL-1.0); source data as of 2026-07-28

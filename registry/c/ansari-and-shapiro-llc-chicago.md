@@ -15,7 +15,7 @@ Ansari & Shapiro, LLC is a lawyer in Chicago, IL at 211 West Wacker Drive, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ansari-and-shapiro-llc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ansari-and-shapiro-llc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7662839838 (license ODbL-1.0); source data as of 2026-07-28

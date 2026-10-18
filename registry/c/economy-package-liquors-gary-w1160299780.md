@@ -15,7 +15,7 @@ Economy Package Liquors is a liquor store in Gary, IN at 5150 Broadway, Gary, IN
 - Opening hours (OSM syntax): Mo-Su 08:00-02:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/economy-package-liquors-gary-w1160299780/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/economy-package-liquors-gary-w1160299780.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1160299780 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ The Pony Shop is a bike shop in Evanston, IL at 1224 Chicago Avenue, Evanston, I
 - Opening hours (OSM syntax): Mo-Th 11:00-20:00; Fr 11:00-18:00; Sa-Su 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-pony-shop-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-pony-shop-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2212088884 (license ODbL-1.0); source data as of 2026-06-01

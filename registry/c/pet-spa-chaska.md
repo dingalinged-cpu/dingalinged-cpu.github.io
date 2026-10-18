@@ -15,7 +15,7 @@ Pet Spa is a pet store in Chaska, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pet-spa-chaska/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pet-spa-chaska.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1134670082 (license ODbL-1.0); source data as of 2026-06-01

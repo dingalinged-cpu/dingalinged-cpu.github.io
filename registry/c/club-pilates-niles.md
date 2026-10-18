@@ -15,7 +15,7 @@ Club Pilates is a pilates studio in Niles, IL at 5629 West Touhy Avenue #126, Ni
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/club-pilates-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/club-pilates-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/686708800 (license ODbL-1.0); source data as of 2026-06-01

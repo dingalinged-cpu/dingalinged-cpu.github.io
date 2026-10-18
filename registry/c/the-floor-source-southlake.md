@@ -1,0 +1,23 @@
+The Floor Source is a flooring company in Southlake, TX.
+
+# The Floor Source
+
+- Category: flooring companies
+- Services: flooring companies
+- Address: Southlake, TX
+- City: Southlake
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.9364584, -97.1850907
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-floor-source-southlake/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-floor-source-southlake.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13140111960 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

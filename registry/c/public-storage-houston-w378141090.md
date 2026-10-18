@@ -1,0 +1,23 @@
+Public Storage is a self-storage facility in Houston, TX at 7701 Main Street, Houston, TX 77030.
+
+# Public Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 7701 Main Street, Houston, TX 77030
+- City: Houston
+- State: TX
+- ZIP: 77030
+- Coordinates: 29.6965604, -95.4117911
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-houston-w378141090/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-houston-w378141090.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/378141090 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

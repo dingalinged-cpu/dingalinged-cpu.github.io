@@ -15,7 +15,7 @@ Hanover Park Animal Care Center is a veterinarian in Hanover Park, IL at 1920 On
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hanover-park-animal-care-center-hanover-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hanover-park-animal-care-center-hanover-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1447752425 (license ODbL-1.0); source data as of 2026-07-28

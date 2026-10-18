@@ -15,7 +15,7 @@ Extra Space Storage is a self-storage facility in Chicago, IL at 8522 South Lafa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6557954029 (license ODbL-1.0); source data as of 2026-06-01

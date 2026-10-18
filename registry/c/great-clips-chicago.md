@@ -15,7 +15,7 @@ Great Clips is a hair salon in Chicago, IL. Phone: +17732812926. Website: https:
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4525512614 (license ODbL-1.0); source data as of 2026-06-01

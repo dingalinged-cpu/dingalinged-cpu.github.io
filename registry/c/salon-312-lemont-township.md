@@ -15,7 +15,7 @@ Salon 312 is a hair salon in Lemont Township, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/salon-312-lemont-township/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/salon-312-lemont-township.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/543779596 (license ODbL-1.0); source data as of 2026-06-01

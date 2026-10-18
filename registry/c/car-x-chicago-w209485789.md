@@ -15,7 +15,7 @@ Car-X is an auto repair shop in Chicago, IL at 5150 North Western Avenue, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/car-x-chicago-w209485789/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/car-x-chicago-w209485789.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209485789 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ The Barber Sharp is a hair salon in Minneapolis, MN at 349 Northeast 13th Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-barber-sharp-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-barber-sharp-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11358657762 (license ODbL-1.0); source data as of 2026-06-01

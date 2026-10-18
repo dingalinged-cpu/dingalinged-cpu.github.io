@@ -15,7 +15,7 @@ Arbor Hills Dental Care is a dentist in Vernon Hills, IL at 175 North Milwaukee,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/arbor-hills-dental-care-vernon-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/arbor-hills-dental-care-vernon-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11876749792 (license ODbL-1.0); source data as of 2026-07-28

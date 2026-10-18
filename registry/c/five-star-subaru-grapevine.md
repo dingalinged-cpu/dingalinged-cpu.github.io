@@ -1,0 +1,23 @@
+Five Star Subaru is an used car dealer in Grapevine, TX at 2651 William D Tate Avenue, Grapevine, TX 76051. Phone: +18772570646. Website: https://www.subarugrapevine.net/.
+
+# Five Star Subaru
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 2651 William D Tate Avenue, Grapevine, TX 76051
+- City: Grapevine
+- State: TX
+- ZIP: 76051
+- Coordinates: 32.9062972, -97.0964678
+- Phone: +18772570646
+- Website: https://www.subarugrapevine.net/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 08:30-20:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/five-star-subaru-grapevine/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/five-star-subaru-grapevine.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/824413923 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

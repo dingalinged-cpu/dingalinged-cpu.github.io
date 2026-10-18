@@ -1,0 +1,23 @@
+Armbruster Jewelers is a jewelry store in Cedarburg, WI at W62 N620 Washington Avenue, Cedarburg, WI 53012. Phone: +12623770480. Website: https://armbrusterjewelers.com/.
+
+# Armbruster Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: W62 N620 Washington Avenue, Cedarburg, WI 53012
+- City: Cedarburg
+- State: WI
+- ZIP: 53012
+- Coordinates: 43.2980835, -87.9878724
+- Phone: +12623770480
+- Website: https://armbrusterjewelers.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/armbruster-jewelers-cedarburg/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/armbruster-jewelers-cedarburg.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/547481338 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

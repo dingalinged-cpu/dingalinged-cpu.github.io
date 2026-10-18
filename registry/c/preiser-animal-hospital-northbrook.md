@@ -15,7 +15,7 @@ Preiser Animal Hospital is a veterinarian in Northbrook, IL at 2975 Milwaukee Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/preiser-animal-hospital-northbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/preiser-animal-hospital-northbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/148282838 (license ODbL-1.0); source data as of 2026-07-28

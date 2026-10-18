@@ -15,7 +15,7 @@ Walter W. Schultz Agency is an insurance agent in Lansing, IL at 18119 Torrence 
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa closed; Su closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/walter-w-schultz-agency-lansing/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/walter-w-schultz-agency-lansing.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13461280037 (license ODbL-1.0); source data as of 2026-07-28

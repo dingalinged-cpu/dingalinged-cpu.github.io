@@ -15,7 +15,7 @@ Hoypoloi Gallery is a gift shop in Chicago, IL.
 - Opening hours (OSM syntax): Mo,We-Fr,Su 10:00-17:00; Tu,Sa off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hoypoloi-gallery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hoypoloi-gallery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6326510832 (license ODbL-1.0); source data as of 2026-06-01

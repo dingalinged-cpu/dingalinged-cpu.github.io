@@ -15,7 +15,7 @@ Knee Deep Vintage is a thrift store in Chicago, IL at 1219 West 18th Street, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/knee-deep-vintage-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/knee-deep-vintage-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2789511105 (license ODbL-1.0); source data as of 2026-06-01

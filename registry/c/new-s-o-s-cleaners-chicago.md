@@ -15,7 +15,7 @@ New S.O.S Cleaners is a dry cleaner in Chicago, IL at 810 West Irving Park Road,
 - Opening hours (OSM syntax): Mo,We-Fr 08:00-18:00; Tu,Su off; Sa 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-s-o-s-cleaners-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-s-o-s-cleaners-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11242041440 (license ODbL-1.0); source data as of 2026-06-01

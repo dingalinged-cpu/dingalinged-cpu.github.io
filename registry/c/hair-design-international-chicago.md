@@ -15,7 +15,7 @@ Hair Design International is a hair salon in Chicago, IL at 1309 East 57th Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hair-design-international-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hair-design-international-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4114593398 (license ODbL-1.0); source data as of 2026-06-01

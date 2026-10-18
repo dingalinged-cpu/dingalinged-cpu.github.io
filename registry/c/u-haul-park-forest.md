@@ -15,7 +15,7 @@ U-Haul is a self-storage facility in Park Forest, IL at 2210 Western Avenue, Par
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/u-haul-park-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-haul-park-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8417182227 (license ODbL-1.0); source data as of 2026-06-01

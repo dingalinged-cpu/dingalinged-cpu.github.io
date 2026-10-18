@@ -15,7 +15,7 @@ School of Rock is a music school in Naperville, IL at 220 North Washington Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/school-of-rock-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/school-of-rock-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/239443828 (license ODbL-1.0); source data as of 2026-07-28

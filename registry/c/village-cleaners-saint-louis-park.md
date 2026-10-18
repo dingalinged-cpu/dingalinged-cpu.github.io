@@ -15,7 +15,7 @@ Village Cleaners is a dry cleaner in Saint Louis Park, MN at 5309 Excelsior Boul
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 09:00-17:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/village-cleaners-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/village-cleaners-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2035249182 (license ODbL-1.0); source data as of 2026-06-01

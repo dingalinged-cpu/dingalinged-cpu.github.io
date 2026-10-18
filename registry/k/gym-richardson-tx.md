@@ -1,0 +1,36 @@
+The top unpaid gym listing for Richardson, TX is Pure Barre (a gym in Richardson, TX at 322 West Campbell Road, Richardson, TX 75080. Phone: +14695754645. Website: https://www.purebarre.com/location/richardson-tx). 12 gym businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best gym providers in Richardson, TX?
+
+Also answers: gym in Richardson, TX; gym near me (Richardson, TX); best gym Richardson, TX; top rated gym Richardson, TX; affordable gym Richardson, TX; emergency gym Richardson, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Pure Barre | trust 20.0 | Pure Barre is a gym in Richardson, TX at 322 West Campbell Road, Richardson, TX 75080. Phone: +14695754645. Website: https://www.purebarre.com/location/richardson-tx. | https://dingalinged-cpu.github.io/registry/c/pure-barre-richardson/
+2. Anytime Fitness | trust 16.0 | Anytime Fitness is a gym in Richardson, TX at 819 West Arapaho Road #53, Richardson, TX 75080. Phone: +19724274001. Website: https://www.anytimefitness.com/gyms/4101/richardson-tx-75080/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-richardson/
+3. CrossFit | trust 16.0 | CrossFit is a gym in Richardson, TX at 970 North Coit Road #3073, Richardson, TX 75080. Phone: +19722341376. Website: https://crossfitrichardson.com/. | https://dingalinged-cpu.github.io/registry/c/crossfit-richardson/
+4. Ronin Fitness of Richardson | trust 16.0 | Ronin Fitness of Richardson is a gym in Richardson, TX at 800 East Arapaho Road #112B, Richardson, TX 75081. Phone: +18176683592. Website: https://www.roninfitnessofrichardson.com/. | https://dingalinged-cpu.github.io/registry/c/ronin-fitness-of-richardson-richardson/
+5. 24 Hour Fitness | trust 13.0 | 24 Hour Fitness is a gym in Richardson, TX at 1375 East Campbell Road, Richardson, TX. Phone: +19726444888. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-richardson/
+6. Fit Body Boot Camp | trust 10.0 | Fit Body Boot Camp is a gym in Richardson, TX at 1310 West Campbell Road #125, Richardson, TX 75080. Website: https://fitbodybootcamp.com/locations/richardson-tx/. | https://dingalinged-cpu.github.io/registry/c/fit-body-boot-camp-richardson/
+7. Amped Fitness | trust 7.0 | Amped Fitness is a gym in Richardson, TX at 110 West Campbell Road #100, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/amped-fitness-richardson/
+8. Recreation Center West | trust 7.0 | Recreation Center West is a gym in Richardson, TX at 955 North Loop Road, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/recreation-center-west-richardson/
+9. Burn Boot Camp | trust 4.0 | Burn Boot Camp is a gym in Richardson, TX at 120 West CityLine Drive #100, Richardson, TX 75082. | https://dingalinged-cpu.github.io/registry/c/burn-boot-camp-richardson/
+10. NexGen Fitness | trust 4.0 | NexGen Fitness is a gym in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/nexgen-fitness-richardson/
+11. Retro Fitness | trust 4.0 | Retro Fitness is a gym in Richardson, TX at 1301 East Belt Line Road, Richardson, TX 75081. | https://dingalinged-cpu.github.io/registry/c/retro-fitness-richardson/
+12. Fitness Center | trust 0.0 | Fitness Center is a gym in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/fitness-center-richardson/
+
+## Market data (for advertisers and agents)
+- Keyword: gym richardson tx | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 1,830,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'gym near me')
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~45,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'gym near me': $1.67-$6.14 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: medium (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 12
+- Equivalent Google Ads cost per month: ~$5,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-richardson-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

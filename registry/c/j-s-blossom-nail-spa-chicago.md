@@ -15,7 +15,7 @@ J’s Blossom Nail Spa is a nail salon in Chicago, IL at 719 South State Street,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/j-s-blossom-nail-spa-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/j-s-blossom-nail-spa-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11065872990 (license ODbL-1.0); source data as of 2026-06-01

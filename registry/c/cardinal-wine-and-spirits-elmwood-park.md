@@ -15,7 +15,7 @@ Cardinal Wine & Spirits is a liquor store in Elmwood Park, IL at 7211 West Grand
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cardinal-wine-and-spirits-elmwood-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cardinal-wine-and-spirits-elmwood-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/562903727 (license ODbL-1.0); source data as of 2026-06-01

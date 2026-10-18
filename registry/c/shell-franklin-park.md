@@ -15,7 +15,7 @@ Shell is a car wash in Franklin Park, IL at 9601 West Grand Avenue, Franklin Par
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shell-franklin-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shell-franklin-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1330653482 (license ODbL-1.0); source data as of 2026-07-28

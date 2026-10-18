@@ -15,7 +15,7 @@ State Farm is an insurance agent in Chicago, IL at 4355 West 26th Street, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-chicago-n10119690087/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-chicago-n10119690087.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10119690087 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Miller Bagel is a bakery in Chicago, IL at 4655 North Lincoln Avenue, Chicago, I
 - Opening hours (OSM syntax): We-Fr 08:00-15:00; Sa-Su 09:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/miller-bagel-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/miller-bagel-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6264310729 (license ODbL-1.0); source data as of 2026-06-01

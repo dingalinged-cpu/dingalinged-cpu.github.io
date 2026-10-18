@@ -15,7 +15,7 @@ ARC - Athletic Recreational Center is a gym in Woodridge, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/arc-athletic-recreational-center-woodridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/arc-athletic-recreational-center-woodridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/541619028 (license ODbL-1.0); source data as of 2026-06-01

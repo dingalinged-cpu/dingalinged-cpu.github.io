@@ -1,0 +1,200 @@
+{
+ "place": "Heath, TX",
+ "slug": "heath-tx",
+ "count": 5,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney heath tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-heath-tx.json"
+  },
+  {
+   "keyword": "lawyer heath tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-heath-tx.json"
+  },
+  {
+   "keyword": "plumber heath tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumber-heath-tx.json"
+  },
+  {
+   "keyword": "plumbers heath tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbers-heath-tx.json"
+  },
+  {
+   "keyword": "plumbing services heath tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbing-services-heath-tx.json"
+  },
+  {
+   "keyword": "preschool heath tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-heath-tx.json"
+  },
+  {
+   "keyword": "real estate agent heath tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-heath-tx.json"
+  },
+  {
+   "keyword": "realtor heath tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-heath-tx.json"
+  },
+  {
+   "keyword": "vet heath tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-heath-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "heath-golf-and-yacht-club-by-direct-residential-communities-heath",
+   "name": "Heath Golf and Yacht Club by Direct Residential Communities",
+   "summary": "Heath Golf and Yacht Club by Direct Residential Communities is a real estate agency in Heath, TX at 1602 Governors Boulevard, Heath, TX 75126. Phone: +14694891160. Website: https://www.directresidentialcommunities.com/new-homes/heath/heath-golf-and-yacht-club/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heath-golf-and-yacht-club-by-direct-residential-communities-heath/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heath-golf-and-yacht-club-by-direct-residential-communities-heath.json",
+   "address": {
+    "streetAddress": "1602 Governors Boulevard",
+    "addressLocality": "Heath",
+    "addressRegion": "TX",
+    "postalCode": "75126",
+    "addressCountry": "US"
+   },
+   "city": "Heath",
+   "state": "TX",
+   "zip": "75126",
+   "geo": {
+    "lat": 32.8131889,
+    "lon": -96.48256
+   },
+   "phone": "+14694891160",
+   "website": "https://www.directresidentialcommunities.com/new-homes/heath/heath-golf-and-yacht-club/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13069724072",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "horizon-lighthouse-private-school-and-childcare-center-heath",
+   "name": "Horizon Lighthouse Private School and Childcare Center",
+   "summary": "Horizon Lighthouse Private School and Childcare Center is a preschool in Heath, TX at 5600 Horizon Road, Heath, TX 75032. Phone: +19722959241. Website: https://lighthouse-school.com/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/horizon-lighthouse-private-school-and-childcare-center-heath/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/horizon-lighthouse-private-school-and-childcare-center-heath.json",
+   "address": {
+    "streetAddress": "5600 Horizon Road",
+    "addressLocality": "Heath",
+    "addressRegion": "TX",
+    "postalCode": "75032",
+    "addressCountry": "US"
+   },
+   "city": "Heath",
+   "state": "TX",
+   "zip": "75032",
+   "geo": {
+    "lat": 32.8758741,
+    "lon": -96.4535562
+   },
+   "phone": "+19722959241",
+   "website": "https://lighthouse-school.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1500772787",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "larman-law-pllc-rockwall",
+   "name": "Larman Law, PLLC",
+   "summary": "Larman Law, PLLC is a lawyer in Rockwall, TX at 1629 Smirl Drive, Rockwall, TX 75032. Website: https://www.larmanlaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/larman-law-pllc-rockwall/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/larman-law-pllc-rockwall.json",
+   "address": {
+    "streetAddress": "1629 Smirl Drive",
+    "addressLocality": "Rockwall",
+    "addressRegion": "TX",
+    "postalCode": "75032",
+    "addressCountry": "US"
+   },
+   "city": "Rockwall",
+   "state": "TX",
+   "zip": "75032",
+   "geo": {
+    "lat": 32.8608311,
+    "lon": -96.4722527
+   },
+   "website": "https://www.larmanlaw.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13031960314",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "precision-plumbing-ntx-heath",
+   "name": "Precision Plumbing NTX",
+   "summary": "Precision Plumbing NTX is a plumber in Heath, TX. Phone: +14699709470.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/precision-plumbing-ntx-heath/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/precision-plumbing-ntx-heath.json",
+   "address": {
+    "addressLocality": "Heath",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Heath",
+   "state": "TX",
+   "geo": {
+    "lat": 32.840568,
+    "lon": -96.4723093
+   },
+   "phone": "+14699709470",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12042691054",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "animal-hospital-of-heath-heath",
+   "name": "Animal Hospital of Heath",
+   "summary": "Animal Hospital of Heath is a veterinarian in Heath, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-hospital-of-heath-heath/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-hospital-of-heath-heath.json",
+   "address": {
+    "addressLocality": "Heath",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Heath",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8381183,
+    "lon": -96.4739414
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2414049124",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

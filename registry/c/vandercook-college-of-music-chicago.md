@@ -15,7 +15,7 @@ Vandercook College Of Music is a music school in Chicago, IL at 3140 South Feder
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vandercook-college-of-music-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vandercook-college-of-music-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/157657574 (license ODbL-1.0); source data as of 2026-07-28

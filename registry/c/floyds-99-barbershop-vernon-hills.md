@@ -15,7 +15,7 @@ Floyd's 99 Barbershop is a hair salon in Vernon Hills, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-vernon-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/floyds-99-barbershop-vernon-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9934672840 (license ODbL-1.0); source data as of 2026-06-01

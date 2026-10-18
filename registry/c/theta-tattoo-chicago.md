@@ -15,7 +15,7 @@ Theta Tattoo is a tattoo shop in Chicago, IL at 1626 West Morse Avenue, Chicago,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/theta-tattoo-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/theta-tattoo-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12874172397 (license ODbL-1.0); source data as of 2026-06-01

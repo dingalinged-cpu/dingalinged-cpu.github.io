@@ -15,7 +15,7 @@ Voyager - Roofing | Siding | Decks is a roofer in Centerville, MN at 2016 Gatewa
 - Opening hours (OSM syntax): Мo-Тh 08:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/voyager-roofing-siding-decks-centerville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/voyager-roofing-siding-decks-centerville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11740925105 (license ODbL-1.0); source data as of 2026-07-24

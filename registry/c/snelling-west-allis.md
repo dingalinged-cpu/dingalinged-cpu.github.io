@@ -1,0 +1,23 @@
+Snelling is a staffing agency in West Allis, WI at 7447 West Greenfield Avenue, West Allis, WI 53214. Phone: +14148103738. Website: https://milwaukee.snelling.com/.
+
+# Snelling
+
+- Category: staffing agency
+- Services: staffing agency
+- Address: 7447 West Greenfield Avenue, West Allis, WI 53214
+- City: West Allis
+- State: WI
+- ZIP: 53214
+- Coordinates: 43.0165212, -88.005685
+- Phone: +14148103738
+- Website: https://milwaukee.snelling.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/snelling-west-allis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/snelling-west-allis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10607143628 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

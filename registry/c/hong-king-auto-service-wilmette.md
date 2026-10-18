@@ -15,7 +15,7 @@ Hong King Auto Service is an auto repair shop in Wilmette, IL at 3500 Lake Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hong-king-auto-service-wilmette/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hong-king-auto-service-wilmette.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1112572010 (license ODbL-1.0); source data as of 2026-06-01

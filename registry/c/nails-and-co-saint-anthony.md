@@ -15,7 +15,7 @@ Nails & Co is a nail salon in Saint Anthony, MN at 2906 Pentagon Drive, Saint An
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nails-and-co-saint-anthony/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nails-and-co-saint-anthony.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13138450083 (license ODbL-1.0); source data as of 2026-06-01

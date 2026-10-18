@@ -15,7 +15,7 @@ Barrington Animal Hospital is a veterinarian in Barrington, IL at 216 South Nort
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/barrington-animal-hospital-barrington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/barrington-animal-hospital-barrington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4449933674 (license ODbL-1.0); source data as of 2026-07-28

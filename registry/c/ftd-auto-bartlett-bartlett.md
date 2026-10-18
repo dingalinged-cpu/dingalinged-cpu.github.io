@@ -15,7 +15,7 @@ FTD Auto - Bartlett is an auto repair shop in Bartlett, IL at 213 East Lake Stre
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00, Sa-Su 08:00–16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ftd-auto-bartlett-bartlett/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ftd-auto-bartlett-bartlett.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13534773916 (license ODbL-1.0); source data as of 2026-06-01

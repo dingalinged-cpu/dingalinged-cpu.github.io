@@ -15,7 +15,7 @@ Echo Integrated Mental Health is a therapy practice in Minneapolis, MN at 1523 W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/echo-integrated-mental-health-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/echo-integrated-mental-health-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6450215756 (license ODbL-1.0); source data as of 2026-07-24

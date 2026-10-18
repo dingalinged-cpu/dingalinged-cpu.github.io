@@ -15,7 +15,7 @@ North Pulaski Fresh Market is a bakery in Chicago, IL at 3850 West North Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/north-pulaski-fresh-market-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-pulaski-fresh-market-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6323210819 (license ODbL-1.0); source data as of 2026-06-01

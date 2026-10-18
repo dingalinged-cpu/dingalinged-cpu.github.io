@@ -15,7 +15,7 @@ River Village Dental is a dentist in Chicago, IL. Phone: +13123007385. Website: 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/river-village-dental-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/river-village-dental-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13571650889 (license ODbL-1.0); source data as of 2026-07-28

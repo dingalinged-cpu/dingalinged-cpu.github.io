@@ -15,7 +15,7 @@ Damage Control Auto Body is an auto repair shop in McCook, IL at 8809 Joliet Roa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/damage-control-auto-body-mccook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/damage-control-auto-body-mccook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/181986845 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Lincoln Primary School is a preschool in Bellwood, IL at 3519 Wilcox Street, Bel
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lincoln-primary-school-bellwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lincoln-primary-school-bellwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/738342411 (license ODbL-1.0); source data as of 2026-07-28

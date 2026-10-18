@@ -15,7 +15,7 @@ Strippers is a furniture store in Saint Paul, MN at 1698 Selby Avenue, Saint Pau
 - Opening hours (OSM syntax): Mo-Fr 09:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/strippers-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/strippers-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8097533023 (license ODbL-1.0); source data as of 2026-06-01

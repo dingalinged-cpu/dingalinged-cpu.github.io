@@ -15,7 +15,7 @@ KNOCK, inc. is a marketing agency in Minneapolis, MN at 1307 Glenwood Avenue, Mi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/knock-inc-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/knock-inc-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/relation/13272676 (license ODbL-1.0); source data as of 2026-05-31

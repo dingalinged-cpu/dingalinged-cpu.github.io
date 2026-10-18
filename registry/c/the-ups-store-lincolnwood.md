@@ -15,7 +15,7 @@ The UPS Store is a printing service in Lincolnwood, IL at 3926 West Touhy Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-lincolnwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-lincolnwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1347455048 (license ODbL-1.0); source data as of 2026-06-01

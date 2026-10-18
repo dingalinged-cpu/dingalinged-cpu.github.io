@@ -15,7 +15,7 @@ New York Bagles and Bialy is a bakery in Skokie, IL at 3556 Dempster Street, Sko
 - Opening hours (OSM syntax): Mo-Su 06:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-york-bagles-and-bialy-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-york-bagles-and-bialy-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/414595506 (license ODbL-1.0); source data as of 2026-06-01

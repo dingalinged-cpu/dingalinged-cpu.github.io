@@ -15,7 +15,7 @@ Mindy’s Hot Chocolate Bakery is a bakery in Chicago, IL at 25 South Clark Stre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mindy-s-hot-chocolate-bakery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mindy-s-hot-chocolate-bakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6322634588 (license ODbL-1.0); source data as of 2026-06-01

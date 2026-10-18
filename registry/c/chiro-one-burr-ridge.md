@@ -15,7 +15,7 @@ Chiro One is a chiropractor in Burr Ridge, IL. Website: https://www.chiroone.com
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chiro-one-burr-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chiro-one-burr-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10837806897 (license ODbL-1.0); source data as of 2026-07-28

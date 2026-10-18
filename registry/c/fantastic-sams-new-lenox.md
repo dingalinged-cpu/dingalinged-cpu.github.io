@@ -15,7 +15,7 @@ Fantastic Sams is a hair salon in New Lenox, IL at 280 East Lincoln Highway, New
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fantastic-sams-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fantastic-sams-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9195012202 (license ODbL-1.0); source data as of 2026-06-01

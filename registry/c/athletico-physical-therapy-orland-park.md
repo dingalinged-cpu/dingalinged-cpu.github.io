@@ -15,7 +15,7 @@ Athletico Physical Therapy is a physical therapy clinic in Orland Park, IL at 14
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12363237715 (license ODbL-1.0); source data as of 2026-07-28

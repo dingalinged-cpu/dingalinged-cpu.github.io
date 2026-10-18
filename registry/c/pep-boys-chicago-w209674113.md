@@ -15,7 +15,7 @@ Pep Boys is an auto repair shop in Chicago, IL at 5959 South Western Avenue, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pep-boys-chicago-w209674113/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-chicago-w209674113.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209674113 (license ODbL-1.0); source data as of 2026-06-01

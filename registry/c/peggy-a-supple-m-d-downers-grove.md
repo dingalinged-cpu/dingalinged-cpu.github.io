@@ -15,7 +15,7 @@ Peggy A Supple, M.D. is a physical therapy clinic in Downers Grove, IL at 3800 H
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/peggy-a-supple-m-d-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/peggy-a-supple-m-d-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6487644195 (license ODbL-1.0); source data as of 2026-07-28

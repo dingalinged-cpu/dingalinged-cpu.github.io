@@ -15,7 +15,7 @@ The Prop Shop is a thrift store in Eden Prairie, MN at 15195 Martin Drive, Eden 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-prop-shop-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-prop-shop-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/43411662 (license ODbL-1.0); source data as of 2026-06-01

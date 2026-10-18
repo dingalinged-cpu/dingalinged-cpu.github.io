@@ -1,0 +1,23 @@
+Loyal Dog Marketing is a marketing agency in Milwaukee, WI. Website: https://loyaldogmarketing.com/.
+
+# Loyal Dog Marketing
+
+- Category: marketing agency
+- Services: marketing agency
+- Address: Milwaukee, WI
+- City: Milwaukee
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.0331416, -87.9096542
+- Phone: n/a
+- Website: https://loyaldogmarketing.com/
+- Email: service@loyaldogmarketing.com
+- Opening hours (OSM syntax): Mo-Tu,Th-Fr 09:00-17:00; We 09:00-17:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/loyal-dog-marketing-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/loyal-dog-marketing-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5309819843 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

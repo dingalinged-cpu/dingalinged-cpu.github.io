@@ -15,7 +15,7 @@ Brite Tailoring Dry Cleaners is a dry cleaner in Chicago, IL at 28 West Superior
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brite-tailoring-dry-cleaners-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brite-tailoring-dry-cleaners-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9768603652 (license ODbL-1.0); source data as of 2026-06-01

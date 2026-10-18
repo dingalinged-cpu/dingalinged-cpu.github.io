@@ -15,7 +15,7 @@ KinderCare is a preschool in Lisle, IL at 6420 College Road, Lisle, IL 60532. Ph
 - Opening hours (OSM syntax): Mo-Fr 6:15-18:15
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kindercare-lisle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kindercare-lisle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/188865440 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Wyspa Dzieci is a daycare in River Grove, IL at 8383 West Belmont Avenue, River 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wyspa-dzieci-river-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wyspa-dzieci-river-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/96328810 (license ODbL-1.0); source data as of 2026-07-28

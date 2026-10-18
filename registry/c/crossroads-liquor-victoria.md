@@ -15,7 +15,7 @@ Crossroads Liquor is a liquor store in Victoria, MN at 7999 Victoria Drive, Vict
 - Opening hours (OSM syntax): Mo-Sa 09:00-22:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crossroads-liquor-victoria/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crossroads-liquor-victoria.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/421207120 (license ODbL-1.0); source data as of 2026-06-01

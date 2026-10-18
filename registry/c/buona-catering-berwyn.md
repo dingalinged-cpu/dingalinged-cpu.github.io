@@ -15,7 +15,7 @@ Buona Catering is a caterer in Berwyn, IL at 6833 West Roosevelt Road, Berwyn, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/buona-catering-berwyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/buona-catering-berwyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4719483215 (license ODbL-1.0); source data as of 2026-06-01

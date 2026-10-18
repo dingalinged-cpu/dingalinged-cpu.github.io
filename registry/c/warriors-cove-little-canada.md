@@ -15,7 +15,7 @@ Warrior's Cove is a martial arts school in Little Canada, MN at 2900 Rice Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/warriors-cove-little-canada/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/warriors-cove-little-canada.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12162295201 (license ODbL-1.0); source data as of 2026-07-24

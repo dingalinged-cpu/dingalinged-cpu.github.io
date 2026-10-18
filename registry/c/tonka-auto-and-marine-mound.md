@@ -15,7 +15,7 @@ Tonka Auto and Marine is an auto repair shop in Mound, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tonka-auto-and-marine-mound/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tonka-auto-and-marine-mound.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1241992766 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Servicio Martinez is an auto repair shop in Chicago, IL at 3619 West Armitage Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/servicio-martinez-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/servicio-martinez-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163886497 (license ODbL-1.0); source data as of 2026-06-01

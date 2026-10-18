@@ -15,7 +15,7 @@ LA Fitness is a gym in Chicago, IL at 4677 North Elston Avenue, Chicago, IL 6063
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-chicago-w162462748/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-chicago-w162462748.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162462748 (license ODbL-1.0); source data as of 2026-06-01

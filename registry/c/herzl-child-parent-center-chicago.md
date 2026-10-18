@@ -15,7 +15,7 @@ Herzl Child-Parent Center is a preschool in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/herzl-child-parent-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/herzl-child-parent-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/354246549 (license ODbL-1.0); source data as of 2026-07-28

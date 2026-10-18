@@ -15,7 +15,7 @@ Richfield Liquor - Shops at Lyndale is a liquor store in Richfield, MN at 7700 L
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/richfield-liquor-shops-at-lyndale-richfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/richfield-liquor-shops-at-lyndale-richfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/99446873 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ B&B Auto Repair Inc. is an auto repair shop in Schaumburg, IL at 1110 Lunt Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/b-and-b-auto-repair-inc-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/b-and-b-auto-repair-inc-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/489641648 (license ODbL-1.0); source data as of 2026-06-01

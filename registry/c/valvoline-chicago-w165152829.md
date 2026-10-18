@@ -15,7 +15,7 @@ Valvoline is an auto repair shop in Chicago, IL at 3808 South Western Avenue, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/valvoline-chicago-w165152829/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/valvoline-chicago-w165152829.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/165152829 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Barber Shop is a barber shop in Burnsville, MN at 2520, Burnsville, MN. Phone: +
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/barber-shop-burnsville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/barber-shop-burnsville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12801289389 (license ODbL-1.0); source data as of 2026-06-01

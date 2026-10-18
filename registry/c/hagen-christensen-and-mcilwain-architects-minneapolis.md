@@ -15,7 +15,7 @@ Hagen, Christensen & McIlwain Architects is an architect in Minneapolis, MN at 4
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hagen-christensen-and-mcilwain-architects-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hagen-christensen-and-mcilwain-architects-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/499158987 (license ODbL-1.0); source data as of 2026-05-31

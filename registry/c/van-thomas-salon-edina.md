@@ -15,7 +15,7 @@ Van Thomas Salon is a hair salon in Edina, MN. Website: https://www.vanthomassal
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/van-thomas-salon-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/van-thomas-salon-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12142678240 (license ODbL-1.0); source data as of 2026-06-01

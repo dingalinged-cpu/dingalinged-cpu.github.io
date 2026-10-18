@@ -15,7 +15,7 @@ Early Childhood Center is a daycare in Elmwood Park, IL at 4 Conti Parkway, Elmw
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/early-childhood-center-elmwood-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/early-childhood-center-elmwood-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/424248302 (license ODbL-1.0); source data as of 2026-07-28

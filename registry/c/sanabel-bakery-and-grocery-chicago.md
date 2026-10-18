@@ -15,7 +15,7 @@ Sanabel Bakery & Grocery is a bakery in Chicago, IL at 4213 North Kedzie Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sanabel-bakery-and-grocery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sanabel-bakery-and-grocery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163945916 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ GEICO is an insurance agent in Niles, IL at 7111 West Dempster Street, Niles, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/geico-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/geico-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13148126312 (license ODbL-1.0); source data as of 2026-07-28

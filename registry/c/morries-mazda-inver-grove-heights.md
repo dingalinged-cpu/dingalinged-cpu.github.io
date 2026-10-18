@@ -15,7 +15,7 @@ Morries Mazda is an used car dealer in Inver Grove Heights, MN at 10 Mendota Roa
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00, Sa 08:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/morries-mazda-inver-grove-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/morries-mazda-inver-grove-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/527085044 (license ODbL-1.0); source data as of 2026-06-01

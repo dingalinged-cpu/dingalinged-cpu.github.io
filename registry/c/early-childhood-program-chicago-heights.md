@@ -15,7 +15,7 @@ Early Childhood Program is a preschool in Chicago Heights, IL at 828 Willow Driv
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/early-childhood-program-chicago-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/early-childhood-program-chicago-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1189568270 (license ODbL-1.0); source data as of 2026-07-28

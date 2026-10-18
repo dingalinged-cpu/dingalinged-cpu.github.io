@@ -15,7 +15,7 @@ AAMCO is an auto repair shop in Cicero, IL at 2001 South Cicero Avenue, Cicero, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/aamco-cicero/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/aamco-cicero.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1002488569 (license ODbL-1.0); source data as of 2026-06-01

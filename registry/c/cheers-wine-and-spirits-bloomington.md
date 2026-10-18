@@ -15,7 +15,7 @@ Cheers Wine and Spirits is a liquor store in Bloomington, MN at 9340 Ensign Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cheers-wine-and-spirits-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cheers-wine-and-spirits-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1188081607 (license ODbL-1.0); source data as of 2026-06-01

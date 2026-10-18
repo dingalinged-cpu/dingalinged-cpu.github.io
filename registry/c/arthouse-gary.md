@@ -15,7 +15,7 @@ ArtHouse is an event venue in Gary, IN at 401-27, Gary, IN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/arthouse-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/arthouse-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/202820481 (license ODbL-1.0); source data as of 2026-07-28

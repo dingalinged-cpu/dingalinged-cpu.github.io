@@ -1,0 +1,23 @@
+Jared is a jewelry store in Brookfield, WI.
+
+# Jared
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: Brookfield, WI
+- City: Brookfield
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.0366046, -88.1125127
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jared-brookfield/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jared-brookfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7450941913 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

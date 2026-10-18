@@ -15,7 +15,7 @@ The Salvation Army is a thrift store in Chicago, IL at 2270 North Clybourn Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-w28100638/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-chicago-w28100638.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/28100638 (license ODbL-1.0); source data as of 2026-06-01

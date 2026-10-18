@@ -15,7 +15,7 @@ Theisen & Roche, Ltd. is a lawyer in Wheaton, IL at 2100 Manchester Road #201, W
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/theisen-and-roche-ltd-wheaton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/theisen-and-roche-ltd-wheaton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5159477731 (license ODbL-1.0); source data as of 2026-07-28

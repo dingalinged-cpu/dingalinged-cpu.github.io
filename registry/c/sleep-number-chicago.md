@@ -15,7 +15,7 @@ Sleep Number is a mattress store in Chicago, IL.
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr,Sa 10:00-20:00; Su 11:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sleep-number-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10559947559 (license ODbL-1.0); source data as of 2026-06-01

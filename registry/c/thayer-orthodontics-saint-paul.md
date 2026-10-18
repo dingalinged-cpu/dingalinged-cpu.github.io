@@ -15,7 +15,7 @@ Thayer Orthodontics is a dentist in Saint Paul, MN at 1050 Larpenteur Avenue Wes
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/thayer-orthodontics-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/thayer-orthodontics-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7147762888 (license ODbL-1.0); source data as of 2026-07-24

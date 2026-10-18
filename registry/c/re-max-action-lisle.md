@@ -15,7 +15,7 @@ RE/MAX Action is a real estate agency in Lisle, IL at 1550 Maple Avenue #A, Lisl
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/re-max-action-lisle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/re-max-action-lisle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1422963996 (license ODbL-1.0); source data as of 2026-07-28

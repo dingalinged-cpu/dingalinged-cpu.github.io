@@ -15,7 +15,7 @@ Vitality Inc is a gym in Wauconda, IL. Phone: +18477224376. Website: https://vit
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vitality-inc-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vitality-inc-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9664740995 (license ODbL-1.0); source data as of 2026-06-01

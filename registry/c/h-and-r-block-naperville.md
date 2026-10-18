@@ -15,7 +15,7 @@ H&R Block is a tax preparation service in Naperville, IL at 1567 North Aurora Ro
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00, Sa 09:00-17:00, Su 12:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/h-and-r-block-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8462909489 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+ATI Physical Therapy is a physical therapy clinic in Mount Pleasant, WI.
+
+# ATI Physical Therapy
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: Mount Pleasant, WI
+- City: Mount Pleasant
+- State: WI
+- ZIP: n/a
+- Coordinates: 42.7196646, -87.8462364
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-mount-pleasant/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-mount-pleasant.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3782335462 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

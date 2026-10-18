@@ -15,7 +15,7 @@ Acorns Goodyear is an auto repair shop in Chicago, IL at 6200 North Lincoln Aven
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/acorns-goodyear-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/acorns-goodyear-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/165036528 (license ODbL-1.0); source data as of 2026-06-01

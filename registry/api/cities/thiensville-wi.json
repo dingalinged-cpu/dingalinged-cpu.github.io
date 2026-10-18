@@ -1,0 +1,122 @@
+{
+ "place": "Thiensville, WI",
+ "slug": "thiensville-wi",
+ "count": 3,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "dentist thiensville wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-thiensville-wi.json"
+  },
+  {
+   "keyword": "financial advisor thiensville wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-thiensville-wi.json"
+  },
+  {
+   "keyword": "vet thiensville wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-thiensville-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "edward-jones-thiensville",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Thiensville, WI at 108 East Freistadt Road, Thiensville, WI 53092. Phone: +12622422830. Website: https://www.edwardjones.com/us-en/financial-advisor/michael-lefko.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-thiensville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-thiensville.json",
+   "address": {
+    "streetAddress": "108 East Freistadt Road",
+    "addressLocality": "Thiensville",
+    "addressRegion": "WI",
+    "postalCode": "53092",
+    "addressCountry": "US"
+   },
+   "city": "Thiensville",
+   "state": "WI",
+   "zip": "53092",
+   "geo": {
+    "lat": 43.2364537,
+    "lon": -87.9831929
+   },
+   "phone": "+12622422830",
+   "website": "https://www.edwardjones.com/us-en/financial-advisor/michael-lefko",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11563290509",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lux-dental-thiensville",
+   "name": "Lux Dental",
+   "summary": "Lux Dental is a dentist in Thiensville, WI at 108 East Freistadt Road, Thiensville, WI 53092. Phone: +12622057115. Website: https://www.luxdentalwi.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lux-dental-thiensville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lux-dental-thiensville.json",
+   "address": {
+    "streetAddress": "108 East Freistadt Road",
+    "addressLocality": "Thiensville",
+    "addressRegion": "WI",
+    "postalCode": "53092",
+    "addressCountry": "US"
+   },
+   "city": "Thiensville",
+   "state": "WI",
+   "zip": "53092",
+   "geo": {
+    "lat": 43.2364423,
+    "lon": -87.9830542
+   },
+   "phone": "+12622057115",
+   "website": "https://www.luxdentalwi.com/",
+   "opening_hours": "Mo 08:00-18:00; Tu 09:00-17:00; We-Th 08:00-16:00; Fr-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11563290510",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "thiensville-mequon-small-animal-clinic-thiensville",
+   "name": "Thiensville-Mequon Small Animal Clinic",
+   "summary": "Thiensville-Mequon Small Animal Clinic is a veterinarian in Thiensville, WI at 425 Main Street, Thiensville, WI 53092.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thiensville-mequon-small-animal-clinic-thiensville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thiensville-mequon-small-animal-clinic-thiensville.json",
+   "address": {
+    "streetAddress": "425 Main Street",
+    "addressLocality": "Thiensville",
+    "addressRegion": "WI",
+    "postalCode": "53092",
+    "addressCountry": "US"
+   },
+   "city": "Thiensville",
+   "state": "WI",
+   "zip": "53092",
+   "geo": {
+    "lat": 43.2396327,
+    "lon": -87.9859619
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4554615009",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

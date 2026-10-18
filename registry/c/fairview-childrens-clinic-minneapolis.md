@@ -15,7 +15,7 @@ Fairview Children's Clinic is a pediatrician in Minneapolis, MN at 2535 Southeas
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fairview-childrens-clinic-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fairview-childrens-clinic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4279240354 (license ODbL-1.0); source data as of 2026-07-24

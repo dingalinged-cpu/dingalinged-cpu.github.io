@@ -15,7 +15,7 @@ Maple Grove Floral is a florist in Maple Grove, MN at 13708 83rd Way North, Mapl
 - Opening hours (OSM syntax): Mo 15:30-19:00;Tu-Th 09:30-12:30,15:30-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/maple-grove-floral-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/maple-grove-floral-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/607496666 (license ODbL-1.0); source data as of 2026-06-01

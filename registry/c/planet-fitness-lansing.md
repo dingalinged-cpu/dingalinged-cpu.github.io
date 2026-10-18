@@ -15,7 +15,7 @@ Planet Fitness is a gym in Lansing, IL at 17675 Torrence Avenue, Lansing, IL 604
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-lansing/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-lansing.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9447050412 (license ODbL-1.0); source data as of 2026-06-01

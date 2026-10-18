@@ -15,7 +15,7 @@ Simkins Funeral Home is a funeral home in Morton Grove, IL at 6251 West Dempster
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/simkins-funeral-home-morton-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/simkins-funeral-home-morton-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/668180681 (license ODbL-1.0); source data as of 2026-06-01

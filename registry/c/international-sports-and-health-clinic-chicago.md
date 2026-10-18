@@ -15,7 +15,7 @@ International Sports & Health Clinic is a chiropractor in Chicago, IL at 3738 No
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/international-sports-and-health-clinic-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/international-sports-and-health-clinic-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11205367036 (license ODbL-1.0); source data as of 2026-07-28

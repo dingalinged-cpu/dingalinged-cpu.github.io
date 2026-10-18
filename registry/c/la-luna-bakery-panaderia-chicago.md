@@ -15,7 +15,7 @@ La Luna Bakery Panaderia is a bakery in Chicago, IL at 5019 West Fullerton Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-luna-bakery-panaderia-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-luna-bakery-panaderia-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6320089757 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Smile Solutions is a dentist in Richmond, TX at 7963 West Grand Parkway South, Richmond, TX 77407. Website: https://smilesolutionsrichmond.com/.
+
+# Smile Solutions
+
+- Category: dentist
+- Services: dentist
+- Address: 7963 West Grand Parkway South, Richmond, TX 77407
+- City: Richmond
+- State: TX
+- ZIP: 77407
+- Coordinates: 29.6630485, -95.7406793
+- Phone: n/a
+- Website: https://smilesolutionsrichmond.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/smile-solutions-richmond/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/smile-solutions-richmond.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13372193843 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

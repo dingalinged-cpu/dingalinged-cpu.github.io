@@ -15,7 +15,7 @@ Lauterbach & Amen is an accountant in Naperville, IL at 668 North River Road, Na
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lauterbach-and-amen-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lauterbach-and-amen-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9046514670 (license ODbL-1.0); source data as of 2026-07-28

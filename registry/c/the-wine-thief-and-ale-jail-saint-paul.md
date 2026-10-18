@@ -15,7 +15,7 @@ The Wine Thief & Ale Jail is a liquor store in Saint Paul, MN at 1787 Saint Clai
 - Opening hours (OSM syntax): Mo-Th 11:00-20:00; Fr 11:00-21:00; Sa 10:00-21:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-wine-thief-and-ale-jail-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-wine-thief-and-ale-jail-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/598032030 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+K & Co. is a hair salon in Rockwall, TX at 306 East Washington Street #A, Rockwall, TX 75087. Phone: +14697691169. Website: https://www.kandcohair.com/.
+
+# K & Co.
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 306 East Washington Street #A, Rockwall, TX 75087
+- City: Rockwall
+- State: TX
+- ZIP: 75087
+- Coordinates: 32.9301494, -96.4580585
+- Phone: +14697691169
+- Website: https://www.kandcohair.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/k-and-co-rockwall/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/k-and-co-rockwall.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13811078637 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

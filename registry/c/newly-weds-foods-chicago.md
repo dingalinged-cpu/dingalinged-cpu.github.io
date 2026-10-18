@@ -15,7 +15,7 @@ Newly Weds Foods is a bakery in Chicago, IL at 2501 North Keeler Avenue, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/newly-weds-foods-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/newly-weds-foods-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6323094506 (license ODbL-1.0); source data as of 2026-06-01

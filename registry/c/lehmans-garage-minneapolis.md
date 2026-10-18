@@ -15,7 +15,7 @@ Lehman's Garage is an auto repair shop in Minneapolis, MN at 5431 Lyndale Avenue
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lehmans-garage-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lehmans-garage-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/83576294 (license ODbL-1.0); source data as of 2026-06-01

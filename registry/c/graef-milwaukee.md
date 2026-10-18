@@ -1,0 +1,23 @@
+GRAEF is an architect in Milwaukee, WI at 275 West Wisconsin Avenue #300, Milwaukee, WI 53203. Phone: +14142591500. Website: https://graef-usa.com/milwaukee/.
+
+# GRAEF
+
+- Category: architect
+- Services: architect
+- Address: 275 West Wisconsin Avenue #300, Milwaukee, WI 53203
+- City: Milwaukee
+- State: WI
+- ZIP: 53203
+- Coordinates: 43.0383611, -87.9146169
+- Phone: +14142591500
+- Website: https://graef-usa.com/milwaukee/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/graef-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/graef-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7114814364 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

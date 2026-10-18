@@ -15,7 +15,7 @@ Como Park Animal Hospital is a veterinarian in Roseville, MN at 621 Larpenteur A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/como-park-animal-hospital-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/como-park-animal-hospital-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12475233201 (license ODbL-1.0); source data as of 2026-07-24

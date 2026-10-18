@@ -15,7 +15,7 @@ Flatts and Sharpe Music Co. is a music school in Chicago, IL at 6139 North North
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/flatts-and-sharpe-music-co-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/flatts-and-sharpe-music-co-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163331373 (license ODbL-1.0); source data as of 2026-07-28

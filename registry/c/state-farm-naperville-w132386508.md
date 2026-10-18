@@ -15,7 +15,7 @@ State Farm is an insurance agent in Naperville, IL at 526 North Washington Stree
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-naperville-w132386508/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-naperville-w132386508.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/132386508 (license ODbL-1.0); source data as of 2026-07-28

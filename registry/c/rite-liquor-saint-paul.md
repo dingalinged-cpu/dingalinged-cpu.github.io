@@ -15,7 +15,7 @@ Rite Liquor is a liquor store in Saint Paul, MN at 645 Snelling Avenue South, Sa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rite-liquor-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rite-liquor-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1411811128 (license ODbL-1.0); source data as of 2026-06-01

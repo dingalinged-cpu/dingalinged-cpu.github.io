@@ -15,7 +15,7 @@ Nokomis Service is an auto repair shop in Minneapolis, MN at 2810 East 50th Stre
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nokomis-service-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nokomis-service-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/494795721 (license ODbL-1.0); source data as of 2026-06-01

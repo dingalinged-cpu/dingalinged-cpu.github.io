@@ -1,0 +1,23 @@
+Excel Pediatric Therapy is a pediatrician in Rockwall, TX at 789 Justin Road, Rockwall, TX 75087.
+
+# Excel Pediatric Therapy
+
+- Category: pediatrician
+- Services: pediatrician
+- Address: 789 Justin Road, Rockwall, TX 75087
+- City: Rockwall
+- State: TX
+- ZIP: 75087
+- Coordinates: 32.9181875, -96.4528919
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/excel-pediatric-therapy-rockwall/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/excel-pediatric-therapy-rockwall.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12214473472 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

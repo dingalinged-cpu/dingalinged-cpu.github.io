@@ -15,7 +15,7 @@ Cell Phone Repair is a phone repair shop in New Lenox, IL at 1820 East Lincoln H
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cell-phone-repair-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9195011862 (license ODbL-1.0); source data as of 2026-06-01

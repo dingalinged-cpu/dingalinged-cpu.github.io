@@ -15,7 +15,7 @@ Glass Specialists LLC is a window repair service in Brooklyn Center, MN at 6660 
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/glass-specialists-llc-brooklyn-center/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/glass-specialists-llc-brooklyn-center.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13930837443 (license ODbL-1.0); source data as of 2026-07-24

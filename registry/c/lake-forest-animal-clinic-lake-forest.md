@@ -15,7 +15,7 @@ Lake Forest Animal Clinic is a veterinarian in Lake Forest, IL at 1391 North Wes
 - Opening hours (OSM syntax): Mo-Sa 08:30-12:00; Mo-Fr 13:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lake-forest-animal-clinic-lake-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lake-forest-animal-clinic-lake-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7687945043 (license ODbL-1.0); source data as of 2026-07-28

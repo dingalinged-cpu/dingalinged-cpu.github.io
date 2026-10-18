@@ -1,0 +1,23 @@
+Christian Brothers Automotive Spring is an auto repair shop in Spring, TX at 2655 Rayford Road, Spring, TX 77386. Phone: +12815281861.
+
+# Christian Brothers Automotive Spring
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 2655 Rayford Road, Spring, TX 77386
+- City: Spring
+- State: TX
+- ZIP: 77386
+- Coordinates: 30.1221027, -95.4004374
+- Phone: +12815281861
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-spring-spring/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/christian-brothers-automotive-spring-spring.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13525580893 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

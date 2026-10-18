@@ -15,7 +15,7 @@ Arifa’s Kitchen is a bakery in Chicago, IL at 1350 East 53rd Street, Chicago, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/arifa-s-kitchen-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/arifa-s-kitchen-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6263041896 (license ODbL-1.0); source data as of 2026-06-01

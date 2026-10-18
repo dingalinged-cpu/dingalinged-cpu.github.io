@@ -15,7 +15,7 @@ Paris Baguette is a bakery in Chicago, IL at 711 West Jackson Boulevard, Chicago
 - Opening hours (OSM syntax): Mo-Su 09:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/paris-baguette-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/paris-baguette-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12027016693 (license ODbL-1.0); source data as of 2026-06-01

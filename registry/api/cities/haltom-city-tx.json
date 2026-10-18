@@ -1,0 +1,51 @@
+{
+ "place": "Haltom City, TX",
+ "slug": "haltom-city-tx",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "furniture store haltom city tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-haltom-city-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "cubicle-gurus-haltom-city",
+   "name": "Cubicle Gurus",
+   "summary": "Cubicle Gurus is a furniture store in Haltom City, TX at 6400 Midway Road, Haltom City, TX 76117. Phone: +18178795851. Website: https://cubiclegurus.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubicle-gurus-haltom-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubicle-gurus-haltom-city.json",
+   "address": {
+    "streetAddress": "6400 Midway Road",
+    "addressLocality": "Haltom City",
+    "addressRegion": "TX",
+    "postalCode": "76117",
+    "addressCountry": "US"
+   },
+   "city": "Haltom City",
+   "state": "TX",
+   "zip": "76117",
+   "geo": {
+    "lat": 32.7943247,
+    "lon": -97.2494335
+   },
+   "phone": "+18178795851",
+   "website": "https://cubiclegurus.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11292354102",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

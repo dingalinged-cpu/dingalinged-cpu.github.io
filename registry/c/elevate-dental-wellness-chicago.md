@@ -15,7 +15,7 @@ Elevate Dental Wellness is a dentist in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elevate-dental-wellness-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elevate-dental-wellness-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9826588245 (license ODbL-1.0); source data as of 2026-07-28

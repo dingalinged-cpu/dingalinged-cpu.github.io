@@ -15,7 +15,7 @@ Smith Nielson Automotive Service is an auto repair shop in Hopkins, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/smith-nielson-automotive-service-hopkins/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/smith-nielson-automotive-service-hopkins.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/132662554 (license ODbL-1.0); source data as of 2026-06-01

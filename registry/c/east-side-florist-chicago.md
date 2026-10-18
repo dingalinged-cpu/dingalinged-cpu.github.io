@@ -15,7 +15,7 @@ East Side Florist is a florist in Chicago, IL at 10608 South Ewing Avenue, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/east-side-florist-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/east-side-florist-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6565178914 (license ODbL-1.0); source data as of 2026-06-01

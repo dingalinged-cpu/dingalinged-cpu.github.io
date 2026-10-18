@@ -15,7 +15,7 @@ Elevate Counseling + Wellness is a therapy practice in Westmont, IL at 305 Quail
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elevate-counseling-wellness-westmont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elevate-counseling-wellness-westmont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13894242101 (license ODbL-1.0); source data as of 2026-07-28

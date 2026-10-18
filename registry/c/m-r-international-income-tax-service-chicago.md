@@ -15,7 +15,7 @@ M.R. International Income Tax Service is a tax preparation service in Chicago, I
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00, Sa 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/m-r-international-income-tax-service-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/m-r-international-income-tax-service-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209453994 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Rockit Barbershop is a hair salon in Chicago, IL at 1650 West 18th Street, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rockit-barbershop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rockit-barbershop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10563378334 (license ODbL-1.0); source data as of 2026-06-01

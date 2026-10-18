@@ -15,7 +15,7 @@
 - Opening hours (OSM syntax): Mo,Sa 00:00-03:00; Th 00:00-15:00; Fr 12:00-15:00; Su 12:00-24:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/3e38thstbarbers-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/3e38thstbarbers-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13356794848 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ F45 Training is a gym in Niles, IL at 5663 West Touhy Avenue #148, Niles, IL 607
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/f45-training-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/f45-training-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/686708805 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Crash Champions is an auto repair shop in Lewisville, TX at 2765 South Stemmons Freeway, Lewisville, TX 75067. Phone: +19723156505. Website: https://crashchampions.com/locations/crash-champions-lewisville.
+
+# Crash Champions
+
+- Category: auto repair
+- Services: auto repair, mechanic, auto body shop
+- Address: 2765 South Stemmons Freeway, Lewisville, TX 75067
+- City: Lewisville
+- State: TX
+- ZIP: 75067
+- Coordinates: 32.9938409, -96.9511521
+- Phone: +19723156505
+- Website: https://crashchampions.com/locations/crash-champions-lewisville
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/crash-champions-lewisville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-lewisville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/648603657 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

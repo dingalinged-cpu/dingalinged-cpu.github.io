@@ -1,0 +1,23 @@
+Legacy North is a property management company in Plano, TX at 5765 Bozeman Drive, Plano, TX 75024. Phone: +18333685378. Website: https://www.legacynorthapts.com/.
+
+# Legacy North
+
+- Category: property management company
+- Services: property management company, property management companies
+- Address: 5765 Bozeman Drive, Plano, TX 75024
+- City: Plano
+- State: TX
+- ZIP: 75024
+- Coordinates: 33.0820664, -96.8208466
+- Phone: +18333685378
+- Website: https://www.legacynorthapts.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 13:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/legacy-north-plano/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/legacy-north-plano.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12404228536 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

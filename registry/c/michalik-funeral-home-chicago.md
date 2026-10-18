@@ -15,7 +15,7 @@ Michalik Funeral Home is a funeral home in Chicago, IL at 1056 West Chicago Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/michalik-funeral-home-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/michalik-funeral-home-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5080671036 (license ODbL-1.0); source data as of 2026-06-01

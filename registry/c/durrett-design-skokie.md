@@ -15,7 +15,7 @@ Durrett Design is an architect in Skokie, IL at Dempster Street, Skokie, IL 6007
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/durrett-design-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/durrett-design-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/220809519 (license ODbL-1.0); source data as of 2026-07-28

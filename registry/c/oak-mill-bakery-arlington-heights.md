@@ -15,7 +15,7 @@ Oak Mill Bakery is a bakery in Arlington Heights, IL at 2314 East Rand Road, Arl
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 08:00-18:00; Su 10:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oak-mill-bakery-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oak-mill-bakery-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6379025974 (license ODbL-1.0); source data as of 2026-06-01

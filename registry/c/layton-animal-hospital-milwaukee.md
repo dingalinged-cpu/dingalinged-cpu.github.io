@@ -1,0 +1,23 @@
+Layton Animal Hospital is a veterinarian in Milwaukee, WI. Phone: +14142818270.
+
+# Layton Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: Milwaukee, WI
+- City: Milwaukee
+- State: WI
+- ZIP: 53221
+- Coordinates: 42.9598093, -87.9280982
+- Phone: +14142818270
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/layton-animal-hospital-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/layton-animal-hospital-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10571035709 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Seasonal Exhibit Area is an event venue in Riverside, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/seasonal-exhibit-area-riverside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/seasonal-exhibit-area-riverside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/relation/18899220 (license ODbL-1.0); source data as of 2026-07-28

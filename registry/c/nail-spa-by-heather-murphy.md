@@ -1,0 +1,23 @@
+Nail Spa by heather is a waxing salon in Murphy, TX.
+
+# Nail Spa by heather
+
+- Category: waxing
+- Services: waxing, facial, nail salon
+- Address: Murphy, TX
+- City: Murphy
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0117566, -96.5967806
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:30-19:30; Sa 09:00-19:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/nail-spa-by-heather-murphy/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/nail-spa-by-heather-murphy.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13429505388 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

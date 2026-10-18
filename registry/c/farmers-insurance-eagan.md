@@ -15,7 +15,7 @@ Farmers Insurance is an insurance agent in Eagan, MN at 1434 Yankee Doodle Road,
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/farmers-insurance-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12107180051 (license ODbL-1.0); source data as of 2026-05-31

@@ -15,7 +15,7 @@ Hallmark is a gift shop in Eagan, MN at 1283 Promenade Place #5, Eagan, MN 55121
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hallmark-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hallmark-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12138739579 (license ODbL-1.0); source data as of 2026-06-01

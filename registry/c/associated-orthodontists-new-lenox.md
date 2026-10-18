@@ -15,7 +15,7 @@ Associated Orthodontists is a dentist in New Lenox, IL at 1860 East Lincoln High
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/associated-orthodontists-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/associated-orthodontists-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9195011867 (license ODbL-1.0); source data as of 2026-07-28

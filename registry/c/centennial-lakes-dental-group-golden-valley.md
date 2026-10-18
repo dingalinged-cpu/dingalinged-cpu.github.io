@@ -15,7 +15,7 @@ Centennial Lakes Dental Group is a dentist in Golden Valley, MN at 4800 Olson Me
 - Opening hours (OSM syntax): +17635440121
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/centennial-lakes-dental-group-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/centennial-lakes-dental-group-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12704116116 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Eldridge & Eldridge Dental Group is a dentist in Homewood, IL at 1944 Ridge Road
 - Opening hours (OSM syntax): Mo,We 08:30-18:00; Tu; Th 08:00-15:00; Sa 06:00-13:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/eldridge-and-eldridge-dental-group-homewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/eldridge-and-eldridge-dental-group-homewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5901266523 (license ODbL-1.0); source data as of 2026-07-28

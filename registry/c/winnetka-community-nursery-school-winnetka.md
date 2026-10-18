@@ -15,7 +15,7 @@ Winnetka Community Nursery School is a daycare in Winnetka, IL at 600 Pine Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/winnetka-community-nursery-school-winnetka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/winnetka-community-nursery-school-winnetka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8590103239 (license ODbL-1.0); source data as of 2026-07-28

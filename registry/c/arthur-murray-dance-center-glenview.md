@@ -15,7 +15,7 @@ Arthur Murray Dance Center is a dance studio in Glenview, IL at 1328 Waukegan Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/arthur-murray-dance-center-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13451148339 (license ODbL-1.0); source data as of 2026-06-01

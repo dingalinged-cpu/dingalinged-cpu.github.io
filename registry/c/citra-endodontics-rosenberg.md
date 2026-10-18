@@ -1,0 +1,23 @@
+Citra Endodontics is a dentist in Rosenberg, TX at 4130 FM 762 #500, Rosenberg, TX 77469. Phone: +12816717288. Website: https://citraendo.com/.
+
+# Citra Endodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 4130 FM 762 #500, Rosenberg, TX 77469
+- City: Rosenberg
+- State: TX
+- ZIP: 77469
+- Coordinates: 29.5424316, -95.743638
+- Phone: +12816717288
+- Website: https://citraendo.com/
+- Email: office@citraendo.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/citra-endodontics-rosenberg/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/citra-endodontics-rosenberg.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12068454939 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

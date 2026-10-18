@@ -15,7 +15,7 @@ Zelda's Catering is a caterer in Skokie, IL at 4113 Main Street, Skokie, IL 6007
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/zeldas-catering-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/zeldas-catering-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/157280794 (license ODbL-1.0); source data as of 2026-06-01

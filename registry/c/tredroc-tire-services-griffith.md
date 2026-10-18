@@ -15,7 +15,7 @@ Tredroc Tire Services is a tire shop in Griffith, IN at 149 Colfax Street, Griff
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tredroc-tire-services-griffith/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tredroc-tire-services-griffith.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9203202787 (license ODbL-1.0); source data as of 2026-06-01

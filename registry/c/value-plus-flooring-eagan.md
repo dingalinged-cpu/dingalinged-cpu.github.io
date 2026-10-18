@@ -15,7 +15,7 @@ Value Plus Flooring is a flooring company in Eagan, MN at 3109 Neil Armstrong Bo
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/value-plus-flooring-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/value-plus-flooring-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/351058823 (license ODbL-1.0); source data as of 2026-06-01

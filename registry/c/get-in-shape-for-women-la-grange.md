@@ -15,7 +15,7 @@ Get In Shape For Women is a gym in La Grange, IL at 79 South La Grange Road, La 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/get-in-shape-for-women-la-grange/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/get-in-shape-for-women-la-grange.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5178387333 (license ODbL-1.0); source data as of 2026-06-01

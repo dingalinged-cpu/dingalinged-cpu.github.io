@@ -15,7 +15,7 @@ Milan's Motors is an auto repair shop in Saint Paul, MN at 741 University Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/milans-motors-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/milans-motors-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8867069540 (license ODbL-1.0); source data as of 2026-06-01

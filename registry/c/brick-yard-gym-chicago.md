@@ -15,7 +15,7 @@ Brick Yard Gym is a gym in Chicago, IL at 4051 West 47th Street, Chicago, IL 606
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brick-yard-gym-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brick-yard-gym-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11363330520 (license ODbL-1.0); source data as of 2026-06-01

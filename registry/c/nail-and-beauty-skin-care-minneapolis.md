@@ -15,7 +15,7 @@ Nail & Beauty Skin Care is a nail salon in Minneapolis, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nail-and-beauty-skin-care-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nail-and-beauty-skin-care-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12217073409 (license ODbL-1.0); source data as of 2026-06-01

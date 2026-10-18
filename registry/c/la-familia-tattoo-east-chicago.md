@@ -15,7 +15,7 @@ La Familia Tattoo is a tattoo shop in East Chicago, IN at 529 West Chicago Avenu
 - Opening hours (OSM syntax): Mo-Sa 10:00-22:00; Su 12:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-familia-tattoo-east-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-familia-tattoo-east-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13436236855 (license ODbL-1.0); source data as of 2026-06-01

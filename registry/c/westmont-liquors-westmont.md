@@ -15,7 +15,7 @@ Westmont Liquors is a liquor store in Westmont, IL at 310 West Ogden Avenue, Wes
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/westmont-liquors-westmont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/westmont-liquors-westmont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/548011888 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ TCM Health Center / AAAOM Clinic is an acupuncture clinic in Saint Paul, MN at 6
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tcm-health-center-aaaom-clinic-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tcm-health-center-aaaom-clinic-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8920889297 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Arhaus is a furniture store in Chicago, IL at 1980 North Clybourn Avenue, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/arhaus-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/arhaus-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210316860 (license ODbL-1.0); source data as of 2026-06-01

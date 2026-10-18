@@ -15,7 +15,7 @@ Pet Evolution is a pet store in Blaine, MN. Website: https://www.petevolution.co
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pet-evolution-blaine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pet-evolution-blaine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12527842888 (license ODbL-1.0); source data as of 2026-06-01

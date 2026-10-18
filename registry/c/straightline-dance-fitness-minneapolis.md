@@ -15,7 +15,7 @@ Straightline Dance Fitness is a dance studio in Minneapolis, MN at 34 13th Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/straightline-dance-fitness-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/straightline-dance-fitness-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4639574687 (license ODbL-1.0); source data as of 2026-07-15

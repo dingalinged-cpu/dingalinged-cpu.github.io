@@ -15,7 +15,7 @@ Midway Catering & Banquet Hall is an event venue in Chicago, IL at 4222 West 63r
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midway-catering-and-banquet-hall-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midway-catering-and-banquet-hall-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12316331018 (license ODbL-1.0); source data as of 2026-07-28

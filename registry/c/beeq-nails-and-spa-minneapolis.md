@@ -15,7 +15,7 @@ BeeQ Nails and Spa is a spa in Minneapolis, MN at 5559 Xerxes Avenue South, Minn
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 10:00-18:00; Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/beeq-nails-and-spa-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/beeq-nails-and-spa-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13624425480 (license ODbL-1.0); source data as of 2026-06-01

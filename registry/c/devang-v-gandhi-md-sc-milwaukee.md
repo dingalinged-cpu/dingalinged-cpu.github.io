@@ -1,0 +1,23 @@
+Devang V. Gandhi MD, SC is a pediatrician in Milwaukee, WI at 6030 West Capitol Drive, Milwaukee, WI 53216. Phone: +14144426970. Website: https://www.drgandhi.net/.
+
+# Devang V. Gandhi MD, SC
+
+- Category: pediatrician
+- Services: pediatrician
+- Address: 6030 West Capitol Drive, Milwaukee, WI 53216
+- City: Milwaukee
+- State: WI
+- ZIP: 53216
+- Coordinates: 43.0902277, -87.9880422
+- Phone: +14144426970
+- Website: https://www.drgandhi.net/
+- Email: n/a
+- Opening hours (OSM syntax): Mo,Tu,Th,Fr 09:00-17:00; We 09:00-12:00; Sa,Su off
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/devang-v-gandhi-md-sc-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/devang-v-gandhi-md-sc-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12649653423 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

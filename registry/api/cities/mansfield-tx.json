@@ -1,0 +1,1640 @@
+{
+ "place": "Mansfield, TX",
+ "slug": "mansfield-tx",
+ "count": 51,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-mansfield-tx.json"
+  },
+  {
+   "keyword": "auto repair mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-mansfield-tx.json"
+  },
+  {
+   "keyword": "bike shop mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-mansfield-tx.json"
+  },
+  {
+   "keyword": "dentist mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-mansfield-tx.json"
+  },
+  {
+   "keyword": "dry cleaners mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-mansfield-tx.json"
+  },
+  {
+   "keyword": "electrician mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/electrician-mansfield-tx.json"
+  },
+  {
+   "keyword": "event venues mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-mansfield-tx.json"
+  },
+  {
+   "keyword": "eye doctor mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-mansfield-tx.json"
+  },
+  {
+   "keyword": "facial mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-mansfield-tx.json"
+  },
+  {
+   "keyword": "funeral home mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-mansfield-tx.json"
+  },
+  {
+   "keyword": "gift shop mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-mansfield-tx.json"
+  },
+  {
+   "keyword": "gym mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-mansfield-tx.json"
+  },
+  {
+   "keyword": "hair salon mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-mansfield-tx.json"
+  },
+  {
+   "keyword": "haircut mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-mansfield-tx.json"
+  },
+  {
+   "keyword": "heating and air mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-mansfield-tx.json"
+  },
+  {
+   "keyword": "hvac repair mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-mansfield-tx.json"
+  },
+  {
+   "keyword": "insurance agency mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-mansfield-tx.json"
+  },
+  {
+   "keyword": "insurance agent mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-mansfield-tx.json"
+  },
+  {
+   "keyword": "insurance agents mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-mansfield-tx.json"
+  },
+  {
+   "keyword": "jewelry store mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-mansfield-tx.json"
+  },
+  {
+   "keyword": "lawyer mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-mansfield-tx.json"
+  },
+  {
+   "keyword": "massage mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-mansfield-tx.json"
+  },
+  {
+   "keyword": "mattress store mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-mansfield-tx.json"
+  },
+  {
+   "keyword": "mechanic mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-mansfield-tx.json"
+  },
+  {
+   "keyword": "nail salon mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-mansfield-tx.json"
+  },
+  {
+   "keyword": "pet store mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-mansfield-tx.json"
+  },
+  {
+   "keyword": "preschool mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-mansfield-tx.json"
+  },
+  {
+   "keyword": "printing services mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-mansfield-tx.json"
+  },
+  {
+   "keyword": "real estate agent mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-mansfield-tx.json"
+  },
+  {
+   "keyword": "realtor mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-mansfield-tx.json"
+  },
+  {
+   "keyword": "storage units mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-mansfield-tx.json"
+  },
+  {
+   "keyword": "tailor mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-mansfield-tx.json"
+  },
+  {
+   "keyword": "tire shop mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-mansfield-tx.json"
+  },
+  {
+   "keyword": "vet mansfield tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-mansfield-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "clements-electric-texas-llc-mansfield",
+   "name": "Clements Electric Texas, LLC",
+   "summary": "Clements Electric Texas, LLC is an electrician in Mansfield, TX at 1285 North Main Street ##306, Mansfield, TX 76063. Phone: +18176737984. Website: https://www.clementselectric.com/.",
+   "categories": [
+    "electrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clements-electric-texas-llc-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clements-electric-texas-llc-mansfield.json",
+   "address": {
+    "streetAddress": "1285 North Main Street ##306",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5818795,
+    "lon": -97.1536974
+   },
+   "phone": "+18176737984",
+   "website": "https://www.clementselectric.com/",
+   "opening_hours": "Mo-Su 12:00-24:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5753968932",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cool-hand-heating-and-ac-repair-mansfield",
+   "name": "Cool Hand Heating & AC Repair",
+   "summary": "Cool Hand Heating & AC Repair is a HVAC contractor in Mansfield, TX at 600 Strada Circle ##218, Mansfield, TX 76063. Phone: +14698427412. Website: https://coolhandelectric.com/areas/ac-repair-mansfield-tx/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cool-hand-heating-and-ac-repair-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cool-hand-heating-and-ac-repair-mansfield.json",
+   "address": {
+    "streetAddress": "600 Strada Circle ##218",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5718635,
+    "lon": -97.1328692
+   },
+   "phone": "+14698427412",
+   "website": "https://coolhandelectric.com/areas/ac-repair-mansfield-tx/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13887234238",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hilltop-bicycle-center-mansfield",
+   "name": "Hilltop Bicycle Center",
+   "summary": "Hilltop Bicycle Center is a bike shop in Mansfield, TX at 130 North Main Street, Mansfield, TX 76063. Phone: +18172256275. Website: https://hilltop.bike/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hilltop-bicycle-center-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hilltop-bicycle-center-mansfield.json",
+   "address": {
+    "streetAddress": "130 North Main Street",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5646048,
+    "lon": -97.1416699
+   },
+   "phone": "+18172256275",
+   "website": "https://hilltop.bike/",
+   "opening_hours": "Mo-Th 11:00-19:00; Fi 11:00-18:00; Sa 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6040470789",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "life-time-mansfield",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Mansfield, TX at 1551 East Debbie Lane, Mansfield, TX 76063. Phone: +16825187766. Website: https://www.lifetime.life/life-time-locations/tx-mansfield.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-mansfield.json",
+   "address": {
+    "streetAddress": "1551 East Debbie Lane",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.6087597,
+    "lon": -97.1139399
+   },
+   "phone": "+16825187766",
+   "website": "https://www.lifetime.life/life-time-locations/tx-mansfield.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/317410182",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lone-star-cremation-mansfield",
+   "name": "Lone Star Cremation",
+   "summary": "Lone Star Cremation is a funeral home in Mansfield, TX at 1804 Owen Court, Mansfield, TX 76063. Phone: +18175460108. Website: https://www.lonestarcremation.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lone-star-cremation-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lone-star-cremation-mansfield.json",
+   "address": {
+    "streetAddress": "1804 Owen Court",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5810628,
+    "lon": -97.1797988
+   },
+   "phone": "+18175460108",
+   "website": "https://www.lonestarcremation.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6295561820",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mcknight-insurance-services-mansfield",
+   "name": "McKnight Insurance Services",
+   "summary": "McKnight Insurance Services is an insurance agent in Mansfield, TX at 2364 N Highway 287 #103, Mansfield, TX 76063. Phone: +18172776166. Website: https://www.mcknightins.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcknight-insurance-services-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcknight-insurance-services-mansfield.json",
+   "address": {
+    "streetAddress": "2364 N Highway 287 #103",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.6064148,
+    "lon": -97.1533586
+   },
+   "phone": "+18172776166",
+   "website": "https://www.mcknightins.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5690598139",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petco-mansfield",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Mansfield, TX at 2041 Highway 287 North #601, Mansfield, TX 76063. Phone: +16825188878. Website: https://stores.petco.com/tx/mansfield/pet-supplies-mansfield-tx-1458.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-mansfield.json",
+   "address": {
+    "streetAddress": "2041 Highway 287 North #601",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5965305,
+    "lon": -97.1506844
+   },
+   "phone": "+16825188878",
+   "website": "https://stores.petco.com/tx/mansfield/pet-supplies-mansfield-tx-1458.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746333",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-mansfield",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Mansfield, TX at 1551 North Highway 287 #501, Mansfield, TX 76063. Phone: +18174538229. Website: https://www.petsmart.com/stores/us/tx/mansfield-store2064.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-mansfield.json",
+   "address": {
+    "streetAddress": "1551 North Highway 287 #501",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5860892,
+    "lon": -97.1404138
+   },
+   "phone": "+18174538229",
+   "website": "https://www.petsmart.com/stores/us/tx/mansfield-store2064.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/713068391",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ulta-beauty-mansfield",
+   "name": "Ulta Beauty",
+   "summary": "Ulta Beauty is a skin care studio in Mansfield, TX at 2041 US 287 Frontage Road #815, Mansfield, TX 76063. Phone: +18174731682. Website: https://www.ulta.com/stores/mansfield-tx-740.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ulta-beauty-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-mansfield.json",
+   "address": {
+    "streetAddress": "2041 US 287 Frontage Road #815",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5979605,
+    "lon": -97.1507662
+   },
+   "phone": "+18174731682",
+   "website": "https://www.ulta.com/stores/mansfield-tx-740",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746335",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "b-and-b-tires-mansfield",
+   "name": "B&B Tires",
+   "summary": "B&B Tires is a tire shop in Mansfield, TX at 1773 North Main Street, Mansfield, TX 76063. Phone: +16825180754. Website: https://b-b-tires.business.site/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/b-and-b-tires-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/b-and-b-tires-mansfield.json",
+   "address": {
+    "streetAddress": "1773 North Main Street",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5901453,
+    "lon": -97.1622516
+   },
+   "phone": "+16825180754",
+   "website": "https://b-b-tires.business.site/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/713063210",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-mansfield",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Mansfield, TX at 101 West Debbie Lane #102, Mansfield, TX 76063. Phone: +18174775725. Website: https://www.mattressfirm.com/en-us/stores/tx/mansfield/002127/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-mansfield.json",
+   "address": {
+    "streetAddress": "101 West Debbie Lane #102",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5929808,
+    "lon": -97.1449832
+   },
+   "phone": "+18174775725",
+   "website": "https://www.mattressfirm.com/en-us/stores/tx/mansfield/002127/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746426",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "neighbor-car-storage-mansfield",
+   "name": "Neighbor Car Storage",
+   "summary": "Neighbor Car Storage is a self-storage facility in Mansfield, TX at 1701 East Debbie Lane, Mansfield, TX 76063. Phone: +18173304522.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/neighbor-car-storage-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/neighbor-car-storage-mansfield.json",
+   "address": {
+    "streetAddress": "1701 East Debbie Lane",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.6103307,
+    "lon": -97.1100747
+   },
+   "phone": "+18173304522",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13001994509",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-mansfield",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Mansfield, TX at 3540 East Broad Street #120, Mansfield, TX 76063. Phone: +16824008556.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-mansfield.json",
+   "address": {
+    "streetAddress": "3540 East Broad Street #120",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5776286,
+    "lon": -97.0786678
+   },
+   "phone": "+16824008556",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13564339560",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "animal-emergency-hospital-of-mansfield-mansfield",
+   "name": "Animal Emergency Hospital of Mansfield",
+   "summary": "Animal Emergency Hospital of Mansfield is a veterinarian in Mansfield, TX at 301 US 287 (TX), Mansfield, TX. Phone: +18174737838.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-emergency-hospital-of-mansfield-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-emergency-hospital-of-mansfield-mansfield.json",
+   "address": {
+    "streetAddress": "301 US 287 (TX)",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.570348,
+    "lon": -97.1202001
+   },
+   "phone": "+18174737838",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6084004211",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "24-hour-fitness-mansfield",
+   "name": "24 Hour Fitness",
+   "summary": "24 Hour Fitness is a gym in Mansfield, TX at 980 Hwy N 287, Mansfield, TX 76063. Website: https://local.tomthumb.com/tx/mansfield-1972.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/24-hour-fitness-mansfield.json",
+   "address": {
+    "streetAddress": "980 Hwy N 287",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5841786,
+    "lon": -97.1334475
+   },
+   "website": "https://local.tomthumb.com/tx/mansfield-1972.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/131171116",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-mansfield",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Mansfield, TX at 1161 US Highway 287 North, Mansfield, TX 76063. Phone: +16825186972.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-mansfield.json",
+   "address": {
+    "streetAddress": "1161 US Highway 287 North",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5817756,
+    "lon": -97.1341783
+   },
+   "phone": "+16825186972",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/655829521",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "quick-cuts-mansfield",
+   "name": "Quick Cuts",
+   "summary": "Quick Cuts is a hair salon in Mansfield, TX at 3807 East Broad Street #121, Mansfield, TX 76063. Phone: +16825817806.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quick-cuts-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quick-cuts-mansfield.json",
+   "address": {
+    "streetAddress": "3807 East Broad Street #121",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5806258,
+    "lon": -97.0740439
+   },
+   "phone": "+16825817806",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13514441563",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aristide-event-center-mansfield",
+   "name": "Aristide Event Center",
+   "summary": "Aristide Event Center is an event venue in Mansfield, TX at 570 North Walnut Creek Drive, Mansfield, TX. Website: https://waltersweddingestates.com/venues/aristide-mansfield/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aristide-event-center-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aristide-event-center-mansfield.json",
+   "address": {
+    "streetAddress": "570 North Walnut Creek Drive",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5731008,
+    "lon": -97.1322838
+   },
+   "website": "https://waltersweddingestates.com/venues/aristide-mansfield/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/713061089",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "national-tire-and-battery-mansfield",
+   "name": "National Tire and Battery",
+   "summary": "National Tire and Battery is an auto repair shop in Mansfield, TX. Website: https://www.ntb.com/store/tx/mansfield/1251-highway-287-n-76063/4492.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/national-tire-and-battery-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5827501,
+    "lon": -97.1354369
+   },
+   "website": "https://www.ntb.com/store/tx/mansfield/1251-highway-287-n-76063/4492",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/655829503",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-learning-experience-mansfield",
+   "name": "The Learning Experience",
+   "summary": "The Learning Experience is a preschool in Mansfield, TX. Website: https://thelearningexperience.com/centers/mansfield-tx/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-learning-experience-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-learning-experience-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5811897,
+    "lon": -97.0744306
+   },
+   "website": "https://thelearningexperience.com/centers/mansfield-tx/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/767480348",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "impression-homes-at-main-street-village-mansfield",
+   "name": "Impression Homes at Main Street Village",
+   "summary": "Impression Homes at Main Street Village is a real estate agency in Mansfield, TX at 530 Sandiford Court, Mansfield, TX 76063.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/impression-homes-at-main-street-village-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/impression-homes-at-main-street-village-mansfield.json",
+   "address": {
+    "streetAddress": "530 Sandiford Court",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5550183,
+    "lon": -97.1379834
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11794040374",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "leasor-crass-p-c-mansfield",
+   "name": "Leasor Crass, P.C.",
+   "summary": "Leasor Crass, P.C. is a lawyer in Mansfield, TX at 302 West Broad Street, Mansfield, TX 76063.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leasor-crass-p-c-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leasor-crass-p-c-mansfield.json",
+   "address": {
+    "streetAddress": "302 West Broad Street",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5641109,
+    "lon": -97.1446351
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/713063493",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mansfield-isd-center-of-the-performing-arts-mansfield",
+   "name": "Mansfield ISD Center of the Performing Arts",
+   "summary": "Mansfield ISD Center of the Performing Arts is an event venue in Mansfield, TX at 1110 West Debbie Lane, Mansfield, TX 76063.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mansfield-isd-center-of-the-performing-arts-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mansfield-isd-center-of-the-performing-arts-mansfield.json",
+   "address": {
+    "streetAddress": "1110 West Debbie Lane",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5949644,
+    "lon": -97.1576912
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/987838578",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-mansfield",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Mansfield, TX at 3807 East Broad Street, Mansfield, TX 76063.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-mansfield.json",
+   "address": {
+    "streetAddress": "3807 East Broad Street",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5805977,
+    "lon": -97.0742571
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13514418404",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-tire-mansfield",
+   "name": "Texas Tire",
+   "summary": "Texas Tire is a tire shop in Mansfield, TX at 101 West Broad Street, Mansfield, TX 76063.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-tire-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-tire-mansfield.json",
+   "address": {
+    "streetAddress": "101 West Broad Street",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5633252,
+    "lon": -97.1423607
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/713064673",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tropical-nails-and-spa-mansfield",
+   "name": "Tropical Nails & Spa",
+   "summary": "Tropical Nails & Spa is a nail salon in Mansfield, TX at 3807 East Broad Street, Mansfield, TX 76063.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tropical-nails-and-spa-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tropical-nails-and-spa-mansfield.json",
+   "address": {
+    "streetAddress": "3807 East Broad Street",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "postalCode": "76063",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "zip": "76063",
+   "geo": {
+    "lat": 32.5806229,
+    "lon": -97.074138
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13514430570",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "complete-dental-care-mansfield",
+   "name": "Complete Dental Care",
+   "summary": "Complete Dental Care is a dentist in Mansfield, TX at 1521 East Debbie Lane, Mansfield, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/complete-dental-care-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/complete-dental-care-mansfield.json",
+   "address": {
+    "streetAddress": "1521 East Debbie Lane",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6075969,
+    "lon": -97.1146619
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/884871940",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kennidy-rv-and-boat-storage-mansfield",
+   "name": "Kennidy RV & Boat Storage",
+   "summary": "Kennidy RV & Boat Storage is a self-storage facility in Mansfield, TX at 900 South Main Street, Mansfield, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kennidy-rv-and-boat-storage-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kennidy-rv-and-boat-storage-mansfield.json",
+   "address": {
+    "streetAddress": "900 South Main Street",
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5529551,
+    "lon": -97.1356765
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6562076617",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-mansfield",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Mansfield, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5923649,
+    "lon": -97.1522645
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746405",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "comet-cleaners-mansfield",
+   "name": "Comet Cleaners",
+   "summary": "Comet Cleaners is a dry cleaner in Mansfield, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/comet-cleaners-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/comet-cleaners-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.592365,
+    "lon": -97.1519884
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746409",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crosspointe-dental-and-orthodontics-mansfield",
+   "name": "Crosspointe Dental & Orthodontics",
+   "summary": "Crosspointe Dental & Orthodontics is a dentist in Mansfield, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crosspointe-dental-and-orthodontics-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crosspointe-dental-and-orthodontics-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5942262,
+    "lon": -97.1510953
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746340",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cubesmart-mansfield",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Mansfield, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5840318,
+    "lon": -97.1379819
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/12349892",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cubesmart-mansfield-r12349893",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Mansfield, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-mansfield-r12349893/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-mansfield-r12349893.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5895757,
+    "lon": -97.1520801
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/12349893",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cubesmart-mansfield-w732667427",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Mansfield, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-mansfield-w732667427/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-mansfield-w732667427.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5623186,
+    "lon": -97.0822093
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/732667427",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dentists-de-mansfield-mansfield",
+   "name": "Dentists de Mansfield",
+   "summary": "Dentists de Mansfield is a dentist in Mansfield, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dentists-de-mansfield-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dentists-de-mansfield-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6051319,
+    "lon": -97.1151844
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10220063667",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edible-arrangements-mansfield",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Mansfield, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5914983,
+    "lon": -97.1460245
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746313",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-mansfield",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Mansfield, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5880779,
+    "lon": -97.1647669
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/12349891",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fedex-office-mansfield",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Mansfield, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5927119,
+    "lon": -97.1456446
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746435",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-mansfield",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Mansfield, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5897411,
+    "lon": -97.1395303
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/665372193",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "happy-paws-mansfield",
+   "name": "Happy Paws",
+   "summary": "Happy Paws is a veterinarian in Mansfield, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-paws-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-paws-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.588013,
+    "lon": -97.167175
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9217196912",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mansfield-dental-center-mansfield",
+   "name": "Mansfield Dental Center",
+   "summary": "Mansfield Dental Center is a dentist in Mansfield, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mansfield-dental-center-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mansfield-dental-center-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6090283,
+    "lon": -97.1108218
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10220063635",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-envy-mansfield",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Mansfield, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5858558,
+    "lon": -97.1391004
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746418",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "monarch-dental-mansfield",
+   "name": "Monarch Dental",
+   "summary": "Monarch Dental is a dentist in Mansfield, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/monarch-dental-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/monarch-dental-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5931598,
+    "lon": -97.1451237
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746424",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "picasso-dental-mansfield",
+   "name": "Picasso Dental",
+   "summary": "Picasso Dental is a dentist in Mansfield, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/picasso-dental-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/picasso-dental-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5913913,
+    "lon": -97.1441997
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746442",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pine-cove-dental-mansfield",
+   "name": "Pine Cove Dental",
+   "summary": "Pine Cove Dental is a dentist in Mansfield, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pine-cove-dental-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pine-cove-dental-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.6064203,
+    "lon": -97.1127811
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10220099261",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pro-nails-and-spa-mansfield",
+   "name": "Pro Nails & Spa",
+   "summary": "Pro Nails & Spa is a nail salon in Mansfield, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pro-nails-and-spa-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pro-nails-and-spa-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5891668,
+    "lon": -97.1435227
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746307",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sleep-experts-mansfield",
+   "name": "Sleep Experts",
+   "summary": "Sleep Experts is a mattress store in Mansfield, TX.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-experts-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-experts-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5863173,
+    "lon": -97.1395186
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746450",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-mansfield",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Mansfield, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.591613,
+    "lon": -97.1440039
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746446",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "timeless-tailor-and-alteration-mansfield",
+   "name": "Timeless Tailor & Alteration",
+   "summary": "Timeless Tailor & Alteration is a tailor in Mansfield, TX.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/timeless-tailor-and-alteration-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/timeless-tailor-and-alteration-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5914444,
+    "lon": -97.1460246
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746314",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "unique-vision-mansfield-mansfield",
+   "name": "Unique Vision Mansfield",
+   "summary": "Unique Vision Mansfield is an eye care practice in Mansfield, TX.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/unique-vision-mansfield-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/unique-vision-mansfield-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5954349,
+    "lon": -97.1478614
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746413",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zales-mansfield",
+   "name": "Zales",
+   "summary": "Zales is a jewelry store in Mansfield, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zales-mansfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zales-mansfield.json",
+   "address": {
+    "addressLocality": "Mansfield",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Mansfield",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5917073,
+    "lon": -97.1437895
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/909746449",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

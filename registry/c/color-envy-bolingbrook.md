@@ -15,7 +15,7 @@ Color Envy is a hair salon in Bolingbrook, IL at 716 East Boughton Road, Bolingb
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/color-envy-bolingbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/color-envy-bolingbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9826821894 (license ODbL-1.0); source data as of 2026-06-01

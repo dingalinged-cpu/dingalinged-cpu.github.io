@@ -15,7 +15,7 @@ Compleat Cyclist is a bike shop in Dolton, IL at 703 East Sibley Boulevard, Dolt
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/compleat-cyclist-dolton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/compleat-cyclist-dolton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1305984757 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Arbor Animal Hospital is a veterinarian in La Grange Park, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/arbor-animal-hospital-la-grange-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/arbor-animal-hospital-la-grange-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/996473289 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Life Time is a gym in Saint Louis Park, MN at 5525 Cedar Lake Road North, Saint 
 - Opening hours (OSM syntax): Su 07:00-23:00; Mo-Th 04:00-00:00; Fr 04:00-23:00; Sa 06:00-23:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/life-time-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/life-time-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/43323847 (license ODbL-1.0); source data as of 2026-07-15

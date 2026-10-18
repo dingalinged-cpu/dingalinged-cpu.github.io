@@ -15,7 +15,7 @@ Dinkytown Rentals, LLC is a property management company in Minneapolis, MN at 11
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dinkytown-rentals-llc-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dinkytown-rentals-llc-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6429470607 (license ODbL-1.0); source data as of 2026-05-31

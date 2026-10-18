@@ -15,7 +15,7 @@ The Bearded Mechanic is an auto repair shop in Saint Bonifacius, MN at 8750 Minn
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-bearded-mechanic-saint-bonifacius/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-bearded-mechanic-saint-bonifacius.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/954622549 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Kriser's Natural Pet is a pet store in Wilmette, IL at 3232 Lake Avenue #310, Wi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-wilmette/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/krisers-natural-pet-wilmette.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13099173113 (license ODbL-1.0); source data as of 2026-06-01

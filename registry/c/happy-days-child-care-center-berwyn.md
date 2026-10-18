@@ -15,7 +15,7 @@ Happy Days Child Care Center is a daycare in Berwyn, IL at 6304 West 26th Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/happy-days-child-care-center-berwyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/happy-days-child-care-center-berwyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8399992886 (license ODbL-1.0); source data as of 2026-07-28

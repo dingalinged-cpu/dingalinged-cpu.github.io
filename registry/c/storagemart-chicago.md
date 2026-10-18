@@ -15,7 +15,7 @@ StorageMart is a self-storage facility in Chicago, IL at 4906 West Madison Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/storagemart-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/storagemart-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162515606 (license ODbL-1.0); source data as of 2026-06-01

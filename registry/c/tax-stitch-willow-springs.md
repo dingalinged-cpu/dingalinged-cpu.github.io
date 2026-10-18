@@ -15,7 +15,7 @@ Tax Stitch is an accountant in Willow Springs, IL at 8381 South Archer Avenue, W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tax-stitch-willow-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tax-stitch-willow-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12052414631 (license ODbL-1.0); source data as of 2026-07-28

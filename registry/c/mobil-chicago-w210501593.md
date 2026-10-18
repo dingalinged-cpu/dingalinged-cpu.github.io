@@ -15,7 +15,7 @@ Mobil is a car wash in Chicago, IL at 7609 South State Street, Chicago, IL 60619
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-chicago-w210501593/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-chicago-w210501593.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210501593 (license ODbL-1.0); source data as of 2026-07-28

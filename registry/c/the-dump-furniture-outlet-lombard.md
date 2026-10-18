@@ -15,7 +15,7 @@ The Dump Furniture Outlet is a furniture store in Lombard, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-dump-furniture-outlet-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-dump-furniture-outlet-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/220959305 (license ODbL-1.0); source data as of 2026-06-01

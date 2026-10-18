@@ -1,0 +1,23 @@
+Results Roofing is a roofer in Carrollton, TX at 2828 E Trinity Mls Rd #212, Carrollton, TX 75006. Phone: +12143015533. Website: https://resultsroofing.com/.
+
+# Results Roofing
+
+- Category: roofer
+- Services: roofer, roofing contractor
+- Address: 2828 E Trinity Mls Rd #212, Carrollton, TX 75006
+- City: Carrollton
+- State: TX
+- ZIP: 75006
+- Coordinates: 32.9863196, -96.852201
+- Phone: +12143015533
+- Website: https://resultsroofing.com/
+- Email: contact@results-roofing.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/results-roofing-carrollton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/results-roofing-carrollton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10994412155 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

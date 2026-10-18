@@ -15,7 +15,7 @@ Planned Parenthood is a therapy practice in Saint Paul, MN at 671 Vandalia Stree
 - Opening hours (OSM syntax): Mo-Sa 08:00-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planned-parenthood-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planned-parenthood-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/61149689 (license ODbL-1.0); source data as of 2026-07-24

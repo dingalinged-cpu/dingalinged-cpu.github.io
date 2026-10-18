@@ -15,7 +15,7 @@ The Dental Loft is a dentist in Chicago, IL at 111 West Washington Street, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-dental-loft-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-dental-loft-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11169772385 (license ODbL-1.0); source data as of 2026-07-28

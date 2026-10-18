@@ -15,7 +15,7 @@ Michael D. Ettinger & Associates is a lawyer in Palos Heights, IL at 12413 Harle
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/michael-d-ettinger-and-associates-palos-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/michael-d-ettinger-and-associates-palos-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7138618362 (license ODbL-1.0); source data as of 2026-07-28

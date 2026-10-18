@@ -15,7 +15,7 @@ Future Firm is an architect in Chicago, IL at 3149 South Morgan Street, Chicago,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/future-firm-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/future-firm-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5111736808 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Firestone is an auto repair shop in Lansing, IL at 17001 Torrence Avenue, Lansin
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/firestone-lansing/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/firestone-lansing.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/238531160 (license ODbL-1.0); source data as of 2026-06-01

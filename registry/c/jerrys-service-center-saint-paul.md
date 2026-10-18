@@ -15,7 +15,7 @@ Jerry's Service Center is an auto repair shop in Saint Paul, MN at 459 Robert St
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jerrys-service-center-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jerrys-service-center-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/241059070 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Dr. Luke's Dental is a dentist in Brooklyn Park, MN. Phone: +17634255277.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-lukes-dental-brooklyn-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-lukes-dental-brooklyn-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8149821514 (license ODbL-1.0); source data as of 2026-07-24

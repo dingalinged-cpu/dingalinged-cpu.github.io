@@ -15,7 +15,7 @@ Sista Afya Community Mental Wellness is a therapy practice in Chicago, IL at 181
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sista-afya-community-mental-wellness-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sista-afya-community-mental-wellness-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8942348524 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Best Chicago Properties is a real estate agency in Chicago, IL at 847 West Monro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/best-chicago-properties-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/best-chicago-properties-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12479624551 (license ODbL-1.0); source data as of 2026-07-28

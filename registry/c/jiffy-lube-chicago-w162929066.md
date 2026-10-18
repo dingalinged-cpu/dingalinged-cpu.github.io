@@ -15,7 +15,7 @@ Jiffy Lube is an auto repair shop in Chicago, IL at 6600 West Archer Avenue, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-chicago-w162929066/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-chicago-w162929066.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162929066 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Webley’s Accounting Services PC is an insurance agent in Chicago, IL at 1941 W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/webley-s-accounting-services-pc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/webley-s-accounting-services-pc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13627184012 (license ODbL-1.0); source data as of 2026-07-28

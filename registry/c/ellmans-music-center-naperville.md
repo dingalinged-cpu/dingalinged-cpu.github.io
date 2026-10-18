@@ -15,7 +15,7 @@ Ellman's Music Center is a music school in Naperville, IL at 508 West 5th Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ellmans-music-center-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ellmans-music-center-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8309211238 (license ODbL-1.0); source data as of 2026-07-28

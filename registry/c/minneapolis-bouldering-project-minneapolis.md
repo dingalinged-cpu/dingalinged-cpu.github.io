@@ -15,7 +15,7 @@ Minneapolis Bouldering Project is a yoga studio in Minneapolis, MN at 1433 West 
 - Opening hours (OSM syntax): Mo-Fr 06:00-23:00; Sa,Su 07:00-22:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/minneapolis-bouldering-project-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/minneapolis-bouldering-project-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5752714903 (license ODbL-1.0); source data as of 2026-07-15

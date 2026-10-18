@@ -15,7 +15,7 @@ A&O Hair Braiding is a hair salon in Woodridge, IL at 8276 Janes Avenue, Woodrid
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa 07:00-18:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/a-and-o-hair-braiding-woodridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-and-o-hair-braiding-woodridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9896537753 (license ODbL-1.0); source data as of 2026-06-01

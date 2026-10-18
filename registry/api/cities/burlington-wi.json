@@ -1,0 +1,1223 @@
+{
+ "place": "Burlington, WI",
+ "slug": "burlington-wi",
+ "count": 38,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-burlington-wi.json"
+  },
+  {
+   "keyword": "accounting services burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-burlington-wi.json"
+  },
+  {
+   "keyword": "acupuncture burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/acupuncture-burlington-wi.json"
+  },
+  {
+   "keyword": "auto repair burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-burlington-wi.json"
+  },
+  {
+   "keyword": "car wash burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-burlington-wi.json"
+  },
+  {
+   "keyword": "dance studio burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-burlington-wi.json"
+  },
+  {
+   "keyword": "daycare burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-burlington-wi.json"
+  },
+  {
+   "keyword": "event venues burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-burlington-wi.json"
+  },
+  {
+   "keyword": "financial advisor burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-burlington-wi.json"
+  },
+  {
+   "keyword": "funeral home burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-burlington-wi.json"
+  },
+  {
+   "keyword": "gift shop burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-burlington-wi.json"
+  },
+  {
+   "keyword": "gym burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-burlington-wi.json"
+  },
+  {
+   "keyword": "hair salon burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-burlington-wi.json"
+  },
+  {
+   "keyword": "haircut burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-burlington-wi.json"
+  },
+  {
+   "keyword": "heating and air burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-burlington-wi.json"
+  },
+  {
+   "keyword": "hvac repair burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-burlington-wi.json"
+  },
+  {
+   "keyword": "insurance agency burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-burlington-wi.json"
+  },
+  {
+   "keyword": "insurance agent burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-burlington-wi.json"
+  },
+  {
+   "keyword": "insurance agents burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-burlington-wi.json"
+  },
+  {
+   "keyword": "jewelry store burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-burlington-wi.json"
+  },
+  {
+   "keyword": "liquor store burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-burlington-wi.json"
+  },
+  {
+   "keyword": "mechanic burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-burlington-wi.json"
+  },
+  {
+   "keyword": "nail salon burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-burlington-wi.json"
+  },
+  {
+   "keyword": "physical therapy burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-burlington-wi.json"
+  },
+  {
+   "keyword": "real estate agent burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-burlington-wi.json"
+  },
+  {
+   "keyword": "realtor burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-burlington-wi.json"
+  },
+  {
+   "keyword": "tanning salon burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-burlington-wi.json"
+  },
+  {
+   "keyword": "tax preparation burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-burlington-wi.json"
+  },
+  {
+   "keyword": "tax preparer burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-burlington-wi.json"
+  },
+  {
+   "keyword": "thrift store burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-burlington-wi.json"
+  },
+  {
+   "keyword": "used cars for sale burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-burlington-wi.json"
+  },
+  {
+   "keyword": "vet burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-burlington-wi.json"
+  },
+  {
+   "keyword": "yoga classes burlington wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-burlington-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "love-it-events-burlington",
+   "name": "Love It Events",
+   "summary": "Love It Events is an event venue in Burlington, WI at 125 East State Street, Burlington, WI 53105. Phone: +12622204552. Website: https://www.loveitevents.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/love-it-events-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/love-it-events-burlington.json",
+   "address": {
+    "streetAddress": "125 East State Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6760718,
+    "lon": -88.2756098
+   },
+   "phone": "+12622204552",
+   "website": "https://www.loveitevents.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12784610677",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wisconsin-power-yoga-burlington",
+   "name": "Wisconsin Power Yoga",
+   "summary": "Wisconsin Power Yoga is a yoga studio in Burlington, WI at 164 East Washington Street, Burlington, WI 53105. Phone: +12627586099. Website: https://www.wipoweryoga.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wisconsin-power-yoga-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wisconsin-power-yoga-burlington.json",
+   "address": {
+    "streetAddress": "164 East Washington Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.679231,
+    "lon": -88.2763706
+   },
+   "phone": "+12627586099",
+   "website": "https://www.wipoweryoga.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9915094492",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-trip-burlington",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Burlington, WI at 500 Falcon Ridge Drive, Burlington, WI 53105. Website: https://www.kwiktrip.com/locator/store?id=401.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-burlington.json",
+   "address": {
+    "streetAddress": "500 Falcon Ridge Drive",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6933665,
+    "lon": -88.2660222
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=401",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/778647465",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salvation-army-family-store-burlington",
+   "name": "Salvation Army Family Store",
+   "summary": "Salvation Army Family Store is a thrift store in Burlington, WI at 248 South Pine Street, Burlington, WI 53105.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salvation-army-family-store-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salvation-army-family-store-burlington.json",
+   "address": {
+    "streetAddress": "248 South Pine Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6745163,
+    "lon": -88.270905
+   },
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5008527266",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ayras-burlington",
+   "name": "Ayra's",
+   "summary": "Ayra's is a liquor store in Burlington, WI at 500 East State Street, Burlington, WI 53105.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ayras-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ayras-burlington.json",
+   "address": {
+    "streetAddress": "500 East State Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6789895,
+    "lon": -88.2691805
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/334129255",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "burlington-dance-academy-burlington",
+   "name": "Burlington Dance Academy",
+   "summary": "Burlington Dance Academy is a dance studio in Burlington, WI at 344 North Pine Street, Burlington, WI 53105.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/burlington-dance-academy-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/burlington-dance-academy-burlington.json",
+   "address": {
+    "streetAddress": "344 North Pine Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6788748,
+    "lon": -88.2754871
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9910604522",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kevin-p-schuerman-cpa-burlington",
+   "name": "Kevin P Schuerman CPA",
+   "summary": "Kevin P Schuerman CPA is an accountant in Burlington, WI at 372 North Pine Street, Burlington, WI 53105.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kevin-p-schuerman-cpa-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kevin-p-schuerman-cpa-burlington.json",
+   "address": {
+    "streetAddress": "372 North Pine Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6791022,
+    "lon": -88.2756292
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9910604518",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lois-tire-shop-and-auto-service-burlington",
+   "name": "Lois Tire Shop & Auto Service",
+   "summary": "Lois Tire Shop & Auto Service is an auto repair shop in Burlington, WI at 916 Milwaukee Avenue, Burlington, WI 53105.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lois-tire-shop-and-auto-service-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lois-tire-shop-and-auto-service-burlington.json",
+   "address": {
+    "streetAddress": "916 Milwaukee Avenue",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6878763,
+    "lon": -88.2696253
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/530769878",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mercantile-hall-burlington",
+   "name": "Mercantile Hall",
+   "summary": "Mercantile Hall is an event venue in Burlington, WI at 425 North Pine Street, Burlington, WI 53105.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mercantile-hall-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mercantile-hall-burlington.json",
+   "address": {
+    "streetAddress": "425 North Pine Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6794865,
+    "lon": -88.2764052
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/944926830",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "miller-reeseman-funeral-home-burlington",
+   "name": "Miller-Reeseman Funeral Home",
+   "summary": "Miller-Reeseman Funeral Home is a funeral home in Burlington, WI at 232 Madison Street, Burlington, WI 53105.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/miller-reeseman-funeral-home-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/miller-reeseman-funeral-home-burlington.json",
+   "address": {
+    "streetAddress": "232 Madison Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6780775,
+    "lon": -88.2739667
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/334295080",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "molitor-pet-and-bird-clinic-burlington",
+   "name": "Molitor Pet and Bird Clinic",
+   "summary": "Molitor Pet and Bird Clinic is a veterinarian in Burlington, WI at 108 North Pine Street, Burlington, WI 53105.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/molitor-pet-and-bird-clinic-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/molitor-pet-and-bird-clinic-burlington.json",
+   "address": {
+    "streetAddress": "108 North Pine Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6770275,
+    "lon": -88.274282
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/334297147",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "raw-salon-suites-burlington",
+   "name": "Raw Salon Suites",
+   "summary": "Raw Salon Suites is a hair salon in Burlington, WI at 336 North Pine Street, Burlington, WI 53105.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/raw-salon-suites-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/raw-salon-suites-burlington.json",
+   "address": {
+    "streetAddress": "336 North Pine Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6788122,
+    "lon": -88.275448
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9910604523",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-jewelry-center-burlington",
+   "name": "The Jewelry Center",
+   "summary": "The Jewelry Center is a jewelry store in Burlington, WI at 348 North Pine Street, Burlington, WI 53105.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-jewelry-center-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-jewelry-center-burlington.json",
+   "address": {
+    "streetAddress": "348 North Pine Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6789325,
+    "lon": -88.2755231
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9910604521",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "trendsetters-burlington",
+   "name": "Trendsetters",
+   "summary": "Trendsetters is a hair salon in Burlington, WI at 388 North Pine Street, Burlington, WI 53105.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trendsetters-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trendsetters-burlington.json",
+   "address": {
+    "streetAddress": "388 North Pine Street",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.679202,
+    "lon": -88.2756916
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9910604517",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zs-auto-sales-burlington",
+   "name": "Z's Auto Sales",
+   "summary": "Z's Auto Sales is an used car dealer in Burlington, WI at 1080 Milwaukee Avenue, Burlington, WI 53105.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zs-auto-sales-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zs-auto-sales-burlington.json",
+   "address": {
+    "streetAddress": "1080 Milwaukee Avenue",
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "postalCode": "53105",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "zip": "53105",
+   "geo": {
+    "lat": 42.6883708,
+    "lon": -88.2690014
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/334650254",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "athletico-physical-therapy-burlington",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Burlington, WI.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6890044,
+    "lon": -88.2666389
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7267338476",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aurora-wellness-center-burlington",
+   "name": "Aurora Wellness Center",
+   "summary": "Aurora Wellness Center is a gym in Burlington, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aurora-wellness-center-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aurora-wellness-center-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6738579,
+    "lon": -88.2554487
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/16466925",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "b-towne-auto-service-burlington",
+   "name": "B Towne Auto Service",
+   "summary": "B Towne Auto Service is an auto repair shop in Burlington, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/b-towne-auto-service-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/b-towne-auto-service-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6932992,
+    "lon": -88.2669607
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/369028146",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cultivated-burlington",
+   "name": "Cultivated",
+   "summary": "Cultivated is a gift shop in Burlington, WI.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cultivated-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cultivated-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6787603,
+    "lon": -88.2754155
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9910604524",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dan-tone-garage-burlington",
+   "name": "Dan-Tone Garage",
+   "summary": "Dan-Tone Garage is an auto repair shop in Burlington, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dan-tone-garage-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dan-tone-garage-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6723166,
+    "lon": -88.2701878
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/490974063",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-burlington",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Burlington, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6918226,
+    "lon": -88.2666451
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/778647464",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-burlington",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Burlington, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6890291,
+    "lon": -88.2665296
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7267338477",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-and-r-block-burlington",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Burlington, WI.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6772662,
+    "lon": -88.273575
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/334297588",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hair-works-burlington",
+   "name": "Hair Works",
+   "summary": "Hair Works is a hair salon in Burlington, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-works-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-works-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6799771,
+    "lon": -88.2790801
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5008548942",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lynch-chevy-quick-lube-burlington",
+   "name": "Lynch Chevy Quick Lube",
+   "summary": "Lynch Chevy Quick Lube is an auto repair shop in Burlington, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lynch-chevy-quick-lube-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lynch-chevy-quick-lube-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7063647,
+    "lon": -88.2397458
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/334656286",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "market-realty-group-burlington",
+   "name": "Market Realty Group",
+   "summary": "Market Realty Group is a real estate agency in Burlington, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/market-realty-group-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/market-realty-group-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6920997,
+    "lon": -88.2633938
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7267338452",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "merrill-lynch-wealth-management-burlington",
+   "name": "Merrill Lynch Wealth Management",
+   "summary": "Merrill Lynch Wealth Management is a financial advisor in Burlington, WI.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/merrill-lynch-wealth-management-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/merrill-lynch-wealth-management-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.677189,
+    "lon": -88.274311
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/334297148",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mertens-service-center-burlington",
+   "name": "Merten's Service Center",
+   "summary": "Merten's Service Center is an auto repair shop in Burlington, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mertens-service-center-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mertens-service-center-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6788158,
+    "lon": -88.2796394
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/334272600",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midwest-dance-center-burlington",
+   "name": "Midwest Dance Center",
+   "summary": "Midwest Dance Center is a dance studio in Burlington, WI.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midwest-dance-center-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midwest-dance-center-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6753057,
+    "lon": -88.2715963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9875596448",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "planet-fitness-burlington",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Burlington, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6922541,
+    "lon": -88.2631061
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/778647467",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "platinum-salon-and-spa-burlington",
+   "name": "Platinum Salon & Spa",
+   "summary": "Platinum Salon & Spa is a tanning salon in Burlington, WI.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/platinum-salon-and-spa-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/platinum-salon-and-spa-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6727686,
+    "lon": -88.2705027
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5008527276",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "plymouth-childrens-center-burlington",
+   "name": "Plymouth Childrens Center",
+   "summary": "Plymouth Childrens Center is a daycare in Burlington, WI.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/plymouth-childrens-center-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/plymouth-childrens-center-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6745581,
+    "lon": -88.2720122
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9875535172",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "poke-a-dot-burlington",
+   "name": "Poke a Dot",
+   "summary": "Poke a Dot is an acupuncture clinic in Burlington, WI.",
+   "categories": [
+    "acupuncture"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/poke-a-dot-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/poke-a-dot-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6826358,
+    "lon": -88.2739427
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/334138797",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rice-s-liquors-burlington",
+   "name": "Rice’s Liquors",
+   "summary": "Rice’s Liquors is a liquor store in Burlington, WI.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rice-s-liquors-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rice-s-liquors-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6849648,
+    "lon": -88.2738866
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1068926826",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-iii-burlington",
+   "name": "Salon III",
+   "summary": "Salon III is a nail salon in Burlington, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-iii-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-iii-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6920429,
+    "lon": -88.2634507
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7267338451",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "square-one-burlington",
+   "name": "Square One",
+   "summary": "Square One is a HVAC contractor in Burlington, WI.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/square-one-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/square-one-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6955407,
+    "lon": -88.2639956
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/369028144",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-burlington",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Burlington, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6771072,
+    "lon": -88.2748136
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5008545670",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "thrivent-burlington",
+   "name": "Thrivent",
+   "summary": "Thrivent is a financial advisor in Burlington, WI.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thrivent-burlington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thrivent-burlington.json",
+   "address": {
+    "addressLocality": "Burlington",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Burlington",
+   "state": "WI",
+   "geo": {
+    "lat": 42.679828,
+    "lon": -88.2765499
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/334273663",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

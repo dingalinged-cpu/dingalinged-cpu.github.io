@@ -15,7 +15,7 @@ Catalpa Early Childhood Center is a preschool in Chicago, IL at 5252 North Long 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/catalpa-early-childhood-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/catalpa-early-childhood-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/194859516 (license ODbL-1.0); source data as of 2026-07-28

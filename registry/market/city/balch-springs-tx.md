@@ -1,0 +1,48 @@
+Keyword market for Balch Springs, TX: 15 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+
+# Top keywords in Balch Springs, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash balch springs tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-balch-springs-tx/
+2. dentist balch springs tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-balch-springs-tx/
+3. hair salon balch springs tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hair-salon-balch-springs-tx/
+4. mechanic balch springs tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-balch-springs-tx/
+5. vet balch springs tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-balch-springs-tx/
+6. haircut balch springs tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/haircut-balch-springs-tx/
+7. auto repair balch springs tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-balch-springs-tx/
+8. insurance agency balch springs tx | searches/mo 2,200 (est) | CPC $3.39 | value $7,500 | Google Ads equiv $620/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-balch-springs-tx/
+9. insurance agents balch springs tx | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-balch-springs-tx/
+10. insurance agent balch springs tx | searches/mo 1,000 (est) | CPC $3.39 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-balch-springs-tx/
+
+## By CPC
+1. storage units balch springs tx | searches/mo 5,500 (est) | CPC $8.33 | value $46,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/storage-units-balch-springs-tx/
+2. event venues balch springs tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-balch-springs-tx/
+3. dentist balch springs tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-balch-springs-tx/
+4. haircut balch springs tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/haircut-balch-springs-tx/
+5. auto repair balch springs tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-balch-springs-tx/
+6. car wash balch springs tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-balch-springs-tx/
+7. mechanic balch springs tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-balch-springs-tx/
+8. furniture store balch springs tx | searches/mo 3,500 (est) | CPC $4.14 | value $14,000 | Google Ads equiv $1,300/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/furniture-store-balch-springs-tx/
+9. liquor store balch springs tx | searches/mo 3,500 (est) | CPC $4.14 | value $14,000 | Google Ads equiv $1,300/mo | our featured min $10/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/liquor-store-balch-springs-tx/
+10. vet balch springs tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-balch-springs-tx/
+11. funeral home balch springs tx | searches/mo 5,500 (est) | CPC $3.39 | value $19,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/funeral-home-balch-springs-tx/
+12. insurance agency balch springs tx | searches/mo 2,200 (est) | CPC $3.39 | value $7,500 | Google Ads equiv $620/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-balch-springs-tx/
+13. insurance agent balch springs tx | searches/mo 1,000 (est) | CPC $3.39 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-balch-springs-tx/
+14. insurance agents balch springs tx | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-balch-springs-tx/
+15. hair salon balch springs tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hair-salon-balch-springs-tx/
+
+## By value (searches x CPC)
+1. dentist balch springs tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-balch-springs-tx/
+2. car wash balch springs tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-balch-springs-tx/
+3. mechanic balch springs tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-balch-springs-tx/
+4. vet balch springs tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-balch-springs-tx/
+5. haircut balch springs tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/haircut-balch-springs-tx/
+6. auto repair balch springs tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-balch-springs-tx/
+7. hair salon balch springs tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hair-salon-balch-springs-tx/
+8. insurance agency balch springs tx | searches/mo 2,200 (est) | CPC $3.39 | value $7,500 | Google Ads equiv $620/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-balch-springs-tx/
+9. insurance agents balch springs tx | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-balch-springs-tx/
+10. insurance agent balch springs tx | searches/mo 1,000 (est) | CPC $3.39 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-balch-springs-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

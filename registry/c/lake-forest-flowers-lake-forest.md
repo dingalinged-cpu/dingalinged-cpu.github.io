@@ -15,7 +15,7 @@ Lake Forest Flowers is a florist in Lake Forest, IL at 546 North Western Avenue,
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lake-forest-flowers-lake-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lake-forest-flowers-lake-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1366372116 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Trane Commercial Sales Office is a HVAC contractor in Saint Paul, MN at 775 Vand
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/trane-commercial-sales-office-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/trane-commercial-sales-office-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6267097803 (license ODbL-1.0); source data as of 2026-07-24

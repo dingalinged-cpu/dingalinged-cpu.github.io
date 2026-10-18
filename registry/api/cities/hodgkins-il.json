@@ -57,7 +57,7 @@
    "trust_score": 20.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1040880508",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "home2home-project-hodgkins",
@@ -86,7 +86,7 @@
    "trust_score": 10.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/13421884707",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "pep-boys-hodgkins",
@@ -117,7 +117,7 @@
    "trust_score": 8.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/554941195",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   }
  ]
 }

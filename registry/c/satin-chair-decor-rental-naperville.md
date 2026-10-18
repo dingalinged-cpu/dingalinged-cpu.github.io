@@ -15,7 +15,7 @@ Satin Chair Decor Rental is a furniture store in Naperville, IL at 429 East Ogde
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/satin-chair-decor-rental-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/satin-chair-decor-rental-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/261748073 (license ODbL-1.0); source data as of 2026-06-01

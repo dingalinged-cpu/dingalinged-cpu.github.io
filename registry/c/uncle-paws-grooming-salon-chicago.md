@@ -15,7 +15,7 @@ Uncle Paws Grooming Salon is a dog groomer in Chicago, IL at 3656 East 106th Str
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/uncle-paws-grooming-salon-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/uncle-paws-grooming-salon-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7222791760 (license ODbL-1.0); source data as of 2026-06-01

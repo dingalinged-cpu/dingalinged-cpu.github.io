@@ -1,0 +1,23 @@
+Urban Nail Bar is a nail salon in Addison, TX at 4150 Belt Line Road #105, Addison, TX 75001. Website: https://urbannailbaraddison.com/.
+
+# Urban Nail Bar
+
+- Category: nail salon
+- Services: nail salon
+- Address: 4150 Belt Line Road #105, Addison, TX 75001
+- City: Addison
+- State: TX
+- ZIP: 75001
+- Coordinates: 32.9540248, -96.8404746
+- Phone: n/a
+- Website: https://urbannailbaraddison.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/urban-nail-bar-addison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/urban-nail-bar-addison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11934200033 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

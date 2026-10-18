@@ -15,7 +15,7 @@ Custom Remodelers is a general contractor in Circle Pines, MN at 474 Apollo Driv
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/custom-remodelers-circle-pines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/custom-remodelers-circle-pines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13968018313 (license ODbL-1.0); source data as of 2026-07-24

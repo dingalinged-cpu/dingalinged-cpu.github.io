@@ -15,7 +15,7 @@ State Of Illinois Auto Inspection is a vehicle inspection station in Chicago, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/state-of-illinois-auto-inspection-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-of-illinois-auto-inspection-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/165105584 (license ODbL-1.0); source data as of 2026-07-28

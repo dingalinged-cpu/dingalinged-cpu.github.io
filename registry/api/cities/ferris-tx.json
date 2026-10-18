@@ -1,0 +1,220 @@
+{
+ "place": "Ferris, TX",
+ "slug": "ferris-tx",
+ "count": 6,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair ferris tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-ferris-tx.json"
+  },
+  {
+   "keyword": "funeral home ferris tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-ferris-tx.json"
+  },
+  {
+   "keyword": "furniture store ferris tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-ferris-tx.json"
+  },
+  {
+   "keyword": "hair salon ferris tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-ferris-tx.json"
+  },
+  {
+   "keyword": "haircut ferris tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-ferris-tx.json"
+  },
+  {
+   "keyword": "mechanic ferris tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-ferris-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "la-flares-barbershop-ferris",
+   "name": "La Flare's Barbershop",
+   "summary": "La Flare's Barbershop is a hair salon in Ferris, TX at 219 West 6th Street, Ferris, TX 75125. Phone: +14696883421. Website: https://www.facebook.com/La-Flares-Barbershop-104162814752410/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-flares-barbershop-ferris/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-flares-barbershop-ferris.json",
+   "address": {
+    "streetAddress": "219 West 6th Street",
+    "addressLocality": "Ferris",
+    "addressRegion": "TX",
+    "postalCode": "75125",
+    "addressCountry": "US"
+   },
+   "city": "Ferris",
+   "state": "TX",
+   "zip": "75125",
+   "geo": {
+    "lat": 32.5339397,
+    "lon": -96.6665452
+   },
+   "phone": "+14696883421",
+   "website": "https://www.facebook.com/La-Flares-Barbershop-104162814752410/",
+   "opening_hours": "Tu-Fr 10:00-18:00, Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9892631732",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "duenas-countertops-and-custom-cabinets-ferris",
+   "name": "Duenas Countertops & Custom Cabinets",
+   "summary": "Duenas Countertops & Custom Cabinets is a furniture store in Ferris, TX at 3028 FM 660, Ferris, TX 75251. Phone: +19728423404.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/duenas-countertops-and-custom-cabinets-ferris/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/duenas-countertops-and-custom-cabinets-ferris.json",
+   "address": {
+    "streetAddress": "3028 FM 660",
+    "addressLocality": "Ferris",
+    "addressRegion": "TX",
+    "postalCode": "75251",
+    "addressCountry": "US"
+   },
+   "city": "Ferris",
+   "state": "TX",
+   "zip": "75251",
+   "geo": {
+    "lat": 32.5184696,
+    "lon": -96.6248742
+   },
+   "phone": "+19728423404",
+   "opening_hours": "Mo-Fr 07:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13583565354",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "martinez-transmission-shop-ferris",
+   "name": "Martinez Transmission Shop",
+   "summary": "Martinez Transmission Shop is an auto repair shop in Ferris, TX at 350 Trumbull Circle, Ferris, TX 75125.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/martinez-transmission-shop-ferris/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/martinez-transmission-shop-ferris.json",
+   "address": {
+    "streetAddress": "350 Trumbull Circle",
+    "addressLocality": "Ferris",
+    "addressRegion": "TX",
+    "postalCode": "75125",
+    "addressCountry": "US"
+   },
+   "city": "Ferris",
+   "state": "TX",
+   "zip": "75125",
+   "geo": {
+    "lat": 32.4899732,
+    "lon": -96.6657932
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/717718702",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mc-auto-creations-ferris",
+   "name": "MC Auto Creations",
+   "summary": "MC Auto Creations is an auto repair shop in Ferris, TX at 1710 Loop 561 #1, Ferris, TX 75125.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mc-auto-creations-ferris/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mc-auto-creations-ferris.json",
+   "address": {
+    "streetAddress": "1710 Loop 561 #1",
+    "addressLocality": "Ferris",
+    "addressRegion": "TX",
+    "postalCode": "75125",
+    "addressCountry": "US"
+   },
+   "city": "Ferris",
+   "state": "TX",
+   "zip": "75125",
+   "geo": {
+    "lat": 32.49125,
+    "lon": -96.665829
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/717718203",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "xpedition-industries-ferris",
+   "name": "Xpedition Industries",
+   "summary": "Xpedition Industries is an auto repair shop in Ferris, TX at 1710 Loop 561 #2, Ferris, TX 75125.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/xpedition-industries-ferris/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/xpedition-industries-ferris.json",
+   "address": {
+    "streetAddress": "1710 Loop 561 #2",
+    "addressLocality": "Ferris",
+    "addressRegion": "TX",
+    "postalCode": "75125",
+    "addressCountry": "US"
+   },
+   "city": "Ferris",
+   "state": "TX",
+   "zip": "75125",
+   "geo": {
+    "lat": 32.4915245,
+    "lon": -96.6660765
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/717718240",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "greens-funeral-home-ferris",
+   "name": "Greens Funeral Home",
+   "summary": "Greens Funeral Home is a funeral home in Ferris, TX.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greens-funeral-home-ferris/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greens-funeral-home-ferris.json",
+   "address": {
+    "addressLocality": "Ferris",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Ferris",
+   "state": "TX",
+   "geo": {
+    "lat": 32.5330515,
+    "lon": -96.6682459
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/311690984",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

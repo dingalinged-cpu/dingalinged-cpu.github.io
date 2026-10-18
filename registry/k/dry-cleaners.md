@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for the United States is CD One Price Cleaners (a dry cleaner in Naperville, IL at 340 East Ogden Avenue, Naperville, IL 60563. Phone: +13312293916. Website: https://www.cdonepricecleaners.com/locations/illinois/dry-cleaning-in-naperville-east/). 252 dry cleaners businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for the United States is Best Cleaners (a dry cleaner in Houston, TX at 95 #70, Houston, TX 77063. Phone: +17137840911. Website: https://bestcleanershouston.com/). 576 dry cleaners businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in the United States?
 
@@ -6,269 +6,224 @@ Also answers: dry cleaners in the United States; dry cleaners near me (the Unite
 
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
-1. CD One Price Cleaners | trust 20.0 | CD One Price Cleaners is a dry cleaner in Naperville, IL at 340 East Ogden Avenue, Naperville, IL 60563. Phone: +13312293916. Website: https://www.cdonepricecleaners.com/locations/illinois/dry-cleaning-in-naperville-east/. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-naperville/
-2. Chicago Wedding Dress Cleaners | trust 20.0 | Chicago Wedding Dress Cleaners is a dry cleaner in Naperville, IL at 1809 Wehrli Road, Naperville, IL 60565. Phone: +16304450603. Website: https://chicagoweddingdresscleaners.com/. | https://dingalinged-cpu.github.io/registry/c/chicago-wedding-dress-cleaners-naperville/
-3. Clean 'n' Press | trust 20.0 | Clean 'n' Press is a dry cleaner in Eagan, MN at 3250 Denmark Avenue #106, Eagan, MN 55121. Phone: +16519051330. Website: https://cleannpress.com/. | https://dingalinged-cpu.github.io/registry/c/clean-n-press-eagan/
-4. Clean 'n' Press | trust 20.0 | Clean 'n' Press is a dry cleaner in Maple Grove, MN at 13704 Grove Drive North, Maple Grove, MN 55311. Phone: +17634166040. Website: https://www.cleannpress.com/. | https://dingalinged-cpu.github.io/registry/c/clean-n-press-maple-grove/
-5. Colonial Cleaners, Inc. | trust 20.0 | Colonial Cleaners, Inc. is a dry cleaner in Minneapolis, MN at 3701 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238095. Website: https://colonialcleanersmn.com/. | https://dingalinged-cpu.github.io/registry/c/colonial-cleaners-inc-minneapolis/
-6. Edina Cleaners | trust 20.0 | Edina Cleaners is a dry cleaner in Edina, MN at 4530 France Avenue South #Suite 100, Edina, MN 55410. Phone: +19529279991. Website: https://myedinacleaners.com/. | https://dingalinged-cpu.github.io/registry/c/edina-cleaners-edina/
-7. LIndy Cleaners | trust 20.0 | LIndy Cleaners is a dry cleaner in Oak Park, IL at 127 South Oak Park Avenue, Oak Park, IL 60302. Phone: +17083865234. Website: https://lindycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/lindy-cleaners-oak-park/
-8. Pilgrim Cleaners | trust 20.0 | Pilgrim Cleaners is a dry cleaner in Maple Grove, MN at 13579 Grove Drive North, Maple Grove, MN 55311. Phone: +17634206770. Website: https://www.pilgrimdrycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-maple-grove/
-9. Plaza Cleaners & Launderers | trust 20.0 | Plaza Cleaners & Launderers is a dry cleaner in Maple Grove, MN at 13752 83rd Way North, Maple Grove, MN 55369. Phone: +17634204433. Website: https://www.plazacleanersmaplegrove.com/. | https://dingalinged-cpu.github.io/registry/c/plaza-cleaners-and-launderers-maple-grove/
-10. Quality Cleaners | trust 20.0 | Quality Cleaners is a dry cleaner in New Lenox, IL at 13150 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154854422. Website: https://welkersqualitycleaners.business.site/. | https://dingalinged-cpu.github.io/registry/c/quality-cleaners-new-lenox/
-11. St Croix Cleaners | trust 20.0 | St Croix Cleaners is a dry cleaner in Saint Paul, MN at 678 Grand Avenue, Saint Paul, MN 55105. Phone: +16512911683. Website: https://stcroixcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/st-croix-cleaners-saint-paul/
-12. Tide Cleaners | trust 20.0 | Tide Cleaners is a dry cleaner in Maple Grove, MN at 11680 Elm Creek Boulevard North, Maple Grove, MN 55369. Phone: +17632051897. Website: https://www.tidedrycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/tide-cleaners-maple-grove/
-13. Village Cleaners | trust 20.0 | Village Cleaners is a dry cleaner in Saint Louis Park, MN at 5309 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529224757. Website: https://villagecleanersmn.com/. | https://dingalinged-cpu.github.io/registry/c/village-cleaners-saint-louis-park/
-14. St. Anthony Cleaners | trust 19.0 | St. Anthony Cleaners is a dry cleaner in Saint Anthony, MN at 3007 37th Avenue Northeast, Saint Anthony, MN. Phone: +16129102890. Website: https://stanthonycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/st-anthony-cleaners-saint-anthony/
-15. All Seasons Garment Care and Tailoring | trust 16.0 | All Seasons Garment Care and Tailoring is a dry cleaner in Saint Paul, MN at 2234 Carter Avenue, Saint Paul, MN 55108. Phone: +16516448300. Website: https://www.allseasonsgarmentcare.com/. | https://dingalinged-cpu.github.io/registry/c/all-seasons-garment-care-and-tailoring-saint-paul/
-16. CD One Price Cleaners | trust 16.0 | CD One Price Cleaners is a dry cleaner in Darien, IL at 2425 75th Street, Darien, IL 60561. Phone: +16309106715. Website: https://www.cdonepricecleaners.com/locations/illinois/darien.aspx. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-darien/
-17. Elite Dry Cleaners | trust 16.0 | Elite Dry Cleaners is a dry cleaner in Minneapolis, MN at 3101 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127213141. Website: https://elite-dry-cleaners.com/. | https://dingalinged-cpu.github.io/registry/c/elite-dry-cleaners-minneapolis/
-18. Four Seasons Dry Cleaners & Tailoring | trust 16.0 | Four Seasons Dry Cleaners & Tailoring is a dry cleaner in Chicago, IL at 1550 South Indiana Avenue, Chicago, IL 60605. Phone: +13129131025. Website: https://www.yelp.com/biz/four-seasons-dry-cleaners-and-tailoring-chicago. | https://dingalinged-cpu.github.io/registry/c/four-seasons-dry-cleaners-and-tailoring-chicago/
-19. June 1250 Cleaners | trust 16.0 | June 1250 Cleaners is a dry cleaner in Chicago, IL at 1250 South Michigan Avenue, Chicago, IL 60605. Phone: +13126631240. Website: https://www.yelp.com/biz/june-1250-cleaners-chicago. | https://dingalinged-cpu.github.io/registry/c/june-1250-cleaners-chicago/
-20. Lake City Cleaners | trust 16.0 | Lake City Cleaners is a dry cleaner in Evanston, IL at 1127 Emerson Street, Evanston, IL 60201. Phone: +18478646200. Website: https://lakecitycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/lake-city-cleaners-evanston/
-21. LaMac Cleaners | trust 16.0 | LaMac Cleaners is a dry cleaner in Minneapolis, MN. Phone: +16128235559. Website: https://lamaccleaners.com/. | https://dingalinged-cpu.github.io/registry/c/lamac-cleaners-minneapolis/
-22. Mulberry's | trust 16.0 | Mulberry's is a dry cleaner in Saint Louis Park, MN at 3900 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +16123923770. Website: https://www.mulberryscleaners.com/minneapolis-saint-paul/store/st-louis-park/. | https://dingalinged-cpu.github.io/registry/c/mulberrys-saint-louis-park/
-23. Mulberrys Garment Care | trust 16.0 | Mulberrys Garment Care is a dry cleaner in Saint Paul, MN at 978 Grand Avenue, Saint Paul, MN 55105. Phone: +16514609069. Website: https://www.mulberryscleaners.com/store/st-paul/. | https://dingalinged-cpu.github.io/registry/c/mulberrys-garment-care-saint-paul/
-24. Pilgrim Cleaners | trust 16.0 | Pilgrim Cleaners is a dry cleaner in Minneapolis, MN at 206 1st Avenue North, Minneapolis, MN 55401. Phone: +16123153536. Website: https://www.pilgrimdrycleaners.com/locations/minneapolis-north-loop. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-minneapolis-n11292231490/
-25. Pilgrim Cleaners | trust 16.0 | Pilgrim Cleaners is a dry cleaner in Richfield, MN at 2901 West 66th Street, Richfield, MN 55423. Phone: +16128611697. Website: https://mypilgrimcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-richfield/
-26. Pilgrim Cleaners | trust 16.0 | Pilgrim Cleaners is a dry cleaner in Robbinsdale, MN at 4606 42nd Avenue North, Robbinsdale, MN 55422. Phone: +17635373587. Website: https://www.pilgrimdrycleaners.com/locations/robbinsdale. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-robbinsdale/
-27. Pilgrim Cleaners | trust 16.0 | Pilgrim Cleaners is a dry cleaner in Saint Louis Park, MN at 4120 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529226056. Website: https://www.pilgrimdrycleaners.com/locations/st-louis-park. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-saint-louis-park/
-28. Smile Cleaners | trust 16.0 | Smile Cleaners is a dry cleaner in Chicago, IL at 1132 West Thorndale Avenue, Chicago, IL 60660. Phone: +17737842464. Website: https://smilecleanersservice.com/. | https://dingalinged-cpu.github.io/registry/c/smile-cleaners-chicago-n13669694938/
-29. Storchak Cleaners | trust 16.0 | Storchak Cleaners is a dry cleaner in Minneapolis, MN at 705 Douglas Avenue, Minneapolis, MN 55403. Phone: +16123742869. Website: https://www.storchakcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/storchak-cleaners-minneapolis/
-30. CD One Price Cleaners | trust 14.0 | CD One Price Cleaners is a dry cleaner in Lake Zurich, IL at 488 South Rand Road, Lake Zurich, IL 60047. Phone: +12246624851. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-lake-zurich/
-31. CD One Price Cleaners | trust 14.0 | CD One Price Cleaners is a dry cleaner in Naperville, IL at 1592 West Ogden Avenue #124, Naperville, IL 60540. Website: https://www.cdonepricecleaners.com/locations/illinois/dry-cleaning-in-naperville-west/. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-naperville-w1181040591/
-32. Clean As A Whistle Cleaners | trust 14.0 | Clean As A Whistle Cleaners is a dry cleaner in Chicago, IL at 836 West Adams Street #1, Chicago, IL 60607. Phone: +13127380578. | https://dingalinged-cpu.github.io/registry/c/clean-as-a-whistle-cleaners-chicago/
-33. Cleaners | trust 14.0 | Cleaners is a dry cleaner in Wheeling, IL at 751 West Dundee Road, Wheeling, IL 60090. Phone: +18475209555. | https://dingalinged-cpu.github.io/registry/c/cleaners-wheeling/
-34. Division Cleaners | trust 14.0 | Division Cleaners is a dry cleaner in Chicago, IL at 1508 West Division Street, Chicago, IL 60642. Phone: +17736986208. | https://dingalinged-cpu.github.io/registry/c/division-cleaners-chicago/
-35. Kinzie Cleaners | trust 14.0 | Kinzie Cleaners is a dry cleaner in Chicago, IL at 327 North Desplaines Street, Chicago, IL 60661. Phone: +13125444411. | https://dingalinged-cpu.github.io/registry/c/kinzie-cleaners-chicago/
-36. Lake City Cleaners | trust 14.0 | Lake City Cleaners is a dry cleaner in Evanston, IL at 600 Oakton Street, Evanston, IL 60202. Website: https://lakecitycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/lake-city-cleaners-evanston-w842281482/
-37. Manor Cleaners | trust 14.0 | Manor Cleaners is a dry cleaner in Chicago, IL at 2913 North Broadway, Chicago, IL 60657. Phone: +17739299898. | https://dingalinged-cpu.github.io/registry/c/manor-cleaners-chicago/
-38. Mulberrys Dry Cleaners and Laundry | trust 14.0 | Mulberrys Dry Cleaners and Laundry is a dry cleaner in Edina, MN at 5127 Gus Young Lane, Edina, MN 55436. Website: https://www.mulberryscleaners.com/minneapolis-saint-paul/store/edina/. | https://dingalinged-cpu.github.io/registry/c/mulberrys-dry-cleaners-and-laundry-edina/
-39. Platinum Dry Cleaners | trust 14.0 | Platinum Dry Cleaners is a dry cleaner in Chicago, IL at 3707 North Broadway, Chicago, IL 60613. Phone: +17738809650. | https://dingalinged-cpu.github.io/registry/c/platinum-dry-cleaners-chicago/
-40. Prestige Cleaners | trust 14.0 | Prestige Cleaners is a dry cleaner in Arlington Heights, IL at 1506 East Hintz Road, Arlington Heights, IL 60004. Phone: +18476320355. | https://dingalinged-cpu.github.io/registry/c/prestige-cleaners-arlington-heights/
-41. Prestige Cleaning Center | trust 14.0 | Prestige Cleaning Center is a dry cleaner in Minneapolis, MN at 3711 West 44th Street, Minneapolis, MN 55410. Website: https://www.prestigecleaningcenter.com/. | https://dingalinged-cpu.github.io/registry/c/prestige-cleaning-center-minneapolis/
-42. Professional Dry Cleaners | trust 14.0 | Professional Dry Cleaners is a dry cleaner in Vernon Hills, IL at 283 Evergreen Drive, Vernon Hills, IL 60061. Phone: +18478161177. | https://dingalinged-cpu.github.io/registry/c/professional-dry-cleaners-vernon-hills/
-43. Camelot Cleaners | trust 10.0 | Camelot Cleaners is a dry cleaner in West Saint Paul, MN at 984 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514572909. | https://dingalinged-cpu.github.io/registry/c/camelot-cleaners-west-saint-paul/
-44. CD One Price Cleaners | trust 10.0 | CD One Price Cleaners is a dry cleaner in Chicago Heights, IL at 567 West Lincoln Highway, Chicago Heights, IL 60411. Website: https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-chicago-heights/. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-chicago-heights/
-45. CD One Price Cleaners | trust 10.0 | CD One Price Cleaners is a dry cleaner in Chicago, IL at 10323 South Pulaski Road, Chicago, IL 60655. Website: https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-chicago-mt-greenwood/. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-chicago-n11374769638/
-46. CD One Price Cleaners | trust 10.0 | CD One Price Cleaners is a dry cleaner in Chicago, IL at 6600 West North Avenue, Chicago, IL 60707. Website: https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-chicago-oak-park/. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-chicago-n12229655887/
-47. CD One Price Cleaners | trust 10.0 | CD One Price Cleaners is a dry cleaner in Homewood, IL at 18046 Halsted Street, Homewood, IL 60430. Website: https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-homewood/. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-homewood/
-48. CD One Price Cleaners | trust 10.0 | CD One Price Cleaners is a dry cleaner in Oak Lawn, IL at 6326 West 95th Street, Oak Lawn, IL 60453. Website: https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-oak-lawn/. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-oak-lawn/
-49. CD One Price Cleaners | trust 10.0 | CD One Price Cleaners is a dry cleaner in Orland Park, IL at 7852 West 159th Street, Orland Park, IL 60462. Website: https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-orland-park/. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-orland-park/
-50. Chee Cleaners | trust 10.0 | Chee Cleaners is a dry cleaner in Chicago, IL. Phone: +17737047022. | https://dingalinged-cpu.github.io/registry/c/chee-cleaners-chicago/
-51. Clean'n'Press | trust 10.0 | Clean'n'Press is a dry cleaner in Saint Anthony, MN. Website: https://cleannpress.com/st-anthony-dry-cleaner/. | https://dingalinged-cpu.github.io/registry/c/cleannpress-saint-anthony/
-52. Fabricare on Broadway | trust 10.0 | Fabricare on Broadway is a dry cleaner in Chicago, IL at 3710 North Broadway, Chicago, IL 60613. Phone: +17734727778. | https://dingalinged-cpu.github.io/registry/c/fabricare-on-broadway-chicago/
-53. Glenwood Cleaners Inc | trust 10.0 | Glenwood Cleaners Inc is a dry cleaner in Glenview, IL at 3234 Greenwood Road, Glenview, IL 60025. Phone: +18477245414. | https://dingalinged-cpu.github.io/registry/c/glenwood-cleaners-inc-glenview/
-54. Itasca Cleaners | trust 10.0 | Itasca Cleaners is a dry cleaner in Itasca, IL at 110 West Center Street, Itasca, IL 60143. Phone: +16302851300. | https://dingalinged-cpu.github.io/registry/c/itasca-cleaners-itasca/
-55. Kenny the Kleener | trust 10.0 | Kenny the Kleener is a dry cleaner in Evanston, IL at 3330 Central Street #2, Evanston, IL 60201. Website: https://www.kennythekleener.com/. | https://dingalinged-cpu.github.io/registry/c/kenny-the-kleener-evanston/
-56. Kenny The Kleener | trust 10.0 | Kenny The Kleener is a dry cleaner in Wilmette, IL at 3520 Lake Avenue #101, Wilmette, IL 60091. Website: https://kennythekleener.com/. | https://dingalinged-cpu.github.io/registry/c/kenny-the-kleener-wilmette/
-57. Kim's Cleaners | trust 10.0 | Kim's Cleaners is a dry cleaner in Evanston, IL at 1045B Chicago Avenue, Evanston, IL 60202. Phone: +18478647494. | https://dingalinged-cpu.github.io/registry/c/kims-cleaners-evanston/
-58. Lincoln Park Cleaners | trust 10.0 | Lincoln Park Cleaners is a dry cleaner in Chicago, IL at 659 West Armitage Avenue, Chicago, IL 60614. Phone: +13126644176. | https://dingalinged-cpu.github.io/registry/c/lincoln-park-cleaners-chicago/
-59. Magic Touch Cleaners | trust 10.0 | Magic Touch Cleaners is a dry cleaner in Darien, IL at 7516 Cass Avenue, Darien, IL 60561. Phone: +16309682394. | https://dingalinged-cpu.github.io/registry/c/magic-touch-cleaners-darien/
-60. Noyes Cleaners | trust 10.0 | Noyes Cleaners is a dry cleaner in Evanston, IL at 918 Noyes Street, Evanston, IL 60201. Phone: +18477330711. | https://dingalinged-cpu.github.io/registry/c/noyes-cleaners-evanston/
-61. Osman Cleaners | trust 10.0 | Osman Cleaners is a dry cleaner in Minneapolis, MN. Phone: +16123741462. | https://dingalinged-cpu.github.io/registry/c/osman-cleaners-minneapolis/
-62. Pure Cleaners | trust 10.0 | Pure Cleaners is a dry cleaner in Chicago, IL at 2040 West Division Street, Chicago, IL 60622. Phone: +17733950600. | https://dingalinged-cpu.github.io/registry/c/pure-cleaners-chicago/
-63. Ridge Cleaners | trust 10.0 | Ridge Cleaners is a dry cleaner in Western Springs, IL at 5524 Wolf Road, Western Springs, IL 60558. Phone: +17082460448. | https://dingalinged-cpu.github.io/registry/c/ridge-cleaners-western-springs/
-64. Rinse | trust 10.0 | Rinse is a dry cleaner in Chicago, IL at 1918 North Mendell Street #Ste 100, Chicago, IL 60614. Website: https://www.rinse.com/. | https://dingalinged-cpu.github.io/registry/c/rinse-chicago/
-65. Schererville Dry Cleaners | trust 10.0 | Schererville Dry Cleaners is a dry cleaner in Schererville, IN at 5502 West Lincoln Highway, Schererville, IN 46375. Phone: +12193223345. | https://dingalinged-cpu.github.io/registry/c/schererville-dry-cleaners-schererville/
-66. Soapie's Exceptional Cleaning and Exquisite Tailoring | trust 10.0 | Soapie's Exceptional Cleaning and Exquisite Tailoring is a dry cleaner in Evanston, IL at 1231 Chicago Avenue, Evanston, IL 60202. Website: https://www.soapiescleaners.com/. | https://dingalinged-cpu.github.io/registry/c/soapies-exceptional-cleaning-and-exquisite-tailoring-evanston/
-67. Tailorite Complete Clothing Care | trust 10.0 | Tailorite Complete Clothing Care is a dry cleaner in Chicago, IL at 8459 South Cottage Grove Avenue, Chicago, IL 60619. Website: https://tailoriteclothingcare.com/. | https://dingalinged-cpu.github.io/registry/c/tailorite-complete-clothing-care-chicago/
-68. Tailorite Complete Clothing Care | trust 10.0 | Tailorite Complete Clothing Care is a dry cleaner in Chicago, IL at 6509 South Doctor Martin Luther King Junior Drive, Chicago, IL 60637. Website: https://tailoriteclothingcare.com/. | https://dingalinged-cpu.github.io/registry/c/tailorite-complete-clothing-care-chicago-w210905782/
-69. U.S. Cleaners | trust 10.0 | U.S. Cleaners is a dry cleaner in Saint Louis Park, MN at 7119 Cedar Lake Road, Saint Louis Park, MN 55426. Phone: +19525446200. | https://dingalinged-cpu.github.io/registry/c/u-s-cleaners-saint-louis-park/
-70. US Cleaners | trust 10.0 | US Cleaners is a dry cleaner in Minneapolis, MN at 4729 Hiawatha Avenue, Minneapolis, MN 55406. Phone: +16127299206. | https://dingalinged-cpu.github.io/registry/c/us-cleaners-minneapolis/
-71. 507 Cleaners | trust 8.0 | 507 Cleaners is a dry cleaner in Evanston, IL at 507 Main Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/507-cleaners-evanston/
-72. Advanced Cleaners | trust 8.0 | Advanced Cleaners is a dry cleaner in Chicago, IL at 1717 North Western Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/advanced-cleaners-chicago/
-73. Clover Cleaners | trust 8.0 | Clover Cleaners is a dry cleaner in Bloomington, MN at 9342 Ensign Avenue South, Bloomington, MN 55438. | https://dingalinged-cpu.github.io/registry/c/clover-cleaners-bloomington/
-74. Forest Cleaners | trust 8.0 | Forest Cleaners is a dry cleaner in Chicago, IL at 4645 North Lincoln Avenue, Chicago, IL 60625. | https://dingalinged-cpu.github.io/registry/c/forest-cleaners-chicago/
-75. Ivory #3 Cleaners | trust 8.0 | Ivory #3 Cleaners is a dry cleaner in Chicago, IL at 1005 East 53rd Street, Chicago, IL 60615. | https://dingalinged-cpu.github.io/registry/c/ivory-3-cleaners-chicago/
-76. Morgan Cleaners | trust 8.0 | Morgan Cleaners is a dry cleaner in Chicago, IL at 949 West Madison Street #48, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/morgan-cleaners-chicago/
-77. New S.O.S Cleaners | trust 8.0 | New S.O.S Cleaners is a dry cleaner in Chicago, IL at 810 West Irving Park Road, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/new-s-o-s-cleaners-chicago/
-78. Old Town Valet Shoppe Laundry & Dry Cleaners | trust 8.0 | Old Town Valet Shoppe Laundry & Dry Cleaners is a dry cleaner in Chicago, IL at 1748 North Wells Street, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/old-town-valet-shoppe-laundry-and-dry-cleaners-chicago/
-79. Roosevelt Cleaners | trust 8.0 | Roosevelt Cleaners is a dry cleaner in Chicago, IL at 734 South Dearborn Street, Chicago, IL 60605. | https://dingalinged-cpu.github.io/registry/c/roosevelt-cleaners-chicago/
-80. Spotless Solutions | trust 8.0 | Spotless Solutions is a dry cleaner in Chicago, IL at 1400 East 47th Street #G, Chicago, IL 60653. | https://dingalinged-cpu.github.io/registry/c/spotless-solutions-chicago/
-81. Vogue Cleaners | trust 8.0 | Vogue Cleaners is a dry cleaner in Chicago, IL at 1442 East 57th Street, Chicago, IL 60637. | https://dingalinged-cpu.github.io/registry/c/vogue-cleaners-chicago/
-82. Winona Cleaners | trust 8.0 | Winona Cleaners is a dry cleaner in Chicago, IL at 5140 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/winona-cleaners-chicago/
-83. Bijou Cleaners | trust 7.0 | Bijou Cleaners is a dry cleaner in Chicago, IL at 3758 North Damen Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/bijou-cleaners-chicago/
-84. Pilgrim Cleaners | trust 7.0 | Pilgrim Cleaners is a dry cleaner in Minneapolis, MN at 2925 Dupont Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-minneapolis/
-85. Mulberrys Garment Care | trust 6.0 | Mulberrys Garment Care is a dry cleaner in Minneapolis, MN. Website: https://www.mulberryscleaners.com/. | https://dingalinged-cpu.github.io/registry/c/mulberrys-garment-care-minneapolis/
-86. Pilgrim Cleaners | trust 6.0 | Pilgrim Cleaners is a dry cleaner in Coon Rapids, MN. Phone: +17633239949. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-coon-rapids/
-87. 75th Cleaners | trust 4.0 | 75th Cleaners is a dry cleaner in Naperville, IL at 1271 Rickert Drive #103, Naperville, IL 60540. | https://dingalinged-cpu.github.io/registry/c/75th-cleaners-naperville/
-88. Ann Cleaners | trust 4.0 | Ann Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/ann-cleaners-chicago/
-89. BC Cleaners | trust 4.0 | BC Cleaners is a dry cleaner in Evanston, IL at 1623 Chicago Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/bc-cleaners-evanston/
-90. Best 1hr. Cleaners | trust 4.0 | Best 1hr. Cleaners is a dry cleaner in Glenview, IL at 1880 Glenview Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/best-1hr-cleaners-glenview/
-91. Best Cleaners | trust 4.0 | Best Cleaners is a dry cleaner in Chanhassen, MN at 7886 Market Boulevard, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/best-cleaners-chanhassen/
-92. Brite Tailoring Dry Cleaners | trust 4.0 | Brite Tailoring Dry Cleaners is a dry cleaner in Chicago, IL at 28 West Superior Street, Chicago, IL 60654. | https://dingalinged-cpu.github.io/registry/c/brite-tailoring-dry-cleaners-chicago/
-93. Capitol Cleaners | trust 4.0 | Capitol Cleaners is a dry cleaner in Chicago, IL at 305 South Desplaines Street, Chicago, IL 60661. | https://dingalinged-cpu.github.io/registry/c/capitol-cleaners-chicago/
-94. CD One Price Cleaners | trust 4.0 | CD One Price Cleaners is a dry cleaner in Chicago, IL at 2200 South Michigan Avenue, Chicago, IL 60616. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-chicago-n12849513468/
-95. CD One Price Cleaners | trust 4.0 | CD One Price Cleaners is a dry cleaner in Chicago, IL at 2955 North Ashland Avenue, Chicago, IL 60657. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-chicago-w209885431/
-96. CD One Price Cleaners | trust 4.0 | CD One Price Cleaners is a dry cleaner in Des Plaines, IL at 1387 Lee Street #100, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-des-plaines/
-97. CD One Price Cleaners | trust 4.0 | CD One Price Cleaners is a dry cleaner in Hanover Park, IL. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-hanover-park/
-98. CD One Price Cleaners | trust 4.0 | CD One Price Cleaners is a dry cleaner in Lansing, IL at 17705 Torrence Avenue, Lansing, IL 60438. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-lansing/
-99. CD One Price Cleaners | trust 4.0 | CD One Price Cleaners is a dry cleaner in Lincolnwood, IL at 3320 West Devon Avenue, Lincolnwood, IL 60712. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-lincolnwood/
-100. CD One Price Cleaners | trust 4.0 | CD One Price Cleaners is a dry cleaner in Morton Grove, IL at 6949 West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-morton-grove/
-101. CD One Price Cleaners | trust 4.0 | CD One Price Cleaners is a dry cleaner in Munster, IN at 7948 Calumet Avenue, Munster, IN 46321. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-munster/
-102. CD One Price Cleaners | trust 4.0 | CD One Price Cleaners is a dry cleaner in South Holland, IL at 350 East 162nd Street, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-south-holland/
-103. Cicero Cleaners | trust 4.0 | Cicero Cleaners is a dry cleaner in Cicero, IL at 5933 West Roosevelt Road, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/cicero-cleaners-cicero/
-104. Clean 'n' Press | trust 4.0 | Clean 'n' Press is a dry cleaner in Vadnais Heights, MN at 1032 Highway 96, Vadnais Heights, MN 55127. | https://dingalinged-cpu.github.io/registry/c/clean-n-press-vadnais-heights/
-105. Clean'n'Press | trust 4.0 | Clean'n'Press is a dry cleaner in Saint Louis Park, MN at 4716 Excelsior Boulevard, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/cleannpress-saint-louis-park/
-106. Cleaners | trust 4.0 | Cleaners is a dry cleaner in Chicago, IL at 1451 South State Street, Chicago, IL 60605. | https://dingalinged-cpu.github.io/registry/c/cleaners-chicago/
-107. Cleaners | trust 4.0 | Cleaners is a dry cleaner in Excelsior, MN at Manitou Road, Excelsior, MN 55331. | https://dingalinged-cpu.github.io/registry/c/cleaners-excelsior/
-108. Cleaners | trust 4.0 | Cleaners is a dry cleaner in Mundelein, IL at 720 South Butterfield Road, Mundelein, IL 60060. | https://dingalinged-cpu.github.io/registry/c/cleaners-mundelein/
-109. Dry Clean Direct | trust 4.0 | Dry Clean Direct is a dry cleaner in Chicago, IL at 9300 South Commercial Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/dry-clean-direct-chicago/
-110. Eden's Cleaners | trust 4.0 | Eden's Cleaners is a dry cleaner in Chicago, IL at 4742 West Peterson Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/edens-cleaners-chicago/
-111. Evans Garment Restoration | trust 4.0 | Evans Garment Restoration is a dry cleaner in Chaska, MN at 108 Peavey Road, Chaska, MN 55318. | https://dingalinged-cpu.github.io/registry/c/evans-garment-restoration-chaska/
-112. Express Cleaners | trust 4.0 | Express Cleaners is a dry cleaner in Chicago, IL at 1850 West North Avenue, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/express-cleaners-chicago/
-113. Gen Cleaners | trust 4.0 | Gen Cleaners is a dry cleaner in Chicago, IL at 911 West Washington Boulevard, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/gen-cleaners-chicago/
-114. Glad Cleaners | trust 4.0 | Glad Cleaners is a dry cleaner in Chicago, IL at 6410-6412 North Central Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/glad-cleaners-chicago/
-115. Grand Cleaners | trust 4.0 | Grand Cleaners is a dry cleaner in Roseville, MN at 1757 Lexington Avenue North, Roseville, MN 55113. | https://dingalinged-cpu.github.io/registry/c/grand-cleaners-roseville/
-116. Happy Cleaners | trust 4.0 | Happy Cleaners is a dry cleaner in Chicago, IL at 2124 West Roscoe Street, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/happy-cleaners-chicago/
-117. Helen's Cleaners | trust 4.0 | Helen's Cleaners is a dry cleaner in Kenilworth, IL at Park Drive, Kenilworth, IL 60043. | https://dingalinged-cpu.github.io/registry/c/helens-cleaners-kenilworth/
-118. Heritage Cleaners | trust 4.0 | Heritage Cleaners is a dry cleaner in Naperville, IL at 1212 South Naper Boulevard, Naperville, IL 60540. | https://dingalinged-cpu.github.io/registry/c/heritage-cleaners-naperville/
-119. Hour Glass Cleaners | trust 4.0 | Hour Glass Cleaners is a dry cleaner in Chanhassen, MN at 530 West 79th Street, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/hour-glass-cleaners-chanhassen/
-120. Howard Cleaners | trust 4.0 | Howard Cleaners is a dry cleaner in Chicago, IL at 2055 West Howard Street, Chicago, IL 60645. | https://dingalinged-cpu.github.io/registry/c/howard-cleaners-chicago/
-121. Hyde Park Cleaners | trust 4.0 | Hyde Park Cleaners is a dry cleaner in Chicago, IL at 5424 South Lake Park Avenue, Chicago, IL 60615. | https://dingalinged-cpu.github.io/registry/c/hyde-park-cleaners-chicago/
-122. J&K Cleaners | trust 4.0 | J&K Cleaners is a dry cleaner in Naperville, IL at 1484 East Chicago Avenue, Naperville, IL 60540. | https://dingalinged-cpu.github.io/registry/c/j-and-k-cleaners-naperville/
-123. Kenny The Kleener | trust 4.0 | Kenny The Kleener is a dry cleaner in Evanston, IL at 635 Chicago Avenue #8, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/kenny-the-kleener-evanston-n13627182910/
-124. Kenwood Cleaners | trust 4.0 | Kenwood Cleaners is a dry cleaner in Chicago, IL at 1336 East 47th Street, Chicago, IL 60653. | https://dingalinged-cpu.github.io/registry/c/kenwood-cleaners-chicago/
-125. King's Cleaners | trust 4.0 | King's Cleaners is a dry cleaner in Bolingbrook, IL at 1719 West Boughton Road, Bolingbrook, IL 60490. | https://dingalinged-cpu.github.io/registry/c/kings-cleaners-bolingbrook/
-126. Lake City Cleaners | trust 4.0 | Lake City Cleaners is a dry cleaner in Lake Forest, IL at 866 North Western Avenue, Lake Forest, IL 60045. | https://dingalinged-cpu.github.io/registry/c/lake-city-cleaners-lake-forest/
-127. Lakeshore Cleaners | trust 4.0 | Lakeshore Cleaners is a dry cleaner in Chicago, IL at 5064 North Sheridan Road, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/lakeshore-cleaners-chicago/
-128. LaSalle Cleaners | trust 4.0 | LaSalle Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/lasalle-cleaners-chicago/
-129. M & M Cleaners | trust 4.0 | M & M Cleaners is a dry cleaner in West Saint Paul, MN at 1134 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/m-and-m-cleaners-west-saint-paul/
-130. Master Craft Cleaners | trust 4.0 | Master Craft Cleaners is a dry cleaner in Des Plaines, IL at 1175 South Elmhurst Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/master-craft-cleaners-des-plaines/
-131. Mayfield Cleaners | trust 4.0 | Mayfield Cleaners is a dry cleaner in Oak Lawn, IL at 5955 West 87th Street, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/mayfield-cleaners-oak-lawn/
-132. Montrose Cleaners | trust 4.0 | Montrose Cleaners is a dry cleaner in Chicago, IL at 2004 West Montrose Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/montrose-cleaners-chicago/
-133. Napervalue Cleaners | trust 4.0 | Napervalue Cleaners is a dry cleaner in Naperville, IL at 813 North Washington Street, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/napervalue-cleaners-naperville/
-134. O'Connor's Cleaners | trust 4.0 | O'Connor's Cleaners is a dry cleaner in Oak Park, IL at 1045 Chicago Avenue, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/oconnors-cleaners-oak-park/
-135. Oak Cleaners | trust 4.0 | Oak Cleaners is a dry cleaner in Oak Park, IL at 900 South Ridgeland Avenue, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/oak-cleaners-oak-park/
-136. Oakton Cleaners | trust 4.0 | Oakton Cleaners is a dry cleaner in Skokie, IL at 4100 Oakton Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/oakton-cleaners-skokie/
-137. One Hour Cleaners | trust 4.0 | One Hour Cleaners is a dry cleaner in Oak Park, IL at 7107 West North Avenue, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/one-hour-cleaners-oak-park/
-138. Panda Cleaners | trust 4.0 | Panda Cleaners is a dry cleaner in Chicago, IL at 5500 West Lawrence Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/panda-cleaners-chicago/
-139. Paramount Cleaners | trust 4.0 | Paramount Cleaners is a dry cleaner in Chicago, IL at 125 South Jefferson Street #S, Chicago, IL 60661. | https://dingalinged-cpu.github.io/registry/c/paramount-cleaners-chicago/
-140. Park Avenue Cleaners | trust 4.0 | Park Avenue Cleaners is a dry cleaner in Oak Park, IL at 817 South Oak Park Avenue, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/park-avenue-cleaners-oak-park/
-141. Princess Cleaners | trust 4.0 | Princess Cleaners is a dry cleaner in Chicago, IL at 4134 North Broadway, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/princess-cleaners-chicago/
-142. Quad Valet Cleaners | trust 4.0 | Quad Valet Cleaners is a dry cleaner in Chicago, IL at 6700 South South Shore Drive, Chicago, IL 60649. | https://dingalinged-cpu.github.io/registry/c/quad-valet-cleaners-chicago/
-143. Rosicky's National Cleaners | trust 4.0 | Rosicky's National Cleaners is a dry cleaner in Cicero, IL at West Cermak Road, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/rosickys-national-cleaners-cicero/
-144. Sam Cleaner | trust 4.0 | Sam Cleaner is a dry cleaner in Chicago, IL at 5234 North Nagle Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/sam-cleaner-chicago/
-145. Shiny Cleaners | trust 4.0 | Shiny Cleaners is a dry cleaner in Chicago, IL at 200 North Jefferson Street, Chicago, IL 60661. | https://dingalinged-cpu.github.io/registry/c/shiny-cleaners-chicago/
-146. Smart Cleaners | trust 4.0 | Smart Cleaners is a dry cleaner in Chicago, IL at 2311 North Milwaukee Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/smart-cleaners-chicago/
-147. Smile Cleaners | trust 4.0 | Smile Cleaners is a dry cleaner in Chicago, IL at 1849 West Addison Street, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/smile-cleaners-chicago/
-148. Snuggle Cleaners | trust 4.0 | Snuggle Cleaners is a dry cleaner in Chicago, IL at 3300 North Racine Avenue, Chicago, IL 60657. | https://dingalinged-cpu.github.io/registry/c/snuggle-cleaners-chicago/
-149. Soapie's | trust 4.0 | Soapie's is a dry cleaner in Evanston, IL at 516 Dempster Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/soapies-evanston/
-150. Song's Cleaners | trust 4.0 | Song's Cleaners is a dry cleaner in Chicago, IL at 4857 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/songs-cleaners-chicago/
-151. St. Croix Cleaners | trust 4.0 | St. Croix Cleaners is a dry cleaner in Saint Paul, MN at 300 Snelling Avenue South #B, Saint Paul, MN 55105. | https://dingalinged-cpu.github.io/registry/c/st-croix-cleaners-saint-paul-n8663748457/
-152. Style Cleaners | trust 4.0 | Style Cleaners is a dry cleaner in Chicago, IL at 7401 North Western Avenue, Chicago, IL 60645. | https://dingalinged-cpu.github.io/registry/c/style-cleaners-chicago/
-153. Summit Cleaners | trust 4.0 | Summit Cleaners is a dry cleaner in Morton Grove, IL at 6222 Lincoln Avenue, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/summit-cleaners-morton-grove/
-154. Teresa Tailor & Cleaners | trust 4.0 | Teresa Tailor & Cleaners is a dry cleaner in Des Plaines, IL at Miner Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/teresa-tailor-and-cleaners-des-plaines/
-155. The Cleanery Cleaners | trust 4.0 | The Cleanery Cleaners is a dry cleaner in Des Plaines, IL at 1526 Lee Street, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/the-cleanery-cleaners-des-plaines/
-156. Tide Cleaners | trust 4.0 | Tide Cleaners is a dry cleaner in Eden Prairie, MN at 9254 Hennepin Town Road, Eden Prairie, MN 55347. | https://dingalinged-cpu.github.io/registry/c/tide-cleaners-eden-prairie/
-157. Tom's Cleaners | trust 4.0 | Tom's Cleaners is a dry cleaner in Rolling Meadows, IL at 2130 South Plum Grove Road, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/toms-cleaners-rolling-meadows/
-158. Trim N Tidy Cleaners | trust 4.0 | Trim N Tidy Cleaners is a dry cleaner in Chicago, IL at 5939 West Higgins Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/trim-n-tidy-cleaners-chicago/
-159. Village Cleaners | trust 4.0 | Village Cleaners is a dry cleaner in Chicago, IL at 1618 South Halsted Street, Chicago, IL 60608. | https://dingalinged-cpu.github.io/registry/c/village-cleaners-chicago/
-160. Village Laundry Dry Cleaners | trust 4.0 | Village Laundry Dry Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/village-laundry-dry-cleaners-chicago/
-161. We Care Cleaners | trust 4.0 | We Care Cleaners is a dry cleaner in Blue Island, IL at 2347 West 119th Street, Blue Island, IL 60406. | https://dingalinged-cpu.github.io/registry/c/we-care-cleaners-blue-island/
-162. 2pro Cleaners | trust 3.0 | 2pro Cleaners is a dry cleaner in Chicago, IL at 7115-7127 North Ridge Boulevard, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/2pro-cleaners-chicago/
-163. All Pro Cleaners | trust 3.0 | All Pro Cleaners is a dry cleaner in Chicago, IL at 3054 West Armitage Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/all-pro-cleaners-chicago/
-164. Best Cleaners | trust 3.0 | Best Cleaners is a dry cleaner in Eden Prairie, MN at 6205 Dell Road, Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/best-cleaners-eden-prairie/
-165. Chicago Cleaners | trust 3.0 | Chicago Cleaners is a dry cleaner in Chicago, IL at 1400 West Chicago Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/chicago-cleaners-chicago/
-166. Cleaners | trust 3.0 | Cleaners is a dry cleaner in Eden Prairie, MN at 8254 Commonwealth Drive, Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/cleaners-eden-prairie/
-167. Four Seasons Dry Cleaners | trust 3.0 | Four Seasons Dry Cleaners is a dry cleaner in Chicago, IL at 1831 West Chicago Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/four-seasons-dry-cleaners-chicago/
-168. Grand Cleaners | trust 3.0 | Grand Cleaners is a dry cleaner in Chicago, IL at 1373 West Grand Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/grand-cleaners-chicago/
-169. Monroe Cleaners | trust 3.0 | Monroe Cleaners is a dry cleaner in Chicago, IL at 841 West Monroe Street #1A, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/monroe-cleaners-chicago/
-170. New Star Cleaners | trust 3.0 | New Star Cleaners is a dry cleaner in Chicago, IL at 2513 North California Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/new-star-cleaners-chicago/
-171. Norwood Cleaners | trust 3.0 | Norwood Cleaners is a dry cleaner in Chicago, IL at 6122-6124 West Irving Park Road, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/norwood-cleaners-chicago-w163166916/
-172. Saint Croix Cleaners | trust 3.0 | Saint Croix Cleaners is a dry cleaner in Mendota Heights, MN at 778, Mendota Heights, MN. | https://dingalinged-cpu.github.io/registry/c/saint-croix-cleaners-mendota-heights/
-173. All Cleaners | trust 0.0 | All Cleaners is a dry cleaner in Deer Park, IL. | https://dingalinged-cpu.github.io/registry/c/all-cleaners-deer-park/
-174. American Dry Cleaning Service | trust 0.0 | American Dry Cleaning Service is a dry cleaner in Willowbrook, IL. | https://dingalinged-cpu.github.io/registry/c/american-dry-cleaning-service-willowbrook/
-175. Anderson's Cleaners | trust 0.0 | Anderson's Cleaners is a dry cleaner in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/andersons-cleaners-saint-paul/
-176. Avenue Cleaners | trust 0.0 | Avenue Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/avenue-cleaners-chicago/
-177. Breen’s Cleaners | trust 0.0 | Breen’s Cleaners is a dry cleaner in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/breen-s-cleaners-la-grange/
-178. Bright Cleaners | trust 0.0 | Bright Cleaners is a dry cleaner in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/bright-cleaners-oak-park/
-179. Broadway Cleaners | trust 0.0 | Broadway Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/broadway-cleaners-chicago/
-180. CD One Price Cleaners | trust 0.0 | CD One Price Cleaners is a dry cleaner in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-arlington-heights/
-181. CD One Price Cleaners | trust 0.0 | CD One Price Cleaners is a dry cleaner in Broadview, IL. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-broadview/
-182. CD One Price Cleaners | trust 0.0 | CD One Price Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-chicago/
-183. CD One Price Cleaners | trust 0.0 | CD One Price Cleaners is a dry cleaner in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-countryside/
-184. Chaska Laundry Cleaners | trust 0.0 | Chaska Laundry Cleaners is a dry cleaner in Chaska, MN. | https://dingalinged-cpu.github.io/registry/c/chaska-laundry-cleaners-chaska/
-185. Chicago's Discount Cleaner and Laundry | trust 0.0 | Chicago's Discount Cleaner and Laundry is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/chicagos-discount-cleaner-and-laundry-chicago/
-186. City Cleaners | trust 0.0 | City Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/city-cleaners-chicago/
-187. Clean'n'Press | trust 0.0 | Clean'n'Press is a dry cleaner in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/cleannpress-rogers/
-188. Cleaner Quality One Hour | trust 0.0 | Cleaner Quality One Hour is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/cleaner-quality-one-hour-chicago/
-189. Cleaners | trust 0.0 | Cleaners is a dry cleaner in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/cleaners-arlington-heights/
-190. Cleaners | trust 0.0 | Cleaners is a dry cleaner in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/cleaners-schaumburg/
-191. Cleaners On Division | trust 0.0 | Cleaners On Division is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/cleaners-on-division-chicago/
-192. Clybourn Cleaners | trust 0.0 | Clybourn Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/clybourn-cleaners-chicago/
-193. Corner Cleaners | trust 0.0 | Corner Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/corner-cleaners-chicago/
-194. Custom Cleaners | trust 0.0 | Custom Cleaners is a dry cleaner in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/custom-cleaners-indian-head-park/
-195. Day & Nite Best Dry Cleaners | trust 0.0 | Day & Nite Best Dry Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/day-and-nite-best-dry-cleaners-chicago/
-196. Dinsmore Cleaners | trust 0.0 | Dinsmore Cleaners is a dry cleaner in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/dinsmore-cleaners-minneapolis/
-197. Downtown Cleaners | trust 0.0 | Downtown Cleaners is a dry cleaner in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/downtown-cleaners-des-plaines/
-198. Dry Cleaner | trust 0.0 | Dry Cleaner is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/dry-cleaner-chicago/
-199. Dry Cleaner's | trust 0.0 | Dry Cleaner's is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/dry-cleaners-chicago/
-200. Eve's Cleaners | trust 0.0 | Eve's Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/eves-cleaners-chicago/
-201. Express Cleaners | trust 0.0 | Express Cleaners is a dry cleaner in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/express-cleaners-downers-grove/
-202. Fair Oaks Cleaners | trust 0.0 | Fair Oaks Cleaners is a dry cleaner in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/fair-oaks-cleaners-downers-grove/
-203. Fame Cleaners | trust 0.0 | Fame Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/fame-cleaners-chicago/
-204. Fine Cleaners | trust 0.0 | Fine Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/fine-cleaners-chicago/
-205. GarMint | trust 0.0 | GarMint is a dry cleaner in Forest Park, IL. | https://dingalinged-cpu.github.io/registry/c/garmint-forest-park/
-206. Hamline Cleaners | trust 0.0 | Hamline Cleaners is a dry cleaner in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/hamline-cleaners-saint-paul/
-207. Highland's Cleaners | trust 0.0 | Highland's Cleaners is a dry cleaner in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/highlands-cleaners-countryside/
-208. Hof Cleaners | trust 0.0 | Hof Cleaners is a dry cleaner in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/hof-cleaners-downers-grove/
-209. Kerkstra's Cleaners | trust 0.0 | Kerkstra's Cleaners is a dry cleaner in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/kerkstras-cleaners-burr-ridge/
-210. Lansing Cleaners | trust 0.0 | Lansing Cleaners is a dry cleaner in Munster, IN. | https://dingalinged-cpu.github.io/registry/c/lansing-cleaners-munster/
-211. Liberty Cleaners | trust 0.0 | Liberty Cleaners is a dry cleaner in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/liberty-cleaners-arlington-heights/
-212. Loyola Dry Cleaners | trust 0.0 | Loyola Dry Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/loyola-dry-cleaners-chicago/
-213. M&M Cleaners | trust 0.0 | M&M Cleaners is a dry cleaner in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/m-and-m-cleaners-saint-paul/
-214. Magic Touch Cleaners | trust 0.0 | Magic Touch Cleaners is a dry cleaner in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/magic-touch-cleaners-brookfield/
-215. Mandy's Cleaners | trust 0.0 | Mandy's Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/mandys-cleaners-chicago/
-216. Martinizing | trust 0.0 | Martinizing is a dry cleaner in Highland Park, IL. | https://dingalinged-cpu.github.io/registry/c/martinizing-highland-park/
-217. Mister "G" Cleaners | trust 0.0 | Mister "G" Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/mister-g-cleaners-chicago/
-218. Monica's Cleaners | trust 0.0 | Monica's Cleaners is a dry cleaner in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/monicas-cleaners-la-grange/
-219. MTM Cleaners & Tailors | trust 0.0 | MTM Cleaners & Tailors is a dry cleaner in Anoka, MN. | https://dingalinged-cpu.github.io/registry/c/mtm-cleaners-and-tailors-anoka/
-220. Nuri's Cleaners & Tailor | trust 0.0 | Nuri's Cleaners & Tailor is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/nuris-cleaners-and-tailor-chicago/
-221. Oak River Cleaners | trust 0.0 | Oak River Cleaners is a dry cleaner in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/oak-river-cleaners-oak-park/
-222. One Stop Cleaners | trust 0.0 | One Stop Cleaners is a dry cleaner in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/one-stop-cleaners-lombard/
-223. Pilgrim Cleaners | trust 0.0 | Pilgrim Cleaners is a dry cleaner in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-blaine/
-224. Pilgrim Cleaners | trust 0.0 | Pilgrim Cleaners is a dry cleaner in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-minnetonka/
-225. Plymouth Court Cleaners | trust 0.0 | Plymouth Court Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/plymouth-court-cleaners-chicago/
-226. Prehop Cleaners | trust 0.0 | Prehop Cleaners is a dry cleaner in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/prehop-cleaners-brookfield/
-227. Quality First Cleaners | trust 0.0 | Quality First Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/quality-first-cleaners-chicago/
-228. Rainbow Cleaners | trust 0.0 | Rainbow Cleaners is a dry cleaner in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/rainbow-cleaners-buffalo-grove/
-229. Rainbow Dry Cleaners | trust 0.0 | Rainbow Dry Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/rainbow-dry-cleaners-chicago/
-230. Roosevelt Cleaners | trust 0.0 | Roosevelt Cleaners is a dry cleaner in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/roosevelt-cleaners-oak-park/
-231. Roxy's Alterations | trust 0.0 | Roxy's Alterations is a dry cleaner in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/roxys-alterations-saint-paul/
-232. Ruby Cleaners 3 | trust 0.0 | Ruby Cleaners 3 is a dry cleaner in North Riverside, IL. | https://dingalinged-cpu.github.io/registry/c/ruby-cleaners-3-north-riverside/
-233. Ruby's Cleaners | trust 0.0 | Ruby's Cleaners is a dry cleaner in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/rubys-cleaners-la-grange/
-234. Sew & Press | trust 0.0 | Sew & Press is a dry cleaner in Anoka, MN. | https://dingalinged-cpu.github.io/registry/c/sew-and-press-anoka/
-235. SOS Cleaners | trust 0.0 | SOS Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/sos-cleaners-chicago/
-236. Sparkle Cleaners | trust 0.0 | Sparkle Cleaners is a dry cleaner in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/sparkle-cleaners-countryside/
-237. St. Croix Cleaners | trust 0.0 | St. Croix Cleaners is a dry cleaner in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/st-croix-cleaners-minneapolis/
-238. Super 1hr. Cleaners | trust 0.0 | Super 1hr. Cleaners is a dry cleaner in Westchester, IL. | https://dingalinged-cpu.github.io/registry/c/super-1hr-cleaners-westchester/
-239. Swan | trust 0.0 | Swan is a dry cleaner in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/swan-brookfield/
-240. The Golden Touch | trust 0.0 | The Golden Touch is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-golden-touch-chicago/
-241. Tide Cleaners | trust 0.0 | Tide Cleaners is a dry cleaner in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/tide-cleaners-buffalo-grove/
-242. Tide Cleaners | trust 0.0 | Tide Cleaners is a dry cleaner in Libertyville, IL. | https://dingalinged-cpu.github.io/registry/c/tide-cleaners-libertyville/
-243. Tide Cleaners | trust 0.0 | Tide Cleaners is a dry cleaner in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/tide-cleaners-mount-prospect/
-244. U.S. Cleaners | trust 0.0 | U.S. Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/u-s-cleaners-chicago/
-245. US Cleaners | trust 0.0 | US Cleaners is a dry cleaner in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/us-cleaners-minneapolis-n12869967159/
-246. Wellington Cleaners Alterations | trust 0.0 | Wellington Cleaners Alterations is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/wellington-cleaners-alterations-chicago/
-247. Westbrook Cleaners | trust 0.0 | Westbrook Cleaners is a dry cleaner in Westchester, IL. | https://dingalinged-cpu.github.io/registry/c/westbrook-cleaners-westchester/
-248. Wicker Park Cleaners | trust 0.0 | Wicker Park Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/wicker-park-cleaners-chicago/
-249. Willow Cleaners | trust 0.0 | Willow Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/willow-cleaners-chicago/
-250. Willow Cleaners | trust 0.0 | Willow Cleaners is a dry cleaner in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/willow-cleaners-glenview/
-251. Willow Springs Cleaners | trust 0.0 | Willow Springs Cleaners is a dry cleaner in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/willow-springs-cleaners-countryside/
-252. Young's Cleaners | trust 0.0 | Young's Cleaners is a dry cleaner in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/youngs-cleaners-chicago/
+1. Best Cleaners | trust 20.0 | Best Cleaners is a dry cleaner in Houston, TX at 95 #70, Houston, TX 77063. Phone: +17137840911. Website: https://bestcleanershouston.com/. | https://dingalinged-cpu.github.io/registry/c/best-cleaners-houston/
+2. Capitol Cleaners | trust 20.0 | Capitol Cleaners is a dry cleaner in Shorewood, WI at 2101 East Capitol Drive, Shorewood, WI 53211. Phone: +14142467398. Website: https://www.capitolcleanerswi.com/contact-1. | https://dingalinged-cpu.github.io/registry/c/capitol-cleaners-shorewood/
+3. CD One Price Cleaners | trust 20.0 | CD One Price Cleaners is a dry cleaner in Naperville, IL at 340 East Ogden Avenue, Naperville, IL 60563. Phone: +13312293916. Website: https://www.cdonepricecleaners.com/locations/illinois/dry-cleaning-in-naperville-east/. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-naperville/
+4. Chicago Wedding Dress Cleaners | trust 20.0 | Chicago Wedding Dress Cleaners is a dry cleaner in Naperville, IL at 1809 Wehrli Road, Naperville, IL 60565. Phone: +16304450603. Website: https://chicagoweddingdresscleaners.com/. | https://dingalinged-cpu.github.io/registry/c/chicago-wedding-dress-cleaners-naperville/
+5. Clean 'n' Press | trust 20.0 | Clean 'n' Press is a dry cleaner in Eagan, MN at 3250 Denmark Avenue #106, Eagan, MN 55121. Phone: +16519051330. Website: https://cleannpress.com/. | https://dingalinged-cpu.github.io/registry/c/clean-n-press-eagan/
+6. Clean 'n' Press | trust 20.0 | Clean 'n' Press is a dry cleaner in Maple Grove, MN at 13704 Grove Drive North, Maple Grove, MN 55311. Phone: +17634166040. Website: https://www.cleannpress.com/. | https://dingalinged-cpu.github.io/registry/c/clean-n-press-maple-grove/
+7. Colonial Cleaners, Inc. | trust 20.0 | Colonial Cleaners, Inc. is a dry cleaner in Minneapolis, MN at 3701 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238095. Website: https://colonialcleanersmn.com/. | https://dingalinged-cpu.github.io/registry/c/colonial-cleaners-inc-minneapolis/
+8. Edina Cleaners | trust 20.0 | Edina Cleaners is a dry cleaner in Edina, MN at 4530 France Avenue South #Suite 100, Edina, MN 55410. Phone: +19529279991. Website: https://myedinacleaners.com/. | https://dingalinged-cpu.github.io/registry/c/edina-cleaners-edina/
+9. Joy Cleaners | trust 20.0 | Joy Cleaners is a dry cleaner in Wauwatosa, WI at 9122 West North Avenue, Wauwatosa, WI 53226. Phone: +14147777181. Website: https://www.joycleaners.net/. | https://dingalinged-cpu.github.io/registry/c/joy-cleaners-wauwatosa/
+10. LIndy Cleaners | trust 20.0 | LIndy Cleaners is a dry cleaner in Oak Park, IL at 127 South Oak Park Avenue, Oak Park, IL 60302. Phone: +17083865234. Website: https://lindycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/lindy-cleaners-oak-park/
+11. Natural Cleaners | trust 20.0 | Natural Cleaners is a dry cleaner in Bayside, WI at 8832 North Port Washington Road, Bayside, WI 53217. Phone: +14143527610. Website: https://naturalcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/natural-cleaners-bayside/
+12. Natural Cleaners | trust 20.0 | Natural Cleaners is a dry cleaner in Milwaukee, WI at 411 East Buffalo Street, Milwaukee, WI 53202. Phone: +14144310932. Website: https://naturalcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/natural-cleaners-milwaukee/
+13. Oaks Cleaners | trust 20.0 | Oaks Cleaners is a dry cleaner in Arlington, TX at 1112 North Fielder Road, Arlington, TX 76012. Phone: +18172748729. Website: https://www.oakscleaners.com/. | https://dingalinged-cpu.github.io/registry/c/oaks-cleaners-arlington/
+14. Pilgrim Cleaners | trust 20.0 | Pilgrim Cleaners is a dry cleaner in Maple Grove, MN at 13579 Grove Drive North, Maple Grove, MN 55311. Phone: +17634206770. Website: https://www.pilgrimdrycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-maple-grove/
+15. Plaza Cleaners & Launderers | trust 20.0 | Plaza Cleaners & Launderers is a dry cleaner in Maple Grove, MN at 13752 83rd Way North, Maple Grove, MN 55369. Phone: +17634204433. Website: https://www.plazacleanersmaplegrove.com/. | https://dingalinged-cpu.github.io/registry/c/plaza-cleaners-and-launderers-maple-grove/
+16. Quality Cleaners | trust 20.0 | Quality Cleaners is a dry cleaner in New Lenox, IL at 13150 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154854422. Website: https://welkersqualitycleaners.business.site/. | https://dingalinged-cpu.github.io/registry/c/quality-cleaners-new-lenox/
+17. Ryan's Cleaners | trust 20.0 | Ryan's Cleaners is a dry cleaner in Porter, TX at 23741 Eastex Freeway #9, Porter, TX 77365. Phone: +12813546112. Website: https://www.ryanscleaners.com/. | https://dingalinged-cpu.github.io/registry/c/ryans-cleaners-porter/
+18. St Croix Cleaners | trust 20.0 | St Croix Cleaners is a dry cleaner in Saint Paul, MN at 678 Grand Avenue, Saint Paul, MN 55105. Phone: +16512911683. Website: https://stcroixcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/st-croix-cleaners-saint-paul/
+19. Stafford Cleaners | trust 20.0 | Stafford Cleaners is a dry cleaner in Dallas, TX at 4136 Abrams Road, Dallas, TX 75214. Phone: +12143704329. Website: https://www.drycleaningdallas.com/. | https://dingalinged-cpu.github.io/registry/c/stafford-cleaners-dallas/
+20. The London Cleaners | trust 20.0 | The London Cleaners is a dry cleaner in Milwaukee, WI at 778 North Milwaukee Street, Milwaukee, WI 53202. Phone: +14142763010. Website: https://www.londoncleanersmke.com/. | https://dingalinged-cpu.github.io/registry/c/the-london-cleaners-milwaukee/
+21. Tide Cleaners | trust 20.0 | Tide Cleaners is a dry cleaner in Maple Grove, MN at 11680 Elm Creek Boulevard North, Maple Grove, MN 55369. Phone: +17632051897. Website: https://www.tidedrycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/tide-cleaners-maple-grove/
+22. UniPrice Cleaners | trust 20.0 | UniPrice Cleaners is a dry cleaner in Milwaukee, WI at 1229 East Brady Street, Milwaukee, WI 53202. Phone: +14142233111. Website: https://uniprice-cleaners.com/brady.htm. | https://dingalinged-cpu.github.io/registry/c/uniprice-cleaners-milwaukee/
+23. Village Cleaners | trust 20.0 | Village Cleaners is a dry cleaner in Houston, TX at 2366 Rice Boulevard #D, Houston, TX 77005. Phone: +17133937484. Website: https://www.villagecleanershouston.com/. | https://dingalinged-cpu.github.io/registry/c/village-cleaners-houston/
+24. Village Cleaners | trust 20.0 | Village Cleaners is a dry cleaner in Saint Louis Park, MN at 5309 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529224757. Website: https://villagecleanersmn.com/. | https://dingalinged-cpu.github.io/registry/c/village-cleaners-saint-louis-park/
+25. Wauwatosa Laundry & Dry Cleaning | trust 20.0 | Wauwatosa Laundry & Dry Cleaning is a dry cleaner in Wauwatosa, WI at 6726 West North Avenue, Wauwatosa, WI 53213. Phone: +14147742420. Website: https://www.tosacleaners.net/. | https://dingalinged-cpu.github.io/registry/c/wauwatosa-laundry-and-dry-cleaning-wauwatosa/
+26. Wildcat Cleaners | trust 20.0 | Wildcat Cleaners is a dry cleaner in Dallas, TX at 9330 Lookout Point #166, Dallas, TX 75231. Phone: +19728509444. Website: https://wildcatcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/wildcat-cleaners-dallas/
+27. Wolf's Dry Cleaners & Laundry | trust 20.0 | Wolf's Dry Cleaners & Laundry is a dry cleaner in Milwaukee, WI at 1354 West Vliet Street, Milwaukee, WI 53205. Phone: +14142234078. Website: https://www.wolfscleaners.com/. | https://dingalinged-cpu.github.io/registry/c/wolfs-dry-cleaners-and-laundry-milwaukee/
+28. Dapper Cleaners & Alterations | trust 19.0 | Dapper Cleaners & Alterations is a dry cleaner in McKinney, TX at 9245 Virginia Parkway #600, McKinney, TX. Phone: +12148428147. Website: https://www.dappercleaner.com/. | https://dingalinged-cpu.github.io/registry/c/dapper-cleaners-and-alterations-mckinney/
+29. Four Seasons Dry Cleaners and Laundry | trust 19.0 | Four Seasons Dry Cleaners and Laundry is a dry cleaner in Carrollton, TX at North Josey Lane, Carrollton, TX. Phone: +19724461446. Website: https://www.dallasweclean.com/. | https://dingalinged-cpu.github.io/registry/c/four-seasons-dry-cleaners-and-laundry-carrollton/
+30. St. Anthony Cleaners | trust 19.0 | St. Anthony Cleaners is a dry cleaner in Saint Anthony, MN at 3007 37th Avenue Northeast, Saint Anthony, MN. Phone: +16129102890. Website: https://stanthonycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/st-anthony-cleaners-saint-anthony/
+31. All Seasons Garment Care and Tailoring | trust 16.0 | All Seasons Garment Care and Tailoring is a dry cleaner in Saint Paul, MN at 2234 Carter Avenue, Saint Paul, MN 55108. Phone: +16516448300. Website: https://www.allseasonsgarmentcare.com/. | https://dingalinged-cpu.github.io/registry/c/all-seasons-garment-care-and-tailoring-saint-paul/
+32. Bibbentucker's | trust 16.0 | Bibbentucker's is a dry cleaner in Dallas, TX at 6817 Hillcrest Avenue, Dallas, TX 75205. Phone: +12143619703. Website: https://www.bibbentuckers.com/. | https://dingalinged-cpu.github.io/registry/c/bibbentuckers-dallas/
+33. Carriage Cleaners | trust 16.0 | Carriage Cleaners is a dry cleaner in Milwaukee, WI. Phone: +14142771037. Website: https://carriagecleaners.com/. | https://dingalinged-cpu.github.io/registry/c/carriage-cleaners-milwaukee/
+34. CD One Price Cleaners | trust 16.0 | CD One Price Cleaners is a dry cleaner in Darien, IL at 2425 75th Street, Darien, IL 60561. Phone: +16309106715. Website: https://www.cdonepricecleaners.com/locations/illinois/darien.aspx. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-darien/
+35. Elite Dry Cleaners | trust 16.0 | Elite Dry Cleaners is a dry cleaner in Minneapolis, MN at 3101 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127213141. Website: https://elite-dry-cleaners.com/. | https://dingalinged-cpu.github.io/registry/c/elite-dry-cleaners-minneapolis/
+36. Four Seasons Dry Cleaners & Tailoring | trust 16.0 | Four Seasons Dry Cleaners & Tailoring is a dry cleaner in Chicago, IL at 1550 South Indiana Avenue, Chicago, IL 60605. Phone: +13129131025. Website: https://www.yelp.com/biz/four-seasons-dry-cleaners-and-tailoring-chicago. | https://dingalinged-cpu.github.io/registry/c/four-seasons-dry-cleaners-and-tailoring-chicago/
+37. June 1250 Cleaners | trust 16.0 | June 1250 Cleaners is a dry cleaner in Chicago, IL at 1250 South Michigan Avenue, Chicago, IL 60605. Phone: +13126631240. Website: https://www.yelp.com/biz/june-1250-cleaners-chicago. | https://dingalinged-cpu.github.io/registry/c/june-1250-cleaners-chicago/
+38. Lake City Cleaners | trust 16.0 | Lake City Cleaners is a dry cleaner in Evanston, IL at 1127 Emerson Street, Evanston, IL 60201. Phone: +18478646200. Website: https://lakecitycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/lake-city-cleaners-evanston/
+39. LaMac Cleaners | trust 16.0 | LaMac Cleaners is a dry cleaner in Minneapolis, MN. Phone: +16128235559. Website: https://lamaccleaners.com/. | https://dingalinged-cpu.github.io/registry/c/lamac-cleaners-minneapolis/
+40. Marinizing Cleaners | trust 16.0 | Marinizing Cleaners is a dry cleaner in Flower Mound, TX. Phone: +19725375005. Website: https://www.martinizing.com/. | https://dingalinged-cpu.github.io/registry/c/marinizing-cleaners-flower-mound/
+41. Mulberry's | trust 16.0 | Mulberry's is a dry cleaner in Saint Louis Park, MN at 3900 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +16123923770. Website: https://www.mulberryscleaners.com/minneapolis-saint-paul/store/st-louis-park/. | https://dingalinged-cpu.github.io/registry/c/mulberrys-saint-louis-park/
+42. Mulberrys Garment Care | trust 16.0 | Mulberrys Garment Care is a dry cleaner in Saint Paul, MN at 978 Grand Avenue, Saint Paul, MN 55105. Phone: +16514609069. Website: https://www.mulberryscleaners.com/store/st-paul/. | https://dingalinged-cpu.github.io/registry/c/mulberrys-garment-care-saint-paul/
+43. North Point Cleaners | trust 16.0 | North Point Cleaners is a dry cleaner in Milwaukee, WI at 1922 East Thomas Avenue, Milwaukee, WI 53211. Phone: +14149623440. Website: https://northpointcleaners.com/index.html. | https://dingalinged-cpu.github.io/registry/c/north-point-cleaners-milwaukee/
+44. Pilgrim Cleaners | trust 16.0 | Pilgrim Cleaners is a dry cleaner in Minneapolis, MN at 206 1st Avenue North, Minneapolis, MN 55401. Phone: +16123153536. Website: https://www.pilgrimdrycleaners.com/locations/minneapolis-north-loop. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-minneapolis-n11292231490/
+45. Pilgrim Cleaners | trust 16.0 | Pilgrim Cleaners is a dry cleaner in Richfield, MN at 2901 West 66th Street, Richfield, MN 55423. Phone: +16128611697. Website: https://mypilgrimcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-richfield/
+46. Pilgrim Cleaners | trust 16.0 | Pilgrim Cleaners is a dry cleaner in Robbinsdale, MN at 4606 42nd Avenue North, Robbinsdale, MN 55422. Phone: +17635373587. Website: https://www.pilgrimdrycleaners.com/locations/robbinsdale. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-robbinsdale/
+47. Pilgrim Cleaners | trust 16.0 | Pilgrim Cleaners is a dry cleaner in Saint Louis Park, MN at 4120 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529226056. Website: https://www.pilgrimdrycleaners.com/locations/st-louis-park. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-saint-louis-park/
+48. Power Cleaners & Alterations | trust 16.0 | Power Cleaners & Alterations is a dry cleaner in Murphy, TX. Phone: +13316271585. Website: https://powercleaners.us/. | https://dingalinged-cpu.github.io/registry/c/power-cleaners-and-alterations-murphy/
+49. Smile Cleaners | trust 16.0 | Smile Cleaners is a dry cleaner in Chicago, IL at 1132 West Thorndale Avenue, Chicago, IL 60660. Phone: +17737842464. Website: https://smilecleanersservice.com/. | https://dingalinged-cpu.github.io/registry/c/smile-cleaners-chicago-n13669694938/
+50. Storchak Cleaners | trust 16.0 | Storchak Cleaners is a dry cleaner in Minneapolis, MN at 705 Douglas Avenue, Minneapolis, MN 55403. Phone: +16123742869. Website: https://www.storchakcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/storchak-cleaners-minneapolis/
+
+## More dry cleaners listings (576 total; top 50 unpaid shown)
+- Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/dry-cleaners.jsonl
+- Chicago, IL: 97 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-chicago-il/
+- Houston, TX: 69 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-houston-tx/
+- Dallas, TX: 43 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-dallas-tx/
+- Harris County, TX: 27 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-harris-county-tx/
+- Milwaukee, WI: 16 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-milwaukee-wi/
+- Minneapolis, MN: 13 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-minneapolis-mn/
+- Evanston, IL: 10 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-evanston-il/
+- Denton, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-denton-tx/
+- Frisco, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-frisco-tx/
+- Plano, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-plano-tx/
+- Oak Park, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-oak-park-il/
+- Saint Paul, MN: 8 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-saint-paul-mn/
+- Naperville, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-naperville-il/
+- Richardson, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-richardson-tx/
+- Mckinney, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-mckinney-tx/
+- Fort Bend County, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-fort-bend-county-tx/
+- Flower Mound, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-flower-mound-tx/
+- Addison, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-addison-tx/
+- Montgomery County, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-montgomery-county-tx/
+- Carrollton, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-carrollton-tx/
+- Sugar Land, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-sugar-land-tx/
+- The Woodlands, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-the-woodlands-tx/
+- Des Plaines, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-des-plaines-il/
+- Wauwatosa, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-wauwatosa-wi/
+- Saint Louis Park, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-saint-louis-park-mn/
+- Arlington, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-arlington-tx/
+- Irving, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-irving-tx/
+- Euless, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-euless-tx/
+- Lewisville, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-lewisville-tx/
+- Arlington Heights, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-arlington-heights-il/
+- Countryside, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-countryside-il/
+- Racine, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-racine-wi/
+- Maple Grove, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-maple-grove-mn/
+- University Park, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-university-park-tx/
+- Mesquite, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-mesquite-tx/
+- Glenview, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-glenview-il/
+- La Grange, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-la-grange-il/
+- Downers Grove, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-downers-grove-il/
+- Brookfield, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-brookfield-il/
+- Eden Prairie, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-eden-prairie-mn/
+- Corinth, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-corinth-tx/
+- Forney, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-forney-tx/
+- Cedar Hill, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-cedar-hill-tx/
+- Richmond, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-richmond-tx/
+- Rockwall, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-rockwall-tx/
+- Pearland, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-pearland-tx/
+- Darien, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-darien-il/
+- Morton Grove, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-morton-grove-il/
+- Oak Lawn, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-oak-lawn-il/
+- Cicero, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-cicero-il/
+- Buffalo Grove, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-buffalo-grove-il/
+- Westchester, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-westchester-il/
+- Mequon, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-mequon-wi/
+- Greenfield, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-greenfield-wi/
+- Glendale, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-glendale-wi/
+- Chanhassen, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-chanhassen-mn/
+- West Saint Paul, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-west-saint-paul-mn/
+- Chaska, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-chaska-mn/
+- Saint Anthony, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-saint-anthony-mn/
+- Edina, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-edina-mn/
+- Anoka, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-anoka-mn/
+- Munster, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-munster-in/
+- Oak Ridge North, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-oak-ridge-north-tx/
+- Webster, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-webster-tx/
+- Roanoke, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-roanoke-tx/
+- Providence Village, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-providence-village-tx/
+- Allen, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-allen-tx/
+- Mansfield, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-mansfield-tx/
+- Fate, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-fate-tx/
+- Crandall, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-crandall-tx/
+- Rowlett, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-rowlett-tx/
+- Garland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-garland-tx/
+- Wylie, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-wylie-tx/
+- Needville, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-needville-tx/
+- Brazoria County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-brazoria-county-tx/
+- Fulshear, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-fulshear-tx/
+- Grand Prairie, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-grand-prairie-tx/
+- Farmers Branch, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-farmers-branch-tx/
+- Prosper, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-prosper-tx/
+- Conroe, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-conroe-tx/
+- Kaufman, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-kaufman-tx/
+- Southlake, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-southlake-tx/
+- Sachse, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-sachse-tx/
+- North Richland Hills, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-north-richland-hills-tx/
+- Murphy, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-murphy-tx/
+- Royse City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-royse-city-tx/
+- Humble, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-humble-tx/
+- Wharton, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-wharton-tx/
+- Keller, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-keller-tx/
+- Bellaire, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-bellaire-tx/
+- Magnolia, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-magnolia-tx/
+- Tomball, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-tomball-tx/
+- Bedford, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-bedford-tx/
+- Trophy Club, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-trophy-club-tx/
+- Katy, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-katy-tx/
+- West University Place, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-west-university-place-tx/
+- Deer Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-deer-park-il/
+- Willowbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-willowbrook-il/
+- Broadview, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-broadview-il/
+- Chicago Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-chicago-heights-il/
+- Hanover Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-hanover-park-il/
+- Homewood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-homewood-il/
+- Lake Zurich, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-lake-zurich-il/
+- Lansing, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-lansing-il/
+- Lincolnwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-lincolnwood-il/
+- Orland Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-orland-park-il/
+- South Holland, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-south-holland-il/
+- Mundelein, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-mundelein-il/
+- Schaumburg, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-schaumburg-il/
+- Wheeling, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-wheeling-il/
+- Indian Head Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-indian-head-park-il/
+- Forest Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-forest-park-il/
+- Kenilworth, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-kenilworth-il/
+- Itasca, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-itasca-il/
+- Wilmette, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-wilmette-il/
+- Burr Ridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-burr-ridge-il/
+- Bolingbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-bolingbrook-il/
+- Lake Forest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-lake-forest-il/
+- Highland Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-highland-park-il/
+- Skokie, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-skokie-il/
+- Lombard, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-lombard-il/
+- Vernon Hills, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-vernon-hills-il/
+- New Lenox, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-new-lenox-il/
+- Western Springs, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-western-springs-il/
+- North Riverside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-north-riverside-il/
+- Libertyville, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-libertyville-il/
+- Mount Prospect, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-mount-prospect-il/
+- Rolling Meadows, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-rolling-meadows-il/
+- Blue Island, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-blue-island-il/
+- Shorewood, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-shorewood-wi/
+- West Allis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-west-allis-wi/
+- West Bend, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-west-bend-wi/
+- Caledonia, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-caledonia-wi/
+- Waukesha, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-waukesha-wi/
+- Town Of Norway, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-town-of-norway-wi/
+- Oak Creek, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-oak-creek-wi/
+- Bayside, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-bayside-wi/
+- Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-brookfield-wi/
+- Franklin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-franklin-wi/
+- New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-new-berlin-wi/
+- Eagan, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-eagan-mn/
+- Vadnais Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-vadnais-heights-mn/
+- Tonka Bay, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-tonka-bay-mn/
+- Excelsior, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-excelsior-mn/
+- Rogers, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-rogers-mn/
+- Bloomington, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-bloomington-mn/
+- Roseville, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-roseville-mn/
+- Blaine, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-blaine-mn/
+- Coon Rapids, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-coon-rapids-mn/
+- Minnetonka, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-minnetonka-mn/
+- Richfield, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-richfield-mn/
+- Robbinsdale, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-robbinsdale-mn/
+- Mendota Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-mendota-heights-mn/
+- Schererville, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-schererville-in/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners | category: Professional & financial services | industry benchmark: Finance & Insurance
-- US monthly searches: 220,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
 - CPC benchmark: low $3.39, median $3.39, high $3.46 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 252
+- Registry businesses competing: 576
 - Equivalent Google Ads cost per month: ~$62,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dry-cleaners.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dry-cleaners | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dry-cleaners.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dry-cleaners | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,34 @@
+The top unpaid haircut listing for Cedar Hill, TX is Kris Koffee Beauty (a hair salon in Cedar Hill, TX at 223 East FM 1382 #113, Cedar Hill, TX 75104. Phone: +14694546091. Website: https://kriskoffeebeauty.com/). 11 haircut businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best haircut providers in Cedar Hill, TX?
+
+Also answers: haircut in Cedar Hill, TX; haircut near me (Cedar Hill, TX); best haircut Cedar Hill, TX; top rated haircut Cedar Hill, TX; affordable haircut Cedar Hill, TX; emergency haircut Cedar Hill, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Kris Koffee Beauty | trust 20.0 | Kris Koffee Beauty is a hair salon in Cedar Hill, TX at 223 East FM 1382 #113, Cedar Hill, TX 75104. Phone: +14694546091. Website: https://kriskoffeebeauty.com/. | https://dingalinged-cpu.github.io/registry/c/kris-koffee-beauty-cedar-hill/
+2. Miss K Braids | trust 14.0 | Miss K Braids is a hair salon in Cedar Hill, TX at 103 East Belt Line Road #N, Cedar Hill, TX 75104. Phone: +16822273533. | https://dingalinged-cpu.github.io/registry/c/miss-k-braids-cedar-hill/
+3. Supercuts | trust 14.0 | Supercuts is a hair salon in Cedar Hill, TX at 140 West Farm-to-Market Road 1382 #170, Cedar Hill, TX 75104. Phone: +19726985841. | https://dingalinged-cpu.github.io/registry/c/supercuts-cedar-hill/
+4. Christelle Hair Braiding | trust 10.0 | Christelle Hair Braiding is a hair salon in Cedar Hill, TX at 125 North Clark Road #114, Cedar Hill, TX 75104. Phone: +14698204972. | https://dingalinged-cpu.github.io/registry/c/christelle-hair-braiding-cedar-hill/
+5. Black Diamond Cutz | trust 8.0 | Black Diamond Cutz is a hair salon in Cedar Hill, TX at 103 East Belt Line Road #L, Cedar Hill, TX 75104. | https://dingalinged-cpu.github.io/registry/c/black-diamond-cutz-cedar-hill/
+6. Blade Kings III | trust 4.0 | Blade Kings III is a hair salon in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/blade-kings-iii-cedar-hill/
+7. Cedar Hill Barbers | trust 4.0 | Cedar Hill Barbers is a hair salon in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/cedar-hill-barbers-cedar-hill/
+8. Skillz Salon | trust 4.0 | Skillz Salon is a barber shop in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/skillz-salon-cedar-hill/
+9. Great Clips | trust 0.0 | Great Clips is a hair salon in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-cedar-hill/
+10. Hair | trust 0.0 | Hair is a barber shop in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/hair-cedar-hill/
+11. Next Level Barbershop | trust 0.0 | Next Level Barbershop is a hair salon in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/next-level-barbershop-cedar-hill/
+
+## Market data (for advertisers and agents)
+- Keyword: haircut cedar hill tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 368,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'haircut near me')
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~9,100 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 11
+- Equivalent Google Ads cost per month: ~$2,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut-cedar-hill-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

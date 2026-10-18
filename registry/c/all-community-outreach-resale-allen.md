@@ -1,0 +1,23 @@
+All Community Outreach Resale is a thrift store in Allen, TX at 117 North Greenville Avenue, Allen, TX.
+
+# All Community Outreach Resale
+
+- Category: thrift store
+- Services: thrift store
+- Address: 117 North Greenville Avenue, Allen, TX
+- City: Allen
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.1038507, -96.6612472
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/all-community-outreach-resale-allen/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/all-community-outreach-resale-allen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13672694502 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Chicago Smile Design is a dentist in Chicago, IL at West North Avenue, Chicago, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chicago-smile-design-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicago-smile-design-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10912510243 (license ODbL-1.0); source data as of 2026-07-28

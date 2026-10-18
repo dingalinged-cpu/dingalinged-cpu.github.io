@@ -15,7 +15,7 @@ Pet Supplies Plus is a pet store in Chicago, IL at 3145 South Ashland Avenue #10
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-chicago-n8218212119/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-chicago-n8218212119.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8218212119 (license ODbL-1.0); source data as of 2026-06-01

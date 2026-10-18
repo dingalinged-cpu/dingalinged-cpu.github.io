@@ -1,0 +1,23 @@
+The UPS Store is a printing service in Racine, WI at 2310 South Green Bay Road #C, Racine, WI 53406. Phone: +12625547337.
+
+# The UPS Store
+
+- Category: printing services
+- Services: printing services
+- Address: 2310 South Green Bay Road #C, Racine, WI 53406
+- City: Racine
+- State: WI
+- ZIP: 53406
+- Coordinates: 42.7044616, -87.8539371
+- Phone: +12625547337
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-racine/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-racine.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10206343449 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

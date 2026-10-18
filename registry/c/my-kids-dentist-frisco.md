@@ -1,0 +1,23 @@
+My Kid's Dentist is a dentist in Frisco, TX.
+
+# My Kid's Dentist
+
+- Category: dentist
+- Services: dentist
+- Address: Frisco, TX
+- City: Frisco
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.1749583, -96.7348814
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/my-kids-dentist-frisco/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/my-kids-dentist-frisco.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10247364190 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

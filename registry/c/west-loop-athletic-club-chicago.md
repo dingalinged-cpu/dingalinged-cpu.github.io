@@ -15,7 +15,7 @@ West Loop Athletic Club is a gym in Chicago, IL at 1390 West Randolph Street, Ch
 - Opening hours (OSM syntax): Mo-Th 05:30-21:00; Fr 05:30-20:00; Sa-Su 07:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/west-loop-athletic-club-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/west-loop-athletic-club-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210270041 (license ODbL-1.0); source data as of 2026-06-01

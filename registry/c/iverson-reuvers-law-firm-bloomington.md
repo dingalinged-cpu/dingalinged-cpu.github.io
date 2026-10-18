@@ -15,7 +15,7 @@ Iverson Reuvers Law Firm is a lawyer in Bloomington, MN at 9321 Ensign Avenue So
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/iverson-reuvers-law-firm-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/iverson-reuvers-law-firm-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/784339173 (license ODbL-1.0); source data as of 2026-05-31

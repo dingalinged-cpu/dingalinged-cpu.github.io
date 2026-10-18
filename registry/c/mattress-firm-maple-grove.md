@@ -15,7 +15,7 @@ Mattress Firm is a mattress store in Maple Grove, MN at 12729 Elm Creek Boulevar
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8902410092 (license ODbL-1.0); source data as of 2026-06-01

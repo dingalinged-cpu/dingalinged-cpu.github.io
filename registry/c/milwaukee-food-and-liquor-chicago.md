@@ -15,7 +15,7 @@ Milwaukee Food & Liquor is a liquor store in Chicago, IL at 4701 North Milwaukee
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/milwaukee-food-and-liquor-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/milwaukee-food-and-liquor-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162703322 (license ODbL-1.0); source data as of 2026-06-01

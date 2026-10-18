@@ -15,7 +15,7 @@ Doll Revolution is a hair salon in Chicago, IL at 3635 West Montrose Avenue, Chi
 - Opening hours (OSM syntax): Tu-Fr 12:00-19:00; Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/doll-revolution-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/doll-revolution-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5197257618 (license ODbL-1.0); source data as of 2026-06-01

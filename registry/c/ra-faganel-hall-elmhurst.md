@@ -15,7 +15,7 @@ RA Faganel Hall is a gym in Elmhurst, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ra-faganel-hall-elmhurst/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ra-faganel-hall-elmhurst.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/531200371 (license ODbL-1.0); source data as of 2026-06-01

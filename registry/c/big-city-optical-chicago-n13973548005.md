@@ -15,7 +15,7 @@ Big City Optical is an eye care practice in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/big-city-optical-chicago-n13973548005/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/big-city-optical-chicago-n13973548005.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13973548005 (license ODbL-1.0); source data as of 2026-07-28

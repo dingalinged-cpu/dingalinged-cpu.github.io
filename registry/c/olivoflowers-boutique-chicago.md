@@ -15,7 +15,7 @@ Olivoflowers Boutique is a florist in Chicago, IL. Phone: +17732705905.
 - Opening hours (OSM syntax): Mo-Su 09:00-22:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/olivoflowers-boutique-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/olivoflowers-boutique-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11887754469 (license ODbL-1.0); source data as of 2026-06-01

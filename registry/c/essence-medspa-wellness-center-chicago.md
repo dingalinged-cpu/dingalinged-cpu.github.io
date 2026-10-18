@@ -15,7 +15,7 @@ Essence Medspa + Wellness Center is a physical therapy clinic in Chicago, IL at 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/essence-medspa-wellness-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/essence-medspa-wellness-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162841643 (license ODbL-1.0); source data as of 2026-07-28

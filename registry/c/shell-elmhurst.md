@@ -15,7 +15,7 @@ Shell is a car wash in Elmhurst, IL at 218 East Butterfield Road, Elmhurst, IL 6
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shell-elmhurst/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shell-elmhurst.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/544372348 (license ODbL-1.0); source data as of 2026-07-28

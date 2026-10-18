@@ -15,7 +15,7 @@ White Squirrel Bar is an event venue in Saint Paul, MN at 974 7th Street West, S
 - Opening hours (OSM syntax): Mo-Fr 15:00-02:00; Sa-Su 12:00-02:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/white-squirrel-bar-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/white-squirrel-bar-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210310943 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Speedy Wash is a car wash in New Lenox, IL at 939 South Cedar Road, New Lenox, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/speedy-wash-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/820099790 (license ODbL-1.0); source data as of 2026-07-28

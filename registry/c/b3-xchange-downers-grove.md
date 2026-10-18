@@ -15,7 +15,7 @@ B3 XChange is a tax preparation service in Downers Grove, IL at 6400 Woodward Av
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/b3-xchange-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/b3-xchange-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9046353098 (license ODbL-1.0); source data as of 2026-07-28

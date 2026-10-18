@@ -15,7 +15,7 @@ Heyday is a skin care studio in Chicago, IL at 1953 North Clybourn Avenue, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/heyday-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/heyday-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10559922081 (license ODbL-1.0); source data as of 2026-06-01

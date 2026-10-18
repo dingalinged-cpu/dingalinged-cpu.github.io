@@ -15,7 +15,7 @@ Great Clips is a hair salon in Naperville, IL at 1211 East Ogden Avenue #109, Na
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-naperville-w1326181731/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-naperville-w1326181731.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1326181731 (license ODbL-1.0); source data as of 2026-06-01

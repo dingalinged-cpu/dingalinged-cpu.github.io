@@ -15,7 +15,7 @@ Life Time is a gym in Bloomingdale, IL at 455 Scott Drive, Bloomingdale, IL 6010
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/life-time-bloomingdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/life-time-bloomingdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/298735484 (license ODbL-1.0); source data as of 2026-06-01

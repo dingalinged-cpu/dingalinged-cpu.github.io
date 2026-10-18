@@ -15,7 +15,7 @@ TRAIN MOMENT is a gym in Chicago, IL at 167 North Desplaines Street, Chicago, IL
 - Opening hours (OSM syntax): Mo-Fr 05:30-19:30; Sa 07:30-12:30; Su 09:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/train-moment-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/train-moment-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11841529422 (license ODbL-1.0); source data as of 2026-06-01

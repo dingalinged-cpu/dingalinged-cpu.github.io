@@ -15,7 +15,7 @@ Maass Automotive & Lube is an auto repair shop in Woodridge, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/maass-automotive-and-lube-woodridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/maass-automotive-and-lube-woodridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/543939956 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Tom Campone Real Estate | South Loop is a real estate agency in Chicago, IL at 1
 - Opening hours (OSM syntax): Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 11:00-16:00; Su12:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tom-campone-real-estate-south-loop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tom-campone-real-estate-south-loop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7781903767 (license ODbL-1.0); source data as of 2026-07-28

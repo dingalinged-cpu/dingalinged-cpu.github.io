@@ -15,7 +15,7 @@ Mind Body Defense is a gym in Chicago, IL at 4143 North Broadway, Chicago, IL 60
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mind-body-defense-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mind-body-defense-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11234498422 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Cinnaholic is a bakery in Chicago, IL at 1254 South Canal Street, Chicago, IL 60
 - Opening hours (OSM syntax): Fr-We 11:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cinnaholic-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cinnaholic-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13396939774 (license ODbL-1.0); source data as of 2026-06-01

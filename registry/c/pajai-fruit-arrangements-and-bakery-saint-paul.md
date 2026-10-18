@@ -15,7 +15,7 @@ PaJai Fruit Arrangements and Bakery is a bakery in Saint Paul, MN. Phone: +16513
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pajai-fruit-arrangements-and-bakery-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pajai-fruit-arrangements-and-bakery-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13109142310 (license ODbL-1.0); source data as of 2026-06-01

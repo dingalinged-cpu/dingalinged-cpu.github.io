@@ -15,7 +15,7 @@ Rosenfeld Injury Lawyers LLC is a lawyer in Chicago, IL at 225 West Wacker Drive
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rosenfeld-injury-lawyers-llc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rosenfeld-injury-lawyers-llc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9176821806 (license ODbL-1.0); source data as of 2026-07-28

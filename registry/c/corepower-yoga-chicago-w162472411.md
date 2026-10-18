@@ -15,7 +15,7 @@ CorePower Yoga is a yoga studio in Chicago, IL at 4124 West Peterson Avenue, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-w162472411/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-chicago-w162472411.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162472411 (license ODbL-1.0); source data as of 2026-06-01

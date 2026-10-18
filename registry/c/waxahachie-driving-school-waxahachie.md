@@ -1,0 +1,23 @@
+Waxahachie Driving School is a driving school in Waxahachie, TX at 106 South Jackson Street, Waxahachie, TX 75165.
+
+# Waxahachie Driving School
+
+- Category: driving school
+- Services: driving school
+- Address: 106 South Jackson Street, Waxahachie, TX 75165
+- City: Waxahachie
+- State: TX
+- ZIP: 75165
+- Coordinates: 32.3850773, -96.8468804
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/waxahachie-driving-school-waxahachie/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/waxahachie-driving-school-waxahachie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/505981650 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

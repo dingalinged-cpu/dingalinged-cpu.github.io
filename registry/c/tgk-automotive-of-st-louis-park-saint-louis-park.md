@@ -15,7 +15,7 @@ TGK Automotive of St Louis Park is an auto repair shop in Saint Louis Park, MN a
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tgk-automotive-of-st-louis-park-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tgk-automotive-of-st-louis-park-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/600893256 (license ODbL-1.0); source data as of 2026-06-01

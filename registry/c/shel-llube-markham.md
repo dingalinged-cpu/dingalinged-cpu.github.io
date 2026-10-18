@@ -15,7 +15,7 @@ Shel lLube is an auto repair shop in Markham, IL at 15901 Crawford Avenue, Markh
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shel-llube-markham/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shel-llube-markham.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1371363952 (license ODbL-1.0); source data as of 2026-06-01

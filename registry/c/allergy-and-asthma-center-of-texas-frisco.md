@@ -1,0 +1,23 @@
+Allergy & Asthma Center of Texas is an allergist in Frisco, TX at 6946 Lebanon Road, Frisco, TX. Phone: +19723779987. Website: https://aactmd.com/.
+
+# Allergy & Asthma Center of Texas
+
+- Category: allergist
+- Services: allergist
+- Address: 6946 Lebanon Road, Frisco, TX
+- City: Frisco
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.1248152, -96.8251737
+- Phone: +19723779987
+- Website: https://aactmd.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/allergy-and-asthma-center-of-texas-frisco/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/allergy-and-asthma-center-of-texas-frisco.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13328386133 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

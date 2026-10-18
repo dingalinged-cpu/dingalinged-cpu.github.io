@@ -15,7 +15,7 @@ A2K Wellness is a skin care studio in Roselle, IL at 474 West Lake Street, Rosel
 - Opening hours (OSM syntax): Tu,We 09:00-15:30; Fr-Sa 09:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/a2k-wellness-roselle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/a2k-wellness-roselle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12131060509 (license ODbL-1.0); source data as of 2026-06-01

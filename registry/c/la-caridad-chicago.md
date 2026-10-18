@@ -15,7 +15,7 @@ La Caridad is a liquor store in Chicago, IL at 3579 West Fullerton Avenue, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-caridad-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-caridad-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163896717 (license ODbL-1.0); source data as of 2026-06-01

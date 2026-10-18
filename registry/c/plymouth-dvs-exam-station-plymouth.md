@@ -15,7 +15,7 @@ Plymouth DVS Exam Station is a driving school in Plymouth, MN at 2455 Fernbrook 
 - Opening hours (OSM syntax): Mo-Fr 08:00-04:15
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/plymouth-dvs-exam-station-plymouth/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/plymouth-dvs-exam-station-plymouth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13605954601 (license ODbL-1.0); source data as of 2026-07-24

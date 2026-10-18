@@ -15,7 +15,7 @@ Lincolnwood Family Dental is a dentist in Lincolnwood, IL at 4368 West Touhy Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lincolnwood-family-dental-lincolnwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lincolnwood-family-dental-lincolnwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9892246082 (license ODbL-1.0); source data as of 2026-07-28

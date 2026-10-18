@@ -15,7 +15,7 @@ OLSON Windows, Doors, Siding & Roofing is a window installer in Warrenville, IL 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/olson-windows-doors-siding-and-roofing-warrenville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/olson-windows-doors-siding-and-roofing-warrenville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8940134213 (license ODbL-1.0); source data as of 2026-06-01

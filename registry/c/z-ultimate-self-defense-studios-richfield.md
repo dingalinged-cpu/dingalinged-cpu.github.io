@@ -15,7 +15,7 @@ Z-Ultimate Self Defense Studios is a martial arts school in Richfield, MN at 292
 - Opening hours (OSM syntax): Mo-Fr 12:00-21:00; Sa 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/z-ultimate-self-defense-studios-richfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/z-ultimate-self-defense-studios-richfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5397502765 (license ODbL-1.0); source data as of 2026-07-24

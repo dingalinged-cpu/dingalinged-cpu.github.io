@@ -15,7 +15,7 @@ Kiss's Auto Body & Frame Shop is an auto repair shop in Newport, MN at 695 7th A
 - Opening hours (OSM syntax): Mo-Th 07:00-17:00; Fr 07:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kisss-auto-body-and-frame-shop-newport/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kisss-auto-body-and-frame-shop-newport.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/493367111 (license ODbL-1.0); source data as of 2026-06-01

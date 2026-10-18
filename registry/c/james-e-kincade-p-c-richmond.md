@@ -1,0 +1,23 @@
+James E. Kincade, P.C. is a lawyer in Richmond, TX at 302 Jackson Street, Richmond, TX 77469. Phone: +12812324000. Website: https://www.jameskincade.org/.
+
+# James E. Kincade, P.C.
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 302 Jackson Street, Richmond, TX 77469
+- City: Richmond
+- State: TX
+- ZIP: 77469
+- Coordinates: 29.5825872, -95.7608995
+- Phone: +12812324000
+- Website: https://www.jameskincade.org/
+- Email: james_kincade@yahoo.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/james-e-kincade-p-c-richmond/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/james-e-kincade-p-c-richmond.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8681772352 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

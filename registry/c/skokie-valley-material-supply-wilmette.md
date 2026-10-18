@@ -15,7 +15,7 @@ Skokie Valley Material Supply is a concrete contractor in Wilmette, IL at 3640 L
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/skokie-valley-material-supply-wilmette/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/skokie-valley-material-supply-wilmette.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/223104780 (license ODbL-1.0); source data as of 2026-06-01

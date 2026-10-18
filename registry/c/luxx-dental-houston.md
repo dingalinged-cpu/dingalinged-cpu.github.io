@@ -1,0 +1,23 @@
+Luxx Dental is a dentist in Houston, TX at 3222 Hillcroft Street, Houston, TX 77057. Phone: +17137829999. Website: https://luxxdentistry.com/.
+
+# Luxx Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 3222 Hillcroft Street, Houston, TX 77057
+- City: Houston
+- State: TX
+- ZIP: 77057
+- Coordinates: 29.7298156, -95.5018398
+- Phone: +17137829999
+- Website: https://luxxdentistry.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/luxx-dental-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/luxx-dental-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1410495861 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

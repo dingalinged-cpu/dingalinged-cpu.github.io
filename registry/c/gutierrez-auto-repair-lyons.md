@@ -15,7 +15,7 @@ Gutierrez Auto Repair is an auto repair shop in Lyons, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gutierrez-auto-repair-lyons/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gutierrez-auto-repair-lyons.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1068695643 (license ODbL-1.0); source data as of 2026-06-01

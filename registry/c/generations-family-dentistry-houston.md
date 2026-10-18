@@ -1,0 +1,23 @@
+Generations Family Dentistry is a dentist in Houston, TX at 909 Dairy Ashford Road #202, Houston, TX 77079.
+
+# Generations Family Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 909 Dairy Ashford Road #202, Houston, TX 77079
+- City: Houston
+- State: TX
+- ZIP: 77079
+- Coordinates: 29.7769341, -95.6071032
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/generations-family-dentistry-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/generations-family-dentistry-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13098846071 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

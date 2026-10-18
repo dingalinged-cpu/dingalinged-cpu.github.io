@@ -15,7 +15,7 @@ Crème de la Crème is a preschool in Glenview, IL at 2401 Patriot Boulevard, Gl
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cr-me-de-la-cr-me-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/802341697 (license ODbL-1.0); source data as of 2026-07-28

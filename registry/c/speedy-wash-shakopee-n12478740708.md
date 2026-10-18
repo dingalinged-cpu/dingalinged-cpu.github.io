@@ -15,7 +15,7 @@ Speedy Wash is a car wash in Shakopee, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/speedy-wash-shakopee-n12478740708/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-shakopee-n12478740708.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12478740708 (license ODbL-1.0); source data as of 2026-07-24

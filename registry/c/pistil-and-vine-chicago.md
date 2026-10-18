@@ -15,7 +15,7 @@ Pistil & Vine is a florist in Chicago, IL at 1924 North Damen Avenue, Chicago, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pistil-and-vine-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pistil-and-vine-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2324553763 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Cornell Florist is a florist in Chicago, IL at 1645 East 55th Street, Chicago, I
 - Opening hours (OSM syntax): Tu-Sa 10:00-12:00, 14:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cornell-florist-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cornell-florist-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5526432908 (license ODbL-1.0); source data as of 2026-06-01

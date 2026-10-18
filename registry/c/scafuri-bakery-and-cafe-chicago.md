@@ -15,7 +15,7 @@ Scafuri Bakery & Cafe is a bakery in Chicago, IL at 1337 West Taylor Street, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/scafuri-bakery-and-cafe-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/scafuri-bakery-and-cafe-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12187329123 (license ODbL-1.0); source data as of 2026-06-01

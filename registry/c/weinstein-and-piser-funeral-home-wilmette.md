@@ -15,7 +15,7 @@ Weinstein & Piser Funeral Home is a funeral home in Wilmette, IL at 111 Skokie B
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/weinstein-and-piser-funeral-home-wilmette/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/weinstein-and-piser-funeral-home-wilmette.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/383571786 (license ODbL-1.0); source data as of 2026-06-01

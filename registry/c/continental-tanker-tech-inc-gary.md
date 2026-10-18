@@ -15,7 +15,7 @@ Continental Tanker Tech, Inc. is an auto repair shop in Gary, IN at 3830 West 4t
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/continental-tanker-tech-inc-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/continental-tanker-tech-inc-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1149284866 (license ODbL-1.0); source data as of 2026-06-01

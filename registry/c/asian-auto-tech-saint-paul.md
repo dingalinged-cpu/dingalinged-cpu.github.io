@@ -15,7 +15,7 @@ Asian Auto Tech is an auto repair shop in Saint Paul, MN at 874 Maryland Avenue 
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/asian-auto-tech-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/asian-auto-tech-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/605096327 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Grove Memorial Chapel is a funeral home in Elk Grove Village, IL at 1199 South A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/grove-memorial-chapel-elk-grove-village/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/grove-memorial-chapel-elk-grove-village.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1425076564 (license ODbL-1.0); source data as of 2026-06-01

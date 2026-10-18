@@ -15,7 +15,7 @@ Massage Envy is a massage studio in Minneapolis, MN at 3254 Lake Street West, Mi
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-20:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/massage-envy-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6701050765 (license ODbL-1.0); source data as of 2026-06-01

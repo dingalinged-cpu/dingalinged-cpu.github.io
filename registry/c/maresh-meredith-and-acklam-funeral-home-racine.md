@@ -1,0 +1,23 @@
+Maresh-Meredith and Acklam Funeral Home is a funeral home in Racine, WI at 803 Main Street, Racine, WI.
+
+# Maresh-Meredith and Acklam Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 803 Main Street, Racine, WI
+- City: Racine
+- State: WI
+- ZIP: n/a
+- Coordinates: 42.7242109, -87.7819583
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/maresh-meredith-and-acklam-funeral-home-racine/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/maresh-meredith-and-acklam-funeral-home-racine.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/402068037 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

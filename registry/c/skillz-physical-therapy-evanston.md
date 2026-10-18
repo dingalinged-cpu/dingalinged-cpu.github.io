@@ -15,7 +15,7 @@ Skillz Physical Therapy is a physical therapy clinic in Evanston, IL at 839 Dodg
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/skillz-physical-therapy-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/skillz-physical-therapy-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2294252952 (license ODbL-1.0); source data as of 2026-07-28

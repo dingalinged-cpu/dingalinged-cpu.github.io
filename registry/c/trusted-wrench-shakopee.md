@@ -15,7 +15,7 @@ Trusted Wrench is an auto repair shop in Shakopee, MN at 104 Market Street North
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/trusted-wrench-shakopee/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/trusted-wrench-shakopee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/941977786 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Honey and Rye Bakehouse is a bakery in Saint Louis Park, MN at 4501 Excelsior Bo
 - Opening hours (OSM syntax): Tu-Sa 07:00-16:00; Su 07:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/honey-and-rye-bakehouse-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/honey-and-rye-bakehouse-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/692875226 (license ODbL-1.0); source data as of 2026-06-01

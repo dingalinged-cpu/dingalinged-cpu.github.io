@@ -1,0 +1,44 @@
+{
+ "place": "Woodlands, TX",
+ "slug": "woodlands-tx",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [],
+ "companies": [
+  {
+   "slug": "discount-tire-woodlands",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Woodlands, TX at 24915 Interstate 45 North, Woodlands, TX 77380. Phone: +12813679875.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-woodlands/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-woodlands.json",
+   "address": {
+    "streetAddress": "24915 Interstate 45 North",
+    "addressLocality": "Woodlands",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+   },
+   "city": "Woodlands",
+   "state": "TX",
+   "zip": "77380",
+   "geo": {
+    "lat": 30.1235277,
+    "lon": -95.443399
+   },
+   "phone": "+12813679875",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/683570872",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

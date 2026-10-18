@@ -15,7 +15,7 @@ Le Nailspa is a nail salon in Northbrook, IL at 39 Skokie Boulevard, Northbrook,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/le-nailspa-northbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/le-nailspa-northbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1186165735 (license ODbL-1.0); source data as of 2026-06-01

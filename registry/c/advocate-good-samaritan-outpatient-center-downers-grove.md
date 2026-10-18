@@ -15,7 +15,7 @@ Advocate Good Samaritan Outpatient Center is an orthopedic surgeon in Downers Gr
 - Opening hours (OSM syntax): Mo-Su 08:00-21:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/advocate-good-samaritan-outpatient-center-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/advocate-good-samaritan-outpatient-center-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12450003672 (license ODbL-1.0); source data as of 2026-07-28

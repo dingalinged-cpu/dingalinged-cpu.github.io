@@ -15,7 +15,7 @@ Pinkal's Threading & Waxing Salon is a waxing salon in Chicago, IL at 3746 North
 - Opening hours (OSM syntax): Mo-Th 10:30-19:00; Fr 10:00-19:00; Sa 10:00-17:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pinkals-threading-and-waxing-salon-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pinkals-threading-and-waxing-salon-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11205367033 (license ODbL-1.0); source data as of 2026-06-01

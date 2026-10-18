@@ -15,7 +15,7 @@ Mano's Highland Village Montessori School is a preschool in Saint Paul, MN at 18
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/manos-highland-village-montessori-school-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/manos-highland-village-montessori-school-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/93128382 (license ODbL-1.0); source data as of 2026-07-24

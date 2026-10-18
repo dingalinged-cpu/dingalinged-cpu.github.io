@@ -15,7 +15,7 @@ Abitare Design Studio is a furniture store in Minneapolis, MN at 827 Glenwood Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/abitare-design-studio-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/abitare-design-studio-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9128515924 (license ODbL-1.0); source data as of 2026-06-01

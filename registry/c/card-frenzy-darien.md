@@ -15,7 +15,7 @@ Card Frenzy is a gift shop in Darien, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/card-frenzy-darien/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/card-frenzy-darien.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5256928056 (license ODbL-1.0); source data as of 2026-06-01

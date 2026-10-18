@@ -15,7 +15,7 @@ Ink Sanctum Tattoo & Piercing is a tattoo shop in Maple Grove, MN at 13649 Grove
 - Opening hours (OSM syntax): Tu-Sa 10:00-20:00; Su 11:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ink-sanctum-tattoo-and-piercing-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ink-sanctum-tattoo-and-piercing-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5782225994 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ All Saints Catholic Academy is a daycare in Naperville, IL at 1155 Aurora Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/all-saints-catholic-academy-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/all-saints-catholic-academy-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8910859731 (license ODbL-1.0); source data as of 2026-07-28

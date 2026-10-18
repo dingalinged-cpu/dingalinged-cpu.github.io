@@ -15,7 +15,7 @@ Galaxy Dental of Wheeling is a dentist in Wheeling, IL at 1532 East Lake Cook Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/galaxy-dental-of-wheeling-wheeling/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/galaxy-dental-of-wheeling-wheeling.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13073189532 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Prepare + Prosper is a tax preparation service in Saint Paul, MN at 2610 Univers
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/prepare-prosper-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/prepare-prosper-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6277537549 (license ODbL-1.0); source data as of 2026-05-31

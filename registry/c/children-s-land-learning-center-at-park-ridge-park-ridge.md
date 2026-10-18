@@ -15,7 +15,7 @@ Children’s Land Learning Center at Park Ridge is a preschool in Park Ridge, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/children-s-land-learning-center-at-park-ridge-park-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/children-s-land-learning-center-at-park-ridge-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1336982932 (license ODbL-1.0); source data as of 2026-07-28

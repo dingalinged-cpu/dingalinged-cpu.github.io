@@ -1,4 +1,4 @@
-The top unpaid jewelry store listing for the United States is Arthur's Jewelers (a jewelry store in Roseville, MN at 1717 Lexington Avenue North, Roseville, MN 55113. Phone: +16514880365. Website: https://www.arthursjewelers.com/). 239 jewelry store businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for the United States is Another Time & Place (a jewelry store in Plano, TX at 5760 Legacy Drive #B2, Plano, TX 75024. Phone: +19723980101. Website: https://www.atplegacy.com/). 581 jewelry store businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in the United States?
 
@@ -6,256 +6,202 @@ Also answers: jewelry store in the United States; jewelry store near me (the Uni
 
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
-1. Arthur's Jewelers | trust 20.0 | Arthur's Jewelers is a jewelry store in Roseville, MN at 1717 Lexington Avenue North, Roseville, MN 55113. Phone: +16514880365. Website: https://www.arthursjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/arthurs-jewelers-roseville/
-2. BK Jewelry | trust 20.0 | BK Jewelry is a jewelry store in Naperville, IL at 105 West Jefferson Avenue, Naperville, IL 60540. Phone: +16309838557. Website: https://www.bkjewelry.net/. | https://dingalinged-cpu.github.io/registry/c/bk-jewelry-naperville/
-3. Colonial Jewelers | trust 20.0 | Colonial Jewelers is a jewelry store in Saint Michael, MN at 400 Central Avenue East, Saint Michael, MN 55376. Phone: +17634973717. Website: https://colonial-jewelers.com/. | https://dingalinged-cpu.github.io/registry/c/colonial-jewelers-saint-michael/
-4. Costello Jewelry Company | trust 20.0 | Costello Jewelry Company is a jewelry store in Naperville, IL at 33 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303551311. Website: https://www.costello.net/. | https://dingalinged-cpu.github.io/registry/c/costello-jewelry-company-naperville/
-5. Diamonds and Gold International | trust 20.0 | Diamonds and Gold International is a jewelry store in Saint Louis Park, MN at 5305 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529226453. Website: https://www.dgintl.com/. | https://dingalinged-cpu.github.io/registry/c/diamonds-and-gold-international-saint-louis-park/
-6. Ethan Lord Jewelers | trust 20.0 | Ethan Lord Jewelers is a jewelry store in Chicago, IL at 5 South Wabash Avenue #208, Chicago, IL 60603. Phone: +13124431401. Website: https://www.ethanlord.com/. | https://dingalinged-cpu.github.io/registry/c/ethan-lord-jewelers-chicago/
-7. Fervale Jewelry Inc. | trust 20.0 | Fervale Jewelry Inc. is a jewelry store in Chicago, IL at 3033 North Milwaukee Avenue, Chicago, IL 60618. Phone: +17732274928. Website: https://www.fervalejewelry.com/. | https://dingalinged-cpu.github.io/registry/c/fervale-jewelry-inc-chicago/
-8. Fey & Co Jewelers | trust 20.0 | Fey & Co Jewelers is a jewelry store in Naperville, IL at 833 North Washington Street, Naperville, IL 60563. Phone: +16306371500. Website: https://feyjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/fey-and-co-jewelers-naperville/
-9. Golden Treasures | trust 20.0 | Golden Treasures is a jewelry store in Saint Paul, MN at 805 Grand Avenue, Saint Paul, MN 55105. Phone: +16512272711. Website: https://www.goldn-treasures.com/. | https://dingalinged-cpu.github.io/registry/c/golden-treasures-saint-paul/
-10. Goldwear Jewelers | trust 20.0 | Goldwear Jewelers is a jewelry store in Maple Grove, MN at 13689 Grove Drive North, Maple Grove, MN 55311. Phone: +17634208060. Website: https://goldwearjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/goldwear-jewelers-maple-grove/
-11. Jacqueline's of Highland Park Jewelers | trust 20.0 | Jacqueline's of Highland Park Jewelers is a jewelry store in Highland Park, IL at 209 Skokie Valley Rd, Highland Park, IL 60035. Phone: +18475791400. Website: https://jacquelinesjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/jacquelines-of-highland-park-jewelers-highland-park/
-12. Jewels by Stelios | trust 20.0 | Jewels by Stelios is a jewelry store in Harwood Heights, IL at 4721 North Harlem Avenue, Harwood Heights, IL 60706. Phone: +17088670252. Website: https://greekcrosses.net/. | https://dingalinged-cpu.github.io/registry/c/jewels-by-stelios-harwood-heights/
-13. Kay Jewelers | trust 20.0 | Kay Jewelers is a jewelry store in Lombard, IL at 152 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16304952423. Website: https://stores.kay.com/il/lombard/2265. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-lombard/
-14. Knox Jewelers | trust 20.0 | Knox Jewelers is a jewelry store in Minneapolis, MN at 2921 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238752. Website: https://www.knoxjewelers.biz/. | https://dingalinged-cpu.github.io/registry/c/knox-jewelers-minneapolis/
-15. Landmark Jewelers | trust 20.0 | Landmark Jewelers is a jewelry store in Niles, IL at 8305 West Golf Road, Niles, IL 60714. Phone: +18475830000. Website: https://landmarkjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/landmark-jewelers-niles/
-16. LaRon Jewelers | trust 20.0 | LaRon Jewelers is a jewelry store in Chicago, IL at 5 South Wabash Avenue #806, Chicago, IL 60603. Phone: +13122633898. Website: https://www.laronjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/laron-jewelers-chicago/
-17. Leonard's Jewelry | trust 20.0 | Leonard's Jewelry is a jewelry store in Wauconda, IL at 215 West Liberty Street, Wauconda, IL 60084. Phone: +18475268111. Website: https://www.leonardsjewelry.com/. | https://dingalinged-cpu.github.io/registry/c/leonards-jewelry-wauconda/
-18. Lucky Jewelry | trust 20.0 | Lucky Jewelry is a jewelry store in Minneapolis, MN at 2447 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128708790. Website: https://luckybrand.com/. | https://dingalinged-cpu.github.io/registry/c/lucky-jewelry-minneapolis/
-19. On the Rocks | trust 20.0 | On the Rocks is a jewelry store in Chicago, IL at 5709 North Clark Street, Chicago, IL 60660. Phone: +17736490111. Website: https://ontherockschicago.com/. | https://dingalinged-cpu.github.io/registry/c/on-the-rocks-chicago/
-20. Pandora | trust 20.0 | Pandora is a jewelry store in Naperville, IL at 119 South Main Street #125, Naperville, IL 60540. Phone: +16305857800. Website: https://stores.pandora.net/en-us/il/naperville/. | https://dingalinged-cpu.github.io/registry/c/pandora-naperville/
-21. Real Gem Jewelers | trust 20.0 | Real Gem Jewelers is a jewelry store in Shakopee, MN at 108 1st Avenue East, Shakopee, MN 55379. Phone: +19524962000. Website: https://www.realgemjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/real-gem-jewelers-shakopee/
-22. Rock Paper Silver | trust 20.0 | Rock Paper Silver is a jewelry store in Minneapolis, MN at 4816 Nicollet Avenue South, Minneapolis, MN 55419. Phone: +16123312482. Website: https://www.deirdreandcompany.com/. | https://dingalinged-cpu.github.io/registry/c/rock-paper-silver-minneapolis/
-23. The Jewelry Exchange in Villa Park | trust 20.0 | The Jewelry Exchange in Villa Park is a jewelry store in Villa Park, IL at 501 East Saint Charles Road, Villa Park, IL 60181. Phone: +16305300444. Website: https://jewelryexchange.com/. | https://dingalinged-cpu.github.io/registry/c/the-jewelry-exchange-in-villa-park-villa-park/
-24. Twin Cities Gold & Silver Exchange | trust 20.0 | Twin Cities Gold & Silver Exchange is a jewelry store in Saint Louis Park, MN at 4813 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529265175. Website: https://www.tcgoldsilvermn.com/. | https://dingalinged-cpu.github.io/registry/c/twin-cities-gold-and-silver-exchange-saint-louis-park/
-25. Uncommon James | trust 20.0 | Uncommon James is a jewelry store in Chicago, IL at 849 West Randolph Street, Chicago, IL 60607. Phone: +13122919038. Website: https://uncommonjames.com/. | https://dingalinged-cpu.github.io/registry/c/uncommon-james-chicago/
-26. Waldeland Jewelers | trust 20.0 | Waldeland Jewelers is a jewelry store in Eagan, MN at 1340 Duckwood Drive #11, Eagan, MN 55123. Phone: +16514521877. Website: https://waldelandjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/waldeland-jewelers-eagan/
-27. Yasini Jewelers of Orland Park | trust 20.0 | Yasini Jewelers of Orland Park is a jewelry store in Orland Park, IL at 31 Orland Square Drive, Orland Park, IL 60462. Phone: +17084030000. Website: https://yasini.com/. | https://dingalinged-cpu.github.io/registry/c/yasini-jewelers-of-orland-park-orland-park/
-28. Innsbruck Jewelers | trust 19.0 | Innsbruck Jewelers is a jewelry store in Saint Anthony, MN at 2700 39th Avenue Northeast #A106, Saint Anthony, MN. Phone: +16516360106. Website: https://www.innsbruckjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/innsbruck-jewelers-saint-anthony/
-29. Belle Via Jewelry | trust 16.0 | Belle Via Jewelry is a jewelry store in Saint Paul, MN at 1208 Grand Avenue, Saint Paul, MN 55105. Phone: +16123085906. Website: https://www.belleviajewelry.com/. | https://dingalinged-cpu.github.io/registry/c/belle-via-jewelry-saint-paul/
-30. Bravo Jewellers | trust 16.0 | Bravo Jewellers is a jewelry store in Saint Louis Park, MN at 7125 Cedar Lake Road, Saint Louis Park, MN 55426. Phone: +16129137350. Website: https://bravojewelersmn.com/. | https://dingalinged-cpu.github.io/registry/c/bravo-jewellers-saint-louis-park/
-31. Christopher Duquet Fine Jewelry | trust 16.0 | Christopher Duquet Fine Jewelry is a jewelry store in Evanston, IL at 1224 Chicago Avenue #102, Evanston, IL 60202. Phone: +18477330656. Website: https://christopherduquet.com/. | https://dingalinged-cpu.github.io/registry/c/christopher-duquet-fine-jewelry-evanston/
-32. Elequent Jewelry Inc | trust 16.0 | Elequent Jewelry Inc is a jewelry store in Saint Louis Park, MN at 7915 Minnetonka Boulevard, Saint Louis Park, MN 55426. Phone: +19529203113. Website: https://www.elequentjewelry.com/. | https://dingalinged-cpu.github.io/registry/c/elequent-jewelry-inc-saint-louis-park/
-33. Filigree Jewelers | trust 16.0 | Filigree Jewelers is a jewelry store in Minneapolis, MN at 210 North 2nd Street, Minneapolis, MN 55401. Phone: +16124862290. Website: https://filigreejewelers.com/. | https://dingalinged-cpu.github.io/registry/c/filigree-jewelers-minneapolis/
-34. Gerber Jewelers | trust 16.0 | Gerber Jewelers is a jewelry store in Saint Paul, MN at 945 Grand Avenue, Saint Paul, MN 55105. Phone: +16512228585. Website: https://jagerberjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/gerber-jewelers-saint-paul/
-35. Hauptman Jewelers | trust 16.0 | Hauptman Jewelers is a jewelry store in Lemont Township, IL at 1052 State Street, Lemont Township, IL 60439. Phone: +16302437744. Website: https://www.hauptmanjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/hauptman-jewelers-lemont-township/
-36. Kay Jewelers | trust 16.0 | Kay Jewelers is a jewelry store in New Lenox, IL at 515 East Lincoln Highway, New Lenox, IL 60451. Phone: +18153202013. Website: https://stores.kay.com/il/new-lenox/515-e--lincoln-highway.html. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-new-lenox/
-37. Lord & Hunt | trust 16.0 | Lord & Hunt is a jewelry store in Homer Glen, IL at 14222 South Bell Road, Homer Glen, IL 60491. Phone: +17087455172. Website: https://lordandhuntorlandjewelers.com/Lord_and_Hunt_Jewelers/HOME.html. | https://dingalinged-cpu.github.io/registry/c/lord-and-hunt-homer-glen/
-38. Lovisa | trust 16.0 | Lovisa is a jewelry store in Lombard, IL at 157D Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +18477871907. Website: https://www.lovisa.com/. | https://dingalinged-cpu.github.io/registry/c/lovisa-lombard/
-39. Naperville Jewelers | trust 16.0 | Naperville Jewelers is a jewelry store in Naperville, IL at 120 Water Street #114, Naperville, IL 60540. Phone: +16307189036. Website: https://www.napervillejewelers.com/. | https://dingalinged-cpu.github.io/registry/c/naperville-jewelers-naperville/
-40. Paolucci Jewelers | trust 16.0 | Paolucci Jewelers is a jewelry store in Woodridge, IL at 1001 75th Street, Woodridge, IL 60517. Phone: +16309100660. Website: https://www.paoluccijewelers.com/. | https://dingalinged-cpu.github.io/registry/c/paolucci-jewelers-woodridge/
-41. R.F. Moeller Jeweler | trust 16.0 | R.F. Moeller Jeweler is a jewelry store in Saint Paul, MN at 2065 Ford Parkway, Saint Paul, MN 55116. Phone: +16516986321. Website: https://rfmoeller.com/. | https://dingalinged-cpu.github.io/registry/c/r-f-moeller-jeweler-saint-paul/
-42. Reuven Gitter Jewelers | trust 16.0 | Reuven Gitter Jewelers is a jewelry store in Chicago, IL at 5 South Wabash Avenue #1708, Chicago, IL 60603. Phone: +13122631513. Website: https://reuvengitter.com/. | https://dingalinged-cpu.github.io/registry/c/reuven-gitter-jewelers-chicago/
-43. St. Louis Park Gold & Silver | trust 16.0 | St. Louis Park Gold & Silver is a jewelry store in Saint Louis Park, MN at 4825 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19522175488. Website: https://www.slpgoldandsilver.com/. | https://dingalinged-cpu.github.io/registry/c/st-louis-park-gold-and-silver-saint-louis-park/
-44. The Jewlers | trust 16.0 | The Jewlers is a jewelry store in Saint Anthony, MN at 2902 Pentagon Drive, Saint Anthony, MN 55418. Phone: +16127886000. Website: https://unique-jewelers.com/. | https://dingalinged-cpu.github.io/registry/c/the-jewlers-saint-anthony/
-45. Wedding Day Diamonds | trust 16.0 | Wedding Day Diamonds is a jewelry store in Bloomington, MN at 7901 Penn Avenue S, Bloomington, MN 55431. Phone: +19522530235. Website: https://www.weddingdaydiamonds.com/. | https://dingalinged-cpu.github.io/registry/c/wedding-day-diamonds-bloomington/
-46. Zembar Jewelrs | trust 16.0 | Zembar Jewelrs is a jewelry store in New Lenox, IL at 2457 East Joliet Highway, New Lenox, IL 60451. Phone: +18154857280. Website: https://www.zembarjeweler.com/. | https://dingalinged-cpu.github.io/registry/c/zembar-jewelrs-new-lenox/
-47. Lincoln Park Gems | trust 15.0 | Lincoln Park Gems is a jewelry store in Chicago, IL at 1739 North Clybourn Avenue, Chicago, IL. Phone: +13124963425. Website: https://www.lincolnparkgems.com/. | https://dingalinged-cpu.github.io/registry/c/lincoln-park-gems-chicago/
-48. Diamonds Direct | trust 14.0 | Diamonds Direct is a jewelry store in Minneapolis, MN at 5037 France Avenue South, Minneapolis, MN 55410. Website: https://www.diamondsdirectmn.com/. | https://dingalinged-cpu.github.io/registry/c/diamonds-direct-minneapolis/
-49. Jared | trust 14.0 | Jared is a jewelry store in Merrillville, IN at 2196 Southlake Mall, Merrillville, IN 46410. Website: https://stores.jared.com/in/merrillville/2422. | https://dingalinged-cpu.github.io/registry/c/jared-merrillville/
-50. Phuoc-Loc-Tho Jewelry | trust 14.0 | Phuoc-Loc-Tho Jewelry is a jewelry store in Minneapolis, MN at 2510 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128796061. | https://dingalinged-cpu.github.io/registry/c/phuoc-loc-tho-jewelry-minneapolis/
-51. Thurston Jewelers | trust 14.0 | Thurston Jewelers is a jewelry store in Minneapolis, MN at 705 West Lake Street, Minneapolis, MN 55408. Website: https://www.thurstonjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/thurston-jewelers-minneapolis/
-52. Helzberg Diamonds | trust 13.0 | Helzberg Diamonds is a jewelry store in Bloomington, MN at 154 West Market, Bloomington, MN. Phone: +19528510057. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-bloomington/
-53. Impulse | trust 13.0 | Impulse is a jewelry store in Bloomington, MN at 314 East Broadway, Bloomington, MN. Phone: +19528541195. | https://dingalinged-cpu.github.io/registry/c/impulse-bloomington/
-54. Kay Jewelers | trust 13.0 | Kay Jewelers is a jewelry store in Bloomington, MN at 174 North Garden, Bloomington, MN. Phone: +19528760700. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-bloomington/
-55. Lotus Beads | trust 13.0 | Lotus Beads is a jewelry store in Bloomington, MN at 368 North Garden, Bloomington, MN. Phone: +19528549951. | https://dingalinged-cpu.github.io/registry/c/lotus-beads-bloomington/
-56. Pandora | trust 13.0 | Pandora is a jewelry store in Bloomington, MN at 127 North Garden, Bloomington, MN. Phone: +19522521495. | https://dingalinged-cpu.github.io/registry/c/pandora-bloomington/
-57. Sergio V Jewelry | trust 13.0 | Sergio V Jewelry is a jewelry store in Chicago, IL at 5959 South Pulaski Road, Chicago, IL. Phone: +17734719297. | https://dingalinged-cpu.github.io/registry/c/sergio-v-jewelry-chicago/
-58. Swarovski | trust 13.0 | Swarovski is a jewelry store in Bloomington, MN at 288 North Garden, Bloomington, MN. Phone: +19528532130. | https://dingalinged-cpu.github.io/registry/c/swarovski-bloomington/
-59. t lee custom design jewelry | trust 13.0 | t lee custom design jewelry is a jewelry store in Minneapolis, MN at 509 1/2 Northeast 1st Avenue, Minneapolis, MN. Website: https://www.tleegold.com/. | https://dingalinged-cpu.github.io/registry/c/t-lee-custom-design-jewelry-minneapolis/
-60. Dariusz Jewelers | trust 12.0 | Dariusz Jewelers is a jewelry store in Downers Grove, IL. Phone: +16309694332. Website: https://www.dariuszjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/dariusz-jewelers-downers-grove/
-61. Armen's Jewelry | trust 10.0 | Armen's Jewelry is a jewelry store in Chicago, IL at 1142 West Thorndale Avenue, Chicago, IL 60660. Phone: +17733440177. | https://dingalinged-cpu.github.io/registry/c/armens-jewelry-chicago/
-62. Arts & Artisians | trust 10.0 | Arts & Artisians is a jewelry store in Chicago, IL at 500 West Madison Street, Chicago, IL 60661. Website: https://artsartisans.com/. | https://dingalinged-cpu.github.io/registry/c/arts-and-artisians-chicago/
-63. Baladna Jewelry | trust 10.0 | Baladna Jewelry is a jewelry store in Chicago, IL at 4831 North Kedzie Avenue, Chicago, IL 60625. Phone: +17735092700. | https://dingalinged-cpu.github.io/registry/c/baladna-jewelry-chicago/
-64. Baladna Jewelry | trust 10.0 | Baladna Jewelry is a jewelry store in Lincolnwood, IL at 4350 West Touhy Avenue, Lincolnwood, IL 60712. Phone: +18476764700. | https://dingalinged-cpu.github.io/registry/c/baladna-jewelry-lincolnwood/
-65. Brilliant Earth | trust 10.0 | Brilliant Earth is a jewelry store in Edina, MN. Website: https://www.brilliantearth.com/stores/edina-minneapolis-mn/. | https://dingalinged-cpu.github.io/registry/c/brilliant-earth-edina/
-66. Charlemagne Fine Jewelry | trust 10.0 | Charlemagne Fine Jewelry is a jewelry store in Saint Paul, MN at 1262 Grand Avenue, Saint Paul, MN 55105. Website: https://charlemagnefinejewelry.com/. | https://dingalinged-cpu.github.io/registry/c/charlemagne-fine-jewelry-saint-paul/
-67. Fausto’s Jewelry | trust 10.0 | Fausto’s Jewelry is a jewelry store in Chicago, IL at 2116 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17734895911. | https://dingalinged-cpu.github.io/registry/c/fausto-s-jewelry-chicago/
-68. Gorjana | trust 10.0 | Gorjana is a jewelry store in Naperville, IL at 35 South Washington Street #138, Naperville, IL 60540. Website: https://www.gorjana.com/pages/jewelry-store-naperville-il. | https://dingalinged-cpu.github.io/registry/c/gorjana-naperville/
-69. Hooriyah Jewelers | trust 10.0 | Hooriyah Jewelers is a jewelry store in Lombard, IL at 117 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16307853144. | https://dingalinged-cpu.github.io/registry/c/hooriyah-jewelers-lombard/
-70. Kay Jewelers | trust 10.0 | Kay Jewelers is a jewelry store in North Riverside, IL at 7501 Cermak Road, North Riverside, IL 60546. Website: https://stores.kay.com/il/north-riverside/1846. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-north-riverside/
-71. Kay Jewelers | trust 10.0 | Kay Jewelers is a jewelry store in Roseville, MN. Phone: +16516360877. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-roseville/
-72. Kim's Jewelry | trust 10.0 | Kim's Jewelry is a jewelry store in Minneapolis, MN at 2641 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128710631. | https://dingalinged-cpu.github.io/registry/c/kims-jewelry-minneapolis/
-73. Max's | trust 10.0 | Max's is a jewelry store in Saint Louis Park, MN at 3826 Grand Way, Saint Louis Park, MN 55416. Website: https://www.stylebymax.com/. | https://dingalinged-cpu.github.io/registry/c/maxs-saint-louis-park/
-74. Pandora | trust 10.0 | Pandora is a jewelry store in Calumet City, IL at 1 River Oaks Center Drive, Calumet City, IL 60409. Website: https://stores.pandora.net/en-us/il/calumetcity/pandora-jewelry-us9a240200.html. | https://dingalinged-cpu.github.io/registry/c/pandora-calumet-city/
-75. R.F. Moeller Jeweler | trust 10.0 | R.F. Moeller Jeweler is a jewelry store in Edina, MN. Website: https://rfmoeller.com/. | https://dingalinged-cpu.github.io/registry/c/r-f-moeller-jeweler-edina/
-76. Rowan | trust 10.0 | Rowan is a jewelry store in Naperville, IL at 50 South Main Street #136, Naperville, IL 60540. Website: https://heyrowan.com/pages/ear-piercing-downtown-naperville-il. | https://dingalinged-cpu.github.io/registry/c/rowan-naperville/
-77. Sen Hao Seng Jewelry | trust 10.0 | Sen Hao Seng Jewelry is a jewelry store in Saint Paul, MN at 633 West Minnehaha Avenue #Ste. A, Saint Paul, MN 55104. Phone: +16514887473. | https://dingalinged-cpu.github.io/registry/c/sen-hao-seng-jewelry-saint-paul/
-78. Torres-Omar Jewelry | trust 10.0 | Torres-Omar Jewelry is a jewelry store in Chicago, IL at 2624 North Milwaukee Avenue, Chicago, IL 60647. Website: https://www.torresomarjewelry.com/. | https://dingalinged-cpu.github.io/registry/c/torres-omar-jewelry-chicago/
-79. Van Guilder's Goldsmith | trust 10.0 | Van Guilder's Goldsmith is a jewelry store in Minneapolis, MN at 4999 France Avenue South #160, Minneapolis, MN 55410. Website: https://www.vanguilders.biz/. | https://dingalinged-cpu.github.io/registry/c/van-guilders-goldsmith-minneapolis/
-80. Zales | trust 10.0 | Zales is a jewelry store in North Riverside, IL at 7501 Cermak Road #D13, North Riverside, IL 60546. Website: https://stores.zales.com/il/north-riverside/920. | https://dingalinged-cpu.github.io/registry/c/zales-north-riverside/
-81. Chicago Landmark Diamond Center | trust 8.0 | Chicago Landmark Diamond Center is a jewelry store in Chicago, IL at 1 North Wabash Avenue, Chicago, IL 60602. | https://dingalinged-cpu.github.io/registry/c/chicago-landmark-diamond-center-chicago/
-82. Linden Hills Jewelers | trust 8.0 | Linden Hills Jewelers is a jewelry store in Minneapolis, MN at 4305 Upton Avenue South, Minneapolis, MN 55410. | https://dingalinged-cpu.github.io/registry/c/linden-hills-jewelers-minneapolis/
-83. Sydel & Sydel Jewelry | trust 8.0 | Sydel & Sydel Jewelry is a jewelry store in Chicago, IL at 222 West Adams Street, Chicago, IL 60606. | https://dingalinged-cpu.github.io/registry/c/sydel-and-sydel-jewelry-chicago/
-84. New Gild Jewelers | trust 7.0 | New Gild Jewelers is a jewelry store in Minneapolis, MN at 4300 Upton Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/new-gild-jewelers-minneapolis/
-85. Bank of America | trust 6.0 | Bank of America is a jewelry store in Chicago, IL. Phone: +17734620020. | https://dingalinged-cpu.github.io/registry/c/bank-of-america-chicago/
-86. Gittelson Jewlers | trust 6.0 | Gittelson Jewlers is a jewelry store in Minneapolis, MN. Website: https://gittelsonjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/gittelson-jewlers-minneapolis/
-87. Pandora | trust 6.0 | Pandora is a jewelry store in Roseville, MN. Phone: +16512870431. | https://dingalinged-cpu.github.io/registry/c/pandora-roseville/
-88. Sanchez Jewelry | trust 6.0 | Sanchez Jewelry is a jewelry store in Minneapolis, MN. Phone: +16123517047. | https://dingalinged-cpu.github.io/registry/c/sanchez-jewelry-minneapolis/
-89. Silber Fine Jewlery | trust 6.0 | Silber Fine Jewlery is a jewelry store in Minneapolis, MN. Website: https://silber.diamonds/. | https://dingalinged-cpu.github.io/registry/c/silber-fine-jewlery-minneapolis/
-90. Thomas Joseph & Sons | trust 6.0 | Thomas Joseph & Sons is a jewelry store in Minneapolis, MN. Website: https://thomasjosephandsons.com/. | https://dingalinged-cpu.github.io/registry/c/thomas-joseph-and-sons-minneapolis/
-91. A-1 Jewelry & Coin | trust 4.0 | A-1 Jewelry & Coin is a jewelry store in Chicago, IL at 1827 West Irving Park Road, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/a-1-jewelry-and-coin-chicago/
-92. Altobello Fine Jewelers | trust 4.0 | Altobello Fine Jewelers is a jewelry store in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/altobello-fine-jewelers-wheaton/
-93. APM Monaco | trust 4.0 | APM Monaco is a jewelry store in Chicago, IL at 520 North Michigan Avenue, Chicago, IL 60611. | https://dingalinged-cpu.github.io/registry/c/apm-monaco-chicago/
-94. B M Jewelry | trust 4.0 | B M Jewelry is a jewelry store in Chicago, IL at 9147 South Commercial Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/b-m-jewelry-chicago/
-95. Bergstrom Jewelers | trust 4.0 | Bergstrom Jewelers is a jewelry store in Saint Louis Park, MN at 1695 West End Boulevard, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/bergstrom-jewelers-saint-louis-park/
-96. Brilliant Earth | trust 4.0 | Brilliant Earth is a jewelry store in Chicago, IL at 1024 West Randolph Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/brilliant-earth-chicago/
-97. Buccellati | trust 4.0 | Buccellati is a jewelry store in Chicago, IL at 62 East Oak Street, Chicago, IL 60611. | https://dingalinged-cpu.github.io/registry/c/buccellati-chicago/
-98. Cartier | trust 4.0 | Cartier is a jewelry store in Chicago, IL at 15 East Oak Street, Chicago, IL 60611. | https://dingalinged-cpu.github.io/registry/c/cartier-chicago/
-99. Castelan Jewlery | trust 4.0 | Castelan Jewlery is a jewelry store in Whiting, IN at 1246 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/castelan-jewlery-whiting/
-100. Cornerstone Jeweler | trust 4.0 | Cornerstone Jeweler is a jewelry store in New Lenox, IL at 1876 East Lincoln Highway, New Lenox, IL 60451. | https://dingalinged-cpu.github.io/registry/c/cornerstone-jeweler-new-lenox/
-101. David Yurman | trust 4.0 | David Yurman is a jewelry store in Chicago, IL at 919 North Michigan Avenue, Chicago, IL 60611. | https://dingalinged-cpu.github.io/registry/c/david-yurman-chicago/
-102. Dor Fook | trust 4.0 | Dor Fook is a jewelry store in Chicago, IL at 2410 South Wentworth Avenue, Chicago, IL 60616. | https://dingalinged-cpu.github.io/registry/c/dor-fook-chicago/
-103. Fey & Co | trust 4.0 | Fey & Co is a jewelry store in Chicago, IL at 758 West North Avenue, Chicago, IL 60610. | https://dingalinged-cpu.github.io/registry/c/fey-and-co-chicago/
-104. Freeman Jewelers | trust 4.0 | Freeman Jewelers is a jewelry store in Chicago, IL at 111 West 87th Street, Chicago, IL 60620. | https://dingalinged-cpu.github.io/registry/c/freeman-jewelers-chicago/
-105. Fuenfer Jewlers | trust 4.0 | Fuenfer Jewlers is a jewelry store in Wilmette, IL at 124 Skokie Boulevard, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/fuenfer-jewlers-wilmette/
-106. Harry Winston | trust 4.0 | Harry Winston is a jewelry store in Chicago, IL at 55 East Oak Street, Chicago, IL 60611. | https://dingalinged-cpu.github.io/registry/c/harry-winston-chicago/
-107. Helzberg Diamonds | trust 4.0 | Helzberg Diamonds is a jewelry store in Norridge, IL at 4109 North Harlem Avenue, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-norridge/
-108. Helzberg Diamonds | trust 4.0 | Helzberg Diamonds is a jewelry store in Rosemont, IL at 5220 Fashion Outlets Way, Rosemont, IL 60018. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-rosemont/
-109. Jared | trust 4.0 | Jared is a jewelry store in Orland Park, IL at 15341 South La Grange Road, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/jared-orland-park/
-110. Jared | trust 4.0 | Jared is a jewelry store in Vernon Hills, IL at 567 East Townline Road, Vernon Hills, IL 60061. | https://dingalinged-cpu.github.io/registry/c/jared-vernon-hills/
-111. Jewelers Building | trust 4.0 | Jewelers Building is a jewelry store in Chicago, IL at 15 South Wabash Avenue, Chicago, IL 60603. | https://dingalinged-cpu.github.io/registry/c/jewelers-building-chicago/
-112. Joyalukkas | trust 4.0 | Joyalukkas is a jewelry store in Chicago, IL at 2642 West Devon Avenue, Chicago, IL 60659. | https://dingalinged-cpu.github.io/registry/c/joyalukkas-chicago/
-113. Kalyan Jewellers | trust 4.0 | Kalyan Jewellers is a jewelry store in Chicago, IL at 2658 West Devon Avenue, Chicago, IL 60659. | https://dingalinged-cpu.github.io/registry/c/kalyan-jewellers-chicago/
-114. Kay Jewelers | trust 4.0 | Kay Jewelers is a jewelry store in Evergreen Park, IL at 9656 South Western Avenue, Evergreen Park, IL 60805. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-evergreen-park/
-115. Kendra Scott | trust 4.0 | Kendra Scott is a jewelry store in Chicago, IL at 900 North Michigan Avenue, Chicago, IL 60611. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-chicago/
-116. LeoDaniels Luxury Jewelers | trust 4.0 | LeoDaniels Luxury Jewelers is a jewelry store in Saint Louis Park, MN at 4110 Minnetonka Boulevard, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/leodaniels-luxury-jewelers-saint-louis-park/
-117. Lucky Gem & Jewelry | trust 4.0 | Lucky Gem & Jewelry is a jewelry store in Niles, IL at 9101 North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/lucky-gem-and-jewelry-niles/
-118. Malabar Gold and Diamonds | trust 4.0 | Malabar Gold and Diamonds is a jewelry store in Chicago, IL at 2652 West Devon Avenue, Chicago, IL 60659. | https://dingalinged-cpu.github.io/registry/c/malabar-gold-and-diamonds-chicago/
-119. Malabar Gold and Diamonds | trust 4.0 | Malabar Gold and Diamonds is a jewelry store in Naperville, IL at 1568 West Ogden Avenue #120, Naperville, IL 60540. | https://dingalinged-cpu.github.io/registry/c/malabar-gold-and-diamonds-naperville/
-120. Mejuri | trust 4.0 | Mejuri is a jewelry store in Chicago, IL at 940 West Randolph Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/mejuri-chicago/
-121. MJ Miller & Co | trust 4.0 | MJ Miller & Co is a jewelry store in Barrington, IL at 123 West Main Street, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/mj-miller-and-co-barrington/
-122. New York Jewelers | trust 4.0 | New York Jewelers is a jewelry store in Chicago, IL at 11 North Wabash Avenue, Chicago, IL 60602. | https://dingalinged-cpu.github.io/registry/c/new-york-jewelers-chicago/
-123. Pandora | trust 4.0 | Pandora is a jewelry store in Chicago, IL at 533 North Michigan Avenue, Chicago, IL 60611. | https://dingalinged-cpu.github.io/registry/c/pandora-chicago/
-124. Prudential Jewelers | trust 4.0 | Prudential Jewelers is a jewelry store in Chicago, IL at 9 North Wabash Avenue, Chicago, IL 60602. | https://dingalinged-cpu.github.io/registry/c/prudential-jewelers-chicago/
-125. R.C. Wahl Jewelers | trust 4.0 | R.C. Wahl Jewelers is a jewelry store in Des Plaines, IL at Miner Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/r-c-wahl-jewelers-des-plaines/
-126. Ramallah Jewelry - Arabic Gold | trust 4.0 | Ramallah Jewelry - Arabic Gold is a jewelry store in Oak Lawn, IL at 8741 South Ridgeland Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/ramallah-jewelry-arabic-gold-oak-lawn/
-127. Sandberg Jewelers | trust 4.0 | Sandberg Jewelers is a jewelry store in Skokie, IL at 7096 Carpenter Road #27, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/sandberg-jewelers-skokie/
-128. Spencer's | trust 4.0 | Spencer's is a jewelry store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/spencers-roseville/
-129. Swarovski | trust 4.0 | Swarovski is a jewelry store in Rosemont, IL at 5220 Fashion Outlets Way, Rosemont, IL 60018. | https://dingalinged-cpu.github.io/registry/c/swarovski-rosemont/
-130. Taköhl Custom Jewelry | trust 4.0 | Taköhl Custom Jewelry is a jewelry store in Chicago, IL at 110 North Peoria Street #101, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/tak-hl-custom-jewelry-chicago/
-131. Tiffany & Company | trust 4.0 | Tiffany & Company is a jewelry store in Chicago, IL at 730 North Michigan Avenue, Chicago, IL 60611. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-chicago/
-132. Tytin | trust 4.0 | Tytin is a jewelry store in Chicago, IL at 4101 North Lincoln Avenue #A, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/tytin-chicago/
-133. Virag Jewelers | trust 4.0 | Virag Jewelers is a jewelry store in Evanston, IL at 703 Main Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/virag-jewelers-evanston/
-134. Windy City Diamonds | trust 4.0 | Windy City Diamonds is a jewelry store in Chicago, IL at 1 South Wabash Avenue, Chicago, IL 60603. | https://dingalinged-cpu.github.io/registry/c/windy-city-diamonds-chicago/
-135. Yasini Jewelers | trust 4.0 | Yasini Jewelers is a jewelry store in Chicago, IL at 3110 West Devon Avenue, Chicago, IL 60659. | https://dingalinged-cpu.github.io/registry/c/yasini-jewelers-chicago/
-136. Enid | trust 3.0 | Enid is a jewelry store in Chicago, IL at 2003, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/enid-chicago/
-137. Pia's Gems | trust 3.0 | Pia's Gems is a jewelry store in Chicago, IL at 1 North Wabash Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/pias-gems-chicago/
-138. Wedding Day Diamonds | trust 3.0 | Wedding Day Diamonds is a jewelry store in Eden Prairie, MN at 8320 Flying Cloud Drive, Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/wedding-day-diamonds-eden-prairie/
-139. Wedding Day Diamonds | trust 3.0 | Wedding Day Diamonds is a jewelry store in Roseville, MN at 1747 American Street, Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/wedding-day-diamonds-roseville/
-140. A. Marek | trust 0.0 | A. Marek is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/a-marek-oak-brook/
-141. Alex and Ani | trust 0.0 | Alex and Ani is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/alex-and-ani-oak-brook/
-142. Aurelio's Diamante Jewelers | trust 0.0 | Aurelio's Diamante Jewelers is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/aurelios-diamante-jewelers-chicago/
-143. Becklund Jewelers | trust 0.0 | Becklund Jewelers is a jewelry store in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/becklund-jewelers-eden-prairie/
-144. Bella Cosa Jewelers | trust 0.0 | Bella Cosa Jewelers is a jewelry store in Willowbrook, IL. | https://dingalinged-cpu.github.io/registry/c/bella-cosa-jewelers-willowbrook/
-145. Blue Nile | trust 0.0 | Blue Nile is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/blue-nile-oak-brook/
-146. Bryn Mawr Jewelry Co | trust 0.0 | Bryn Mawr Jewelry Co is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/bryn-mawr-jewelry-co-chicago/
-147. Buchkosky Jewelers | trust 0.0 | Buchkosky Jewelers is a jewelry store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/buchkosky-jewelers-roseville/
-148. C.D. Peacock | trust 0.0 | C.D. Peacock is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/c-d-peacock-skokie/
-149. Catchpenny | trust 0.0 | Catchpenny is a jewelry store in Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/catchpenny-barrington/
-150. Charmi Jewelry | trust 0.0 | Charmi Jewelry is a jewelry store in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/charmi-jewelry-schaumburg/
-151. Dan Gould Jeweler | trust 0.0 | Dan Gould Jeweler is a jewelry store in Anoka, MN. | https://dingalinged-cpu.github.io/registry/c/dan-gould-jeweler-anoka/
-152. David Yurman | trust 0.0 | David Yurman is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/david-yurman-oak-brook/
-153. Diamonds on Wabash | trust 0.0 | Diamonds on Wabash is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/diamonds-on-wabash-chicago/
-154. Eastside Gold Grillz & Jewlery | trust 0.0 | Eastside Gold Grillz & Jewlery is a jewelry store in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/eastside-gold-grillz-and-jewlery-saint-paul/
-155. European Jewelry | trust 0.0 | European Jewelry is a jewelry store in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/european-jewelry-mount-prospect/
-156. EverGreene Jewelers | trust 0.0 | EverGreene Jewelers is a jewelry store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/evergreene-jewelers-minnetonka/
-157. Fausto's Jewelry | trust 0.0 | Fausto's Jewelry is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/faustos-jewelry-chicago/
-158. Fiancee Jewelry | trust 0.0 | Fiancee Jewelry is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/fiancee-jewelry-chicago/
-159. Flaherty Jewelers | trust 0.0 | Flaherty Jewelers is a jewelry store in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/flaherty-jewelers-arlington-heights/
-160. G. Blando Jewelers | trust 0.0 | G. Blando Jewelers is a jewelry store in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/g-blando-jewelers-brookfield/
-161. Gato & Sons | trust 0.0 | Gato & Sons is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/gato-and-sons-chicago/
-162. Gold & Diamond | trust 0.0 | Gold & Diamond is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/gold-and-diamond-rosemont/
-163. Goodman Jewelers | trust 0.0 | Goodman Jewelers is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/goodman-jewelers-maplewood/
-164. Guy Blando | trust 0.0 | Guy Blando is a jewelry store in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/guy-blando-indian-head-park/
-165. Helzberg Diamonds | trust 0.0 | Helzberg Diamonds is a jewelry store in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-eagan/
-166. Helzberg Diamonds | trust 0.0 | Helzberg Diamonds is a jewelry store in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-joliet/
-167. Helzberg Diamonds | trust 0.0 | Helzberg Diamonds is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-oak-brook/
-168. Helzberg Diamonds | trust 0.0 | Helzberg Diamonds is a jewelry store in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-orland-park/
-169. Helzberg Jewelers | trust 0.0 | Helzberg Jewelers is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/helzberg-jewelers-maplewood/
-170. Heng Heng Jewelry | trust 0.0 | Heng Heng Jewelry is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/heng-heng-jewelry-chicago/
-171. Hoang Kim Jewelry | trust 0.0 | Hoang Kim Jewelry is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/hoang-kim-jewelry-chicago/
-172. Hoff Diamonds | trust 0.0 | Hoff Diamonds is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/hoff-diamonds-maplewood/
-173. House of Dubai | trust 0.0 | House of Dubai is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/house-of-dubai-rosemont/
-174. Imperial Jewelers | trust 0.0 | Imperial Jewelers is a jewelry store in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/imperial-jewelers-burr-ridge/
-175. James & Sons | trust 0.0 | James & Sons is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/james-and-sons-chicago/
-176. James & Sons Fine Jewelers | trust 0.0 | James & Sons Fine Jewelers is a jewelry store in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/james-and-sons-fine-jewelers-orland-park/
-177. Jared | trust 0.0 | Jared is a jewelry store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/jared-bolingbrook/
-178. Jared | trust 0.0 | Jared is a jewelry store in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/jared-edina/
-179. Jared | trust 0.0 | Jared is a jewelry store in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/jared-lombard/
-180. Jared | trust 0.0 | Jared is a jewelry store in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/jared-maple-grove/
-181. Jared | trust 0.0 | Jared is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/jared-maplewood/
-182. Javi's Gift Shop Inc. | trust 0.0 | Javi's Gift Shop Inc. is a jewelry store in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/javis-gift-shop-inc-minneapolis/
-183. Jewelry Exchange | trust 0.0 | Jewelry Exchange is a jewelry store in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/jewelry-exchange-eagan/
-184. Johantgen Jewelers | trust 0.0 | Johantgen Jewelers is a jewelry store in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/johantgen-jewelers-crystal/
-185. Joyeria Bahena | trust 0.0 | Joyeria Bahena is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/joyeria-bahena-chicago/
-186. Joyeria Moreira's | trust 0.0 | Joyeria Moreira's is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/joyeria-moreiras-chicago/
-187. Karat Jewelry Group | trust 0.0 | Karat Jewelry Group is a jewelry store in Hinsdale, IL. | https://dingalinged-cpu.github.io/registry/c/karat-jewelry-group-hinsdale/
-188. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-arlington-heights/
-189. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Chicago Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-chicago-ridge/
-190. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-eagan/
-191. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-maplewood/
-192. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Norridge, IL. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-norridge/
-193. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Tinley Park, IL. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-tinley-park/
-194. Khazana Jewelers | trust 0.0 | Khazana Jewelers is a jewelry store in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/khazana-jewelers-westmont/
-195. Kim Hing Jewelry | trust 0.0 | Kim Hing Jewelry is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/kim-hing-jewelry-chicago/
-196. Kim Long | trust 0.0 | Kim Long is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/kim-long-chicago/
-197. Kipling1 | trust 0.0 | Kipling1 is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/kipling1-rosemont/
-198. Linnea Jewelers | trust 0.0 | Linnea Jewelers is a jewelry store in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/linnea-jewelers-la-grange/
-199. Long & Company Jewelers | trust 0.0 | Long & Company Jewelers is a jewelry store in Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/long-and-company-jewelers-barrington/
-200. Lovisa | trust 0.0 | Lovisa is a jewelry store in Norridge, IL. | https://dingalinged-cpu.github.io/registry/c/lovisa-norridge/
-201. Lovisa | trust 0.0 | Lovisa is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/lovisa-rosemont/
-202. Luo M. Jewelers | trust 0.0 | Luo M. Jewelers is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/luo-m-jewelers-chicago/
-203. Luxe Jewelry | trust 0.0 | Luxe Jewelry is a jewelry store in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/luxe-jewelry-lyons/
-204. Madrid Jewelry | trust 0.0 | Madrid Jewelry is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/madrid-jewelry-chicago/
-205. Marry Me Jewelry | trust 0.0 | Marry Me Jewelry is a jewelry store in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/marry-me-jewelry-countryside/
-206. Mon Ami Jewelers | trust 0.0 | Mon Ami Jewelers is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/mon-ami-jewelers-chicago/
-207. NY Jewelry | trust 0.0 | NY Jewelry is a jewelry store in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/ny-jewelry-minneapolis/
-208. Organic Jewelry | trust 0.0 | Organic Jewelry is a jewelry store in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/organic-jewelry-brookfield/
-209. Oscar and Sons Jewlers | trust 0.0 | Oscar and Sons Jewlers is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/oscar-and-sons-jewlers-chicago/
-210. Pandora | trust 0.0 | Pandora is a jewelry store in Chicago Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-chicago-ridge/
-211. Pandora | trust 0.0 | Pandora is a jewelry store in Deer Park, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-deer-park/
-212. Pandora | trust 0.0 | Pandora is a jewelry store in Norridge, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-norridge/
-213. Pandora | trust 0.0 | Pandora is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-oak-brook/
-214. Pandora | trust 0.0 | Pandora is a jewelry store in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-orland-park/
-215. Pandora | trust 0.0 | Pandora is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-rosemont/
-216. Pandora | trust 0.0 | Pandora is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-skokie/
-217. Persin & Robbin Jewelers | trust 0.0 | Persin & Robbin Jewelers is a jewelry store in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/persin-and-robbin-jewelers-arlington-heights/
-218. Phnom Penh Jewelry | trust 0.0 | Phnom Penh Jewelry is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/phnom-penh-jewelry-chicago/
-219. Raphael Jewelers | trust 0.0 | Raphael Jewelers is a jewelry store in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/raphael-jewelers-glenview/
-220. Rogers & Hollands | trust 0.0 | Rogers & Hollands is a jewelry store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/rogers-and-hollands-roseville/
-221. Rogers & Hollands Jewelers | trust 0.0 | Rogers & Hollands Jewelers is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/rogers-and-hollands-jewelers-skokie/
-222. Silver Corner | trust 0.0 | Silver Corner is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/silver-corner-rosemont/
-223. Smart Jewelers | trust 0.0 | Smart Jewelers is a jewelry store in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/smart-jewelers-northbrook/
-224. Smart Jewler | trust 0.0 | Smart Jewler is a jewelry store in Highland Park, IL. | https://dingalinged-cpu.github.io/registry/c/smart-jewler-highland-park/
-225. Spirit of the Red Horse | trust 0.0 | Spirit of the Red Horse is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/spirit-of-the-red-horse-chicago/
-226. Stanley Brown Jewelist | trust 0.0 | Stanley Brown Jewelist is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/stanley-brown-jewelist-chicago/
-227. Stones Jewerly | trust 0.0 | Stones Jewerly is a jewelry store in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/stones-jewerly-wheaton/
-228. Swarovski | trust 0.0 | Swarovski is a jewelry store in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/swarovski-eagan/
-229. Swarovski | trust 0.0 | Swarovski is a jewelry store in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/swarovski-fort-snelling-unorganized-territory/
-230. Swarovski | trust 0.0 | Swarovski is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/swarovski-oak-brook/
-231. Swarovski | trust 0.0 | Swarovski is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/swarovski-skokie/
-232. Tiffany & Company | trust 0.0 | Tiffany & Company is a jewelry store in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-northbrook/
-233. Tiffany & Company | trust 0.0 | Tiffany & Company is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-oak-brook/
-234. Tiffany & Company | trust 0.0 | Tiffany & Company is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-skokie/
-235. Tresures Jewlers | trust 0.0 | Tresures Jewlers is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/tresures-jewlers-chicago/
-236. Wedding Bands & Co. | trust 0.0 | Wedding Bands & Co. is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/wedding-bands-and-co-chicago/
-237. Zales | trust 0.0 | Zales is a jewelry store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/zales-chicago/
-238. Zales | trust 0.0 | Zales is a jewelry store in Chicago Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/zales-chicago-ridge/
-239. Zales | trust 0.0 | Zales is a jewelry store in Norridge, IL. | https://dingalinged-cpu.github.io/registry/c/zales-norridge/
+1. Another Time & Place | trust 20.0 | Another Time & Place is a jewelry store in Plano, TX at 5760 Legacy Drive #B2, Plano, TX 75024. Phone: +19723980101. Website: https://www.atplegacy.com/. | https://dingalinged-cpu.github.io/registry/c/another-time-and-place-plano/
+2. Arthur's Jewelers | trust 20.0 | Arthur's Jewelers is a jewelry store in Roseville, MN at 1717 Lexington Avenue North, Roseville, MN 55113. Phone: +16514880365. Website: https://www.arthursjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/arthurs-jewelers-roseville/
+3. BK Jewelry | trust 20.0 | BK Jewelry is a jewelry store in Naperville, IL at 105 West Jefferson Avenue, Naperville, IL 60540. Phone: +16309838557. Website: https://www.bkjewelry.net/. | https://dingalinged-cpu.github.io/registry/c/bk-jewelry-naperville/
+4. Blen's Time Fine Jewelry & Luxury Watches | trust 20.0 | Blen's Time Fine Jewelry & Luxury Watches is a jewelry store in Houston, TX at 100 Sharpstown Center #1270, Houston, TX 77036. Phone: +18326410966. Website: https://blenstimejewelryandwatches.com/. | https://dingalinged-cpu.github.io/registry/c/blens-time-fine-jewelry-and-luxury-watches-houston/
+5. Cival Collective | trust 20.0 | Cival Collective is a jewelry store in Milwaukee, WI at 911 West National Avenue, Milwaukee, WI 53204. Phone: +14143940355. Website: https://shopcival.com/. | https://dingalinged-cpu.github.io/registry/c/cival-collective-milwaukee/
+6. Colonial Jewelers | trust 20.0 | Colonial Jewelers is a jewelry store in Saint Michael, MN at 400 Central Avenue East, Saint Michael, MN 55376. Phone: +17634973717. Website: https://colonial-jewelers.com/. | https://dingalinged-cpu.github.io/registry/c/colonial-jewelers-saint-michael/
+7. Costello Jewelry Company | trust 20.0 | Costello Jewelry Company is a jewelry store in Naperville, IL at 33 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303551311. Website: https://www.costello.net/. | https://dingalinged-cpu.github.io/registry/c/costello-jewelry-company-naperville/
+8. Delton Hayes Jewelers | trust 20.0 | Delton Hayes Jewelers is a jewelry store in Humble, TX at 6460 FM 1960 East, Humble, TX 77346. Phone: +12818126708. Website: https://deltonhayesjewelry.com/. | https://dingalinged-cpu.github.io/registry/c/delton-hayes-jewelers-humble/
+9. Diamonds and Gold International | trust 20.0 | Diamonds and Gold International is a jewelry store in Saint Louis Park, MN at 5305 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529226453. Website: https://www.dgintl.com/. | https://dingalinged-cpu.github.io/registry/c/diamonds-and-gold-international-saint-louis-park/
+10. Dianne's Designs | trust 20.0 | Dianne's Designs is a jewelry store in West Allis, WI at 7344 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147747500. Website: https://dianesdesignsjewelryandwatchrepairwestalliswisconsn.com/addr:city=West Allis. | https://dingalinged-cpu.github.io/registry/c/diannes-designs-west-allis/
+11. Donna Jewelry | trust 20.0 | Donna Jewelry is a jewelry store in Houston, TX at 650 West Bough Lane #136, Houston, TX 77024. Phone: +17134672522. Website: https://donnajewelryllc.com/. | https://dingalinged-cpu.github.io/registry/c/donna-jewelry-houston/
+12. Ethan Lord Jewelers | trust 20.0 | Ethan Lord Jewelers is a jewelry store in Chicago, IL at 5 South Wabash Avenue #208, Chicago, IL 60603. Phone: +13124431401. Website: https://www.ethanlord.com/. | https://dingalinged-cpu.github.io/registry/c/ethan-lord-jewelers-chicago/
+13. Fast-Fix | trust 20.0 | Fast-Fix is a jewelry store in Dallas, TX at 8687 North Central Expressway, Dallas, TX 75225. Phone: +12143612811. Website: https://fastfix.com/ourstores/northpark-center/. | https://dingalinged-cpu.github.io/registry/c/fast-fix-dallas/
+14. Fervale Jewelry Inc. | trust 20.0 | Fervale Jewelry Inc. is a jewelry store in Chicago, IL at 3033 North Milwaukee Avenue, Chicago, IL 60618. Phone: +17732274928. Website: https://www.fervalejewelry.com/. | https://dingalinged-cpu.github.io/registry/c/fervale-jewelry-inc-chicago/
+15. Fey & Co Jewelers | trust 20.0 | Fey & Co Jewelers is a jewelry store in Naperville, IL at 833 North Washington Street, Naperville, IL 60563. Phone: +16306371500. Website: https://feyjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/fey-and-co-jewelers-naperville/
+16. Glorious By Pramukham Jewelers - Gold and Diamond Store | trust 20.0 | Glorious By Pramukham Jewelers - Gold and Diamond Store is a jewelry store in Irving, TX at 8140 North MacArthur Boulevard, Irving, TX 75063. Phone: +14697402119. Website: https://gloriousjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/glorious-by-pramukham-jewelers-gold-and-diamond-store-irving/
+17. Golden Treasures | trust 20.0 | Golden Treasures is a jewelry store in Saint Paul, MN at 805 Grand Avenue, Saint Paul, MN 55105. Phone: +16512272711. Website: https://www.goldn-treasures.com/. | https://dingalinged-cpu.github.io/registry/c/golden-treasures-saint-paul/
+18. Goldwear Jewelers | trust 20.0 | Goldwear Jewelers is a jewelry store in Maple Grove, MN at 13689 Grove Drive North, Maple Grove, MN 55311. Phone: +17634208060. Website: https://goldwearjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/goldwear-jewelers-maple-grove/
+19. Jacqueline's of Highland Park Jewelers | trust 20.0 | Jacqueline's of Highland Park Jewelers is a jewelry store in Highland Park, IL at 209 Skokie Valley Rd, Highland Park, IL 60035. Phone: +18475791400. Website: https://jacquelinesjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/jacquelines-of-highland-park-jewelers-highland-park/
+20. James Avery Artisan Jewelry | trust 20.0 | James Avery Artisan Jewelry is a jewelry store in Denton, TX at 2500 West University Drive, Denton, TX 76201. Phone: +19407834102. Website: https://www.jamesavery.com/store-details?store=095. | https://dingalinged-cpu.github.io/registry/c/james-avery-artisan-jewelry-denton/
+21. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Baytown, TX at 6405 Garth Road #150, Baytown, TX 77521. Phone: +18328066033. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=856. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-baytown/
+22. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Dallas, TX at 8687 N Central Expressway Ste 635, Dallas, TX 75225. Phone: +12147507324. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=734. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-dallas/
+23. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Garland, TX at 435 Coneflower Drive, Garland, TX 75040. Phone: +19724954414. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=726. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-garland/
+24. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Houston, TX at 5315 Fm 1960 Rd W Ste A, Houston, TX 77069. Phone: +12814405167. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=739. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-houston/
+25. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Houston, TX at 740 Kingwood Drive, Houston, TX 77339. Phone: +12813121144. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=682. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-houston-n4248482492/
+26. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Houston, TX at 6543B North Highway 6, Houston, TX 77084. Phone: +12815007284. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=943. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-houston-n4352329459/
+27. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Houston, TX at 900 Memorial City Way, Houston, TX 77024. Phone: +17134641851. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=935. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-houston-n5004624715/
+28. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Houston, TX at 7925 Cypress Creek Parkway, Houston, TX 77070. Phone: +12818909200. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=894. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-houston-n5004652357/
+29. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Humble, TX at 20131 Eastex Freeway, Humble, TX 77338. Phone: +12815401612. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=958. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-humble/
+30. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Hurst, TX at 1101 Melbourne Road Suite 3074, Hurst, TX 76053. Phone: +16827579133. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=810. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-hurst/
+31. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Katy, TX at 20260d Katy Fwy, Katy, TX 77449. Phone: +12815786118. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=690. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-katy/
+32. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Richmond, TX at 5650 W. Grand Parkway S., Richmond, TX 77406. Phone: +17138608704. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=967. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-richmond/
+33. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Sugar Land, TX at 16535 Southwest Freeway #T2008, Sugar Land, TX 77479. Phone: +12815652500. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=720. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-sugar-land/
+34. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Sugar Land, TX at 16517 Southwest Freeway, Sugar Land, TX 77479. Phone: +12819808300. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=936. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-sugar-land-n5004352310/
+35. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in The Woodlands, TX at 1201 Lake Woodlands Drive #400, The Woodlands, TX 77380. Phone: +12813639300. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=799. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-the-woodlands/
+36. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Webster, TX at 931 West Bay Area Boulevard, Webster, TX 77598. Phone: +12813320093. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=711. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-webster/
+37. Jewels by Stelios | trust 20.0 | Jewels by Stelios is a jewelry store in Harwood Heights, IL at 4721 North Harlem Avenue, Harwood Heights, IL 60706. Phone: +17088670252. Website: https://greekcrosses.net/. | https://dingalinged-cpu.github.io/registry/c/jewels-by-stelios-harwood-heights/
+38. JRS Jewelry Repair Shop | trust 20.0 | JRS Jewelry Repair Shop is a jewelry store in West Allis, WI at 7239 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142596050. Website: https://jrsbuygold.com/. | https://dingalinged-cpu.github.io/registry/c/jrs-jewelry-repair-shop-west-allis/
+39. Kalina & Co. Jewelry Company | trust 20.0 | Kalina & Co. Jewelry Company is a jewelry store in Milwaukee, WI at 1812 East North Avenue, Milwaukee, WI 53202. Phone: +14145448222. Website: https://www.kalinacojewelry.com/. | https://dingalinged-cpu.github.io/registry/c/kalina-and-co-jewelry-company-milwaukee/
+40. Karat 22 Jewelers | trust 20.0 | Karat 22 Jewelers is a jewelry store in Houston, TX at 5623 Hillcroft Avenue, Houston, TX 77036. Phone: +17137830808. Website: https://www.karat22.com/. | https://dingalinged-cpu.github.io/registry/c/karat-22-jewelers-houston/
+41. Kay Jewelers | trust 20.0 | Kay Jewelers is a jewelry store in Lombard, IL at 152 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16304952423. Website: https://stores.kay.com/il/lombard/2265. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-lombard/
+42. Kesslers Diamonds | trust 20.0 | Kesslers Diamonds is a jewelry store in Greenfield, WI at 5075 South 76th Street #Unit D, Greenfield, WI 53220. Phone: +14143259800. Website: https://www.kesslersdiamonds.com/company/locations/greenfield/. | https://dingalinged-cpu.github.io/registry/c/kesslers-diamonds-greenfield/
+43. Kesslers Diamonds | trust 20.0 | Kesslers Diamonds is a jewelry store in Milwaukee, WI at 450 East Mason Street, Milwaukee, WI 53202. Phone: +14147219450. Website: https://www.kesslersdiamonds.com/company/locations/milwaukee/. | https://dingalinged-cpu.github.io/registry/c/kesslers-diamonds-milwaukee/
+44. Knox Jewelers | trust 20.0 | Knox Jewelers is a jewelry store in Minneapolis, MN at 2921 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238752. Website: https://www.knoxjewelers.biz/. | https://dingalinged-cpu.github.io/registry/c/knox-jewelers-minneapolis/
+45. Landmark Jewelers | trust 20.0 | Landmark Jewelers is a jewelry store in Niles, IL at 8305 West Golf Road, Niles, IL 60714. Phone: +18475830000. Website: https://landmarkjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/landmark-jewelers-niles/
+46. LaRon Jewelers | trust 20.0 | LaRon Jewelers is a jewelry store in Chicago, IL at 5 South Wabash Avenue #806, Chicago, IL 60603. Phone: +13122633898. Website: https://www.laronjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/laron-jewelers-chicago/
+47. Leonard's Jewelry | trust 20.0 | Leonard's Jewelry is a jewelry store in Wauconda, IL at 215 West Liberty Street, Wauconda, IL 60084. Phone: +18475268111. Website: https://www.leonardsjewelry.com/. | https://dingalinged-cpu.github.io/registry/c/leonards-jewelry-wauconda/
+48. Lucky Jewelry | trust 20.0 | Lucky Jewelry is a jewelry store in Minneapolis, MN at 2447 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128708790. Website: https://luckybrand.com/. | https://dingalinged-cpu.github.io/registry/c/lucky-jewelry-minneapolis/
+49. NTS Jewelry and Gift | trust 20.0 | NTS Jewelry and Gift is a jewelry store in Milwaukee, WI at 3630 West National Avenue, Milwaukee, WI 53215. Phone: +14146724629. Website: https://ntsjewelryandgift.weebly.com/. | https://dingalinged-cpu.github.io/registry/c/nts-jewelry-and-gift-milwaukee/
+50. On the Rocks | trust 20.0 | On the Rocks is a jewelry store in Chicago, IL at 5709 North Clark Street, Chicago, IL 60660. Phone: +17736490111. Website: https://ontherockschicago.com/. | https://dingalinged-cpu.github.io/registry/c/on-the-rocks-chicago/
+
+## More jewelry store listings (581 total; top 50 unpaid shown)
+- Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/jewelry-store.jsonl
+- Houston, TX: 76 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-houston-tx/
+- Chicago, IL: 66 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-chicago-il/
+- Dallas, TX: 35 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-dallas-tx/
+- Milwaukee, WI: 20 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-milwaukee-wi/
+- Minneapolis, MN: 18 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-minneapolis-mn/
+- Sugar Land, TX: 15 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-sugar-land-tx/
+- Grapevine, TX: 14 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-grapevine-tx/
+- The Woodlands, TX: 12 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-the-woodlands-tx/
+- Plano, TX: 11 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-plano-tx/
+- Allen, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-allen-tx/
+- Richardson, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-richardson-tx/
+- Wauwatosa, WI: 8 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-wauwatosa-wi/
+- Oak Brook, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-oak-brook-il/
+- Naperville, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-naperville-il/
+- Rosemont, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-rosemont-il/
+- Saint Louis Park, MN: 8 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-saint-louis-park-mn/
+- Lewisville, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-lewisville-tx/
+- Roseville, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-roseville-mn/
+- Saint Paul, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-saint-paul-mn/
+- Bloomington, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-bloomington-mn/
+- Skokie, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-skokie-il/
+- Frisco, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-frisco-tx/
+- Irving, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-irving-tx/
+- Garland, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-garland-tx/
+- Southlake, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-southlake-tx/
+- Norridge, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-norridge-il/
+- Orland Park, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-orland-park-il/
+- Harris County, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-harris-county-tx/
+- Katy, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-katy-tx/
+- Pearland, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-pearland-tx/
+- Maplewood, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-maplewood-mn/
+- Eagan, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-eagan-mn/
+- Cedarburg, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-cedarburg-wi/
+- Lombard, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-lombard-il/
+- Humble, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-humble-tx/
+- Addison, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-addison-tx/
+- Denton, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-denton-tx/
+- Cedar Hill, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-cedar-hill-tx/
+- Rockwall, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-rockwall-tx/
+- Racine, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-racine-wi/
+- West Allis, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-west-allis-wi/
+- Brookfield, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-brookfield-wi/
+- Greenfield, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-greenfield-wi/
+- Barrington, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-barrington-il/
+- New Lenox, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-new-lenox-il/
+- Arlington Heights, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-arlington-heights-il/
+- Chicago Ridge, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-chicago-ridge-il/
+- Conroe, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-conroe-tx/
+- Highland Village, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-highland-village-tx/
+- Edina, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-edina-mn/
+- Glendale, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-glendale-wi/
+- Menomonee Falls, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-menomonee-falls-wi/
+- Wheaton, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-wheaton-il/
+- Evanston, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-evanston-il/
+- Brookfield, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-brookfield-il/
+- Highland Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-highland-park-il/
+- North Riverside, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-north-riverside-il/
+- Niles, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-niles-il/
+- Northbrook, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-northbrook-il/
+- Arlington, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-arlington-tx/
+- Euless, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-euless-tx/
+- Hurst, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-hurst-tx/
+- Montgomery County, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-montgomery-county-tx/
+- University Park, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-university-park-tx/
+- Mckinney, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-mckinney-tx/
+- Eden Prairie, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-eden-prairie-mn/
+- Maple Grove, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-maple-grove-mn/
+- Saint Anthony, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-saint-anthony-mn/
+- Caledonia, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-caledonia-wi/
+- Oak Creek, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-oak-creek-wi/
+- Town Of Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-town-of-brookfield-wi/
+- West Bend, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-west-bend-wi/
+- Mount Pleasant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-mount-pleasant-wi/
+- Village Of Germantown, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-village-of-germantown-wi/
+- Burlington, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-burlington-wi/
+- New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-new-berlin-wi/
+- Mequon, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-mequon-wi/
+- Lincolnwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-lincolnwood-il/
+- Willowbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-willowbrook-il/
+- Schaumburg, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-schaumburg-il/
+- Downers Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-downers-grove-il/
+- Mount Prospect, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-mount-prospect-il/
+- Wilmette, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-wilmette-il/
+- Indian Head Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-indian-head-park-il/
+- Lemont Township, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-lemont-township-il/
+- Joliet, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-joliet-il/
+- Burr Ridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-burr-ridge-il/
+- Bolingbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-bolingbrook-il/
+- Vernon Hills, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-vernon-hills-il/
+- Harwood Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-harwood-heights-il/
+- Hinsdale, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-hinsdale-il/
+- Evergreen Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-evergreen-park-il/
+- Tinley Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-tinley-park-il/
+- Westmont, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-westmont-il/
+- Wauconda, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-wauconda-il/
+- La Grange, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-la-grange-il/
+- Homer Glen, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-homer-glen-il/
+- Lyons, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-lyons-il/
+- Countryside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-countryside-il/
+- Calumet City, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-calumet-city-il/
+- Deer Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-deer-park-il/
+- Woodridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-woodridge-il/
+- Des Plaines, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-des-plaines-il/
+- Oak Lawn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-oak-lawn-il/
+- Glenview, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-glenview-il/
+- Villa Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-villa-park-il/
+- Terrell, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-terrell-tx/
+- Bedford, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-bedford-tx/
+- West University Place, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-west-university-place-tx/
+- Mesquite, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-mesquite-tx/
+- Flower Mound, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-flower-mound-tx/
+- Tomball, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-tomball-tx/
+- Baytown, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-baytown-tx/
+- Missouri City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-missouri-city-tx/
+- Richmond, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-richmond-tx/
+- Webster, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-webster-tx/
+- Wylie, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-wylie-tx/
+- Texas City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-texas-city-tx/
+- League City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-league-city-tx/
+- Carrollton, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-carrollton-tx/
+- Fairview, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-fairview-tx/
+- Mansfield, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-mansfield-tx/
+- Pasadena, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-pasadena-tx/
+- Saint Michael, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-saint-michael-mn/
+- Anoka, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-anoka-mn/
+- Minnetonka, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-minnetonka-mn/
+- Crystal, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-crystal-mn/
+- Shakopee, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-shakopee-mn/
+- Fort Snelling Unorganized Territory, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-fort-snelling-unorganized-territory-mn/
+- Whiting, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-whiting-in/
+- Hobart, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-hobart-in/
+- Merrillville, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/jewelry-store-merrillville-in/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
-- US monthly searches: 140,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
 - CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 239
+- Registry businesses competing: 581
 - Equivalent Google Ads cost per month: ~$52,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/jewelry-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#jewelry-store | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/jewelry-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#jewelry-store | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

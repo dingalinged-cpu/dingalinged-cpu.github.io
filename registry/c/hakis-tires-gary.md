@@ -15,7 +15,7 @@ Haki's Tires is a tire shop in Gary, IN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hakis-tires-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hakis-tires-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1325530714 (license ODbL-1.0); source data as of 2026-06-01

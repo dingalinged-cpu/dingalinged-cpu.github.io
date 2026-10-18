@@ -15,7 +15,7 @@ New Uses is a furniture store in Maple Grove, MN at 13777 Grove Drive North, Map
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00;Sa 10:00-18:00;Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-uses-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-uses-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/610584992 (license ODbL-1.0); source data as of 2026-06-01

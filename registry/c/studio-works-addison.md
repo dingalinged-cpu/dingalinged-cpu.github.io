@@ -1,0 +1,23 @@
+Studio Works is a coworking space in Addison, TX at 5052 Addison Circle, Addison, TX 75001. Phone: +19727824302. Website: https://studioworks.space/.
+
+# Studio Works
+
+- Category: coworking space
+- Services: coworking space
+- Address: 5052 Addison Circle, Addison, TX 75001
+- City: Addison
+- State: TX
+- ZIP: 75001
+- Coordinates: 32.9616193, -96.8237713
+- Phone: +19727824302
+- Website: https://studioworks.space/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/studio-works-addison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/studio-works-addison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11777200250 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

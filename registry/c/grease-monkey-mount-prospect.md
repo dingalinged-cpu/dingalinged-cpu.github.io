@@ -15,7 +15,7 @@ Grease Monkey is an auto repair shop in Mount Prospect, IL at 790 East Rand Road
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/grease-monkey-mount-prospect/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/grease-monkey-mount-prospect.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/538817909 (license ODbL-1.0); source data as of 2026-06-01

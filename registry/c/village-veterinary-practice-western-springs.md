@@ -15,7 +15,7 @@ Village Veterinary Practice is a veterinarian in Western Springs, IL at 500 Hill
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/village-veterinary-practice-western-springs/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/village-veterinary-practice-western-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9603287971 (license ODbL-1.0); source data as of 2026-07-28

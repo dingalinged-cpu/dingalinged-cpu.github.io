@@ -15,7 +15,7 @@ The UPS Store is a printing service in Naperville, IL at 1212 Naper Boulevard #1
 - Opening hours (OSM syntax): Mo 08:00-18:30; Tu 08:00-18:30; We 08:00-18:30; Th 08:00-18:30; Fr 08:00-18:30; Sa 09:00-17:00; Su 10:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-naperville-w1441749348/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-naperville-w1441749348.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1441749348 (license ODbL-1.0); source data as of 2026-06-01

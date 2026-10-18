@@ -15,7 +15,7 @@ Jiffy Lube is an auto repair shop in Crown Point, IN at 9301 Broadway, Crown Poi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-crown-point/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-crown-point.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1392725756 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Bob Carter's Auto Body Inc is an auto repair shop in Downers Grove, IL at 4309 F
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bob-carters-auto-body-inc-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bob-carters-auto-body-inc-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/850669638 (license ODbL-1.0); source data as of 2026-06-01

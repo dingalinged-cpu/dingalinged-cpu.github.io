@@ -15,7 +15,7 @@ Dentist in Vernon Hills is a dentist in Vernon Hills, IL at 555 Townline Road, V
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dentist-in-vernon-hills-vernon-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dentist-in-vernon-hills-vernon-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1245556772 (license ODbL-1.0); source data as of 2026-07-28

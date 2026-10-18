@@ -15,7 +15,7 @@ Love From Minnesota is a gift shop in Bloomington, MN at 380 West Market, Bloomi
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/love-from-minnesota-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/love-from-minnesota-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5739829586 (license ODbL-1.0); source data as of 2026-06-01

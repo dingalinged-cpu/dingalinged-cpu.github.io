@@ -1,0 +1,58 @@
+Keyword market for Shorewood, WI: 35 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Milwaukee-Waukesha, WI metro (US volume x population share).
+
+# Top keywords in Shorewood, WI
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. dentist shorewood wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/dentist-shorewood-wi/
+2. gym shorewood wi | searches/mo 8,400 (est) | CPC $1.67 | value $14,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/gym-shorewood-wi/
+3. hair salon shorewood wi | searches/mo 6,900 (est) | CPC $0.55 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/hair-salon-shorewood-wi/
+4. nail salon shorewood wi | searches/mo 4,600 (est) | CPC $0.61 | value $2,800 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-shorewood-wi/
+5. barber shop shorewood wi | searches/mo 3,100 (est) | CPC $0.70 | value $2,200 | Google Ads equiv $120/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/barber-shop-shorewood-wi/
+6. mechanic shorewood wi | searches/mo 3,100 (est) | CPC $4.35 | value $13,000 | Google Ads equiv $750/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-shorewood-wi/
+7. vet shorewood wi | searches/mo 2,500 (est) | CPC $4.06 | value $10,000 | Google Ads equiv $670/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-shorewood-wi/
+8. dog groomer shorewood wi | searches/mo 2,100 (est) | CPC $4.06 | value $8,500 | Google Ads equiv $560/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-shorewood-wi/
+9. haircut shorewood wi | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-wi/
+10. auto repair shorewood wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-shorewood-wi/
+11. chiropractor shorewood wi | searches/mo 1,100 (est) | CPC $4.76 | value $5,200 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-shorewood-wi/
+12. financial advisor shorewood wi | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-shorewood-wi/
+13. real estate agent shorewood wi | searches/mo 930 (est) | CPC $3.61 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-shorewood-wi/
+14. insurance agency shorewood wi | searches/mo 420 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-shorewood-wi/
+15. realtor shorewood wi | searches/mo 420 (est) | CPC $3.70 | value $1,600 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-shorewood-wi/
+
+## By CPC
+1. attorney shorewood wi | searches/mo 340 (est) | CPC $9.87 | value $3,400 | Google Ads equiv $200/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-shorewood-wi/
+2. lawyer shorewood wi | searches/mo 230 (est) | CPC $9.87 | value $2,300 | Google Ads equiv $140/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-shorewood-wi/
+3. interior designer shorewood wi | searches/mo 180 (est) | CPC $8.33 | value $1,500 | Google Ads equiv $96.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/interior-designer-shorewood-wi/
+4. bakery shorewood wi | searches/mo 1,000 (est) | CPC $7.17 | value $7,200 | Google Ads equiv $550/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/bakery-shorewood-wi/
+5. event venues shorewood wi | searches/mo 1,000 (est) | CPC $7.17 | value $7,200 | Google Ads equiv $550/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-shorewood-wi/
+6. florist shorewood wi | searches/mo 1,000 (est) | CPC $7.17 | value $7,200 | Google Ads equiv $550/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/florist-shorewood-wi/
+7. daycare shorewood wi | searches/mo 1,000 (est) | CPC $4.81 | value $4,800 | Google Ads equiv $280/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/daycare-shorewood-wi/
+8. chiropractor shorewood wi | searches/mo 1,100 (est) | CPC $4.76 | value $5,200 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-shorewood-wi/
+9. physical therapy shorewood wi | searches/mo 1,000 (est) | CPC $4.76 | value $4,800 | Google Ads equiv $320/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/physical-therapy-shorewood-wi/
+10. therapist shorewood wi | searches/mo 1,000 (est) | CPC $4.76 | value $4,800 | Google Ads equiv $320/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/therapist-shorewood-wi/
+11. dentist shorewood wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/dentist-shorewood-wi/
+12. haircut shorewood wi | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-wi/
+13. tattoo shop shorewood wi | searches/mo 4,300 (est) | CPC $4.62 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tattoo-shop-shorewood-wi/
+14. auto repair shorewood wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-shorewood-wi/
+15. mechanic shorewood wi | searches/mo 3,100 (est) | CPC $4.35 | value $13,000 | Google Ads equiv $750/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-shorewood-wi/
+
+## By value (searches x CPC)
+1. dentist shorewood wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/dentist-shorewood-wi/
+2. gym shorewood wi | searches/mo 8,400 (est) | CPC $1.67 | value $14,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/gym-shorewood-wi/
+3. mechanic shorewood wi | searches/mo 3,100 (est) | CPC $4.35 | value $13,000 | Google Ads equiv $750/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-shorewood-wi/
+4. vet shorewood wi | searches/mo 2,500 (est) | CPC $4.06 | value $10,000 | Google Ads equiv $670/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-shorewood-wi/
+5. dog groomer shorewood wi | searches/mo 2,100 (est) | CPC $4.06 | value $8,500 | Google Ads equiv $560/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-shorewood-wi/
+6. haircut shorewood wi | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-wi/
+7. auto repair shorewood wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-shorewood-wi/
+8. chiropractor shorewood wi | searches/mo 1,100 (est) | CPC $4.76 | value $5,200 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-shorewood-wi/
+9. hair salon shorewood wi | searches/mo 6,900 (est) | CPC $0.55 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/hair-salon-shorewood-wi/
+10. financial advisor shorewood wi | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-shorewood-wi/
+11. attorney shorewood wi | searches/mo 340 (est) | CPC $9.87 | value $3,400 | Google Ads equiv $200/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-shorewood-wi/
+12. real estate agent shorewood wi | searches/mo 930 (est) | CPC $3.61 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-shorewood-wi/
+13. nail salon shorewood wi | searches/mo 4,600 (est) | CPC $0.61 | value $2,800 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-shorewood-wi/
+14. lawyer shorewood wi | searches/mo 230 (est) | CPC $9.87 | value $2,300 | Google Ads equiv $140/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-shorewood-wi/
+15. barber shop shorewood wi | searches/mo 3,100 (est) | CPC $0.70 | value $2,200 | Google Ads equiv $120/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/barber-shop-shorewood-wi/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

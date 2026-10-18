@@ -15,7 +15,7 @@ Riverwoods Montessori School is a preschool in Riverwoods, IL at 3140 Riverwoods
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/riverwoods-montessori-school-riverwoods/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/riverwoods-montessori-school-riverwoods.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11474742626 (license ODbL-1.0); source data as of 2026-07-28

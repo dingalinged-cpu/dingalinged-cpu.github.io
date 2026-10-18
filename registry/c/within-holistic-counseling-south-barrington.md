@@ -15,7 +15,7 @@ Within Holistic Counseling is a therapy practice in South Barrington, IL at 33 W
 - Opening hours (OSM syntax): Mo-Su 08:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/within-holistic-counseling-south-barrington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/within-holistic-counseling-south-barrington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6461112352 (license ODbL-1.0); source data as of 2026-07-28

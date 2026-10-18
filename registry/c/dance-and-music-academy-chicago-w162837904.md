@@ -15,7 +15,7 @@ Dance & Music Academy is a dance studio in Chicago, IL at 6407 North Caldwell Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dance-and-music-academy-chicago-w162837904/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dance-and-music-academy-chicago-w162837904.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162837904 (license ODbL-1.0); source data as of 2026-07-28

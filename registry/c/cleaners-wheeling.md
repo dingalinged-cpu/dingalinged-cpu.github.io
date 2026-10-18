@@ -15,7 +15,7 @@ Cleaners is a dry cleaner in Wheeling, IL at 751 West Dundee Road, Wheeling, IL 
 - Opening hours (OSM syntax): Mo-Fr 7:00-18:00; Sa 8:00-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cleaners-wheeling/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cleaners-wheeling.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11382582668 (license ODbL-1.0); source data as of 2026-06-01

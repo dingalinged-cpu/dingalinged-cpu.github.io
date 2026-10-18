@@ -15,7 +15,7 @@ Petco is a pet store in Bloomingdale, IL at 412 West Army Trail Road, Bloomingda
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/petco-bloomingdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/petco-bloomingdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/850669920 (license ODbL-1.0); source data as of 2026-06-01

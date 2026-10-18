@@ -15,7 +15,7 @@ NRD Landscape Design Build is an architect in Minnetonka, MN at 5100 Thimsen Ave
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nrd-landscape-design-build-minnetonka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nrd-landscape-design-build-minnetonka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9620075315 (license ODbL-1.0); source data as of 2026-05-31

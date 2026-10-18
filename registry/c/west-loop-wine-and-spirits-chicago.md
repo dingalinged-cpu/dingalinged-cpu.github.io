@@ -15,7 +15,7 @@ West Loop Wine & Spirits is a liquor store in Chicago, IL at 737 West Lake Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/west-loop-wine-and-spirits-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/west-loop-wine-and-spirits-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12342387612 (license ODbL-1.0); source data as of 2026-06-01

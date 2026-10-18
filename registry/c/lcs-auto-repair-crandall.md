@@ -1,0 +1,23 @@
+LC's Auto Repair is an auto repair shop in Crandall, TX at 7723 West US Highway 175, Crandall, TX 75114.
+
+# LC's Auto Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 7723 West US Highway 175, Crandall, TX 75114
+- City: Crandall
+- State: TX
+- ZIP: 75114
+- Coordinates: 32.612927, -96.402205
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lcs-auto-repair-crandall/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lcs-auto-repair-crandall.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/714601285 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

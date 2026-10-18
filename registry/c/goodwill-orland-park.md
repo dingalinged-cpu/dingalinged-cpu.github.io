@@ -15,7 +15,7 @@ Goodwill is a thrift store in Orland Park, IL at 7400 West 159th Street, Orland 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/590562830 (license ODbL-1.0); source data as of 2026-06-01

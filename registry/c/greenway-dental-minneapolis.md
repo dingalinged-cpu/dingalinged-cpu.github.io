@@ -15,7 +15,7 @@ Greenway Dental is a dentist in Minneapolis, MN at 2309 Lyndale Avenue South, Mi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/greenway-dental-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/greenway-dental-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12623211491 (license ODbL-1.0); source data as of 2026-07-24

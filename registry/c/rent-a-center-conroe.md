@@ -1,0 +1,23 @@
+Rent-A-Center is a furniture store in Conroe, TX at 1408 North Loop 336 West #A, Conroe, TX 77304.
+
+# Rent-A-Center
+
+- Category: furniture store
+- Services: furniture store
+- Address: 1408 North Loop 336 West #A, Conroe, TX 77304
+- City: Conroe
+- State: TX
+- ZIP: 77304
+- Coordinates: 30.3362999, -95.4814918
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/rent-a-center-conroe/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rent-a-center-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7168890429 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ MM Giftland is a gift shop in Chicago, IL at 2316 South Wentworth Avenue, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mm-giftland-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mm-giftland-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6654380718 (license ODbL-1.0); source data as of 2026-06-01

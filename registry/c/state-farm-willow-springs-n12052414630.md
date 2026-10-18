@@ -15,7 +15,7 @@ State Farm is an insurance agent in Willow Springs, IL. Website: https://www.jac
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-willow-springs-n12052414630/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-willow-springs-n12052414630.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12052414630 (license ODbL-1.0); source data as of 2026-07-28

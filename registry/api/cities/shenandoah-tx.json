@@ -1,0 +1,597 @@
+{
+ "place": "Shenandoah, TX",
+ "slug": "shenandoah-tx",
+ "count": 17,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "bakery shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-shenandoah-tx.json"
+  },
+  {
+   "keyword": "bike shop shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-shenandoah-tx.json"
+  },
+  {
+   "keyword": "dentist shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-shenandoah-tx.json"
+  },
+  {
+   "keyword": "facial shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-shenandoah-tx.json"
+  },
+  {
+   "keyword": "furniture store shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-shenandoah-tx.json"
+  },
+  {
+   "keyword": "insurance agency shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-shenandoah-tx.json"
+  },
+  {
+   "keyword": "insurance agent shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-shenandoah-tx.json"
+  },
+  {
+   "keyword": "insurance agents shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-shenandoah-tx.json"
+  },
+  {
+   "keyword": "mattress store shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-shenandoah-tx.json"
+  },
+  {
+   "keyword": "motorcycle repair shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/motorcycle-repair-shenandoah-tx.json"
+  },
+  {
+   "keyword": "nail salon shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-shenandoah-tx.json"
+  },
+  {
+   "keyword": "pet store shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-shenandoah-tx.json"
+  },
+  {
+   "keyword": "phone repair shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/phone-repair-shenandoah-tx.json"
+  },
+  {
+   "keyword": "tanning salon shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-shenandoah-tx.json"
+  },
+  {
+   "keyword": "thrift store shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-shenandoah-tx.json"
+  },
+  {
+   "keyword": "tire shop shenandoah tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-shenandoah-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "cycle-gear-shenandoah",
+   "name": "Cycle Gear",
+   "summary": "Cycle Gear is a motorcycle repair shop in Shenandoah, TX at 19075 Interstate 45 South #900, Shenandoah, TX 77385. Phone: +12815031588. Website: https://www.cyclegear.com/.",
+   "categories": [
+    "motorcycle repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cycle-gear-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cycle-gear-shenandoah.json",
+   "address": {
+    "streetAddress": "19075 Interstate 45 South #900",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1845863,
+    "lon": -95.4512541
+   },
+   "phone": "+12815031588",
+   "website": "https://www.cyclegear.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11919713636",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mint-dentistry-shenandoah",
+   "name": "Mint Dentistry",
+   "summary": "Mint Dentistry is a dentist in Shenandoah, TX at 19073 Interstate 45 South #185, Shenandoah, TX 77385. Phone: +18328138742. Website: https://www.thewoodlandstxdentist.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mint-dentistry-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mint-dentistry-shenandoah.json",
+   "address": {
+    "streetAddress": "19073 Interstate 45 South #185",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1888899,
+    "lon": -95.4506238
+   },
+   "phone": "+18328138742",
+   "website": "https://www.thewoodlandstxdentist.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2684621622",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-conroe",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Conroe, TX at 19075 Interstate 45 South #114, Conroe, TX 77385. Phone: +19362739888. Website: https://www.petsmart.com/stores/us/tx/conroe-store1046.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-conroe.json",
+   "address": {
+    "streetAddress": "19075 Interstate 45 South #114",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1860217,
+    "lon": -95.4503496
+   },
+   "phone": "+19362739888",
+   "website": "https://www.petsmart.com/stores/us/tx/conroe-store1046.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6740177137",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bike-lane-shenandoah",
+   "name": "Bike Lane",
+   "summary": "Bike Lane is a bike shop in Shenandoah, TX at 17937 Interstate 45 South #101, Shenandoah, TX 77385. Phone: +19363210200. Website: https://bikelanehouston.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bike-lane-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bike-lane-shenandoah.json",
+   "address": {
+    "streetAddress": "17937 Interstate 45 South #101",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1967172,
+    "lon": -95.4534512
+   },
+   "phone": "+19363210200",
+   "website": "https://bikelanehouston.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9171184854",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-shenandoah",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Shenandoah, TX at 100 Vision Park Drive, Shenandoah, TX 77384. Phone: +19362731001. Website: https://www.mattressfirm.com/en-us/stores/tx/shenandoah/001056/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-shenandoah.json",
+   "address": {
+    "streetAddress": "100 Vision Park Drive",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.1918914,
+    "lon": -95.4547592
+   },
+   "phone": "+19362731001",
+   "website": "https://www.mattressfirm.com/en-us/stores/tx/shenandoah/001056/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/717755862",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ethan-allen-shenandoah",
+   "name": "Ethan Allen",
+   "summary": "Ethan Allen is a furniture store in Shenandoah, TX at I-45, Shenandoah, TX. Phone: +12814448210. Website: https://www.ethanallen.com/on/demandware.store/Sites-ethanallen-us-Site/en_US/Stores-Details?StoreID=870.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ethan-allen-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ethan-allen-shenandoah.json",
+   "address": {
+    "streetAddress": "I-45",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1890891,
+    "lon": -95.4542152
+   },
+   "phone": "+12814448210",
+   "website": "https://www.ethanallen.com/on/demandware.store/Sites-ethanallen-us-Site/en_US/Stores-Details?StoreID=870",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13089136595",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "munchmunch-mochi-donut-and-bakery-shenandoah",
+   "name": "MunchMunch Mochi Donut & Bakery",
+   "summary": "MunchMunch Mochi Donut & Bakery is a bakery in Shenandoah, TX at Suite # M I-45, Shenandoah, TX. Phone: +13463316184. Website: https://www.munchmunchdonut.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/munchmunch-mochi-donut-and-bakery-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/munchmunch-mochi-donut-and-bakery-shenandoah.json",
+   "address": {
+    "streetAddress": "Suite # M I-45",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1771701,
+    "lon": -95.4497513
+   },
+   "phone": "+13463316184",
+   "website": "https://www.munchmunchdonut.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13089137166",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petland-woodlands-shenandoah",
+   "name": "Petland Woodlands",
+   "summary": "Petland Woodlands is a pet store in Shenandoah, TX at I-45, Shenandoah, TX. Phone: +18322950892. Website: https://www.petlandwoodlands.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petland-woodlands-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petland-woodlands-shenandoah.json",
+   "address": {
+    "streetAddress": "I-45",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1893925,
+    "lon": -95.4517481
+   },
+   "phone": "+18322950892",
+   "website": "https://www.petlandwoodlands.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13089150363",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-shenandoah",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Shenandoah, TX at 18361 Interstate 45 South, Shenandoah, TX 77385. Phone: +19363216351.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-shenandoah.json",
+   "address": {
+    "streetAddress": "18361 Interstate 45 South",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1901708,
+    "lon": -95.4519758
+   },
+   "phone": "+19363216351",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/121502610",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-shenandoah",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Shenandoah, TX at 19073 Interstate 45 South #190, Shenandoah, TX 77385.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-shenandoah.json",
+   "address": {
+    "streetAddress": "19073 Interstate 45 South #190",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1888916,
+    "lon": -95.4505336
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7782561670",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cell-phone-repair-shenandoah",
+   "name": "Cell Phone Repair",
+   "summary": "Cell Phone Repair is a phone repair shop in Shenandoah, TX at 19073 Interstate 45 South #107, Shenandoah, TX 77385.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cell-phone-repair-shenandoah.json",
+   "address": {
+    "streetAddress": "19073 Interstate 45 South #107",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1888754,
+    "lon": -95.4515905
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7782561675",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "knead-me-bakery-shenandoah",
+   "name": "Knead Me Bakery",
+   "summary": "Knead Me Bakery is a bakery in Shenandoah, TX.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/knead-me-bakery-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/knead-me-bakery-shenandoah.json",
+   "address": {
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1947027,
+    "lon": -95.4499701
+   },
+   "opening_hours": "Mo-Tu off; We-Fr 09:00-16:00; Sa-Su 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13384672930",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "martinis-and-manicures-shenandoah",
+   "name": "Martinis & Manicures",
+   "summary": "Martinis & Manicures is a nail salon in Shenandoah, TX at 8821 Metropark Drive #500, Shenandoah, TX 77385.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/martinis-and-manicures-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/martinis-and-manicures-shenandoah.json",
+   "address": {
+    "streetAddress": "8821 Metropark Drive #500",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1952288,
+    "lon": -95.4524199
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13146624610",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "palm-beach-tan-shenandoah",
+   "name": "Palm Beach Tan",
+   "summary": "Palm Beach Tan is a tanning salon in Shenandoah, TX at 19073 Interstate 45 South, Shenandoah, TX 77385.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-shenandoah.json",
+   "address": {
+    "streetAddress": "19073 Interstate 45 South",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1888736,
+    "lon": -95.451701
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7782561668",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "something-special-shenandoah",
+   "name": "Something Special",
+   "summary": "Something Special is a thrift store in Shenandoah, TX at 19073 Interstate 45 South #160, Shenandoah, TX 77385.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/something-special-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/something-special-shenandoah.json",
+   "address": {
+    "streetAddress": "19073 Interstate 45 South #160",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1888881,
+    "lon": -95.4507139
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7782561664",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "venus-nails-and-facial-shenandoah",
+   "name": "Venus Nails & Facial",
+   "summary": "Venus Nails & Facial is a nail salon in Shenandoah, TX at 19073 Interstate 45 South #150, Shenandoah, TX 77385.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/venus-nails-and-facial-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/venus-nails-and-facial-shenandoah.json",
+   "address": {
+    "streetAddress": "19073 Interstate 45 South #150",
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1888864,
+    "lon": -95.4508041
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7782561665",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sleep-number-shenandoah",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Shenandoah, TX.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-shenandoah/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-shenandoah.json",
+   "address": {
+    "addressLocality": "Shenandoah",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Shenandoah",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1886702,
+    "lon": -95.4538666
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12048157596",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

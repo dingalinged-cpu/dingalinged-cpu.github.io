@@ -15,7 +15,7 @@ Platinum Dry Cleaners is a dry cleaner in Chicago, IL at 3707 North Broadway, Ch
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/platinum-dry-cleaners-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/platinum-dry-cleaners-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11227932694 (license ODbL-1.0); source data as of 2026-06-01

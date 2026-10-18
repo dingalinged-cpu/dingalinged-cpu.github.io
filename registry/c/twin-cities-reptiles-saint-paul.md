@@ -15,7 +15,7 @@ Twin Cities Reptiles is a pet store in Saint Paul, MN at 2363 University Avenue 
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/twin-cities-reptiles-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/twin-cities-reptiles-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6456665438 (license ODbL-1.0); source data as of 2026-06-01

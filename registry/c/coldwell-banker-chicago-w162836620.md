@@ -15,7 +15,7 @@ Coldwell Banker is a real estate agency in Chicago, IL at 5364 West Devon Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/coldwell-banker-chicago-w162836620/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-chicago-w162836620.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162836620 (license ODbL-1.0); source data as of 2026-07-28

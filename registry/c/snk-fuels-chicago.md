@@ -15,7 +15,7 @@ SNK Fuels is a car wash in Chicago, IL at 3601 West Grand Avenue, Chicago, IL 60
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/snk-fuels-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/snk-fuels-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1311457077 (license ODbL-1.0); source data as of 2026-07-28

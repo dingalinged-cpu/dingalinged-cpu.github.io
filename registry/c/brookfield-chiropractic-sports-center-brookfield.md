@@ -15,7 +15,7 @@ Brookfield Chiropractic Sports Center is a physical therapy clinic in Brookfield
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brookfield-chiropractic-sports-center-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brookfield-chiropractic-sports-center-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9793717169 (license ODbL-1.0); source data as of 2026-07-28

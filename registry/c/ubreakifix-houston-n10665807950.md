@@ -1,0 +1,23 @@
+uBreakiFix is a phone repair shop in Houston, TX at 446 West 19th Street, Houston, TX.
+
+# uBreakiFix
+
+- Category: phone repair
+- Services: phone repair
+- Address: 446 West 19th Street, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.8024877, -95.4054482
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ubreakifix-houston-n10665807950/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-houston-n10665807950.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10665807950 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

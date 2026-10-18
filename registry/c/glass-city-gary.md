@@ -15,7 +15,7 @@ Glass City is a window repair service in Gary, IN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/glass-city-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/glass-city-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10791191314 (license ODbL-1.0); source data as of 2026-06-01

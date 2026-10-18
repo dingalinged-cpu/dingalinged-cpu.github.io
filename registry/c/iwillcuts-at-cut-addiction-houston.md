@@ -1,0 +1,23 @@
+Iwillcuts at Cut Addiction is a barber shop in Houston, TX at 2002 North Fry Road #110, Houston, TX 77084. Phone: +18327221635.
+
+# Iwillcuts at Cut Addiction
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 2002 North Fry Road #110, Houston, TX 77084
+- City: Houston
+- State: TX
+- ZIP: 77084
+- Coordinates: 29.7960953, -95.7182503
+- Phone: +18327221635
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo 11:00-18:00; We 10:00-19:00; Th 09:00-18:00; Fr-Sa 09:00-19:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/iwillcuts-at-cut-addiction-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/iwillcuts-at-cut-addiction-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14011150033 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

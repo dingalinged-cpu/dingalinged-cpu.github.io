@@ -1,0 +1,23 @@
+Trinity Family Dental is a dentist in Euless, TX at 900 North Industrial Boulevard #100, Euless, TX 76039.
+
+# Trinity Family Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 900 North Industrial Boulevard #100, Euless, TX 76039
+- City: Euless
+- State: TX
+- ZIP: 76039
+- Coordinates: 32.8489636, -97.0994329
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/trinity-family-dental-euless/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/trinity-family-dental-euless.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13749162462 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

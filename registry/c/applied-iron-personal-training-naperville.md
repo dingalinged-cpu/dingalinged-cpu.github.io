@@ -15,7 +15,7 @@ Applied Iron Personal Training is a gym in Naperville, IL at 967 West 75th Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/applied-iron-personal-training-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/applied-iron-personal-training-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1339742439 (license ODbL-1.0); source data as of 2026-06-01

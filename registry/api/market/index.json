@@ -2,11 +2,11 @@
  "updated": "2026-10-18",
  "meta": {
   "generated": "2026-10-18",
-  "keywords": 56588,
+  "keywords": 61487,
   "base_keywords": 634,
   "volume_basis": {
-   "sourced": 29065,
-   "estimated": 27523,
+   "sourced": 31893,
+   "estimated": 29594,
    "no_volume": 0
   },
   "us_population": {
@@ -16,7 +16,7 @@
   },
   "assemble": "market block for a keyword = bases[keywords[slug].base] merged with keywords[slug]; auction = keywords[slug].auction + auction_rules; method_id -> methods",
   "license": {
-   "registry_estimates": "CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)",
+   "registry_estimates": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution",
    "cited_figures": "Facts cited from third-party publishers listed in 'sources'; attribute them to those publishers."
   },
   "rules": "Every number has a source id (see sources) and as_of. method='cited' = published by the source; method='estimate' = computed by the registry (method text in estimate_method or methods[method_id]). Estimates are rounded to 2 significant figures.",
@@ -154,7 +154,7 @@
    "as_of": "2026-10-18"
   },
   "registry_estimate": {
-   "name": "Registry estimate (CC-BY-4.0); method given on each value",
+   "name": "Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value",
    "url": "https://dingalinged-cpu.github.io/registry/market/",
    "as_of": "2026-10-18"
   },
@@ -514,6 +514,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/addison-il/"
   },
   {
+   "place": "Addison, TX",
+   "slug": "addison-tx",
+   "keywords": 70,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/addison-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/addison-tx/"
+  },
+  {
    "place": "Addison Township, IL",
    "slug": "addison-township-il",
    "keywords": 1,
@@ -549,6 +556,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/albuquerque-nm/"
   },
   {
+   "place": "Allen, TX",
+   "slug": "allen-tx",
+   "keywords": 58,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/allen-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/allen-tx/"
+  },
+  {
    "place": "Allentown, PA",
    "slug": "allentown-pa",
    "keywords": 490,
@@ -561,6 +575,20 @@
    "keywords": 12,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/alsip-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/alsip-il/"
+  },
+  {
+   "place": "Alvarado, TX",
+   "slug": "alvarado-tx",
+   "keywords": 15,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/alvarado-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/alvarado-tx/"
+  },
+  {
+   "place": "Alvin, TX",
+   "slug": "alvin-tx",
+   "keywords": 11,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/alvin-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/alvin-tx/"
   },
   {
    "place": "Andover, MN",
@@ -582,6 +610,20 @@
    "keywords": 12,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/arden-hills-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/arden-hills-mn/"
+  },
+  {
+   "place": "Argyle, TX",
+   "slug": "argyle-tx",
+   "keywords": 8,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/argyle-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/argyle-tx/"
+  },
+  {
+   "place": "Arlington, TX",
+   "slug": "arlington-tx",
+   "keywords": 70,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/arlington-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/arlington-tx/"
   },
   {
    "place": "Arlington Heights, IL",
@@ -619,6 +661,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/bakersfield-ca/"
   },
   {
+   "place": "Balch Springs, TX",
+   "slug": "balch-springs-tx",
+   "keywords": 15,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/balch-springs-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/balch-springs-tx/"
+  },
+  {
    "place": "Baltimore, MD",
    "slug": "baltimore-md",
    "keywords": 490,
@@ -654,6 +703,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/bartlett-il/"
   },
   {
+   "place": "Bartonville, TX",
+   "slug": "bartonville-tx",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/bartonville-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/bartonville-tx/"
+  },
+  {
    "place": "Baton Rouge, LA",
    "slug": "baton-rouge-la",
    "keywords": 490,
@@ -661,11 +717,39 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/baton-rouge-la/"
   },
   {
+   "place": "Bayside, WI",
+   "slug": "bayside-wi",
+   "keywords": 19,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/bayside-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/bayside-wi/"
+  },
+  {
+   "place": "Baytown, TX",
+   "slug": "baytown-tx",
+   "keywords": 31,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/baytown-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/baytown-tx/"
+  },
+  {
+   "place": "Bedford, TX",
+   "slug": "bedford-tx",
+   "keywords": 42,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/bedford-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/bedford-tx/"
+  },
+  {
    "place": "Bedford Park, IL",
    "slug": "bedford-park-il",
    "keywords": 7,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/bedford-park-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/bedford-park-il/"
+  },
+  {
+   "place": "Bellaire, TX",
+   "slug": "bellaire-tx",
+   "keywords": 20,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/bellaire-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/bellaire-tx/"
   },
   {
    "place": "Bellwood, IL",
@@ -759,6 +843,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/boston-ma/"
   },
   {
+   "place": "Brazoria County, TX",
+   "slug": "brazoria-county-tx",
+   "keywords": 19,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/brazoria-county-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/brazoria-county-tx/"
+  },
+  {
    "place": "Bridgeport, CT",
    "slug": "bridgeport-ct",
    "keywords": 490,
@@ -787,6 +878,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/brookfield-il/"
   },
   {
+   "place": "Brookfield, WI",
+   "slug": "brookfield-wi",
+   "keywords": 51,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/brookfield-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/brookfield-wi/"
+  },
+  {
    "place": "Brooklyn Center, MN",
    "slug": "brooklyn-center-mn",
    "keywords": 10,
@@ -799,6 +897,20 @@
    "keywords": 35,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/brooklyn-park-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/brooklyn-park-mn/"
+  },
+  {
+   "place": "Brookshire, TX",
+   "slug": "brookshire-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/brookshire-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/brookshire-tx/"
+  },
+  {
+   "place": "Brown Deer, WI",
+   "slug": "brown-deer-wi",
+   "keywords": 10,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/brown-deer-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/brown-deer-wi/"
   },
   {
    "place": "Buffalo, NY",
@@ -822,6 +934,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/burbank-il/"
   },
   {
+   "place": "Burlington, WI",
+   "slug": "burlington-wi",
+   "keywords": 33,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/burlington-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/burlington-wi/"
+  },
+  {
    "place": "Burnsville, MN",
    "slug": "burnsville-mn",
    "keywords": 16,
@@ -834,6 +953,27 @@
    "keywords": 25,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/burr-ridge-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/burr-ridge-il/"
+  },
+  {
+   "place": "Butler, WI",
+   "slug": "butler-wi",
+   "keywords": 4,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/butler-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/butler-wi/"
+  },
+  {
+   "place": "Caddo Mills, TX",
+   "slug": "caddo-mills-tx",
+   "keywords": 5,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/caddo-mills-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/caddo-mills-tx/"
+  },
+  {
+   "place": "Caledonia, WI",
+   "slug": "caledonia-wi",
+   "keywords": 16,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/caledonia-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/caledonia-wi/"
   },
   {
    "place": "Calumet City, IL",
@@ -869,6 +1009,34 @@
    "keywords": 21,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/carol-stream-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/carol-stream-il/"
+  },
+  {
+   "place": "Carrollton, TX",
+   "slug": "carrollton-tx",
+   "keywords": 67,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/carrollton-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/carrollton-tx/"
+  },
+  {
+   "place": "Cedar Hill, TX",
+   "slug": "cedar-hill-tx",
+   "keywords": 52,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/cedar-hill-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/cedar-hill-tx/"
+  },
+  {
+   "place": "Cedarburg, WI",
+   "slug": "cedarburg-wi",
+   "keywords": 20,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/cedarburg-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/cedarburg-wi/"
+  },
+  {
+   "place": "Celina, TX",
+   "slug": "celina-tx",
+   "keywords": 4,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/celina-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/celina-tx/"
   },
   {
    "place": "Centerville, MN",
@@ -962,6 +1130,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/circle-pines-mn/"
   },
   {
+   "place": "City Of Pewaukee, WI",
+   "slug": "city-of-pewaukee-wi",
+   "keywords": 4,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/city-of-pewaukee-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/city-of-pewaukee-wi/"
+  },
+  {
    "place": "Clarendon Hills, IL",
    "slug": "clarendon-hills-il",
    "keywords": 3,
@@ -969,11 +1144,32 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/clarendon-hills-il/"
   },
   {
+   "place": "Clear Lake Shores, TX",
+   "slug": "clear-lake-shores-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/clear-lake-shores-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/clear-lake-shores-tx/"
+  },
+  {
    "place": "Cleveland, OH",
    "slug": "cleveland-oh",
    "keywords": 490,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/cleveland-oh.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/cleveland-oh/"
+  },
+  {
+   "place": "Cleveland, TX",
+   "slug": "cleveland-tx",
+   "keywords": 13,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/cleveland-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/cleveland-tx/"
+  },
+  {
+   "place": "Colleyville, TX",
+   "slug": "colleyville-tx",
+   "keywords": 21,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/colleyville-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/colleyville-tx/"
   },
   {
    "place": "Colorado Springs, CO",
@@ -1011,6 +1207,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/columbus-oh/"
   },
   {
+   "place": "Conroe, TX",
+   "slug": "conroe-tx",
+   "keywords": 51,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/conroe-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/conroe-tx/"
+  },
+  {
    "place": "Coon Rapids, MN",
    "slug": "coon-rapids-mn",
    "keywords": 30,
@@ -1018,11 +1221,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/coon-rapids-mn/"
   },
   {
+   "place": "Coppell, TX",
+   "slug": "coppell-tx",
+   "keywords": 43,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/coppell-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/coppell-tx/"
+  },
+  {
    "place": "Corcoran, MN",
    "slug": "corcoran-mn",
    "keywords": 1,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/corcoran-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/corcoran-mn/"
+  },
+  {
+   "place": "Corinth, TX",
+   "slug": "corinth-tx",
+   "keywords": 35,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/corinth-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/corinth-tx/"
   },
   {
    "place": "Country Club Hills, IL",
@@ -1037,6 +1254,13 @@
    "keywords": 47,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/countryside-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/countryside-il/"
+  },
+  {
+   "place": "Crandall, TX",
+   "slug": "crandall-tx",
+   "keywords": 14,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/crandall-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/crandall-tx/"
   },
   {
    "place": "Crest Hill, IL",
@@ -1060,6 +1284,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/crete-il/"
   },
   {
+   "place": "Cross Roads, TX",
+   "slug": "cross-roads-tx",
+   "keywords": 9,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/cross-roads-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/cross-roads-tx/"
+  },
+  {
    "place": "Crown Point, IN",
    "slug": "crown-point-in",
    "keywords": 17,
@@ -1074,11 +1305,32 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/crystal-mn/"
   },
   {
+   "place": "Cudahy, WI",
+   "slug": "cudahy-wi",
+   "keywords": 26,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/cudahy-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/cudahy-wi/"
+  },
+  {
+   "place": "Cut And Shoot, TX",
+   "slug": "cut-and-shoot-tx",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/cut-and-shoot-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/cut-and-shoot-tx/"
+  },
+  {
    "place": "Dallas, TX",
    "slug": "dallas-tx",
    "keywords": 490,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/dallas-tx.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/dallas-tx/"
+  },
+  {
+   "place": "Dalworthington Gardens, TX",
+   "slug": "dalworthington-gardens-tx",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/dalworthington-gardens-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/dalworthington-gardens-tx/"
   },
   {
    "place": "Darien, IL",
@@ -1102,11 +1354,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/dayton-oh/"
   },
   {
+   "place": "Dayton, TX",
+   "slug": "dayton-tx",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/dayton-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/dayton-tx/"
+  },
+  {
    "place": "Deer Park, IL",
    "slug": "deer-park-il",
    "keywords": 7,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/deer-park-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/deer-park-il/"
+  },
+  {
+   "place": "Deer Park, TX",
+   "slug": "deer-park-tx",
+   "keywords": 15,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/deer-park-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/deer-park-tx/"
   },
   {
    "place": "Deerfield, IL",
@@ -1121,6 +1387,13 @@
    "keywords": 490,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/deltona-fl.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/deltona-fl/"
+  },
+  {
+   "place": "Denton, TX",
+   "slug": "denton-tx",
+   "keywords": 74,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/denton-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/denton-tx/"
   },
   {
    "place": "Denver, CO",
@@ -1144,11 +1417,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/des-plaines-il/"
   },
   {
+   "place": "Desoto, TX",
+   "slug": "desoto-tx",
+   "keywords": 22,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/desoto-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/desoto-tx/"
+  },
+  {
    "place": "Detroit, MI",
    "slug": "detroit-mi",
    "keywords": 490,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/detroit-mi.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/detroit-mi/"
+  },
+  {
+   "place": "Dickinson, TX",
+   "slug": "dickinson-tx",
+   "keywords": 9,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/dickinson-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/dickinson-tx/"
   },
   {
    "place": "Dixmoor, IL",
@@ -1165,11 +1452,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/dolton-il/"
   },
   {
+   "place": "Double Oak, TX",
+   "slug": "double-oak-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/double-oak-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/double-oak-tx/"
+  },
+  {
    "place": "Downers Grove, IL",
    "slug": "downers-grove-il",
    "keywords": 46,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/downers-grove-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/downers-grove-il/"
+  },
+  {
+   "place": "Duncanville, TX",
+   "slug": "duncanville-tx",
+   "keywords": 27,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/duncanville-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/duncanville-tx/"
   },
   {
    "place": "Durham, NC",
@@ -1191,6 +1492,13 @@
    "keywords": 61,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/eagan-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/eagan-mn/"
+  },
+  {
+   "place": "East Bernard, TX",
+   "slug": "east-bernard-tx",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/east-bernard-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/east-bernard-tx/"
   },
   {
    "place": "East Chicago, IN",
@@ -1249,6 +1557,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/elk-grove-village-il/"
   },
   {
+   "place": "Elm Grove, WI",
+   "slug": "elm-grove-wi",
+   "keywords": 5,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/elm-grove-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/elm-grove-wi/"
+  },
+  {
    "place": "Elmhurst, IL",
    "slug": "elmhurst-il",
    "keywords": 29,
@@ -1268,6 +1583,20 @@
    "keywords": 1,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/elwood-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/elwood-il/"
+  },
+  {
+   "place": "Ennis, TX",
+   "slug": "ennis-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/ennis-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/ennis-tx/"
+  },
+  {
+   "place": "Euless, TX",
+   "slug": "euless-tx",
+   "keywords": 47,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/euless-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/euless-tx/"
   },
   {
    "place": "Evanston, IL",
@@ -1291,11 +1620,46 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/excelsior-mn/"
   },
   {
+   "place": "Fairchilds, TX",
+   "slug": "fairchilds-tx",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/fairchilds-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/fairchilds-tx/"
+  },
+  {
+   "place": "Fairview, TX",
+   "slug": "fairview-tx",
+   "keywords": 7,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/fairview-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/fairview-tx/"
+  },
+  {
    "place": "Falcon Heights, MN",
    "slug": "falcon-heights-mn",
    "keywords": 18,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/falcon-heights-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/falcon-heights-mn/"
+  },
+  {
+   "place": "Farmers Branch, TX",
+   "slug": "farmers-branch-tx",
+   "keywords": 35,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/farmers-branch-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/farmers-branch-tx/"
+  },
+  {
+   "place": "Farmersville, TX",
+   "slug": "farmersville-tx",
+   "keywords": 23,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/farmersville-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/farmersville-tx/"
+  },
+  {
+   "place": "Fate, TX",
+   "slug": "fate-tx",
+   "keywords": 24,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/fate-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/fate-tx/"
   },
   {
    "place": "Fayetteville, AR",
@@ -1305,11 +1669,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/fayetteville-ar/"
   },
   {
+   "place": "Ferris, TX",
+   "slug": "ferris-tx",
+   "keywords": 6,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/ferris-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/ferris-tx/"
+  },
+  {
    "place": "Flossmoor, IL",
    "slug": "flossmoor-il",
    "keywords": 12,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/flossmoor-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/flossmoor-il/"
+  },
+  {
+   "place": "Flower Mound, TX",
+   "slug": "flower-mound-tx",
+   "keywords": 80,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/flower-mound-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/flower-mound-tx/"
   },
   {
    "place": "Forest Lake, MN",
@@ -1333,6 +1711,20 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/forest-view-il/"
   },
   {
+   "place": "Forney, TX",
+   "slug": "forney-tx",
+   "keywords": 38,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/forney-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/forney-tx/"
+  },
+  {
+   "place": "Fort Bend County, TX",
+   "slug": "fort-bend-county-tx",
+   "keywords": 39,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/fort-bend-county-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/fort-bend-county-tx/"
+  },
+  {
    "place": "Fort Snelling Unorganized Territory, MN",
    "slug": "fort-snelling-unorganized-territory-mn",
    "keywords": 6,
@@ -1340,11 +1732,32 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/fort-snelling-unorganized-territory-mn/"
   },
   {
+   "place": "Fort Worth, TX",
+   "slug": "fort-worth-tx",
+   "keywords": 22,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/fort-worth-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/fort-worth-tx/"
+  },
+  {
+   "place": "Fox Point, WI",
+   "slug": "fox-point-wi",
+   "keywords": 13,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/fox-point-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/fox-point-wi/"
+  },
+  {
    "place": "Frankfort, IL",
    "slug": "frankfort-il",
    "keywords": 20,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/frankfort-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/frankfort-il/"
+  },
+  {
+   "place": "Franklin, WI",
+   "slug": "franklin-wi",
+   "keywords": 42,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/franklin-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/franklin-wi/"
   },
   {
    "place": "Franklin Park, IL",
@@ -1368,6 +1781,55 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/fridley-mn/"
   },
   {
+   "place": "Friendswood, TX",
+   "slug": "friendswood-tx",
+   "keywords": 12,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/friendswood-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/friendswood-tx/"
+  },
+  {
+   "place": "Frisco, TX",
+   "slug": "frisco-tx",
+   "keywords": 86,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/frisco-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/frisco-tx/"
+  },
+  {
+   "place": "Fulshear, TX",
+   "slug": "fulshear-tx",
+   "keywords": 22,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/fulshear-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/fulshear-tx/"
+  },
+  {
+   "place": "Galveston, TX",
+   "slug": "galveston-tx",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/galveston-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/galveston-tx/"
+  },
+  {
+   "place": "Galveston County, TX",
+   "slug": "galveston-county-tx",
+   "keywords": 4,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/galveston-county-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/galveston-county-tx/"
+  },
+  {
+   "place": "Garland, TX",
+   "slug": "garland-tx",
+   "keywords": 55,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/garland-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/garland-tx/"
+  },
+  {
+   "place": "Garrett, TX",
+   "slug": "garrett-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/garrett-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/garrett-tx/"
+  },
+  {
    "place": "Gary, IN",
    "slug": "gary-in",
    "keywords": 38,
@@ -1389,11 +1851,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/glencoe-il/"
   },
   {
+   "place": "Glendale, WI",
+   "slug": "glendale-wi",
+   "keywords": 23,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/glendale-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/glendale-wi/"
+  },
+  {
    "place": "Glendale Heights, IL",
    "slug": "glendale-heights-il",
    "keywords": 5,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/glendale-heights-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/glendale-heights-il/"
+  },
+  {
+   "place": "Glenn Heights, TX",
+   "slug": "glenn-heights-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/glenn-heights-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/glenn-heights-tx/"
   },
   {
    "place": "Glenview, IL",
@@ -1417,6 +1893,20 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/golden-valley-mn/"
   },
   {
+   "place": "Grafton, WI",
+   "slug": "grafton-wi",
+   "keywords": 4,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/grafton-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/grafton-wi/"
+  },
+  {
+   "place": "Grand Prairie, TX",
+   "slug": "grand-prairie-tx",
+   "keywords": 47,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/grand-prairie-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/grand-prairie-tx/"
+  },
+  {
    "place": "Grand Rapids, MI",
    "slug": "grand-rapids-mi",
    "keywords": 490,
@@ -1424,11 +1914,32 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/grand-rapids-mi/"
   },
   {
+   "place": "Grapevine, TX",
+   "slug": "grapevine-tx",
+   "keywords": 53,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/grapevine-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/grapevine-tx/"
+  },
+  {
+   "place": "Greendale, WI",
+   "slug": "greendale-wi",
+   "keywords": 11,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/greendale-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/greendale-wi/"
+  },
+  {
    "place": "Greenfield, MN",
    "slug": "greenfield-mn",
    "keywords": 3,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/greenfield-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/greenfield-mn/"
+  },
+  {
+   "place": "Greenfield, WI",
+   "slug": "greenfield-wi",
+   "keywords": 51,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/greenfield-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/greenfield-wi/"
   },
   {
    "place": "Greensboro, NC",
@@ -1459,6 +1970,27 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/griffith-in/"
   },
   {
+   "place": "Grimes County, TX",
+   "slug": "grimes-county-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/grimes-county-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/grimes-county-tx/"
+  },
+  {
+   "place": "Hales Corners, WI",
+   "slug": "hales-corners-wi",
+   "keywords": 19,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/hales-corners-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/hales-corners-wi/"
+  },
+  {
+   "place": "Haltom City, TX",
+   "slug": "haltom-city-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/haltom-city-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/haltom-city-tx/"
+  },
+  {
    "place": "Ham Lake, MN",
    "slug": "ham-lake-mn",
    "keywords": 6,
@@ -1478,6 +2010,13 @@
    "keywords": 16,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/hanover-park-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/hanover-park-il/"
+  },
+  {
+   "place": "Harris County, TX",
+   "slug": "harris-county-tx",
+   "keywords": 81,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/harris-county-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/harris-county-tx/"
   },
   {
    "place": "Harrisburg, PA",
@@ -1522,6 +2061,34 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/hazel-crest-il/"
   },
   {
+   "place": "Heath, TX",
+   "slug": "heath-tx",
+   "keywords": 9,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/heath-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/heath-tx/"
+  },
+  {
+   "place": "Hedwig Village, TX",
+   "slug": "hedwig-village-tx",
+   "keywords": 16,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/hedwig-village-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/hedwig-village-tx/"
+  },
+  {
+   "place": "Hempstead, TX",
+   "slug": "hempstead-tx",
+   "keywords": 8,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/hempstead-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/hempstead-tx/"
+  },
+  {
+   "place": "Hickory Creek, TX",
+   "slug": "hickory-creek-tx",
+   "keywords": 14,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/hickory-creek-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/hickory-creek-tx/"
+  },
+  {
    "place": "Hickory Hills, IL",
    "slug": "hickory-hills-il",
    "keywords": 16,
@@ -1541,6 +2108,20 @@
    "keywords": 34,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/highland-park-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/highland-park-il/"
+  },
+  {
+   "place": "Highland Park, WI",
+   "slug": "highland-park-wi",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/highland-park-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/highland-park-wi/"
+  },
+  {
+   "place": "Highland Village, TX",
+   "slug": "highland-village-tx",
+   "keywords": 12,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/highland-village-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/highland-village-tx/"
   },
   {
    "place": "Highwood, IL",
@@ -1569,6 +2150,13 @@
    "keywords": 15,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/hinsdale-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/hinsdale-il/"
+  },
+  {
+   "place": "Hitchcock, TX",
+   "slug": "hitchcock-tx",
+   "keywords": 10,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/hitchcock-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/hitchcock-tx/"
   },
   {
    "place": "Hobart, IN",
@@ -1634,6 +2222,27 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/hugo-mn/"
   },
   {
+   "place": "Humble, TX",
+   "slug": "humble-tx",
+   "keywords": 46,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/humble-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/humble-tx/"
+  },
+  {
+   "place": "Hunters Creek Village, TX",
+   "slug": "hunters-creek-village-tx",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/hunters-creek-village-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/hunters-creek-village-tx/"
+  },
+  {
+   "place": "Hurst, TX",
+   "slug": "hurst-tx",
+   "keywords": 42,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/hurst-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/hurst-tx/"
+  },
+  {
    "place": "Indian Creek, IL",
    "slug": "indian-creek-il",
    "keywords": 1,
@@ -1662,6 +2271,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/inver-grove-heights-mn/"
   },
   {
+   "place": "Irving, TX",
+   "slug": "irving-tx",
+   "keywords": 65,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/irving-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/irving-tx/"
+  },
+  {
    "place": "Island Lake, IL",
    "slug": "island-lake-il",
    "keywords": 1,
@@ -1676,6 +2292,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/itasca-il/"
   },
   {
+   "place": "Jacinto City, TX",
+   "slug": "jacinto-city-tx",
+   "keywords": 7,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/jacinto-city-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/jacinto-city-tx/"
+  },
+  {
    "place": "Jackson, MS",
    "slug": "jackson-ms",
    "keywords": 490,
@@ -1683,11 +2306,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/jackson-ms/"
   },
   {
+   "place": "Jackson, WI",
+   "slug": "jackson-wi",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/jackson-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/jackson-wi/"
+  },
+  {
    "place": "Jacksonville, FL",
    "slug": "jacksonville-fl",
    "keywords": 490,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/jacksonville-fl.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/jacksonville-fl/"
+  },
+  {
+   "place": "Jersey Village, TX",
+   "slug": "jersey-village-tx",
+   "keywords": 5,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/jersey-village-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/jersey-village-tx/"
   },
   {
    "place": "Joliet, IL",
@@ -1711,11 +2348,53 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/kansas-city-mo/"
   },
   {
+   "place": "Katy, TX",
+   "slug": "katy-tx",
+   "keywords": 57,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/katy-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/katy-tx/"
+  },
+  {
+   "place": "Kaufman, TX",
+   "slug": "kaufman-tx",
+   "keywords": 16,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/kaufman-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/kaufman-tx/"
+  },
+  {
+   "place": "Keller, TX",
+   "slug": "keller-tx",
+   "keywords": 24,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/keller-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/keller-tx/"
+  },
+  {
+   "place": "Kemah, TX",
+   "slug": "kemah-tx",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/kemah-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/kemah-tx/"
+  },
+  {
+   "place": "Kemp, TX",
+   "slug": "kemp-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/kemp-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/kemp-tx/"
+  },
+  {
    "place": "Kenilworth, IL",
    "slug": "kenilworth-il",
    "keywords": 7,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/kenilworth-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/kenilworth-il/"
+  },
+  {
+   "place": "Kennedale, TX",
+   "slug": "kennedale-tx",
+   "keywords": 5,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/kennedale-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/kennedale-tx/"
   },
   {
    "place": "Kildeer, IL",
@@ -1739,6 +2418,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/knoxville-tn/"
   },
   {
+   "place": "Krum, TX",
+   "slug": "krum-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/krum-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/krum-tx/"
+  },
+  {
    "place": "La Grange, IL",
    "slug": "la-grange-il",
    "keywords": 53,
@@ -1753,11 +2439,32 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/la-grange-park-il/"
   },
   {
+   "place": "La Marque, TX",
+   "slug": "la-marque-tx",
+   "keywords": 5,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/la-marque-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/la-marque-tx/"
+  },
+  {
+   "place": "La Porte, TX",
+   "slug": "la-porte-tx",
+   "keywords": 8,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/la-porte-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/la-porte-tx/"
+  },
+  {
    "place": "Lake Bluff, IL",
    "slug": "lake-bluff-il",
    "keywords": 1,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/lake-bluff-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/lake-bluff-il/"
+  },
+  {
+   "place": "Lake Dallas, TX",
+   "slug": "lake-dallas-tx",
+   "keywords": 6,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/lake-dallas-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/lake-dallas-tx/"
   },
   {
    "place": "Lake Forest, IL",
@@ -1788,6 +2495,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/lakeland-fl/"
   },
   {
+   "place": "Lancaster, TX",
+   "slug": "lancaster-tx",
+   "keywords": 20,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/lancaster-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/lancaster-tx/"
+  },
+  {
    "place": "Lansing, IL",
    "slug": "lansing-il",
    "keywords": 16,
@@ -1809,6 +2523,20 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/lauderdale-mn/"
   },
   {
+   "place": "Lavon, TX",
+   "slug": "lavon-tx",
+   "keywords": 5,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/lavon-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/lavon-tx/"
+  },
+  {
+   "place": "League City, TX",
+   "slug": "league-city-tx",
+   "keywords": 37,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/league-city-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/league-city-tx/"
+  },
+  {
    "place": "Lemont Township, IL",
    "slug": "lemont-township-il",
    "keywords": 18,
@@ -1816,11 +2544,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/lemont-township-il/"
   },
   {
+   "place": "Lewisville, TX",
+   "slug": "lewisville-tx",
+   "keywords": 88,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/lewisville-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/lewisville-tx/"
+  },
+  {
    "place": "Leyden Township, IL",
    "slug": "leyden-township-il",
    "keywords": 4,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/leyden-township-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/leyden-township-il/"
+  },
+  {
+   "place": "Liberty, TX",
+   "slug": "liberty-tx",
+   "keywords": 4,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/liberty-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/liberty-tx/"
   },
   {
    "place": "Libertyville, IL",
@@ -1870,6 +2612,13 @@
    "keywords": 16,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/little-canada-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/little-canada-mn/"
+  },
+  {
+   "place": "Little Elm, TX",
+   "slug": "little-elm-tx",
+   "keywords": 28,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/little-elm-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/little-elm-tx/"
   },
   {
    "place": "Little Rock, AR",
@@ -1928,6 +2677,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/louisville-ky/"
   },
   {
+   "place": "Lucas, TX",
+   "slug": "lucas-tx",
+   "keywords": 8,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/lucas-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/lucas-tx/"
+  },
+  {
    "place": "Lynwood, IL",
    "slug": "lynwood-il",
    "keywords": 1,
@@ -1956,6 +2712,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/madison-wi/"
   },
   {
+   "place": "Magnolia, TX",
+   "slug": "magnolia-tx",
+   "keywords": 35,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/magnolia-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/magnolia-tx/"
+  },
+  {
    "place": "Mahtomedi, MN",
    "slug": "mahtomedi-mn",
    "keywords": 4,
@@ -1975,6 +2738,20 @@
    "keywords": 3,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/manhattan-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/manhattan-il/"
+  },
+  {
+   "place": "Mansfield, TX",
+   "slug": "mansfield-tx",
+   "keywords": 34,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/mansfield-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/mansfield-tx/"
+  },
+  {
+   "place": "Manvel, TX",
+   "slug": "manvel-tx",
+   "keywords": 8,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/manvel-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/manvel-tx/"
   },
   {
    "place": "Maple Grove, MN",
@@ -2033,6 +2810,20 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/mccook-il/"
   },
   {
+   "place": "Mckinney, TX",
+   "slug": "mckinney-tx",
+   "keywords": 76,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/mckinney-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/mckinney-tx/"
+  },
+  {
+   "place": "Meadows Place, TX",
+   "slug": "meadows-place-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/meadows-place-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/meadows-place-tx/"
+  },
+  {
    "place": "Medicine Lake, MN",
    "slug": "medicine-lake-mn",
    "keywords": 1,
@@ -2045,6 +2836,13 @@
    "keywords": 5,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/medina-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/medina-mn/"
+  },
+  {
+   "place": "Melissa, TX",
+   "slug": "melissa-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/melissa-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/melissa-tx/"
   },
   {
    "place": "Melrose Park, IL",
@@ -2068,6 +2866,20 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/mendota-heights-mn/"
   },
   {
+   "place": "Menomonee Falls, WI",
+   "slug": "menomonee-falls-wi",
+   "keywords": 30,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/menomonee-falls-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/menomonee-falls-wi/"
+  },
+  {
+   "place": "Mequon, WI",
+   "slug": "mequon-wi",
+   "keywords": 27,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/mequon-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/mequon-wi/"
+  },
+  {
    "place": "Merrillville, IN",
    "slug": "merrillville-in",
    "keywords": 30,
@@ -2082,6 +2894,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/merrionette-park-il/"
   },
   {
+   "place": "Mesquite, TX",
+   "slug": "mesquite-tx",
+   "keywords": 59,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/mesquite-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/mesquite-tx/"
+  },
+  {
    "place": "Miami, FL",
    "slug": "miami-fl",
    "keywords": 490,
@@ -2094,6 +2913,13 @@
    "keywords": 15,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/midlothian-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/midlothian-il/"
+  },
+  {
+   "place": "Midlothian, TX",
+   "slug": "midlothian-tx",
+   "keywords": 16,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/midlothian-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/midlothian-tx/"
   },
   {
    "place": "Milwaukee, WI",
@@ -2124,6 +2950,20 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/minnetrista-mn/"
   },
   {
+   "place": "Missouri City, TX",
+   "slug": "missouri-city-tx",
+   "keywords": 23,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/missouri-city-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/missouri-city-tx/"
+  },
+  {
+   "place": "Mobile City, TX",
+   "slug": "mobile-city-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/mobile-city-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/mobile-city-tx/"
+  },
+  {
    "place": "Mokena, IL",
    "slug": "mokena-il",
    "keywords": 31,
@@ -2136,6 +2976,20 @@
    "keywords": 4,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/monee-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/monee-il/"
+  },
+  {
+   "place": "Mont Belvieu, TX",
+   "slug": "mont-belvieu-tx",
+   "keywords": 5,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/mont-belvieu-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/mont-belvieu-tx/"
+  },
+  {
+   "place": "Montgomery County, TX",
+   "slug": "montgomery-county-tx",
+   "keywords": 52,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/montgomery-county-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/montgomery-county-tx/"
   },
   {
    "place": "Morton Grove, IL",
@@ -2159,6 +3013,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/mounds-view-mn/"
   },
   {
+   "place": "Mount Pleasant, WI",
+   "slug": "mount-pleasant-wi",
+   "keywords": 42,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/mount-pleasant-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/mount-pleasant-wi/"
+  },
+  {
    "place": "Mount Prospect, IL",
    "slug": "mount-prospect-il",
    "keywords": 31,
@@ -2180,6 +3041,20 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/munster-in/"
   },
   {
+   "place": "Murphy, TX",
+   "slug": "murphy-tx",
+   "keywords": 28,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/murphy-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/murphy-tx/"
+  },
+  {
+   "place": "Muskego, WI",
+   "slug": "muskego-wi",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/muskego-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/muskego-wi/"
+  },
+  {
    "place": "Naperville, IL",
    "slug": "naperville-il",
    "keywords": 85,
@@ -2192,6 +3067,34 @@
    "keywords": 490,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/nashville-tn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/nashville-tn/"
+  },
+  {
+   "place": "Nassau Bay, TX",
+   "slug": "nassau-bay-tx",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/nassau-bay-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/nassau-bay-tx/"
+  },
+  {
+   "place": "Needville, TX",
+   "slug": "needville-tx",
+   "keywords": 11,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/needville-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/needville-tx/"
+  },
+  {
+   "place": "Nevada, TX",
+   "slug": "nevada-tx",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/nevada-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/nevada-tx/"
+  },
+  {
+   "place": "New Berlin, WI",
+   "slug": "new-berlin-wi",
+   "keywords": 38,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/new-berlin-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/new-berlin-wi/"
   },
   {
    "place": "New Brighton, MN",
@@ -2271,6 +3174,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/north-barrington-il/"
   },
   {
+   "place": "North Cleveland, TX",
+   "slug": "north-cleveland-tx",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/north-cleveland-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/north-cleveland-tx/"
+  },
+  {
    "place": "North Oaks, MN",
    "slug": "north-oaks-mn",
    "keywords": 2,
@@ -2283,6 +3193,13 @@
    "keywords": 490,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/north-port-fl.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/north-port-fl/"
+  },
+  {
+   "place": "North Richland Hills, TX",
+   "slug": "north-richland-hills-tx",
+   "keywords": 51,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/north-richland-hills-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/north-richland-hills-tx/"
   },
   {
    "place": "North Riverside, IL",
@@ -2327,11 +3244,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/northlake-il/"
   },
   {
+   "place": "Northlake, TX",
+   "slug": "northlake-tx",
+   "keywords": 7,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/northlake-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/northlake-tx/"
+  },
+  {
    "place": "Oak Brook, IL",
    "slug": "oak-brook-il",
    "keywords": 9,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/oak-brook-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/oak-brook-il/"
+  },
+  {
+   "place": "Oak Creek, WI",
+   "slug": "oak-creek-wi",
+   "keywords": 55,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/oak-creek-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/oak-creek-wi/"
   },
   {
    "place": "Oak Forest, IL",
@@ -2353,6 +3284,13 @@
    "keywords": 38,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/oak-park-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/oak-park-il/"
+  },
+  {
+   "place": "Oak Ridge North, TX",
+   "slug": "oak-ridge-north-tx",
+   "keywords": 7,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/oak-ridge-north-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/oak-ridge-north-tx/"
   },
   {
    "place": "Oakbrook Terrace, IL",
@@ -2453,6 +3391,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/palm-bay-fl/"
   },
   {
+   "place": "Palmer, TX",
+   "slug": "palmer-tx",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/palmer-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/palmer-tx/"
+  },
+  {
    "place": "Palos Heights, IL",
    "slug": "palos-heights-il",
    "keywords": 19,
@@ -2474,6 +3419,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/palos-park-il/"
   },
   {
+   "place": "Pantego, TX",
+   "slug": "pantego-tx",
+   "keywords": 11,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/pantego-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/pantego-tx/"
+  },
+  {
    "place": "Park Forest, IL",
    "slug": "park-forest-il",
    "keywords": 5,
@@ -2486,6 +3438,20 @@
    "keywords": 32,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/park-ridge-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/park-ridge-il/"
+  },
+  {
+   "place": "Pasadena, TX",
+   "slug": "pasadena-tx",
+   "keywords": 28,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/pasadena-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/pasadena-tx/"
+  },
+  {
+   "place": "Pearland, TX",
+   "slug": "pearland-tx",
+   "keywords": 53,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/pearland-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/pearland-tx/"
   },
   {
    "place": "Philadelphia, PA",
@@ -2523,11 +3489,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/plainfield-il/"
   },
   {
+   "place": "Plano, TX",
+   "slug": "plano-tx",
+   "keywords": 91,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/plano-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/plano-tx/"
+  },
+  {
    "place": "Plymouth, MN",
    "slug": "plymouth-mn",
    "keywords": 31,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/plymouth-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/plymouth-mn/"
+  },
+  {
+   "place": "Port Washington, WI",
+   "slug": "port-washington-wi",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/port-washington-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/port-washington-wi/"
   },
   {
    "place": "Portland, OR",
@@ -2544,6 +3524,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/posen-il/"
   },
   {
+   "place": "Princeton, TX",
+   "slug": "princeton-tx",
+   "keywords": 6,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/princeton-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/princeton-tx/"
+  },
+  {
    "place": "Prospect Heights, IL",
    "slug": "prospect-heights-il",
    "keywords": 7,
@@ -2551,11 +3538,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/prospect-heights-il/"
   },
   {
+   "place": "Prosper, TX",
+   "slug": "prosper-tx",
+   "keywords": 42,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/prosper-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/prosper-tx/"
+  },
+  {
    "place": "Providence, RI",
    "slug": "providence-ri",
    "keywords": 490,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/providence-ri.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/providence-ri/"
+  },
+  {
+   "place": "Providence Village, TX",
+   "slug": "providence-village-tx",
+   "keywords": 4,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/providence-village-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/providence-village-tx/"
   },
   {
    "place": "Proviso Township, IL",
@@ -2572,6 +3573,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/provo-ut/"
   },
   {
+   "place": "Racine, WI",
+   "slug": "racine-wi",
+   "keywords": 63,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/racine-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/racine-wi/"
+  },
+  {
    "place": "Raleigh, NC",
    "slug": "raleigh-nc",
    "keywords": 490,
@@ -2586,6 +3594,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/ramsey-mn/"
   },
   {
+   "place": "Red Oak, TX",
+   "slug": "red-oak-tx",
+   "keywords": 17,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/red-oak-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/red-oak-tx/"
+  },
+  {
    "place": "Rich Township, IL",
    "slug": "rich-township-il",
    "keywords": 4,
@@ -2593,11 +3608,32 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/rich-township-il/"
   },
   {
+   "place": "Richardson, TX",
+   "slug": "richardson-tx",
+   "keywords": 72,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/richardson-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/richardson-tx/"
+  },
+  {
    "place": "Richfield, MN",
    "slug": "richfield-mn",
    "keywords": 24,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/richfield-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/richfield-mn/"
+  },
+  {
+   "place": "Richland Hills, TX",
+   "slug": "richland-hills-tx",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/richland-hills-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/richland-hills-tx/"
+  },
+  {
+   "place": "Richmond, TX",
+   "slug": "richmond-tx",
+   "keywords": 46,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/richmond-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/richmond-tx/"
   },
   {
    "place": "Richmond, VA",
@@ -2656,6 +3692,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/riverwoods-il/"
   },
   {
+   "place": "Roanoke, TX",
+   "slug": "roanoke-tx",
+   "keywords": 42,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/roanoke-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/roanoke-tx/"
+  },
+  {
    "place": "Robbins, IL",
    "slug": "robbins-il",
    "keywords": 4,
@@ -2677,6 +3720,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/rochester-ny/"
   },
   {
+   "place": "Rochester, WI",
+   "slug": "rochester-wi",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/rochester-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/rochester-wi/"
+  },
+  {
    "place": "Rockford, MN",
    "slug": "rockford-mn",
    "keywords": 11,
@@ -2691,6 +3741,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/rockford-township-mn/"
   },
   {
+   "place": "Rockwall, TX",
+   "slug": "rockwall-tx",
+   "keywords": 79,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/rockwall-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/rockwall-tx/"
+  },
+  {
    "place": "Rogers, MN",
    "slug": "rogers-mn",
    "keywords": 40,
@@ -2703,6 +3760,13 @@
    "keywords": 18,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/rolling-meadows-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/rolling-meadows-il/"
+  },
+  {
+   "place": "Roman Forest, TX",
+   "slug": "roman-forest-tx",
+   "keywords": 4,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/roman-forest-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/roman-forest-tx/"
   },
   {
    "place": "Romeoville, IL",
@@ -2726,11 +3790,39 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/rosemont-il/"
   },
   {
+   "place": "Rosenberg, TX",
+   "slug": "rosenberg-tx",
+   "keywords": 24,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/rosenberg-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/rosenberg-tx/"
+  },
+  {
    "place": "Roseville, MN",
    "slug": "roseville-mn",
    "keywords": 50,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/roseville-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/roseville-mn/"
+  },
+  {
+   "place": "Rowlett, TX",
+   "slug": "rowlett-tx",
+   "keywords": 23,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/rowlett-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/rowlett-tx/"
+  },
+  {
+   "place": "Royse City, TX",
+   "slug": "royse-city-tx",
+   "keywords": 27,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/royse-city-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/royse-city-tx/"
+  },
+  {
+   "place": "Sachse, TX",
+   "slug": "sachse-tx",
+   "keywords": 39,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/sachse-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/sachse-tx/"
   },
   {
    "place": "Sacramento, CA",
@@ -2752,6 +3844,13 @@
    "keywords": 17,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/saint-bonifacius-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/saint-bonifacius-mn/"
+  },
+  {
+   "place": "Saint Francis, WI",
+   "slug": "saint-francis-wi",
+   "keywords": 22,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/saint-francis-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/saint-francis-wi/"
   },
   {
    "place": "Saint Louis Park, MN",
@@ -2803,6 +3902,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/san-diego-ca/"
   },
   {
+   "place": "San Felipe, TX",
+   "slug": "san-felipe-tx",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/san-felipe-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/san-felipe-tx/"
+  },
+  {
    "place": "San Francisco, CA",
    "slug": "san-francisco-ca",
    "keywords": 490,
@@ -2815,6 +3921,20 @@
    "keywords": 490,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/san-jose-ca.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/san-jose-ca/"
+  },
+  {
+   "place": "Santa Fe, TX",
+   "slug": "santa-fe-tx",
+   "keywords": 6,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/santa-fe-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/santa-fe-tx/"
+  },
+  {
+   "place": "Saukville, WI",
+   "slug": "saukville-wi",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/saukville-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/saukville-wi/"
   },
   {
    "place": "Schaumburg, IL",
@@ -2845,6 +3965,27 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/schiller-park-il/"
   },
   {
+   "place": "Seabrook, TX",
+   "slug": "seabrook-tx",
+   "keywords": 13,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/seabrook-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/seabrook-tx/"
+  },
+  {
+   "place": "Seagoville, TX",
+   "slug": "seagoville-tx",
+   "keywords": 6,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/seagoville-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/seagoville-tx/"
+  },
+  {
+   "place": "Sealy, TX",
+   "slug": "sealy-tx",
+   "keywords": 10,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/sealy-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/sealy-tx/"
+  },
+  {
    "place": "Seattle, WA",
    "slug": "seattle-wa",
    "keywords": 490,
@@ -2857,6 +3998,13 @@
    "keywords": 43,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/shakopee-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/shakopee-mn/"
+  },
+  {
+   "place": "Shenandoah, TX",
+   "slug": "shenandoah-tx",
+   "keywords": 16,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/shenandoah-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/shenandoah-tx/"
   },
   {
    "place": "Shoreview, MN",
@@ -2873,11 +4021,32 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/shorewood-mn/"
   },
   {
+   "place": "Shorewood, WI",
+   "slug": "shorewood-wi",
+   "keywords": 35,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/shorewood-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/shorewood-wi/"
+  },
+  {
+   "place": "Simonton, TX",
+   "slug": "simonton-tx",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/simonton-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/simonton-tx/"
+  },
+  {
    "place": "Skokie, IL",
    "slug": "skokie-il",
    "keywords": 52,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/skokie-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/skokie-il/"
+  },
+  {
+   "place": "Slinger, WI",
+   "slug": "slinger-wi",
+   "keywords": 19,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/slinger-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/slinger-wi/"
   },
   {
    "place": "South Barrington, IL",
@@ -2901,11 +4070,46 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/south-holland-il/"
   },
   {
+   "place": "South Houston, TX",
+   "slug": "south-houston-tx",
+   "keywords": 13,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/south-houston-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/south-houston-tx/"
+  },
+  {
+   "place": "South Milwaukee, WI",
+   "slug": "south-milwaukee-wi",
+   "keywords": 27,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/south-milwaukee-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/south-milwaukee-wi/"
+  },
+  {
    "place": "South Saint Paul, MN",
    "slug": "south-saint-paul-mn",
    "keywords": 17,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/south-saint-paul-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/south-saint-paul-mn/"
+  },
+  {
+   "place": "Southlake, TX",
+   "slug": "southlake-tx",
+   "keywords": 62,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/southlake-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/southlake-tx/"
+  },
+  {
+   "place": "Southside Place, TX",
+   "slug": "southside-place-tx",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/southside-place-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/southside-place-tx/"
+  },
+  {
+   "place": "Splendora, TX",
+   "slug": "splendora-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/splendora-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/splendora-tx/"
   },
   {
    "place": "Spokane, WA",
@@ -2929,6 +4133,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/spring-park-mn/"
   },
   {
+   "place": "Spring Valley Village, TX",
+   "slug": "spring-valley-village-tx",
+   "keywords": 18,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/spring-valley-village-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/spring-valley-village-tx/"
+  },
+  {
    "place": "St. John, IN",
    "slug": "st-john-in",
    "keywords": 2,
@@ -2941,6 +4152,13 @@
    "keywords": 490,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/st-louis-mo.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/st-louis-mo/"
+  },
+  {
+   "place": "Stafford, TX",
+   "slug": "stafford-tx",
+   "keywords": 22,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/stafford-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/stafford-tx/"
   },
   {
    "place": "Steger, IL",
@@ -2985,11 +4203,39 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/streamwood-il/"
   },
   {
+   "place": "Sturtevant, WI",
+   "slug": "sturtevant-wi",
+   "keywords": 20,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/sturtevant-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/sturtevant-wi/"
+  },
+  {
+   "place": "Sugar Land, TX",
+   "slug": "sugar-land-tx",
+   "keywords": 72,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/sugar-land-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/sugar-land-tx/"
+  },
+  {
    "place": "Summit, IL",
    "slug": "summit-il",
    "keywords": 10,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/summit-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/summit-il/"
+  },
+  {
+   "place": "Sunnyvale, TX",
+   "slug": "sunnyvale-tx",
+   "keywords": 21,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/sunnyvale-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/sunnyvale-tx/"
+  },
+  {
+   "place": "Sussex, WI",
+   "slug": "sussex-wi",
+   "keywords": 5,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/sussex-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/sussex-wi/"
   },
   {
    "place": "Syracuse, NY",
@@ -3006,11 +4252,53 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/tampa-fl/"
   },
   {
+   "place": "Terrell, TX",
+   "slug": "terrell-tx",
+   "keywords": 17,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/terrell-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/terrell-tx/"
+  },
+  {
+   "place": "Texas City, TX",
+   "slug": "texas-city-tx",
+   "keywords": 14,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/texas-city-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/texas-city-tx/"
+  },
+  {
+   "place": "The Colony, TX",
+   "slug": "the-colony-tx",
+   "keywords": 21,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/the-colony-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/the-colony-tx/"
+  },
+  {
+   "place": "The Woodlands, TX",
+   "slug": "the-woodlands-tx",
+   "keywords": 58,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/the-woodlands-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/the-woodlands-tx/"
+  },
+  {
+   "place": "Thiensville, WI",
+   "slug": "thiensville-wi",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/thiensville-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/thiensville-wi/"
+  },
+  {
    "place": "Tinley Park, IL",
    "slug": "tinley-park-il",
    "keywords": 31,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/tinley-park-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/tinley-park-il/"
+  },
+  {
+   "place": "Todd Mission, TX",
+   "slug": "todd-mission-tx",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/todd-mission-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/todd-mission-tx/"
   },
   {
    "place": "Toledo, OH",
@@ -3020,11 +4308,81 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/toledo-oh/"
   },
   {
+   "place": "Tomball, TX",
+   "slug": "tomball-tx",
+   "keywords": 45,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/tomball-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/tomball-tx/"
+  },
+  {
    "place": "Tonka Bay, MN",
    "slug": "tonka-bay-mn",
    "keywords": 3,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/tonka-bay-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/tonka-bay-mn/"
+  },
+  {
+   "place": "Town Of Brookfield, WI",
+   "slug": "town-of-brookfield-wi",
+   "keywords": 28,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/town-of-brookfield-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/town-of-brookfield-wi/"
+  },
+  {
+   "place": "Town Of Burlington, WI",
+   "slug": "town-of-burlington-wi",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/town-of-burlington-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/town-of-burlington-wi/"
+  },
+  {
+   "place": "Town Of Dover, WI",
+   "slug": "town-of-dover-wi",
+   "keywords": 7,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/town-of-dover-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/town-of-dover-wi/"
+  },
+  {
+   "place": "Town Of Jackson, WI",
+   "slug": "town-of-jackson-wi",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/town-of-jackson-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/town-of-jackson-wi/"
+  },
+  {
+   "place": "Town Of Norway, WI",
+   "slug": "town-of-norway-wi",
+   "keywords": 20,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/town-of-norway-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/town-of-norway-wi/"
+  },
+  {
+   "place": "Town Of Polk, WI",
+   "slug": "town-of-polk-wi",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/town-of-polk-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/town-of-polk-wi/"
+  },
+  {
+   "place": "Town Of Waterford, WI",
+   "slug": "town-of-waterford-wi",
+   "keywords": 7,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/town-of-waterford-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/town-of-waterford-wi/"
+  },
+  {
+   "place": "Town Of West Bend, WI",
+   "slug": "town-of-west-bend-wi",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/town-of-west-bend-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/town-of-west-bend-wi/"
+  },
+  {
+   "place": "Trophy Club, TX",
+   "slug": "trophy-club-tx",
+   "keywords": 21,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/trophy-club-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/trophy-club-tx/"
   },
   {
    "place": "Tucson, AZ",
@@ -3041,11 +4399,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/tulsa-ok/"
   },
   {
+   "place": "Union Grove, WI",
+   "slug": "union-grove-wi",
+   "keywords": 32,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/union-grove-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/union-grove-wi/"
+  },
+  {
    "place": "University Park, IL",
    "slug": "university-park-il",
    "keywords": 2,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/university-park-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/university-park-il/"
+  },
+  {
+   "place": "University Park, TX",
+   "slug": "university-park-tx",
+   "keywords": 12,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/university-park-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/university-park-tx/"
   },
   {
    "place": "Urban Honolulu, HI",
@@ -3060,6 +4432,13 @@
    "keywords": 14,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/vadnais-heights-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/vadnais-heights-mn/"
+  },
+  {
+   "place": "Venus, TX",
+   "slug": "venus-tx",
+   "keywords": 4,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/venus-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/venus-tx/"
   },
   {
    "place": "Vernon Hills, IL",
@@ -3083,11 +4462,67 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/villa-park-il/"
   },
   {
+   "place": "Village Of Germantown, WI",
+   "slug": "village-of-germantown-wi",
+   "keywords": 22,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/village-of-germantown-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/village-of-germantown-wi/"
+  },
+  {
+   "place": "Village Of Lisbon, WI",
+   "slug": "village-of-lisbon-wi",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/village-of-lisbon-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/village-of-lisbon-wi/"
+  },
+  {
+   "place": "Village Of Pewaukee, WI",
+   "slug": "village-of-pewaukee-wi",
+   "keywords": 16,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/village-of-pewaukee-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/village-of-pewaukee-wi/"
+  },
+  {
+   "place": "Village Of Raymond, WI",
+   "slug": "village-of-raymond-wi",
+   "keywords": 4,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/village-of-raymond-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/village-of-raymond-wi/"
+  },
+  {
+   "place": "Village Of Richfield, WI",
+   "slug": "village-of-richfield-wi",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/village-of-richfield-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/village-of-richfield-wi/"
+  },
+  {
+   "place": "Village Of Waukesha, WI",
+   "slug": "village-of-waukesha-wi",
+   "keywords": 10,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/village-of-waukesha-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/village-of-waukesha-wi/"
+  },
+  {
    "place": "Virginia Beach, VA",
    "slug": "virginia-beach-va",
    "keywords": 490,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/virginia-beach-va.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/virginia-beach-va/"
+  },
+  {
+   "place": "Waller, TX",
+   "slug": "waller-tx",
+   "keywords": 3,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/waller-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/waller-tx/"
+  },
+  {
+   "place": "Waller County, TX",
+   "slug": "waller-county-tx",
+   "keywords": 1,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/waller-county-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/waller-county-tx/"
   },
   {
    "place": "Warrenville, IL",
@@ -3104,11 +4539,46 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/washington-dc/"
   },
   {
+   "place": "Watauga, TX",
+   "slug": "watauga-tx",
+   "keywords": 5,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/watauga-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/watauga-tx/"
+  },
+  {
+   "place": "Waterford, WI",
+   "slug": "waterford-wi",
+   "keywords": 8,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/waterford-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/waterford-wi/"
+  },
+  {
    "place": "Wauconda, IL",
    "slug": "wauconda-il",
    "keywords": 44,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/wauconda-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/wauconda-il/"
+  },
+  {
+   "place": "Waukesha, WI",
+   "slug": "waukesha-wi",
+   "keywords": 42,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/waukesha-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/waukesha-wi/"
+  },
+  {
+   "place": "Wauwatosa, WI",
+   "slug": "wauwatosa-wi",
+   "keywords": 66,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/wauwatosa-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/wauwatosa-wi/"
+  },
+  {
+   "place": "Waxahachie, TX",
+   "slug": "waxahachie-tx",
+   "keywords": 40,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/waxahachie-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/waxahachie-tx/"
   },
   {
    "place": "Wayzata, MN",
@@ -3118,11 +4588,46 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/wayzata-mn/"
   },
   {
+   "place": "Webster, TX",
+   "slug": "webster-tx",
+   "keywords": 31,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/webster-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/webster-tx/"
+  },
+  {
+   "place": "West Allis, WI",
+   "slug": "west-allis-wi",
+   "keywords": 61,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/west-allis-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/west-allis-wi/"
+  },
+  {
+   "place": "West Bend, WI",
+   "slug": "west-bend-wi",
+   "keywords": 39,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/west-bend-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/west-bend-wi/"
+  },
+  {
+   "place": "West Milwaukee, WI",
+   "slug": "west-milwaukee-wi",
+   "keywords": 22,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/west-milwaukee-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/west-milwaukee-wi/"
+  },
+  {
    "place": "West Saint Paul, MN",
    "slug": "west-saint-paul-mn",
    "keywords": 38,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/west-saint-paul-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/west-saint-paul-mn/"
+  },
+  {
+   "place": "West University Place, TX",
+   "slug": "west-university-place-tx",
+   "keywords": 5,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/west-university-place-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/west-university-place-tx/"
   },
   {
    "place": "Westchester, IL",
@@ -3139,11 +4644,25 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/western-springs-il/"
   },
   {
+   "place": "Westlake, TX",
+   "slug": "westlake-tx",
+   "keywords": 17,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/westlake-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/westlake-tx/"
+  },
+  {
    "place": "Westmont, IL",
    "slug": "westmont-il",
    "keywords": 27,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/westmont-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/westmont-il/"
+  },
+  {
+   "place": "Wharton, TX",
+   "slug": "wharton-tx",
+   "keywords": 11,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/wharton-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/wharton-tx/"
   },
   {
    "place": "Wheatland Township, IL",
@@ -3186,6 +4705,13 @@
    "keywords": 9,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/white-bear-township-mn.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/white-bear-township-mn/"
+  },
+  {
+   "place": "Whitefish Bay, WI",
+   "slug": "whitefish-bay-wi",
+   "keywords": 10,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/whitefish-bay-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/whitefish-bay-wi/"
   },
   {
    "place": "Whiting, IN",
@@ -3251,6 +4777,13 @@
    "page": "https://dingalinged-cpu.github.io/registry/market/city/wood-dale-il/"
   },
   {
+   "place": "Woodbranch, TX",
+   "slug": "woodbranch-tx",
+   "keywords": 2,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/woodbranch-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/woodbranch-tx/"
+  },
+  {
    "place": "Woodbury, MN",
    "slug": "woodbury-mn",
    "keywords": 1,
@@ -3284,6 +4817,20 @@
    "keywords": 2,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/city/worth-township-il.json",
    "page": "https://dingalinged-cpu.github.io/registry/market/city/worth-township-il/"
+  },
+  {
+   "place": "Wylie, TX",
+   "slug": "wylie-tx",
+   "keywords": 35,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/wylie-tx.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/wylie-tx/"
+  },
+  {
+   "place": "Yorkville, WI",
+   "slug": "yorkville-wi",
+   "keywords": 19,
+   "json": "https://dingalinged-cpu.github.io/registry/api/market/city/yorkville-wi.json",
+   "page": "https://dingalinged-cpu.github.io/registry/market/city/yorkville-wi/"
   }
  ],
  "categories": [
@@ -3495,8 +5042,8 @@
    "search_value_index_usd": 170000,
    "equivalent_google_ads_cost_month_usd": 9800,
    "national_featured_min_usd": 250,
-   "keywords": 122,
-   "registry_competitors": 50,
+   "keywords": 144,
+   "registry_competitors": 108,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/accountant.json"
   },
   {
@@ -3513,8 +5060,8 @@
    "search_value_index_usd": 71000,
    "equivalent_google_ads_cost_month_usd": 4000,
    "national_featured_min_usd": 250,
-   "keywords": 122,
-   "registry_competitors": 50,
+   "keywords": 144,
+   "registry_competitors": 108,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/accounting-services.json"
   },
   {
@@ -3585,8 +5132,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 112,
-   "registry_competitors": 26,
+   "keywords": 122,
+   "registry_competitors": 44,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/acupuncture.json"
   },
   {
@@ -3747,8 +5294,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 105,
-   "registry_competitors": 6,
+   "keywords": 114,
+   "registry_competitors": 19,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/allergist.json"
   },
   {
@@ -3855,8 +5402,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 21000,
    "national_featured_min_usd": 250,
-   "keywords": 111,
-   "registry_competitors": 45,
+   "keywords": 120,
+   "registry_competitors": 87,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/architect.json"
   },
   {
@@ -3873,8 +5420,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 500,
-   "keywords": 141,
-   "registry_competitors": 80,
+   "keywords": 186,
+   "registry_competitors": 198,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/assisted-living.json"
   },
   {
@@ -3909,8 +5456,8 @@
    "search_value_index_usd": 730000,
    "equivalent_google_ads_cost_month_usd": 44000,
    "national_featured_min_usd": 500,
-   "keywords": 166,
-   "registry_competitors": 221,
+   "keywords": 232,
+   "registry_competitors": 570,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/attorney.json"
   },
   {
@@ -3927,8 +5474,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 104,
-   "registry_competitors": 3,
+   "keywords": 113,
+   "registry_competitors": 15,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/audiologist.json"
   },
   {
@@ -3945,8 +5492,8 @@
    "search_value_index_usd": 260000,
    "equivalent_google_ads_cost_month_usd": 15000,
    "national_featured_min_usd": 100,
-   "keywords": 138,
-   "registry_competitors": 60,
+   "keywords": 171,
+   "registry_competitors": 124,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/auto-body-shop.json"
   },
   {
@@ -3999,8 +5546,8 @@
    "search_value_index_usd": 1300000,
    "equivalent_google_ads_cost_month_usd": 73000,
    "national_featured_min_usd": 100,
-   "keywords": 290,
-   "registry_competitors": 1027,
+   "keywords": 423,
+   "registry_competitors": 2429,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json"
   },
   {
@@ -4089,8 +5636,8 @@
    "search_value_index_usd": 1600000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 100,
-   "keywords": 181,
-   "registry_competitors": 525,
+   "keywords": 249,
+   "registry_competitors": 802,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/bakery.json"
   },
   {
@@ -4143,8 +5690,8 @@
    "search_value_index_usd": 470000,
    "equivalent_google_ads_cost_month_usd": 27000,
    "national_featured_min_usd": 250,
-   "keywords": 124,
-   "registry_competitors": 74,
+   "keywords": 170,
+   "registry_competitors": 221,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/barber-shop.json"
   },
   {
@@ -4413,8 +5960,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 161,
-   "registry_competitors": 173,
+   "keywords": 196,
+   "registry_competitors": 254,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/bike-shop.json"
   },
   {
@@ -4557,8 +6104,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 102,
-   "registry_competitors": 2,
+   "keywords": 109,
+   "registry_competitors": 22,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/boutique.json"
   },
   {
@@ -4575,8 +6122,8 @@
    "search_value_index_usd": 590000,
    "equivalent_google_ads_cost_month_usd": 33000,
    "national_featured_min_usd": 100,
-   "keywords": 113,
-   "registry_competitors": 15,
+   "keywords": 133,
+   "registry_competitors": 58,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/brake-repair.json"
   },
   {
@@ -4611,8 +6158,8 @@
    "search_value_index_usd": 75000,
    "equivalent_google_ads_cost_month_usd": 6600,
    "national_featured_min_usd": 50,
-   "keywords": 101,
-   "registry_competitors": 0,
+   "keywords": 104,
+   "registry_competitors": 4,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/bridal-shop.json"
   },
   {
@@ -4701,8 +6248,8 @@
    "search_value_index_usd": 110000,
    "equivalent_google_ads_cost_month_usd": 6000,
    "national_featured_min_usd": 250,
-   "keywords": 118,
-   "registry_competitors": 49,
+   "keywords": 132,
+   "registry_competitors": 80,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/business-consultant.json"
   },
   {
@@ -5061,8 +6608,8 @@
    "search_value_index_usd": 390000,
    "equivalent_google_ads_cost_month_usd": 22000,
    "national_featured_min_usd": 100,
-   "keywords": 107,
-   "registry_competitors": 9,
+   "keywords": 116,
+   "registry_competitors": 22,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/car-inspection.json"
   },
   {
@@ -5169,8 +6716,8 @@
    "search_value_index_usd": 8000000,
    "equivalent_google_ads_cost_month_usd": 440000,
    "national_featured_min_usd": 100,
-   "keywords": 268,
-   "registry_competitors": 492,
+   "keywords": 377,
+   "registry_competitors": 972,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/car-wash.json"
   },
   {
@@ -5241,8 +6788,8 @@
    "search_value_index_usd": 1600000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 100,
-   "keywords": 108,
-   "registry_competitors": 21,
+   "keywords": 121,
+   "registry_competitors": 50,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/caterers.json"
   },
   {
@@ -5403,8 +6950,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 21000,
    "national_featured_min_usd": 250,
-   "keywords": 104,
-   "registry_competitors": 2,
+   "keywords": 105,
+   "registry_competitors": 5,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/chimney-sweep.json"
   },
   {
@@ -5421,8 +6968,8 @@
    "search_value_index_usd": 1200000,
    "equivalent_google_ads_cost_month_usd": 79000,
    "national_featured_min_usd": 250,
-   "keywords": 157,
-   "registry_competitors": 153,
+   "keywords": 219,
+   "registry_competitors": 346,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/chiropractor.json"
   },
   {
@@ -5637,8 +7184,8 @@
    "search_value_index_usd": 750000,
    "equivalent_google_ads_cost_month_usd": 62000,
    "national_featured_min_usd": 250,
-   "keywords": 112,
-   "registry_competitors": 17,
+   "keywords": 117,
+   "registry_competitors": 26,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/computer-repair.json"
   },
   {
@@ -5673,8 +7220,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 21000,
    "national_featured_min_usd": 250,
-   "keywords": 106,
-   "registry_competitors": 10,
+   "keywords": 107,
+   "registry_competitors": 13,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/concrete-contractor.json"
   },
   {
@@ -5835,8 +7382,8 @@
    "search_value_index_usd": 71000,
    "equivalent_google_ads_cost_month_usd": 6000,
    "national_featured_min_usd": 250,
-   "keywords": 109,
-   "registry_competitors": 37,
+   "keywords": 125,
+   "registry_competitors": 91,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/coworking-space.json"
   },
   {
@@ -6015,8 +7562,8 @@
    "search_value_index_usd": 250000,
    "equivalent_google_ads_cost_month_usd": 18000,
    "national_featured_min_usd": 250,
-   "keywords": 108,
-   "registry_competitors": 10,
+   "keywords": 115,
+   "registry_competitors": 20,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/crossfit.json"
   },
   {
@@ -6159,8 +7706,8 @@
    "search_value_index_usd": 250000,
    "equivalent_google_ads_cost_month_usd": 18000,
    "national_featured_min_usd": 250,
-   "keywords": 146,
-   "registry_competitors": 88,
+   "keywords": 188,
+   "registry_competitors": 178,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/dance-studio.json"
   },
   {
@@ -6231,8 +7778,8 @@
    "search_value_index_usd": 1100000,
    "equivalent_google_ads_cost_month_usd": 61000,
    "national_featured_min_usd": 100,
-   "keywords": 156,
-   "registry_competitors": 187,
+   "keywords": 228,
+   "registry_competitors": 462,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/daycare.json"
   },
   {
@@ -6339,8 +7886,8 @@
    "search_value_index_usd": 8600000,
    "equivalent_google_ads_cost_month_usd": 470000,
    "national_featured_min_usd": 500,
-   "keywords": 249,
-   "registry_competitors": 656,
+   "keywords": 378,
+   "registry_competitors": 1914,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/dentist.json"
   },
   {
@@ -6393,8 +7940,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 250,
-   "keywords": 112,
-   "registry_competitors": 20,
+   "keywords": 130,
+   "registry_competitors": 54,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/dermatologist.json"
   },
   {
@@ -6411,8 +7958,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 101,
-   "registry_competitors": 0,
+   "keywords": 102,
+   "registry_competitors": 1,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/dietitian.json"
   },
   {
@@ -6501,8 +8048,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 66000,
    "national_featured_min_usd": 100,
-   "keywords": 123,
-   "registry_competitors": 43,
+   "keywords": 148,
+   "registry_competitors": 99,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/dog-boarding.json"
   },
   {
@@ -6519,8 +8066,8 @@
    "search_value_index_usd": 1800000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 100,
-   "keywords": 140,
-   "registry_competitors": 79,
+   "keywords": 184,
+   "registry_competitors": 179,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/dog-groomer.json"
   },
   {
@@ -6663,8 +8210,8 @@
    "search_value_index_usd": 190000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 100,
-   "keywords": 113,
-   "registry_competitors": 29,
+   "keywords": 130,
+   "registry_competitors": 53,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/driving-school.json"
   },
   {
@@ -6681,8 +8228,8 @@
    "search_value_index_usd": 190000,
    "equivalent_google_ads_cost_month_usd": 13000,
    "national_featured_min_usd": 500,
-   "keywords": 103,
-   "registry_competitors": 5,
+   "keywords": 105,
+   "registry_competitors": 7,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/drug-rehab.json"
   },
   {
@@ -6717,8 +8264,8 @@
    "search_value_index_usd": 750000,
    "equivalent_google_ads_cost_month_usd": 62000,
    "national_featured_min_usd": 250,
-   "keywords": 175,
-   "registry_competitors": 252,
+   "keywords": 250,
+   "registry_competitors": 576,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/dry-cleaners.json"
   },
   {
@@ -6735,8 +8282,8 @@
    "search_value_index_usd": 80000,
    "equivalent_google_ads_cost_month_usd": 5100,
    "national_featured_min_usd": 250,
-   "keywords": 101,
-   "registry_competitors": 0,
+   "keywords": 102,
+   "registry_competitors": 2,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/drywall-repair.json"
   },
   {
@@ -6987,8 +8534,8 @@
    "search_value_index_usd": 3000000,
    "equivalent_google_ads_cost_month_usd": 190000,
    "national_featured_min_usd": 500,
-   "keywords": 113,
-   "registry_competitors": 16,
+   "keywords": 126,
+   "registry_competitors": 41,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/electrician.json"
   },
   {
@@ -7347,8 +8894,8 @@
    "search_value_index_usd": 1600000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 100,
-   "keywords": 164,
-   "registry_competitors": 181,
+   "keywords": 223,
+   "registry_competitors": 403,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/event-venues.json"
   },
   {
@@ -7419,8 +8966,8 @@
    "search_value_index_usd": 1100000,
    "equivalent_google_ads_cost_month_usd": 72000,
    "national_featured_min_usd": 250,
-   "keywords": 102,
-   "registry_competitors": 2,
+   "keywords": 106,
+   "registry_competitors": 8,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/exterminator.json"
   },
   {
@@ -7437,8 +8984,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 250,
-   "keywords": 140,
-   "registry_competitors": 88,
+   "keywords": 190,
+   "registry_competitors": 210,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/eye-doctor.json"
   },
   {
@@ -7473,8 +9020,8 @@
    "search_value_index_usd": 340000,
    "equivalent_google_ads_cost_month_usd": 20000,
    "national_featured_min_usd": 250,
-   "keywords": 121,
-   "registry_competitors": 45,
+   "keywords": 161,
+   "registry_competitors": 139,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/facial.json"
   },
   {
@@ -7491,8 +9038,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 119,
-   "registry_competitors": 42,
+   "keywords": 151,
+   "registry_competitors": 126,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/family-doctor.json"
   },
   {
@@ -7653,8 +9200,8 @@
    "search_value_index_usd": 830000,
    "equivalent_google_ads_cost_month_usd": 69000,
    "national_featured_min_usd": 250,
-   "keywords": 143,
-   "registry_competitors": 83,
+   "keywords": 190,
+   "registry_competitors": 186,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/financial-advisor.json"
   },
   {
@@ -7761,8 +9308,8 @@
    "search_value_index_usd": 150000,
    "equivalent_google_ads_cost_month_usd": 9600,
    "national_featured_min_usd": 250,
-   "keywords": 126,
-   "registry_competitors": 32,
+   "keywords": 161,
+   "registry_competitors": 112,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/flooring-companies.json"
   },
   {
@@ -7779,8 +9326,8 @@
    "search_value_index_usd": 1600000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 100,
-   "keywords": 146,
-   "registry_competitors": 125,
+   "keywords": 189,
+   "registry_competitors": 230,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/florist.json"
   },
   {
@@ -7905,8 +9452,8 @@
    "search_value_index_usd": 750000,
    "equivalent_google_ads_cost_month_usd": 62000,
    "national_featured_min_usd": 250,
-   "keywords": 158,
-   "registry_competitors": 112,
+   "keywords": 206,
+   "registry_competitors": 218,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/funeral-home.json"
   },
   {
@@ -7959,8 +9506,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 179,
-   "registry_competitors": 288,
+   "keywords": 252,
+   "registry_competitors": 674,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/furniture-store.json"
   },
   {
@@ -7995,8 +9542,8 @@
    "search_value_index_usd": 96000,
    "equivalent_google_ads_cost_month_usd": 6100,
    "national_featured_min_usd": 250,
-   "keywords": 107,
-   "registry_competitors": 17,
+   "keywords": 111,
+   "registry_competitors": 33,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/general-contractor.json"
   },
   {
@@ -8067,8 +9614,8 @@
    "search_value_index_usd": 75000,
    "equivalent_google_ads_cost_month_usd": 6600,
    "national_featured_min_usd": 50,
-   "keywords": 161,
-   "registry_competitors": 215,
+   "keywords": 224,
+   "registry_competitors": 466,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/gift-shop.json"
   },
   {
@@ -8139,8 +9686,8 @@
    "search_value_index_usd": 48000,
    "equivalent_google_ads_cost_month_usd": 2700,
    "national_featured_min_usd": 250,
-   "keywords": 103,
-   "registry_competitors": 8,
+   "keywords": 109,
+   "registry_competitors": 19,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/graphic-designer.json"
   },
   {
@@ -8193,8 +9740,8 @@
    "search_value_index_usd": 3100000,
    "equivalent_google_ads_cost_month_usd": 220000,
    "national_featured_min_usd": 250,
-   "keywords": 248,
-   "registry_competitors": 610,
+   "keywords": 357,
+   "registry_competitors": 1285,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/gym.json"
   },
   {
@@ -8247,8 +9794,8 @@
    "search_value_index_usd": 830000,
    "equivalent_google_ads_cost_month_usd": 47000,
    "national_featured_min_usd": 250,
-   "keywords": 256,
-   "registry_competitors": 1001,
+   "keywords": 377,
+   "registry_competitors": 2166,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/hair-salon.json"
   },
   {
@@ -8265,8 +9812,8 @@
    "search_value_index_usd": 1700000,
    "equivalent_google_ads_cost_month_usd": 97000,
    "national_featured_min_usd": 250,
-   "keywords": 260,
-   "registry_competitors": 1075,
+   "keywords": 388,
+   "registry_competitors": 2387,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/haircut.json"
   },
   {
@@ -8355,8 +9902,8 @@
    "search_value_index_usd": 30000,
    "equivalent_google_ads_cost_month_usd": 1900,
    "national_featured_min_usd": 500,
-   "keywords": 134,
-   "registry_competitors": 55,
+   "keywords": 174,
+   "registry_competitors": 146,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/heating-and-air.json"
   },
   {
@@ -8823,8 +10370,8 @@
    "search_value_index_usd": 1300000,
    "equivalent_google_ads_cost_month_usd": 84000,
    "national_featured_min_usd": 500,
-   "keywords": 134,
-   "registry_competitors": 55,
+   "keywords": 174,
+   "registry_competitors": 146,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/hvac-repair.json"
   },
   {
@@ -8931,8 +10478,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 21000,
    "national_featured_min_usd": 250,
-   "keywords": 103,
-   "registry_competitors": 4,
+   "keywords": 104,
+   "registry_competitors": 6,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/insulation-contractor.json"
   },
   {
@@ -8949,8 +10496,8 @@
    "search_value_index_usd": 310000,
    "equivalent_google_ads_cost_month_usd": 26000,
    "national_featured_min_usd": 500,
-   "keywords": 232,
-   "registry_competitors": 410,
+   "keywords": 341,
+   "registry_competitors": 989,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/insurance-agency.json"
   },
   {
@@ -8967,8 +10514,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 232,
-   "registry_competitors": 410,
+   "keywords": 341,
+   "registry_competitors": 989,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/insurance-agent.json"
   },
   {
@@ -8985,8 +10532,8 @@
    "search_value_index_usd": 170000,
    "equivalent_google_ads_cost_month_usd": 14000,
    "national_featured_min_usd": 500,
-   "keywords": 232,
-   "registry_competitors": 410,
+   "keywords": 341,
+   "registry_competitors": 989,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/insurance-agents.json"
   },
   {
@@ -9057,8 +10604,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 21000,
    "national_featured_min_usd": 250,
-   "keywords": 102,
-   "registry_competitors": 2,
+   "keywords": 105,
+   "registry_competitors": 5,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/interior-designer.json"
   },
   {
@@ -9165,8 +10712,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 116,
-   "registry_competitors": 35,
+   "keywords": 144,
+   "registry_competitors": 115,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/it-support.json"
   },
   {
@@ -9201,8 +10748,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 167,
-   "registry_competitors": 239,
+   "keywords": 228,
+   "registry_competitors": 581,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/jewelry-store.json"
   },
   {
@@ -9363,8 +10910,8 @@
    "search_value_index_usd": 1800000,
    "equivalent_google_ads_cost_month_usd": 110000,
    "national_featured_min_usd": 250,
-   "keywords": 117,
-   "registry_competitors": 21,
+   "keywords": 125,
+   "registry_competitors": 40,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/landscaping.json"
   },
   {
@@ -9399,8 +10946,8 @@
    "search_value_index_usd": 150000,
    "equivalent_google_ads_cost_month_usd": 8700,
    "national_featured_min_usd": 250,
-   "keywords": 101,
-   "registry_competitors": 0,
+   "keywords": 102,
+   "registry_competitors": 1,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/lash-extensions.json"
   },
   {
@@ -9435,8 +10982,8 @@
    "search_value_index_usd": 490000,
    "equivalent_google_ads_cost_month_usd": 29000,
    "national_featured_min_usd": 500,
-   "keywords": 166,
-   "registry_competitors": 221,
+   "keywords": 232,
+   "registry_competitors": 570,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/lawyer.json"
   },
   {
@@ -9615,8 +11162,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 228,
-   "registry_competitors": 425,
+   "keywords": 327,
+   "registry_competitors": 856,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/liquor-store.json"
   },
   {
@@ -9705,8 +11252,8 @@
    "search_value_index_usd": 2000000,
    "equivalent_google_ads_cost_month_usd": 130000,
    "national_featured_min_usd": 250,
-   "keywords": 113,
-   "registry_competitors": 26,
+   "keywords": 129,
+   "registry_competitors": 67,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/locksmith.json"
   },
   {
@@ -9921,8 +11468,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 117,
-   "registry_competitors": 45,
+   "keywords": 136,
+   "registry_competitors": 103,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/marketing-agency.json"
   },
   {
@@ -9975,8 +11522,8 @@
    "search_value_index_usd": 1900000,
    "equivalent_google_ads_cost_month_usd": 130000,
    "national_featured_min_usd": 250,
-   "keywords": 132,
-   "registry_competitors": 66,
+   "keywords": 183,
+   "registry_competitors": 214,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/martial-arts.json"
   },
   {
@@ -9993,8 +11540,8 @@
    "search_value_index_usd": 23000000,
    "equivalent_google_ads_cost_month_usd": 1300000,
    "national_featured_min_usd": 250,
-   "keywords": 150,
-   "registry_competitors": 124,
+   "keywords": 214,
+   "registry_competitors": 434,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/massage.json"
   },
   {
@@ -10029,8 +11576,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 164,
-   "registry_competitors": 122,
+   "keywords": 212,
+   "registry_competitors": 277,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/mattress-store.json"
   },
   {
@@ -10065,8 +11612,8 @@
    "search_value_index_usd": 2900000,
    "equivalent_google_ads_cost_month_usd": 160000,
    "national_featured_min_usd": 100,
-   "keywords": 290,
-   "registry_competitors": 1027,
+   "keywords": 423,
+   "registry_competitors": 2429,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/mechanic.json"
   },
   {
@@ -10389,8 +11936,8 @@
    "search_value_index_usd": 96000,
    "equivalent_google_ads_cost_month_usd": 5300,
    "national_featured_min_usd": 100,
-   "keywords": 105,
-   "registry_competitors": 5,
+   "keywords": 114,
+   "registry_competitors": 17,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/motorcycle-repair.json"
   },
   {
@@ -10425,8 +11972,8 @@
    "search_value_index_usd": 2500000,
    "equivalent_google_ads_cost_month_usd": 160000,
    "national_featured_min_usd": 250,
-   "keywords": 108,
-   "registry_competitors": 14,
+   "keywords": 120,
+   "registry_competitors": 31,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/movers.json"
   },
   {
@@ -10443,8 +11990,8 @@
    "search_value_index_usd": 2500000,
    "equivalent_google_ads_cost_month_usd": 160000,
    "national_featured_min_usd": 250,
-   "keywords": 108,
-   "registry_competitors": 14,
+   "keywords": 120,
+   "registry_competitors": 31,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/moving-company.json"
   },
   {
@@ -10479,8 +12026,8 @@
    "search_value_index_usd": 190000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 100,
-   "keywords": 127,
-   "registry_competitors": 67,
+   "keywords": 144,
+   "registry_competitors": 103,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/music-lessons.json"
   },
   {
@@ -10497,8 +12044,8 @@
    "search_value_index_usd": 610000,
    "equivalent_google_ads_cost_month_usd": 35000,
    "national_featured_min_usd": 250,
-   "keywords": 190,
-   "registry_competitors": 353,
+   "keywords": 294,
+   "registry_competitors": 1012,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json"
   },
   {
@@ -10551,8 +12098,8 @@
    "search_value_index_usd": 750000,
    "equivalent_google_ads_cost_month_usd": 62000,
    "national_featured_min_usd": 250,
-   "keywords": 101,
-   "registry_competitors": 0,
+   "keywords": 102,
+   "registry_competitors": 1,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/notary.json"
   },
   {
@@ -10587,8 +12134,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 250,
-   "keywords": 107,
-   "registry_competitors": 9,
+   "keywords": 117,
+   "registry_competitors": 28,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/ob-gyn.json"
   },
   {
@@ -10605,8 +12152,8 @@
    "search_value_index_usd": 39000,
    "equivalent_google_ads_cost_month_usd": 2600,
    "national_featured_min_usd": 250,
-   "keywords": 105,
-   "registry_competitors": 5,
+   "keywords": 110,
+   "registry_competitors": 13,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/occupational-therapist.json"
   },
   {
@@ -10731,8 +12278,8 @@
    "search_value_index_usd": 8000000,
    "equivalent_google_ads_cost_month_usd": 440000,
    "national_featured_min_usd": 100,
-   "keywords": 131,
-   "registry_competitors": 40,
+   "keywords": 172,
+   "registry_competitors": 152,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/oil-change.json"
   },
   {
@@ -10983,8 +12530,8 @@
    "search_value_index_usd": 1300000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 500,
-   "keywords": 101,
-   "registry_competitors": 1,
+   "keywords": 103,
+   "registry_competitors": 3,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/orthodontist.json"
   },
   {
@@ -11001,8 +12548,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 107,
-   "registry_competitors": 9,
+   "keywords": 123,
+   "registry_competitors": 31,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/orthopedic-surgeon.json"
   },
   {
@@ -11038,7 +12585,7 @@
    "equivalent_google_ads_cost_month_usd": 1600,
    "national_featured_min_usd": 250,
    "keywords": 101,
-   "registry_competitors": 0,
+   "registry_competitors": 1,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/padel-courts.json"
   },
   {
@@ -11073,8 +12620,8 @@
    "search_value_index_usd": 830000,
    "equivalent_google_ads_cost_month_usd": 53000,
    "national_featured_min_usd": 500,
-   "keywords": 112,
-   "registry_competitors": 13,
+   "keywords": 118,
+   "registry_competitors": 25,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/painters.json"
   },
   {
@@ -11289,8 +12836,8 @@
    "search_value_index_usd": 430000,
    "equivalent_google_ads_cost_month_usd": 29000,
    "national_featured_min_usd": 250,
-   "keywords": 115,
-   "registry_competitors": 28,
+   "keywords": 146,
+   "registry_competitors": 84,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/pediatrician.json"
   },
   {
@@ -11451,8 +12998,8 @@
    "search_value_index_usd": 1400000,
    "equivalent_google_ads_cost_month_usd": 88000,
    "national_featured_min_usd": 250,
-   "keywords": 102,
-   "registry_competitors": 2,
+   "keywords": 106,
+   "registry_competitors": 8,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/pest-control.json"
   },
   {
@@ -11505,8 +13052,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 197,
-   "registry_competitors": 233,
+   "keywords": 282,
+   "registry_competitors": 496,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/pet-store.json"
   },
   {
@@ -11523,8 +13070,8 @@
    "search_value_index_usd": 750000,
    "equivalent_google_ads_cost_month_usd": 62000,
    "national_featured_min_usd": 250,
-   "keywords": 116,
-   "registry_competitors": 24,
+   "keywords": 133,
+   "registry_competitors": 58,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/phone-repair.json"
   },
   {
@@ -11559,8 +13106,8 @@
    "search_value_index_usd": 1600000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 100,
-   "keywords": 115,
-   "registry_competitors": 31,
+   "keywords": 135,
+   "registry_competitors": 76,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/photographer.json"
   },
   {
@@ -11577,8 +13124,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 250,
-   "keywords": 155,
-   "registry_competitors": 137,
+   "keywords": 208,
+   "registry_competitors": 262,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/physical-therapy.json"
   },
   {
@@ -11613,8 +13160,8 @@
    "search_value_index_usd": 4300000,
    "equivalent_google_ads_cost_month_usd": 250000,
    "national_featured_min_usd": 250,
-   "keywords": 102,
-   "registry_competitors": 2,
+   "keywords": 103,
+   "registry_competitors": 7,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/piercing.json"
   },
   {
@@ -11631,8 +13178,8 @@
    "search_value_index_usd": 1900000,
    "equivalent_google_ads_cost_month_usd": 130000,
    "national_featured_min_usd": 250,
-   "keywords": 117,
-   "registry_competitors": 27,
+   "keywords": 131,
+   "registry_competitors": 55,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/pilates.json"
   },
   {
@@ -11649,8 +13196,8 @@
    "search_value_index_usd": 160000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 112,
-   "registry_competitors": 16,
+   "keywords": 126,
+   "registry_competitors": 44,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/plastic-surgeon.json"
   },
   {
@@ -11667,8 +13214,8 @@
    "search_value_index_usd": 9900000,
    "equivalent_google_ads_cost_month_usd": 630000,
    "national_featured_min_usd": 500,
-   "keywords": 124,
-   "registry_competitors": 34,
+   "keywords": 153,
+   "registry_competitors": 85,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/plumber.json"
   },
   {
@@ -11685,8 +13232,8 @@
    "search_value_index_usd": 30000,
    "equivalent_google_ads_cost_month_usd": 1900,
    "national_featured_min_usd": 500,
-   "keywords": 124,
-   "registry_competitors": 34,
+   "keywords": 153,
+   "registry_competitors": 85,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/plumbers.json"
   },
   {
@@ -11703,8 +13250,8 @@
    "search_value_index_usd": 690000,
    "equivalent_google_ads_cost_month_usd": 44000,
    "national_featured_min_usd": 500,
-   "keywords": 124,
-   "registry_competitors": 34,
+   "keywords": 153,
+   "registry_competitors": 85,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/plumbing-services.json"
   },
   {
@@ -11721,8 +13268,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 250,
-   "keywords": 110,
-   "registry_competitors": 17,
+   "keywords": 128,
+   "registry_competitors": 49,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/podiatrist.json"
   },
   {
@@ -11829,8 +13376,8 @@
    "search_value_index_usd": 1100000,
    "equivalent_google_ads_cost_month_usd": 61000,
    "national_featured_min_usd": 100,
-   "keywords": 193,
-   "registry_competitors": 221,
+   "keywords": 253,
+   "registry_competitors": 387,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/preschool.json"
   },
   {
@@ -11865,8 +13412,8 @@
    "search_value_index_usd": 130000,
    "equivalent_google_ads_cost_month_usd": 8700,
    "national_featured_min_usd": 250,
-   "keywords": 119,
-   "registry_competitors": 42,
+   "keywords": 151,
+   "registry_competitors": 126,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/primary-care-physician.json"
   },
   {
@@ -11901,8 +13448,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 191,
-   "registry_competitors": 230,
+   "keywords": 255,
+   "registry_competitors": 456,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/printing-services.json"
   },
   {
@@ -12027,8 +13574,8 @@
    "search_value_index_usd": 71000,
    "equivalent_google_ads_cost_month_usd": 6000,
    "national_featured_min_usd": 250,
-   "keywords": 116,
-   "registry_competitors": 41,
+   "keywords": 143,
+   "registry_competitors": 154,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/property-management-companies.json"
   },
   {
@@ -12045,8 +13592,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 116,
-   "registry_competitors": 41,
+   "keywords": 143,
+   "registry_competitors": 154,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/property-management-company.json"
   },
   {
@@ -12117,8 +13664,8 @@
    "search_value_index_usd": 730000,
    "equivalent_google_ads_cost_month_usd": 60000,
    "national_featured_min_usd": 250,
-   "keywords": 157,
-   "registry_competitors": 219,
+   "keywords": 231,
+   "registry_competitors": 464,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/real-estate-agent.json"
   },
   {
@@ -12189,8 +13736,8 @@
    "search_value_index_usd": 330000,
    "equivalent_google_ads_cost_month_usd": 28000,
    "national_featured_min_usd": 250,
-   "keywords": 157,
-   "registry_competitors": 219,
+   "keywords": 231,
+   "registry_competitors": 464,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/realtor.json"
   },
   {
@@ -12477,8 +14024,8 @@
    "search_value_index_usd": 530000,
    "equivalent_google_ads_cost_month_usd": 34000,
    "national_featured_min_usd": 500,
-   "keywords": 126,
-   "registry_competitors": 41,
+   "keywords": 161,
+   "registry_competitors": 112,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/roofer.json"
   },
   {
@@ -12495,8 +14042,8 @@
    "search_value_index_usd": 1600000,
    "equivalent_google_ads_cost_month_usd": 100000,
    "national_featured_min_usd": 500,
-   "keywords": 126,
-   "registry_competitors": 41,
+   "keywords": 161,
+   "registry_competitors": 112,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/roofing-contractor.json"
   },
   {
@@ -12765,8 +14312,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 11000,
    "national_featured_min_usd": 250,
-   "keywords": 116,
-   "registry_competitors": 29,
+   "keywords": 133,
+   "registry_competitors": 60,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/shoe-repair.json"
   },
   {
@@ -13035,8 +14582,8 @@
    "search_value_index_usd": 1100000,
    "equivalent_google_ads_cost_month_usd": 65000,
    "national_featured_min_usd": 250,
-   "keywords": 108,
-   "registry_competitors": 21,
+   "keywords": 121,
+   "registry_competitors": 69,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/spa.json"
   },
   {
@@ -13089,8 +14636,8 @@
    "search_value_index_usd": 820000,
    "equivalent_google_ads_cost_month_usd": 46000,
    "national_featured_min_usd": 250,
-   "keywords": 126,
-   "registry_competitors": 42,
+   "keywords": 148,
+   "registry_competitors": 108,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/staffing-agency.json"
   },
   {
@@ -13107,8 +14654,8 @@
    "search_value_index_usd": 1800000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 250,
-   "keywords": 220,
-   "registry_competitors": 355,
+   "keywords": 314,
+   "registry_competitors": 790,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/storage-units.json"
   },
   {
@@ -13179,8 +14726,8 @@
    "search_value_index_usd": 750000,
    "equivalent_google_ads_cost_month_usd": 62000,
    "national_featured_min_usd": 250,
-   "keywords": 126,
-   "registry_competitors": 70,
+   "keywords": 159,
+   "registry_competitors": 171,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/tailor.json"
   },
   {
@@ -13215,8 +14762,8 @@
    "search_value_index_usd": 140000,
    "equivalent_google_ads_cost_month_usd": 7900,
    "national_featured_min_usd": 250,
-   "keywords": 128,
-   "registry_competitors": 41,
+   "keywords": 160,
+   "registry_competitors": 93,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/tanning-salon.json"
   },
   {
@@ -13233,8 +14780,8 @@
    "search_value_index_usd": 4300000,
    "equivalent_google_ads_cost_month_usd": 250000,
    "national_featured_min_usd": 250,
-   "keywords": 128,
-   "registry_competitors": 89,
+   "keywords": 153,
+   "registry_competitors": 206,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/tattoo-shop.json"
   },
   {
@@ -13305,8 +14852,8 @@
    "search_value_index_usd": 240000,
    "equivalent_google_ads_cost_month_usd": 20000,
    "national_featured_min_usd": 250,
-   "keywords": 190,
-   "registry_competitors": 224,
+   "keywords": 252,
+   "registry_competitors": 447,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/tax-preparation.json"
   },
   {
@@ -13341,8 +14888,8 @@
    "search_value_index_usd": 360000,
    "equivalent_google_ads_cost_month_usd": 20000,
    "national_featured_min_usd": 250,
-   "keywords": 190,
-   "registry_competitors": 224,
+   "keywords": 252,
+   "registry_competitors": 447,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/tax-preparer.json"
   },
   {
@@ -13467,8 +15014,8 @@
    "search_value_index_usd": 1000000,
    "equivalent_google_ads_cost_month_usd": 70000,
    "national_featured_min_usd": 250,
-   "keywords": 150,
-   "registry_competitors": 131,
+   "keywords": 192,
+   "registry_competitors": 276,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/therapist.json"
   },
   {
@@ -13485,8 +15032,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 185,
-   "registry_competitors": 180,
+   "keywords": 258,
+   "registry_competitors": 442,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/thrift-store.json"
   },
   {
@@ -13521,8 +15068,8 @@
    "search_value_index_usd": 100000,
    "equivalent_google_ads_cost_month_usd": 6400,
    "national_featured_min_usd": 250,
-   "keywords": 102,
-   "registry_competitors": 2,
+   "keywords": 103,
+   "registry_competitors": 4,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/tile-installation.json"
   },
   {
@@ -13539,8 +15086,8 @@
    "search_value_index_usd": 2400000,
    "equivalent_google_ads_cost_month_usd": 130000,
    "national_featured_min_usd": 100,
-   "keywords": 173,
-   "registry_competitors": 131,
+   "keywords": 256,
+   "registry_competitors": 464,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/tire-shop.json"
   },
   {
@@ -13665,8 +15212,8 @@
    "search_value_index_usd": 79000,
    "equivalent_google_ads_cost_month_usd": 4400,
    "national_featured_min_usd": 100,
-   "keywords": 111,
-   "registry_competitors": 9,
+   "keywords": 122,
+   "registry_competitors": 27,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/transmission-repair.json"
   },
   {
@@ -13863,8 +15410,8 @@
    "search_value_index_usd": 13000000,
    "equivalent_google_ads_cost_month_usd": 880000,
    "national_featured_min_usd": 250,
-   "keywords": 112,
-   "registry_competitors": 17,
+   "keywords": 122,
+   "registry_competitors": 31,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/urgent-care.json"
   },
   {
@@ -13881,8 +15428,8 @@
    "search_value_index_usd": 580000,
    "equivalent_google_ads_cost_month_usd": 52000,
    "national_featured_min_usd": 50,
-   "keywords": 148,
-   "registry_competitors": 81,
+   "keywords": 193,
+   "registry_competitors": 302,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/used-cars-for-sale.json"
   },
   {
@@ -13899,8 +15446,8 @@
    "search_value_index_usd": 2200000,
    "equivalent_google_ads_cost_month_usd": 150000,
    "national_featured_min_usd": 100,
-   "keywords": 188,
-   "registry_competitors": 214,
+   "keywords": 291,
+   "registry_competitors": 607,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/vet.json"
   },
   {
@@ -14151,8 +15698,8 @@
    "search_value_index_usd": 4300000,
    "equivalent_google_ads_cost_month_usd": 250000,
    "national_featured_min_usd": 250,
-   "keywords": 118,
-   "registry_competitors": 34,
+   "keywords": 149,
+   "registry_competitors": 125,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/waxing.json"
   },
   {
@@ -14583,8 +16130,8 @@
    "search_value_index_usd": 350000,
    "equivalent_google_ads_cost_month_usd": 22000,
    "national_featured_min_usd": 250,
-   "keywords": 112,
-   "registry_competitors": 17,
+   "keywords": 121,
+   "registry_competitors": 34,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/window-repair.json"
   },
   {
@@ -14601,8 +16148,8 @@
    "search_value_index_usd": 1900000,
    "equivalent_google_ads_cost_month_usd": 120000,
    "national_featured_min_usd": 250,
-   "keywords": 117,
-   "registry_competitors": 28,
+   "keywords": 125,
+   "registry_competitors": 44,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/window-replacement.json"
   },
   {
@@ -14655,8 +16202,8 @@
    "search_value_index_usd": 260000,
    "equivalent_google_ads_cost_month_usd": 15000,
    "national_featured_min_usd": 100,
-   "keywords": 124,
-   "registry_competitors": 27,
+   "keywords": 132,
+   "registry_competitors": 42,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/windshield-replacement.json"
   },
   {
@@ -14781,8 +16328,8 @@
    "search_value_index_usd": 130000,
    "equivalent_google_ads_cost_month_usd": 9500,
    "national_featured_min_usd": 250,
-   "keywords": 125,
-   "registry_competitors": 83,
+   "keywords": 153,
+   "registry_competitors": 156,
    "json": "https://dingalinged-cpu.github.io/registry/api/market/yoga-classes.json"
   }
  ]

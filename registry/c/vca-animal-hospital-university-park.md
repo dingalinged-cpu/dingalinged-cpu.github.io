@@ -15,7 +15,7 @@ VCA Animal Hospital is a veterinarian in University Park, IL at 24341 South West
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-university-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-university-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11091467949 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Pandora is a jewelry store in Bloomington, MN at 127 North Garden, Bloomington, 
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pandora-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pandora-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5739830207 (license ODbL-1.0); source data as of 2026-06-01

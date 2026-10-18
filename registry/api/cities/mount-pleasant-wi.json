@@ -1,0 +1,2479 @@
+{
+ "place": "Mount Pleasant, WI",
+ "slug": "mount-pleasant-wi",
+ "count": 79,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "auto repair mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "bakery mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "barber shop mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "car wash mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "chiropractor mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "dentist mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "electrician mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/electrician-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "eye doctor mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "financial advisor mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "furniture store mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "gift shop mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "gym mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "hair salon mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "haircut mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "heating and air mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "hvac repair mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "insurance agency mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "insurance agent mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "insurance agents mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "jewelry store mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "lawyer mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "liquor store mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "martial arts mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "massage mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "mattress store mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "mechanic mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "nail salon mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "oil change mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "pet store mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "photographer mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/photographer-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "physical therapy mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "printing services mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "real estate agent mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "realtor mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "staffing agency mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "tailor mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "tanning salon mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "therapist mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "thrift store mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "used cars for sale mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-mount-pleasant-wi.json"
+  },
+  {
+   "keyword": "vet mount pleasant wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-mount-pleasant-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "athletico-physical-therapy-racine",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Racine, WI at 5340 Washington Avenue, Racine, WI 53406. Phone: +12626381272. Website: https://www.athletico.com/locations/racine/?location=racine.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-racine.json",
+   "address": {
+    "streetAddress": "5340 Washington Avenue",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7192502,
+    "lon": -87.8443932
+   },
+   "phone": "+12626381272",
+   "website": "https://www.athletico.com/locations/racine/?location=racine",
+   "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10004846836",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "first-call-heating-and-cooling-racine",
+   "name": "First Call Heating and Cooling",
+   "summary": "First Call Heating and Cooling is a HVAC contractor in Racine, WI at 4603 Durand Avenue, Racine, WI 53405. Phone: +12627322273. Website: https://www.firstcallheating.com/city/racine-wi/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-call-heating-and-cooling-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-call-heating-and-cooling-racine.json",
+   "address": {
+    "streetAddress": "4603 Durand Avenue",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "postalCode": "53405",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "zip": "53405",
+   "geo": {
+    "lat": 42.6965358,
+    "lon": -87.8346729
+   },
+   "phone": "+12627322273",
+   "website": "https://www.firstcallheating.com/city/racine-wi/",
+   "opening_hours": "Mo-Fr 07:00-16:30, Sa 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1473701617",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petco-mount-pleasant",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Mount Pleasant, WI at 3059 Oakes Road, Mount Pleasant, WI 53177. Phone: +12625981184. Website: https://stores.petco.com/wi/sturtevant/pet-supplies-sturtevant-wi-885.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-mount-pleasant.json",
+   "address": {
+    "streetAddress": "3059 Oakes Road",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53177",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53177",
+   "geo": {
+    "lat": 42.6946844,
+    "lon": -87.8682072
+   },
+   "phone": "+12625981184",
+   "website": "https://stores.petco.com/wi/sturtevant/pet-supplies-sturtevant-wi-885.html",
+   "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/375995592",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rgm-eyecare-llc-mount-pleasant",
+   "name": "RGM Eyecare, LLC",
+   "summary": "RGM Eyecare, LLC is an eye care practice in Mount Pleasant, WI at 4304 Taylor Avenue, Mount Pleasant, WI 53405. Phone: +12624045001. Website: https://www.rgmeyecare.com/.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rgm-eyecare-llc-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rgm-eyecare-llc-mount-pleasant.json",
+   "address": {
+    "streetAddress": "4304 Taylor Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53405",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53405",
+   "geo": {
+    "lat": 42.6897392,
+    "lon": -87.8312878
+   },
+   "phone": "+12624045001",
+   "website": "https://www.rgmeyecare.com/",
+   "opening_hours": "Tu,Th 09:00-13:00; We 02:00-20:00; Sa 02:00-18:00; Mo,Fr,Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6354992940",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "o-and-h-danish-bakery-mount-pleasant",
+   "name": "O&H Danish Bakery",
+   "summary": "O&H Danish Bakery is a bakery in Mount Pleasant, WI at 5910 Washington Avenue, Mount Pleasant, WI. Phone: +12625047000. Website: https://www.ohdanishbakery.com/locations/danish-bakery/racine-wi.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/o-and-h-danish-bakery-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/o-and-h-danish-bakery-mount-pleasant.json",
+   "address": {
+    "streetAddress": "5910 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7200278,
+    "lon": -87.8517904
+   },
+   "phone": "+12625047000",
+   "website": "https://www.ohdanishbakery.com/locations/danish-bakery/racine-wi",
+   "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/438209886",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-supplies-plus-mount-pleasant",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Mount Pleasant, WI at 5557 Durand Avenue, Mount Pleasant, WI. Phone: +12625549898. Website: https://www.petsuppliesplus.com/store/wi/racine/75-racine/75.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-mount-pleasant.json",
+   "address": {
+    "streetAddress": "5557 Durand Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6967539,
+    "lon": -87.8478615
+   },
+   "phone": "+12625549898",
+   "website": "https://www.petsuppliesplus.com/store/wi/racine/75-racine/75",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/376478009",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "burn-boot-camp-mt-pleasant-mount-pleasant",
+   "name": "Burn Boot Camp Mt. Pleasant",
+   "summary": "Burn Boot Camp Mt. Pleasant is a gym in Mount Pleasant, WI at 6500 Washington Ave, Mount Pleasant, WI 53406. Phone: +12625834004. Website: https://burnbootcamp.com/locations/mt-pleasant-wi/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/burn-boot-camp-mt-pleasant-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/burn-boot-camp-mt-pleasant-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6500 Washington Ave",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7200276,
+    "lon": -87.8603001
+   },
+   "phone": "+12625834004",
+   "website": "https://burnbootcamp.com/locations/mt-pleasant-wi/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7046557803",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "c-and-m-automotive-racine",
+   "name": "C&M Automotive",
+   "summary": "C&M Automotive is an auto repair shop in Racine, WI at 2423 Racine Street, Racine, WI 53403. Phone: +12626333562. Website: https://c-m-auto.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/c-and-m-automotive-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/c-and-m-automotive-racine.json",
+   "address": {
+    "streetAddress": "2423 Racine Street",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "postalCode": "53403",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "zip": "53403",
+   "geo": {
+    "lat": 42.6993576,
+    "lon": -87.7932901
+   },
+   "phone": "+12626333562",
+   "website": "https://c-m-auto.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1473770088",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chiro-one-wellness-centers-mount-pleasant",
+   "name": "chiro one wellness centers",
+   "summary": "chiro one wellness centers is a chiropractor in Mount Pleasant, WI at 7115 Durand Avenue #Ste. H, Mount Pleasant, WI 53177. Phone: +12626724844. Website: https://www.chiroone.com/locations/mt-pleasant/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chiro-one-wellness-centers-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chiro-one-wellness-centers-mount-pleasant.json",
+   "address": {
+    "streetAddress": "7115 Durand Avenue #Ste. H",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53177",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53177",
+   "geo": {
+    "lat": 42.6966986,
+    "lon": -87.8680812
+   },
+   "phone": "+12626724844",
+   "website": "https://www.chiroone.com/locations/mt-pleasant/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9528308424",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-racine",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Racine, WI at 5415 Washington Avenue #c, Racine, WI 53406. Phone: +12626340131. Website: https://www.mattressfirm.com/en-us/stores/wi/racine/059098/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-racine.json",
+   "address": {
+    "streetAddress": "5415 Washington Avenue #c",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7176075,
+    "lon": -87.8455136
+   },
+   "phone": "+12626340131",
+   "website": "https://www.mattressfirm.com/en-us/stores/wi/racine/059098/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9928088396",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "racine-dental-group-s-c-racine",
+   "name": "Racine Dental Group, S.C.",
+   "summary": "Racine Dental Group, S.C. is a dentist in Racine, WI at 1101 South Airline Road, Racine, WI 53406. Phone: +12626379371. Website: https://www.racinedentalgroup.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/racine-dental-group-s-c-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/racine-dental-group-s-c-racine.json",
+   "address": {
+    "streetAddress": "1101 South Airline Road",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7202215,
+    "lon": -87.8748943
+   },
+   "phone": "+12626379371",
+   "website": "https://www.racinedentalgroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9236509004",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "randall-and-pobar-llc-mount-pleasant",
+   "name": "Randall & Pobar, LLC",
+   "summary": "Randall & Pobar, LLC is a financial advisor in Mount Pleasant, WI at 1458 Horizon Boulevard #Suite 100, Mount Pleasant, WI 53406. Phone: +12623736300. Website: https://www.randallandpobar.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/randall-and-pobar-llc-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/randall-and-pobar-llc-mount-pleasant.json",
+   "address": {
+    "streetAddress": "1458 Horizon Boulevard #Suite 100",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7143476,
+    "lon": -87.8495615
+   },
+   "phone": "+12623736300",
+   "website": "https://www.randallandpobar.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9205658924",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-mount-pleasant",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a barber shop in Mount Pleasant, WI. Phone: +12626344247. Website: https://sportclips.com/us-wi-racine-wi107.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-mount-pleasant.json",
+   "address": {
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7198955,
+    "lon": -87.8461945
+   },
+   "phone": "+12626344247",
+   "website": "https://sportclips.com/us-wi-racine-wi107",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:00-17:00; Su 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3782335456",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-barbershop-mount-pleasant",
+   "name": "The Barbershop",
+   "summary": "The Barbershop is a hair salon in Mount Pleasant, WI at 7115 Durand Avenue, Mount Pleasant, WI 53177. Website: https://thebarbershops.com/racine/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-barbershop-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-barbershop-mount-pleasant.json",
+   "address": {
+    "streetAddress": "7115 Durand Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53177",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53177",
+   "geo": {
+    "lat": 42.6970278,
+    "lon": -87.8680873
+   },
+   "website": "https://thebarbershops.com/racine/",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:00-16:00; Su 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9528266016",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zeigler-honda-of-racine-mount-pleasant",
+   "name": "Zeigler Honda of Racine",
+   "summary": "Zeigler Honda of Racine is an used car dealer in Mount Pleasant, WI at 1701 Southeast Frontage Road, Mount Pleasant, WI 53177. Website: https://www.zeiglerhondaracine.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zeigler-honda-of-racine-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zeigler-honda-of-racine-mount-pleasant.json",
+   "address": {
+    "streetAddress": "1701 Southeast Frontage Road",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53177",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53177",
+   "geo": {
+    "lat": 42.7156336,
+    "lon": -87.9523515
+   },
+   "website": "https://www.zeiglerhondaracine.com/",
+   "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604100007",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "angelcare-animal-hospital-mount-pleasant",
+   "name": "Angelcare Animal Hospital",
+   "summary": "Angelcare Animal Hospital is a veterinarian in Mount Pleasant, WI at 6915 Washington Avenue, Mount Pleasant, WI 53406. Phone: +12628863337.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/angelcare-animal-hospital-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/angelcare-animal-hospital-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6915 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7189266,
+    "lon": -87.8663963
+   },
+   "phone": "+12628863337",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10570737909",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-trip-mount-pleasant",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Mount Pleasant, WI at 7155 Durand Avenue, Mount Pleasant, WI 53177. Website: https://www.kwiktrip.com/locator/store?id=395.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-mount-pleasant.json",
+   "address": {
+    "streetAddress": "7155 Durand Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53177",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53177",
+   "geo": {
+    "lat": 42.6971942,
+    "lon": -87.8697479
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=395",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1026857718",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "utopia-nails-and-spa-mount-pleasant",
+   "name": "Utopia Nails & Spa",
+   "summary": "Utopia Nails & Spa is a nail salon in Mount Pleasant, WI at 2860 South Green Bay Road #200, Mount Pleasant, WI. Website: https://utopianailspa.com/locations.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/utopia-nails-and-spa-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/utopia-nails-and-spa-mount-pleasant.json",
+   "address": {
+    "streetAddress": "2860 South Green Bay Road #200",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6981401,
+    "lon": -87.8548518
+   },
+   "website": "https://utopianailspa.com/locations",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1466798359",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rocket-wash-mount-pleasant",
+   "name": "Rocket Wash",
+   "summary": "Rocket Wash is a car wash in Mount Pleasant, WI at 6840 Washington Avenue, Mount Pleasant, WI 53406.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rocket-wash-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rocket-wash-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6840 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7202201,
+    "lon": -87.8650168
+   },
+   "opening_hours": "Mo-Sa 07:00-21:00, Su 07:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11793851592",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rocket-wash-racine",
+   "name": "Rocket Wash",
+   "summary": "Rocket Wash is a car wash in Racine, WI at 4733 Spring Street, Racine, WI 53406.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rocket-wash-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rocket-wash-racine.json",
+   "address": {
+    "streetAddress": "4733 Spring Street",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7362596,
+    "lon": -87.8377419
+   },
+   "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/940052478",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "richlonns-tire-and-service-center-mount-pleasant",
+   "name": "Richlonn's Tire and Service Center",
+   "summary": "Richlonn's Tire and Service Center is an auto repair shop in Mount Pleasant, WI at 5418 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richlonns-tire-and-service-center-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richlonns-tire-and-service-center-mount-pleasant.json",
+   "address": {
+    "streetAddress": "5418 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7192704,
+    "lon": -87.8450459
+   },
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/398362536",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-trip-car-wash-mount-pleasant",
+   "name": "Kwik Trip Car Wash",
+   "summary": "Kwik Trip Car Wash is a car wash in Mount Pleasant, WI. Website: https://www.kwiktrip.com/locator/store?id=686.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-car-wash-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-car-wash-mount-pleasant.json",
+   "address": {
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7236033,
+    "lon": -87.9517619
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=686",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/508035310",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "diva-nails-racine",
+   "name": "Diva Nails",
+   "summary": "Diva Nails is a nail salon in Racine, WI at 5201 Washington Avenue #K, Racine, WI 53406.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diva-nails-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diva-nails-racine.json",
+   "address": {
+    "streetAddress": "5201 Washington Avenue #K",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7174799,
+    "lon": -87.8421189
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9928119222",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-employment-professionals-racine",
+   "name": "Express Employment Professionals",
+   "summary": "Express Employment Professionals is a staffing agency in Racine, WI at 1300 South Green Bay Road #200, Racine, WI 53406.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-employment-professionals-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-employment-professionals-racine.json",
+   "address": {
+    "streetAddress": "1300 South Green Bay Road #200",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7172354,
+    "lon": -87.8474138
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3999957894",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "festival-wine-and-spirits-mount-pleasant",
+   "name": "Festival Wine & Spirits",
+   "summary": "Festival Wine & Spirits is a liquor store in Mount Pleasant, WI.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/festival-wine-and-spirits-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/festival-wine-and-spirits-mount-pleasant.json",
+   "address": {
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7209501,
+    "lon": -87.8504721
+   },
+   "opening_hours": "Mo-Su 08:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/699013622",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "freeway-insurance-racine",
+   "name": "Freeway Insurance",
+   "summary": "Freeway Insurance is an insurance agent in Racine, WI at 5201 Washington Avenue #J, Racine, WI 53406.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freeway-insurance-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freeway-insurance-racine.json",
+   "address": {
+    "streetAddress": "5201 Washington Avenue #J",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7175495,
+    "lon": -87.8421154
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9928119217",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-mount-pleasant",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Mount Pleasant, WI at 3131 Oakes Road, Mount Pleasant, WI 53177.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-mount-pleasant.json",
+   "address": {
+    "streetAddress": "3131 Oakes Road",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53177",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53177",
+   "geo": {
+    "lat": 42.6943824,
+    "lon": -87.8716991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/378466413",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hallmark-mount-pleasant",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Mount Pleasant, WI at 5630 Washington Avenue, Mount Pleasant, WI 53406.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-mount-pleasant.json",
+   "address": {
+    "streetAddress": "5630 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7214219,
+    "lon": -87.8490083
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1151103400",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-image-barber-shop-racine",
+   "name": "NEW IMAGE BARBER SHOP",
+   "summary": "NEW IMAGE BARBER SHOP is a hair salon in Racine, WI at 5201 Washington Avenue #F, Racine, WI 53406.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-image-barber-shop-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-image-barber-shop-racine.json",
+   "address": {
+    "streetAddress": "5201 Washington Avenue #F",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7178071,
+    "lon": -87.842073
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9928088413",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petland-mount-pleasant",
+   "name": "Petland",
+   "summary": "Petland is a pet store in Mount Pleasant, WI at 2310 South Green Bay Road #Suite K, Mount Pleasant, WI 53406.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petland-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petland-mount-pleasant.json",
+   "address": {
+    "streetAddress": "2310 South Green Bay Road #Suite K",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7040429,
+    "lon": -87.8546036
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3792722077",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "take-5-oil-change-mount-pleasant",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Mount Pleasant, WI at 5428 Washington Avenue, Mount Pleasant, WI 53406.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-mount-pleasant.json",
+   "address": {
+    "streetAddress": "5428 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7191702,
+    "lon": -87.8455204
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/398362535",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ww-studio-mount-pleasant",
+   "name": "WW Studio",
+   "summary": "WW Studio is a therapy practice in Mount Pleasant, WI at 2310 South Green Bay Road #Suite M, Mount Pleasant, WI 53406.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ww-studio-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ww-studio-mount-pleasant.json",
+   "address": {
+    "streetAddress": "2310 South Green Bay Road #Suite M",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "postalCode": "53406",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "zip": "53406",
+   "geo": {
+    "lat": 42.7043018,
+    "lon": -87.8543484
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9928129233",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "adecco-mount-pleasant",
+   "name": "Adecco",
+   "summary": "Adecco is a staffing agency in Mount Pleasant, WI at 6021 Durand Avenue #200, Mount Pleasant, WI.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adecco-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adecco-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6021 Durand Avenue #200",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6969123,
+    "lon": -87.8530696
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3998312215",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aerotek-mount-pleasant",
+   "name": "Aerotek",
+   "summary": "Aerotek is a staffing agency in Mount Pleasant, WI at 6211 Durand Avenue #201, Mount Pleasant, WI.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aerotek-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aerotek-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6211 Durand Avenue #201",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.696803,
+    "lon": -87.8562546
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3998258263",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-family-insurance-jim-benedict-agency-mount-pleasant",
+   "name": "American Family Insurance - Jim Benedict Agency",
+   "summary": "American Family Insurance - Jim Benedict Agency is an insurance agent in Mount Pleasant, WI at 6216 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-jim-benedict-agency-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-jim-benedict-agency-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6216 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7202922,
+    "lon": -87.8566792
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4004618831",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-family-insurance-trevor-morgan-mount-pleasant",
+   "name": "American Family Insurance - Trevor Morgan",
+   "summary": "American Family Insurance - Trevor Morgan is an insurance agent in Mount Pleasant, WI at 6216 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-trevor-morgan-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-trevor-morgan-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6216 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7205509,
+    "lon": -87.8566768
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4004618836",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aspen-dental-mount-pleasant",
+   "name": "Aspen Dental",
+   "summary": "Aspen Dental is a dentist in Mount Pleasant, WI at 2860 South Green Bay Road #100, Mount Pleasant, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aspen-dental-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aspen-dental-mount-pleasant.json",
+   "address": {
+    "streetAddress": "2860 South Green Bay Road #100",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6982252,
+    "lon": -87.8548256
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1466798358",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ati-physical-therapy-mount-pleasant-n3998312228",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Mount Pleasant, WI at 6015 Durand Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-mount-pleasant-n3998312228/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-mount-pleasant-n3998312228.json",
+   "address": {
+    "streetAddress": "6015 Durand Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6962334,
+    "lon": -87.8530491
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3998312228",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "black-belt-karate-studio-of-racine-mount-pleasant",
+   "name": "Black Belt Karate Studio of Racine",
+   "summary": "Black Belt Karate Studio of Racine is a martial arts school in Mount Pleasant, WI at 5630 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/black-belt-karate-studio-of-racine-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/black-belt-karate-studio-of-racine-mount-pleasant.json",
+   "address": {
+    "streetAddress": "5630 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7215485,
+    "lon": -87.8482576
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/362345245",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brian-ketterer-state-farm-insurance-mount-pleasant",
+   "name": "Brian Ketterer - State Farm Insurance",
+   "summary": "Brian Ketterer - State Farm Insurance is an insurance agent in Mount Pleasant, WI at 1540 State Highway 31, Mount Pleasant, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brian-ketterer-state-farm-insurance-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brian-ketterer-state-farm-insurance-mount-pleasant.json",
+   "address": {
+    "streetAddress": "1540 State Highway 31",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.712963,
+    "lon": -87.8492305
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/374866352",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chiropractic-care-center-mount-pleasant",
+   "name": "Chiropractic Care Center",
+   "summary": "Chiropractic Care Center is a chiropractor in Mount Pleasant, WI at 6218 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chiropractic-care-center-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chiropractic-care-center-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6218 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7199193,
+    "lon": -87.8565732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4004618828",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "compass-insurance-group-mount-pleasant",
+   "name": "Compass Insurance Group",
+   "summary": "Compass Insurance Group is an insurance agent in Mount Pleasant, WI at 6021 Durand Avenue #600, Mount Pleasant, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/compass-insurance-group-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/compass-insurance-group-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6021 Durand Avenue #600",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6966975,
+    "lon": -87.8530616
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3998312217",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cost-cutters-mount-pleasant",
+   "name": "Cost Cutters",
+   "summary": "Cost Cutters is a hair salon in Mount Pleasant, WI at 6104 Regency West Drive, Mount Pleasant, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cost-cutters-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cost-cutters-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6104 Regency West Drive",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7022948,
+    "lon": -87.8540157
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3792722106",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cost-cutters-mount-pleasant-w362345235",
+   "name": "Cost Cutters",
+   "summary": "Cost Cutters is a hair salon in Mount Pleasant, WI at 5500 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cost-cutters-mount-pleasant-w362345235/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cost-cutters-mount-pleasant-w362345235.json",
+   "address": {
+    "streetAddress": "5500 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7213551,
+    "lon": -87.8493705
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/362345235",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "david-insurance-racine",
+   "name": "David Insurance",
+   "summary": "David Insurance is an insurance agent in Racine, WI at 1300 South Green Bay Road #100, Racine, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/david-insurance-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/david-insurance-racine.json",
+   "address": {
+    "streetAddress": "1300 South Green Bay Road #100",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7173429,
+    "lon": -87.8474158
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3999957893",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dr-james-luetzow-dds-mount-pleasant",
+   "name": "Dr. James Luetzow, DDS",
+   "summary": "Dr. James Luetzow, DDS is a dentist in Mount Pleasant, WI at 6011 Durand Avenue #200, Mount Pleasant, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-james-luetzow-dds-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-james-luetzow-dds-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6011 Durand Avenue #200",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6960537,
+    "lon": -87.8522788
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3998312234",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dubois-formalwear-mount-pleasant",
+   "name": "DuBois Formalwear",
+   "summary": "DuBois Formalwear is a tailor in Mount Pleasant, WI at 6220 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dubois-formalwear-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dubois-formalwear-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6220 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7197531,
+    "lon": -87.8565629
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4004618826",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fisher-chiropractic-mount-pleasant",
+   "name": "Fisher Chiropractic",
+   "summary": "Fisher Chiropractic is a chiropractor in Mount Pleasant, WI at 6233 Durand Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fisher-chiropractic-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fisher-chiropractic-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6233 Durand Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6969187,
+    "lon": -87.8568657
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3998258289",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "forwarddental-mount-pleasant",
+   "name": "ForwardDental",
+   "summary": "ForwardDental is a dentist in Mount Pleasant, WI at 6218 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forwarddental-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forwarddental-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6218 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.720015,
+    "lon": -87.8565732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4004618829",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hansen-interiors-racine",
+   "name": "Hansen Interiors",
+   "summary": "Hansen Interiors is a furniture store in Racine, WI at 1945 Ole Davidson Road, Racine, WI.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hansen-interiors-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hansen-interiors-racine.json",
+   "address": {
+    "streetAddress": "1945 Ole Davidson Road",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7450013,
+    "lon": -87.8357875
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/677566282",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "havahart-pets-mount-pleasant",
+   "name": "Havahart Pets",
+   "summary": "Havahart Pets is a pet store in Mount Pleasant, WI at 6500 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/havahart-pets-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/havahart-pets-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6500 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7199824,
+    "lon": -87.8600772
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4004619811",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "images-of-racine-mount-pleasant",
+   "name": "Images of Racine",
+   "summary": "Images of Racine is a photographer in Mount Pleasant, WI at 6222 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "photographer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/images-of-racine-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/images-of-racine-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6222 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7196889,
+    "lon": -87.8571091
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/397685260",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "john-barry-stutt-s-c-mount-pleasant",
+   "name": "John Barry Stutt, S.C.",
+   "summary": "John Barry Stutt, S.C. is a lawyer in Mount Pleasant, WI at 6015 Durand Avenue #400, Mount Pleasant, WI.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/john-barry-stutt-s-c-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/john-barry-stutt-s-c-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6015 Durand Avenue #400",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.696068,
+    "lon": -87.8529464
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3998312231",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "joseph-p-sanfelippo-family-dentistry-mount-pleasant",
+   "name": "Joseph P. Sanfelippo Family Dentistry",
+   "summary": "Joseph P. Sanfelippo Family Dentistry is a dentist in Mount Pleasant, WI at 5814 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joseph-p-sanfelippo-family-dentistry-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joseph-p-sanfelippo-family-dentistry-mount-pleasant.json",
+   "address": {
+    "streetAddress": "5814 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.719352,
+    "lon": -87.8507221
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/397185441",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "l-a-duesterbeck-and-associates-mount-pleasant",
+   "name": "L.A. Duesterbeck and Associates",
+   "summary": "L.A. Duesterbeck and Associates is a lawyer in Mount Pleasant, WI at 6211 Durand Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-a-duesterbeck-and-associates-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-a-duesterbeck-and-associates-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6211 Durand Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6967202,
+    "lon": -87.8562546
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3998258264",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "law-offices-of-peter-francis-geraci-mount-pleasant",
+   "name": "Law Offices of Peter Francis Geraci",
+   "summary": "Law Offices of Peter Francis Geraci is a lawyer in Mount Pleasant, WI at 6216 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/law-offices-of-peter-francis-geraci-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/law-offices-of-peter-francis-geraci-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6216 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7204732,
+    "lon": -87.8566749
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4004618837",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-wellness-center-mount-pleasant",
+   "name": "Massage Wellness Center",
+   "summary": "Massage Wellness Center is a massage studio in Mount Pleasant, WI at 6211 Durand Avenue #101, Mount Pleasant, WI.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-wellness-center-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-wellness-center-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6211 Durand Avenue #101",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6968801,
+    "lon": -87.8562585
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3998258262",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-mount-pleasant",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Mount Pleasant, WI at 6500 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6500 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7200857,
+    "lon": -87.8603135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4004619810",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midas-racine",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Racine, WI at 1230 South Green Bay Road, Racine, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-racine.json",
+   "address": {
+    "streetAddress": "1230 South Green Bay Road",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7180223,
+    "lon": -87.8470195
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/397175093",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "polished-beauty-bar-mount-pleasant",
+   "name": "Polished Beauty Bar",
+   "summary": "Polished Beauty Bar is a nail salon in Mount Pleasant, WI at 6012 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/polished-beauty-bar-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/polished-beauty-bar-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6012 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7196126,
+    "lon": -87.8535089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6564129558",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "professional-detail-racine-racine",
+   "name": "Professional Detail Racine",
+   "summary": "Professional Detail Racine is an auto repair shop in Racine, WI at 6149 Regency West Drive, Racine, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/professional-detail-racine-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/professional-detail-racine-racine.json",
+   "address": {
+    "streetAddress": "6149 Regency West Drive",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7018386,
+    "lon": -87.8555535
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/376385269",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prudential-real-estate-mount-pleasant",
+   "name": "Prudential Real Estate",
+   "summary": "Prudential Real Estate is a real estate agency in Mount Pleasant, WI at 6011 Durand Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prudential-real-estate-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prudential-real-estate-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6011 Durand Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6960561,
+    "lon": -87.8525182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3998312233",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "racine-nail-mount-pleasant",
+   "name": "Racine Nail",
+   "summary": "Racine Nail is a nail salon in Mount Pleasant, WI at 5630 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/racine-nail-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/racine-nail-mount-pleasant.json",
+   "address": {
+    "streetAddress": "5630 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7215627,
+    "lon": -87.8481417
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1151103402",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rasmussen-diamonds-mount-pleasant",
+   "name": "Rasmussen Diamonds",
+   "summary": "Rasmussen Diamonds is a jewelry store in Mount Pleasant, WI at 6220 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rasmussen-diamonds-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rasmussen-diamonds-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6220 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.719662,
+    "lon": -87.8565616
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4004618825",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "regency-car-wash-racine",
+   "name": "Regency Car Wash",
+   "summary": "Regency Car Wash is a car wash in Racine, WI at 6149 Regency West Drive, Racine, WI.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/regency-car-wash-racine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/regency-car-wash-racine.json",
+   "address": {
+    "streetAddress": "6149 Regency West Drive",
+    "addressLocality": "Racine",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Racine",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7022269,
+    "lon": -87.855459
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/376385310",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "robertson-ryan-and-associates-mount-pleasant",
+   "name": "Robertson, Ryan, and Associates",
+   "summary": "Robertson, Ryan, and Associates is a lawyer in Mount Pleasant, WI at 6015 Durand Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/robertson-ryan-and-associates-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/robertson-ryan-and-associates-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6015 Durand Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6960716,
+    "lon": -87.8530506
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3998312230",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-melissa-schafer-mount-pleasant",
+   "name": "State Farm - Melissa Schafer",
+   "summary": "State Farm - Melissa Schafer is an insurance agent in Mount Pleasant, WI at 5809 Durand Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-melissa-schafer-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-melissa-schafer-mount-pleasant.json",
+   "address": {
+    "streetAddress": "5809 Durand Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6968792,
+    "lon": -87.8501696
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/396999483",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-mount-pleasant",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Mount Pleasant, WI at 5360 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-mount-pleasant.json",
+   "address": {
+    "streetAddress": "5360 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7192627,
+    "lon": -87.8445221
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10004846834",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tropical-tan-mount-pleasant",
+   "name": "Tropical Tan",
+   "summary": "Tropical Tan is a tanning salon in Mount Pleasant, WI at 6112 Regency West Drive, Mount Pleasant, WI.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tropical-tan-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tropical-tan-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6112 Regency West Drive",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7023271,
+    "lon": -87.854209
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3792722104",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "verlo-mattress-mount-pleasant",
+   "name": "Verlo Mattress",
+   "summary": "Verlo Mattress is a mattress store in Mount Pleasant, WI at 5630 Washington Avenue, Mount Pleasant, WI.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/verlo-mattress-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/verlo-mattress-mount-pleasant.json",
+   "address": {
+    "streetAddress": "5630 Washington Avenue",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7215725,
+    "lon": -87.8480599
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1151103403",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "verlo-mattress-factory-mount-pleasant",
+   "name": "Verlo Mattress Factory",
+   "summary": "Verlo Mattress Factory is a mattress store in Mount Pleasant, WI at 2510 South Green Bay Road, Mount Pleasant, WI.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/verlo-mattress-factory-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/verlo-mattress-factory-mount-pleasant.json",
+   "address": {
+    "streetAddress": "2510 South Green Bay Road",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.702629,
+    "lon": -87.8531546
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3792722101",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "werner-electric-supply-mount-pleasant",
+   "name": "Werner Electric Supply",
+   "summary": "Werner Electric Supply is an electrician in Mount Pleasant, WI at 6201 Regency West Drive, Mount Pleasant, WI.",
+   "categories": [
+    "electrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/werner-electric-supply-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/werner-electric-supply-mount-pleasant.json",
+   "address": {
+    "streetAddress": "6201 Regency West Drive",
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7017524,
+    "lon": -87.8568371
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/376168603",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ati-physical-therapy-mount-pleasant",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Mount Pleasant, WI.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-mount-pleasant.json",
+   "address": {
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7196646,
+    "lon": -87.8462364
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3782335462",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fedex-office-mount-pleasant",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Mount Pleasant, WI.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-mount-pleasant.json",
+   "address": {
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.719615,
+    "lon": -87.8486083
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3666719034",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-lube-mount-pleasant",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Mount Pleasant, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-mount-pleasant.json",
+   "address": {
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6971517,
+    "lon": -87.8685927
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1026857724",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "johnson-insurance-mount-pleasant",
+   "name": "Johnson Insurance",
+   "summary": "Johnson Insurance is an insurance agent in Mount Pleasant, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnson-insurance-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnson-insurance-mount-pleasant.json",
+   "address": {
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7224691,
+    "lon": -87.947807
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/514274288",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "laguna-nails-and-spa-mount-pleasant",
+   "name": "Laguna Nails and Spa",
+   "summary": "Laguna Nails and Spa is a nail salon in Mount Pleasant, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/laguna-nails-and-spa-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/laguna-nails-and-spa-mount-pleasant.json",
+   "address": {
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7197778,
+    "lon": -87.8461989
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3782335458",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "polish-nail-salon-mount-pleasant",
+   "name": "POLISH NAIL SALON",
+   "summary": "POLISH NAIL SALON is a nail salon in Mount Pleasant, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/polish-nail-salon-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/polish-nail-salon-mount-pleasant.json",
+   "address": {
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.6967905,
+    "lon": -87.8680759
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9528308423",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "shorewest-realtors-mount-pleasant",
+   "name": "Shorewest Realtors",
+   "summary": "Shorewest Realtors is a real estate agency in Mount Pleasant, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shorewest-realtors-mount-pleasant/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shorewest-realtors-mount-pleasant.json",
+   "address": {
+    "addressLocality": "Mount Pleasant",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Mount Pleasant",
+   "state": "WI",
+   "geo": {
+    "lat": 42.7125788,
+    "lon": -87.84834
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/397175107",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

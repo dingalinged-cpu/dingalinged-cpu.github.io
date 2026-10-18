@@ -1,0 +1,23 @@
+Jordan Automotive is an auto repair shop in Baytown, TX.
+
+# Jordan Automotive
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Baytown, TX
+- City: Baytown
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7493907, -94.966111
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jordan-automotive-baytown/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jordan-automotive-baytown.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/549388690 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

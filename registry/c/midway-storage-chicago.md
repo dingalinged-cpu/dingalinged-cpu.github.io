@@ -15,7 +15,7 @@ Midway Storage is a self-storage facility in Chicago, IL at 5660 West 55th Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midway-storage-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midway-storage-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/471171914 (license ODbL-1.0); source data as of 2026-06-01

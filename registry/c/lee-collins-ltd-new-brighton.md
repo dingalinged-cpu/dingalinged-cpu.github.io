@@ -15,7 +15,7 @@ Lee Collins Ltd is a printing service in New Brighton, MN at 564 Old Highway 8, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lee-collins-ltd-new-brighton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lee-collins-ltd-new-brighton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12899894704 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Fleurish LLP is a gift shop in Excelsior, MN at 261 Water Street, Excelsior, MN 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fleurish-llp-excelsior/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fleurish-llp-excelsior.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6384347268 (license ODbL-1.0); source data as of 2026-06-01

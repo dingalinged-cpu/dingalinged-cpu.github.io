@@ -15,7 +15,7 @@ Auto Spa of NWI LLC is a car wash in Gary, IN at 3117 Broadway, Gary, IN 46409. 
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/auto-spa-of-nwi-llc-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/auto-spa-of-nwi-llc-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1176510514 (license ODbL-1.0); source data as of 2026-07-28

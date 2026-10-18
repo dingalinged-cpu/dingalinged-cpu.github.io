@@ -15,7 +15,7 @@ Mavis Tires & Brakes is an auto repair shop in Merrillville, IN at 8303 Broadway
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-merrillville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-merrillville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/647842129 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ David A Maggitt - State Farm is a real estate agency in Golden Valley, MN at 496
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/david-a-maggitt-state-farm-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/david-a-maggitt-state-farm-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11124443897 (license ODbL-1.0); source data as of 2026-05-31

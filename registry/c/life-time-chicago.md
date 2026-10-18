@@ -15,7 +15,7 @@ Life Time is a gym in Chicago, IL at 15 West Chicago Avenue, Chicago, IL 60654.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/life-time-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/life-time-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13316418901 (license ODbL-1.0); source data as of 2026-06-01

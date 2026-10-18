@@ -1,0 +1,23 @@
+CubeSmart is a self-storage facility in Dallas, TX at 17613 Coit Road, Dallas, TX 75252. Phone: +19722489900. Website: https://www.cubesmart.com/texas-self-storage/dallas-self-storage/3075.html.
+
+# CubeSmart
+
+- Category: storage units
+- Services: storage units
+- Address: 17613 Coit Road, Dallas, TX 75252
+- City: Dallas
+- State: TX
+- ZIP: 75252
+- Coordinates: 32.9893578, -96.7690112
+- Phone: +19722489900
+- Website: https://www.cubesmart.com/texas-self-storage/dallas-self-storage/3075.html
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 06:00-22:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/cubesmart-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1452803404 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

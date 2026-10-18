@@ -1,0 +1,23 @@
+Luminous Dental Studio is a dentist in Frisco, TX at 10710 Eldorado Parkway #160, Frisco, TX 75035. Phone: +14697315700. Website: https://myluminousdental.com/.
+
+# Luminous Dental Studio
+
+- Category: dentist
+- Services: dentist
+- Address: 10710 Eldorado Parkway #160, Frisco, TX 75035
+- City: Frisco
+- State: TX
+- ZIP: 75035
+- Coordinates: 33.1750723, -96.7867599
+- Phone: +14697315700
+- Website: https://myluminousdental.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo,We,Su off; Tu,Th 09:00-18:00; Fr 08:00-17:00; Sa 09:00-15:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/luminous-dental-studio-frisco/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/luminous-dental-studio-frisco.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6615231928 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Mattress Firm is a mattress store in Edina, MN at 3240 Southdale Circle, Edina, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/51857592 (license ODbL-1.0); source data as of 2026-06-01

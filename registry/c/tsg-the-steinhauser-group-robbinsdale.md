@@ -15,7 +15,7 @@ TSG | The Steinhauser Group is a marketing agency in Robbinsdale, MN at 4181 Wes
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tsg-the-steinhauser-group-robbinsdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tsg-the-steinhauser-group-robbinsdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/762930138 (license ODbL-1.0); source data as of 2026-05-31

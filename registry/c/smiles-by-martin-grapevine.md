@@ -1,0 +1,23 @@
+Smiles by Martin is a dentist in Grapevine, TX at 230 Park Boulevard #105, Grapevine, TX 76051. Phone: +18174811041. Website: https://www.smilesbymartin.com/.
+
+# Smiles by Martin
+
+- Category: dentist
+- Services: dentist
+- Address: 230 Park Boulevard #105, Grapevine, TX 76051
+- City: Grapevine
+- State: TX
+- ZIP: 76051
+- Coordinates: 32.9430049, -97.0989075
+- Phone: +18174811041
+- Website: https://www.smilesbymartin.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 07:30-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/smiles-by-martin-grapevine/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/smiles-by-martin-grapevine.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10228623448 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

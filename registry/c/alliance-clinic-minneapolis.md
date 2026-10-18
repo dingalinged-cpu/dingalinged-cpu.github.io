@@ -15,7 +15,7 @@ Alliance Clinic is an addiction treatment center in Minneapolis, MN at 3329 Univ
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/alliance-clinic-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/alliance-clinic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6332183218 (license ODbL-1.0); source data as of 2026-07-24

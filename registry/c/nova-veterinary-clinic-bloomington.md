@@ -15,7 +15,7 @@ Nova Veterinary Clinic is a veterinarian in Bloomington, MN at 9056 Penn Avenue 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nova-veterinary-clinic-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nova-veterinary-clinic-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12200020660 (license ODbL-1.0); source data as of 2026-07-24

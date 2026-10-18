@@ -1,0 +1,58 @@
+Keyword market for Tomball, TX: 45 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
+
+# Top keywords in Tomball, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage tomball tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/massage-tomball-tx/
+2. car wash tomball tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-tomball-tx/
+3. dentist tomball tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/dentist-tomball-tx/
+4. gym tomball tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/gym-tomball-tx/
+5. oil change tomball tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-tomball-tx/
+6. hair salon tomball tx | searches/mo 35,000 (est) | CPC $0.55 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hair-salon-tomball-tx/
+7. nail salon tomball tx | searches/mo 23,000 (est) | CPC $0.61 | value $14,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-tomball-tx/
+8. barber shop tomball tx | searches/mo 16,000 (est) | CPC $0.70 | value $11,000 | Google Ads equiv $640/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/barber-shop-tomball-tx/
+9. mechanic tomball tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/mechanic-tomball-tx/
+10. tire shop tomball tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tire-shop-tomball-tx/
+11. vet tomball tx | searches/mo 13,000 (est) | CPC $4.06 | value $53,000 | Google Ads equiv $3,500/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/vet-tomball-tx/
+12. haircut tomball tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-tomball-tx/
+13. auto repair tomball tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/auto-repair-tomball-tx/
+14. roofing contractor tomball tx | searches/mo 3,100 (est) | CPC $11.79 | value $37,000 | Google Ads equiv $2,300/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-tomball-tx/
+15. insurance agency tomball tx | searches/mo 2,100 (est) | CPC $3.39 | value $7,100 | Google Ads equiv $590/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-tomball-tx/
+
+## By CPC
+1. hvac repair tomball tx | searches/mo 1,700 (est) | CPC $17.76 | value $30,000 | Google Ads equiv $1,900/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-tomball-tx/
+2. roofing contractor tomball tx | searches/mo 3,100 (est) | CPC $11.79 | value $37,000 | Google Ads equiv $2,300/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-tomball-tx/
+3. roofer tomball tx | searches/mo 1,100 (est) | CPC $10.70 | value $12,000 | Google Ads equiv $750/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofer-tomball-tx/
+4. attorney tomball tx | searches/mo 1,700 (est) | CPC $9.87 | value $17,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/attorney-tomball-tx/
+5. lawyer tomball tx | searches/mo 1,100 (est) | CPC $9.87 | value $11,000 | Google Ads equiv $650/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/lawyer-tomball-tx/
+6. heating and air tomball tx | searches/mo 83.00 (est) | CPC $8.33 | value $690 | Google Ads equiv $44.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/heating-and-air-tomball-tx/
+7. storage units tomball tx | searches/mo 5,100 (est) | CPC $8.33 | value $42,000 | Google Ads equiv $2,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/storage-units-tomball-tx/
+8. bakery tomball tx | searches/mo 5,100 (est) | CPC $7.17 | value $37,000 | Google Ads equiv $2,800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/bakery-tomball-tx/
+9. event venues tomball tx | searches/mo 5,100 (est) | CPC $7.17 | value $37,000 | Google Ads equiv $2,800/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/event-venues-tomball-tx/
+10. martial arts tomball tx | searches/mo 6,900 (est) | CPC $6.17 | value $43,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/martial-arts-tomball-tx/
+11. assisted living tomball tx | searches/mo 5,100 (est) | CPC $4.76 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/assisted-living-tomball-tx/
+12. dermatologist tomball tx | searches/mo 5,100 (est) | CPC $4.76 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dermatologist-tomball-tx/
+13. family doctor tomball tx | searches/mo 770 (est) | CPC $4.76 | value $3,700 | Google Ads equiv $250/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/family-doctor-tomball-tx/
+14. pediatrician tomball tx | searches/mo 2,100 (est) | CPC $4.76 | value $10,000 | Google Ads equiv $670/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pediatrician-tomball-tx/
+15. primary care physician tomball tx | searches/mo 630 (est) | CPC $4.76 | value $3,000 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/primary-care-physician-tomball-tx/
+
+## By value (searches x CPC)
+1. massage tomball tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/massage-tomball-tx/
+2. dentist tomball tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/dentist-tomball-tx/
+3. car wash tomball tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-tomball-tx/
+4. oil change tomball tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-tomball-tx/
+5. gym tomball tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/gym-tomball-tx/
+6. mechanic tomball tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/mechanic-tomball-tx/
+7. tire shop tomball tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tire-shop-tomball-tx/
+8. vet tomball tx | searches/mo 13,000 (est) | CPC $4.06 | value $53,000 | Google Ads equiv $3,500/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/vet-tomball-tx/
+9. haircut tomball tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-tomball-tx/
+10. roofing contractor tomball tx | searches/mo 3,100 (est) | CPC $11.79 | value $37,000 | Google Ads equiv $2,300/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-tomball-tx/
+11. auto repair tomball tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/auto-repair-tomball-tx/
+12. hvac repair tomball tx | searches/mo 1,700 (est) | CPC $17.76 | value $30,000 | Google Ads equiv $1,900/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-tomball-tx/
+13. hair salon tomball tx | searches/mo 35,000 (est) | CPC $0.55 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hair-salon-tomball-tx/
+14. attorney tomball tx | searches/mo 1,700 (est) | CPC $9.87 | value $17,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/attorney-tomball-tx/
+15. nail salon tomball tx | searches/mo 23,000 (est) | CPC $0.61 | value $14,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-tomball-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

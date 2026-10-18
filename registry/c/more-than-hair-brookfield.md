@@ -15,7 +15,7 @@ More Than Hair is a hair salon in Brookfield, IL at 9242 Broadway Avenue, Brookf
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/more-than-hair-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/more-than-hair-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9793701281 (license ODbL-1.0); source data as of 2026-06-01

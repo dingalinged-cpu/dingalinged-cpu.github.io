@@ -15,7 +15,7 @@ Kiddie Academy of Glenview is a preschool in Glenview, IL at 662 Waukegan Road, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kiddie-academy-of-glenview-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kiddie-academy-of-glenview-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1124024348 (license ODbL-1.0); source data as of 2026-07-28

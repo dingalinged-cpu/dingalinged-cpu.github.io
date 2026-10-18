@@ -1,0 +1,23 @@
+Scrub a Dub Car Wash is a car wash in Milwaukee, WI at 2930 West Capitol Drive, Milwaukee, WI 53216.
+
+# Scrub a Dub Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 2930 West Capitol Drive, Milwaukee, WI 53216
+- City: Milwaukee
+- State: WI
+- ZIP: 53216
+- Coordinates: 43.0903151, -87.9505159
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su 07:00-19:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/scrub-a-dub-car-wash-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/scrub-a-dub-car-wash-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/660325025 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

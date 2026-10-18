@@ -15,7 +15,7 @@ Cardinal Liquors is a liquor store in Arlington Heights, IL at South Arlington H
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cardinal-liquors-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cardinal-liquors-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13887695702 (license ODbL-1.0); source data as of 2026-06-01

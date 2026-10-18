@@ -15,7 +15,7 @@ Seven Seas Gift Shop is a gift shop in Riverside, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/seven-seas-gift-shop-riverside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/seven-seas-gift-shop-riverside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1373156340 (license ODbL-1.0); source data as of 2026-06-01

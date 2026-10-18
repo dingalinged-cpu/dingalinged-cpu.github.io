@@ -15,7 +15,7 @@ Tommy’s Express Car Wash is a car wash in Wheaton, IL at 2101 North Gary Avenu
 - Opening hours (OSM syntax): Mo-Su 07:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tommy-s-express-car-wash-wheaton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tommy-s-express-car-wash-wheaton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1466113223 (license ODbL-1.0); source data as of 2026-07-28

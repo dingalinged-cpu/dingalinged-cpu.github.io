@@ -15,7 +15,7 @@ Nenye E. Uche, Attorney at Law is a lawyer in Chicago, IL at 201 East Ohio Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nenye-e-uche-attorney-at-law-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nenye-e-uche-attorney-at-law-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3400023429 (license ODbL-1.0); source data as of 2026-07-28

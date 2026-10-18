@@ -15,7 +15,7 @@ Sanchez Barber Shop is a hair salon in Chicago, IL at 907 West Irving Park Road,
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sanchez-barber-shop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sanchez-barber-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10309701909 (license ODbL-1.0); source data as of 2026-06-01

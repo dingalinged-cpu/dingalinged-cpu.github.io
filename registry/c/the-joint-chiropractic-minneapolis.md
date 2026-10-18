@@ -15,7 +15,7 @@ The Joint Chiropractic is a chiropractor in Minneapolis, MN at 3208 Lake Street 
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 10:00-14:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6815703766 (license ODbL-1.0); source data as of 2026-06-01

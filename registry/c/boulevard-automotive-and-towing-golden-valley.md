@@ -15,7 +15,7 @@ Boulevard Automotive and Towing is an auto repair shop in Golden Valley, MN at 9
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/boulevard-automotive-and-towing-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/boulevard-automotive-and-towing-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4131163733 (license ODbL-1.0); source data as of 2026-06-01

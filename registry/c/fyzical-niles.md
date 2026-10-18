@@ -15,7 +15,7 @@ FYZICAL is a physical therapy clinic in Niles, IL at 9519 North Milwaukee Avenue
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fyzical-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fyzical-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6517626636 (license ODbL-1.0); source data as of 2026-07-28

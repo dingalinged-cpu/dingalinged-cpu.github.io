@@ -15,7 +15,7 @@ Minnesota Makers is a gift shop in Robbinsdale, MN at 4180 West Broadway Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/minnesota-makers-robbinsdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/minnesota-makers-robbinsdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7129066241 (license ODbL-1.0); source data as of 2026-06-01

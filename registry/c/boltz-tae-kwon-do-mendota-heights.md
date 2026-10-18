@@ -15,7 +15,7 @@ Boltz Tae Kwon Do is a gym in Mendota Heights, MN at 780 Plaza Drive, Mendota He
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/boltz-tae-kwon-do-mendota-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/boltz-tae-kwon-do-mendota-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/529046064 (license ODbL-1.0); source data as of 2026-07-15

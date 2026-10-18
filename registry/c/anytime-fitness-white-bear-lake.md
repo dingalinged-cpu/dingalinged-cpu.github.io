@@ -15,7 +15,7 @@ Anytime Fitness is a gym in White Bear Lake, MN at 4600 Centerville Road, White 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-white-bear-lake/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-white-bear-lake.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11461725870 (license ODbL-1.0); source data as of 2026-07-15

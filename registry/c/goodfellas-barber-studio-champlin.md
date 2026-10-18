@@ -15,7 +15,7 @@ Goodfellas Barber Studio is a hair salon in Champlin, MN at 518 Jefferson Highwa
 - Opening hours (OSM syntax): Tu-Th 10:00-19:00; Fr 9:00-19:00; Sa 10:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goodfellas-barber-studio-champlin/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodfellas-barber-studio-champlin.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9499571467 (license ODbL-1.0); source data as of 2026-06-01

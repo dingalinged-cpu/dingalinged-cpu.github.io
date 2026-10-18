@@ -15,7 +15,7 @@ Steve's Auto World is a car wash in Maple Grove, MN at 9871 Maple Grove Parkway,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/steves-auto-world-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/steves-auto-world-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/756962544 (license ODbL-1.0); source data as of 2026-07-24

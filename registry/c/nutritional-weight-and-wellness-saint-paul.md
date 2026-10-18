@@ -15,7 +15,7 @@ Nutritional Weight & Wellness is a therapy practice in Saint Paul, MN at 45 Snel
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nutritional-weight-and-wellness-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nutritional-weight-and-wellness-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/510471074 (license ODbL-1.0); source data as of 2026-06-01

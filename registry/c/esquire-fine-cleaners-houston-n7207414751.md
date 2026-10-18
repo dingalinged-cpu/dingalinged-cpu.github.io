@@ -1,0 +1,23 @@
+Esquire Fine Cleaners is a dry cleaner in Houston, TX at 5161 San Felipe Street, Houston, TX.
+
+# Esquire Fine Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 5161 San Felipe Street, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7490192, -95.466429
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/esquire-fine-cleaners-houston-n7207414751/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/esquire-fine-cleaners-houston-n7207414751.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7207414751 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

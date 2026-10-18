@@ -1,0 +1,58 @@
+Keyword market for Prosper, TX: 42 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+
+# Top keywords in Prosper, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage prosper tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-prosper-tx/
+2. car wash prosper tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-prosper-tx/
+3. dentist prosper tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-prosper-tx/
+4. gym prosper tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gym-prosper-tx/
+5. hair salon prosper tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hair-salon-prosper-tx/
+6. nail salon prosper tx | searches/mo 25,000 (est) | CPC $0.61 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/nail-salon-prosper-tx/
+7. barber shop prosper tx | searches/mo 17,000 (est) | CPC $0.70 | value $12,000 | Google Ads equiv $680/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/barber-shop-prosper-tx/
+8. mechanic prosper tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/mechanic-prosper-tx/
+9. tire shop prosper tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tire-shop-prosper-tx/
+10. vet prosper tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-prosper-tx/
+11. dog groomer prosper tx | searches/mo 11,000 (est) | CPC $4.06 | value $45,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-prosper-tx/
+12. haircut prosper tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/haircut-prosper-tx/
+13. auto repair prosper tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/auto-repair-prosper-tx/
+14. pilates prosper tx | searches/mo 7,500 (est) | CPC $6.17 | value $46,000 | Google Ads equiv $3,300/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-prosper-tx/
+15. chiropractor prosper tx | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-prosper-tx/
+
+## By CPC
+1. locksmith prosper tx | searches/mo 6,100 (est) | CPC $8.33 | value $51,000 | Google Ads equiv $3,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-prosper-tx/
+2. storage units prosper tx | searches/mo 5,500 (est) | CPC $8.33 | value $46,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/storage-units-prosper-tx/
+3. martial arts prosper tx | searches/mo 7,400 (est) | CPC $6.17 | value $46,000 | Google Ads equiv $3,300/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/martial-arts-prosper-tx/
+4. pilates prosper tx | searches/mo 7,500 (est) | CPC $6.17 | value $46,000 | Google Ads equiv $3,300/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-prosper-tx/
+5. music lessons prosper tx | searches/mo 990 (est) | CPC $4.81 | value $4,800 | Google Ads equiv $270/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/music-lessons-prosper-tx/
+6. preschool prosper tx | searches/mo 5,500 (est) | CPC $4.81 | value $26,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/preschool-prosper-tx/
+7. assisted living prosper tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/assisted-living-prosper-tx/
+8. chiropractor prosper tx | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-prosper-tx/
+9. dermatologist prosper tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dermatologist-prosper-tx/
+10. eye doctor prosper tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/eye-doctor-prosper-tx/
+11. family doctor prosper tx | searches/mo 820 (est) | CPC $4.76 | value $3,900 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/family-doctor-prosper-tx/
+12. pediatrician prosper tx | searches/mo 2,200 (est) | CPC $4.76 | value $10,000 | Google Ads equiv $700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pediatrician-prosper-tx/
+13. plastic surgeon prosper tx | searches/mo 820 (est) | CPC $4.76 | value $3,900 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plastic-surgeon-prosper-tx/
+14. primary care physician prosper tx | searches/mo 670 (est) | CPC $4.76 | value $3,200 | Google Ads equiv $210/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/primary-care-physician-prosper-tx/
+15. therapist prosper tx | searches/mo 5,500 (est) | CPC $4.76 | value $26,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/therapist-prosper-tx/
+
+## By value (searches x CPC)
+1. massage prosper tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-prosper-tx/
+2. dentist prosper tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-prosper-tx/
+3. car wash prosper tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-prosper-tx/
+4. gym prosper tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gym-prosper-tx/
+5. mechanic prosper tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/mechanic-prosper-tx/
+6. tire shop prosper tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tire-shop-prosper-tx/
+7. vet prosper tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-prosper-tx/
+8. locksmith prosper tx | searches/mo 6,100 (est) | CPC $8.33 | value $51,000 | Google Ads equiv $3,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-prosper-tx/
+9. pilates prosper tx | searches/mo 7,500 (est) | CPC $6.17 | value $46,000 | Google Ads equiv $3,300/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-prosper-tx/
+10. dog groomer prosper tx | searches/mo 11,000 (est) | CPC $4.06 | value $45,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-prosper-tx/
+11. haircut prosper tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/haircut-prosper-tx/
+12. auto repair prosper tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/auto-repair-prosper-tx/
+13. chiropractor prosper tx | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-prosper-tx/
+14. hair salon prosper tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hair-salon-prosper-tx/
+15. real estate agent prosper tx | searches/mo 5,000 (est) | CPC $3.61 | value $18,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-prosper-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

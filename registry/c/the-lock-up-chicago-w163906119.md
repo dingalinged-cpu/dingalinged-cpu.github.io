@@ -15,7 +15,7 @@ The Lock Up is a self-storage facility in Chicago, IL at 3366 North Kedzie Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-lock-up-chicago-w163906119/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-lock-up-chicago-w163906119.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163906119 (license ODbL-1.0); source data as of 2026-06-01

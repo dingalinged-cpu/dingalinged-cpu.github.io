@@ -15,7 +15,7 @@ S & S Tires & Service is a tire shop in Lake Station, IN at 233 Central Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/s-and-s-tires-and-service-lake-station/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/s-and-s-tires-and-service-lake-station.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4287568487 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ The UPS Store is a printing service in Glenview, IL at 2516 Waukegan Road, Glenv
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9416013381 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Magic Palace Banquet Hall is an event venue in Houston, TX at 1610 Dumble Street, Houston, TX.
+
+# Magic Palace Banquet Hall
+
+- Category: event venues
+- Services: event venues
+- Address: 1610 Dumble Street, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7340332, -95.3303269
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/magic-palace-banquet-hall-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/magic-palace-banquet-hall-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/378413483 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

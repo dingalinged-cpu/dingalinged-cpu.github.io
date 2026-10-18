@@ -15,7 +15,7 @@ Valvoline is an auto repair shop in Golden Valley, MN at 8950 Highway 55, Golden
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/valvoline-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/valvoline-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13205500496 (license ODbL-1.0); source data as of 2026-06-01

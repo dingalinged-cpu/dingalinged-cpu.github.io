@@ -15,7 +15,7 @@ Rainbow School Daycare is a daycare in Chicago, IL at 3250 West Irving Park Road
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rainbow-school-daycare-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rainbow-school-daycare-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6359896340 (license ODbL-1.0); source data as of 2026-07-28

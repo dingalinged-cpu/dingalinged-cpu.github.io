@@ -15,7 +15,7 @@ Surge Cycling is a gym in Saint Louis Park, MN at 5601 Wayzata Boulevard, Saint 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/surge-cycling-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/surge-cycling-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4119630617 (license ODbL-1.0); source data as of 2026-07-15

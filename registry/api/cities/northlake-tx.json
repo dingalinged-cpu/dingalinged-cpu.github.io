@@ -1,0 +1,249 @@
+{
+ "place": "Northlake, TX",
+ "slug": "northlake-tx",
+ "count": 7,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "daycare northlake tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-northlake-tx.json"
+  },
+  {
+   "keyword": "dentist northlake tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-northlake-tx.json"
+  },
+  {
+   "keyword": "eye doctor northlake tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-northlake-tx.json"
+  },
+  {
+   "keyword": "preschool northlake tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-northlake-tx.json"
+  },
+  {
+   "keyword": "real estate agent northlake tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-northlake-tx.json"
+  },
+  {
+   "keyword": "realtor northlake tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-northlake-tx.json"
+  },
+  {
+   "keyword": "vet northlake tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-northlake-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "pecan-square-by-hillwood-communities-northlake",
+   "name": "Pecan Square By Hillwood Communities",
+   "summary": "Pecan Square By Hillwood Communities is a real estate agency in Northlake, TX at 2701 N Mkt Sq Ln, Northlake, TX 76247. Phone: +18173983458. Website: https://www.pecansquarebyhillwood.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pecan-square-by-hillwood-communities-northlake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pecan-square-by-hillwood-communities-northlake.json",
+   "address": {
+    "streetAddress": "2701 N Mkt Sq Ln",
+    "addressLocality": "Northlake",
+    "addressRegion": "TX",
+    "postalCode": "76247",
+    "addressCountry": "US"
+   },
+   "city": "Northlake",
+   "state": "TX",
+   "zip": "76247",
+   "geo": {
+    "lat": 33.0933164,
+    "lon": -97.2495949
+   },
+   "phone": "+18173983458",
+   "website": "https://www.pecansquarebyhillwood.com/",
+   "opening_hours": "Mo-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12157618945",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "northlake-dental-studio-northlake",
+   "name": "Northlake Dental Studio",
+   "summary": "Northlake Dental Studio is a dentist in Northlake, TX at 6000 Cleveland Gibbs Road #600, Northlake, TX 76226.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northlake-dental-studio-northlake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northlake-dental-studio-northlake.json",
+   "address": {
+    "streetAddress": "6000 Cleveland Gibbs Road #600",
+    "addressLocality": "Northlake",
+    "addressRegion": "TX",
+    "postalCode": "76226",
+    "addressCountry": "US"
+   },
+   "city": "Northlake",
+   "state": "TX",
+   "zip": "76226",
+   "geo": {
+    "lat": 33.1305035,
+    "lon": -97.2376679
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13479604492",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "northlake-dentistry-northlake",
+   "name": "Northlake Dentistry",
+   "summary": "Northlake Dentistry is a dentist in Northlake, TX at 1500 Commons Circle #Suite 100, Northlake, TX 76226.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northlake-dentistry-northlake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northlake-dentistry-northlake.json",
+   "address": {
+    "streetAddress": "1500 Commons Circle #Suite 100",
+    "addressLocality": "Northlake",
+    "addressRegion": "TX",
+    "postalCode": "76226",
+    "addressCountry": "US"
+   },
+   "city": "Northlake",
+   "state": "TX",
+   "zip": "76226",
+   "geo": {
+    "lat": 33.1016987,
+    "lon": -97.2332337
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/826380512",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "northlake-family-eyecare-northlake",
+   "name": "Northlake Family EyeCare",
+   "summary": "Northlake Family EyeCare is an eye care practice in Northlake, TX at 1500 Commons Circle #Suite 200, Northlake, TX 76226.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northlake-family-eyecare-northlake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northlake-family-eyecare-northlake.json",
+   "address": {
+    "streetAddress": "1500 Commons Circle #Suite 200",
+    "addressLocality": "Northlake",
+    "addressRegion": "TX",
+    "postalCode": "76226",
+    "addressCountry": "US"
+   },
+   "city": "Northlake",
+   "state": "TX",
+   "zip": "76226",
+   "geo": {
+    "lat": 33.1016983,
+    "lon": -97.2330348
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/826380513",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-goddard-school-northlake",
+   "name": "The Goddard School",
+   "summary": "The Goddard School is a preschool in Northlake, TX at 7851 Cleveland Gibbs Road, Northlake, TX 76226.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-goddard-school-northlake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-goddard-school-northlake.json",
+   "address": {
+    "streetAddress": "7851 Cleveland Gibbs Road",
+    "addressLocality": "Northlake",
+    "addressRegion": "TX",
+    "postalCode": "76226",
+    "addressCountry": "US"
+   },
+   "city": "Northlake",
+   "state": "TX",
+   "zip": "76226",
+   "geo": {
+    "lat": 33.1024872,
+    "lon": -97.2341172
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/774734397",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "canyon-falls-vet-hospital-northlake",
+   "name": "Canyon Falls Vet Hospital",
+   "summary": "Canyon Falls Vet Hospital is a veterinarian in Northlake, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canyon-falls-vet-hospital-northlake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canyon-falls-vet-hospital-northlake.json",
+   "address": {
+    "addressLocality": "Northlake",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Northlake",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0658158,
+    "lon": -97.2184229
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1512105280",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kiddie-academy-northlake-northlake",
+   "name": "Kiddie Academy Northlake",
+   "summary": "Kiddie Academy Northlake is a daycare in Northlake, TX.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kiddie-academy-northlake-northlake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kiddie-academy-northlake-northlake.json",
+   "address": {
+    "addressLocality": "Northlake",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Northlake",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0663143,
+    "lon": -97.217845
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1512105279",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

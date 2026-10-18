@@ -15,7 +15,7 @@ Banfield Pet Hospital is a veterinarian in Saint Paul, MN at 2032 Ford Parkway, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/660909454 (license ODbL-1.0); source data as of 2026-07-24

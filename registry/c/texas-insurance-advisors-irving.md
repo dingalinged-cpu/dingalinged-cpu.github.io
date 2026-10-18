@@ -1,0 +1,23 @@
+Texas Insurance Advisors is an insurance agent in Irving, TX at 3585 North Belt Line Road, Irving, TX 75062. Phone: +19722561800. Website: https://mytexasagent.com/.
+
+# Texas Insurance Advisors
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 3585 North Belt Line Road, Irving, TX 75062
+- City: Irving
+- State: TX
+- ZIP: 75062
+- Coordinates: 32.8562379, -96.9940004
+- Phone: +19722561800
+- Website: https://mytexasagent.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/texas-insurance-advisors-irving/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/texas-insurance-advisors-irving.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13264394638 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

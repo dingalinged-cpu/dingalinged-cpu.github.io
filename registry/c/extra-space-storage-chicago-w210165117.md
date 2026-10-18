@@ -15,7 +15,7 @@ Extra Space Storage is a self-storage facility in Chicago, IL at 615 West Pershi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-chicago-w210165117/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-chicago-w210165117.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210165117 (license ODbL-1.0); source data as of 2026-06-01

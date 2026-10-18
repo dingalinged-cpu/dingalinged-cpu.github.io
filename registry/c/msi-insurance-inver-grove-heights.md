@@ -15,7 +15,7 @@ MSI Insurance is an insurance agent in Inver Grove Heights, MN at 6685 Cahill Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/msi-insurance-inver-grove-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/msi-insurance-inver-grove-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/490729737 (license ODbL-1.0); source data as of 2026-05-31

@@ -15,7 +15,7 @@ Mermaid Entertainment and Event Center is an event venue in Mounds View, MN at 2
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mermaid-entertainment-and-event-center-mounds-view/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mermaid-entertainment-and-event-center-mounds-view.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/268509776 (license ODbL-1.0); source data as of 2026-07-24

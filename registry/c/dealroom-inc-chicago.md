@@ -15,7 +15,7 @@ Dealroom, Inc. is an IT support company in Chicago, IL at 2045 West Grand Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dealroom-inc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dealroom-inc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12652343931 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Julianne Carrara DMD MS Limited is a dentist in Chicago, IL at 2551 North Clark 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/julianne-carrara-dmd-ms-limited-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/julianne-carrara-dmd-ms-limited-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2775389736 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Italian Tan is a tanning salon in Plymouth, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/italian-tan-plymouth/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/italian-tan-plymouth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4119782528 (license ODbL-1.0); source data as of 2026-06-01

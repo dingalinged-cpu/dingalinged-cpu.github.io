@@ -15,7 +15,7 @@ Home Team Training is a gym in Chicago, IL at 2154 West Montrose Avenue, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/home-team-training-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/home-team-training-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13160184001 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ All Pro Cleaners is a dry cleaner in Chicago, IL at 3054 West Armitage Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/all-pro-cleaners-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/all-pro-cleaners-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209406995 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ AFP Podiatry/ Dr. Phillip Forni is a podiatrist in Roselle, IL at 825 North Rose
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/afp-podiatry-dr-phillip-forni-roselle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/afp-podiatry-dr-phillip-forni-roselle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4728835744 (license ODbL-1.0); source data as of 2026-07-28

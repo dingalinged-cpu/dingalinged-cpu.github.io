@@ -15,7 +15,7 @@ Mulberrys Dry Cleaners and Laundry is a dry cleaner in Edina, MN at 5127 Gus You
 - Opening hours (OSM syntax): Mo-Fr 07:00-21:00; Sa 09:00-17:00; Su 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mulberrys-dry-cleaners-and-laundry-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mulberrys-dry-cleaners-and-laundry-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12272163242 (license ODbL-1.0); source data as of 2026-06-01

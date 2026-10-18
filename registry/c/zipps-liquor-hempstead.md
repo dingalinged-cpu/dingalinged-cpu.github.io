@@ -1,0 +1,23 @@
+Zipp's Liquor is a liquor store in Hempstead, TX.
+
+# Zipp's Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: Hempstead, TX
+- City: Hempstead
+- State: TX
+- ZIP: n/a
+- Coordinates: 30.1051166, -96.0784061
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/zipps-liquor-hempstead/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/zipps-liquor-hempstead.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12328835049 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

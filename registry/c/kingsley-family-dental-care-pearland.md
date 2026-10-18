@@ -1,0 +1,23 @@
+Kingsley Family Dental Care is a dentist in Pearland, TX.
+
+# Kingsley Family Dental Care
+
+- Category: dentist
+- Services: dentist
+- Address: Pearland, TX
+- City: Pearland
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.5556889, -95.4149353
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/kingsley-family-dental-care-pearland/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kingsley-family-dental-care-pearland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9466805044 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

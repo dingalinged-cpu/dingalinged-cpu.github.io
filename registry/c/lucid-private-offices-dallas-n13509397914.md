@@ -1,0 +1,23 @@
+Lucid Private Offices is a coworking space in Dallas, TX at 4131 North Central Expressway #Suite 900, Dallas, TX 75204. Phone: +12148313871. Website: https://www.lucidprivateoffices.com/texas/dallas/4131-n-central-expressway/.
+
+# Lucid Private Offices
+
+- Category: coworking space
+- Services: coworking space
+- Address: 4131 North Central Expressway #Suite 900, Dallas, TX 75204
+- City: Dallas
+- State: TX
+- ZIP: 75204
+- Coordinates: 32.8148206, -96.7906663
+- Phone: +12148313871
+- Website: https://www.lucidprivateoffices.com/texas/dallas/4131-n-central-expressway/
+- Email: Workisgood@lucidprivateoffices.com
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lucid-private-offices-dallas-n13509397914/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lucid-private-offices-dallas-n13509397914.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13509397914 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

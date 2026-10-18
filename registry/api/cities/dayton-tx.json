@@ -1,0 +1,107 @@
+{
+ "place": "Dayton, TX",
+ "slug": "dayton-tx",
+ "count": 3,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "dentist dayton tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-dayton-tx.json"
+  },
+  {
+   "keyword": "gym dayton tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-dayton-tx.json"
+  },
+  {
+   "keyword": "nail salon dayton tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-dayton-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "smile-club-dayton",
+   "name": "Smile Club",
+   "summary": "Smile Club is a dentist in Dayton, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smile-club-dayton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smile-club-dayton.json",
+   "address": {
+    "addressLocality": "Dayton",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Dayton",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0478728,
+    "lon": -94.8852872
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12212917049",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "snap-fitness-dayton",
+   "name": "Snap Fitness",
+   "summary": "Snap Fitness is a gym in Dayton, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snap-fitness-dayton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-dayton.json",
+   "address": {
+    "addressLocality": "Dayton",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Dayton",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0479784,
+    "lon": -94.8851208
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12212917048",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tommy-nails-dayton",
+   "name": "Tommy Nails",
+   "summary": "Tommy Nails is a nail salon in Dayton, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tommy-nails-dayton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tommy-nails-dayton.json",
+   "address": {
+    "addressLocality": "Dayton",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Dayton",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0477996,
+    "lon": -94.8853962
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12212917051",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

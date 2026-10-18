@@ -15,7 +15,7 @@ Konnerth Reality Group is a real estate agency in Wauconda, IL at North Main Str
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/konnerth-reality-group-wauconda/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/konnerth-reality-group-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9258853880 (license ODbL-1.0); source data as of 2026-07-28

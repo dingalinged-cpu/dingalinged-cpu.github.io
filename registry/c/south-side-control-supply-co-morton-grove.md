@@ -15,7 +15,7 @@ South Side Control Supply Co. is a HVAC contractor in Morton Grove, IL at 6010 W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/south-side-control-supply-co-morton-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/south-side-control-supply-co-morton-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6334537610 (license ODbL-1.0); source data as of 2026-06-01

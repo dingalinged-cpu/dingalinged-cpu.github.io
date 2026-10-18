@@ -15,7 +15,7 @@ Four Lakes Recreation / MHOA is a property management company in Lisle, IL at 60
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/four-lakes-recreation-mhoa-lisle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/four-lakes-recreation-mhoa-lisle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1460635454 (license ODbL-1.0); source data as of 2026-07-28

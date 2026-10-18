@@ -15,7 +15,7 @@ La Baguette Bakery is a bakery in Chicago, IL at 4741 North Kedzie Avenue, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-baguette-bakery-chicago-n6319879845/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-baguette-bakery-chicago-n6319879845.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6319879845 (license ODbL-1.0); source data as of 2026-06-01

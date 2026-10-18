@@ -15,7 +15,7 @@ Beautiful Morning Chicago is a bakery in Chicago, IL at 545 North Dearborn Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/beautiful-morning-chicago-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/beautiful-morning-chicago-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6265635739 (license ODbL-1.0); source data as of 2026-06-01

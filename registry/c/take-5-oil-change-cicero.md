@@ -15,7 +15,7 @@ Take 5 Oil Change is an auto repair shop in Cicero, IL at 2217 South Cicero Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-cicero/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-cicero.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1317963627 (license ODbL-1.0); source data as of 2026-06-01

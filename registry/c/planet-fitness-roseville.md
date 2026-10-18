@@ -15,7 +15,7 @@ Planet Fitness is a gym in Roseville, MN at 1750 State Highway 36 Service Drive,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5069728421 (license ODbL-1.0); source data as of 2026-07-15

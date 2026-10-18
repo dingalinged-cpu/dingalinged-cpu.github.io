@@ -15,7 +15,7 @@ Crate & Barrel is a furniture store in Skokie, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crate-and-barrel-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crate-and-barrel-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2423112139 (license ODbL-1.0); source data as of 2026-06-01

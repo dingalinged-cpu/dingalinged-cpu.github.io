@@ -15,7 +15,7 @@ Midas is an auto repair shop in Homewood, IL at 18070 Halsted Street, Homewood, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/midas-homewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/midas-homewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/930851981 (license ODbL-1.0); source data as of 2026-06-01

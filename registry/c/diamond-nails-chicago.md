@@ -15,7 +15,7 @@ Diamond Nails is a nail salon in Chicago, IL at 9019 South Commercial Avenue, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/diamond-nails-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/diamond-nails-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211361943 (license ODbL-1.0); source data as of 2026-06-01

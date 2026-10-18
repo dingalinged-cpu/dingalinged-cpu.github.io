@@ -15,7 +15,7 @@ Panaderia El Acambaro is a bakery in Chicago, IL at 1720 West 18th Street, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/panaderia-el-acambaro-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/panaderia-el-acambaro-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6324294699 (license ODbL-1.0); source data as of 2026-06-01

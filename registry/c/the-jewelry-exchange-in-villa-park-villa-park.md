@@ -15,7 +15,7 @@ The Jewelry Exchange in Villa Park is a jewelry store in Villa Park, IL at 501 E
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00; Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-jewelry-exchange-in-villa-park-villa-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-jewelry-exchange-in-villa-park-villa-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12695700801 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Life Healing Acupuncture is an acupuncture clinic in Oakbrook Terrace, IL at 17W
 - Opening hours (OSM syntax): Mo 10:00-18:00; Tu 11:00-16:00; We 11:00-18:00; Fr 10:00-17:00; Sa 11:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/life-healing-acupuncture-oakbrook-terrace/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/life-healing-acupuncture-oakbrook-terrace.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13598789256 (license ODbL-1.0); source data as of 2026-07-28

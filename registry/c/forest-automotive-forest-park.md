@@ -15,7 +15,7 @@ Forest Automotive is an auto repair shop in Forest Park, IL at 950 Des Plaines A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/forest-automotive-forest-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/forest-automotive-forest-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4203603897 (license ODbL-1.0); source data as of 2026-06-01

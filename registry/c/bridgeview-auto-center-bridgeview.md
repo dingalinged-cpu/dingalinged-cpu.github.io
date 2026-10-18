@@ -15,7 +15,7 @@ Bridgeview Auto Center is an auto repair shop in Bridgeview, IL at 9059 Harlem A
 - Opening hours (OSM syntax): Sa-Su CLOSED, Mo-Fr 07:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bridgeview-auto-center-bridgeview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bridgeview-auto-center-bridgeview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13776614834 (license ODbL-1.0); source data as of 2026-06-01

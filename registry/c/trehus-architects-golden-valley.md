@@ -15,7 +15,7 @@ TreHus Architects is a window installer in Golden Valley, MN at 4725 Olson Memor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/trehus-architects-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/trehus-architects-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/203683486 (license ODbL-1.0); source data as of 2026-07-24

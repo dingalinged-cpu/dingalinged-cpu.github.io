@@ -15,7 +15,7 @@ Barking Spot Bakery is a pet store in Chicago, IL at 131 North Clinton Street, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/barking-spot-bakery-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/barking-spot-bakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13322988706 (license ODbL-1.0); source data as of 2026-06-01

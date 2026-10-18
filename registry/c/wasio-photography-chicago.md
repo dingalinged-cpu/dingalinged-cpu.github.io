@@ -15,7 +15,7 @@ WASIO Photography is a photographer in Chicago, IL at 3318 West Wilson Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wasio-photography-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wasio-photography-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11642277232 (license ODbL-1.0); source data as of 2026-06-01

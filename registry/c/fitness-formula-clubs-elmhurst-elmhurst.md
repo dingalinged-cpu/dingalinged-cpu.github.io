@@ -15,7 +15,7 @@ Fitness Formula Clubs Elmhurst is a gym in Elmhurst, IL at 140 North Addison Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fitness-formula-clubs-elmhurst-elmhurst/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fitness-formula-clubs-elmhurst-elmhurst.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13850143178 (license ODbL-1.0); source data as of 2026-06-01

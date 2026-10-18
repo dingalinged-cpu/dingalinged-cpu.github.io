@@ -1,0 +1,23 @@
+The Vitality & Aesthetics Institute is a plastic surgeon in Houston, TX at 2603 Augusta Drive #Suite 1450, Houston, TX 77057. Website: https://tvaai.com/.
+
+# The Vitality & Aesthetics Institute
+
+- Category: plastic surgeon
+- Services: plastic surgeon, dermatologist
+- Address: 2603 Augusta Drive #Suite 1450, Houston, TX 77057
+- City: Houston
+- State: TX
+- ZIP: 77057
+- Coordinates: 29.7402267, -95.4822717
+- Phone: n/a
+- Website: https://tvaai.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-vitality-and-aesthetics-institute-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-vitality-and-aesthetics-institute-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13622727909 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

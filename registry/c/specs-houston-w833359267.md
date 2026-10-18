@@ -1,0 +1,23 @@
+Spec's is a liquor store in Houston, TX at 1900 South Shepherd Drive, Houston, TX.
+
+# Spec's
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1900 South Shepherd Drive, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7488221, -95.4111073
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/specs-houston-w833359267/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/specs-houston-w833359267.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/833359267 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Jiffy Lube is an auto repair shop in Calumet City, IL at 1450 Sibley Boulevard, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-calumet-city/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-calumet-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1317970878 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ MetroPet Animal Hospital is a veterinarian in Minneapolis, MN at 2603 Hennepin A
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/metropet-animal-hospital-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/metropet-animal-hospital-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4993586040 (license ODbL-1.0); source data as of 2026-07-24

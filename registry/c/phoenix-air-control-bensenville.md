@@ -15,7 +15,7 @@ Phoenix Air Control is a HVAC contractor in Bensenville, IL at 756 Birginal Driv
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/phoenix-air-control-bensenville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/phoenix-air-control-bensenville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10764872118 (license ODbL-1.0); source data as of 2026-06-01

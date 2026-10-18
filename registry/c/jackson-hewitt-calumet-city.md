@@ -15,7 +15,7 @@ Jackson Hewitt is a tax preparation service in Calumet City, IL at 515 Burnham A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-calumet-city/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-calumet-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1359893553 (license ODbL-1.0); source data as of 2026-07-28

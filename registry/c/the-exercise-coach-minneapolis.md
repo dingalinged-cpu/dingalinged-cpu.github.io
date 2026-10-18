@@ -15,7 +15,7 @@ The Exercise Coach is a gym in Minneapolis, MN at 4956 Xerxes Avenue South #Suit
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-exercise-coach-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-exercise-coach-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13020020617 (license ODbL-1.0); source data as of 2026-07-15

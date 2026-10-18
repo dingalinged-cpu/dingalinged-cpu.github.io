@@ -15,7 +15,7 @@ Hair Cuttery is a hair salon in Naperville, IL at 215 East Ogden Avenue #105, Na
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00, Sa 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hair-cuttery-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hair-cuttery-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1229586133 (license ODbL-1.0); source data as of 2026-06-01

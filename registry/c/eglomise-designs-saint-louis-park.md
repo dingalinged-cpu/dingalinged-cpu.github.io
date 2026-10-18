@@ -15,7 +15,7 @@ Eglomise Designs is a gift shop in Saint Louis Park, MN at 5701 36th Street West
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/eglomise-designs-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/eglomise-designs-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/147610264 (license ODbL-1.0); source data as of 2026-06-01

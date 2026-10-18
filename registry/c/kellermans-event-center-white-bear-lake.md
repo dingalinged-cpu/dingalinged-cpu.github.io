@@ -15,7 +15,7 @@ Kellerman's Event Center is an event venue in White Bear Lake, MN at 2222 4th St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kellermans-event-center-white-bear-lake/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kellermans-event-center-white-bear-lake.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/689401986 (license ODbL-1.0); source data as of 2026-07-24

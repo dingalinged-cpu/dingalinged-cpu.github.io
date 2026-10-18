@@ -15,7 +15,7 @@ Alex Used Cars is an used car dealer in Minneapolis, MN at 1619 Chicago Avenue S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/alex-used-cars-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/alex-used-cars-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/122795274 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Love From Minnesota is a gift shop in Falcon Heights, MN at 1663 Dan Patch Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/love-from-minnesota-falcon-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/love-from-minnesota-falcon-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/177770108 (license ODbL-1.0); source data as of 2026-06-01

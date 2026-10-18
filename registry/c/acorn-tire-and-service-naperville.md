@@ -15,7 +15,7 @@ Acorn Tire & Service is an auto repair shop in Naperville, IL at 275 East Ogden 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/acorn-tire-and-service-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/acorn-tire-and-service-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/240278819 (license ODbL-1.0); source data as of 2026-06-01

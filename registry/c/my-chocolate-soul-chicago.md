@@ -15,7 +15,7 @@ My Chocolate Soul is a bakery in Chicago, IL at 4442 North Broadway, Chicago, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/my-chocolate-soul-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/my-chocolate-soul-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6323015643 (license ODbL-1.0); source data as of 2026-06-01

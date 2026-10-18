@@ -15,7 +15,7 @@ Metro Dentalcare Chanhassen is a nail salon in Chanhassen, MN at 7806 Market Bou
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/metro-dentalcare-chanhassen-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/metro-dentalcare-chanhassen-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6391789948 (license ODbL-1.0); source data as of 2026-06-01

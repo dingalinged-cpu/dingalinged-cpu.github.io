@@ -15,7 +15,7 @@ Anthony Lullo's Hair Designs is a hair salon in Oak Park, IL at 721 South Boulev
 - Opening hours (OSM syntax): Tu,Th 09:00-20:00; Fr,Sa 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anthony-lullos-hair-designs-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anthony-lullos-hair-designs-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11348525437 (license ODbL-1.0); source data as of 2026-06-01

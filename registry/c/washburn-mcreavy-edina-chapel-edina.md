@@ -15,7 +15,7 @@ Washburn-McReavy Edina Chapel is a funeral home in Edina, MN.
 - Opening hours (OSM syntax): "by appointment"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-edina-chapel-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-edina-chapel-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/166549570 (license ODbL-1.0); source data as of 2026-06-01

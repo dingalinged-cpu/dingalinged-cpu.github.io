@@ -15,7 +15,7 @@ Bobbie Noonan's Child Care Center is a daycare in Homer Glen, IL at 13230, Homer
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bobbie-noonans-child-care-center-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bobbie-noonans-child-care-center-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/824406039 (license ODbL-1.0); source data as of 2026-07-28

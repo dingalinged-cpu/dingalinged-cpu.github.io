@@ -1,0 +1,23 @@
+Terry Bryant Accident & Injury Law is a lawyer in Houston, TX at 8584 Katy Freeway #100, Houston, TX 77024. Phone: +17139738888. Website: https://www.terrybryant.com/.
+
+# Terry Bryant Accident & Injury Law
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 8584 Katy Freeway #100, Houston, TX 77024
+- City: Houston
+- State: TX
+- ZIP: 77024
+- Coordinates: 29.7870113, -95.4978146
+- Phone: +17139738888
+- Website: https://www.terrybryant.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/terry-bryant-accident-and-injury-law-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/terry-bryant-accident-and-injury-law-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5117238052 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

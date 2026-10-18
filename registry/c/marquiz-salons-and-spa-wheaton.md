@@ -15,7 +15,7 @@ Marquiz Salons & Spa is a hair salon in Wheaton, IL at 222 West Front Street, Wh
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/marquiz-salons-and-spa-wheaton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/marquiz-salons-and-spa-wheaton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12701487685 (license ODbL-1.0); source data as of 2026-06-01

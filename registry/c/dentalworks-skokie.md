@@ -15,7 +15,7 @@ DentalWorks is a dentist in Skokie, IL at 9312 Skokie Boulevard, Skokie, IL 6007
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dentalworks-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dentalworks-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10731588939 (license ODbL-1.0); source data as of 2026-07-28

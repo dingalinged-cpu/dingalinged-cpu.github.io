@@ -15,7 +15,7 @@ Oak Mill Bakery is a bakery in Niles, IL at 8012 North Milwaukee Avenue, Niles, 
 - Opening hours (OSM syntax): Mo-We 10:00-19:00; Th-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oak-mill-bakery-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oak-mill-bakery-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5061290101 (license ODbL-1.0); source data as of 2026-06-01

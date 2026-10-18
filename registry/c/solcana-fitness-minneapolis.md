@@ -15,7 +15,7 @@ Solcana Fitness is a gym in Minneapolis, MN at 3016 Minnehaha Avenue, Minneapoli
 - Opening hours (OSM syntax): Mo-Su 06:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/solcana-fitness-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/solcana-fitness-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12329402560 (license ODbL-1.0); source data as of 2026-07-15

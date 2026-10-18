@@ -15,7 +15,7 @@ Quick Suds Car Wash is a car wash in Chicago, IL at 3200 West 115th Street, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/quick-suds-car-wash-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/quick-suds-car-wash-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/165045528 (license ODbL-1.0); source data as of 2026-07-28

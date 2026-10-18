@@ -1,0 +1,23 @@
+M&S Tailor is a tailor in Southlake, TX at 100 West Southlake Boulevard #170, Southlake, TX.
+
+# M&S Tailor
+
+- Category: tailor
+- Services: tailor
+- Address: 100 West Southlake Boulevard #170, Southlake, TX
+- City: Southlake
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.9426279, -97.1524769
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/m-and-s-tailor-southlake/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/m-and-s-tailor-southlake.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12148413426 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

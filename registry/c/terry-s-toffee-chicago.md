@@ -15,7 +15,7 @@ Terry’s Toffee is a bakery in Chicago, IL at 1009 West Armitage Avenue, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/terry-s-toffee-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/terry-s-toffee-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6304028714 (license ODbL-1.0); source data as of 2026-06-01

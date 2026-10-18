@@ -15,7 +15,7 @@ Chet's Liquor is a liquor store in Mendota Heights, MN at 974 Sibley Memorial Hi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chets-liquor-mendota-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chets-liquor-mendota-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/531594244 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Excel Driving School is a driving school in Naperville, IL at 412 West 5th Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/excel-driving-school-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/excel-driving-school-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8307889444 (license ODbL-1.0); source data as of 2026-07-28

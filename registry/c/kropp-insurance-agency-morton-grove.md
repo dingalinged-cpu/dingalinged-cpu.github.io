@@ -15,7 +15,7 @@ Kropp Insurance Agency is an insurance agent in Morton Grove, IL at 6300 Lincoln
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kropp-insurance-agency-morton-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kropp-insurance-agency-morton-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/669469182 (license ODbL-1.0); source data as of 2026-07-28

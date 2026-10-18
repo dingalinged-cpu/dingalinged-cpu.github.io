@@ -15,7 +15,7 @@ Home of Comfort Furniture is a furniture store in Minneapolis, MN at 2109 Nicoll
 - Opening hours (OSM syntax): Mo-Th 11:00-19:30; Fr 13:00-20:00; Sa,Su 12:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/home-of-comfort-furniture-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/home-of-comfort-furniture-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4617420632 (license ODbL-1.0); source data as of 2026-06-01

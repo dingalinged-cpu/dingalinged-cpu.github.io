@@ -15,7 +15,7 @@ Country Financial is an insurance agent in Alsip, IL at 12282 South Pulaski Road
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/country-financial-alsip/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/country-financial-alsip.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9642742861 (license ODbL-1.0); source data as of 2026-07-28

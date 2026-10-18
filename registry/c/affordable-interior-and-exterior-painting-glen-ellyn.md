@@ -15,7 +15,7 @@ Affordable Interior & Exterior Painting is a painting contractor in Glen Ellyn, 
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/affordable-interior-and-exterior-painting-glen-ellyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/affordable-interior-and-exterior-painting-glen-ellyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13774863233 (license ODbL-1.0); source data as of 2026-06-01

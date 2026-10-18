@@ -15,7 +15,7 @@ Banfield Pet Hospital is a veterinarian in Skokie, IL at 5485 West Touhy Avenue 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13161397114 (license ODbL-1.0); source data as of 2026-07-28

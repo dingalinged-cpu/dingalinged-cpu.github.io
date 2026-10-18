@@ -15,7 +15,7 @@ L&M Tax Services is a tax preparation service in Minneapolis, MN at 3129 Nicolle
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/l-and-m-tax-services-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/l-and-m-tax-services-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/99189890 (license ODbL-1.0); source data as of 2026-05-31

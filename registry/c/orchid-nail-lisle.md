@@ -15,7 +15,7 @@ Orchid Nail is a nail salon in Lisle, IL at 1600 Maple Avenue, Lisle, IL 60532. 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/orchid-nail-lisle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/orchid-nail-lisle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1422963998 (license ODbL-1.0); source data as of 2026-06-01

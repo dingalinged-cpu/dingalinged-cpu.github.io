@@ -15,7 +15,7 @@ Allstate - Martin Valdez is an insurance agent in Chicago, IL at 6206 West Diver
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:30-12:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-martin-valdez-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-martin-valdez-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12171116269 (license ODbL-1.0); source data as of 2026-07-28

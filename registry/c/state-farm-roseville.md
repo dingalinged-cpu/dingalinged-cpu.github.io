@@ -15,7 +15,7 @@ State Farm is an insurance agent in Roseville, MN at 1789 Lexington Avenue North
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7141984921 (license ODbL-1.0); source data as of 2026-05-31

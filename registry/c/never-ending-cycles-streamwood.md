@@ -15,7 +15,7 @@ Never Ending Cycles is a bike shop in Streamwood, IL at 1060 East Schaumburg Roa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/never-ending-cycles-streamwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/never-ending-cycles-streamwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7727136515 (license ODbL-1.0); source data as of 2026-06-01

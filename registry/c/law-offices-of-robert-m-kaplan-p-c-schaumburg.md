@@ -15,7 +15,7 @@ Law Offices of Robert M. Kaplan, P.C. is a lawyer in Schaumburg, IL at 1901 N. R
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/law-offices-of-robert-m-kaplan-p-c-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/law-offices-of-robert-m-kaplan-p-c-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6568928898 (license ODbL-1.0); source data as of 2026-07-28

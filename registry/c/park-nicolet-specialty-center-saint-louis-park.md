@@ -15,7 +15,7 @@ Park Nicolet Specialty Center is a plastic surgeon in Saint Louis Park, MN at 54
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/park-nicolet-specialty-center-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/park-nicolet-specialty-center-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/43306261 (license ODbL-1.0); source data as of 2026-07-24

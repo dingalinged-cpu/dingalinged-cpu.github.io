@@ -15,7 +15,7 @@ Emerald's Car Wash is a car wash in Romeoville, IL at 715 Independence Boulevard
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/emeralds-car-wash-romeoville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/emeralds-car-wash-romeoville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3192265640 (license ODbL-1.0); source data as of 2026-07-28

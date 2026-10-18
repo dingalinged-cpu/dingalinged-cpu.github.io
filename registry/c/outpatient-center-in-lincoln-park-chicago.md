@@ -15,7 +15,7 @@ Outpatient Center in Lincoln Park is a pediatrician in Chicago, IL at 2515 North
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/outpatient-center-in-lincoln-park-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/outpatient-center-in-lincoln-park-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210321576 (license ODbL-1.0); source data as of 2026-07-28

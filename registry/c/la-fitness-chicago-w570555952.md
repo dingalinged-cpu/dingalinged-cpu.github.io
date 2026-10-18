@@ -15,7 +15,7 @@ LA Fitness is a gym in Chicago, IL at 2620 West Pershing Road, Chicago, IL 60632
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-chicago-w570555952/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-chicago-w570555952.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/570555952 (license ODbL-1.0); source data as of 2026-06-01

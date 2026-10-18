@@ -15,7 +15,7 @@ Elm Chiropractic is a chiropractor in Elmhurst, IL at 475 South Spring Road, Elm
 - Opening hours (OSM syntax): Mo 09:00-19:00; Tu-Th 10:00-20:00; Fr-Sa 10:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elm-chiropractic-elmhurst/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elm-chiropractic-elmhurst.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5887350673 (license ODbL-1.0); source data as of 2026-07-28

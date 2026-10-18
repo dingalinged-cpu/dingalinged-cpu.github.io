@@ -15,7 +15,7 @@ Life Time is a gym in Lake Zurich, IL at 400 North Rand Road, Lake Zurich, IL 60
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/life-time-lake-zurich/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/life-time-lake-zurich.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1215594688 (license ODbL-1.0); source data as of 2026-06-01

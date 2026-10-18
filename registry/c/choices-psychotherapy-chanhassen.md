@@ -15,7 +15,7 @@ Choices Psychotherapy is a therapy practice in Chanhassen, MN at 7975 Stone Cree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/choices-psychotherapy-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/choices-psychotherapy-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6734428574 (license ODbL-1.0); source data as of 2026-06-01

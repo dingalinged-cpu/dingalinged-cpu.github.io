@@ -1,0 +1,23 @@
+Extra Space Storage is a self-storage facility in Dallas, TX at 19211 Preston Road, Dallas, TX.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 19211 Preston Road, Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0094954, -96.7959798
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-dallas-w469579057/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-dallas-w469579057.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/469579057 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

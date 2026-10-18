@@ -15,7 +15,7 @@ C. Insurance Agency is an insurance agent in Palatine, IL at 1858 North Rand Roa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/c-insurance-agency-palatine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/c-insurance-agency-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/722322561 (license ODbL-1.0); source data as of 2026-07-28

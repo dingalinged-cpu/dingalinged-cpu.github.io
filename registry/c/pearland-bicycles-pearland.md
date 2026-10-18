@@ -1,0 +1,23 @@
+Pearland Bicycles is a bike shop in Pearland, TX at 2819 Cullen Boulevard #112, Pearland, TX 77584. Phone: +12817412115. Website: https://www.pearlandbicycles.com/.
+
+# Pearland Bicycles
+
+- Category: bike shop
+- Services: bike shop
+- Address: 2819 Cullen Boulevard #112, Pearland, TX 77584
+- City: Pearland
+- State: TX
+- ZIP: 77584
+- Coordinates: 29.5573255, -95.3497048
+- Phone: +12817412115
+- Website: https://www.pearlandbicycles.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-18:00, Sa 10:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/pearland-bicycles-pearland/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pearland-bicycles-pearland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9814812814 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

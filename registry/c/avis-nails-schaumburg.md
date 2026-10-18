@@ -15,7 +15,7 @@ Avis Nails is a nail salon in Schaumburg, IL at 5 Woodfield Mall #G126, Schaumbu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/avis-nails-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/avis-nails-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5332459371 (license ODbL-1.0); source data as of 2026-06-01

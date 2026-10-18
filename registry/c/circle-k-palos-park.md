@@ -15,7 +15,7 @@ Circle K is a car wash in Palos Park, IL at 13056 South La Grange Road, Palos Pa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/circle-k-palos-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/circle-k-palos-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/233814667 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Central Hennepin Auto Body is an auto repair shop in Minneapolis, MN at 620 Henn
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/central-hennepin-auto-body-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/central-hennepin-auto-body-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/89531594 (license ODbL-1.0); source data as of 2026-06-01

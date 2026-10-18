@@ -15,7 +15,7 @@ H&R Block is a tax preparation service in Chicago, IL at 5817 South Archer Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/h-and-r-block-chicago-n8144849184/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-chicago-n8144849184.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8144849184 (license ODbL-1.0); source data as of 2026-07-28

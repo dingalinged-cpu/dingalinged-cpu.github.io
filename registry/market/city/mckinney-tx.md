@@ -1,0 +1,58 @@
+Keyword market for Mckinney, TX: 76 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+
+# Top keywords in Mckinney, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage mckinney tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/massage-mckinney-tx/
+2. urgent care mckinney tx | searches/mo 68,000 (est) | CPC $4.76 | value $320,000 | Google Ads equiv $22,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/urgent-care-mckinney-tx/
+3. car wash mckinney tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 16 | https://dingalinged-cpu.github.io/registry/k/car-wash-mckinney-tx/
+4. dentist mckinney tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 41 | https://dingalinged-cpu.github.io/registry/k/dentist-mckinney-tx/
+5. gym mckinney tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 19 | https://dingalinged-cpu.github.io/registry/k/gym-mckinney-tx/
+6. oil change mckinney tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/oil-change-mckinney-tx/
+7. hair salon mckinney tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 14 | https://dingalinged-cpu.github.io/registry/k/hair-salon-mckinney-tx/
+8. nail salon mckinney tx | searches/mo 25,000 (est) | CPC $0.61 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 12 | https://dingalinged-cpu.github.io/registry/k/nail-salon-mckinney-tx/
+9. barber shop mckinney tx | searches/mo 17,000 (est) | CPC $0.70 | value $12,000 | Google Ads equiv $680/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/barber-shop-mckinney-tx/
+10. mechanic mckinney tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 24 | https://dingalinged-cpu.github.io/registry/k/mechanic-mckinney-tx/
+11. tire shop mckinney tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/tire-shop-mckinney-tx/
+12. vet mckinney tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 11 | https://dingalinged-cpu.github.io/registry/k/vet-mckinney-tx/
+13. dog groomer mckinney tx | searches/mo 11,000 (est) | CPC $4.06 | value $45,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-mckinney-tx/
+14. haircut mckinney tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 19 | https://dingalinged-cpu.github.io/registry/k/haircut-mckinney-tx/
+15. auto repair mckinney tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 24 | https://dingalinged-cpu.github.io/registry/k/auto-repair-mckinney-tx/
+
+## By CPC
+1. hvac repair mckinney tx | searches/mo 1,800 (est) | CPC $17.76 | value $32,000 | Google Ads equiv $2,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-mckinney-tx/
+2. electrician mckinney tx | searches/mo 6,100 (est) | CPC $12.18 | value $74,000 | Google Ads equiv $4,700/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-mckinney-tx/
+3. roofing contractor mckinney tx | searches/mo 3,300 (est) | CPC $11.79 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-mckinney-tx/
+4. roofer mckinney tx | searches/mo 1,200 (est) | CPC $10.70 | value $13,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofer-mckinney-tx/
+5. attorney mckinney tx | searches/mo 1,800 (est) | CPC $9.87 | value $18,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/attorney-mckinney-tx/
+6. lawyer mckinney tx | searches/mo 1,200 (est) | CPC $9.87 | value $12,000 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/lawyer-mckinney-tx/
+7. flooring companies mckinney tx | searches/mo 450 (est) | CPC $8.33 | value $3,700 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-mckinney-tx/
+8. heating and air mckinney tx | searches/mo 89.00 (est) | CPC $8.33 | value $740 | Google Ads equiv $47.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/heating-and-air-mckinney-tx/
+9. locksmith mckinney tx | searches/mo 6,100 (est) | CPC $8.33 | value $51,000 | Google Ads equiv $3,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-mckinney-tx/
+10. storage units mckinney tx | searches/mo 5,500 (est) | CPC $8.33 | value $46,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 11 | https://dingalinged-cpu.github.io/registry/k/storage-units-mckinney-tx/
+11. bakery mckinney tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/bakery-mckinney-tx/
+12. event venues mckinney tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-mckinney-tx/
+13. florist mckinney tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/florist-mckinney-tx/
+14. dance studio mckinney tx | searches/mo 990 (est) | CPC $6.17 | value $6,100 | Google Ads equiv $440/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dance-studio-mckinney-tx/
+15. martial arts mckinney tx | searches/mo 7,400 (est) | CPC $6.17 | value $46,000 | Google Ads equiv $3,300/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/martial-arts-mckinney-tx/
+
+## By value (searches x CPC)
+1. massage mckinney tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/massage-mckinney-tx/
+2. urgent care mckinney tx | searches/mo 68,000 (est) | CPC $4.76 | value $320,000 | Google Ads equiv $22,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/urgent-care-mckinney-tx/
+3. dentist mckinney tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 41 | https://dingalinged-cpu.github.io/registry/k/dentist-mckinney-tx/
+4. car wash mckinney tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 16 | https://dingalinged-cpu.github.io/registry/k/car-wash-mckinney-tx/
+5. oil change mckinney tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/oil-change-mckinney-tx/
+6. gym mckinney tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 19 | https://dingalinged-cpu.github.io/registry/k/gym-mckinney-tx/
+7. electrician mckinney tx | searches/mo 6,100 (est) | CPC $12.18 | value $74,000 | Google Ads equiv $4,700/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-mckinney-tx/
+8. mechanic mckinney tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 24 | https://dingalinged-cpu.github.io/registry/k/mechanic-mckinney-tx/
+9. tire shop mckinney tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/tire-shop-mckinney-tx/
+10. vet mckinney tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 11 | https://dingalinged-cpu.github.io/registry/k/vet-mckinney-tx/
+11. locksmith mckinney tx | searches/mo 6,100 (est) | CPC $8.33 | value $51,000 | Google Ads equiv $3,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-mckinney-tx/
+12. pilates mckinney tx | searches/mo 7,500 (est) | CPC $6.17 | value $46,000 | Google Ads equiv $3,300/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/pilates-mckinney-tx/
+13. dog groomer mckinney tx | searches/mo 11,000 (est) | CPC $4.06 | value $45,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-mckinney-tx/
+14. haircut mckinney tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 19 | https://dingalinged-cpu.github.io/registry/k/haircut-mckinney-tx/
+15. roofing contractor mckinney tx | searches/mo 3,300 (est) | CPC $11.79 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-mckinney-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

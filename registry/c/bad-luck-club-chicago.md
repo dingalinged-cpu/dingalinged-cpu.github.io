@@ -15,7 +15,7 @@ Bad Luck Club is a gift shop in Chicago, IL at 2114 West Montrose Avenue, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bad-luck-club-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bad-luck-club-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13160175902 (license ODbL-1.0); source data as of 2026-06-01

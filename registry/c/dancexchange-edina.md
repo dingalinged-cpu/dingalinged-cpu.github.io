@@ -15,7 +15,7 @@ DanceXchange is a dance studio in Edina, MN at 6885 Washington Avenue South, Edi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dancexchange-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dancexchange-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8576731281 (license ODbL-1.0); source data as of 2026-07-15

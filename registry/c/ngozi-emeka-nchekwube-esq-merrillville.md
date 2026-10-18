@@ -15,7 +15,7 @@ Ngozi Emeka Nchekwube, ESQ is a lawyer in Merrillville, IN at 3608 West 80th Lan
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ngozi-emeka-nchekwube-esq-merrillville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ngozi-emeka-nchekwube-esq-merrillville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6194908688 (license ODbL-1.0); source data as of 2026-07-28

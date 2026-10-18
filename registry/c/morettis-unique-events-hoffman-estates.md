@@ -15,7 +15,7 @@ Moretti's Unique Events is an event venue in Hoffman Estates, IL at 2525 West Hi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/morettis-unique-events-hoffman-estates/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/morettis-unique-events-hoffman-estates.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/223782523 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+Jossi Lu House of Grooming is a dog groomer in Farmers Branch, TX at 2555 Valley View Lane, Farmers Branch, TX. Phone: +19722411106. Website: https://jossilu.com/.
+
+# Jossi Lu House of Grooming
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: 2555 Valley View Lane, Farmers Branch, TX
+- City: Farmers Branch
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.9243984, -96.8935736
+- Phone: +19722411106
+- Website: https://jossilu.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jossi-lu-house-of-grooming-farmers-branch/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jossi-lu-house-of-grooming-farmers-branch.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7724808641 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

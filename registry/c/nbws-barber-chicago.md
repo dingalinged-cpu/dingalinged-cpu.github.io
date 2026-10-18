@@ -15,7 +15,7 @@ NBWS Barber is a barber shop in Chicago, IL at 620 East 47th Street, Chicago, IL
 - Opening hours (OSM syntax): Mo-Su 09:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/nbws-barber-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/nbws-barber-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13420015988 (license ODbL-1.0); source data as of 2026-06-01

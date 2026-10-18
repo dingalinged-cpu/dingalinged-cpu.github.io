@@ -89,7 +89,7 @@
    "trust_score": 20.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/12797477692",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "allegra-alsip",
@@ -122,7 +122,7 @@
    "trust_score": 20.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1339880879",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "keegan-painting-alsip",
@@ -155,7 +155,7 @@
    "trust_score": 20.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/9665547596",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "sunnyview-landscaping-alsip",
@@ -188,7 +188,7 @@
    "trust_score": 20.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/13389205002",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "valvoline-alsip",
@@ -219,7 +219,7 @@
    "trust_score": 10.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1327946658",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "country-financial-alsip",
@@ -249,7 +249,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/9642742861",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "extra-space-storage-alsip",
@@ -279,7 +279,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1112557499",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "public-storage-alsip",
@@ -309,7 +309,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/9642742862",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "public-storage-alsip-n9642742871",
@@ -339,7 +339,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/9642742871",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "the-chateau-bu-sche-alsip",
@@ -369,7 +369,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/583769632",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "o2-fitness-and-nutrition-alsip",
@@ -396,7 +396,7 @@
    "trust_score": 0.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/9885731654",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   }
  ]
 }

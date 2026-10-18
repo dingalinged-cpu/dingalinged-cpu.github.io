@@ -15,7 +15,7 @@ The Center for Dental Excellence is a dentist in Flossmoor, IL at 19615 Governor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-center-for-dental-excellence-flossmoor/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-center-for-dental-excellence-flossmoor.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/769542460 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Champion Jiu Jitsu is a martial arts school in Arlington Heights, IL at 19 East 
 - Opening hours (OSM syntax): Mo-Fr 17:00-20:00; Fr 17:00-19:00; Sa,Fr 11:30-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/champion-jiu-jitsu-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/champion-jiu-jitsu-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11269040898 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+Primrose Copperfield is a daycare in Harris County, TX.
+
+# Primrose Copperfield
+
+- Category: daycare
+- Services: daycare
+- Address: Harris County, TX
+- City: Harris County
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.8870409, -95.642417
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/primrose-copperfield-harris-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/primrose-copperfield-harris-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1346985173 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

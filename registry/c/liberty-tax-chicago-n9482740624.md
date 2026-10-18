@@ -15,7 +15,7 @@ Liberty Tax is a tax preparation service in Chicago, IL at 7600 South Pulaski Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/liberty-tax-chicago-n9482740624/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/liberty-tax-chicago-n9482740624.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9482740624 (license ODbL-1.0); source data as of 2026-07-28

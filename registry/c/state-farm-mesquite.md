@@ -1,0 +1,23 @@
+State Farm is an insurance agent in Mesquite, TX at 225 West Cartwright Road, Mesquite, TX 75149.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 225 West Cartwright Road, Mesquite, TX 75149
+- City: Mesquite
+- State: TX
+- ZIP: 75149
+- Coordinates: 32.7473924, -96.5994108
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-mesquite/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-mesquite.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/706817357 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

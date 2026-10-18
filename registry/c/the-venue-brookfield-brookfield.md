@@ -15,7 +15,7 @@ The Venue Brookfield is an event venue in Brookfield, IL at 9109 Ogden Avenue, B
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-venue-brookfield-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-venue-brookfield-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12459185539 (license ODbL-1.0); source data as of 2026-07-28

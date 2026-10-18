@@ -15,7 +15,7 @@ Taxes On The Go is a tax preparation service in Chicago, IL at 5102 South Archer
 - Opening hours (OSM syntax): Mo-Su 10:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/taxes-on-the-go-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/taxes-on-the-go-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11384823809 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Hair Fair Ltd. is a hair salon in Minneapolis, MN at 3858 North Thomas Avenue, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hair-fair-ltd-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hair-fair-ltd-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11347302031 (license ODbL-1.0); source data as of 2026-06-01

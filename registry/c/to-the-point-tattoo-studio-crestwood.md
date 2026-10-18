@@ -15,7 +15,7 @@ To The Point Tattoo Studio is a tattoo shop in Crestwood, IL at 14142 Cicero Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/to-the-point-tattoo-studio-crestwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/to-the-point-tattoo-studio-crestwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8943902204 (license ODbL-1.0); source data as of 2026-06-01

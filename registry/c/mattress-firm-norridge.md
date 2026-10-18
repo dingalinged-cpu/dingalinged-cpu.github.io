@@ -15,7 +15,7 @@ Mattress Firm is a mattress store in Norridge, IL at 4311 North Harlem Avenue, N
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-norridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-norridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1303166622 (license ODbL-1.0); source data as of 2026-06-01

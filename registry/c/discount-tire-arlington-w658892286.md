@@ -1,0 +1,23 @@
+Discount Tire is a tire shop in Arlington, TX at 3704 South Cooper Street, Arlington, TX 76015. Phone: +18174687575.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 3704 South Cooper Street, Arlington, TX 76015
+- City: Arlington
+- State: TX
+- ZIP: 76015
+- Coordinates: 32.6854213, -97.1324347
+- Phone: +18174687575
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/discount-tire-arlington-w658892286/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-arlington-w658892286.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/658892286 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

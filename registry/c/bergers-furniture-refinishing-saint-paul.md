@@ -15,7 +15,7 @@ Berger's Furniture Refinishing is a furniture store in Saint Paul, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bergers-furniture-refinishing-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bergers-furniture-refinishing-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/605096351 (license ODbL-1.0); source data as of 2026-06-01

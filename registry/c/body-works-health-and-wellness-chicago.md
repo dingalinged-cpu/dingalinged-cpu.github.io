@@ -15,7 +15,7 @@ Body Works Health & Wellness is a chiropractor in Chicago, IL at 825 West Monroe
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/body-works-health-and-wellness-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/body-works-health-and-wellness-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12083386911 (license ODbL-1.0); source data as of 2026-07-28

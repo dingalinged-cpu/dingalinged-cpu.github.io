@@ -15,7 +15,7 @@ Freeway Insurance is an insurance agent in Oak Park, IL at 6419 West North Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/freeway-insurance-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/freeway-insurance-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12229655888 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Portage Auto Parts is an auto repair shop in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/portage-auto-parts-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/portage-auto-parts-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4090881281 (license ODbL-1.0); source data as of 2026-06-01

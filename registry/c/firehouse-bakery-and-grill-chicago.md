@@ -15,7 +15,7 @@ Firehouse Bakery & Grill is a bakery in Chicago, IL at 720 East 75th Street, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/firehouse-bakery-and-grill-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/firehouse-bakery-and-grill-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6290086956 (license ODbL-1.0); source data as of 2026-06-01

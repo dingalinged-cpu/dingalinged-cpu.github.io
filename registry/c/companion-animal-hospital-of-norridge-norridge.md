@@ -15,7 +15,7 @@ Companion Animal Hospital of Norridge is a veterinarian in Norridge, IL at 4321 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-of-norridge-norridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/companion-animal-hospital-of-norridge-norridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/878421849 (license ODbL-1.0); source data as of 2026-07-28

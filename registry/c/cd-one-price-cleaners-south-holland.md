@@ -15,7 +15,7 @@ CD One Price Cleaners is a dry cleaner in South Holland, IL at 350 East 162nd St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-south-holland/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cd-one-price-cleaners-south-holland.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12099634407 (license ODbL-1.0); source data as of 2026-06-01

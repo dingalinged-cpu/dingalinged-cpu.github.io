@@ -15,7 +15,7 @@ Anderson Funeral Home is a funeral home in Saint Paul, MN at 1401 Arcade Street,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anderson-funeral-home-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anderson-funeral-home-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/605096308 (license ODbL-1.0); source data as of 2026-06-01

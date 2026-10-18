@@ -15,7 +15,7 @@ Auto Spa Hand Car Wash is a car wash in Niles, IL at 6747 West Touhy Avenue, Nil
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/auto-spa-hand-car-wash-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/auto-spa-hand-car-wash-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1126655706 (license ODbL-1.0); source data as of 2026-07-28

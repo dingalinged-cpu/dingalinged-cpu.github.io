@@ -15,7 +15,7 @@ Quick Lane Tire & Auto Center is an auto repair shop in Roseville, MN at 2777 Sn
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-15:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/quick-lane-tire-and-auto-center-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/quick-lane-tire-and-auto-center-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8497171163 (license ODbL-1.0); source data as of 2026-06-01

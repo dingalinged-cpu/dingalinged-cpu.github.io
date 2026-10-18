@@ -15,7 +15,7 @@ Optimum Orthodontics is a dentist in Naperville, IL at 129 North Washington Stre
 - Opening hours (OSM syntax): Mo 13:00-18:00; Tu, Fr 08:30-18:00; Sa 08:30-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/optimum-orthodontics-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/optimum-orthodontics-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/201524433 (license ODbL-1.0); source data as of 2026-07-28

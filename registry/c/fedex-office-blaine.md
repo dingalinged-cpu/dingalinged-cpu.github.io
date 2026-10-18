@@ -15,7 +15,7 @@ FedEx Office is a printing service in Blaine, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fedex-office-blaine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-blaine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6926007125 (license ODbL-1.0); source data as of 2026-06-01

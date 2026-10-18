@@ -15,7 +15,7 @@ Fullmer Locksmith is a locksmith in North Riverside, IL at 8611 Cermak Road, Nor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fullmer-locksmith-north-riverside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fullmer-locksmith-north-riverside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1244211271 (license ODbL-1.0); source data as of 2026-06-01

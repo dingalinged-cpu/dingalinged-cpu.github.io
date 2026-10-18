@@ -15,7 +15,7 @@ Jiffy Lube is an auto repair shop in Naperville, IL at 944 West 75th Street, Nap
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-naperville-w161713215/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-naperville-w161713215.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/161713215 (license ODbL-1.0); source data as of 2026-06-01

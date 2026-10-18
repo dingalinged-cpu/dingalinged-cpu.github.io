@@ -15,7 +15,7 @@ LA Fitness is a gym in Oak Lawn, IL at 4081 West 95th Street, Oak Lawn, IL 60453
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13585783135 (license ODbL-1.0); source data as of 2026-06-01

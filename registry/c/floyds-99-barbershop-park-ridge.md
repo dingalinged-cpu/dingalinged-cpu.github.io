@@ -15,7 +15,7 @@ Floyd's 99 Barbershop is a hair salon in Park Ridge, IL at 742 Higgins Road, Par
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-park-ridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/floyds-99-barbershop-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13148126715 (license ODbL-1.0); source data as of 2026-06-01

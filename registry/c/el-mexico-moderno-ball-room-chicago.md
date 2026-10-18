@@ -15,7 +15,7 @@ El Mexico Moderno Ball Room is an event venue in Chicago, IL at 1645 North Cicer
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/el-mexico-moderno-ball-room-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/el-mexico-moderno-ball-room-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162385705 (license ODbL-1.0); source data as of 2026-07-28

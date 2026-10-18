@@ -1,0 +1,56 @@
+Keyword market for Fate, TX: 24 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+
+# Top keywords in Fate, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage fate tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-fate-tx/
+2. car wash fate tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-fate-tx/
+3. oil change fate tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-fate-tx/
+4. hair salon fate tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/hair-salon-fate-tx/
+5. mechanic fate tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/mechanic-fate-tx/
+6. haircut fate tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/haircut-fate-tx/
+7. auto repair fate tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/auto-repair-fate-tx/
+8. chiropractor fate tx | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-fate-tx/
+9. electrician fate tx | searches/mo 6,100 (est) | CPC $12.18 | value $74,000 | Google Ads equiv $4,700/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-fate-tx/
+10. brake repair fate tx | searches/mo 3,300 (est) | CPC $4.35 | value $14,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/brake-repair-fate-tx/
+11. insurance agency fate tx | searches/mo 2,200 (est) | CPC $3.39 | value $7,500 | Google Ads equiv $620/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-fate-tx/
+12. hvac repair fate tx | searches/mo 1,800 (est) | CPC $17.76 | value $32,000 | Google Ads equiv $2,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-fate-tx/
+13. insurance agents fate tx | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-fate-tx/
+14. insurance agent fate tx | searches/mo 1,000 (est) | CPC $3.39 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-fate-tx/
+
+## By CPC
+1. hvac repair fate tx | searches/mo 1,800 (est) | CPC $17.76 | value $32,000 | Google Ads equiv $2,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-fate-tx/
+2. electrician fate tx | searches/mo 6,100 (est) | CPC $12.18 | value $74,000 | Google Ads equiv $4,700/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-fate-tx/
+3. heating and air fate tx | searches/mo 89.00 (est) | CPC $8.33 | value $740 | Google Ads equiv $47.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/heating-and-air-fate-tx/
+4. storage units fate tx | searches/mo 5,500 (est) | CPC $8.33 | value $46,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/storage-units-fate-tx/
+5. preschool fate tx | searches/mo 5,500 (est) | CPC $4.81 | value $26,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/preschool-fate-tx/
+6. chiropractor fate tx | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-fate-tx/
+7. haircut fate tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/haircut-fate-tx/
+8. massage fate tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-fate-tx/
+9. auto repair fate tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/auto-repair-fate-tx/
+10. brake repair fate tx | searches/mo 3,300 (est) | CPC $4.35 | value $14,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/brake-repair-fate-tx/
+11. car wash fate tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-fate-tx/
+12. mechanic fate tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/mechanic-fate-tx/
+13. oil change fate tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-fate-tx/
+14. boutique fate tx | searches/mo 3,500 (est) | CPC $4.14 | value $14,000 | Google Ads equiv $1,300/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/boutique-fate-tx/
+15. liquor store fate tx | searches/mo 3,500 (est) | CPC $4.14 | value $14,000 | Google Ads equiv $1,300/mo | our featured min $10/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/liquor-store-fate-tx/
+
+## By value (searches x CPC)
+1. massage fate tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-fate-tx/
+2. car wash fate tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-fate-tx/
+3. oil change fate tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-fate-tx/
+4. electrician fate tx | searches/mo 6,100 (est) | CPC $12.18 | value $74,000 | Google Ads equiv $4,700/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-fate-tx/
+5. mechanic fate tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/mechanic-fate-tx/
+6. haircut fate tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/haircut-fate-tx/
+7. auto repair fate tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/auto-repair-fate-tx/
+8. hvac repair fate tx | searches/mo 1,800 (est) | CPC $17.76 | value $32,000 | Google Ads equiv $2,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-fate-tx/
+9. chiropractor fate tx | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-fate-tx/
+10. hair salon fate tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/hair-salon-fate-tx/
+11. brake repair fate tx | searches/mo 3,300 (est) | CPC $4.35 | value $14,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/brake-repair-fate-tx/
+12. insurance agency fate tx | searches/mo 2,200 (est) | CPC $3.39 | value $7,500 | Google Ads equiv $620/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-fate-tx/
+13. insurance agents fate tx | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-fate-tx/
+14. insurance agent fate tx | searches/mo 1,000 (est) | CPC $3.39 | value $3,400 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-fate-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

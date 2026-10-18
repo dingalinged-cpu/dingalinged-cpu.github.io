@@ -15,7 +15,7 @@ Ashley HomeStore is a furniture store in Downers Grove, IL at 2900 Highland Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ashley-homestore-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/132056830 (license ODbL-1.0); source data as of 2026-06-01

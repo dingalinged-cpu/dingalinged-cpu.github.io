@@ -15,7 +15,7 @@ A&V Family Hair Care is a hair salon in Mount Prospect, IL at 207 South Emerson 
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/a-and-v-family-hair-care-mount-prospect/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-and-v-family-hair-care-mount-prospect.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/673004999 (license ODbL-1.0); source data as of 2026-06-01

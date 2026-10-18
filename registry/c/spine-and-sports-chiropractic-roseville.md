@@ -15,7 +15,7 @@ Spine & Sports Chiropractic is a chiropractor in Roseville, MN at 2216 County Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/spine-and-sports-chiropractic-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/spine-and-sports-chiropractic-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4605418765 (license ODbL-1.0); source data as of 2026-06-01

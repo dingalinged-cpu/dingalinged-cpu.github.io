@@ -15,7 +15,7 @@ Grand Performance is a bike shop in Saint Paul, MN at 1938 Grand Avenue, Saint P
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/grand-performance-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/grand-performance-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/172673837 (license ODbL-1.0); source data as of 2026-06-01

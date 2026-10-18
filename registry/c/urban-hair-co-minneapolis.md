@@ -15,7 +15,7 @@ Urban Hair Co is a hair salon in Minneapolis, MN at 4949 Xerxes Avenue South, Mi
 - Opening hours (OSM syntax): "by appointment"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/urban-hair-co-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/urban-hair-co-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1319945445 (license ODbL-1.0); source data as of 2026-06-01

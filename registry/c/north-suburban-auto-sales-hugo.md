@@ -15,7 +15,7 @@ North Suburban Auto Sales is an used car dealer in Hugo, MN at 14529 Forest Boul
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/north-suburban-auto-sales-hugo/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-suburban-auto-sales-hugo.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/488553727 (license ODbL-1.0); source data as of 2026-06-01

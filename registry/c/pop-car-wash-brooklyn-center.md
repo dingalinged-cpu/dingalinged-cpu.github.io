@@ -15,7 +15,7 @@ Pop! Car Wash is a car wash in Brooklyn Center, MN at 1080 Shingle Creek Crossin
 - Opening hours (OSM syntax): Mo-Fr 07:30-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pop-car-wash-brooklyn-center/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pop-car-wash-brooklyn-center.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1031050894 (license ODbL-1.0); source data as of 2026-07-24

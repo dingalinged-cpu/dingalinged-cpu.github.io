@@ -15,7 +15,7 @@ Transomatic is an auto repair shop in Des Plaines, IL at 1500 Rand Road, Des Pla
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/transomatic-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/transomatic-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/668018453 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,4 +1,4 @@
-The top unpaid daycare listing for the United States is Child's World Academic Inc. (a daycare in Chicago, IL at 6730 South Indiana Avenue, Chicago, IL 60637. Phone: +17732244147. Website: https://childsworldacademic.com/). 187 daycare businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for the United States is A Mother's Heart Learning Center (a daycare in West Allis, WI at 1700 South 60th Street, West Allis, WI 53214. Phone: +14143778007. Website: https://amhlc-wi.com/). 462 daycare businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in the United States?
 
@@ -6,204 +6,202 @@ Also answers: daycare in the United States; daycare near me (the United States);
 
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
-1. Child's World Academic Inc. | trust 20.0 | Child's World Academic Inc. is a daycare in Chicago, IL at 6730 South Indiana Avenue, Chicago, IL 60637. Phone: +17732244147. Website: https://childsworldacademic.com/. | https://dingalinged-cpu.github.io/registry/c/childs-world-academic-inc-chicago/
-2. Kinder Academy Daycare | trust 20.0 | Kinder Academy Daycare is a daycare in Chicago, IL at 5939 West Irving Park Road, Chicago, IL 60634. Phone: +17739992466. Website: https://kinderusa.net/. | https://dingalinged-cpu.github.io/registry/c/kinder-academy-daycare-chicago/
-3. LadyBug and Friends Daycare & Preschool | trust 20.0 | LadyBug and Friends Daycare & Preschool is a daycare in Chicago, IL at 336 South Halsted Street, Chicago, IL 60661. Phone: +13124963549. Website: https://ladybug-daycare.com/locations/west-loop/. | https://dingalinged-cpu.github.io/registry/c/ladybug-and-friends-daycare-and-preschool-chicago/
-4. Little Newtons | trust 20.0 | Little Newtons is a daycare in Champlin, MN at 111 Dean Avenue West, Champlin, MN 55316. Phone: +17633231021. Website: https://littlenewtons.com/. | https://dingalinged-cpu.github.io/registry/c/little-newtons-champlin/
-5. Montessori Gifted Prep | trust 20.0 | Montessori Gifted Prep is a daycare in Chicago, IL at 2200 West Giddings Street, Chicago, IL 60625. Phone: +17732937794. Website: https://www.montessorigiftedprep.org/. | https://dingalinged-cpu.github.io/registry/c/montessori-gifted-prep-chicago/
-6. New Creations Child Care & Learning Center | trust 20.0 | New Creations Child Care & Learning Center is a daycare in Maple Grove, MN at 9827 Maple Grove Parkway, Maple Grove, MN 55369. Phone: +17633167101. Website: https://www.newcreationschildcare.com/maple-grove. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-maple-grove/
-7. New Creations Child Care & Learning Center | trust 20.0 | New Creations Child Care & Learning Center is a daycare in Maple Grove, MN at 18655 73rd Avenue North, Maple Grove, MN 55311. Phone: +17633389990. Website: https://www.newcreationschildcare.com/rush-creek. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-maple-grove-n11032385105/
-8. New Creations Child Care & Learning Center | trust 20.0 | New Creations Child Care & Learning Center is a daycare in Saint Paul, MN at 877 Jefferson Avenue, Saint Paul, MN 55102. Phone: +16512023046. Website: https://www.newcreationschildcare.com/st-paul. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-saint-paul/
-9. New Creations Child Care & Learning Center | Blaine | trust 20.0 | New Creations Child Care & Learning Center | Blaine is a daycare in Blaine, MN at 12267 Aberdeen Street Northeast, Blaine, MN 55449. Phone: +17634475659. Website: https://www.newcreationschildcare.com/blaine. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-blaine-blaine/
-10. New Creations Child Care & Learning Center | Blaine (at Lexington) | trust 20.0 | New Creations Child Care & Learning Center | Blaine (at Lexington) is a daycare in Blaine, MN at 10301 Lexington Avenue Northeast, Blaine, MN 55014. Phone: +17636570387. Website: https://www.newcreationschildcare.com/blaine-at-lexington. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-blaine-at-lexington-blaine/
-11. New Creations Child Care & Learning Center | Brooklyn Park | trust 20.0 | New Creations Child Care & Learning Center | Brooklyn Park is a daycare in Brooklyn Park, MN at 4500 Oak Grove Parkway, Brooklyn Park, MN 55443. Phone: +17632271304. Website: https://www.newcreationschildcare.com/brooklyn-park. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-brooklyn-park-brooklyn-park/
-12. New Creations Child Care & Learning Center | Coon Rapids | trust 20.0 | New Creations Child Care & Learning Center | Coon Rapids is a daycare in Coon Rapids, MN at 1805 Gateway Drive Northwest, Coon Rapids, MN 55448. Phone: +17636001335. Website: https://www.newcreationschildcare.com/riverdale. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-coon-rapids-coon-rapids/
-13. New Creations Child Care & Learning Center | Hugo | trust 20.0 | New Creations Child Care & Learning Center | Hugo is a daycare in Hugo, MN at 5448 140th Street North, Hugo, MN 55038. Phone: +16514293555. Website: https://www.newcreationschildcare.com/hugo. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-hugo-hugo/
-14. New Creations Child Care & Learning Center | Lino Lakes | trust 20.0 | New Creations Child Care & Learning Center | Lino Lakes is a daycare in Lino Lakes, MN at 620 Town Center Parkway, Lino Lakes, MN 55014. Phone: +16518083143. Website: https://www.newcreationschildcare.com/lino-lakes. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-lino-lakes-lino-lakes/
-15. New Creations Child Care & Learning Center | Ramsey | trust 20.0 | New Creations Child Care & Learning Center | Ramsey is a daycare in Ramsey, MN at 5400 140th Avenue Northwest, Ramsey, MN 55303. Phone: +17634344868. Website: https://www.newcreationschildcare.com/ramsey. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-ramsey-ramsey/
-16. New Creations Child Care & Learning Center | St. Michael | trust 20.0 | New Creations Child Care & Learning Center | St. Michael is a daycare in Saint Michael, MN at 4120 Edgewood Drive Northeast, Saint Michael, MN 55376. Phone: +17637104723. Website: https://www.newcreationschildcare.com/st-michael. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-st-michael-saint-michael/
-17. Rhode Island KinderCare | trust 20.0 | Rhode Island KinderCare is a daycare in Bloomington, MN at 10801 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529417817. Website: https://www.kindercare.com/our-centers/bloomington/mn/301201. | https://dingalinged-cpu.github.io/registry/c/rhode-island-kindercare-bloomington/
-18. Sonnets Academy | trust 20.0 | Sonnets Academy is a daycare in Chicago, IL at 229 South Peoria Street, Chicago, IL 60607. Phone: +13127337580. Website: https://www.sonnetsacademy.com/westloop. | https://dingalinged-cpu.github.io/registry/c/sonnets-academy-chicago/
-19. Tierra Encantada | trust 20.0 | Tierra Encantada is a daycare in Minneapolis, MN at 4012 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127220509. Website: https://www.tierraencantada.com/hiawatha. | https://dingalinged-cpu.github.io/registry/c/tierra-encantada-minneapolis/
-20. iLearn Center | trust 19.0 | iLearn Center is a daycare in Chicago, IL at 1801 West Chicago Avenue, Chicago, IL. Phone: +13128889983. Website: https://www.ilearncenter.com/. | https://dingalinged-cpu.github.io/registry/c/ilearn-center-chicago/
-21. Promiseland Learning Center | trust 19.0 | Promiseland Learning Center is a daycare in Chicago, IL at 6203-6205 West Montrose Avenue, Chicago, IL. Phone: +17736856121. Website: https://promiselandlearning.com/. | https://dingalinged-cpu.github.io/registry/c/promiseland-learning-center-chicago/
-22. Alive Teen Center | trust 16.0 | Alive Teen Center is a daycare in Naperville, IL at 500 West 5th Avenue, Naperville, IL 60563. Phone: +16307786093. Website: https://www.alivecenter.org/. | https://dingalinged-cpu.github.io/registry/c/alive-teen-center-naperville/
-23. All Saints Catholic Academy | trust 16.0 | All Saints Catholic Academy is a daycare in Naperville, IL at 1155 Aurora Avenue, Naperville, IL 60540. Phone: +16309616125. Website: https://ascacademy.org/. | https://dingalinged-cpu.github.io/registry/c/all-saints-catholic-academy-naperville/
-24. Central Care for Children | trust 16.0 | Central Care for Children is a daycare in Minneapolis, MN at 2015 Nicollet Avenue, Minneapolis, MN 55404. Phone: +16128726788. Website: https://www.centralcareforchildren.org/. | https://dingalinged-cpu.github.io/registry/c/central-care-for-children-minneapolis/
-25. Como Early Learning Center | trust 16.0 | Como Early Learning Center is a daycare in Minneapolis, MN at 1024 27th Avenue SE, Minneapolis, MN 55414. Phone: +16123318340. Website: https://comoelc.com/. | https://dingalinged-cpu.github.io/registry/c/como-early-learning-center-minneapolis/
-26. Crème de la Crème | trust 16.0 | Crème de la Crème is a daycare in Warrenville, IL at 4625 Weaver Parkway, Warrenville, IL 60555. Phone: +16303134956. Website: https://cremedelacreme.com/locations/warrenville-naperville-il/. | https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-warrenville/
-27. Cuddle Care Academy | trust 16.0 | Cuddle Care Academy is a daycare in Chicago, IL at 4800 South Lake Park Avenue, Chicago, IL 60615. Phone: +17732851114. Website: https://cuddlecarechicago.com/. | https://dingalinged-cpu.github.io/registry/c/cuddle-care-academy-chicago/
-28. Happy Days Child Care Center | trust 16.0 | Happy Days Child Care Center is a daycare in South Holland, IL at 831 East 162nd Street, South Holland, IL 60473. Phone: +17085964848. Website: https://happydayschildcarecenter.org/. | https://dingalinged-cpu.github.io/registry/c/happy-days-child-care-center-south-holland/
-29. Harkness House | trust 16.0 | Harkness House is a daycare in Winnetka, IL at 630 Lincoln Avenue, Winnetka, IL 60093. Phone: +18475012549. Website: https://www.harknesshouse.org/home. | https://dingalinged-cpu.github.io/registry/c/harkness-house-winnetka/
-30. Hattie's Daycare & Preschool | trust 16.0 | Hattie's Daycare & Preschool is a daycare in Gary, IN at 1108 Oklahoma Street, Gary, IN 46403. Phone: +12194846629. Website: https://hattiesdaycare.com/. | https://dingalinged-cpu.github.io/registry/c/hatties-daycare-and-preschool-gary/
-31. KidsPark Hourly Child Care | trust 16.0 | KidsPark Hourly Child Care is a daycare in Saint Paul, MN at 525 Pelham Boulevard, Saint Paul, MN 55104. Phone: +16516030144. Website: https://kidsparkchildcare.org/. | https://dingalinged-cpu.github.io/registry/c/kidspark-hourly-child-care-saint-paul/
-32. KLA Schools | trust 16.0 | KLA Schools is a daycare in Naperville, IL at 1440 Tuthill Road, Naperville, IL 60563. Phone: +16304482552. Website: https://www.klaschools.com/naperville. | https://dingalinged-cpu.github.io/registry/c/kla-schools-naperville/
-33. Linkage Childcare Center | trust 16.0 | Linkage Childcare Center is a daycare in Minneapolis, MN at 4653 Chicago Avenue, Minneapolis, MN 55407. Phone: +16125843672. Website: https://www.linkagechildcare.com/. | https://dingalinged-cpu.github.io/registry/c/linkage-childcare-center-minneapolis/
-34. Me & You Learning Academy | trust 16.0 | Me & You Learning Academy is a daycare in Chicago, IL at 11223 South Halsted Street, Chicago, IL 60628. Phone: +17735689000. Website: https://meandyouacademy.com/. | https://dingalinged-cpu.github.io/registry/c/me-and-you-learning-academy-chicago/
-35. PICA Head Start | trust 16.0 | PICA Head Start is a daycare in Golden Valley, MN at 4901 Olson Memorial Highway, Golden Valley, MN 55422. Phone: +17635417422. Website: https://www.picaheadstart.org/. | https://dingalinged-cpu.github.io/registry/c/pica-head-start-golden-valley/
-36. Rainbow Child Development Center | trust 16.0 | Rainbow Child Development Center is a daycare in Saint Paul, MN at 605 Como Avenue, Saint Paul, MN 55103. Phone: +16516465272. Website: https://www.rainbowchilddevcenter.com/. | https://dingalinged-cpu.github.io/registry/c/rainbow-child-development-center-saint-paul/
-37. Rainbow School Daycare | trust 16.0 | Rainbow School Daycare is a daycare in Chicago, IL at 3250 West Irving Park Road, Chicago, IL 60618. Phone: +17734788182. Website: https://www.nkrainbow.com/. | https://dingalinged-cpu.github.io/registry/c/rainbow-school-daycare-chicago/
-38. Ravenswood Manor Child Care | trust 16.0 | Ravenswood Manor Child Care is a daycare in Chicago, IL at 2758 West Montrose Avenue, Chicago, IL 60618. Phone: +17736048511. Website: https://www.ravenswoodmanorchildcare.com/. | https://dingalinged-cpu.github.io/registry/c/ravenswood-manor-child-care-chicago/
-39. River Valley Montessori & Child Care | trust 16.0 | River Valley Montessori & Child Care is a daycare in Shakopee, MN at 110 Prairie Street North, Shakopee, MN 55379. Phone: +19522224044. Website: https://rivervalleymontessori.com/. | https://dingalinged-cpu.github.io/registry/c/river-valley-montessori-and-child-care-shakopee/
-40. Southwest KinderCare | trust 16.0 | Southwest KinderCare is a daycare in Minneapolis, MN at 3708 West 44th Street, Minneapolis, MN 55410. Phone: +18885252780. Website: https://www.kindercare.com/our-centers/minneapolis/mn/000721. | https://dingalinged-cpu.github.io/registry/c/southwest-kindercare-minneapolis/
-41. Summit Early Learning Center | trust 16.0 | Summit Early Learning Center is a daycare in Minneapolis, MN at 1101 Olson Memorial Highway, Minneapolis, MN 55405. Phone: +16123779011. Website: https://summitelc.com/. | https://dingalinged-cpu.github.io/registry/c/summit-early-learning-center-minneapolis/
-42. Tots Land | trust 16.0 | Tots Land is a daycare in Chicago, IL at 2639-2643 North Harlem Avenue, Chicago, IL 60707. Phone: +17738271454. Website: https://www.totslandchicago.com/. | https://dingalinged-cpu.github.io/registry/c/tots-land-chicago/
-43. Winnetka Community Nursery School | trust 16.0 | Winnetka Community Nursery School is a daycare in Winnetka, IL at 600 Pine Street, Winnetka, IL 60093. Phone: +18474464432. Website: https://www.winnetkacommunitynurseryschool.org/. | https://dingalinged-cpu.github.io/registry/c/winnetka-community-nursery-school-winnetka/
-44. Little Scholars Learning Center | trust 15.0 | Little Scholars Learning Center is a daycare in Chicago, IL at 6116 West Irving Park Road, Chicago, IL. Phone: +17732027000. Website: https://littlescholarschicago.com/. | https://dingalinged-cpu.github.io/registry/c/little-scholars-learning-center-chicago/
-45. Anew Life Child Care Ministry | trust 14.0 | Anew Life Child Care Ministry is a daycare in Gary, IN at 30 East 6th Avenue, Gary, IN 46402. Phone: +12198801160. | https://dingalinged-cpu.github.io/registry/c/anew-life-child-care-ministry-gary/
-46. Argonne Child Development Center (952) | trust 14.0 | Argonne Child Development Center (952) is a daycare in Lemont, IL at 9700 Cass Avenue, Lemont, IL 60439. Website: https://my.anl.gov/pmo/service/argonne-child-development-center. | https://dingalinged-cpu.github.io/registry/c/argonne-child-development-center-952-lemont/
-47. God Loves Little Children Daycare | trust 14.0 | God Loves Little Children Daycare is a daycare in Addison, IL at 20W381 Stone Avenue, Addison, IL 60101. Phone: +16305436406. | https://dingalinged-cpu.github.io/registry/c/god-loves-little-children-daycare-addison/
-48. Kids & Company | trust 14.0 | Kids & Company is a daycare in Chicago, IL at 847 West Jackson Boulevard, Chicago, IL 60607. Website: https://kidsandcompany.com/locations/jackson/. | https://dingalinged-cpu.github.io/registry/c/kids-and-company-chicago/
-49. Tierra Encantada Dodd | trust 14.0 | Tierra Encantada Dodd is a daycare in Eagan, MN at 835 Vikings Parkway, Eagan, MN 55121. Website: https://www.tierraencantada.com/dodd. | https://dingalinged-cpu.github.io/registry/c/tierra-encantada-dodd-eagan/
-50. New Horizon Academy | trust 13.0 | New Horizon Academy is a daycare in Minneapolis, MN at 111 Marquette Avenue, Minneapolis, MN. Website: https://newhorizonacademy.net/location/minneapolis-marquette/. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-minneapolis-n14032186877/
-51. A Step Ahead Learning Center | trust 10.0 | A Step Ahead Learning Center is a daycare in Chicago, IL at 4214 North Broadway, Chicago, IL 60613. Phone: +17734048664. | https://dingalinged-cpu.github.io/registry/c/a-step-ahead-learning-center-chicago/
-52. Alphabet Junction Childcare | trust 10.0 | Alphabet Junction Childcare is a daycare in Shakopee, MN at 1335 10th Avenue East, Shakopee, MN 55379. Website: https://www.alphabetjunctionchildcare.com/. | https://dingalinged-cpu.github.io/registry/c/alphabet-junction-childcare-shakopee/
-53. Casa de Corazón - Kingfield | trust 10.0 | Casa de Corazón - Kingfield is a daycare in Minneapolis, MN at 3928 Nicollet Avenue, Minneapolis, MN 55409. Website: https://casaearlylearning.com/location/minneapolis-mn-kingfield/. | https://dingalinged-cpu.github.io/registry/c/casa-de-coraz-n-kingfield-minneapolis/
-54. Child Zone Learning Academy | trust 10.0 | Child Zone Learning Academy is a daycare in Schererville, IN at 2420 Ontario Street, Schererville, IN 46373. Phone: +12195582288. | https://dingalinged-cpu.github.io/registry/c/child-zone-learning-academy-schererville/
-55. Grandma's House Children's Center | trust 10.0 | Grandma's House Children's Center is a daycare in Minneapolis, MN at 625 West 31st Street, Minneapolis, MN 55408. Website: https://www.grandmashousechildrenscenter.org/. | https://dingalinged-cpu.github.io/registry/c/grandmas-house-childrens-center-minneapolis/
-56. Happy Days Child Care Center | trust 10.0 | Happy Days Child Care Center is a daycare in Berwyn, IL at 6304 West 26th Street, Berwyn, IL 60402. Website: https://happydayschildcarecenter.org/. | https://dingalinged-cpu.github.io/registry/c/happy-days-child-care-center-berwyn/
-57. Happy Kids Preschool & Daycare Center | trust 10.0 | Happy Kids Preschool & Daycare Center is a daycare in Chicago, IL at 5815 West Irving Park Road, Chicago, IL 60634. Website: https://www.happykidspreschool.org/. | https://dingalinged-cpu.github.io/registry/c/happy-kids-preschool-and-daycare-center-chicago/
-58. It Starts With Luv | trust 10.0 | It Starts With Luv is a daycare in Minneapolis, MN at 2606 North 42nd Avenue, Minneapolis, MN 55412. Website: https://www.iswl.org/. | https://dingalinged-cpu.github.io/registry/c/it-starts-with-luv-minneapolis/
-59. John & Mary Madden Center | trust 10.0 | John & Mary Madden Center is a daycare in Chicago, IL at 1658 West Grand Avenue, Chicago, IL 60622. Website: https://maryvilleacademy.org/. | https://dingalinged-cpu.github.io/registry/c/john-and-mary-madden-center-chicago/
-60. Knowledge Beginnings | trust 10.0 | Knowledge Beginnings is a daycare in Eagan, MN at 4155 Lexington Avenue South, Eagan, MN 55123. Phone: +16519944588. | https://dingalinged-cpu.github.io/registry/c/knowledge-beginnings-eagan/
-61. Ladybug & Friends Daycare | trust 10.0 | Ladybug & Friends Daycare is a daycare in Chicago, IL at 6100 North Lincoln Avenue, Chicago, IL 60659. Website: https://ladybug-daycare.com/locations/lincoln-jersey/. | https://dingalinged-cpu.github.io/registry/c/ladybug-and-friends-daycare-chicago/
-62. Little Newtons Daycare | trust 10.0 | Little Newtons Daycare is a daycare in Elmwood Park, IL at 1850 North Harlem Avenue, Elmwood Park, IL 60707. Website: https://littlenewtons.com/elmwood-park-il-childcare/. | https://dingalinged-cpu.github.io/registry/c/little-newtons-daycare-elmwood-park/
-63. Lucky Stars Child Care Services | trust 10.0 | Lucky Stars Child Care Services is a daycare in Minneapolis, MN at 2628 Nicollet Avenue, Minneapolis, MN 55408. Phone: +16122081504. | https://dingalinged-cpu.github.io/registry/c/lucky-stars-child-care-services-minneapolis/
-64. Lyon Cub Day Nursery | trust 10.0 | Lyon Cub Day Nursery is a daycare in Lyons, IL at 4262 Joliet Avenue, Lyons, IL 60534. Phone: +17084475536. | https://dingalinged-cpu.github.io/registry/c/lyon-cub-day-nursery-lyons/
-65. Mary Crane Center West Lakeview | trust 10.0 | Mary Crane Center West Lakeview is a daycare in Chicago, IL at 2905 North Leavitt Street, Chicago, IL 60618. Website: https://marycrane.org/. | https://dingalinged-cpu.github.io/registry/c/mary-crane-center-west-lakeview-chicago/
-66. Ravinia Nursery School | trust 10.0 | Ravinia Nursery School is a daycare in Highland Park, IL at 686 Red Oak Lane, Highland Park, IL 60035. Website: https://ravinianurseryschool.com/. | https://dingalinged-cpu.github.io/registry/c/ravinia-nursery-school-highland-park/
-67. St. Anthony Park | trust 10.0 | St. Anthony Park is a daycare in Saint Paul, MN at 2200 West Hillside Avenue, Saint Paul, MN 55108. Phone: +16516476385. | https://dingalinged-cpu.github.io/registry/c/st-anthony-park-saint-paul/
-68. St. Paul Learning Center | trust 10.0 | St. Paul Learning Center is a daycare in Saint Paul, MN at 1922 University Avenue, Saint Paul, MN 55104. Phone: +16516450595. | https://dingalinged-cpu.github.io/registry/c/st-paul-learning-center-saint-paul/
-69. Stepping Stones | trust 10.0 | Stepping Stones is a daycare in Chicago, IL at 2750 West Lawrence Avenue, Chicago, IL 60625. Website: https://www.cadence-education.com/locations/il/chicago/939/. | https://dingalinged-cpu.github.io/registry/c/stepping-stones-chicago-n13706663946/
-70. Success Child Care | trust 10.0 | Success Child Care is a daycare in Saint Paul, MN at 946 University Avenue West, Saint Paul, MN 55104. Phone: +16123239799. | https://dingalinged-cpu.github.io/registry/c/success-child-care-saint-paul/
-71. Tot Learning Center | trust 10.0 | Tot Learning Center is a daycare in Skokie, IL at 3701 West Howard Street, Skokie, IL 60076. Website: https://www.skokieparks.org/tot-learning-center/. | https://dingalinged-cpu.github.io/registry/c/tot-learning-center-skokie/
-72. Seed Academy | trust 9.0 | Seed Academy is a daycare in Minneapolis, MN at 1300 Olson Memorial Highway, Minneapolis, MN. Website: https://www.seedacademymn.org/. | https://dingalinged-cpu.github.io/registry/c/seed-academy-minneapolis/
-73. Homey-Home Day Care | trust 8.0 | Homey-Home Day Care is a daycare in Rolling Meadows, IL at 105 Alder Court, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/homey-home-day-care-rolling-meadows/
-74. Bethlehem Child Care Center | trust 6.0 | Bethlehem Child Care Center is a daycare in Minneapolis, MN. Website: https://www.bethlehemkids.org/. | https://dingalinged-cpu.github.io/registry/c/bethlehem-child-care-center-minneapolis/
-75. Casa de Corazón | trust 6.0 | Casa de Corazón is a daycare in Minneapolis, MN. Website: https://casaearlylearning.com/location/edina-mn-5oth-france/. | https://dingalinged-cpu.github.io/registry/c/casa-de-coraz-n-minneapolis/
-76. Family Development Center | trust 6.0 | Family Development Center is a daycare in University Park, IL. Website: https://www.govst.edu/fdc/. | https://dingalinged-cpu.github.io/registry/c/family-development-center-university-park/
-77. Kinderberry Hill | trust 6.0 | Kinderberry Hill is a daycare in Minneapolis, MN. Website: https://www.kinderberryhill.com/schools/minneapolis/. | https://dingalinged-cpu.github.io/registry/c/kinderberry-hill-minneapolis/
-78. LFC*daycare | trust 6.0 | LFC*daycare is a daycare in Chicago, IL. Website: https://www.lfcdaycare.org/. | https://dingalinged-cpu.github.io/registry/c/lfc-daycare-chicago/
-79. A Child’s Space | trust 4.0 | A Child’s Space is a daycare in Chicago, IL at 1020 South Wabash Avenue, Chicago, IL 60605. | https://dingalinged-cpu.github.io/registry/c/a-child-s-space-chicago/
-80. A Step By Step | trust 4.0 | A Step By Step is a daycare in Evanston, IL at 1909 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/a-step-by-step-evanston/
-81. A-Karrasel Child Care Center | trust 4.0 | A-Karrasel Child Care Center is a daycare in Chicago, IL at 3420 West Fullerton Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/a-karrasel-child-care-center-chicago/
-82. Advance Preschool | trust 4.0 | Advance Preschool is a daycare in Hoffman Estates, IL at 2320 West Higgins Road, Hoffman Estates, IL 60169. | https://dingalinged-cpu.github.io/registry/c/advance-preschool-hoffman-estates/
-83. Appletime Child Care | trust 4.0 | Appletime Child Care is a daycare in Rogers, MN at 21051 John Milless Drive, Rogers, MN 55374. | https://dingalinged-cpu.github.io/registry/c/appletime-child-care-rogers/
-84. Back 2 Basics Day Care | trust 4.0 | Back 2 Basics Day Care is a daycare in Oak Park, IL at 1009 Garfield Street, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/back-2-basics-day-care-oak-park/
-85. Blocks 24 hr Child Care Center | trust 4.0 | Blocks 24 hr Child Care Center is a daycare in Oak Park, IL at 815 South Oak Park Avenue, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/blocks-24-hr-child-care-center-oak-park/
-86. Blocks Child Care Center | trust 4.0 | Blocks Child Care Center is a daycare in Chicago, IL at 657 South Wells Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/blocks-child-care-center-chicago/
-87. Blue Bird Day Care | trust 4.0 | Blue Bird Day Care is a daycare in Chicago, IL at 1233 West Adams Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/blue-bird-day-care-chicago/
-88. Brighton Park Early Learning Center | trust 4.0 | Brighton Park Early Learning Center is a daycare in Chicago, IL at 4255 South Archer Avenue, Chicago, IL 60632. | https://dingalinged-cpu.github.io/registry/c/brighton-park-early-learning-center-chicago/
-89. Canvas Daycare & Preschool | trust 4.0 | Canvas Daycare & Preschool is a daycare in Naperville, IL at 1567 North Aurora Road #127, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/canvas-daycare-and-preschool-naperville/
-90. CDW @ Play | trust 4.0 | CDW @ Play is a daycare in Vernon Hills, IL at 165 Lakeview Parkway, Vernon Hills, IL 60061. | https://dingalinged-cpu.github.io/registry/c/cdw-play-vernon-hills/
-91. Child Garden Montessori | trust 4.0 | Child Garden Montessori is a daycare in Minneapolis, MN at 1601 Laurel Avenue West, Minneapolis, MN 55403. | https://dingalinged-cpu.github.io/registry/c/child-garden-montessori-minneapolis/
-92. Childrens World | trust 4.0 | Childrens World is a daycare in Eagan, MN at 4194 Pilot Knob Road, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/childrens-world-eagan/
-93. Childrens World Learning Center | trust 4.0 | Childrens World Learning Center is a daycare in Eagan, MN at 1101 Town Centre Drive, Eagan, MN 55123. | https://dingalinged-cpu.github.io/registry/c/childrens-world-learning-center-eagan/
-94. Daycare | trust 4.0 | Daycare is a daycare in Chicago, IL at 1126-1128 West 99th Street, Chicago, IL 60643. | https://dingalinged-cpu.github.io/registry/c/daycare-chicago/
-95. Dearhaven Child Care and Learning Center | trust 4.0 | Dearhaven Child Care and Learning Center is a daycare in Lake Forest, IL at 1100 North Westmoreland Road, Lake Forest, IL 60045. | https://dingalinged-cpu.github.io/registry/c/dearhaven-child-care-and-learning-center-lake-forest/
-96. Diversey Day Care | trust 4.0 | Diversey Day Care is a daycare in Chicago, IL at 3149-3157 West Diversey Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/diversey-day-care-chicago/
-97. DJ Brooks Child Development Center | trust 4.0 | DJ Brooks Child Development Center is a daycare in Chicago, IL at 6921 South Stony Island Avenue, Chicago, IL 60649. | https://dingalinged-cpu.github.io/registry/c/dj-brooks-child-development-center-chicago/
-98. Eagan Montessori | trust 4.0 | Eagan Montessori is a daycare in Eagan, MN at 1250 Lone Oak Road, Eagan, MN 55121. | https://dingalinged-cpu.github.io/registry/c/eagan-montessori-eagan/
-99. Early Childhood Center | trust 4.0 | Early Childhood Center is a daycare in Elmwood Park, IL at 4 Conti Parkway, Elmwood Park, IL 60707. | https://dingalinged-cpu.github.io/registry/c/early-childhood-center-elmwood-park/
-100. Eden Prairie Montessori | trust 4.0 | Eden Prairie Montessori is a daycare in Eden Prairie, MN at 8098 Glen Lane, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/eden-prairie-montessori-eden-prairie/
-101. Future Focus Daycare | trust 4.0 | Future Focus Daycare is a daycare in Chicago, IL at 7101 North Western Avenue, Chicago, IL 60645. | https://dingalinged-cpu.github.io/registry/c/future-focus-daycare-chicago/
-102. Hooyo Child Care Center | trust 4.0 | Hooyo Child Care Center is a daycare in Minneapolis, MN at 3600 Nicollet Avenue, Minneapolis, MN 55409. | https://dingalinged-cpu.github.io/registry/c/hooyo-child-care-center-minneapolis/
-103. Kenyatta's Day Care and Learning Center | trust 4.0 | Kenyatta's Day Care and Learning Center is a daycare in Chicago, IL at 2334-2336 East 75th Street, Chicago, IL 60649. | https://dingalinged-cpu.github.io/registry/c/kenyattas-day-care-and-learning-center-chicago/
-104. Kid City | trust 4.0 | Kid City is a daycare in Chicago, IL at 1837 West Grand Avenue, Chicago, IL 60612. | https://dingalinged-cpu.github.io/registry/c/kid-city-chicago/
-105. Kids' Work Chicago Too | trust 4.0 | Kids' Work Chicago Too is a daycare in Chicago, IL at 2633 West Addison Street, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/kids-work-chicago-too-chicago/
-106. Kidz Creative Corner Child Care | trust 4.0 | Kidz Creative Corner Child Care is a daycare in Chicago, IL at 3811 North Lincoln Avenue, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/kidz-creative-corner-child-care-chicago/
-107. La Escualita Daycare | trust 4.0 | La Escualita Daycare is a daycare in Chicago, IL at 3001-3007 West Diversey Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/la-escualita-daycare-chicago/
-108. Little Bird Prep | trust 4.0 | Little Bird Prep is a daycare in Chicago, IL at 3048 West Diversey Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/little-bird-prep-chicago/
-109. Little Explorers Academy | trust 4.0 | Little Explorers Academy is a daycare in Norridge, IL at 7830 West Lawrence Avenue, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/little-explorers-academy-norridge/
-110. Little Folks Cottage Inc | trust 4.0 | Little Folks Cottage Inc is a daycare in Chicago, IL at 5926 West Madison Street, Chicago, IL 60644. | https://dingalinged-cpu.github.io/registry/c/little-folks-cottage-inc-chicago/
-111. Little Nest Care | trust 4.0 | Little Nest Care is a daycare in Chicago, IL at 5426 West Devon Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/little-nest-care-chicago/
-112. Los Pequenos Angelitos Day Care | trust 4.0 | Los Pequenos Angelitos Day Care is a daycare in Chicago, IL at 3711 West 55th Street, Chicago, IL 60632. | https://dingalinged-cpu.github.io/registry/c/los-pequenos-angelitos-day-care-chicago/
-113. Mari's Bumble Bee Academy | trust 4.0 | Mari's Bumble Bee Academy is a daycare in Chicago, IL at 9725 South Commercial Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/maris-bumble-bee-academy-chicago/
-114. New Horizons Child Care | trust 4.0 | New Horizons Child Care is a daycare in Eagan, MN at 4300 Lexington Avenue, Eagan, MN 55123. | https://dingalinged-cpu.github.io/registry/c/new-horizons-child-care-eagan/
-115. New Zion Childcare Academy | trust 4.0 | New Zion Childcare Academy is a daycare in Chicago, IL at 1900 West 13th Street, Chicago, IL 60608. | https://dingalinged-cpu.github.io/registry/c/new-zion-childcare-academy-chicago/
-116. Park Place | trust 4.0 | Park Place is a daycare in Minneapolis, MN at 2745 Park Avenue, Minneapolis, MN 55407. | https://dingalinged-cpu.github.io/registry/c/park-place-minneapolis/
-117. Peaceful Heights | trust 4.0 | Peaceful Heights is a daycare in West Saint Paul, MN at 375 Marie Avenue East, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/peaceful-heights-west-saint-paul/
-118. Restoring the Seed Childcare | trust 4.0 | Restoring the Seed Childcare is a daycare in Chicago, IL at 3501 East 95th Street, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/restoring-the-seed-childcare-chicago/
-119. Shining Star Child Development | trust 4.0 | Shining Star Child Development is a daycare in Chicago, IL at 10540 South Ewing Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/shining-star-child-development-chicago/
-120. Shining Star Child Development | trust 4.0 | Shining Star Child Development is a daycare in Chicago, IL at 3012 East 92nd Street, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/shining-star-child-development-chicago-w211359652/
-121. Taylor Tots | trust 4.0 | Taylor Tots is a daycare in Chicago, IL at 1417 West Taylor Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/taylor-tots-chicago/
-122. The Day Nursery | trust 4.0 | The Day Nursery is a daycare in Oak Park, IL at 1139 Randolph Street, Oak Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/the-day-nursery-oak-park/
-123. Universal Child Care | trust 4.0 | Universal Child Care is a daycare in Shakopee, MN at 1208 Shakopee Town Square, Shakopee, MN 55379. | https://dingalinged-cpu.github.io/registry/c/universal-child-care-shakopee/
-124. Wyspa Dzieci | trust 4.0 | Wyspa Dzieci is a daycare in River Grove, IL at 8383 West Belmont Avenue, River Grove, IL 60171. | https://dingalinged-cpu.github.io/registry/c/wyspa-dzieci-river-grove/
-125. YMCA Child Care | trust 4.0 | YMCA Child Care is a daycare in Chicago, IL at 7 North Homan Avenue, Chicago, IL 60624. | https://dingalinged-cpu.github.io/registry/c/ymca-child-care-chicago/
-126. Zuhur Childcare Center Inc | trust 4.0 | Zuhur Childcare Center Inc is a daycare in Saint Louis Park, MN at 3424 Wooddale Avenue, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/zuhur-childcare-center-inc-saint-louis-park/
-127. Adams Street Child Care Center | trust 3.0 | Adams Street Child Care Center is a daycare in Chicago, IL at 1957 West Adams Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/adams-street-child-care-center-chicago/
-128. Bobbie Noonan's Child Care Center | trust 3.0 | Bobbie Noonan's Child Care Center is a daycare in Homer Glen, IL at 13230, Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/bobbie-noonans-child-care-center-homer-glen/
-129. Brain Builders Academy | trust 3.0 | Brain Builders Academy is a daycare in Chicago, IL at 225 South Sangamon Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/brain-builders-academy-chicago/
-130. Kangaroo Korner Learning Center | trust 3.0 | Kangaroo Korner Learning Center is a daycare in Chicago, IL at 2401 North Saint Louis Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/kangaroo-korner-learning-center-chicago/
-131. Kindercare | trust 3.0 | Kindercare is a daycare in Inver Grove Heights, MN at 7841 Amana Trail, Inver Grove Heights, MN. | https://dingalinged-cpu.github.io/registry/c/kindercare-inver-grove-heights/
-132. Little Einsteins | trust 3.0 | Little Einsteins is a daycare in Chicago, IL at 3640-3644 West Wrightwood Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/little-einsteins-chicago/
-133. Millie’s House | trust 3.0 | Millie’s House is a daycare in Chicago, IL at 3030 North Kedzie Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/millie-s-house-chicago/
-134. Our Lady of Lourdes Child Development Center | trust 3.0 | Our Lady of Lourdes Child Development Center is a daycare in Chicago, IL at 1445-1449 South Keeler Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/our-lady-of-lourdes-child-development-center-chicago/
-135. ABC Toon Town Day Care | trust 0.0 | ABC Toon Town Day Care is a daycare in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/abc-toon-town-day-care-oak-park/
-136. Alphabet Learning Center | trust 0.0 | Alphabet Learning Center is a daycare in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/alphabet-learning-center-brookfield/
-137. Angel Land Nursery School | trust 0.0 | Angel Land Nursery School is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/angel-land-nursery-school-chicago/
-138. Auburn Park Day Care Center | trust 0.0 | Auburn Park Day Care Center is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/auburn-park-day-care-center-chicago/
-139. Bilingual Child Care & Education Center, Inc. | trust 0.0 | Bilingual Child Care & Education Center, Inc. is a daycare in Mahtomedi, MN. | https://dingalinged-cpu.github.io/registry/c/bilingual-child-care-and-education-center-inc-mahtomedi/
-140. Chesterfield Tom Thumb Day Care Center and Kindergarten School | trust 0.0 | Chesterfield Tom Thumb Day Care Center and Kindergarten School is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/chesterfield-tom-thumb-day-care-center-and-kindergarten-school-chicago/
-141. Choo Choo Chicago | trust 0.0 | Choo Choo Chicago is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/choo-choo-chicago-chicago/
-142. Creative Kids Daycare Center | trust 0.0 | Creative Kids Daycare Center is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/creative-kids-daycare-center-chicago/
-143. Creme De La Creme | trust 0.0 | Creme De La Creme is a daycare in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/creme-de-la-creme-maple-grove/
-144. Crickets Child and Infant Daycare Center | trust 0.0 | Crickets Child and Infant Daycare Center is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/crickets-child-and-infant-daycare-center-chicago/
-145. Crown Daycare Center | trust 0.0 | Crown Daycare Center is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/crown-daycare-center-chicago/
-146. Early Childhood Development Center | trust 0.0 | Early Childhood Development Center is a daycare in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/early-childhood-development-center-saint-paul/
-147. Edina Daycare | trust 0.0 | Edina Daycare is a daycare in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/edina-daycare-edina/
-148. Foundation Hill Montessori and Childcare | trust 0.0 | Foundation Hill Montessori and Childcare is a daycare in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/foundation-hill-montessori-and-childcare-plymouth/
-149. Growing Genration CDC | trust 0.0 | Growing Genration CDC is a daycare in Hugo, MN. | https://dingalinged-cpu.github.io/registry/c/growing-genration-cdc-hugo/
-150. Highland Day Care Center | trust 0.0 | Highland Day Care Center is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/highland-day-care-center-chicago/
-151. Highland Educational Day Care Center | trust 0.0 | Highland Educational Day Care Center is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/highland-educational-day-care-center-chicago/
-152. Hour Kids Walk-In Childcare | trust 0.0 | Hour Kids Walk-In Childcare is a daycare in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/hour-kids-walk-in-childcare-eagan/
-153. Intown Childcare | trust 0.0 | Intown Childcare is a daycare in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/intown-childcare-minneapolis/
-154. Iona Child Care Center | trust 0.0 | Iona Child Care Center is a daycare in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/iona-child-care-center-brooklyn-park/
-155. Kiddie Academy of Hawthorn Woods | trust 0.0 | Kiddie Academy of Hawthorn Woods is a daycare in Ela Township, IL. | https://dingalinged-cpu.github.io/registry/c/kiddie-academy-of-hawthorn-woods-ela-township/
-156. Kids & Company | trust 0.0 | Kids & Company is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/kids-and-company-chicago-n12874110755/
-157. Kinderberry Hill | trust 0.0 | Kinderberry Hill is a daycare in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/kinderberry-hill-eden-prairie/
-158. KinderCare | trust 0.0 | KinderCare is a daycare in Arden Hills, MN. | https://dingalinged-cpu.github.io/registry/c/kindercare-arden-hills/
-159. KinderCare | trust 0.0 | KinderCare is a daycare in Coon Rapids, MN. | https://dingalinged-cpu.github.io/registry/c/kindercare-coon-rapids/
-160. KinderCare | trust 0.0 | KinderCare is a daycare in North Oaks, MN. | https://dingalinged-cpu.github.io/registry/c/kindercare-north-oaks/
-161. Lil Explorers Childcare | trust 0.0 | Lil Explorers Childcare is a daycare in Andover, MN. | https://dingalinged-cpu.github.io/registry/c/lil-explorers-childcare-andover/
-162. Little Angels | trust 0.0 | Little Angels is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/little-angels-chicago/
-163. Little Beginnings Day Care | trust 0.0 | Little Beginnings Day Care is a daycare in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/little-beginnings-day-care-oak-park/
-164. Nest Learning Academy | trust 0.0 | Nest Learning Academy is a daycare in Rockford, MN. | https://dingalinged-cpu.github.io/registry/c/nest-learning-academy-rockford/
-165. Nest Nursery | trust 0.0 | Nest Nursery is a daycare in Rockford, MN. | https://dingalinged-cpu.github.io/registry/c/nest-nursery-rockford/
-166. New Horizon Academy | trust 0.0 | New Horizon Academy is a daycare in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-edina/
-167. Nokomis Child Care Center | trust 0.0 | Nokomis Child Care Center is a daycare in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/nokomis-child-care-center-minneapolis/
-168. Once Upon A Child | trust 0.0 | Once Upon A Child is a daycare in Crest Hill, IL. | https://dingalinged-cpu.github.io/registry/c/once-upon-a-child-crest-hill/
-169. Park West Cooperative Nursery School | trust 0.0 | Park West Cooperative Nursery School is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/park-west-cooperative-nursery-school-chicago/
-170. Pathways to Play | trust 0.0 | Pathways to Play is a daycare in South Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/pathways-to-play-south-saint-paul/
-171. Radiant Montessori School | trust 0.0 | Radiant Montessori School is a daycare in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/radiant-montessori-school-maple-grove/
-172. Rainforest Pre-School & Infant Center | trust 0.0 | Rainforest Pre-School & Infant Center is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/rainforest-pre-school-and-infant-center-chicago/
-173. Southtown Day Care Center | trust 0.0 | Southtown Day Care Center is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/southtown-day-care-center-chicago/
-174. Stepping Stones | trust 0.0 | Stepping Stones is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/stepping-stones-chicago/
-175. Sunflower Early Learning Academy | trust 0.0 | Sunflower Early Learning Academy is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/sunflower-early-learning-academy-chicago/
-176. Sunshine Station Child Care | trust 0.0 | Sunshine Station Child Care is a daycare in Rockford, MN. | https://dingalinged-cpu.github.io/registry/c/sunshine-station-child-care-rockford/
-177. Sunshine Tree Child Development | trust 0.0 | Sunshine Tree Child Development is a daycare in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/sunshine-tree-child-development-minneapolis/
-178. The Children Village | trust 0.0 | The Children Village is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-children-village-chicago/
-179. The Family Partnership | trust 0.0 | The Family Partnership is a daycare in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/the-family-partnership-minneapolis/
-180. The Learning Experience | trust 0.0 | The Learning Experience is a daycare in Wheeling, IL. | https://dingalinged-cpu.github.io/registry/c/the-learning-experience-wheeling/
-181. The Nook | trust 0.0 | The Nook is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-nook-chicago/
-182. The Nook Childcare | trust 0.0 | The Nook Childcare is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-nook-childcare-chicago/
-183. Topsy Turby Nursery and Kindergarten | trust 0.0 | Topsy Turby Nursery and Kindergarten is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/topsy-turby-nursery-and-kindergarten-chicago/
-184. Triple R Child Care | trust 0.0 | Triple R Child Care is a daycare in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/triple-r-child-care-mokena/
-185. University of MN Child Development Laboratory School | trust 0.0 | University of MN Child Development Laboratory School is a daycare in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/university-of-mn-child-development-laboratory-school-minneapolis/
-186. YMCA Child Care | trust 0.0 | YMCA Child Care is a daycare in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/ymca-child-care-minneapolis/
-187. Zion Hill Day Care Center School | trust 0.0 | Zion Hill Day Care Center School is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/zion-hill-day-care-center-school-chicago/
+1. A Mother's Heart Learning Center | trust 20.0 | A Mother's Heart Learning Center is a daycare in West Allis, WI at 1700 South 60th Street, West Allis, WI 53214. Phone: +14143778007. Website: https://amhlc-wi.com/. | https://dingalinged-cpu.github.io/registry/c/a-mothers-heart-learning-center-west-allis/
+2. Apple Tree Christian Academy | trust 20.0 | Apple Tree Christian Academy is a daycare in Dallas, TX at 2726 West Illinois Avenue, Dallas, TX 75233. Phone: +12143300413. Website: https://www.appletreechristian.com/. | https://dingalinged-cpu.github.io/registry/c/apple-tree-christian-academy-dallas/
+3. Child's World Academic Inc. | trust 20.0 | Child's World Academic Inc. is a daycare in Chicago, IL at 6730 South Indiana Avenue, Chicago, IL 60637. Phone: +17732244147. Website: https://childsworldacademic.com/. | https://dingalinged-cpu.github.io/registry/c/childs-world-academic-inc-chicago/
+4. Children's Lighthouse of Richmond | trust 20.0 | Children's Lighthouse of Richmond is a daycare in Richmond, TX at 4734 Harvest Corner Drive, Richmond, TX 77406. Phone: +12813361877. Website: https://childrenslighthouse.com/harvestgreen. | https://dingalinged-cpu.github.io/registry/c/childrens-lighthouse-of-richmond-richmond/
+5. Future Scholar Christian Academy | trust 20.0 | Future Scholar Christian Academy is a daycare in Milwaukee, WI at 6401 West Capitol Drive, Milwaukee, WI 53216. Phone: +14145443164. Website: https://www.futurescholarca.com/. | https://dingalinged-cpu.github.io/registry/c/future-scholar-christian-academy-milwaukee/
+6. Grandma's House | trust 20.0 | Grandma's House is a daycare in Wauwatosa, WI at 6119 West Vliet Street, Wauwatosa, WI 53213. Phone: +14144757605. Website: https://grandmashouse.org/center/highland-center/. | https://dingalinged-cpu.github.io/registry/c/grandmas-house-wauwatosa/
+7. Houston Heights Day Care | trust 20.0 | Houston Heights Day Care is a daycare in Houston, TX at 902 West 8th Street, Houston, TX 77007. Phone: +18327867112. Website: https://www.houstonheightsxlentcare.net/. | https://dingalinged-cpu.github.io/registry/c/houston-heights-day-care-houston/
+8. KIDS USA Montessori Inc. | trust 20.0 | KIDS USA Montessori Inc. is a daycare in Plano, TX at 6205 Coit Road #118, Plano, TX 75024. Phone: +19727864869. Website: https://kidsusamontessori.org/. | https://dingalinged-cpu.github.io/registry/c/kids-usa-montessori-inc-plano/
+9. Kinder Academy Daycare | trust 20.0 | Kinder Academy Daycare is a daycare in Chicago, IL at 5939 West Irving Park Road, Chicago, IL 60634. Phone: +17739992466. Website: https://kinderusa.net/. | https://dingalinged-cpu.github.io/registry/c/kinder-academy-daycare-chicago/
+10. LadyBug and Friends Daycare & Preschool | trust 20.0 | LadyBug and Friends Daycare & Preschool is a daycare in Chicago, IL at 336 South Halsted Street, Chicago, IL 60661. Phone: +13124963549. Website: https://ladybug-daycare.com/locations/west-loop/. | https://dingalinged-cpu.github.io/registry/c/ladybug-and-friends-daycare-and-preschool-chicago/
+11. Little Butterflies Learning Center | trust 20.0 | Little Butterflies Learning Center is a daycare in Garland, TX at 2814 Lavon Dr., Garland, TX 75040. Phone: +19729551488. Website: https://littlebutterflieslc.org/. | https://dingalinged-cpu.github.io/registry/c/little-butterflies-learning-center-garland/
+12. Little Newtons | trust 20.0 | Little Newtons is a daycare in Champlin, MN at 111 Dean Avenue West, Champlin, MN 55316. Phone: +17633231021. Website: https://littlenewtons.com/. | https://dingalinged-cpu.github.io/registry/c/little-newtons-champlin/
+13. Little People Learning Tree, LLC | trust 20.0 | Little People Learning Tree, LLC is a daycare in Houston, TX at 457 Pickering Street, Houston, TX 77091. Phone: +17136940066. Website: https://littlepeopleslearningtree.com/. | https://dingalinged-cpu.github.io/registry/c/little-people-learning-tree-llc-houston/
+14. Little Tyke Creative Child Care | trust 20.0 | Little Tyke Creative Child Care is a daycare in North Richland Hills, TX at 6700 Smithfield Road, North Richland Hills, TX 76182. Phone: +18172815783. Website: https://littletykechildcare.com/locations/little-tyke-north-richland-hills-watauga-tx/. | https://dingalinged-cpu.github.io/registry/c/little-tyke-creative-child-care-north-richland-hills/
+15. Lois Lovable Lullabies Childcare | trust 20.0 | Lois Lovable Lullabies Childcare is a daycare in Milwaukee, WI at 6132 West Fond du Lac Avenue, Milwaukee, WI 53218. Phone: +14147633240. Website: https://www.loislovablelullabies.com/. | https://dingalinged-cpu.github.io/registry/c/lois-lovable-lullabies-childcare-milwaukee/
+16. Mariner Montessori at Heights | trust 20.0 | Mariner Montessori at Heights is a daycare in Houston, TX at 5317 Darling Street, Houston, TX 77007. Phone: +12818886036. Website: https://www.marinermontessori.com/. | https://dingalinged-cpu.github.io/registry/c/mariner-montessori-at-heights-houston/
+17. Mona Montessori Greentree | trust 20.0 | Mona Montessori Greentree is a daycare in Farmers Branch, TX at 4440 Sigma Road, Farmers Branch, TX 75244. Phone: +19724881277. Website: https://montessories.com/. | https://dingalinged-cpu.github.io/registry/c/mona-montessori-greentree-farmers-branch/
+18. Montessori Gifted Prep | trust 20.0 | Montessori Gifted Prep is a daycare in Chicago, IL at 2200 West Giddings Street, Chicago, IL 60625. Phone: +17732937794. Website: https://www.montessorigiftedprep.org/. | https://dingalinged-cpu.github.io/registry/c/montessori-gifted-prep-chicago/
+19. New Creations Child Care & Learning Center | trust 20.0 | New Creations Child Care & Learning Center is a daycare in Maple Grove, MN at 9827 Maple Grove Parkway, Maple Grove, MN 55369. Phone: +17633167101. Website: https://www.newcreationschildcare.com/maple-grove. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-maple-grove/
+20. New Creations Child Care & Learning Center | trust 20.0 | New Creations Child Care & Learning Center is a daycare in Maple Grove, MN at 18655 73rd Avenue North, Maple Grove, MN 55311. Phone: +17633389990. Website: https://www.newcreationschildcare.com/rush-creek. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-maple-grove-n11032385105/
+21. New Creations Child Care & Learning Center | trust 20.0 | New Creations Child Care & Learning Center is a daycare in Saint Paul, MN at 877 Jefferson Avenue, Saint Paul, MN 55102. Phone: +16512023046. Website: https://www.newcreationschildcare.com/st-paul. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-saint-paul/
+22. New Creations Child Care & Learning Center | Blaine | trust 20.0 | New Creations Child Care & Learning Center | Blaine is a daycare in Blaine, MN at 12267 Aberdeen Street Northeast, Blaine, MN 55449. Phone: +17634475659. Website: https://www.newcreationschildcare.com/blaine. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-blaine-blaine/
+23. New Creations Child Care & Learning Center | Blaine (at Lexington) | trust 20.0 | New Creations Child Care & Learning Center | Blaine (at Lexington) is a daycare in Blaine, MN at 10301 Lexington Avenue Northeast, Blaine, MN 55014. Phone: +17636570387. Website: https://www.newcreationschildcare.com/blaine-at-lexington. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-blaine-at-lexington-blaine/
+24. New Creations Child Care & Learning Center | Brooklyn Park | trust 20.0 | New Creations Child Care & Learning Center | Brooklyn Park is a daycare in Brooklyn Park, MN at 4500 Oak Grove Parkway, Brooklyn Park, MN 55443. Phone: +17632271304. Website: https://www.newcreationschildcare.com/brooklyn-park. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-brooklyn-park-brooklyn-park/
+25. New Creations Child Care & Learning Center | Coon Rapids | trust 20.0 | New Creations Child Care & Learning Center | Coon Rapids is a daycare in Coon Rapids, MN at 1805 Gateway Drive Northwest, Coon Rapids, MN 55448. Phone: +17636001335. Website: https://www.newcreationschildcare.com/riverdale. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-coon-rapids-coon-rapids/
+26. New Creations Child Care & Learning Center | Hugo | trust 20.0 | New Creations Child Care & Learning Center | Hugo is a daycare in Hugo, MN at 5448 140th Street North, Hugo, MN 55038. Phone: +16514293555. Website: https://www.newcreationschildcare.com/hugo. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-hugo-hugo/
+27. New Creations Child Care & Learning Center | Lino Lakes | trust 20.0 | New Creations Child Care & Learning Center | Lino Lakes is a daycare in Lino Lakes, MN at 620 Town Center Parkway, Lino Lakes, MN 55014. Phone: +16518083143. Website: https://www.newcreationschildcare.com/lino-lakes. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-lino-lakes-lino-lakes/
+28. New Creations Child Care & Learning Center | Ramsey | trust 20.0 | New Creations Child Care & Learning Center | Ramsey is a daycare in Ramsey, MN at 5400 140th Avenue Northwest, Ramsey, MN 55303. Phone: +17634344868. Website: https://www.newcreationschildcare.com/ramsey. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-ramsey-ramsey/
+29. New Creations Child Care & Learning Center | St. Michael | trust 20.0 | New Creations Child Care & Learning Center | St. Michael is a daycare in Saint Michael, MN at 4120 Edgewood Drive Northeast, Saint Michael, MN 55376. Phone: +17637104723. Website: https://www.newcreationschildcare.com/st-michael. | https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-st-michael-saint-michael/
+30. Pinebrook KinderCare | trust 20.0 | Pinebrook KinderCare is a daycare in Houston, TX at 4422 Clear Lake City Boulevard, Houston, TX 77059. Phone: +12814611822. Website: https://www.kindercare.com/our-centers/houston/tx/000584/. | https://dingalinged-cpu.github.io/registry/c/pinebrook-kindercare-houston/
+31. Rhode Island KinderCare | trust 20.0 | Rhode Island KinderCare is a daycare in Bloomington, MN at 10801 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529417817. Website: https://www.kindercare.com/our-centers/bloomington/mn/301201. | https://dingalinged-cpu.github.io/registry/c/rhode-island-kindercare-bloomington/
+32. Sonnets Academy | trust 20.0 | Sonnets Academy is a daycare in Chicago, IL at 229 South Peoria Street, Chicago, IL 60607. Phone: +13127337580. Website: https://www.sonnetsacademy.com/westloop. | https://dingalinged-cpu.github.io/registry/c/sonnets-academy-chicago/
+33. SOS Center | trust 20.0 | SOS Center is a daycare in Milwaukee, WI at 4620 West North Avenue, Milwaukee, WI 53208. Phone: +14144499964. Website: https://soscenterinc.org/. | https://dingalinged-cpu.github.io/registry/c/sos-center-milwaukee/
+34. TenderCare Christian Child Care | trust 20.0 | TenderCare Christian Child Care is a daycare in Milwaukee, WI at 5229 West Capitol Drive, Milwaukee, WI 53216. Phone: +14144478396. Website: https://tendercarechristian.org/. | https://dingalinged-cpu.github.io/registry/c/tendercare-christian-child-care-milwaukee/
+35. The Goddard School | trust 20.0 | The Goddard School is a daycare in Rockwall, TX at 710 East Ralph Hall Parkway, Rockwall, TX 75032. Phone: +14693142300. Website: https://www.goddardschool.com/schools/tx/rockwall/rockwall. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-rockwall/
+36. Tierra Encantada | trust 20.0 | Tierra Encantada is a daycare in Minneapolis, MN at 4012 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127220509. Website: https://www.tierraencantada.com/hiawatha. | https://dingalinged-cpu.github.io/registry/c/tierra-encantada-minneapolis/
+37. Childrens Lighthouse Learning Centers | trust 19.0 | Childrens Lighthouse Learning Centers is a daycare in Frisco, TX at 10660 Eldorado Parkway, Frisco, TX. Phone: +14692521767. Website: https://childrenslighthouse.com/frisco. | https://dingalinged-cpu.github.io/registry/c/childrens-lighthouse-learning-centers-frisco/
+38. East Dallas Developmental Center | trust 19.0 | East Dallas Developmental Center is a daycare in Dallas, TX at 2010 Skillman Street, Dallas, TX. Phone: +12148217766. Website: https://www.eddc.net/. | https://dingalinged-cpu.github.io/registry/c/east-dallas-developmental-center-dallas/
+39. iLearn Center | trust 19.0 | iLearn Center is a daycare in Chicago, IL at 1801 West Chicago Avenue, Chicago, IL. Phone: +13128889983. Website: https://www.ilearncenter.com/. | https://dingalinged-cpu.github.io/registry/c/ilearn-center-chicago/
+40. Promiseland Learning Center | trust 19.0 | Promiseland Learning Center is a daycare in Chicago, IL at 6203-6205 West Montrose Avenue, Chicago, IL. Phone: +17736856121. Website: https://promiselandlearning.com/. | https://dingalinged-cpu.github.io/registry/c/promiseland-learning-center-chicago/
+41. Alive Teen Center | trust 16.0 | Alive Teen Center is a daycare in Naperville, IL at 500 West 5th Avenue, Naperville, IL 60563. Phone: +16307786093. Website: https://www.alivecenter.org/. | https://dingalinged-cpu.github.io/registry/c/alive-teen-center-naperville/
+42. All Saints Catholic Academy | trust 16.0 | All Saints Catholic Academy is a daycare in Naperville, IL at 1155 Aurora Avenue, Naperville, IL 60540. Phone: +16309616125. Website: https://ascacademy.org/. | https://dingalinged-cpu.github.io/registry/c/all-saints-catholic-academy-naperville/
+43. Bertha Alyce Early Childhood School | trust 16.0 | Bertha Alyce Early Childhood School is a daycare in Houston, TX at 5601 South Braeswood Boulevard, Houston, TX 77096. Phone: +17135517200. Website: https://www.erjcchouston.org/bertha-alyce-early-childhood-school/. | https://dingalinged-cpu.github.io/registry/c/bertha-alyce-early-childhood-school-houston/
+44. Bizzy Kids Learning Center | trust 16.0 | Bizzy Kids Learning Center is a daycare in Arlington, TX at 1401 Caplin Drive, Arlington, TX 76018. Phone: +18174725437. Website: https://www.bizzykidslearningcenter.net/. | https://dingalinged-cpu.github.io/registry/c/bizzy-kids-learning-center-arlington/
+45. Busy Body's Child Care | trust 16.0 | Busy Body's Child Care is a daycare in La Marque, TX at 199 Vauithier Road #C, La Marque, TX 77568. Phone: +14092291881. Website: https://busybodychildcare.com/. | https://dingalinged-cpu.github.io/registry/c/busy-bodys-child-care-la-marque/
+46. Buzy Beez Childcare & Development | trust 16.0 | Buzy Beez Childcare & Development is a daycare in Milwaukee, WI at 7860 West Appleton Avenue, Milwaukee, WI 53218. Phone: +14149889005. Website: https://www.buzybeezchildcare.com/. | https://dingalinged-cpu.github.io/registry/c/buzy-beez-childcare-and-development-milwaukee/
+47. Central Care for Children | trust 16.0 | Central Care for Children is a daycare in Minneapolis, MN at 2015 Nicollet Avenue, Minneapolis, MN 55404. Phone: +16128726788. Website: https://www.centralcareforchildren.org/. | https://dingalinged-cpu.github.io/registry/c/central-care-for-children-minneapolis/
+48. Children's Pantry Daycare | trust 16.0 | Children's Pantry Daycare is a daycare in Milwaukee, WI at 3130 West Lisbon Avenue, Milwaukee, WI 53208. Phone: +14143428015. Website: https://childrenspantry.com/. | https://dingalinged-cpu.github.io/registry/c/childrens-pantry-daycare-milwaukee/
+49. Children's Park | trust 16.0 | Children's Park is a daycare in North Richland Hills, TX at 7550 Shady Grove Road, North Richland Hills, TX 76182. Phone: +18176057474. Website: https://childrensparknrh.com/contact-us.aspx. | https://dingalinged-cpu.github.io/registry/c/childrens-park-north-richland-hills/
+50. Como Early Learning Center | trust 16.0 | Como Early Learning Center is a daycare in Minneapolis, MN at 1024 27th Avenue SE, Minneapolis, MN 55414. Phone: +16123318340. Website: https://comoelc.com/. | https://dingalinged-cpu.github.io/registry/c/como-early-learning-center-minneapolis/
+
+## More daycare listings (462 total; top 50 unpaid shown)
+- Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/daycare.jsonl
+- Chicago, IL: 73 listings: https://dingalinged-cpu.github.io/registry/k/daycare-chicago-il/
+- Milwaukee, WI: 72 listings: https://dingalinged-cpu.github.io/registry/k/daycare-milwaukee-wi/
+- Minneapolis, MN: 24 listings: https://dingalinged-cpu.github.io/registry/k/daycare-minneapolis-mn/
+- Houston, TX: 23 listings: https://dingalinged-cpu.github.io/registry/k/daycare-houston-tx/
+- Harris County, TX: 21 listings: https://dingalinged-cpu.github.io/registry/k/daycare-harris-county-tx/
+- Dallas, TX: 16 listings: https://dingalinged-cpu.github.io/registry/k/daycare-dallas-tx/
+- Mesquite, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/daycare-mesquite-tx/
+- Rockwall, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/daycare-rockwall-tx/
+- Eagan, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/daycare-eagan-mn/
+- Saint Paul, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/daycare-saint-paul-mn/
+- Denton, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/daycare-denton-tx/
+- Oak Park, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/daycare-oak-park-il/
+- Arlington, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/daycare-arlington-tx/
+- Fort Bend County, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/daycare-fort-bend-county-tx/
+- Naperville, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/daycare-naperville-il/
+- Forney, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/daycare-forney-tx/
+- Mckinney, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/daycare-mckinney-tx/
+- Richmond, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/daycare-richmond-tx/
+- Garland, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/daycare-garland-tx/
+- Katy, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/daycare-katy-tx/
+- Maple Grove, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/daycare-maple-grove-mn/
+- Mequon, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-mequon-wi/
+- Plano, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-plano-tx/
+- Frisco, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-frisco-tx/
+- North Richland Hills, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-north-richland-hills-tx/
+- Sunnyvale, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-sunnyvale-tx/
+- Shakopee, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-shakopee-mn/
+- Rockford, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-rockford-mn/
+- Elmwood Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-elmwood-park-il/
+- Winnetka, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-winnetka-il/
+- Oak Creek, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-oak-creek-wi/
+- Wauwatosa, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-wauwatosa-wi/
+- Franklin, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-franklin-wi/
+- Little Elm, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-little-elm-tx/
+- Alvarado, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-alvarado-tx/
+- Waxahachie, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-waxahachie-tx/
+- Murphy, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-murphy-tx/
+- Humble, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-humble-tx/
+- Allen, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-allen-tx/
+- Hurst, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-hurst-tx/
+- Flower Mound, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-flower-mound-tx/
+- Euless, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-euless-tx/
+- Irving, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-irving-tx/
+- Trophy Club, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-trophy-club-tx/
+- Sachse, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-sachse-tx/
+- Eden Prairie, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-eden-prairie-mn/
+- Edina, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-edina-mn/
+- Hugo, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-hugo-mn/
+- Brooklyn Park, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-brooklyn-park-mn/
+- Coon Rapids, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-coon-rapids-mn/
+- Blaine, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-blaine-mn/
+- Gary, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-gary-in/
+- Evanston, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-evanston-il/
+- Hoffman Estates, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-hoffman-estates-il/
+- Brookfield, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-brookfield-il/
+- Homer Glen, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-homer-glen-il/
+- Vernon Hills, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-vernon-hills-il/
+- Warrenville, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-warrenville-il/
+- Lake Forest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-lake-forest-il/
+- University Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-university-park-il/
+- Addison Township, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-addison-township-il/
+- Addison, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-addison-il/
+- Berwyn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-berwyn-il/
+- South Holland, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-south-holland-il/
+- Rolling Meadows, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-rolling-meadows-il/
+- Ela Township, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-ela-township-il/
+- Norridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-norridge-il/
+- Lyons, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-lyons-il/
+- Crest Hill, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-crest-hill-il/
+- Highland Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-highland-park-il/
+- Wheeling, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-wheeling-il/
+- Skokie, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-skokie-il/
+- Mokena, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-mokena-il/
+- River Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-river-grove-il/
+- West Allis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-west-allis-wi/
+- Waukesha, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-waukesha-wi/
+- Shorewood, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-shorewood-wi/
+- Town Of Norway, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-town-of-norway-wi/
+- Racine, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-racine-wi/
+- South Milwaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-south-milwaukee-wi/
+- Village Of Waukesha, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-village-of-waukesha-wi/
+- Greenfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-greenfield-wi/
+- Highland Park, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-highland-park-wi/
+- West Milwaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-west-milwaukee-wi/
+- West Bend, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-west-bend-wi/
+- Yorkville, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-yorkville-wi/
+- Burlington, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-burlington-wi/
+- Village Of Raymond, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-village-of-raymond-wi/
+- Bedford, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-bedford-tx/
+- Baytown, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-baytown-tx/
+- Pearland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-pearland-tx/
+- La Marque, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-la-marque-tx/
+- Grand Prairie, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-grand-prairie-tx/
+- Keller, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-keller-tx/
+- Crandall, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-crandall-tx/
+- Sugar Land, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-sugar-land-tx/
+- Midlothian, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-midlothian-tx/
+- The Woodlands, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-the-woodlands-tx/
+- Hitchcock, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-hitchcock-tx/
+- League City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-league-city-tx/
+- Northlake, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-northlake-tx/
+- Rosenberg, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-rosenberg-tx/
+- Webster, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-webster-tx/
+- Duncanville, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-duncanville-tx/
+- Richardson, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-richardson-tx/
+- Farmers Branch, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-farmers-branch-tx/
+- Friendswood, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-friendswood-tx/
+- Montgomery County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-montgomery-county-tx/
+- Royse City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-royse-city-tx/
+- Lewisville, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-lewisville-tx/
+- Providence Village, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-providence-village-tx/
+- Hickory Creek, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-hickory-creek-tx/
+- Fort Worth, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-fort-worth-tx/
+- Addison, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-addison-tx/
+- Corinth, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-corinth-tx/
+- Rogers, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-rogers-mn/
+- Mahtomedi, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-mahtomedi-mn/
+- Plymouth, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-plymouth-mn/
+- Arden Hills, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-arden-hills-mn/
+- Inver Grove Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-inver-grove-heights-mn/
+- North Oaks, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-north-oaks-mn/
+- Andover, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-andover-mn/
+- Champlin, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-champlin-mn/
+- Lino Lakes, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-lino-lakes-mn/
+- Ramsey, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-ramsey-mn/
+- Saint Michael, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-saint-michael-mn/
+- South Saint Paul, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-south-saint-paul-mn/
+- West Saint Paul, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-west-saint-paul-mn/
+- Golden Valley, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-golden-valley-mn/
+- Bloomington, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-bloomington-mn/
+- Saint Louis Park, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-saint-louis-park-mn/
+- Schererville, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-schererville-in/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare | category: Education & childcare | industry benchmark: Education & Instruction
-- US monthly searches: 220,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
 - CPC benchmark: low $4.81, median $4.81, high $6.23 (Education & Instruction median CPC 2026 $4.81 [https://www.localiq.com/blog/search-advertising-benchmarks]; Education & Instruction median CPC 2025 $6.23 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 187
+- Registry businesses competing: 462
 - Equivalent Google Ads cost per month: ~$61,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/daycare.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#daycare | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/daycare.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#daycare | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

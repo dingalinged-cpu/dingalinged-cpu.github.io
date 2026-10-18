@@ -15,7 +15,7 @@ Good Barbers Barbershop is a barber shop in Oak Forest, IL at 15524 S Cicero Ave
 - Opening hours (OSM syntax): Su-Mo CLOSED, Tu, Th & Fr 09:30-19:00, We 10:00-19:00, Sa 08:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/good-barbers-barbershop-oak-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/good-barbers-barbershop-oak-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13696439863 (license ODbL-1.0); source data as of 2026-06-01

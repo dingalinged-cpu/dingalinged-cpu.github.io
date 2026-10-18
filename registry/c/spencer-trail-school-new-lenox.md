@@ -15,7 +15,7 @@ Spencer Trail School is a preschool in New Lenox, IL at 1701 Spencer Road, New L
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/spencer-trail-school-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/spencer-trail-school-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1834925521 (license ODbL-1.0); source data as of 2026-07-28

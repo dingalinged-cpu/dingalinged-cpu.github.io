@@ -15,7 +15,7 @@ Maple Hill Senior Living is an assisted living facility in Maplewood, MN at 3030
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/maple-hill-senior-living-maplewood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/maple-hill-senior-living-maplewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/137493663 (license ODbL-1.0); source data as of 2026-07-24

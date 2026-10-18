@@ -1,0 +1,23 @@
+State Farm is an insurance agent in Little Elm, TX at 800 West Eldorado Parkway #116, Little Elm, TX 75068. Phone: +14692380912. Website: https://www.ryandunnsf.com/.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 800 West Eldorado Parkway #116, Little Elm, TX 75068
+- City: Little Elm
+- State: TX
+- ZIP: 75068
+- Coordinates: 33.155132, -96.943612
+- Phone: +14692380912
+- Website: https://www.ryandunnsf.com/
+- Email: ryan@ryandunnsf.com
+- Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-little-elm/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-little-elm.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/707394684 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

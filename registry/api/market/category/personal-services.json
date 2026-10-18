@@ -2,7 +2,7 @@
  "title": "Keyword market data: Personal Services",
  "description": "Top Personal Services keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
  "industry": "Personal Services",
  "keywords": 14,
  "lists": {
@@ -34,7 +34,7 @@
     "search_value_index_usd": 1600000,
     "equivalent_google_ads_cost_month_usd": 120000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 525,
+    "registry_competitors": 802,
     "ranked_by": "by_cpc"
    },
    {
@@ -62,7 +62,7 @@
     "search_value_index_usd": 1600000,
     "equivalent_google_ads_cost_month_usd": 120000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 21,
+    "registry_competitors": 50,
     "ranked_by": "by_cpc"
    },
    {
@@ -76,7 +76,7 @@
     "search_value_index_usd": 1600000,
     "equivalent_google_ads_cost_month_usd": 120000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 181,
+    "registry_competitors": 403,
     "ranked_by": "by_cpc"
    },
    {
@@ -90,7 +90,7 @@
     "search_value_index_usd": 1600000,
     "equivalent_google_ads_cost_month_usd": 120000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 125,
+    "registry_competitors": 230,
     "ranked_by": "by_cpc"
    },
    {
@@ -160,7 +160,7 @@
     "search_value_index_usd": 1600000,
     "equivalent_google_ads_cost_month_usd": 120000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 31,
+    "registry_competitors": 76,
     "ranked_by": "by_cpc"
    },
    {
@@ -238,7 +238,6 @@
   ]
  },
  "license": {
-  "registry_estimates": "CC-BY-4.0",
-  "url": "https://creativecommons.org/licenses/by/4.0/"
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
  }
 }

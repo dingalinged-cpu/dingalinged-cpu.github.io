@@ -15,7 +15,7 @@ Stephen G. Marshall, DDS is a dentist in Westchester, IL at 10510 Cermak Road, W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/stephen-g-marshall-dds-westchester/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/stephen-g-marshall-dds-westchester.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1204729254 (license ODbL-1.0); source data as of 2026-07-28

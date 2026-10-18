@@ -15,7 +15,7 @@ M & A Hand Car Wash is a car wash in Chicago, IL at 9333 South South Chicago Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/m-and-a-hand-car-wash-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/m-and-a-hand-car-wash-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211362586 (license ODbL-1.0); source data as of 2026-07-28

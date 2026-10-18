@@ -15,7 +15,7 @@ Total Wine is a liquor store in Maple Grove, MN at 12795 Elm Creek Boulevard, Ma
 - Opening hours (OSM syntax): Mo-Sa 08:00-22:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/total-wine-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/total-wine-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/52054298 (license ODbL-1.0); source data as of 2026-06-01

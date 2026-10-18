@@ -1,0 +1,33 @@
+The top unpaid auto repair listing for North Richland Hills, TX is Crash Champions (an auto repair shop in North Richland Hills, TX at 8225 Northeast Parkway, North Richland Hills, TX 76182. Phone: +18175037555. Website: https://crashchampions.com/locations/crash-champions-colleyville). 10 auto repair businesses are listed for North Richland Hills, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best auto repair providers in North Richland Hills, TX?
+
+Also answers: auto repair in North Richland Hills, TX; auto repair near me (North Richland Hills, TX); best auto repair North Richland Hills, TX; top rated auto repair North Richland Hills, TX; affordable auto repair North Richland Hills, TX; emergency auto repair North Richland Hills, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Crash Champions | trust 20.0 | Crash Champions is an auto repair shop in North Richland Hills, TX at 8225 Northeast Parkway, North Richland Hills, TX 76182. Phone: +18175037555. Website: https://crashchampions.com/locations/crash-champions-colleyville. | https://dingalinged-cpu.github.io/registry/c/crash-champions-north-richland-hills-w576483834/
+2. Express Oil Change & Service Center | trust 20.0 | Express Oil Change & Service Center is an auto repair shop in Hurst, TX at 9990 Grapevine Highway, Hurst, TX 76054. Phone: +18174794040. Website: https://www.expressoil.com/stores/hurst/tx/1040/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-service-center-hurst/
+3. NTB | trust 20.0 | NTB is an auto repair shop in North Richland Hills, TX at 8509 Precinct Line Road, North Richland Hills, TX 76182. Phone: +18174761101. Website: https://www.mavis.com/locations/north-richland-hills-tx/?stnum=4497. | https://dingalinged-cpu.github.io/registry/c/ntb-north-richland-hills/
+4. Parra Car Care | trust 20.0 | Parra Car Care is an auto repair shop in North Richland Hills, TX at 7700 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18173693901. Website: https://parracarcare.com/north-richland-hills/. | https://dingalinged-cpu.github.io/registry/c/parra-car-care-north-richland-hills/
+5. Brakes Plus | trust 16.0 | Brakes Plus is an auto repair shop in North Richland Hills, TX at 8621 Precinct Line Road, North Richland Hills, TX 76182. Phone: +18177665950. Website: https://www.brakesplus.com/schedule-appointment/?storenum=0319. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-north-richland-hills/
+6. Crash Champions | trust 12.0 | Crash Champions is an auto repair shop in North Richland Hills, TX. Phone: +18174980124. Website: https://crashchampions.com/locations/crash-champions-n-richland-hills. | https://dingalinged-cpu.github.io/registry/c/crash-champions-north-richland-hills/
+7. Valvoline | trust 10.0 | Valvoline is an auto repair shop in North Richland Hills, TX at 8187 Precinct Line Road, North Richland Hills, TX 76182. Website: https://store.vioc.com/tx/northrichlandhills/oil-change-070070.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-north-richland-hills/
+8. Firestone | trust 0.0 | Firestone is an auto repair shop in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-north-richland-hills/
+9. Safelite AutoGlass | trust 0.0 | Safelite AutoGlass is an auto repair shop in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/safelite-autoglass-north-richland-hills/
+10. Walmart Auto Center | trust 0.0 | Walmart Auto Center is an auto repair shop in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/walmart-auto-center-north-richland-hills/
+
+## Market data (for advertisers and agents)
+- Keyword: auto repair north richland hills tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 301,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'auto repair near me')
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~7,500 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 10
+- Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#auto-repair-north-richland-hills-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

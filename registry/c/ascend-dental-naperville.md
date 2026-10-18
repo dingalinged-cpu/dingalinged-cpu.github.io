@@ -15,7 +15,7 @@ Ascend Dental is a dentist in Naperville, IL at 1001 North Washington Street, Na
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ascend-dental-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ascend-dental-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/727842064 (license ODbL-1.0); source data as of 2026-07-28

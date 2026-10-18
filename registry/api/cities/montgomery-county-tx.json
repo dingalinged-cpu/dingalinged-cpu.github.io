@@ -1,0 +1,3228 @@
+{
+ "place": "Montgomery County, TX",
+ "slug": "montgomery-county-tx",
+ "count": 111,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "auto repair montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "car wash montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "chiropractor montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "dance studio montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "daycare montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "dentist montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "dog boarding montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-boarding-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "dog groomer montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "dry cleaners montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "event venues montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "eye doctor montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "financial advisor montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "flooring companies montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "florist montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "funeral home montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "furniture store montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "gift shop montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "gym montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "hair salon montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "haircut montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "heating and air montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "hvac repair montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "insurance agency montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "insurance agent montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "insurance agents montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "jewelry store montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "landscaping montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/landscaping-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "liquor store montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "massage montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "mechanic montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "nail salon montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "occupational therapist montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/occupational-therapist-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "pet store montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "physical therapy montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "printing services montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "real estate agent montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "realtor montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "roofer montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "roofing contractor montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "shoe repair montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/shoe-repair-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "spa montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/spa-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "storage units montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "tanning salon montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "therapist montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "thrift store montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "tire shop montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "transmission repair montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/transmission-repair-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "vet montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "waxing montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "window replacement montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-replacement-montgomery-county-tx.json"
+  },
+  {
+   "keyword": "yoga classes montgomery county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-montgomery-county-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "prime-dental-care-usa-montgomery-county",
+   "name": "Prime Dental Care USA",
+   "summary": "Prime Dental Care USA is a dentist in Montgomery County, TX at 25114 Grogans Mill Road #D, Montgomery County, TX. Phone: +18326500553.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prime-dental-care-usa-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prime-dental-care-usa-montgomery-county.json",
+   "address": {
+    "streetAddress": "25114 Grogans Mill Road #D",
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1284924,
+    "lon": -95.4554794
+   },
+   "phone": "+18326500553",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13365797605",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "european-wax-center-montgomery-county",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Montgomery County, TX. Website: https://locations.waxcenter.com/tx/magnolia/magnolia-westwood-village-1030.html.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2199254,
+    "lon": -95.5651688
+   },
+   "website": "https://locations.waxcenter.com/tx/magnolia/magnolia-westwood-village-1030.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10569230436",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "executive-automotive-service-and-transmission-montgomery-county",
+   "name": "Executive Automotive Service & Transmission",
+   "summary": "Executive Automotive Service & Transmission is an auto repair shop in Montgomery County, TX. Phone: +12816898149.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/executive-automotive-service-and-transmission-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/executive-automotive-service-and-transmission-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1365199,
+    "lon": -95.2171412
+   },
+   "phone": "+12816898149",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11699244183",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tullos-collision-montgomery-county",
+   "name": "Tullos Collision",
+   "summary": "Tullos Collision is an auto repair shop in Montgomery County, TX. Phone: +12813993903.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tullos-collision-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tullos-collision-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1498797,
+    "lon": -95.2125062
+   },
+   "phone": "+12813993903",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11699239650",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valvoline-montgomery-county",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Montgomery County, TX. Website: https://store.vioc.com/tx/magnolia/oil-change-070069.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2198278,
+    "lon": -95.5688026
+   },
+   "website": "https://store.vioc.com/tx/magnolia/oil-change-070069.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/503245844",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grand-liquor-montgomery-county",
+   "name": "Grand Liquor",
+   "summary": "Grand Liquor is a liquor store in Montgomery County, TX at 20306 Eastex Freeway #C, Montgomery County, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grand-liquor-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grand-liquor-montgomery-county.json",
+   "address": {
+    "streetAddress": "20306 Eastex Freeway #C",
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1508984,
+    "lon": -95.2193138
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10634748126",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-montgomery-county-n10634748127",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Montgomery County, TX at 20306 Eastex Freeway #B, Montgomery County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-montgomery-county-n10634748127/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-montgomery-county-n10634748127.json",
+   "address": {
+    "streetAddress": "20306 Eastex Freeway #B",
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1508563,
+    "lon": -95.2193358
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10634748127",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-caney-dental-and-orthodontics-montgomery-county",
+   "name": "New Caney Dental & Orthodontics",
+   "summary": "New Caney Dental & Orthodontics is a dentist in Montgomery County, TX at 20172 Eastex Freeway #B, Montgomery County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-caney-dental-and-orthodontics-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-caney-dental-and-orthodontics-montgomery-county.json",
+   "address": {
+    "streetAddress": "20172 Eastex Freeway #B",
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1532653,
+    "lon": -95.2178694
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9498971358",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "1st-foot-massage-montgomery-county",
+   "name": "1st Foot Massage",
+   "summary": "1st Foot Massage is a massage studio in Montgomery County, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1st-foot-massage-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1st-foot-massage-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1262919,
+    "lon": -95.4369677
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13717166564",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "a-transmission-specialists-montgomery-county",
+   "name": "A+ Transmission Specialists",
+   "summary": "A+ Transmission Specialists is an auto repair shop in Montgomery County, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-transmission-specialists-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-transmission-specialists-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2247845,
+    "lon": -95.5571152
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521234490",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "all-floors-and-more-montgomery-county",
+   "name": "All Floors and More",
+   "summary": "All Floors and More is a flooring company in Montgomery County, TX.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-floors-and-more-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-floors-and-more-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2217071,
+    "lon": -95.5619173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6898710766",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-montgomery-county",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Montgomery County, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2239415,
+    "lon": -95.5486783
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887604850",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allure-nails-and-spa-montgomery-county",
+   "name": "Allure Nails & Spa",
+   "summary": "Allure Nails & Spa is a nail salon in Montgomery County, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allure-nails-and-spa-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allure-nails-and-spa-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2234796,
+    "lon": -95.5587457
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894162441",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allure-pet-grooming-montgomery-county",
+   "name": "Allure Pet Grooming",
+   "summary": "Allure Pet Grooming is a dog groomer in Montgomery County, TX.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allure-pet-grooming-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allure-pet-grooming-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.223945,
+    "lon": -95.5485482
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887604852",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "banfield-pet-hospital-montgomery-county",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Montgomery County, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2193062,
+    "lon": -95.5649518
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10569230427",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bear-branch-boat-and-rv-storage-montgomery-county",
+   "name": "Bear Branch Boat & RV Storage",
+   "summary": "Bear Branch Boat & RV Storage is a self-storage facility in Montgomery County, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bear-branch-boat-and-rv-storage-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bear-branch-boat-and-rv-storage-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2188653,
+    "lon": -95.561863
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894162450",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "best-friends-pet-resort-and-spa-montgomery-county",
+   "name": "Best Friends Pet Resort & Spa",
+   "summary": "Best Friends Pet Resort & Spa is a dog boarding facility in Montgomery County, TX.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-friends-pet-resort-and-spa-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-friends-pet-resort-and-spa-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1535311,
+    "lon": -95.449503
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/243442428",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "best-friends-veterinary-hospital-drive-thru-pet-pharmacy-montgomery-county",
+   "name": "Best Friends Veterinary Hospital / Drive-thru Pet Pharmacy",
+   "summary": "Best Friends Veterinary Hospital / Drive-thru Pet Pharmacy is a veterinarian in Montgomery County, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-friends-veterinary-hospital-drive-thru-pet-pharmacy-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-friends-veterinary-hospital-drive-thru-pet-pharmacy-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1542989,
+    "lon": -95.449607
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/243442431",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "body-and-brain-montgomery-county",
+   "name": "Body & Brain",
+   "summary": "Body & Brain is a yoga studio in Montgomery County, TX.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/body-and-brain-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/body-and-brain-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2286653,
+    "lon": -95.5198461
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5332255331",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "boogiebeez-dance-studio-montgomery-county",
+   "name": "Boogiebeez Dance Studio",
+   "summary": "Boogiebeez Dance Studio is a dance studio in Montgomery County, TX.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boogiebeez-dance-studio-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boogiebeez-dance-studio-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2043453,
+    "lon": -95.5807748
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360922",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "boot-and-shoe-repair-montgomery-county",
+   "name": "Boot & Shoe Repair",
+   "summary": "Boot & Shoe Repair is a shoe repair in Montgomery County, TX.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boot-and-shoe-repair-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boot-and-shoe-repair-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2251961,
+    "lon": -95.5390597
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887604846",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "caney-creek-cleaners-montgomery-county",
+   "name": "Caney Creek Cleaners",
+   "summary": "Caney Creek Cleaners is a dry cleaner in Montgomery County, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caney-creek-cleaners-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caney-creek-cleaners-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1533532,
+    "lon": -95.2178113
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9498971359",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cantera-doors-montgomery-county",
+   "name": "Cantera Doors",
+   "summary": "Cantera Doors is a furniture store in Montgomery County, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cantera-doors-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cantera-doors-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1963993,
+    "lon": -95.58869
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360920",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "castle-dental-montgomery-county",
+   "name": "Castle Dental",
+   "summary": "Castle Dental is a dentist in Montgomery County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/castle-dental-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/castle-dental-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2226856,
+    "lon": -95.5621171
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887604869",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "comet-cleaners-montgomery-county",
+   "name": "Comet Cleaners",
+   "summary": "Comet Cleaners is a dry cleaner in Montgomery County, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/comet-cleaners-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/comet-cleaners-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2286136,
+    "lon": -95.5202105
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5332255335",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "creative-nails-montgomery-county",
+   "name": "Creative Nails",
+   "summary": "Creative Nails is a nail salon in Montgomery County, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/creative-nails-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/creative-nails-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.223945,
+    "lon": -95.5484906
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887604851",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "delta-life-fitness-montgomery-county",
+   "name": "Delta Life Fitness",
+   "summary": "Delta Life Fitness is a gym in Montgomery County, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/delta-life-fitness-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/delta-life-fitness-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2259612,
+    "lon": -95.5423846
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901059635",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "earthwise-pet-montgomery-county",
+   "name": "EarthWise Pet",
+   "summary": "EarthWise Pet is a pet store in Montgomery County, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/earthwise-pet-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/earthwise-pet-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2287789,
+    "lon": -95.5183474
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6895894738",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eco-cleaners-montgomery-county",
+   "name": "Eco Cleaners",
+   "summary": "Eco Cleaners is a dry cleaner in Montgomery County, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eco-cleaners-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eco-cleaners-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2239462,
+    "lon": -95.5484329
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887604849",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-montgomery-county",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Montgomery County, TX.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2286993,
+    "lon": -95.5197313
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5332255329",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-montgomery-county-n11359397475",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Montgomery County, TX.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-montgomery-county-n11359397475/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-montgomery-county-n11359397475.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1337316,
+    "lon": -95.2342259
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11359397475",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-montgomery-county-n6887619091",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Montgomery County, TX.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-montgomery-county-n6887619091/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-montgomery-county-n6887619091.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2231495,
+    "lon": -95.5637124
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887619091",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "executive-nails-and-spa-montgomery-county",
+   "name": "Executive Nails & Spa",
+   "summary": "Executive Nails & Spa is a nail salon in Montgomery County, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/executive-nails-and-spa-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/executive-nails-and-spa-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2236133,
+    "lon": -95.5549806
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6884246474",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "exotic-tan-montgomery-county",
+   "name": "Exotic Tan",
+   "summary": "Exotic Tan is a tanning salon in Montgomery County, TX.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/exotic-tan-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/exotic-tan-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2224134,
+    "lon": -95.5629859
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6884246504",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-montgomery-county",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Montgomery County, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1481404,
+    "lon": -95.1618887
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1497887813",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "f45-training-montgomery-county",
+   "name": "F45 Training",
+   "summary": "F45 Training is a gym in Montgomery County, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/f45-training-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/f45-training-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2237436,
+    "lon": -95.5509625
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6884246602",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fantastic-sams-montgomery-county",
+   "name": "Fantastic Sams",
+   "summary": "Fantastic Sams is a hair salon in Montgomery County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fantastic-sams-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fantastic-sams-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2237492,
+    "lon": -95.5508479
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894235211",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "favour-dental-montgomery-county",
+   "name": "Favour Dental",
+   "summary": "Favour Dental is a dentist in Montgomery County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/favour-dental-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/favour-dental-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2239554,
+    "lon": -95.5494427
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887604855",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fish-creek-storage-montgomery-county",
+   "name": "Fish Creek Storage",
+   "summary": "Fish Creek Storage is a self-storage facility in Montgomery County, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fish-creek-storage-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fish-creek-storage-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3289805,
+    "lon": -95.5868221
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9284572193",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fish-r-us-montgomery-county",
+   "name": "Fish R Us",
+   "summary": "Fish R Us is a pet store in Montgomery County, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fish-r-us-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fish-r-us-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2091762,
+    "lon": -95.4162074
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/931212246",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "floors-for-living-montgomery-county",
+   "name": "Floors for Living",
+   "summary": "Floors for Living is a flooring company in Montgomery County, TX.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floors-for-living-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floors-for-living-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2230063,
+    "lon": -95.5641689
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6884246531",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "floss-dental-montgomery-county",
+   "name": "FLOSS Dental",
+   "summary": "FLOSS Dental is a dentist in Montgomery County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floss-dental-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floss-dental-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2230532,
+    "lon": -95.5640239
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887604879",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "foot-spa-montgomery-county",
+   "name": "Foot Spa",
+   "summary": "Foot Spa is a spa in Montgomery County, TX.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/foot-spa-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/foot-spa-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2287814,
+    "lon": -95.5193188
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5332193817",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "forest-park-the-woodlands-funeral-home-and-cemetery-montgomery-county",
+   "name": "Forest Park - The Woodlands Funeral Home & Cemetery",
+   "summary": "Forest Park - The Woodlands Funeral Home & Cemetery is a funeral home in Montgomery County, TX.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forest-park-the-woodlands-funeral-home-and-cemetery-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forest-park-the-woodlands-funeral-home-and-cemetery-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1951394,
+    "lon": -95.4557096
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13596411676",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "galindos-montgomery-county",
+   "name": "Galindo's",
+   "summary": "Galindo's is a hair salon in Montgomery County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/galindos-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/galindos-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2319715,
+    "lon": -95.4995963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11815298306",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "glass-and-mirror-depot-montgomery-county",
+   "name": "Glass & Mirror Depot",
+   "summary": "Glass & Mirror Depot is a window installer in Montgomery County, TX.",
+   "categories": [
+    "window replacement"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glass-and-mirror-depot-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glass-and-mirror-depot-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2251961,
+    "lon": -95.5391465
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887604845",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-montgomery-county",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Montgomery County, TX.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2234796,
+    "lon": -95.5588765
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894162443",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-montgomery-county-n6974712288",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Montgomery County, TX.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-montgomery-county-n6974712288/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-montgomery-county-n6974712288.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1252777,
+    "lon": -95.4504143
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6974712288",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-montgomery-county",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Montgomery County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2286897,
+    "lon": -95.5197864
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5332255330",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-e-b-car-wash-montgomery-county",
+   "name": "H-E-B Car Wash",
+   "summary": "H-E-B Car Wash is a car wash in Montgomery County, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-car-wash-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1094249,
+    "lon": -95.3873506
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/437768881",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-e-b-car-wash-montgomery-county-w503245798",
+   "name": "H-E-B Car Wash",
+   "summary": "H-E-B Car Wash is a car wash in Montgomery County, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-montgomery-county-w503245798/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-car-wash-montgomery-county-w503245798.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2215425,
+    "lon": -95.5842488
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/503245798",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-e-b-car-wash-montgomery-county-w852033164",
+   "name": "H-E-B Car Wash",
+   "summary": "H-E-B Car Wash is a car wash in Montgomery County, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-montgomery-county-w852033164/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-car-wash-montgomery-county-w852033164.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2076144,
+    "lon": -95.4256281
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/852033164",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hotworx-montgomery-county",
+   "name": "Hotworx",
+   "summary": "Hotworx is a gym in Montgomery County, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hotworx-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hotworx-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1335745,
+    "lon": -95.2342233
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11359397474",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "houston-event-center-montgomery-county",
+   "name": "Houston Event Center",
+   "summary": "Houston Event Center is an event venue in Montgomery County, TX.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/houston-event-center-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/houston-event-center-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.156876,
+    "lon": -95.4263232
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13625747878",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "igs-montgomery-county",
+   "name": "igs",
+   "summary": "igs is a furniture store in Montgomery County, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/igs-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/igs-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1963966,
+    "lon": -95.5885467
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360919",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "institute-for-physical-and-regenerative-medicine-montgomery-county",
+   "name": "Institute for Physical & Regenerative Medicine",
+   "summary": "Institute for Physical & Regenerative Medicine is a chiropractor in Montgomery County, TX.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/institute-for-physical-and-regenerative-medicine-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/institute-for-physical-and-regenerative-medicine-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1477384,
+    "lon": -95.4482314
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13055097920",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "invision-eyecare-montgomery-county",
+   "name": "InVision EyeCare",
+   "summary": "InVision EyeCare is an eye care practice in Montgomery County, TX.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/invision-eyecare-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/invision-eyecare-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2287569,
+    "lon": -95.5194776
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5332193819",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "james-avery-jewelry-montgomery-county",
+   "name": "James Avery Jewelry",
+   "summary": "James Avery Jewelry is a jewelry store in Montgomery County, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-avery-jewelry-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1332976,
+    "lon": -95.231098
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6781847142",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "james-avery-jewelry-montgomery-county-n10569230428",
+   "name": "James Avery Jewelry",
+   "summary": "James Avery Jewelry is a jewelry store in Montgomery County, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-montgomery-county-n10569230428/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-avery-jewelry-montgomery-county-n10569230428.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2195294,
+    "lon": -95.565227
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10569230428",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kainer-veterinary-hospital-montgomery-county",
+   "name": "Kainer Veterinary Hospital",
+   "summary": "Kainer Veterinary Hospital is a veterinarian in Montgomery County, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kainer-veterinary-hospital-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kainer-veterinary-hospital-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2277207,
+    "lon": -95.5239703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/735050575",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "laser-spine-and-pain-institute-montgomery-county",
+   "name": "Laser Spine & Pain Institute",
+   "summary": "Laser Spine & Pain Institute is a chiropractor in Montgomery County, TX.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/laser-spine-and-pain-institute-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/laser-spine-and-pain-institute-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1478009,
+    "lon": -95.4482446
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13055097921",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "liquor-lot-montgomery-county",
+   "name": "Liquor Lot",
+   "summary": "Liquor Lot is a liquor store in Montgomery County, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-lot-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-lot-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2223625,
+    "lon": -95.5632827
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6884246507",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lone-star-animal-hospital-montgomery-county",
+   "name": "Lone Star Animal Hospital",
+   "summary": "Lone Star Animal Hospital is a veterinarian in Montgomery County, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lone-star-animal-hospital-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lone-star-animal-hospital-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2246797,
+    "lon": -95.555252
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/503245769",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "loving-grace-flowers-montgomery-county",
+   "name": "Loving Grace Flowers",
+   "summary": "Loving Grace Flowers is a florist in Montgomery County, TX.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/loving-grace-flowers-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/loving-grace-flowers-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2240503,
+    "lon": -95.5455853
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521234556",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "madeval-montgomery-county",
+   "name": "Madeval",
+   "summary": "Madeval is a furniture store in Montgomery County, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/madeval-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/madeval-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1963948,
+    "lon": -95.5883317
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360918",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "magic-foot-massage-montgomery-county",
+   "name": "Magic Foot Massage",
+   "summary": "Magic Foot Massage is a massage studio in Montgomery County, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magic-foot-massage-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magic-foot-massage-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2239427,
+    "lon": -95.5487427
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887604853",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "magnum-roofing-montgomery-county",
+   "name": "Magnum Roofing",
+   "summary": "Magnum Roofing is a roofer in Montgomery County, TX.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magnum-roofing-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magnum-roofing-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1417834,
+    "lon": -95.2165782
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11699244004",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "malibu-nails-and-spa-montgomery-county",
+   "name": "Malibu Nails & Spa",
+   "summary": "Malibu Nails & Spa is a nail salon in Montgomery County, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/malibu-nails-and-spa-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/malibu-nails-and-spa-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2256326,
+    "lon": -95.5417796
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901059647",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mastercuts-montgomery-county",
+   "name": "Mastercuts",
+   "summary": "Mastercuts is a hair salon in Montgomery County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mastercuts-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mastercuts-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2239601,
+    "lon": -95.549723
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887604857",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mercy-house-global-market-montgomery-county",
+   "name": "Mercy House Global Market",
+   "summary": "Mercy House Global Market is a thrift store in Montgomery County, TX.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mercy-house-global-market-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mercy-house-global-market-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2246683,
+    "lon": -95.5563431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/735050595",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "my-kids-dentist-montgomery-county",
+   "name": "My Kid's Dentist",
+   "summary": "My Kid's Dentist is a dentist in Montgomery County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/my-kids-dentist-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/my-kids-dentist-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2285373,
+    "lon": -95.520464
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5332255338",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ntb-montgomery-county",
+   "name": "NTB",
+   "summary": "NTB is a tire shop in Montgomery County, TX.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ntb-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ntb-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2234214,
+    "lon": -95.5595677
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/551981224",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "offset-kustoms-montgomery-county",
+   "name": "Offset Kustoms",
+   "summary": "Offset Kustoms is an auto repair shop in Montgomery County, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/offset-kustoms-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/offset-kustoms-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1441668,
+    "lon": -95.2244032
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5270776193",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "olive-nails-and-spa-montgomery-county",
+   "name": "Olive Nails & Spa",
+   "summary": "Olive Nails & Spa is a nail salon in Montgomery County, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/olive-nails-and-spa-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/olive-nails-and-spa-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1533109,
+    "lon": -95.2178424
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9498971362",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "parks-barber-shop-montgomery-county",
+   "name": "Parks Barber Shop",
+   "summary": "Parks Barber Shop is a hair salon in Montgomery County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/parks-barber-shop-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/parks-barber-shop-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2247756,
+    "lon": -95.5565904
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/735050594",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-clinic-montgomery-county",
+   "name": "Pet Clinic",
+   "summary": "Pet Clinic is a veterinarian in Montgomery County, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-clinic-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-clinic-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2218531,
+    "lon": -95.5644576
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6884246514",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pine-grove-dining-hall-montgomery-county",
+   "name": "Pine Grove Dining Hall",
+   "summary": "Pine Grove Dining Hall is an event venue in Montgomery County, TX.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pine-grove-dining-hall-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pine-grove-dining-hall-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1377901,
+    "lon": -95.1730749
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1294883131",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prodigy-insurance-group-montgomery-county",
+   "name": "Prodigy Insurance Group",
+   "summary": "Prodigy Insurance Group is an insurance agent in Montgomery County, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prodigy-insurance-group-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prodigy-insurance-group-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2243931,
+    "lon": -95.5607605
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/503245620",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "professional-day-spa-montgomery-county",
+   "name": "Professional Day Spa",
+   "summary": "Professional Day Spa is a spa in Montgomery County, TX.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/professional-day-spa-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/professional-day-spa-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2239612,
+    "lon": -95.5498129
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887604858",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-montgomery-county",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Montgomery County, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2217803,
+    "lon": -95.5631431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/585274818",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "quick-quack-car-wash-montgomery-county",
+   "name": "Quick Quack Car Wash",
+   "summary": "Quick Quack Car Wash is a car wash in Montgomery County, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quick-quack-car-wash-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quick-quack-car-wash-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2290763,
+    "lon": -95.5171473
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6887099495",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rc-nails-and-spa-montgomery-county",
+   "name": "RC Nails & Spa",
+   "summary": "RC Nails & Spa is a nail salon in Montgomery County, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rc-nails-and-spa-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rc-nails-and-spa-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2286638,
+    "lon": -95.5199539
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5332255332",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ricks-barber-shop-montgomery-county",
+   "name": "Rick's Barber Shop",
+   "summary": "Rick's Barber Shop is a hair salon in Montgomery County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ricks-barber-shop-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ricks-barber-shop-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2042984,
+    "lon": -95.5807109
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360923",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rise-dentistry-montgomery-county",
+   "name": "Rise Dentistry",
+   "summary": "Rise Dentistry is a dentist in Montgomery County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rise-dentistry-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rise-dentistry-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2200654,
+    "lon": -95.5650387
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10569230433",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rocking-horse-day-care-center-montgomery-county",
+   "name": "Rocking Horse Day Care Center",
+   "summary": "Rocking Horse Day Care Center is a daycare in Montgomery County, TX.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rocking-horse-day-care-center-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rocking-horse-day-care-center-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.0596077,
+    "lon": -95.2421457
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/428372967",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "scogin-aire-mechanical-inc-montgomery-county",
+   "name": "Scogin-Aire Mechanical, Inc.",
+   "summary": "Scogin-Aire Mechanical, Inc. is a HVAC contractor in Montgomery County, TX.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scogin-aire-mechanical-inc-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scogin-aire-mechanical-inc-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2263459,
+    "lon": -95.5320731
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894648101",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "select-physical-therapy-montgomery-county",
+   "name": "Select Physical Therapy",
+   "summary": "Select Physical Therapy is a physical therapy clinic in Montgomery County, TX.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/select-physical-therapy-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/select-physical-therapy-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2236163,
+    "lon": -95.5548265
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9281892569",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "spectrum-of-hope-montgomery-county",
+   "name": "Spectrum of Hope",
+   "summary": "Spectrum of Hope is an occupational therapist in Montgomery County, TX.",
+   "categories": [
+    "occupational therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spectrum-of-hope-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spectrum-of-hope-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2178936,
+    "lon": -95.5630002
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/736384656",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-montgomery-county",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Montgomery County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2234776,
+    "lon": -95.558692
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894162440",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stallion-storage-montgomery-county",
+   "name": "Stallion Storage",
+   "summary": "Stallion Storage is a self-storage facility in Montgomery County, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stallion-storage-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stallion-storage-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1484575,
+    "lon": -95.210462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1497877074",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-montgomery-county",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Montgomery County, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2286503,
+    "lon": -95.5200389
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5332255333",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-montgomery-county-w736856006",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Montgomery County, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-montgomery-county-w736856006/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-montgomery-county-w736856006.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2168577,
+    "lon": -95.5685394
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/736856006",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-montgomery-county",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Montgomery County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2287392,
+    "lon": -95.5184652
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5332255341",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "take-5-oil-change-montgomery-county",
+   "name": "Take 5 oil change",
+   "summary": "Take 5 oil change is an auto repair shop in Montgomery County, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2227519,
+    "lon": -95.67261
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13255430037",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-timber-resources-montgomery-county",
+   "name": "Texas Timber Resources",
+   "summary": "Texas Timber Resources is a landscaping company in Montgomery County, TX.",
+   "categories": [
+    "landscaping"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-timber-resources-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-timber-resources-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2230348,
+    "lon": -95.6197965
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7205006151",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-truck-works-montgomery-county",
+   "name": "Texas Truck Works",
+   "summary": "Texas Truck Works is an auto repair shop in Montgomery County, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-truck-works-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-truck-works-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2101989,
+    "lon": -95.5723489
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/737160918",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "thai-massage-montgomery-county",
+   "name": "Thai Massage",
+   "summary": "Thai Massage is a massage studio in Montgomery County, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thai-massage-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thai-massage-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2256177,
+    "lon": -95.5363934
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901059628",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-collection-real-estate-montgomery-county",
+   "name": "The Collection Real Estate",
+   "summary": "The Collection Real Estate is a real estate agency in Montgomery County, TX.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-collection-real-estate-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-collection-real-estate-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2256569,
+    "lon": -95.5423846
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901059631",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-joint-chiropractic-montgomery-county",
+   "name": "The Joint Chiropractic",
+   "summary": "The Joint Chiropractic is a chiropractor in Montgomery County, TX.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2199557,
+    "lon": -95.565137
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10569230435",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-krest-hand-car-wash-montgomery-county",
+   "name": "The Krest Hand Car Wash",
+   "summary": "The Krest Hand Car Wash is a car wash in Montgomery County, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-krest-hand-car-wash-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-krest-hand-car-wash-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.224741,
+    "lon": -95.5518118
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/735376586",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-nails-lounge-montgomery-county",
+   "name": "The Nails Lounge",
+   "summary": "The Nails Lounge is a nail salon in Montgomery County, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-nails-lounge-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-nails-lounge-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2217279,
+    "lon": -95.5614729
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6898710765",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-montgomery-county",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Montgomery County, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2285928,
+    "lon": -95.5202643
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5332255336",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tide-cleaners-montgomery-county",
+   "name": "Tide Cleaners",
+   "summary": "Tide Cleaners is a dry cleaner in Montgomery County, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tide-cleaners-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tide-cleaners-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1277661,
+    "lon": -95.4362734
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13717165411",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tipler-montgomery-county",
+   "name": "Tipler",
+   "summary": "Tipler is a furniture store in Montgomery County, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tipler-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tipler-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.196434,
+    "lon": -95.5880458
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360917",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tran-cleaners-montgomery-county",
+   "name": "Tran Cleaners",
+   "summary": "Tran Cleaners is a dry cleaner in Montgomery County, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tran-cleaners-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tran-cleaners-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1274692,
+    "lon": -95.4558515
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12780052773",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "twisted-willow-mercantile-montgomery-county",
+   "name": "Twisted Willow Mercantile",
+   "summary": "Twisted Willow Mercantile is a gift shop in Montgomery County, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twisted-willow-mercantile-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twisted-willow-mercantile-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2198555,
+    "lon": -95.5652495
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10569230432",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vision-private-storage-montgomery-county",
+   "name": "Vision Private Storage",
+   "summary": "Vision Private Storage is a self-storage facility in Montgomery County, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vision-private-storage-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vision-private-storage-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2073334,
+    "lon": -95.5767655
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901360944",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woodland-lakes-dental-studio-montgomery-county",
+   "name": "Woodland Lakes Dental Studio",
+   "summary": "Woodland Lakes Dental Studio is a dentist in Montgomery County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodland-lakes-dental-studio-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodland-lakes-dental-studio-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2257502,
+    "lon": -95.5423863
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901059632",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woodland-springs-hospital-montgomery-county",
+   "name": "Woodland Springs Hospital",
+   "summary": "Woodland Springs Hospital is a therapy practice in Montgomery County, TX.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodland-springs-hospital-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodland-springs-hospital-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2292957,
+    "lon": -95.5404341
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/735262415",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woods-dental-group-and-orthodontics-montgomery-county",
+   "name": "Woods Dental Group and Orthodontics",
+   "summary": "Woods Dental Group and Orthodontics is a dentist in Montgomery County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woods-dental-group-and-orthodontics-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woods-dental-group-and-orthodontics-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2285518,
+    "lon": -95.5203404
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5332255337",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zipps-liquor-montgomery-county",
+   "name": "Zipps Liquor",
+   "summary": "Zipps Liquor is a liquor store in Montgomery County, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zipps-liquor-montgomery-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zipps-liquor-montgomery-county.json",
+   "address": {
+    "addressLocality": "Montgomery County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Montgomery County",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2079876,
+    "lon": -95.4183465
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8633621962",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

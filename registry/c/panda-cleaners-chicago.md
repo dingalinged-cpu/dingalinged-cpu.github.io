@@ -15,7 +15,7 @@ Panda Cleaners is a dry cleaner in Chicago, IL at 5500 West Lawrence Avenue, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/panda-cleaners-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/panda-cleaners-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4201234204 (license ODbL-1.0); source data as of 2026-06-01

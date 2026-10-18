@@ -15,7 +15,7 @@ Autoworks Collision is an auto repair shop in Greenfield, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/autoworks-collision-greenfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/autoworks-collision-greenfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1198171133 (license ODbL-1.0); source data as of 2026-06-01

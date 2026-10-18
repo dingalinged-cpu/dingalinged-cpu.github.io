@@ -15,7 +15,7 @@ Taylormade Kitchens is a cabinet maker in Naperville, IL at 1007 West Ogden Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/taylormade-kitchens-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/taylormade-kitchens-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8493340791 (license ODbL-1.0); source data as of 2026-06-01

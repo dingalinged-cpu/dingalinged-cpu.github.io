@@ -15,7 +15,7 @@ Law Offices of John Shine is a lawyer in Brookfield, IL at 8500 Brookfield Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/law-offices-of-john-shine-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/law-offices-of-john-shine-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9735798726 (license ODbL-1.0); source data as of 2026-07-28

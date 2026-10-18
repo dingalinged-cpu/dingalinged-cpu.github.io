@@ -15,7 +15,7 @@ Kut 'em Up Barber & Beauty Salon is a hair salon in Maywood, IL. Phone: +1708483
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kut-em-up-barber-and-beauty-salon-maywood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kut-em-up-barber-and-beauty-salon-maywood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12508268005 (license ODbL-1.0); source data as of 2026-06-01

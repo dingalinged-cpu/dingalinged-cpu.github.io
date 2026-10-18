@@ -15,7 +15,7 @@ Fuller's Car Wash is a car wash in Elk Grove Village, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fullers-car-wash-elk-grove-village/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fullers-car-wash-elk-grove-village.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/404175316 (license ODbL-1.0); source data as of 2026-07-28

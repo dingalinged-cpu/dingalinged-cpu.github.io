@@ -15,7 +15,7 @@ Gerber Collision & Glass is an auto repair shop in Glenview, IL at 1904 Lehigh A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/802744302 (license ODbL-1.0); source data as of 2026-06-01

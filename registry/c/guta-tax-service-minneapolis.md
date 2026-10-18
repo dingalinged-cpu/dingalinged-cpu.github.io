@@ -15,7 +15,7 @@ Guta Tax Service is an accountant in Minneapolis, MN at 2327 East Franklin Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/guta-tax-service-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/guta-tax-service-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12774406652 (license ODbL-1.0); source data as of 2026-05-31

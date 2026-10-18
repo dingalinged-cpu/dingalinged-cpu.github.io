@@ -15,7 +15,7 @@ Ragstock is a thrift store in Minneapolis, MN at 1433A West Lake Street, Minneap
 - Opening hours (OSM syntax): Mo-We 11:00-18:00; Th-Sa 11:00-19:00; Su 12:00-17:00; PH closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ragstock-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ragstock-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/770916606 (license ODbL-1.0); source data as of 2026-06-01

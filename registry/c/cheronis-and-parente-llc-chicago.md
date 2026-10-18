@@ -15,7 +15,7 @@ Cheronis & Parente LLC is a lawyer in Chicago, IL at 140 South Dearborn Street #
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cheronis-and-parente-llc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cheronis-and-parente-llc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11699770272 (license ODbL-1.0); source data as of 2026-07-28

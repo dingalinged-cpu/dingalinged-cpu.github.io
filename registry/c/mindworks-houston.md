@@ -1,0 +1,23 @@
+Mindworks is a gift shop in Houston, TX.
+
+# Mindworks
+
+- Category: gift shop
+- Services: gift shop
+- Address: Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.985481, -95.3351032
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 08:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mindworks-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mindworks-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7031806785 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

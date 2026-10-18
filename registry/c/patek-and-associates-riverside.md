@@ -15,7 +15,7 @@ Patek & Associates is an accountant in Riverside, IL at 345 East Burlington Stre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/patek-and-associates-riverside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/patek-and-associates-riverside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12032111918 (license ODbL-1.0); source data as of 2026-07-28

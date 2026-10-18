@@ -15,7 +15,7 @@ Panaderia Del Refugio is a bakery in Chicago, IL at 1339 West 18th Street, Chica
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/panaderia-del-refugio-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/panaderia-del-refugio-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6324287830 (license ODbL-1.0); source data as of 2026-06-01

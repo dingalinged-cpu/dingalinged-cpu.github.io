@@ -15,7 +15,7 @@ Mister Car Wash is a car wash in Anoka, MN at 700 East River Road, Anoka, MN. Ph
 - Opening hours (OSM syntax): Mo-Sa 07:30-19:00; Su 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mister-car-wash-anoka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-anoka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/744721949 (license ODbL-1.0); source data as of 2026-07-24

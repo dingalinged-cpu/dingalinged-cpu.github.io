@@ -15,7 +15,7 @@ Hermosa is a bakery in Chicago, IL at 4356 West Armitage Avenue, Chicago, IL 606
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hermosa-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hermosa-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6294351382 (license ODbL-1.0); source data as of 2026-06-01

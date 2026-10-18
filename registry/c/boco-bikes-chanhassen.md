@@ -15,7 +15,7 @@ Boco Bikes is a bike shop in Chanhassen, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/boco-bikes-chanhassen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/boco-bikes-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/40112529 (license ODbL-1.0); source data as of 2026-06-01

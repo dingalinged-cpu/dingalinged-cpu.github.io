@@ -1,0 +1,23 @@
+The Learning Experience is a daycare in Sachse, TX at 7950 South State Highway 78, Sachse, TX 75048.
+
+# The Learning Experience
+
+- Category: daycare
+- Services: daycare
+- Address: 7950 South State Highway 78, Sachse, TX 75048
+- City: Sachse
+- State: TX
+- ZIP: 75048
+- Coordinates: 32.9917193, -96.5685694
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-learning-experience-sachse/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-learning-experience-sachse.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1410161464 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

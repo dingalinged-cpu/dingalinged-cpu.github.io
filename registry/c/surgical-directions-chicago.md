@@ -15,7 +15,7 @@ Surgical Directions is a business consultant in Chicago, IL at 180 North Stetson
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/surgical-directions-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/surgical-directions-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13751483031 (license ODbL-1.0); source data as of 2026-07-28

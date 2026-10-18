@@ -15,7 +15,7 @@ Bramer Animal Hospital is a veterinarian in Evanston, IL at 1021 Davis Street, E
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bramer-animal-hospital-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bramer-animal-hospital-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/168370530 (license ODbL-1.0); source data as of 2026-07-28

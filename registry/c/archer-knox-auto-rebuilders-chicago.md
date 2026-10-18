@@ -15,7 +15,7 @@ Archer Knox Auto Rebuilders is an auto repair shop in Chicago, IL at 5285 South 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/archer-knox-auto-rebuilders-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/archer-knox-auto-rebuilders-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162165863 (license ODbL-1.0); source data as of 2026-06-01

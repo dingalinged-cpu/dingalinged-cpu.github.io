@@ -1,0 +1,23 @@
+Complete Auto Repair is an auto repair shop in Spring, TX at 4120 Spring Stuebner Road, Spring, TX 77389. Phone: +18327640607. Website: https://sites.google.com/view/completeautorepair/home.
+
+# Complete Auto Repair
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 4120 Spring Stuebner Road, Spring, TX 77389
+- City: Spring
+- State: TX
+- ZIP: 77389
+- Coordinates: 30.0835251, -95.4809304
+- Phone: +18327640607
+- Website: https://sites.google.com/view/completeautorepair/home
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/complete-auto-repair-spring/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/complete-auto-repair-spring.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1193277925 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

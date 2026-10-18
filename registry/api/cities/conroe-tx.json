@@ -1,0 +1,3454 @@
+{
+ "place": "Conroe, TX",
+ "slug": "conroe-tx",
+ "count": 108,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-conroe-tx.json"
+  },
+  {
+   "keyword": "accounting services conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-conroe-tx.json"
+  },
+  {
+   "keyword": "auto repair conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-conroe-tx.json"
+  },
+  {
+   "keyword": "bakery conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-conroe-tx.json"
+  },
+  {
+   "keyword": "barber shop conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-conroe-tx.json"
+  },
+  {
+   "keyword": "brake repair conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/brake-repair-conroe-tx.json"
+  },
+  {
+   "keyword": "car wash conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-conroe-tx.json"
+  },
+  {
+   "keyword": "chiropractor conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-conroe-tx.json"
+  },
+  {
+   "keyword": "dentist conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-conroe-tx.json"
+  },
+  {
+   "keyword": "dog groomer conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-conroe-tx.json"
+  },
+  {
+   "keyword": "dry cleaners conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-conroe-tx.json"
+  },
+  {
+   "keyword": "eye doctor conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-conroe-tx.json"
+  },
+  {
+   "keyword": "facial conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-conroe-tx.json"
+  },
+  {
+   "keyword": "flooring companies conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-conroe-tx.json"
+  },
+  {
+   "keyword": "florist conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-conroe-tx.json"
+  },
+  {
+   "keyword": "furniture store conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-conroe-tx.json"
+  },
+  {
+   "keyword": "gift shop conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-conroe-tx.json"
+  },
+  {
+   "keyword": "gym conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-conroe-tx.json"
+  },
+  {
+   "keyword": "hair salon conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-conroe-tx.json"
+  },
+  {
+   "keyword": "haircut conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-conroe-tx.json"
+  },
+  {
+   "keyword": "insulation contractor conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insulation-contractor-conroe-tx.json"
+  },
+  {
+   "keyword": "insurance agency conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-conroe-tx.json"
+  },
+  {
+   "keyword": "insurance agent conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-conroe-tx.json"
+  },
+  {
+   "keyword": "insurance agents conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-conroe-tx.json"
+  },
+  {
+   "keyword": "it support conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/it-support-conroe-tx.json"
+  },
+  {
+   "keyword": "jewelry store conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-conroe-tx.json"
+  },
+  {
+   "keyword": "liquor store conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-conroe-tx.json"
+  },
+  {
+   "keyword": "massage conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-conroe-tx.json"
+  },
+  {
+   "keyword": "mattress store conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-conroe-tx.json"
+  },
+  {
+   "keyword": "mechanic conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-conroe-tx.json"
+  },
+  {
+   "keyword": "music lessons conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/music-lessons-conroe-tx.json"
+  },
+  {
+   "keyword": "nail salon conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-conroe-tx.json"
+  },
+  {
+   "keyword": "oil change conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-conroe-tx.json"
+  },
+  {
+   "keyword": "pet store conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-conroe-tx.json"
+  },
+  {
+   "keyword": "plumber conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumber-conroe-tx.json"
+  },
+  {
+   "keyword": "plumbers conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbers-conroe-tx.json"
+  },
+  {
+   "keyword": "plumbing services conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbing-services-conroe-tx.json"
+  },
+  {
+   "keyword": "printing services conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-conroe-tx.json"
+  },
+  {
+   "keyword": "property management companies conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-companies-conroe-tx.json"
+  },
+  {
+   "keyword": "property management company conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-company-conroe-tx.json"
+  },
+  {
+   "keyword": "staffing agency conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-conroe-tx.json"
+  },
+  {
+   "keyword": "storage units conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-conroe-tx.json"
+  },
+  {
+   "keyword": "tailor conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-conroe-tx.json"
+  },
+  {
+   "keyword": "tattoo shop conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-conroe-tx.json"
+  },
+  {
+   "keyword": "tax preparation conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-conroe-tx.json"
+  },
+  {
+   "keyword": "tax preparer conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-conroe-tx.json"
+  },
+  {
+   "keyword": "therapist conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-conroe-tx.json"
+  },
+  {
+   "keyword": "thrift store conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-conroe-tx.json"
+  },
+  {
+   "keyword": "tire shop conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-conroe-tx.json"
+  },
+  {
+   "keyword": "vet conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-conroe-tx.json"
+  },
+  {
+   "keyword": "waxing conroe tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-conroe-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "1845-solutions-conroe",
+   "name": "1845 Solutions",
+   "summary": "1845 Solutions is an IT support company in Conroe, TX at 2200 North Frazier Street #120 PMB 224, Conroe, TX 77303. Phone: +13466481845. Website: https://1845solutions.com/.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1845-solutions-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1845-solutions-conroe.json",
+   "address": {
+    "streetAddress": "2200 North Frazier Street #120 PMB 224",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77303",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77303",
+   "geo": {
+    "lat": 30.3378077,
+    "lon": -95.4668119
+   },
+   "phone": "+13466481845",
+   "website": "https://1845solutions.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9979404658",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "a-better-way-chiropractic-conroe-conroe",
+   "name": "A Better Way Chiropractic - Conroe",
+   "summary": "A Better Way Chiropractic - Conroe is a chiropractor in Conroe, TX at 2510 South Loop 336 West #Suite 245, Conroe, TX 77304. Phone: +19364941222. Website: https://www.abetterwaychiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-better-way-chiropractic-conroe-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-better-way-chiropractic-conroe-conroe.json",
+   "address": {
+    "streetAddress": "2510 South Loop 336 West #Suite 245",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.2894072,
+    "lon": -95.4911856
+   },
+   "phone": "+19364941222",
+   "website": "https://www.abetterwaychiropractic.com/",
+   "opening_hours": "Mo 08:00-11:00; 16:00-18:00, Tu 15:00-18:00, We 08:30-11:00; 16:00-18:00, Th 08:30-11:00; 15:00-18:00, Fr 08:00-11:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13769475682",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "action-behavior-centers-aba-therapy-for-autism-conroe",
+   "name": "Action Behavior Centers - ABA Therapy for Autism",
+   "summary": "Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Conroe, TX at 3251 Interstate 45 North #115, Conroe, TX 77304. Phone: +12814018599. Website: https://www.actionbehavior.com/location/texas/conroe-anderson-crossing.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/action-behavior-centers-aba-therapy-for-autism-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/action-behavior-centers-aba-therapy-for-autism-conroe.json",
+   "address": {
+    "streetAddress": "3251 Interstate 45 North #115",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3553636,
+    "lon": -95.4852968
+   },
+   "phone": "+12814018599",
+   "website": "https://www.actionbehavior.com/location/texas/conroe-anderson-crossing",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13253705576",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "all-star-muffler-and-brake-conroe",
+   "name": "All Star Muffler & Brake",
+   "summary": "All Star Muffler & Brake is an auto repair shop in Conroe, TX at 3900 FM 1488, Conroe, TX 77384. Phone: +19363215617. Website: https://www.allstarmufflerbrake.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-star-muffler-and-brake-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-star-muffler-and-brake-conroe.json",
+   "address": {
+    "streetAddress": "3900 FM 1488",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.2277368,
+    "lon": -95.5247031
+   },
+   "phone": "+19363215617",
+   "website": "https://www.allstarmufflerbrake.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/503245812",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "asi-gymnastics-conroe",
+   "name": "ASI Gymnastics",
+   "summary": "ASI Gymnastics is a gym in Conroe, TX at 4000 FM 1488, Conroe, TX 77384. Phone: +19362714274. Website: https://asigymnastics.com/asi-gymnastics-the-woodlands/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/asi-gymnastics-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/asi-gymnastics-conroe.json",
+   "address": {
+    "streetAddress": "4000 FM 1488",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.2273374,
+    "lon": -95.5262231
+   },
+   "phone": "+19362714274",
+   "website": "https://asigymnastics.com/asi-gymnastics-the-woodlands/",
+   "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 12:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5329884668",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cameron-optical-eyecare-and-aesthetics-conroe",
+   "name": "Cameron Optical Eyecare & Aesthetics",
+   "summary": "Cameron Optical Eyecare & Aesthetics is an eye care practice in Conroe, TX at 15260 State Highway 105 #127, Conroe, TX 77356. Phone: +19364481200. Website: https://cameronoptical.com/.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cameron-optical-eyecare-and-aesthetics-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cameron-optical-eyecare-and-aesthetics-conroe.json",
+   "address": {
+    "streetAddress": "15260 State Highway 105 #127",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77356",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77356",
+   "geo": {
+    "lat": 30.3585425,
+    "lon": -95.5935579
+   },
+   "phone": "+19364481200",
+   "website": "https://cameronoptical.com/",
+   "opening_hours": "Mo-Fr 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13572059759",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "central-park-condos-conroe",
+   "name": "Central Park Condos",
+   "summary": "Central Park Condos is a property management company in Conroe, TX at 2210 Westview Boulevard, Conroe, TX 77304. Phone: +19364411146. Website: https://www.thecentralparkcondominiums.com/.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-park-condos-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-park-condos-conroe.json",
+   "address": {
+    "streetAddress": "2210 Westview Boulevard",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3355066,
+    "lon": -95.4856976
+   },
+   "phone": "+19364411146",
+   "website": "https://www.thecentralparkcondominiums.com/",
+   "opening_hours": "Mo-Fr 08:30-17:30, Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1235013209",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "comme-paris-conroe",
+   "name": "Comme à Paris",
+   "summary": "Comme à Paris is a tailor in Conroe, TX at 2200 Plantation Drive #412, Conroe, TX 77303. Phone: +17349458085. Website: https://www.commeaparis2.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/comme-paris-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/comme-paris-conroe.json",
+   "address": {
+    "streetAddress": "2200 Plantation Drive #412",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77303",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77303",
+   "geo": {
+    "lat": 30.3376392,
+    "lon": -95.4741773
+   },
+   "phone": "+17349458085",
+   "website": "https://www.commeaparis2.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00 \"by appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13799696501",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-insurance-robert-cody-foree-conroe",
+   "name": "Farmers Insurance: Robert Cody Foree",
+   "summary": "Farmers Insurance: Robert Cody Foree is an insurance agent in Conroe, TX at 903 West Cartwright Road #G, Conroe, TX 77301. Phone: +19367560356. Website: https://www.farmersagent.com/rforee1.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-robert-cody-foree-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-robert-cody-foree-conroe.json",
+   "address": {
+    "streetAddress": "903 West Cartwright Road #G",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3350352,
+    "lon": -95.4691825
+   },
+   "phone": "+19367560356",
+   "website": "https://www.farmersagent.com/rforee1",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3953506979",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "forest-creek-apartments-conroe",
+   "name": "Forest Creek Apartments",
+   "summary": "Forest Creek Apartments is a property management company in Conroe, TX at 2200 Montgomery Park Boulevard, Conroe, TX 77304. Phone: +19362419558. Website: https://www.forestcreekapartmenthomes.com/.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forest-creek-apartments-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forest-creek-apartments-conroe.json",
+   "address": {
+    "streetAddress": "2200 Montgomery Park Boulevard",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3317821,
+    "lon": -95.4865681
+   },
+   "phone": "+19362419558",
+   "website": "https://www.forestcreekapartmenthomes.com/",
+   "opening_hours": "Mo-Fr 08:30-17:30, Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11460924704",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jd-precision-plumbing-services-conroe",
+   "name": "JD Precision Plumbing Services",
+   "summary": "JD Precision Plumbing Services is a plumber in Conroe, TX at 4050 FM 1488, Conroe, TX 77384. Phone: +19362285000. Website: https://www.jdprecisionplumbing.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jd-precision-plumbing-services-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jd-precision-plumbing-services-conroe.json",
+   "address": {
+    "streetAddress": "4050 FM 1488",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.227188,
+    "lon": -95.5268185
+   },
+   "phone": "+19362285000",
+   "website": "https://www.jdprecisionplumbing.com/",
+   "opening_hours": "Mo-Su 08:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1681681417",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lane-galloway-state-farm-insurance-agent-conroe",
+   "name": "Lane Galloway - State Farm Insurance Agent",
+   "summary": "Lane Galloway - State Farm Insurance Agent is an insurance agent in Conroe, TX at 206 South Loop 336 West #F, Conroe, TX 77304. Phone: +19365391865. Website: https://www.lanegalloway.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lane-galloway-state-farm-insurance-agent-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lane-galloway-state-farm-insurance-agent-conroe.json",
+   "address": {
+    "streetAddress": "206 South Loop 336 West #F",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.2814298,
+    "lon": -95.4593097
+   },
+   "phone": "+19365391865",
+   "website": "https://www.lanegalloway.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12479816792",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "montgomery-self-storage-conroe",
+   "name": "Montgomery Self Storage",
+   "summary": "Montgomery Self Storage is a self-storage facility in Conroe, TX at 1418 FM 2854, Conroe, TX 77304. Phone: +19367601898. Website: https://www.montgomeryss.com/locations/fm-2854/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/montgomery-self-storage-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/montgomery-self-storage-conroe.json",
+   "address": {
+    "streetAddress": "1418 FM 2854",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3096514,
+    "lon": -95.4763326
+   },
+   "phone": "+19367601898",
+   "website": "https://www.montgomeryss.com/locations/fm-2854/",
+   "opening_hours": "Mo-Fr 09:00-17:00, Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12772282031",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petco-conroe",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Conroe, TX at 1410 North Loop 336 West, Conroe, TX 77304. Phone: +19364414700. Website: https://stores.petco.com/tx/conroe/pet-supplies-conroe-tx-442.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-conroe.json",
+   "address": {
+    "streetAddress": "1410 North Loop 336 West",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3356507,
+    "lon": -95.4813188
+   },
+   "phone": "+19364414700",
+   "website": "https://stores.petco.com/tx/conroe/pet-supplies-conroe-tx-442.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7168890427",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-conroe",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Conroe, TX at 19075 Interstate 45 South #114, Conroe, TX 77385. Phone: +19362739888. Website: https://www.petsmart.com/stores/us/tx/conroe-store1046.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-conroe.json",
+   "address": {
+    "streetAddress": "19075 Interstate 45 South #114",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.1860217,
+    "lon": -95.4503496
+   },
+   "phone": "+19362739888",
+   "website": "https://www.petsmart.com/stores/us/tx/conroe-store1046.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6740177137",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-conroe-w718778395",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Conroe, TX at 2900 Interstate 45 North, Conroe, TX 77301. Phone: +19364942500. Website: https://www.petsmart.com/stores/us/tx/conroe-store1534.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-conroe-w718778395/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-conroe-w718778395.json",
+   "address": {
+    "streetAddress": "2900 Interstate 45 North",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3462939,
+    "lon": -95.4803756
+   },
+   "phone": "+19364942500",
+   "website": "https://www.petsmart.com/stores/us/tx/conroe-store1534.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/718778395",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "taylor-counseling-group-conroe",
+   "name": "Taylor Counseling Group",
+   "summary": "Taylor Counseling Group is a therapy practice in Conroe, TX at 8150 N Central Expressway #Suite 1625, Conroe, TX 75206. Phone: +12145300021. Website: https://taylorcounselinggroup.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/taylor-counseling-group-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/taylor-counseling-group-conroe.json",
+   "address": {
+    "streetAddress": "8150 N Central Expressway #Suite 1625",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "75206",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "75206",
+   "geo": {
+    "lat": 30.336689,
+    "lon": -95.4694099
+   },
+   "phone": "+12145300021",
+   "website": "https://taylorcounselinggroup.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10017133620",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ulta-beauty-conroe",
+   "name": "Ulta Beauty",
+   "summary": "Ulta Beauty is a skin care studio in Conroe, TX at 255 South Loop 336 West, Conroe, TX 77304. Phone: +19362835051. Website: https://www.ulta.com/stores/conroe-tx-1528.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ulta-beauty-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-conroe.json",
+   "address": {
+    "streetAddress": "255 South Loop 336 West",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.2764496,
+    "lon": -95.4622845
+   },
+   "phone": "+19362835051",
+   "website": "https://www.ulta.com/stores/conroe-tx-1528",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1005713428",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vibration-dynamics-conroe",
+   "name": "Vibration Dynamics",
+   "summary": "Vibration Dynamics is an auto repair shop in Conroe, TX at 11689 State Highway 105 East, Conroe, TX 77306. Phone: +19364449000. Website: https://vibrationdynamic.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vibration-dynamics-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vibration-dynamics-conroe.json",
+   "address": {
+    "streetAddress": "11689 State Highway 105 East",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77306",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77306",
+   "geo": {
+    "lat": 30.3258292,
+    "lon": -95.3956771
+   },
+   "phone": "+19364449000",
+   "website": "https://vibrationdynamic.com/",
+   "opening_hours": "Mo-Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9682584007",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "white-oak-apartments-conroe",
+   "name": "White Oak Apartments",
+   "summary": "White Oak Apartments is a property management company in Conroe, TX at 2330 Montgomery Park Boulevard, Conroe, TX 77304. Phone: +19362435865. Website: https://www.thewhiteoakapartments.com/.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/white-oak-apartments-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/white-oak-apartments-conroe.json",
+   "address": {
+    "streetAddress": "2330 Montgomery Park Boulevard",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3364095,
+    "lon": -95.48626
+   },
+   "phone": "+19362435865",
+   "website": "https://www.thewhiteoakapartments.com/",
+   "opening_hours": "Mo-Fr 08:30-17:30, Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463874312",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ashley-homestore-conroe",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Conroe, TX at 2804 Interstate 45 North, Conroe, TX 77301. Phone: +19364412144. Website: https://stores.ashleyfurniture.com/store/us/texas/conroe/7710000406/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-conroe.json",
+   "address": {
+    "streetAddress": "2804 Interstate 45 North",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3442044,
+    "lon": -95.4796092
+   },
+   "phone": "+19364412144",
+   "website": "https://stores.ashleyfurniture.com/store/us/texas/conroe/7710000406/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/718778391",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eskimo-insulation-conroe",
+   "name": "Eskimo Insulation",
+   "summary": "Eskimo Insulation is an insulation contractor in Conroe, TX at 8725 Fawn Trl, Conroe, TX 77385. Phone: +12817248000. Website: https://www.eskimoinsulation.com/.",
+   "categories": [
+    "insulation contractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eskimo-insulation-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eskimo-insulation-conroe.json",
+   "address": {
+    "streetAddress": "8725 Fawn Trl",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77385",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77385",
+   "geo": {
+    "lat": 30.2124319,
+    "lon": -95.4450952
+   },
+   "phone": "+12817248000",
+   "website": "https://www.eskimoinsulation.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/783951917",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hilltops-conroe",
+   "name": "Hilltops",
+   "summary": "Hilltops is a property management company in Conroe, TX at 2200 North Loop 336 West, Conroe, TX 77304. Phone: +19363010765. Website: https://www.hilltopsapts.com/.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hilltops-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hilltops-conroe.json",
+   "address": {
+    "streetAddress": "2200 North Loop 336 West",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3303358,
+    "lon": -95.4934338
+   },
+   "phone": "+19363010765",
+   "website": "https://www.hilltopsapts.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11492477957",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "istorage-conroe",
+   "name": "iStorage",
+   "summary": "iStorage is a self-storage facility in Conroe, TX at 1777 North Loop 336 West, Conroe, TX 77304. Phone: +18329577814. Website: https://www.istorage.com/storage/texas/storage-units-conroe/1777-N-Loop-336-W-537.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/istorage-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/istorage-conroe.json",
+   "address": {
+    "streetAddress": "1777 North Loop 336 West",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3300762,
+    "lon": -95.4865818
+   },
+   "phone": "+18329577814",
+   "website": "https://www.istorage.com/storage/texas/storage-units-conroe/1777-N-Loop-336-W-537",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1242996510",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-conroe",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Conroe, TX at 2956 IH 45 North #300, Conroe, TX 77303. Phone: +19364417732. Website: https://www.mattressfirm.com/en-us/stores/tx/conroe/001053/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-conroe.json",
+   "address": {
+    "streetAddress": "2956 IH 45 North #300",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77303",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77303",
+   "geo": {
+    "lat": 30.3479731,
+    "lon": -95.4825576
+   },
+   "phone": "+19364417732",
+   "website": "https://www.mattressfirm.com/en-us/stores/tx/conroe/001053/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6749059152",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-conroe-n9279195795",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Conroe, TX at 235 South Loop 336 West #200, Conroe, TX 77304. Phone: +19362835252. Website: https://www.mattressfirm.com/en-us/stores/tx/conroe/001210/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-conroe-n9279195795/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-conroe-n9279195795.json",
+   "address": {
+    "streetAddress": "235 South Loop 336 West #200",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.2779729,
+    "lon": -95.4611002
+   },
+   "phone": "+19362835252",
+   "website": "https://www.mattressfirm.com/en-us/stores/tx/conroe/001210/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9279195795",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "papillon-salon-and-day-spa-conroe",
+   "name": "Papillon Salon & Day Spa",
+   "summary": "Papillon Salon & Day Spa is a hair salon in Conroe, TX at 224B South Loop 336 West, Conroe, TX 77304. Phone: +19367560680. Website: https://papillonsalondayspa.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/papillon-salon-and-day-spa-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/papillon-salon-and-day-spa-conroe.json",
+   "address": {
+    "streetAddress": "224B South Loop 336 West",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.28007,
+    "lon": -95.4654958
+   },
+   "phone": "+19367560680",
+   "website": "https://papillonsalondayspa.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4528191799",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aarons-conroe",
+   "name": "Aaron's",
+   "summary": "Aaron's is a furniture store in Conroe, TX at 2002 Interstate 45 North, Conroe, TX 77301. Website: https://locations.aarons.com/us/tx/conroe/2002-interstate-45-n.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aarons-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aarons-conroe.json",
+   "address": {
+    "streetAddress": "2002 Interstate 45 North",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3305266,
+    "lon": -95.4755993
+   },
+   "website": "https://locations.aarons.com/us/tx/conroe/2002-interstate-45-n",
+   "opening_hours": "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/767809013",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anytime-fitness-conroe",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Conroe, TX at 9420 College Park Drive #20, Conroe, TX 77384. Phone: +19362735090.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-conroe.json",
+   "address": {
+    "streetAddress": "9420 College Park Drive #20",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.2293877,
+    "lon": -95.509281
+   },
+   "phone": "+19362735090",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5330117273",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crunch-fitness-conroe-conroe",
+   "name": "Crunch Fitness Conroe",
+   "summary": "Crunch Fitness Conroe is a gym in Conroe, TX at 1420 North Loop 336 West #106, Conroe, TX 77304. Website: https://www.crunch.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crunch-fitness-conroe-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crunch-fitness-conroe-conroe.json",
+   "address": {
+    "streetAddress": "1420 North Loop 336 West #106",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3337728,
+    "lon": -95.4826754
+   },
+   "website": "https://www.crunch.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7168890431",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-conroe",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Conroe, TX at 1102 West Dallas Street, Conroe, TX 77301. Phone: +19366471989.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-conroe.json",
+   "address": {
+    "streetAddress": "1102 West Dallas Street",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3169177,
+    "lon": -95.4699126
+   },
+   "phone": "+19366471989",
+   "opening_hours": "Mo-Su 09:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12717046201",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-and-s-liquor-conroe",
+   "name": "H&S Liquor",
+   "summary": "H&S Liquor is a liquor store in Conroe, TX at 1900 North Frazier Street #A, Conroe, TX 77301. Phone: +19367567033.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-s-liquor-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-s-liquor-conroe.json",
+   "address": {
+    "streetAddress": "1900 North Frazier Street #A",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3301304,
+    "lon": -95.4655546
+   },
+   "phone": "+19367567033",
+   "opening_hours": "Mo-Sa 10:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13596470914",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-conroe",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Conroe, TX at 1001 West Cartwright Road, Conroe, TX 77301. Phone: +19367563432.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-conroe.json",
+   "address": {
+    "streetAddress": "1001 West Cartwright Road",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3350628,
+    "lon": -95.4702111
+   },
+   "phone": "+19367563432",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392298687",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "montgomery-park-dental-conroe",
+   "name": "Montgomery Park Dental",
+   "summary": "Montgomery Park Dental is a dentist in Conroe, TX at 2016 North Loop 336 West, Conroe, TX 77304. Website: https://montgomeryparkdentalcare.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/montgomery-park-dental-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/montgomery-park-dental-conroe.json",
+   "address": {
+    "streetAddress": "2016 North Loop 336 West",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3318686,
+    "lon": -95.488934
+   },
+   "website": "https://montgomeryparkdentalcare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1075832940",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "national-tire-and-battery-conroe",
+   "name": "National Tire and Battery",
+   "summary": "National Tire and Battery is an auto repair shop in Conroe, TX at 806 Interstate 45 North, Conroe, TX 77304. Website: https://www.ntb.com/store/tx/conroe/806-interstate-45-n-77301/4444.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/national-tire-and-battery-conroe.json",
+   "address": {
+    "streetAddress": "806 Interstate 45 North",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3177791,
+    "lon": -95.4713263
+   },
+   "website": "https://www.ntb.com/store/tx/conroe/806-interstate-45-n-77301/4444",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/766571548",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "take-5-oil-change-conroe",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Conroe, TX at 2020 North Loop 336 West, Conroe, TX 77304. Website: https://www.take5.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-conroe.json",
+   "address": {
+    "streetAddress": "2020 North Loop 336 West",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3312857,
+    "lon": -95.4887313
+   },
+   "website": "https://www.take5.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1075832939",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "west-creek-apartment-homes-conroe",
+   "name": "West Creek Apartment Homes",
+   "summary": "West Creek Apartment Homes is a property management company in Conroe, TX at 2211 Montgomery Park Boulevard, Conroe, TX 77304. Website: https://www.westcreekapartmentsconroe.com/.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-creek-apartment-homes-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-creek-apartment-homes-conroe.json",
+   "address": {
+    "streetAddress": "2211 Montgomery Park Boulevard",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3346459,
+    "lon": -95.4873133
+   },
+   "website": "https://www.westcreekapartmentsconroe.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5233093387",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woof-gang-bakery-and-grooming-conroe-conroe",
+   "name": "Woof Gang Bakery & Grooming Conroe",
+   "summary": "Woof Gang Bakery & Grooming Conroe is a dog groomer in Conroe, TX at 525 Woodlands Square Blvd #150, Conroe, TX 77384. Phone: +19365069663.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woof-gang-bakery-and-grooming-conroe-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woof-gang-bakery-and-grooming-conroe-conroe.json",
+   "address": {
+    "streetAddress": "525 Woodlands Square Blvd #150",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.2256127,
+    "lon": -95.5423816
+   },
+   "phone": "+19365069663",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6867146909",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "clearwater-express-wash-conroe",
+   "name": "ClearWater Express Wash",
+   "summary": "ClearWater Express Wash is a car wash in Conroe, TX at 610 North Loop 336 West, Conroe, TX 77301.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clearwater-express-wash-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clearwater-express-wash-conroe.json",
+   "address": {
+    "streetAddress": "610 North Loop 336 West",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3370666,
+    "lon": -95.4654035
+   },
+   "opening_hours": "Mo-Su 07:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13348910840",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "conroe-comprehensive-dental-center-conroe",
+   "name": "Conroe Comprehensive Dental Center",
+   "summary": "Conroe Comprehensive Dental Center is a dentist in Conroe, TX at 2210 North Frazier Street ##120, Conroe, TX 77303.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/conroe-comprehensive-dental-center-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/conroe-comprehensive-dental-center-conroe.json",
+   "address": {
+    "streetAddress": "2210 North Frazier Street ##120",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77303",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77303",
+   "geo": {
+    "lat": 30.3375689,
+    "lon": -95.467375
+   },
+   "opening_hours": "Tu-Th 08:00-17:00; Fr 07:00-15:00; Mo 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13348918026",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crowl-cameron-and-associates-pllc-conroe",
+   "name": "Crowl, Cameron & Associates PLLC",
+   "summary": "Crowl, Cameron & Associates PLLC is an accountant in Conroe, TX at 303 Longmire Road #Suite 201, Conroe, TX 77304.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crowl-cameron-and-associates-pllc-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crowl-cameron-and-associates-pllc-conroe.json",
+   "address": {
+    "streetAddress": "303 Longmire Road #Suite 201",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3190453,
+    "lon": -95.4775574
+   },
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7874034187",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "evolutionary-barber-studio-conroe",
+   "name": "Evolutionary Barber Studio",
+   "summary": "Evolutionary Barber Studio is a barber shop in Conroe, TX at 2017 North Frazier Street #G3, Conroe, TX 77301.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/evolutionary-barber-studio-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/evolutionary-barber-studio-conroe.json",
+   "address": {
+    "streetAddress": "2017 North Frazier Street #G3",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.332854,
+    "lon": -95.4679962
+   },
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13350616190",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "freeway-insurance-conroe",
+   "name": "Freeway Insurance",
+   "summary": "Freeway Insurance is an insurance agent in Conroe, TX at 2017 North Frazier Street #G12, Conroe, TX 77301.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freeway-insurance-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freeway-insurance-conroe.json",
+   "address": {
+    "streetAddress": "2017 North Frazier Street #G12",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3329569,
+    "lon": -95.4675924
+   },
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13350616195",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hot-city-automotive-paint-and-body-conroe",
+   "name": "Hot City Automotive Paint & Body",
+   "summary": "Hot City Automotive Paint & Body is an auto repair shop in Conroe, TX at 2214 North Frazier Street, Conroe, TX 77303.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hot-city-automotive-paint-and-body-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hot-city-automotive-paint-and-body-conroe.json",
+   "address": {
+    "streetAddress": "2214 North Frazier Street",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77303",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77303",
+   "geo": {
+    "lat": 30.3385105,
+    "lon": -95.467763
+   },
+   "opening_hours": "Mo-Fr 08:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13348502466",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "issabellas-masach-and-alternative-therapy-conroe",
+   "name": "Issabella's Masach And Alternative Therapy",
+   "summary": "Issabella's Masach And Alternative Therapy is a massage studio in Conroe, TX at 2210 North Frazier Street ##121, Conroe, TX 77303.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/issabellas-masach-and-alternative-therapy-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/issabellas-masach-and-alternative-therapy-conroe.json",
+   "address": {
+    "streetAddress": "2210 North Frazier Street ##121",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77303",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77303",
+   "geo": {
+    "lat": 30.3376923,
+    "lon": -95.4674167
+   },
+   "opening_hours": "Mo-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13348928669",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stylish-interiors-conroe",
+   "name": "Stylish Interiors",
+   "summary": "Stylish Interiors is a flooring company in Conroe, TX at 2212 B North Frazier Street, Conroe, TX 77303.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stylish-interiors-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stylish-interiors-conroe.json",
+   "address": {
+    "streetAddress": "2212 B North Frazier Street",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77303",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77303",
+   "geo": {
+    "lat": 30.3379389,
+    "lon": -95.4676631
+   },
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13348536945",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-conroe-n13352251791",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Conroe, TX at 2104 North Frazier Street, Conroe, TX 77301.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-conroe-n13352251791/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-conroe-n13352251791.json",
+   "address": {
+    "streetAddress": "2104 North Frazier Street",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3349521,
+    "lon": -95.4654624
+   },
+   "opening_hours": "Mo-Th 10:00-18:00; Fr-Sa 09:00-18:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13352251791",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "european-wax-center-conroe",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Conroe, TX. Website: https://locations.waxcenter.com/tx/conroe/conroe-0426.html.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3130247,
+    "lon": -95.472296
+   },
+   "website": "https://locations.waxcenter.com/tx/conroe/conroe-0426.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11194938973",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "1488-boat-and-rv-storage-conroe",
+   "name": "1488 Boat & RV Storage",
+   "summary": "1488 Boat & RV Storage is a self-storage facility in Conroe, TX at 4392 FM 1488, Conroe, TX 77384.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1488-boat-and-rv-storage-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1488-boat-and-rv-storage-conroe.json",
+   "address": {
+    "streetAddress": "4392 FM 1488",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77384",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77384",
+   "geo": {
+    "lat": 30.2262548,
+    "lon": -95.5330833
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5330178949",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-conroe",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Conroe, TX at 11133 Interstate 45 South #110, Conroe, TX 77302.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-conroe.json",
+   "address": {
+    "streetAddress": "11133 Interstate 45 South #110",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77302",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77302",
+   "geo": {
+    "lat": 30.2648452,
+    "lon": -95.4548184
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7170079718",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "animal-hospital-and-emergency-veterinary-of-conroe-conroe",
+   "name": "Animal Hospital & Emergency Veterinary of Conroe",
+   "summary": "Animal Hospital & Emergency Veterinary of Conroe is a veterinarian in Conroe, TX at 505 Interstate 45 North, Conroe, TX 77304.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-hospital-and-emergency-veterinary-of-conroe-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-hospital-and-emergency-veterinary-of-conroe-conroe.json",
+   "address": {
+    "streetAddress": "505 Interstate 45 North",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3131219,
+    "lon": -95.4733251
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/376387509",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bakers-bouquet-conroe",
+   "name": "Bakers Bouquet",
+   "summary": "Bakers Bouquet is a bakery in Conroe, TX at 806 West Cartwright Road, Conroe, TX 77301.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bakers-bouquet-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bakers-bouquet-conroe.json",
+   "address": {
+    "streetAddress": "806 West Cartwright Road",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.33608,
+    "lon": -95.4691979
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1075838298",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bartholet-home-furnishings-conroe",
+   "name": "Bartholet Home Furnishings",
+   "summary": "Bartholet Home Furnishings is a furniture store in Conroe, TX at 12280 Interstate 45 South, Conroe, TX 77304.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bartholet-home-furnishings-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bartholet-home-furnishings-conroe.json",
+   "address": {
+    "streetAddress": "12280 Interstate 45 South",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.2563259,
+    "lon": -95.4578829
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/767934828",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "caliber-collision-conroe",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Conroe, TX at 1461 Interstate 45 North, Conroe, TX 77304.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-conroe.json",
+   "address": {
+    "streetAddress": "1461 Interstate 45 North",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3214496,
+    "lon": -95.4748628
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/767813036",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "camillos-fine-jewelry-conroe",
+   "name": "Camillo's Fine Jewelry",
+   "summary": "Camillo's Fine Jewelry is a jewelry store in Conroe, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/camillos-fine-jewelry-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/camillos-fine-jewelry-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3235576,
+    "lon": -95.4905624
+   },
+   "opening_hours": "Tu-Sa 09:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/481520173",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "conroe-eyes-conroe",
+   "name": "Conroe eyes",
+   "summary": "Conroe eyes is an eye care practice in Conroe, TX at 2104 North Frazier Street #Ste 180, Conroe, TX 77301.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/conroe-eyes-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/conroe-eyes-conroe.json",
+   "address": {
+    "streetAddress": "2104 North Frazier Street #Ste 180",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3345778,
+    "lon": -95.465352
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13352251790",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-conroe-w767740597",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Conroe, TX at 1538 Interstate 45 South, Conroe, TX 77304.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-conroe-w767740597/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-conroe-w767740597.json",
+   "address": {
+    "streetAddress": "1538 Interstate 45 South",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.2822265,
+    "lon": -95.4597541
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/767740597",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-conroe-w767809021",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Conroe, TX at 2245 Stoneside Road, Conroe, TX 77303.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-conroe-w767809021/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-conroe-w767809021.json",
+   "address": {
+    "streetAddress": "2245 Stoneside Road",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77303",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77303",
+   "geo": {
+    "lat": 30.3381739,
+    "lon": -95.4789208
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/767809021",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-tire-conroe",
+   "name": "Express Tire",
+   "summary": "Express Tire is a tire shop in Conroe, TX at 11375 State Highway 105 East, Conroe, TX 77301.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-tire-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-tire-conroe.json",
+   "address": {
+    "streetAddress": "11375 State Highway 105 East",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3240554,
+    "lon": -95.401184
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/768328763",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-and-r-block-conroe",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Conroe, TX at 224 South Loop 336 West #F, Conroe, TX 77304.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-conroe.json",
+   "address": {
+    "streetAddress": "224 South Loop 336 West #F",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.2807474,
+    "lon": -95.4605174
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7170550285",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hallmark-conroe",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Conroe, TX at 1408 North Loop 336 West, Conroe, TX 77304.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-conroe.json",
+   "address": {
+    "streetAddress": "1408 North Loop 336 West",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3360113,
+    "lon": -95.4813851
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7168890430",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hot-city-auto-spa-conroe",
+   "name": "Hot City Auto Spa",
+   "summary": "Hot City Auto Spa is a car wash in Conroe, TX at 2206 North Frazier Street, Conroe, TX 77303.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hot-city-auto-spa-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hot-city-auto-spa-conroe.json",
+   "address": {
+    "streetAddress": "2206 North Frazier Street",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77303",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77303",
+   "geo": {
+    "lat": 30.3371361,
+    "lon": -95.4674539
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13348910834",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-kar-conroe",
+   "name": "Kwik Kar",
+   "summary": "Kwik Kar is an auto repair shop in Conroe, TX at 2113 North Frazier Street, Conroe, TX 77301.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-kar-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-kar-conroe.json",
+   "address": {
+    "streetAddress": "2113 North Frazier Street",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.335053,
+    "lon": -95.467899
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/912606099",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-raza-tatoo-studio-conroe",
+   "name": "La Raza Tatoo Studio",
+   "summary": "La Raza Tatoo Studio is a tattoo shop in Conroe, TX at 2017 North Frazier Street #A3, Conroe, TX 77301.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-raza-tatoo-studio-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-raza-tatoo-studio-conroe.json",
+   "address": {
+    "streetAddress": "2017 North Frazier Street #A3",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3317711,
+    "lon": -95.467202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13350631804",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "live-oak-cleaners-conroe",
+   "name": "Live Oak Cleaners",
+   "summary": "Live Oak Cleaners is a dry cleaner in Conroe, TX at 1801 North Loop 336 West, Conroe, TX 77304.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/live-oak-cleaners-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/live-oak-cleaners-conroe.json",
+   "address": {
+    "streetAddress": "1801 North Loop 336 West",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3307276,
+    "lon": -95.487231
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/767798561",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rent-a-center-conroe",
+   "name": "Rent-A-Center",
+   "summary": "Rent-A-Center is a furniture store in Conroe, TX at 1408 North Loop 336 West #A, Conroe, TX 77304.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rent-a-center-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rent-a-center-conroe.json",
+   "address": {
+    "streetAddress": "1408 North Loop 336 West #A",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3362999,
+    "lon": -95.4814918
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7168890429",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rustic-outlet-conroe",
+   "name": "Rustic Outlet",
+   "summary": "Rustic Outlet is a furniture store in Conroe, TX at 11133 Interstate 45 South #150, Conroe, TX 77302.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rustic-outlet-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rustic-outlet-conroe.json",
+   "address": {
+    "streetAddress": "11133 Interstate 45 South #150",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77302",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77302",
+   "geo": {
+    "lat": 30.2648352,
+    "lon": -95.4551223
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7170079719",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sams-flooring-gallery-conroe",
+   "name": "Sam's Flooring Gallery",
+   "summary": "Sam's Flooring Gallery is a flooring company in Conroe, TX at 224 South Loop 336 West #N, Conroe, TX 77304.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sams-flooring-gallery-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sams-flooring-gallery-conroe.json",
+   "address": {
+    "streetAddress": "224 South Loop 336 West #N",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.2806527,
+    "lon": -95.4607785
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7170489580",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "south-loop-spirits-conroe",
+   "name": "South Loop Spirits",
+   "summary": "South Loop Spirits is a liquor store in Conroe, TX at 224 South Loop 336 West #E, Conroe, TX 77304.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/south-loop-spirits-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/south-loop-spirits-conroe.json",
+   "address": {
+    "streetAddress": "224 South Loop 336 West #E",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.280764,
+    "lon": -95.4604289
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7170489583",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specs-conroe",
+   "name": "Spec's",
+   "summary": "Spec's is a liquor store in Conroe, TX at 1420 North Loop 336 West #100, Conroe, TX 77304.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specs-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specs-conroe.json",
+   "address": {
+    "streetAddress": "1420 North Loop 336 West #100",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77304",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77304",
+   "geo": {
+    "lat": 30.3339699,
+    "lon": -95.4817649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7168890432",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tasty-kake-discount-bakery-conroe",
+   "name": "Tasty Kake Discount Bakery",
+   "summary": "Tasty Kake Discount Bakery is a bakery in Conroe, TX at 221 North Loop 336 East, Conroe, TX 77301.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tasty-kake-discount-bakery-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tasty-kake-discount-bakery-conroe.json",
+   "address": {
+    "streetAddress": "221 North Loop 336 East",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3406614,
+    "lon": -95.4477981
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/768328770",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-hair-team-conroe",
+   "name": "Texas Hair Team",
+   "summary": "Texas Hair Team is a hair salon in Conroe, TX at 2948 Interstate 45 North #700, Conroe, TX 77303.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-hair-team-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-hair-team-conroe.json",
+   "address": {
+    "streetAddress": "2948 Interstate 45 North #700",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77303",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77303",
+   "geo": {
+    "lat": 30.346816,
+    "lon": -95.4822177
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5072135329",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "workforce-solutions-conroe",
+   "name": "Workforce Solutions",
+   "summary": "Workforce Solutions is a staffing agency in Conroe, TX at 2218 Interstate 45 North, Conroe, TX 77301.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/workforce-solutions-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/workforce-solutions-conroe.json",
+   "address": {
+    "streetAddress": "2218 Interstate 45 North",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3356306,
+    "lon": -95.4767567
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5072122219",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zipps-liquor-conroe",
+   "name": "Zipps Liquor",
+   "summary": "Zipps Liquor is a liquor store in Conroe, TX at 11343 State Highway 105 East #B, Conroe, TX 77301.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zipps-liquor-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zipps-liquor-conroe.json",
+   "address": {
+    "streetAddress": "11343 State Highway 105 East #B",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "postalCode": "77301",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "zip": "77301",
+   "geo": {
+    "lat": 30.3240832,
+    "lon": -95.4015983
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7173298481",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specs-conroe-n12055131339",
+   "name": "Spec's",
+   "summary": "Spec's is a liquor store in Conroe, TX at 1304 West Davis Street #F, Conroe, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specs-conroe-n12055131339/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specs-conroe-n12055131339.json",
+   "address": {
+    "streetAddress": "1304 West Davis Street #F",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3171484,
+    "lon": -95.4733821
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12055131339",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "trinity-dental-center-conroe",
+   "name": "Trinity Dental Center",
+   "summary": "Trinity Dental Center is a dentist in Conroe, TX at 1304 West Davis Street #A, Conroe, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trinity-dental-center-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trinity-dental-center-conroe.json",
+   "address": {
+    "streetAddress": "1304 West Davis Street #A",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3175375,
+    "lon": -95.473512
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12055131343",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vivid-nails-conroe",
+   "name": "Vivid Nails",
+   "summary": "Vivid Nails is a nail salon in Conroe, TX at 1304 West Davis Street #E, Conroe, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vivid-nails-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vivid-nails-conroe.json",
+   "address": {
+    "streetAddress": "1304 West Davis Street #E",
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3172412,
+    "lon": -95.4734141
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12055131340",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "1st-choice-collision-conroe",
+   "name": "1st Choice Collision",
+   "summary": "1st Choice Collision is an auto repair shop in Conroe, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1st-choice-collision-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1st-choice-collision-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3489131,
+    "lon": -95.5676175
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9866924245",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "2nd-and-charles-conroe",
+   "name": "2nd & Charles",
+   "summary": "2nd & Charles is a thrift store in Conroe, TX.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/2nd-and-charles-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/2nd-and-charles-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3175695,
+    "lon": -95.4747567
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12055136645",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aspen-dental-conroe",
+   "name": "Aspen Dental",
+   "summary": "Aspen Dental is a dentist in Conroe, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aspen-dental-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aspen-dental-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2781045,
+    "lon": -95.4598212
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9279195809",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "auto-partners-insurance-conroe",
+   "name": "Auto Partners Insurance",
+   "summary": "Auto Partners Insurance is an insurance agent in Conroe, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/auto-partners-insurance-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/auto-partners-insurance-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3262371,
+    "lon": -95.4653076
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9671536487",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "elegant-nails-conroe",
+   "name": "Elegant Nails",
+   "summary": "Elegant Nails is a nail salon in Conroe, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elegant-nails-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elegant-nails-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3143066,
+    "lon": -95.4743239
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11194945629",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "endure-cross-training-conroe",
+   "name": "Endure Cross Training",
+   "summary": "Endure Cross Training is a gym in Conroe, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/endure-cross-training-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/endure-cross-training-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3261854,
+    "lon": -95.4656296
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9671536491",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fedex-office-conroe",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Conroe, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3169888,
+    "lon": -95.4732941
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12055131337",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fitness-project-conroe",
+   "name": "Fitness Project",
+   "summary": "Fitness Project is a gym in Conroe, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fitness-project-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fitness-project-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3177138,
+    "lon": -95.4743139
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12055136643",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grand-central-dentistry-of-conroe-conroe",
+   "name": "GRAND CENTRAL DENTISTRY OF CONROE",
+   "summary": "GRAND CENTRAL DENTISTRY OF CONROE is a dentist in Conroe, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grand-central-dentistry-of-conroe-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grand-central-dentistry-of-conroe-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2836112,
+    "lon": -95.4732556
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/639746050",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "greater-houston-pediatric-dentistry-conroe",
+   "name": "Greater Houston Pediatric Dentistry",
+   "summary": "Greater Houston Pediatric Dentistry is a dentist in Conroe, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greater-houston-pediatric-dentistry-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greater-houston-pediatric-dentistry-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2785827,
+    "lon": -95.4665073
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9279177687",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-e-b-car-wash-conroe",
+   "name": "H-E-B Car Wash",
+   "summary": "H-E-B Car Wash is a car wash in Conroe, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-car-wash-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3354437,
+    "lon": -95.4669308
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/258723684",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-e-b-car-wash-conroe-w621235191",
+   "name": "H-E-B Car Wash",
+   "summary": "H-E-B Car Wash is a car wash in Conroe, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-conroe-w621235191/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-car-wash-conroe-w621235191.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3255117,
+    "lon": -95.4981777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/621235191",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hand-and-stone-massage-and-facial-spa-conroe",
+   "name": "Hand & Stone Massage and Facial Spa",
+   "summary": "Hand & Stone Massage and Facial Spa is a massage studio in Conroe, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hand-and-stone-massage-and-facial-spa-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2787456,
+    "lon": -95.4675262
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9279177677",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "houston-garden-center-conroe",
+   "name": "Houston Garden Center",
+   "summary": "Houston Garden Center is a florist in Conroe, TX.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/houston-garden-center-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/houston-garden-center-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.232271,
+    "lon": -95.457243
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3493889593",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ideal-dental-conroe",
+   "name": "Ideal Dental",
+   "summary": "Ideal Dental is a dentist in Conroe, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ideal-dental-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ideal-dental-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2784303,
+    "lon": -95.466012
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9279177694",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "iron-24-conroe",
+   "name": "Iron 24",
+   "summary": "Iron 24 is a gym in Conroe, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/iron-24-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/iron-24-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.335049,
+    "lon": -95.4765327
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12050427583",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "james-avery-jewelry-conroe",
+   "name": "James Avery Jewelry",
+   "summary": "James Avery Jewelry is a jewelry store in Conroe, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-avery-jewelry-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3345033,
+    "lon": -95.4769256
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12050431492",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lovett-dental-conroe",
+   "name": "Lovett Dental",
+   "summary": "Lovett Dental is a dentist in Conroe, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovett-dental-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovett-dental-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3143459,
+    "lon": -95.4744172
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11194945632",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nails-of-america-conroe",
+   "name": "Nails of America",
+   "summary": "Nails of America is a nail salon in Conroe, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nails-of-america-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nails-of-america-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2783877,
+    "lon": -95.4658848
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9279177693",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nationwide-nails-and-spa-conroe",
+   "name": "Nationwide Nails & Spa",
+   "summary": "Nationwide Nails & Spa is a nail salon in Conroe, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nationwide-nails-and-spa-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nationwide-nails-and-spa-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2069367,
+    "lon": -95.4534427
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3353160630",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-supplies-plus-conroe",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Conroe, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.314424,
+    "lon": -95.4746433
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11194945630",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petbar-conroe",
+   "name": "petbar",
+   "summary": "petbar is a dog groomer in Conroe, TX.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petbar-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petbar-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2790171,
+    "lon": -95.4678689
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9279177675",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "premier-nail-bar-conroe",
+   "name": "Premier Nail Bar",
+   "summary": "Premier Nail Bar is a nail salon in Conroe, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premier-nail-bar-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premier-nail-bar-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.334487,
+    "lon": -95.4769803
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12050431491",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "school-of-rock-conroe",
+   "name": "School of Rock",
+   "summary": "School of Rock is a music school in Conroe, TX.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/school-of-rock-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/school-of-rock-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3177582,
+    "lon": -95.4740107
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12055136642",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-conroe",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Conroe, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3143009,
+    "lon": -95.4742637
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11194945628",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-conroe",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Conroe, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.2784532,
+    "lon": -95.466105
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9279177690",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-joint-chiropractic-conroe",
+   "name": "The Joint Chiropractic",
+   "summary": "The Joint Chiropractic is a chiropractor in Conroe, TX.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3143024,
+    "lon": -95.4743705
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11194945633",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-conroe",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Conroe, TX.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3368576,
+    "lon": -95.467053
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9451253986",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tune-up-conroe",
+   "name": "Tune Up",
+   "summary": "Tune Up is a hair salon in Conroe, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tune-up-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tune-up-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3170715,
+    "lon": -95.4733357
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12055131338",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "twisted-angels-art-studio-tattoos-conroe",
+   "name": "Twisted Angels Art Studio Tattoos",
+   "summary": "Twisted Angels Art Studio Tattoos is a tattoo shop in Conroe, TX.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twisted-angels-art-studio-tattoos-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twisted-angels-art-studio-tattoos-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.326296,
+    "lon": -95.465739
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9671536493",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vn-jewelry-conroe",
+   "name": "VN Jewelry",
+   "summary": "VN Jewelry is a jewelry store in Conroe, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vn-jewelry-conroe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vn-jewelry-conroe.json",
+   "address": {
+    "addressLocality": "Conroe",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Conroe",
+   "state": "TX",
+   "geo": {
+    "lat": 30.3263834,
+    "lon": -95.4657673
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9671536494",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

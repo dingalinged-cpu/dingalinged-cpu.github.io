@@ -15,7 +15,7 @@ Naperville Exhaust Works is an auto repair shop in Naperville, IL at 1616 North 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/naperville-exhaust-works-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/naperville-exhaust-works-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8918313112 (license ODbL-1.0); source data as of 2026-06-01

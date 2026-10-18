@@ -1,0 +1,50 @@
+{
+ "place": "Town Of Polk, WI",
+ "slug": "town-of-polk-wi",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "furniture store town of polk wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-town-of-polk-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "ashley-homestore-town-of-polk",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Town of Polk, WI at 2515 Cabela Way, Town of Polk, WI 53076. Phone: +12626287070. Website: https://stores.ashleyfurniture.com/store/us/wisconsin/richfield/7710000495/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-town-of-polk/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-town-of-polk.json",
+   "address": {
+    "streetAddress": "2515 Cabela Way",
+    "addressLocality": "Town of Polk",
+    "addressRegion": "WI",
+    "postalCode": "53076",
+    "addressCountry": "US"
+   },
+   "city": "Town of Polk",
+   "state": "WI",
+   "zip": "53076",
+   "geo": {
+    "lat": 43.2814617,
+    "lon": -88.1905991
+   },
+   "phone": "+12626287070",
+   "website": "https://stores.ashleyfurniture.com/store/us/wisconsin/richfield/7710000495/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/229984891",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

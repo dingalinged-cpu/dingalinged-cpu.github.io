@@ -15,7 +15,7 @@ The Towsers at Four Lakes is a property management company in Lisle, IL at 5885 
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-towsers-at-four-lakes-lisle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-towsers-at-four-lakes-lisle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13409752586 (license ODbL-1.0); source data as of 2026-07-28

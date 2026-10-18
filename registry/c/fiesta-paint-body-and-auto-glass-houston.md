@@ -1,0 +1,23 @@
+Fiesta Paint Body & Auto Glass is an auto repair shop in Houston, TX.
+
+# Fiesta Paint Body & Auto Glass
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7176629, -95.3152832
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/fiesta-paint-body-and-auto-glass-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fiesta-paint-body-and-auto-glass-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/366854152 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

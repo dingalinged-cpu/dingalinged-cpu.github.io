@@ -15,7 +15,7 @@ Victory Automotive is an auto repair shop in Minneapolis, MN at 4201 Bloomington
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/victory-automotive-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/victory-automotive-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/317137970 (license ODbL-1.0); source data as of 2026-06-01

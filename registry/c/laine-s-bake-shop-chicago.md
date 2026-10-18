@@ -15,7 +15,7 @@ Laine’s Bake Shop is a bakery in Chicago, IL at 11057 South Homewood Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/laine-s-bake-shop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/laine-s-bake-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6324374053 (license ODbL-1.0); source data as of 2026-06-01

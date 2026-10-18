@@ -15,7 +15,7 @@ North Shore Auto Clinic is an auto repair shop in Evanston, IL at 1211 Howard St
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/north-shore-auto-clinic-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-shore-auto-clinic-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/834841534 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+FedEx Office is a printing service in Frisco, TX at 1555 US Hwy 380 #500, Frisco, TX.
+
+# FedEx Office
+
+- Category: printing services
+- Services: printing services
+- Address: 1555 US Hwy 380 #500, Frisco, TX
+- City: Frisco
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.2182657, -96.8759519
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/fedex-office-frisco-n13248534600/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-frisco-n13248534600.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13248534600 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

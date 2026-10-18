@@ -15,7 +15,7 @@ Doctors of Physical Therapy is a physical therapy clinic in Elk Grove Village, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/doctors-of-physical-therapy-elk-grove-village/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/doctors-of-physical-therapy-elk-grove-village.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13053712501 (license ODbL-1.0); source data as of 2026-07-28

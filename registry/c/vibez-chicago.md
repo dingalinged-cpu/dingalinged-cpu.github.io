@@ -15,7 +15,7 @@ Vibez is a gym in Chicago, IL at 664 North Wells Street, Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vibez-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vibez-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11088315715 (license ODbL-1.0); source data as of 2026-06-01

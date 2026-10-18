@@ -15,7 +15,7 @@ Viking Gymnastics & Dance is a dance studio in Niles, IL at North Caldwell Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/viking-gymnastics-and-dance-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/viking-gymnastics-and-dance-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13057097485 (license ODbL-1.0); source data as of 2026-07-28

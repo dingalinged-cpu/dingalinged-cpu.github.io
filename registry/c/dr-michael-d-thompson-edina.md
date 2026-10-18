@@ -15,7 +15,7 @@ Dr. Michael D. Thompson is a therapy practice in Edina, MN at 5007 France Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-michael-d-thompson-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-michael-d-thompson-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12143327841 (license ODbL-1.0); source data as of 2026-06-01

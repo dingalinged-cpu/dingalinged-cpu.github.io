@@ -1,0 +1,23 @@
+Village Cleaners is a dry cleaner in Houston, TX.
+
+# Village Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7824329, -95.5320973
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/village-cleaners-houston-n11914590881/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/village-cleaners-houston-n11914590881.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11914590881 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

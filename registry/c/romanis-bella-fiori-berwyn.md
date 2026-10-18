@@ -15,7 +15,7 @@ Romani's Bella Fiori is a florist in Berwyn, IL at 6905 West Roosevelt Road, Ber
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/romanis-bella-fiori-berwyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/romanis-bella-fiori-berwyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4719484940 (license ODbL-1.0); source data as of 2026-06-01

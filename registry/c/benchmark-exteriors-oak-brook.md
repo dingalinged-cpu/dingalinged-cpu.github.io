@@ -15,7 +15,7 @@ Benchmark Exteriors is a roofer in Oak Brook, IL at 1000 Jorie Boulevard #150, O
 - Opening hours (OSM syntax): Mo-Su 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/benchmark-exteriors-oak-brook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/benchmark-exteriors-oak-brook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11358156453 (license ODbL-1.0); source data as of 2026-06-01

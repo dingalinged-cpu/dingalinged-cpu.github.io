@@ -15,7 +15,7 @@ The Bevy Salon is a hair salon in Chicago, IL at 2055 West Irving Park Road, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-bevy-salon-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-bevy-salon-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11961775469 (license ODbL-1.0); source data as of 2026-06-01

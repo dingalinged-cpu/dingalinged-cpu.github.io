@@ -15,7 +15,7 @@ Hapkido and Karate School is a martial arts school in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hapkido-and-karate-school-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hapkido-and-karate-school-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/354235249 (license ODbL-1.0); source data as of 2026-07-28

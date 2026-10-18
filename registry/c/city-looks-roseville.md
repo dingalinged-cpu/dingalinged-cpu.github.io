@@ -15,7 +15,7 @@ City Looks is a hair salon in Roseville, MN at 1684 Lexington Avenue North, Rose
 - Opening hours (OSM syntax): Tu-Th 09:00-20:00; Fr 09:00-17:30; Sa 08:30-17:00; Su 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/city-looks-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/city-looks-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1914627257 (license ODbL-1.0); source data as of 2026-06-01

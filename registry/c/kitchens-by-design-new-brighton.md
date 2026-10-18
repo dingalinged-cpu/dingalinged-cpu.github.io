@@ -15,7 +15,7 @@ Kitchens by Design is a general contractor in New Brighton, MN at 201 Silver Lak
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kitchens-by-design-new-brighton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kitchens-by-design-new-brighton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12947628738 (license ODbL-1.0); source data as of 2026-07-24

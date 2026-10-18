@@ -15,7 +15,7 @@ Barksville Dog Daycare and Boarding is a dog groomer in Chicago, IL at 3301 West
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/barksville-dog-daycare-and-boarding-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/barksville-dog-daycare-and-boarding-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163896164 (license ODbL-1.0); source data as of 2026-06-01

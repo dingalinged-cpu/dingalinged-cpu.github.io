@@ -1,0 +1,23 @@
+Legacy Dental is a dentist in Milwaukee, WI at 924 West Oklahoma Avenue, Milwaukee, WI 53215. Website: https://ldmke.com/.
+
+# Legacy Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 924 West Oklahoma Avenue, Milwaukee, WI 53215
+- City: Milwaukee
+- State: WI
+- ZIP: 53215
+- Coordinates: 42.9884328, -87.9235288
+- Phone: n/a
+- Website: https://ldmke.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/legacy-dental-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/legacy-dental-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13039325202 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

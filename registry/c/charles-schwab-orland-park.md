@@ -15,7 +15,7 @@ Charles Schwab is a financial advisor in Orland Park, IL at 14225 South 95th Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/charles-schwab-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12363237781 (license ODbL-1.0); source data as of 2026-07-28

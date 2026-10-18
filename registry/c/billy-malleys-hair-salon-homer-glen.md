@@ -15,7 +15,7 @@ Billy Malley's Hair Salon is a hair salon in Homer Glen, IL at 14322 South Golde
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/billy-malleys-hair-salon-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/billy-malleys-hair-salon-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11126901189 (license ODbL-1.0); source data as of 2026-06-01

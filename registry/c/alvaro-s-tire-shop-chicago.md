@@ -15,7 +15,7 @@ Alvaro’s Tire Shop is a tire shop in Chicago, IL at 717 North Cicero Avenue, C
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:30; Su 9:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/alvaro-s-tire-shop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/alvaro-s-tire-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6726389571 (license ODbL-1.0); source data as of 2026-06-01

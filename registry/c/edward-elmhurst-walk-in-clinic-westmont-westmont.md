@@ -15,7 +15,7 @@ Edward-Elmhurst Walk-In Clinic - Westmont is an urgent care clinic in Westmont, 
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:30; Sa,Su 09:00-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-elmhurst-walk-in-clinic-westmont-westmont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-elmhurst-walk-in-clinic-westmont-westmont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5564590848 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Hay Dobbs Architects is an architect in Saint Paul, MN at 2324 University Avenue
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hay-dobbs-architects-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hay-dobbs-architects-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7150081729 (license ODbL-1.0); source data as of 2026-05-31

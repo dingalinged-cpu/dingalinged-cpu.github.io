@@ -15,7 +15,7 @@ Mobil is a car wash in Midlothian, IL at 14640 Cicero Avenue, Midlothian, IL 604
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-midlothian/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-midlothian.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1339650435 (license ODbL-1.0); source data as of 2026-07-28

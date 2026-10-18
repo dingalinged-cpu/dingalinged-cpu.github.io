@@ -15,7 +15,7 @@ Boulevard Bikes is a bike shop in Chicago, IL at 2769 North Milwaukee Avenue, Ch
 - Opening hours (OSM syntax): Mo-We 10:00-19:00; Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/boulevard-bikes-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/boulevard-bikes-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5759671812 (license ODbL-1.0); source data as of 2026-06-01

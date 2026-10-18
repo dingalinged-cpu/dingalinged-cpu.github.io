@@ -15,7 +15,7 @@ BP is a car wash in Merrillville, IN at 1600 East 81st Avenue, Merrillville, IN 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bp-merrillville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bp-merrillville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13772771254 (license ODbL-1.0); source data as of 2026-07-28

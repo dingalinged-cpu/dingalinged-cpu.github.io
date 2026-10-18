@@ -15,7 +15,7 @@ Planet Fitness is a gym in Chicago, IL at 8331 South Holland Road, Chicago, IL 6
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-chicago-w218124592/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-chicago-w218124592.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/218124592 (license ODbL-1.0); source data as of 2026-06-01

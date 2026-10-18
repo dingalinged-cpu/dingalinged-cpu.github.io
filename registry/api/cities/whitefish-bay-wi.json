@@ -1,0 +1,370 @@
+{
+ "place": "Whitefish Bay, WI",
+ "slug": "whitefish-bay-wi",
+ "count": 11,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "bakery whitefish bay wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-whitefish-bay-wi.json"
+  },
+  {
+   "keyword": "dentist whitefish bay wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-whitefish-bay-wi.json"
+  },
+  {
+   "keyword": "funeral home whitefish bay wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-whitefish-bay-wi.json"
+  },
+  {
+   "keyword": "gym whitefish bay wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-whitefish-bay-wi.json"
+  },
+  {
+   "keyword": "massage whitefish bay wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-whitefish-bay-wi.json"
+  },
+  {
+   "keyword": "pet store whitefish bay wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-whitefish-bay-wi.json"
+  },
+  {
+   "keyword": "physical therapy whitefish bay wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-whitefish-bay-wi.json"
+  },
+  {
+   "keyword": "preschool whitefish bay wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-whitefish-bay-wi.json"
+  },
+  {
+   "keyword": "tax preparation whitefish bay wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-whitefish-bay-wi.json"
+  },
+  {
+   "keyword": "tax preparer whitefish bay wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-whitefish-bay-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "jcc-gan-ami-preschool-whitefish-bay",
+   "name": "JCC Gan Ami Preschool",
+   "summary": "JCC Gan Ami Preschool is a preschool in Whitefish Bay, WI. Phone: +14149678241. Website: https://www.jccmilwaukee.org/programs/education-families/early-childhood-education/gan-ami-whitefish-bay/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jcc-gan-ami-preschool-whitefish-bay/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jcc-gan-ami-preschool-whitefish-bay.json",
+   "address": {
+    "addressLocality": "Whitefish Bay",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Whitefish Bay",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1303129,
+    "lon": -87.9080097
+   },
+   "phone": "+14149678241",
+   "website": "https://www.jccmilwaukee.org/programs/education-families/early-childhood-education/gan-ami-whitefish-bay/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10565818796",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bayshore-dental-whitefish-bay",
+   "name": "Bayshore Dental",
+   "summary": "Bayshore Dental is a dentist in Whitefish Bay, WI at 400 East Silver Spring Drive, Whitefish Bay, WI 53217. Website: https://bayshoredds.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bayshore-dental-whitefish-bay/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bayshore-dental-whitefish-bay.json",
+   "address": {
+    "streetAddress": "400 East Silver Spring Drive",
+    "addressLocality": "Whitefish Bay",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Whitefish Bay",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1186432,
+    "lon": -87.9050707
+   },
+   "website": "https://bayshoredds.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12998261354",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jcc-habush-family-fitness-center-whitefish-bay",
+   "name": "JCC Habush Family Fitness Center",
+   "summary": "JCC Habush Family Fitness Center is a gym in Whitefish Bay, WI. Website: https://www.jccmilwaukee.org/programs/fitness-recreation/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jcc-habush-family-fitness-center-whitefish-bay/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jcc-habush-family-fitness-center-whitefish-bay.json",
+   "address": {
+    "addressLocality": "Whitefish Bay",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Whitefish Bay",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1313014,
+    "lon": -87.9070535
+   },
+   "website": "https://www.jccmilwaukee.org/programs/fitness-recreation/",
+   "opening_hours": "Mo-Th 05:00-22:00; Fr 05:00-17:00; Sa-Su 08:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10565818797",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wagner-pediatric-dentistry-whitefish-bay",
+   "name": "Wagner Pediatric Dentistry",
+   "summary": "Wagner Pediatric Dentistry is a dentist in Whitefish Bay, WI at 330 East Silver Spring Drive, Whitefish Bay, WI 53217. Website: https://wagnerpediatricdentistry.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wagner-pediatric-dentistry-whitefish-bay/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wagner-pediatric-dentistry-whitefish-bay.json",
+   "address": {
+    "streetAddress": "330 East Silver Spring Drive",
+    "addressLocality": "Whitefish Bay",
+    "addressRegion": "WI",
+    "postalCode": "53217",
+    "addressCountry": "US"
+   },
+   "city": "Whitefish Bay",
+   "state": "WI",
+   "zip": "53217",
+   "geo": {
+    "lat": 43.1186549,
+    "lon": -87.9056558
+   },
+   "website": "https://wagnerpediatricdentistry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12998261355",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodman-bensman-funeral-home-whitefish-bay",
+   "name": "Goodman-Bensman Funeral Home",
+   "summary": "Goodman-Bensman Funeral Home is a funeral home in Whitefish Bay, WI at 4750 North Santa Monica Boulevard, Whitefish Bay, WI 53211.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodman-bensman-funeral-home-whitefish-bay/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodman-bensman-funeral-home-whitefish-bay.json",
+   "address": {
+    "streetAddress": "4750 North Santa Monica Boulevard",
+    "addressLocality": "Whitefish Bay",
+    "addressRegion": "WI",
+    "postalCode": "53211",
+    "addressCountry": "US"
+   },
+   "city": "Whitefish Bay",
+   "state": "WI",
+   "zip": "53211",
+   "geo": {
+    "lat": 43.1032493,
+    "lon": -87.906732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/660338306",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ati-physical-therapy-whitefish-bay",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Whitefish Bay, WI at 106 West Silver Spring Drive #C, Whitefish Bay, WI.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-whitefish-bay/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-whitefish-bay.json",
+   "address": {
+    "streetAddress": "106 West Silver Spring Drive #C",
+    "addressLocality": "Whitefish Bay",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Whitefish Bay",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1187906,
+    "lon": -87.9109316
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1153329594",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "elements-whitefish-bay",
+   "name": "Elements",
+   "summary": "Elements is a massage studio in Whitefish Bay, WI at 312 East Silver Spring Drive, Whitefish Bay, WI.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elements-whitefish-bay/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elements-whitefish-bay.json",
+   "address": {
+    "streetAddress": "312 East Silver Spring Drive",
+    "addressLocality": "Whitefish Bay",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Whitefish Bay",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1186409,
+    "lon": -87.9062121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3930437457",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fitness-together-whitefish-bay",
+   "name": "Fitness Together",
+   "summary": "Fitness Together is a gym in Whitefish Bay, WI at 615 East Silver Spring Drive, Whitefish Bay, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fitness-together-whitefish-bay/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fitness-together-whitefish-bay.json",
+   "address": {
+    "streetAddress": "615 East Silver Spring Drive",
+    "addressLocality": "Whitefish Bay",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Whitefish Bay",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1182781,
+    "lon": -87.9026571
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2595878847",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grace-and-shellys-whitefish-bay",
+   "name": "Grace & Shelly's",
+   "summary": "Grace & Shelly's is a bakery in Whitefish Bay, WI at 310 East Silver Spring Drive, Whitefish Bay, WI.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grace-and-shellys-whitefish-bay/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grace-and-shellys-whitefish-bay.json",
+   "address": {
+    "streetAddress": "310 East Silver Spring Drive",
+    "addressLocality": "Whitefish Bay",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Whitefish Bay",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1186442,
+    "lon": -87.9063047
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1607154018",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-and-r-block-whitefish-bay",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Whitefish Bay, WI.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-whitefish-bay/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-whitefish-bay.json",
+   "address": {
+    "addressLocality": "Whitefish Bay",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Whitefish Bay",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1287889,
+    "lon": -87.9124777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1905811224",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hounds-around-town-whitefish-bay",
+   "name": "Hounds Around Town",
+   "summary": "Hounds Around Town is a pet store in Whitefish Bay, WI.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hounds-around-town-whitefish-bay/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hounds-around-town-whitefish-bay.json",
+   "address": {
+    "addressLocality": "Whitefish Bay",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Whitefish Bay",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1183286,
+    "lon": -87.9038259
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3905668257",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

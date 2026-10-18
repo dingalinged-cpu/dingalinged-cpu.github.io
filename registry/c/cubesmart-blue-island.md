@@ -15,7 +15,7 @@ CubeSmart is a self-storage facility in Blue Island, IL at 12400 Western Avenue,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cubesmart-blue-island/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-blue-island.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1049261575 (license ODbL-1.0); source data as of 2026-06-01

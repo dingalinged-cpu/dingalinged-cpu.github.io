@@ -15,7 +15,7 @@ LCHC Eye Clinic is an eye care practice in Chicago, IL at 3851 West Ogden Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lchc-eye-clinic-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lchc-eye-clinic-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8618262967 (license ODbL-1.0); source data as of 2026-07-28

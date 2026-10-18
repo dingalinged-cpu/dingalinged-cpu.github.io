@@ -15,7 +15,7 @@ Dr. James Mitchem Early Childhood Center is a preschool in Romeoville, IL at 753
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-james-mitchem-early-childhood-center-romeoville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-james-mitchem-early-childhood-center-romeoville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/374371419 (license ODbL-1.0); source data as of 2026-07-28

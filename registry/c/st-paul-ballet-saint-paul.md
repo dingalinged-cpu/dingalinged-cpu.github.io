@@ -15,7 +15,7 @@ St. Paul Ballet is a dance studio in Saint Paul, MN at 655 Fairview Avenue North
 - Opening hours (OSM syntax): Mo-Fr 16:00-19:00; Sa 09:00-14:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/st-paul-ballet-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/st-paul-ballet-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7196417959 (license ODbL-1.0); source data as of 2026-07-15

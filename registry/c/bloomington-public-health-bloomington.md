@@ -15,7 +15,7 @@ Bloomington Public Health is a family medicine practice in Bloomington, MN at 19
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30; Sa-Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bloomington-public-health-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bloomington-public-health-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/854053251 (license ODbL-1.0); source data as of 2026-07-24

@@ -1,0 +1,609 @@
+{
+ "place": "Balch Springs, TX",
+ "slug": "balch-springs-tx",
+ "count": 18,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-balch-springs-tx.json"
+  },
+  {
+   "keyword": "car wash balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-balch-springs-tx.json"
+  },
+  {
+   "keyword": "dentist balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-balch-springs-tx.json"
+  },
+  {
+   "keyword": "event venues balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-balch-springs-tx.json"
+  },
+  {
+   "keyword": "funeral home balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-balch-springs-tx.json"
+  },
+  {
+   "keyword": "furniture store balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-balch-springs-tx.json"
+  },
+  {
+   "keyword": "hair salon balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-balch-springs-tx.json"
+  },
+  {
+   "keyword": "haircut balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-balch-springs-tx.json"
+  },
+  {
+   "keyword": "insurance agency balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-balch-springs-tx.json"
+  },
+  {
+   "keyword": "insurance agent balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-balch-springs-tx.json"
+  },
+  {
+   "keyword": "insurance agents balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-balch-springs-tx.json"
+  },
+  {
+   "keyword": "liquor store balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-balch-springs-tx.json"
+  },
+  {
+   "keyword": "mechanic balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-balch-springs-tx.json"
+  },
+  {
+   "keyword": "storage units balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-balch-springs-tx.json"
+  },
+  {
+   "keyword": "vet balch springs tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-balch-springs-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "vm-ballroom-balch-springs",
+   "name": "VM Ballroom",
+   "summary": "VM Ballroom is an event venue in Balch Springs, TX at 11221 Lake June Road, Balch Springs, TX 75180. Website: https://vmballroom.simplybook.me/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vm-ballroom-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vm-ballroom-balch-springs.json",
+   "address": {
+    "streetAddress": "11221 Lake June Road",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.7343949,
+    "lon": -96.6327139
+   },
+   "website": "https://vmballroom.simplybook.me/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1807968325",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "big-5-beverage-balch-springs",
+   "name": "Big 5 Beverage",
+   "summary": "Big 5 Beverage is a liquor store in Balch Springs, TX at 1499 South Peachtree Road #A, Balch Springs, TX 75180.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-5-beverage-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-5-beverage-balch-springs.json",
+   "address": {
+    "streetAddress": "1499 South Peachtree Road #A",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.7484146,
+    "lon": -96.6316225
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/830408910",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "blessed-blade-barbershop-balch-springs",
+   "name": "Blessed Blade Barbershop",
+   "summary": "Blessed Blade Barbershop is a hair salon in Balch Springs, TX at 12111 Seagoville Road #C, Balch Springs, TX 75180.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blessed-blade-barbershop-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blessed-blade-barbershop-balch-springs.json",
+   "address": {
+    "streetAddress": "12111 Seagoville Road #C",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.7053916,
+    "lon": -96.6173105
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13627940216",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "byt-lube-service-balch-springs",
+   "name": "BYT Lube Service",
+   "summary": "BYT Lube Service is an auto repair shop in Balch Springs, TX at 12309 Seagoville Road, Balch Springs, TX 75180.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/byt-lube-service-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/byt-lube-service-balch-springs.json",
+   "address": {
+    "streetAddress": "12309 Seagoville Road",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.7052705,
+    "lon": -96.6164631
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/673945123",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chipinque-furniture-bruton-balch-springs",
+   "name": "Chipinque Furniture Bruton",
+   "summary": "Chipinque Furniture Bruton is a furniture store in Balch Springs, TX at 1734 Bruton Road, Balch Springs, TX 75180.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chipinque-furniture-bruton-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chipinque-furniture-bruton-balch-springs.json",
+   "address": {
+    "streetAddress": "1734 Bruton Road",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.748261,
+    "lon": -96.624265
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/685125522",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cubesmart-balch-springs",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Balch Springs, TX at 4108 Hickory Tree Road, Balch Springs, TX 75180.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-balch-springs.json",
+   "address": {
+    "streetAddress": "4108 Hickory Tree Road",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.7106245,
+    "lon": -96.6216911
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1458850097",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dallas-county-veterinary-hospital-balch-springs",
+   "name": "Dallas County Veterinary Hospital",
+   "summary": "Dallas County Veterinary Hospital is a veterinarian in Balch Springs, TX at 3475 South Belt Line Road, Balch Springs, TX 75181.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dallas-county-veterinary-hospital-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dallas-county-veterinary-hospital-balch-springs.json",
+   "address": {
+    "streetAddress": "3475 South Belt Line Road",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75181",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75181",
+   "geo": {
+    "lat": 32.7211619,
+    "lon": -96.5950988
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/706321969",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "freestyle-paint-and-body-balch-springs",
+   "name": "Freestyle Paint & Body",
+   "summary": "Freestyle Paint & Body is an auto repair shop in Balch Springs, TX at 2515 Hickory Tree Road, Balch Springs, TX 75180.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freestyle-paint-and-body-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freestyle-paint-and-body-balch-springs.json",
+   "address": {
+    "streetAddress": "2515 Hickory Tree Road",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.7346778,
+    "lon": -96.6229893
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/704729476",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "howdys-balch-springs",
+   "name": "Howdys",
+   "summary": "Howdys is a liquor store in Balch Springs, TX at 3620 Shepherd Lane, Balch Springs, TX 75180.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/howdys-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/howdys-balch-springs.json",
+   "address": {
+    "streetAddress": "3620 Shepherd Lane",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.7213583,
+    "lon": -96.6135847
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/673938960",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "i-20-liquor-depot-balch-springs",
+   "name": "I-20 Liquor Depot",
+   "summary": "I-20 Liquor Depot is a liquor store in Balch Springs, TX at 13881 Interstate 20 #B, Balch Springs, TX 75181.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/i-20-liquor-depot-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/i-20-liquor-depot-balch-springs.json",
+   "address": {
+    "streetAddress": "13881 Interstate 20 #B",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75181",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75181",
+   "geo": {
+    "lat": 32.7051428,
+    "lon": -96.5802606
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/669772560",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-familia-auto-insurance-balch-springs",
+   "name": "La Familia Auto Insurance",
+   "summary": "La Familia Auto Insurance is an insurance agent in Balch Springs, TX at 12600 Lake June Road, Balch Springs, TX 75180.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-familia-auto-insurance-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-familia-auto-insurance-balch-springs.json",
+   "address": {
+    "streetAddress": "12600 Lake June Road",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.7355933,
+    "lon": -96.6109285
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/502512052",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "laurel-oaks-funeral-home-balch-springs",
+   "name": "Laurel Oaks Funeral Home",
+   "summary": "Laurel Oaks Funeral Home is a funeral home in Balch Springs, TX at 12649 Lake June Road, Balch Springs, TX 75180.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/laurel-oaks-funeral-home-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/laurel-oaks-funeral-home-balch-springs.json",
+   "address": {
+    "streetAddress": "12649 Lake June Road",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.7381223,
+    "lon": -96.6098963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/830436691",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "liquor-depot-balch-springs",
+   "name": "Liquor Depot",
+   "summary": "Liquor Depot is a liquor store in Balch Springs, TX at 11709 Seagoville Road, Balch Springs, TX 75180.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-depot-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-depot-balch-springs.json",
+   "address": {
+    "streetAddress": "11709 Seagoville Road",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.70542,
+    "lon": -96.6251089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/698973004",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "liquor-zone-balch-springs",
+   "name": "Liquor Zone",
+   "summary": "Liquor Zone is a liquor store in Balch Springs, TX at 1820 Bruton Road, Balch Springs, TX 75180.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-zone-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-zone-balch-springs.json",
+   "address": {
+    "streetAddress": "1820 Bruton Road",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.748248,
+    "lon": -96.6251317
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/685125518",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "payless-liquor-balch-springs",
+   "name": "Payless Liquor",
+   "summary": "Payless Liquor is a liquor store in Balch Springs, TX at 2497 South Peachtree Road, Balch Springs, TX 75180.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/payless-liquor-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/payless-liquor-balch-springs.json",
+   "address": {
+    "streetAddress": "2497 South Peachtree Road",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.734847,
+    "lon": -96.6316332
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7752542879",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sierra-express-car-wash-balch-springs",
+   "name": "Sierra Express Car Wash",
+   "summary": "Sierra Express Car Wash is a car wash in Balch Springs, TX at 12050 Lake June Road, Balch Springs, TX 75180.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sierra-express-car-wash-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sierra-express-car-wash-balch-springs.json",
+   "address": {
+    "streetAddress": "12050 Lake June Road",
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "postalCode": "75180",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "zip": "75180",
+   "geo": {
+    "lat": 32.7334526,
+    "lon": -96.6190677
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/830412868",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "globo-dental-balch-springs",
+   "name": "Globo Dental",
+   "summary": "Globo Dental is a dentist in Balch Springs, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/globo-dental-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/globo-dental-balch-springs.json",
+   "address": {
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7138824,
+    "lon": -96.6060651
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10586923191",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "inspire-dental-balch-springs",
+   "name": "Inspire Dental",
+   "summary": "Inspire Dental is a dentist in Balch Springs, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/inspire-dental-balch-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/inspire-dental-balch-springs.json",
+   "address": {
+    "addressLocality": "Balch Springs",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Balch Springs",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7347469,
+    "lon": -96.633803
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10586923221",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

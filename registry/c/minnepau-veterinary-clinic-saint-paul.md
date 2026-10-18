@@ -15,7 +15,7 @@ Minnepau Veterinary Clinic is a veterinarian in Saint Paul, MN at 918 Raymond Av
 - Opening hours (OSM syntax): Mo,We 08:00-17:00; Tu,Th 08:00-18:00; Fr 08:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/minnepau-veterinary-clinic-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/minnepau-veterinary-clinic-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7524084503 (license ODbL-1.0); source data as of 2026-07-24

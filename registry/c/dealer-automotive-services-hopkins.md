@@ -15,7 +15,7 @@ Dealer Automotive Services is an auto repair shop in Hopkins, MN. Phone: +195293
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dealer-automotive-services-hopkins/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dealer-automotive-services-hopkins.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12099743408 (license ODbL-1.0); source data as of 2026-06-01

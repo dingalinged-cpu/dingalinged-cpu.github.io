@@ -15,7 +15,7 @@ Turbo Tim's is an auto repair shop in Saint Paul, MN at 1671 University Avenue, 
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/turbo-tims-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/turbo-tims-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11847788392 (license ODbL-1.0); source data as of 2026-06-01

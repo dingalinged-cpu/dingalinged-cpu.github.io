@@ -1,0 +1,23 @@
+Discount Tire Company is a tire shop in Grand Prairie, TX at 130 West Pioneer Parkway, Grand Prairie, TX 75051. Phone: +19722649362.
+
+# Discount Tire Company
+
+- Category: tire shop
+- Services: tire shop
+- Address: 130 West Pioneer Parkway, Grand Prairie, TX 75051
+- City: Grand Prairie
+- State: TX
+- ZIP: 75051
+- Coordinates: 32.7099552, -97.0040103
+- Phone: +19722649362
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00, Sa 08:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/discount-tire-company-grand-prairie/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-company-grand-prairie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/356338468 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

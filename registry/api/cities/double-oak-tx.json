@@ -1,0 +1,50 @@
+{
+ "place": "Double Oak, TX",
+ "slug": "double-oak-tx",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "urgent care double oak tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/urgent-care-double-oak-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "rapid-med-urgent-care-center-double-oak",
+   "name": "Rapid Med Urgent Care Center",
+   "summary": "Rapid Med Urgent Care Center is an urgent care clinic in Double Oak, TX at 8501 FM 407, Double Oak, TX 75077. Phone: +19729661980. Website: https://rapidmed.com/.",
+   "categories": [
+    "urgent care"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rapid-med-urgent-care-center-double-oak/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rapid-med-urgent-care-center-double-oak.json",
+   "address": {
+    "streetAddress": "8501 FM 407",
+    "addressLocality": "Double Oak",
+    "addressRegion": "TX",
+    "postalCode": "75077",
+    "addressCountry": "US"
+   },
+   "city": "Double Oak",
+   "state": "TX",
+   "zip": "75077",
+   "geo": {
+    "lat": 33.0715545,
+    "lon": -97.0883933
+   },
+   "phone": "+19729661980",
+   "website": "https://rapidmed.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/960087653",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

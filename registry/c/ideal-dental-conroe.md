@@ -1,0 +1,23 @@
+Ideal Dental is a dentist in Conroe, TX.
+
+# Ideal Dental
+
+- Category: dentist
+- Services: dentist
+- Address: Conroe, TX
+- City: Conroe
+- State: TX
+- ZIP: n/a
+- Coordinates: 30.2784303, -95.466012
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ideal-dental-conroe/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ideal-dental-conroe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9279177694 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

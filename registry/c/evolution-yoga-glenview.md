@@ -15,7 +15,7 @@ Evolution Yoga is a yoga studio in Glenview, IL. Website: https://www.evolutiony
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/evolution-yoga-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/evolution-yoga-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7502096375 (license ODbL-1.0); source data as of 2026-06-01

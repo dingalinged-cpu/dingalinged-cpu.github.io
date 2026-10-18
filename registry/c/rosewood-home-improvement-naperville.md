@@ -15,7 +15,7 @@ Rosewood Home Improvement is a general contractor in Naperville, IL at 924 West 
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su "by appointment"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rosewood-home-improvement-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rosewood-home-improvement-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/993536468 (license ODbL-1.0); source data as of 2026-06-01

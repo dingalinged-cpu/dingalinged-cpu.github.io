@@ -15,7 +15,7 @@ Super Brow & Lash Bar is a skin care studio in Rolling Meadows, IL at 1917 South
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/super-brow-and-lash-bar-rolling-meadows/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/super-brow-and-lash-bar-rolling-meadows.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11425147071 (license ODbL-1.0); source data as of 2026-06-01

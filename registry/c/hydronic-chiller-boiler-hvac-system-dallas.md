@@ -1,0 +1,23 @@
+Hydronic chiller boiler HVAC system is a HVAC contractor in Dallas, TX.
+
+# Hydronic chiller boiler HVAC system
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.8122292, -96.7338801
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hydronic-chiller-boiler-hvac-system-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hydronic-chiller-boiler-hvac-system-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/545916025 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

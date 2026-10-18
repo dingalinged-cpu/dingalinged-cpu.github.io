@@ -15,7 +15,7 @@ A&A Ballet Center for Dance is a dance studio in Chicago, IL at 731 South Plymou
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/a-and-a-ballet-center-for-dance-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-and-a-ballet-center-for-dance-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11175366176 (license ODbL-1.0); source data as of 2026-06-01

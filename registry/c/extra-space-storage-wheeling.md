@@ -15,7 +15,7 @@ Extra Space Storage is a self-storage facility in Wheeling, IL at 991 North Milw
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-wheeling/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-wheeling.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1223501272 (license ODbL-1.0); source data as of 2026-06-01

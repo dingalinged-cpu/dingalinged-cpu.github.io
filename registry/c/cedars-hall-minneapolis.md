@@ -15,7 +15,7 @@ Cedars Hall is an event venue in Minneapolis, MN at 600 Northeast University Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cedars-hall-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cedars-hall-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13892867707 (license ODbL-1.0); source data as of 2026-07-24

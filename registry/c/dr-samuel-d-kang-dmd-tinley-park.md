@@ -15,7 +15,7 @@ Dr. Samuel D. Kang, DMD is a dentist in Tinley Park, IL at 18425 W Creek Dr, Tin
 - Opening hours (OSM syntax): Mon )8:00-07:00; Tu 07:00-19:30; We 08:00-12:00; Th 09:00-06:00; Fr 09:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-samuel-d-kang-dmd-tinley-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-samuel-d-kang-dmd-tinley-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12775648618 (license ODbL-1.0); source data as of 2026-07-28

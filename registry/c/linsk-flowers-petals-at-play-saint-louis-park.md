@@ -15,7 +15,7 @@ Linsk Flowers - Petals At Play is a florist in Saint Louis Park, MN at 5555 Lake
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/linsk-flowers-petals-at-play-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/linsk-flowers-petals-at-play-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/502990958 (license ODbL-1.0); source data as of 2026-06-01

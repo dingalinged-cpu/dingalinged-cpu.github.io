@@ -15,7 +15,7 @@ La-Z-Boy is a furniture store in Orland Park, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-z-boy-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-z-boy-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1000064865 (license ODbL-1.0); source data as of 2026-06-01

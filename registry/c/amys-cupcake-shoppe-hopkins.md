@@ -15,7 +15,7 @@ Amy's Cupcake Shoppe is a bakery in Hopkins, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/amys-cupcake-shoppe-hopkins/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/amys-cupcake-shoppe-hopkins.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11497599373 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Extra Space Storage is a self-storage facility in Dallas, TX at 7701 Banner Drive, Dallas, TX.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 7701 Banner Drive, Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.9205703, -96.7748651
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-dallas-w1036879553/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-dallas-w1036879553.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1036879553 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Dinora Ingberman M.D. is an acupuncture clinic in Skokie, IL at 4709 Golf Road #
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dinora-ingberman-m-d-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dinora-ingberman-m-d-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9764462372 (license ODbL-1.0); source data as of 2026-07-28

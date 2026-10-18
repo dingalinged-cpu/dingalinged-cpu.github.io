@@ -15,7 +15,7 @@ American Sale is a furniture store in Romeoville, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/american-sale-romeoville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/american-sale-romeoville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/548745545 (license ODbL-1.0); source data as of 2026-06-01

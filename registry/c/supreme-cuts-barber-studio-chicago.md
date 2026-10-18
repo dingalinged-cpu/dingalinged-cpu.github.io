@@ -15,7 +15,7 @@ Supreme Cuts Barber Studio is a hair salon in Chicago, IL at 13256 South Brandon
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/supreme-cuts-barber-studio-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/supreme-cuts-barber-studio-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8614035952 (license ODbL-1.0); source data as of 2026-06-01

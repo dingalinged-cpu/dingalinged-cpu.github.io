@@ -15,7 +15,7 @@ Extra Space Storage is a self-storage facility in Berwyn, IL at 1301 South Harle
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-berwyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-berwyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1029079272 (license ODbL-1.0); source data as of 2026-06-01

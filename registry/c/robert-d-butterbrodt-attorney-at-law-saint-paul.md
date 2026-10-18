@@ -15,7 +15,7 @@ Robert D. Butterbrodt, Attorney at Law is a lawyer in Saint Paul, MN at 1 West W
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/robert-d-butterbrodt-attorney-at-law-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/robert-d-butterbrodt-attorney-at-law-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10910429440 (license ODbL-1.0); source data as of 2026-05-31

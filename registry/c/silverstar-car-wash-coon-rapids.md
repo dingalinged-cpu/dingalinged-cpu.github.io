@@ -15,7 +15,7 @@ Silverstar Car Wash is a car wash in Coon Rapids, MN at 2085 Northdale Boulevard
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/silverstar-car-wash-coon-rapids/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/silverstar-car-wash-coon-rapids.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1431561294 (license ODbL-1.0); source data as of 2026-07-24

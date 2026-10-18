@@ -15,7 +15,7 @@ Ispiri - Design & Remodel is a general contractor in Minneapolis, MN. Website: h
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ispiri-design-and-remodel-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ispiri-design-and-remodel-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12139116016 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/26th-street-garage-north-riverside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/26th-street-garage-north-riverside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1005945041 (license ODbL-1.0); source data as of 2026-06-01

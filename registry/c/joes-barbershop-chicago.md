@@ -15,7 +15,7 @@ Joe's Barbershop is a hair salon in Chicago, IL at 643 West 43rd Street, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/joes-barbershop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/joes-barbershop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2396814021 (license ODbL-1.0); source data as of 2026-06-01

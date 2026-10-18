@@ -15,7 +15,7 @@ Attorney Shawna Mason is a lawyer in Wheaton, IL at 1008 East Geneva Road, Wheat
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/attorney-shawna-mason-wheaton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/attorney-shawna-mason-wheaton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13454401626 (license ODbL-1.0); source data as of 2026-07-28

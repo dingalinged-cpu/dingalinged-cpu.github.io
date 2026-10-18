@@ -15,7 +15,7 @@ Illinois State Insurance Agency, INC. is an insurance agent in Palatine, IL at 1
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/illinois-state-insurance-agency-inc-palatine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/illinois-state-insurance-agency-inc-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6775493665 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+Village Baking Co is a bakery in Dallas, TX at 337 Melba Street, Dallas, TX.
+
+# Village Baking Co
+
+- Category: bakery
+- Services: bakery
+- Address: 337 Melba Street, Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.7473659, -96.8281712
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/village-baking-co-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/village-baking-co-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/465272869 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

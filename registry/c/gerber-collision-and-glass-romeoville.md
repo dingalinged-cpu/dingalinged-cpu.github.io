@@ -15,7 +15,7 @@ Gerber Collision & Glass is an auto repair shop in Romeoville, IL at 635 Indepen
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-romeoville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-romeoville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/315995394 (license ODbL-1.0); source data as of 2026-06-01

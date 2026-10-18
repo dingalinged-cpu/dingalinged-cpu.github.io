@@ -15,7 +15,7 @@ Pandora is a jewelry store in Deer Park, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pandora-deer-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pandora-deer-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10220471896 (license ODbL-1.0); source data as of 2026-06-01

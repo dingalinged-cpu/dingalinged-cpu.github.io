@@ -15,7 +15,7 @@ Bird & Belle Salon is a hair salon in Naperville, IL at 303 North Center Street,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bird-and-belle-salon-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bird-and-belle-salon-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/279899569 (license ODbL-1.0); source data as of 2026-06-01

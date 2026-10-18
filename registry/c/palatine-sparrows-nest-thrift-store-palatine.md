@@ -15,7 +15,7 @@ Palatine Sparrow's Nest Thrift Store is a thrift store in Palatine, IL at 275 Ea
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/palatine-sparrows-nest-thrift-store-palatine/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/palatine-sparrows-nest-thrift-store-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13011760801 (license ODbL-1.0); source data as of 2026-06-01

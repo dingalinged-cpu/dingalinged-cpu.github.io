@@ -15,7 +15,7 @@ Petco is a pet store in Chicago, IL at 2000 North Clybourn Avenue, Chicago, IL 6
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/petco-chicago-n11819718923/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/petco-chicago-n11819718923.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11819718923 (license ODbL-1.0); source data as of 2026-06-01

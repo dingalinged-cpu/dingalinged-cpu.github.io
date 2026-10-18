@@ -15,7 +15,7 @@ Waleed Barber Shop is a hair salon in Naperville, IL at 1220 West Ogden Avenue #
 - Opening hours (OSM syntax): Mo off; Tu-Fr 11:00-19:00; Sa-Su 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/waleed-barber-shop-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/waleed-barber-shop-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8519287312 (license ODbL-1.0); source data as of 2026-06-01

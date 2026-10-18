@@ -15,7 +15,7 @@ Valvoline is an auto repair shop in White Bear Township, MN at 1008 Meadowlands 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/valvoline-white-bear-township/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/valvoline-white-bear-township.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1085190629 (license ODbL-1.0); source data as of 2026-06-01

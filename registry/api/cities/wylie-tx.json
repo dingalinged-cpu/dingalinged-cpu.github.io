@@ -1,0 +1,2208 @@
+{
+ "place": "Wylie, TX",
+ "slug": "wylie-tx",
+ "count": 69,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-wylie-tx.json"
+  },
+  {
+   "keyword": "auto repair wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-wylie-tx.json"
+  },
+  {
+   "keyword": "bakery wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-wylie-tx.json"
+  },
+  {
+   "keyword": "car wash wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-wylie-tx.json"
+  },
+  {
+   "keyword": "crossfit wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/crossfit-wylie-tx.json"
+  },
+  {
+   "keyword": "dentist wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-wylie-tx.json"
+  },
+  {
+   "keyword": "dry cleaners wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-wylie-tx.json"
+  },
+  {
+   "keyword": "event venues wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-wylie-tx.json"
+  },
+  {
+   "keyword": "eye doctor wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-wylie-tx.json"
+  },
+  {
+   "keyword": "family doctor wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-wylie-tx.json"
+  },
+  {
+   "keyword": "financial advisor wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-wylie-tx.json"
+  },
+  {
+   "keyword": "flooring companies wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-wylie-tx.json"
+  },
+  {
+   "keyword": "florist wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-wylie-tx.json"
+  },
+  {
+   "keyword": "furniture store wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-wylie-tx.json"
+  },
+  {
+   "keyword": "gift shop wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-wylie-tx.json"
+  },
+  {
+   "keyword": "gym wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-wylie-tx.json"
+  },
+  {
+   "keyword": "hair salon wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-wylie-tx.json"
+  },
+  {
+   "keyword": "haircut wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-wylie-tx.json"
+  },
+  {
+   "keyword": "insurance agency wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-wylie-tx.json"
+  },
+  {
+   "keyword": "insurance agent wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-wylie-tx.json"
+  },
+  {
+   "keyword": "insurance agents wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-wylie-tx.json"
+  },
+  {
+   "keyword": "jewelry store wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-wylie-tx.json"
+  },
+  {
+   "keyword": "mattress store wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-wylie-tx.json"
+  },
+  {
+   "keyword": "mechanic wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-wylie-tx.json"
+  },
+  {
+   "keyword": "nail salon wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-wylie-tx.json"
+  },
+  {
+   "keyword": "pet store wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-wylie-tx.json"
+  },
+  {
+   "keyword": "physical therapy wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-wylie-tx.json"
+  },
+  {
+   "keyword": "preschool wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-wylie-tx.json"
+  },
+  {
+   "keyword": "primary care physician wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-wylie-tx.json"
+  },
+  {
+   "keyword": "printing services wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-wylie-tx.json"
+  },
+  {
+   "keyword": "storage units wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-wylie-tx.json"
+  },
+  {
+   "keyword": "tanning salon wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-wylie-tx.json"
+  },
+  {
+   "keyword": "tire shop wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-wylie-tx.json"
+  },
+  {
+   "keyword": "vet wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-wylie-tx.json"
+  },
+  {
+   "keyword": "waxing wylie tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-wylie-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "ati-physical-therapy-wylie",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Wylie, TX at 809 Woodbridge Parkway #200, Wylie, TX 75098. Phone: +19729796577. Website: https://locations.atipt.com/wylie-tx.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-wylie.json",
+   "address": {
+    "streetAddress": "809 Woodbridge Parkway #200",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0098344,
+    "lon": -96.5736413
+   },
+   "phone": "+19729796577",
+   "website": "https://locations.atipt.com/wylie-tx",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11756566527",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carenow-urgent-care-wylie",
+   "name": "CareNow Urgent Care",
+   "summary": "CareNow Urgent Care is a family medicine practice in Wylie, TX at 3080 FM 544, Wylie, TX 75098. Phone: +19722027300. Website: https://www.carenow.com/locations/dallas-fort-worth/wylie/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carenow-urgent-care-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carenow-urgent-care-wylie.json",
+   "address": {
+    "streetAddress": "3080 FM 544",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0107071,
+    "lon": -96.5887472
+   },
+   "phone": "+19722027300",
+   "website": "https://www.carenow.com/locations/dallas-fort-worth/wylie/",
+   "opening_hours": "Su 08:00-17:00; Mo-Sa 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1270292441",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "country-club-storage-wylie",
+   "name": "Country Club Storage",
+   "summary": "Country Club Storage is a self-storage facility in Wylie, TX at 2744 Southview Dr, Wylie, TX 75098. Phone: +19724619600. Website: https://www.countryclubstorage.net/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/country-club-storage-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/country-club-storage-wylie.json",
+   "address": {
+    "streetAddress": "2744 Southview Dr",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0555326,
+    "lon": -96.5677742
+   },
+   "phone": "+19724619600",
+   "website": "https://www.countryclubstorage.net/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6073219260",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "floor-and-decor-wylie",
+   "name": "Floor & Decor",
+   "summary": "Floor & Decor is a flooring company in Wylie, TX at 3026 FM 544, Wylie, TX 75098. Phone: +14694439124. Website: https://www.flooranddecor.com/store?storeID=330.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floor-and-decor-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floor-and-decor-wylie.json",
+   "address": {
+    "streetAddress": "3026 FM 544",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0088737,
+    "lon": -96.5879481
+   },
+   "phone": "+14694439124",
+   "website": "https://www.flooranddecor.com/store?storeID=330",
+   "opening_hours": "Mo-Fr 06:00-19:00; Sa 08:00-19:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1272417841",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lake-lavon-animal-hospital-wylie",
+   "name": "Lake Lavon Animal Hospital",
+   "summary": "Lake Lavon Animal Hospital is a veterinarian in Wylie, TX at 456 North Country Club Road #110, Wylie, TX 75098. Phone: +19724297901. Website: https://www.lakelavonanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-lavon-animal-hospital-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-lavon-animal-hospital-wylie.json",
+   "address": {
+    "streetAddress": "456 North Country Club Road #110",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0198947,
+    "lon": -96.5681387
+   },
+   "phone": "+19724297901",
+   "website": "https://www.lakelavonanimalhospital.com/",
+   "opening_hours": "Mo-Fr 07:30-17:30, Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9580720449",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "parker-road-veterinary-hospital-wylie",
+   "name": "Parker Road Veterinary Hospital",
+   "summary": "Parker Road Veterinary Hospital is a veterinarian in Wylie, TX at 707 Parker Road, Wylie, TX 75098. Phone: +19724426523. Website: https://www.parkerroadvet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/parker-road-veterinary-hospital-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/parker-road-veterinary-hospital-wylie.json",
+   "address": {
+    "streetAddress": "707 Parker Road",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0273049,
+    "lon": -96.5457741
+   },
+   "phone": "+19724426523",
+   "website": "https://www.parkerroadvet.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2412757656",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-supplies-plus-wylie",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Wylie, TX at 807 Woodbridge Parkway, Wylie, TX 75098. Phone: +14699916200. Website: https://www.petsuppliesplus.com/store/tx/wylie/4140-wylie/4140.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-wylie.json",
+   "address": {
+    "streetAddress": "807 Woodbridge Parkway",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0093123,
+    "lon": -96.5736723
+   },
+   "phone": "+14699916200",
+   "website": "https://www.petsuppliesplus.com/store/tx/wylie/4140-wylie/4140",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1265621098",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "posh-nail-salon-wylie",
+   "name": "Posh Nail Salon",
+   "summary": "Posh Nail Salon is a nail salon in Wylie, TX at 2810 FM 544 #200, Wylie, TX 75098. Phone: +19724422722. Website: https://poshnailsalonwylie.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/posh-nail-salon-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/posh-nail-salon-wylie.json",
+   "address": {
+    "streetAddress": "2810 FM 544 #200",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0107739,
+    "lon": -96.5845379
+   },
+   "phone": "+19724422722",
+   "website": "https://poshnailsalonwylie.com/",
+   "opening_hours": "Mo-Fr 10:00-19:30; Sa 09:00-19:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11762547820",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "roosters-men-s-grooming-center-wylie",
+   "name": "Roosters Men’s Grooming Center",
+   "summary": "Roosters Men’s Grooming Center is a hair salon in Wylie, TX at 809 Woodbridge Parkway #300, Wylie, TX 75098. Phone: +19722124488. Website: https://www.roostersmgc.com/locations/nearme/haircut/tx/wylie/kroger/13245.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/roosters-men-s-grooming-center-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/roosters-men-s-grooming-center-wylie.json",
+   "address": {
+    "streetAddress": "809 Woodbridge Parkway #300",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0098881,
+    "lon": -96.5736393
+   },
+   "phone": "+19722124488",
+   "website": "https://www.roostersmgc.com/locations/nearme/haircut/tx/wylie/kroger/13245",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11756566526",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-wylie-wylie",
+   "name": "The UPS Store Wylie",
+   "summary": "The UPS Store Wylie is a printing service in Wylie, TX at 809 Woodbridge Parkway #500, Wylie, TX 75098. Phone: +14693040444. Website: https://locations.theupsstore.com/tx/wylie/809-woodbridge-pkwy.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-wylie-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-wylie-wylie.json",
+   "address": {
+    "streetAddress": "809 Woodbridge Parkway #500",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.009997,
+    "lon": -96.5736396
+   },
+   "phone": "+14693040444",
+   "website": "https://locations.theupsstore.com/tx/wylie/809-woodbridge-pkwy",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 10:00-17:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11756566524",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "thrive-pet-healthcare-wylie-wylie",
+   "name": "Thrive Pet Healthcare Wylie",
+   "summary": "Thrive Pet Healthcare Wylie is a veterinarian in Wylie, TX at 2588 FM 544 #200, Wylie, TX 75098. Phone: +14696547461. Website: https://www.thrivepetcare.com/locations/texas/wylie/wylie.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thrive-pet-healthcare-wylie-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thrive-pet-healthcare-wylie-wylie.json",
+   "address": {
+    "streetAddress": "2588 FM 544 #200",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0105182,
+    "lon": -96.5740109
+   },
+   "phone": "+14696547461",
+   "website": "https://www.thrivepetcare.com/locations/texas/wylie/wylie",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11756429591",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jumper-bee-entertainment-llc-wylie",
+   "name": "Jumper Bee Entertainment LLC",
+   "summary": "Jumper Bee Entertainment LLC is an event venue in Wylie, TX at 112 Regency Drive, Wylie, TX 75098. Phone: +19724294545. Website: https://www.jumperbee.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jumper-bee-entertainment-llc-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jumper-bee-entertainment-llc-wylie.json",
+   "address": {
+    "streetAddress": "112 Regency Drive",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0078095,
+    "lon": -96.5860688
+   },
+   "phone": "+19724294545",
+   "website": "https://www.jumperbee.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7578280331",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carnation-auto-spa-wylie",
+   "name": "Carnation Auto Spa",
+   "summary": "Carnation Auto Spa is a car wash in Wylie, TX at 3301 FM 544, Wylie, TX 75098. Website: https://carnationautospa.com/carnation-locations/wylie/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carnation-auto-spa-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carnation-auto-spa-wylie.json",
+   "address": {
+    "streetAddress": "3301 FM 544",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0118226,
+    "lon": -96.5904075
+   },
+   "website": "https://carnationautospa.com/carnation-locations/wylie/",
+   "opening_hours": "Mo-Sa 08:00-20:00; Su 08:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1270292447",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wylie-dentistry-co-wylie",
+   "name": "Wylie Dentistry Co.",
+   "summary": "Wylie Dentistry Co. is a dentist in Wylie, TX at 2810 FM 544 #100, Wylie, TX 75098. Phone: +19724780540.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wylie-dentistry-co-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wylie-dentistry-co-wylie.json",
+   "address": {
+    "streetAddress": "2810 FM 544 #100",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.010772,
+    "lon": -96.5844187
+   },
+   "phone": "+19724780540",
+   "opening_hours": "Sa-Mo off; Tu-Th 08:00-17:00; Fr 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11762547821",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "caliber-collision-wylie",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Wylie, TX at 451 Westgate Way, Wylie, TX 75098. Website: https://www.caliber.com/find-a-location/wylie.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-wylie.json",
+   "address": {
+    "streetAddress": "451 Westgate Way",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0090185,
+    "lon": -96.5553437
+   },
+   "website": "https://www.caliber.com/find-a-location/wylie",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11466875611",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "central-self-storage-wylie",
+   "name": "Central Self Storage",
+   "summary": "Central Self Storage is a self-storage facility in Wylie, TX at 2802 FM 544, Wylie, TX 75098. Phone: +19724425210.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-self-storage-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-self-storage-wylie.json",
+   "address": {
+    "streetAddress": "2802 FM 544",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0101595,
+    "lon": -96.5838597
+   },
+   "phone": "+19724425210",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1266332260",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-wylie",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Wylie, TX at 500 Westgate Way, Wylie, TX. Website: https://www.statefarm.com/agent/us/tx/wylie.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-wylie.json",
+   "address": {
+    "streetAddress": "500 Westgate Way",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0086482,
+    "lon": -96.5562739
+   },
+   "website": "https://www.statefarm.com/agent/us/tx/wylie",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11466875612",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-wylie",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Wylie, TX at 3401 FM 544, Wylie, TX 75098.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-wylie.json",
+   "address": {
+    "streetAddress": "3401 FM 544",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0117531,
+    "lon": -96.5907319
+   },
+   "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1270292446",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-wylie",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Wylie, TX at 800, Wylie, TX.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-wylie.json",
+   "address": {
+    "streetAddress": "800",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.00893,
+    "lon": -96.5916842
+   },
+   "opening_hours": "Mo-Sa 08:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/679815257",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brakes-plus-wylie",
+   "name": "Brakes Plus",
+   "summary": "Brakes Plus is an auto repair shop in Wylie, TX at 1800 FM 544, Wylie, TX 75098.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brakes-plus-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brakes-plus-wylie.json",
+   "address": {
+    "streetAddress": "1800 FM 544",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0081828,
+    "lon": -96.5567487
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1315743135",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "community-wealth-advisors-wylie",
+   "name": "Community Wealth Advisors",
+   "summary": "Community Wealth Advisors is a financial advisor in Wylie, TX at 109 North Ballard Avenue, Wylie, TX 75098.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/community-wealth-advisors-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/community-wealth-advisors-wylie.json",
+   "address": {
+    "streetAddress": "109 North Ballard Avenue",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0144593,
+    "lon": -96.5390663
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13064641198",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dazzle-nail-spa-wylie",
+   "name": "Dazzle Nail Spa",
+   "summary": "Dazzle Nail Spa is a nail salon in Wylie, TX at 805 Woodbridge Parkway #Suite 800, Wylie, TX 75098.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dazzle-nail-spa-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dazzle-nail-spa-wylie.json",
+   "address": {
+    "streetAddress": "805 Woodbridge Parkway #Suite 800",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0088327,
+    "lon": -96.5743798
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957215839",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dry-clean-supercenter-wylie",
+   "name": "Dry Clean Supercenter",
+   "summary": "Dry Clean Supercenter is a dry cleaner in Wylie, TX at 911 Westgate Way, Wylie, TX 75098.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dry-clean-supercenter-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dry-clean-supercenter-wylie.json",
+   "address": {
+    "streetAddress": "911 Westgate Way",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0063211,
+    "lon": -96.5545345
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/667319884",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "glo-tanning-wylie",
+   "name": "Glo Tanning",
+   "summary": "Glo Tanning is a tanning salon in Wylie, TX at 1808 North State Highway 78, Wylie, TX 75098.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glo-tanning-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glo-tanning-wylie.json",
+   "address": {
+    "streetAddress": "1808 North State Highway 78",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0234447,
+    "lon": -96.5161254
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957200539",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hair-society-co-wylie",
+   "name": "Hair Society Co.",
+   "summary": "Hair Society Co. is a hair salon in Wylie, TX at 113 North Ballard Avenue #Suite A, Wylie, TX 75098.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-society-co-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-society-co-wylie.json",
+   "address": {
+    "streetAddress": "113 North Ballard Avenue #Suite A",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0145974,
+    "lon": -96.5390799
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13064641195",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hi-agency-wylie-wylie",
+   "name": "HI Agency - Wylie",
+   "summary": "HI Agency - Wylie is an insurance agent in Wylie, TX at 306 North Ballard Avenue, Wylie, TX 75098.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hi-agency-wylie-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hi-agency-wylie-wylie.json",
+   "address": {
+    "streetAddress": "306 North Ballard Avenue",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0168201,
+    "lon": -96.5385576
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/667327506",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hwy-78-auto-wylie",
+   "name": "Hwy 78 Auto",
+   "summary": "Hwy 78 Auto is an auto repair shop in Wylie, TX at 3302 North State Highway 78, Wylie, TX 75098.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hwy-78-auto-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hwy-78-auto-wylie.json",
+   "address": {
+    "streetAddress": "3302 North State Highway 78",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0242095,
+    "lon": -96.493765
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/709096023",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ideal-dental-wylie",
+   "name": "Ideal Dental",
+   "summary": "Ideal Dental is a dentist in Wylie, TX at 805 Woodbridge Parkway #Suite 400, Wylie, TX 75098.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ideal-dental-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ideal-dental-wylie.json",
+   "address": {
+    "streetAddress": "805 Woodbridge Parkway #Suite 400",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0088294,
+    "lon": -96.5742602
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957215837",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "indus-family-dental-wylie",
+   "name": "Indus Family Dental",
+   "summary": "Indus Family Dental is a dentist in Wylie, TX at 2030 North State Highway 78 #Suite 100, Wylie, TX 75098.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/indus-family-dental-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/indus-family-dental-wylie.json",
+   "address": {
+    "streetAddress": "2030 North State Highway 78 #Suite 100",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0233221,
+    "lon": -96.5129286
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957200546",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "insmile-dental-wylie",
+   "name": "InSmile Dental",
+   "summary": "InSmile Dental is a dentist in Wylie, TX at 330 South State Highway 78 #Suite 200, Wylie, TX 75098.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insmile-dental-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insmile-dental-wylie.json",
+   "address": {
+    "streetAddress": "330 South State Highway 78 #Suite 200",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0106408,
+    "lon": -96.5427858
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957907294",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "james-avery-jewelry-wylie",
+   "name": "James Avery Jewelry",
+   "summary": "James Avery Jewelry is a jewelry store in Wylie, TX at 3400 FM 544 #Suite 608, Wylie, TX 75098.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-avery-jewelry-wylie.json",
+   "address": {
+    "streetAddress": "3400 FM 544 #Suite 608",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.010513,
+    "lon": -96.5923981
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13339770351",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-lube-wylie",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Wylie, TX at 911 FM 544, Wylie, TX 75098.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-wylie.json",
+   "address": {
+    "streetAddress": "911 FM 544",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0069625,
+    "lon": -96.5510732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1304708601",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-wylie",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Wylie, TX at 3483 FM 544 #Suite 122, Wylie, TX 75098.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-wylie.json",
+   "address": {
+    "streetAddress": "3483 FM 544 #Suite 122",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0117144,
+    "lon": -96.594158
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13041903786",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "modern-eye-care-wylie",
+   "name": "Modern Eye Care",
+   "summary": "Modern Eye Care is an eye care practice in Wylie, TX at 803 Woodbridge Parkway #Suite 1400, Wylie, TX 75098.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/modern-eye-care-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/modern-eye-care-wylie.json",
+   "address": {
+    "streetAddress": "803 Woodbridge Parkway #Suite 1400",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0085966,
+    "lon": -96.5740203
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957215834",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nexgen-nail-bar-wylie",
+   "name": "Nexgen Nail Bar",
+   "summary": "Nexgen Nail Bar is a nail salon in Wylie, TX at 3420 FM544 #750, Wylie, TX 75098.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nexgen-nail-bar-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nexgen-nail-bar-wylie.json",
+   "address": {
+    "streetAddress": "3420 FM544 #750",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0091282,
+    "lon": -96.5927932
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13064628176",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ntb-wylie",
+   "name": "NTB",
+   "summary": "NTB is an auto repair shop in Wylie, TX at 2029 North State Highway 78, Wylie, TX 75098.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ntb-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ntb-wylie.json",
+   "address": {
+    "streetAddress": "2029 North State Highway 78",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0223512,
+    "lon": -96.5117614
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1304713068",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "slydes-car-wash-wylie",
+   "name": "Slyde's Car Wash",
+   "summary": "Slyde's Car Wash is a car wash in Wylie, TX at 909 FM 544, Wylie, TX 75098.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slydes-car-wash-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slydes-car-wash-wylie.json",
+   "address": {
+    "streetAddress": "909 FM 544",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0068712,
+    "lon": -96.5505402
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1410221296",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-wylie",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Wylie, TX at 805 Woodbridge Parkway #Suite 600, Wylie, TX 75098.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-wylie.json",
+   "address": {
+    "streetAddress": "805 Woodbridge Parkway #Suite 600",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0088354,
+    "lon": -96.574318
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957215838",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-orthopedics-physical-therapy-wylie",
+   "name": "SPORT Orthopedics + Physical Therapy",
+   "summary": "SPORT Orthopedics + Physical Therapy is a physical therapy clinic in Wylie, TX at 3400 FM 544 #Suite 650, Wylie, TX 75098.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-orthopedics-physical-therapy-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-orthopedics-physical-therapy-wylie.json",
+   "address": {
+    "streetAddress": "3400 FM 544 #Suite 650",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0108236,
+    "lon": -96.5926595
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13339770347",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "storage-king-usa-wylie",
+   "name": "Storage King USA",
+   "summary": "Storage King USA is a self-storage facility in Wylie, TX at 774 Park Boulevard, Wylie, TX 75098.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/storage-king-usa-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/storage-king-usa-wylie.json",
+   "address": {
+    "streetAddress": "774 Park Boulevard",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0297372,
+    "lon": -96.5512109
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9397871683",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-wylie",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Wylie, TX at 330 South State Highway 78 #Suite 300, Wylie, TX 75098.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-wylie.json",
+   "address": {
+    "streetAddress": "330 South State Highway 78 #Suite 300",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0106943,
+    "lon": -96.5427071
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957907293",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "texas-endodontic-center-wylie",
+   "name": "Texas Endodontic Center",
+   "summary": "Texas Endodontic Center is a dentist in Wylie, TX at 600 Cooper Drive #140, Wylie, TX 75098.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texas-endodontic-center-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texas-endodontic-center-wylie.json",
+   "address": {
+    "streetAddress": "600 Cooper Drive #140",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.010076,
+    "lon": -96.5449011
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13040206867",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-goddard-school-wylie",
+   "name": "The Goddard School",
+   "summary": "The Goddard School is a preschool in Wylie, TX at 1520 Park Boulevard, Wylie, TX 75098.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-goddard-school-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-goddard-school-wylie.json",
+   "address": {
+    "streetAddress": "1520 Park Boulevard",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0317555,
+    "lon": -96.5674868
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1018904681",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-wylie",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Wylie, TX at 2030 North State Highway 78 #Suite 300, Wylie, TX 75098.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-wylie.json",
+   "address": {
+    "streetAddress": "2030 North State Highway 78 #Suite 300",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.023316,
+    "lon": -96.5127368
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957200545",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waxing-the-city-wylie",
+   "name": "Waxing the City",
+   "summary": "Waxing the City is a waxing salon in Wylie, TX at 3400 FM 544 #Suite 630, Wylie, TX 75098.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waxing-the-city-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waxing-the-city-wylie.json",
+   "address": {
+    "streetAddress": "3400 FM 544 #Suite 630",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0108263,
+    "lon": -96.5925633
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13339770348",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wylie-elite-allstar-cheerleading-and-tumbling-wylie",
+   "name": "Wylie Elite Allstar Cheerleading and Tumbling",
+   "summary": "Wylie Elite Allstar Cheerleading and Tumbling is a gym in Wylie, TX at 201 Security Court, Wylie, TX 75098.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wylie-elite-allstar-cheerleading-and-tumbling-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wylie-elite-allstar-cheerleading-and-tumbling-wylie.json",
+   "address": {
+    "streetAddress": "201 Security Court",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0091202,
+    "lon": -96.5766002
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/607999894",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wylie-little-smiles-and-orthodontics-wylie",
+   "name": "Wylie Little Smiles and Orthodontics",
+   "summary": "Wylie Little Smiles and Orthodontics is a dentist in Wylie, TX at 1808 North State Highway 78 #Suite 102, Wylie, TX 75098.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wylie-little-smiles-and-orthodontics-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wylie-little-smiles-and-orthodontics-wylie.json",
+   "address": {
+    "streetAddress": "1808 North State Highway 78 #Suite 102",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.023451,
+    "lon": -96.5160275
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12957200540",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wylie-opry-wylie",
+   "name": "Wylie Opry",
+   "summary": "Wylie Opry is an event venue in Wylie, TX at 111 North Ballard Avenue, Wylie, TX 75098.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wylie-opry-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wylie-opry-wylie.json",
+   "address": {
+    "streetAddress": "111 North Ballard Avenue",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0145321,
+    "lon": -96.5390709
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13064641197",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wylie-orthodontic-specialists-wylie",
+   "name": "Wylie Orthodontic Specialists",
+   "summary": "Wylie Orthodontic Specialists is a dentist in Wylie, TX at 600 Cooper Drive #160, Wylie, TX 75098.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wylie-orthodontic-specialists-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wylie-orthodontic-specialists-wylie.json",
+   "address": {
+    "streetAddress": "600 Cooper Drive #160",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "postalCode": "75098",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "zip": "75098",
+   "geo": {
+    "lat": 33.0101049,
+    "lon": -96.5447529
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13040206866",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fuel-city-car-wash-wylie",
+   "name": "Fuel City Car Wash",
+   "summary": "Fuel City Car Wash is a car wash in Wylie, TX at 1802 North State Highway 78, Wylie, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fuel-city-car-wash-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fuel-city-car-wash-wylie.json",
+   "address": {
+    "streetAddress": "1802 North State Highway 78",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0236503,
+    "lon": -96.5175814
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1304713066",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-wylie-n13339770349",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Wylie, TX at 3400 FM 544 #Suite 620, Wylie, TX.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-wylie-n13339770349/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-wylie-n13339770349.json",
+   "address": {
+    "streetAddress": "3400 FM 544 #Suite 620",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0108284,
+    "lon": -96.5924381
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13339770349",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tire-hub-and-lube-wylie",
+   "name": "Tire Hub & Lube",
+   "summary": "Tire Hub & Lube is a tire shop in Wylie, TX at 403 South State Highway 78, Wylie, TX.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tire-hub-and-lube-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tire-hub-and-lube-wylie.json",
+   "address": {
+    "streetAddress": "403 South State Highway 78",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0093374,
+    "lon": -96.542947
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/495326596",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wylie-tire-shop-wylie",
+   "name": "Wylie Tire Shop",
+   "summary": "Wylie Tire Shop is a tire shop in Wylie, TX at 207 North State Highway 78, Wylie, TX.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wylie-tire-shop-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wylie-tire-shop-wylie.json",
+   "address": {
+    "streetAddress": "207 North State Highway 78",
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0134681,
+    "lon": -96.5368649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/495305977",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bakers-dlite-wylie",
+   "name": "Bakers D'lite",
+   "summary": "Bakers D'lite is a bakery in Wylie, TX.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bakers-dlite-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bakers-dlite-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0090753,
+    "lon": -96.5456
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12152093141",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "childrens-lighthouse-wylie",
+   "name": "Children's Lighthouse",
+   "summary": "Children's Lighthouse is a preschool in Wylie, TX.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/childrens-lighthouse-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/childrens-lighthouse-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0119589,
+    "lon": -96.5933225
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2412384600",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "collision-center-paint-and-body-wylie",
+   "name": "Collision Center Paint and Body",
+   "summary": "Collision Center Paint and Body is an auto repair shop in Wylie, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/collision-center-paint-and-body-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/collision-center-paint-and-body-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0003969,
+    "lon": -96.5566222
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2071647423",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fancy-plants-wylie",
+   "name": "Fancy Plants",
+   "summary": "Fancy Plants is a florist in Wylie, TX.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fancy-plants-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fancy-plants-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0142098,
+    "lon": -96.5387596
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13040206870",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-wylie",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Wylie, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0091292,
+    "lon": -96.5455121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12152093142",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-wylie-n13339770346",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Wylie, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-wylie-n13339770346/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-wylie-n13339770346.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0108234,
+    "lon": -96.5927731
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13339770346",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-kar-lube-and-tune-wylie",
+   "name": "Kwik Kar Lube & Tune",
+   "summary": "Kwik Kar Lube & Tune is an auto repair shop in Wylie, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-kar-lube-and-tune-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-kar-lube-and-tune-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0064919,
+    "lon": -96.5548182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2412608829",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lou-and-be-hair-salon-wylie",
+   "name": "Lou & Be Hair Salon",
+   "summary": "Lou & Be Hair Salon is a hair salon in Wylie, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lou-and-be-hair-salon-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lou-and-be-hair-salon-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0142078,
+    "lon": -96.5384926
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13064641169",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nt-nails-wylie",
+   "name": "NT Nails",
+   "summary": "NT Nails is a nail salon in Wylie, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nt-nails-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nt-nails-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0091725,
+    "lon": -96.5454498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12152093143",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "podium-up-weightlifting-wylie",
+   "name": "Podium Up Weightlifting",
+   "summary": "Podium Up Weightlifting is a CrossFit gym in Wylie, TX.",
+   "categories": [
+    "crossfit"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/podium-up-weightlifting-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/podium-up-weightlifting-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0095608,
+    "lon": -96.577321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5910885650",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ricks-home-store-wylie",
+   "name": "Rick's Home Store",
+   "summary": "Rick's Home Store is a furniture store in Wylie, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ricks-home-store-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ricks-home-store-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0143065,
+    "lon": -96.5387487
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13040206871",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "say-it-with-sugar-wylie",
+   "name": "Say it with Sugar",
+   "summary": "Say it with Sugar is a bakery in Wylie, TX.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/say-it-with-sugar-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/say-it-with-sugar-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0145021,
+    "lon": -96.5387458
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1611955001",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ole-back-porch-wylie",
+   "name": "The Ole Back Porch",
+   "summary": "The Ole Back Porch is a gift shop in Wylie, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ole-back-porch-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ole-back-porch-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0148369,
+    "lon": -96.5387437
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13064659403",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valvoline-wylie",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Wylie, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0107794,
+    "lon": -96.5872916
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1304709270",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "water-works-auto-spa-wylie",
+   "name": "Water Works Auto Spa",
+   "summary": "Water Works Auto Spa is a car wash in Wylie, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/water-works-auto-spa-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/water-works-auto-spa-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0232801,
+    "lon": -96.5139551
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1611954996",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wylie-flower-and-gift-wylie",
+   "name": "Wylie Flower & Gift",
+   "summary": "Wylie Flower & Gift is a florist in Wylie, TX.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wylie-flower-and-gift-wylie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wylie-flower-and-gift-wylie.json",
+   "address": {
+    "addressLocality": "Wylie",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Wylie",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0151235,
+    "lon": -96.5390672
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13064659408",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

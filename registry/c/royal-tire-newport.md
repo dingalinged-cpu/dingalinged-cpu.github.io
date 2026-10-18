@@ -15,7 +15,7 @@ Royal Tire is a tire shop in Newport, MN at 1846 4th Avenue, Newport, MN 55055.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/royal-tire-newport/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/royal-tire-newport.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/607542927 (license ODbL-1.0); source data as of 2026-06-01

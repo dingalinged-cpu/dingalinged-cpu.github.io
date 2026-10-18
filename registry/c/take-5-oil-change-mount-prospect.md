@@ -15,7 +15,7 @@ Take 5 Oil Change is an auto repair shop in Mount Prospect, IL at 801 East Rand 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-mount-prospect/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-mount-prospect.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1223971036 (license ODbL-1.0); source data as of 2026-06-01

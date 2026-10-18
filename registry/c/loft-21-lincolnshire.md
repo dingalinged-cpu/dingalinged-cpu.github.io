@@ -15,7 +15,7 @@ Loft 21 is an event venue in Lincolnshire, IL at 1501 North Milwaukee Avenue, Li
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/loft-21-lincolnshire/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/loft-21-lincolnshire.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/371397988 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Mother Dough Bakery is a bakery in Minneapolis, MN at 800 Nicollet Mall #Suite 1
 - Opening hours (OSM syntax): Mo-Fr 7:00AM-3:00PM
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mother-dough-bakery-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mother-dough-bakery-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5955554304 (license ODbL-1.0); source data as of 2026-06-01

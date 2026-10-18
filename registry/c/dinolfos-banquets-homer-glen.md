@@ -15,7 +15,7 @@ DiNolfo's Banquets is an event venue in Homer Glen, IL at 14447 West 159th Stree
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dinolfos-banquets-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dinolfos-banquets-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1203827015 (license ODbL-1.0); source data as of 2026-07-28

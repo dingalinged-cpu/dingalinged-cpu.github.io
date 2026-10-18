@@ -15,7 +15,7 @@ Jamison Optical is an eye care practice in Eden Prairie, MN at 7912 Mitchell Roa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jamison-optical-eden-prairie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jamison-optical-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11686247506 (license ODbL-1.0); source data as of 2026-06-01

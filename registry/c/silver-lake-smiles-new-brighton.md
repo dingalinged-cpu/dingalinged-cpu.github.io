@@ -15,7 +15,7 @@ Silver Lake Smiles is a dentist in New Brighton, MN at 1125 Palmer Drive, New Br
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/silver-lake-smiles-new-brighton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/silver-lake-smiles-new-brighton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8643396152 (license ODbL-1.0); source data as of 2026-07-24

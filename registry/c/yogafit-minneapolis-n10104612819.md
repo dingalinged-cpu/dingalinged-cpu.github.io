@@ -15,7 +15,7 @@ YogaFit is a yoga studio in Minneapolis, MN at 1461 West Lake Street, Minneapoli
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/yogafit-minneapolis-n10104612819/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/yogafit-minneapolis-n10104612819.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10104612819 (license ODbL-1.0); source data as of 2026-07-15

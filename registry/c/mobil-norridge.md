@@ -15,7 +15,7 @@ Mobil is a car wash in Norridge, IL at 8339 West Lawrence Avenue, Norridge, IL 6
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-norridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-norridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/217751443 (license ODbL-1.0); source data as of 2026-07-28

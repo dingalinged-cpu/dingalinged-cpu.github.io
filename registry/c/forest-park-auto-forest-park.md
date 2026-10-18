@@ -15,7 +15,7 @@ Forest Park Auto is an auto repair shop in Forest Park, IL at 7535 Roosevelt Roa
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/forest-park-auto-forest-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/forest-park-auto-forest-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4203574599 (license ODbL-1.0); source data as of 2026-06-01

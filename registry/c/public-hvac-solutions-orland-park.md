@@ -15,7 +15,7 @@ Public HVAC Solutions is a HVAC contractor in Orland Park, IL at 15348 South 70t
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/public-hvac-solutions-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-hvac-solutions-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13351633196 (license ODbL-1.0); source data as of 2026-06-01

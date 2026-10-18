@@ -1,0 +1,244 @@
+{
+ "place": "Fairview, TX",
+ "slug": "fairview-tx",
+ "count": 7,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "dentist fairview tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-fairview-tx.json"
+  },
+  {
+   "keyword": "gift shop fairview tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-fairview-tx.json"
+  },
+  {
+   "keyword": "gym fairview tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-fairview-tx.json"
+  },
+  {
+   "keyword": "jewelry store fairview tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-fairview-tx.json"
+  },
+  {
+   "keyword": "massage fairview tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-fairview-tx.json"
+  },
+  {
+   "keyword": "nail salon fairview tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-fairview-tx.json"
+  },
+  {
+   "keyword": "vet fairview tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-fairview-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "sloan-creek-dental-fairview",
+   "name": "Sloan Creek Dental",
+   "summary": "Sloan Creek Dental is a dentist in Fairview, TX at 115 Whistlestop Way, Fairview, TX 75069. Website: https://sloancreekdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sloan-creek-dental-fairview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sloan-creek-dental-fairview.json",
+   "address": {
+    "streetAddress": "115 Whistlestop Way",
+    "addressLocality": "Fairview",
+    "addressRegion": "TX",
+    "postalCode": "75069",
+    "addressCountry": "US"
+   },
+   "city": "Fairview",
+   "state": "TX",
+   "zip": "75069",
+   "geo": {
+    "lat": 33.1313616,
+    "lon": -96.6562433
+   },
+   "website": "https://sloancreekdental.com/",
+   "opening_hours": "Mo,Tu,Th,Fr 08:00-17:00; We 09:00-18:00; Sa,Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8420387331",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "24-hour-fitness-fairview",
+   "name": "24 Hour Fitness",
+   "summary": "24 Hour Fitness is a gym in Fairview, TX at 361 Southwind Lane, Fairview, TX 75069.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-fairview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/24-hour-fitness-fairview.json",
+   "address": {
+    "streetAddress": "361 Southwind Lane",
+    "addressLocality": "Fairview",
+    "addressRegion": "TX",
+    "postalCode": "75069",
+    "addressCountry": "US"
+   },
+   "city": "Fairview",
+   "state": "TX",
+   "zip": "75069",
+   "geo": {
+    "lat": 33.1317015,
+    "lon": -96.6451653
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/986576785",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edible-arrangements-fairview",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Fairview, TX at 431 East Stacy Road #104, Fairview, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-fairview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-fairview.json",
+   "address": {
+    "streetAddress": "431 East Stacy Road #104",
+    "addressLocality": "Fairview",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fairview",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1301256,
+    "lon": -96.643056
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13656986564",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "happy-feet-fairview",
+   "name": "Happy Feet",
+   "summary": "Happy Feet is a massage studio in Fairview, TX at 431 East Stacy Road #107, Fairview, TX.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-feet-fairview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-feet-fairview.json",
+   "address": {
+    "streetAddress": "431 East Stacy Road #107",
+    "addressLocality": "Fairview",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fairview",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1301191,
+    "lon": -96.6428786
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13656986563",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nasr-bros-jewelers-fairview",
+   "name": "Nasr Bros. Jewelers",
+   "summary": "Nasr Bros. Jewelers is a jewelry store in Fairview, TX at 199 Town Place, Fairview, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nasr-bros-jewelers-fairview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nasr-bros-jewelers-fairview.json",
+   "address": {
+    "streetAddress": "199 Town Place",
+    "addressLocality": "Fairview",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fairview",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1323842,
+    "lon": -96.6518948
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13723820873",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pamper-nails-fairview",
+   "name": "Pamper Nails",
+   "summary": "Pamper Nails is a nail salon in Fairview, TX at 431 East Stacy Road #103, Fairview, TX.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pamper-nails-fairview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pamper-nails-fairview.json",
+   "address": {
+    "streetAddress": "431 East Stacy Road #103",
+    "addressLocality": "Fairview",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fairview",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1301136,
+    "lon": -96.6431166
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13656986567",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stacy-road-pet-hospital-fairview",
+   "name": "Stacy Road Pet Hospital",
+   "summary": "Stacy Road Pet Hospital is a veterinarian in Fairview, TX at 451 East Stacy Road, Fairview, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stacy-road-pet-hospital-fairview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stacy-road-pet-hospital-fairview.json",
+   "address": {
+    "streetAddress": "451 East Stacy Road",
+    "addressLocality": "Fairview",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fairview",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1301824,
+    "lon": -96.6420109
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13656986569",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

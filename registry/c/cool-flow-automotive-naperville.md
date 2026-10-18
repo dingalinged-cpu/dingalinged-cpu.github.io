@@ -15,7 +15,7 @@ Cool Flow Automotive is an auto repair shop in Naperville, IL at 1340 West Ogden
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cool-flow-automotive-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cool-flow-automotive-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9215268989 (license ODbL-1.0); source data as of 2026-06-01

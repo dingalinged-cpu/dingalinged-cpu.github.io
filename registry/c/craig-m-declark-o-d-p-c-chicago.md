@@ -15,7 +15,7 @@ Craig M. DeClark, O.D., P.C. is an eye care practice in Chicago, IL at 6336 West
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/craig-m-declark-o-d-p-c-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/craig-m-declark-o-d-p-c-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4517784414 (license ODbL-1.0); source data as of 2026-07-28

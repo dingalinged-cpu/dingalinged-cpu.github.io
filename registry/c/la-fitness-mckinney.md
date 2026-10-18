@@ -1,0 +1,23 @@
+LA Fitness is a gym in McKinney, TX at 9050 Falcon View Drive, McKinney, TX 75070. Phone: +14693529399. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=1157.
+
+# LA Fitness
+
+- Category: gym
+- Services: gym
+- Address: 9050 Falcon View Drive, McKinney, TX 75070
+- City: McKinney
+- State: TX
+- ZIP: 75070
+- Coordinates: 33.2009573, -96.7352231
+- Phone: +14693529399
+- Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=1157
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 05:00-23:00; Fr 05:00-22:00; Sa-Su 08:00-20:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-mckinney/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-mckinney.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/492159658 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

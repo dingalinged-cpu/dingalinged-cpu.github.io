@@ -1,0 +1,2103 @@
+{
+ "place": "Franklin, WI",
+ "slug": "franklin-wi",
+ "count": 63,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-franklin-wi.json"
+  },
+  {
+   "keyword": "auto repair franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-franklin-wi.json"
+  },
+  {
+   "keyword": "bike shop franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-franklin-wi.json"
+  },
+  {
+   "keyword": "brake repair franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/brake-repair-franklin-wi.json"
+  },
+  {
+   "keyword": "car wash franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-franklin-wi.json"
+  },
+  {
+   "keyword": "chiropractor franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-franklin-wi.json"
+  },
+  {
+   "keyword": "daycare franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-franklin-wi.json"
+  },
+  {
+   "keyword": "dentist franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-franklin-wi.json"
+  },
+  {
+   "keyword": "dermatologist franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dermatologist-franklin-wi.json"
+  },
+  {
+   "keyword": "dog groomer franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-franklin-wi.json"
+  },
+  {
+   "keyword": "dry cleaners franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-franklin-wi.json"
+  },
+  {
+   "keyword": "financial advisor franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-franklin-wi.json"
+  },
+  {
+   "keyword": "furniture store franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-franklin-wi.json"
+  },
+  {
+   "keyword": "gift shop franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-franklin-wi.json"
+  },
+  {
+   "keyword": "gym franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-franklin-wi.json"
+  },
+  {
+   "keyword": "hair salon franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-franklin-wi.json"
+  },
+  {
+   "keyword": "haircut franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-franklin-wi.json"
+  },
+  {
+   "keyword": "insurance agency franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-franklin-wi.json"
+  },
+  {
+   "keyword": "insurance agent franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-franklin-wi.json"
+  },
+  {
+   "keyword": "insurance agents franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-franklin-wi.json"
+  },
+  {
+   "keyword": "it support franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/it-support-franklin-wi.json"
+  },
+  {
+   "keyword": "liquor store franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-franklin-wi.json"
+  },
+  {
+   "keyword": "martial arts franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-franklin-wi.json"
+  },
+  {
+   "keyword": "massage franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-franklin-wi.json"
+  },
+  {
+   "keyword": "mechanic franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-franklin-wi.json"
+  },
+  {
+   "keyword": "nail salon franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-franklin-wi.json"
+  },
+  {
+   "keyword": "oil change franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-franklin-wi.json"
+  },
+  {
+   "keyword": "pet store franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-franklin-wi.json"
+  },
+  {
+   "keyword": "physical therapy franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-franklin-wi.json"
+  },
+  {
+   "keyword": "plastic surgeon franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plastic-surgeon-franklin-wi.json"
+  },
+  {
+   "keyword": "preschool franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-franklin-wi.json"
+  },
+  {
+   "keyword": "real estate agent franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-franklin-wi.json"
+  },
+  {
+   "keyword": "realtor franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-franklin-wi.json"
+  },
+  {
+   "keyword": "storage units franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-franklin-wi.json"
+  },
+  {
+   "keyword": "tailor franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-franklin-wi.json"
+  },
+  {
+   "keyword": "tanning salon franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-franklin-wi.json"
+  },
+  {
+   "keyword": "tax preparation franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-franklin-wi.json"
+  },
+  {
+   "keyword": "tax preparer franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-franklin-wi.json"
+  },
+  {
+   "keyword": "thrift store franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-franklin-wi.json"
+  },
+  {
+   "keyword": "tire shop franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-franklin-wi.json"
+  },
+  {
+   "keyword": "transmission repair franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/transmission-repair-franklin-wi.json"
+  },
+  {
+   "keyword": "vet franklin wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-franklin-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "anytime-fitness-franklin",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Franklin, WI at 2818 West Rawson Avenue, Franklin, WI 53132. Phone: +14143045254. Website: https://www.anytimefitness.com/gyms/663/franklin-wi-53132/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-franklin.json",
+   "address": {
+    "streetAddress": "2818 West Rawson Avenue",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9167401,
+    "lon": -87.9514606
+   },
+   "phone": "+14143045254",
+   "website": "https://www.anytimefitness.com/gyms/663/franklin-wi-53132/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175420540",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "black-raven-media-llc-franklin",
+   "name": "Black Raven Media LLC",
+   "summary": "Black Raven Media LLC is an IT support company in Franklin, WI at 9963 S 31st Street, Franklin, WI 53132. Phone: +12629890604. Website: https://blackravenmediallc.com/.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/black-raven-media-llc-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/black-raven-media-llc-franklin.json",
+   "address": {
+    "streetAddress": "9963 S 31st Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.8645365,
+    "lon": -87.9568595
+   },
+   "phone": "+12629890604",
+   "website": "https://blackravenmediallc.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5521944778",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cn-nails-franklin",
+   "name": "CN Nails",
+   "summary": "CN Nails is a nail salon in Franklin, WI at 7612 West Rawson Avenue, Franklin, WI 53132. Phone: +14144251388. Website: https://cnnailspafranklin.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cn-nails-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cn-nails-franklin.json",
+   "address": {
+    "streetAddress": "7612 West Rawson Avenue",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9166293,
+    "lon": -88.0101288
+   },
+   "phone": "+14144251388",
+   "website": "https://cnnailspafranklin.com/",
+   "opening_hours": "Mo-Fr 09:00-19:30; Sa 09:00-18:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12000590010",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cora-physical-therapy-franklin",
+   "name": "Cora Physical Therapy",
+   "summary": "Cora Physical Therapy is a physical therapy clinic in Franklin, WI at 7740 South Lovers Lane Road #410, Franklin, WI 53132. Phone: +14143776933. Website: https://coraphysicaltherapy.com/location/franklin-wisconsin/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cora-physical-therapy-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cora-physical-therapy-franklin.json",
+   "address": {
+    "streetAddress": "7740 South Lovers Lane Road #410",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.905265,
+    "lon": -88.0360845
+   },
+   "phone": "+14143776933",
+   "website": "https://coraphysicaltherapy.com/location/franklin-wisconsin/",
+   "opening_hours": "Mo 09:00-19:00, Tu 07:00-16:00, We 09:00-19:00, th 07:00-16:00, fr 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176000063",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "franklin-automotive-and-restoration-franklin",
+   "name": "Franklin Automotive & Restoration",
+   "summary": "Franklin Automotive & Restoration is an auto repair shop in Franklin, WI at 3012 West Ryan Road, Franklin, WI 53132. Phone: +14147610500. Website: https://www.myfranklinauto.net/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/franklin-automotive-and-restoration-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/franklin-automotive-and-restoration-franklin.json",
+   "address": {
+    "streetAddress": "3012 West Ryan Road",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.8731459,
+    "lon": -87.9551789
+   },
+   "phone": "+14147610500",
+   "website": "https://www.myfranklinauto.net/",
+   "opening_hours": "Mo-Fr 07:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664657994",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "franklin-premier-furniture-superstore-franklin",
+   "name": "Franklin Premier Furniture Superstore",
+   "summary": "Franklin Premier Furniture Superstore is a furniture store in Franklin, WI at 7199 South 76th Street, Franklin, WI 53132. Phone: +14142358118. Website: https://www.galleriafurniturestore.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/franklin-premier-furniture-superstore-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/franklin-premier-furniture-superstore-franklin.json",
+   "address": {
+    "streetAddress": "7199 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9148423,
+    "lon": -88.0133795
+   },
+   "phone": "+14142358118",
+   "website": "https://www.galleriafurniturestore.com/",
+   "opening_hours": "Mo-Sa 11:00-20:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664295024",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-franklin",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Franklin, WI at 6941 South Riverwood Boulevard, Franklin, WI 53132. Phone: +14143041262. Website: https://www.goodwillgreatermc.org/contact/all-locations/location-details/franklin-store-and-donation-center.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-franklin.json",
+   "address": {
+    "streetAddress": "6941 South Riverwood Boulevard",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9196761,
+    "lon": -87.9541085
+   },
+   "phone": "+14143041262",
+   "website": "https://www.goodwillgreatermc.org/contact/all-locations/location-details/franklin-store-and-donation-center",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664193286",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wheel-and-sprocket-franklin",
+   "name": "Wheel & Sprocket",
+   "summary": "Wheel & Sprocket is a bike shop in Franklin, WI at 7044 South Ballpark Drive, Franklin, WI 53132. Phone: +14145296600. Website: https://www.wheelandsprocket.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wheel-and-sprocket-franklin.json",
+   "address": {
+    "streetAddress": "7044 South Ballpark Drive",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9165811,
+    "lon": -88.0170478
+   },
+   "phone": "+14145296600",
+   "website": "https://www.wheelandsprocket.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6612022514",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-franklin-w1176000060",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Franklin, WI at 7740 South Lovers Lane Road #420, Franklin, WI 53132. Phone: +14144256049. Website: https://www.edwardjones.com/us-en.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-franklin-w1176000060/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-franklin-w1176000060.json",
+   "address": {
+    "streetAddress": "7740 South Lovers Lane Road #420",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9052384,
+    "lon": -88.0359941
+   },
+   "phone": "+14144256049",
+   "website": "https://www.edwardjones.com/us-en",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176000060",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ingenious-franklin",
+   "name": "Ingenious",
+   "summary": "Ingenious is a preschool in Franklin, WI at 7260 South 76th Street, Franklin, WI 53132. Phone: +14143778296. Website: https://ingeniouswi.com/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ingenious-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ingenious-franklin.json",
+   "address": {
+    "streetAddress": "7260 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9126571,
+    "lon": -88.0084672
+   },
+   "phone": "+14143778296",
+   "website": "https://ingeniouswi.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/436521946",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stark-yager-ltd-franklin",
+   "name": "Stark Yager, Ltd",
+   "summary": "Stark Yager, Ltd is a tax preparation service in Franklin, WI at 7281 South 76th Street, Franklin, WI 53132. Phone: +14144257760. Website: https://www.starkyager.com/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stark-yager-ltd-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stark-yager-ltd-franklin.json",
+   "address": {
+    "streetAddress": "7281 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9130567,
+    "lon": -88.0101285
+   },
+   "phone": "+14144257760",
+   "website": "https://www.starkyager.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12000590061",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mister-car-wash-franklin",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Franklin, WI at 7700 West Rawson Avenue, Franklin, WI 53132. Phone: +14144881745.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-franklin.json",
+   "address": {
+    "streetAddress": "7700 West Rawson Avenue",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9165517,
+    "lon": -88.0112395
+   },
+   "phone": "+14144881745",
+   "opening_hours": "Mo-Sa 07:30-19:00; Su 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664179898",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-trip-franklin",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Franklin, WI at 10750 West Speedway Drive, Franklin, WI 53132. Website: https://www.kwiktrip.com/locator/store?id=857.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-franklin.json",
+   "address": {
+    "streetAddress": "10750 West Speedway Drive",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9256782,
+    "lon": -88.0486626
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=857",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664184687",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-trip-franklin-w664194015",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Franklin, WI at 5040 West Rawson Avenue, Franklin, WI 53132. Website: https://www.kwiktrip.com/locator/store?id=287.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-franklin-w664194015/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-franklin-w664194015.json",
+   "address": {
+    "streetAddress": "5040 West Rawson Avenue",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9168748,
+    "lon": -87.9778671
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=287",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664194015",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "planet-fitness-franklin",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Franklin, WI at 6529 South 27th Street, Franklin, WI 53132.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-franklin.json",
+   "address": {
+    "streetAddress": "6529 South 27th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9254736,
+    "lon": -87.9528847
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175397250",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brentwood-animal-campus-franklin",
+   "name": "Brentwood Animal Campus",
+   "summary": "Brentwood Animal Campus is a veterinarian in Franklin, WI. Phone: +14144272700.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brentwood-animal-campus-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brentwood-animal-campus-franklin.json",
+   "address": {
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.8795219,
+    "lon": -88.0505736
+   },
+   "phone": "+14144272700",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10570920609",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-veterinary-hospital-franklin",
+   "name": "American Veterinary Hospital",
+   "summary": "American Veterinary Hospital is a veterinarian in Franklin, WI at 2735C,2735A,2735B West Rawson Avenue, Franklin, WI 53132.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-veterinary-hospital-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-veterinary-hospital-franklin.json",
+   "address": {
+    "streetAddress": "2735C,2735A,2735B West Rawson Avenue",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9159325,
+    "lon": -87.9510884
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664290133",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "caliber-collision-franklin",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Franklin, WI at 5525 West Rawson Avenue, Franklin, WI 53132.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-franklin.json",
+   "address": {
+    "streetAddress": "5525 West Rawson Avenue",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9153832,
+    "lon": -87.985655
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664294963",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "caribbean-oasis-tanning-salon-franklin",
+   "name": "Caribbean Oasis Tanning Salon",
+   "summary": "Caribbean Oasis Tanning Salon is a tanning salon in Franklin, WI at 7224 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caribbean-oasis-tanning-salon-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caribbean-oasis-tanning-salon-franklin.json",
+   "address": {
+    "streetAddress": "7224 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.913153,
+    "lon": -88.0080197
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175952913",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chic-nail-spa-and-hair-salon-franklin",
+   "name": "Chic Nail Spa & Hair Salon",
+   "summary": "Chic Nail Spa & Hair Salon is a nail salon in Franklin, WI at 6524 South Lovers Lane Road, Franklin, WI 53132.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chic-nail-spa-and-hair-salon-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chic-nail-spa-and-hair-salon-franklin.json",
+   "address": {
+    "streetAddress": "6524 South Lovers Lane Road",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9262285,
+    "lon": -88.0464003
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176000109",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chosun-black-belt-academy-franklin",
+   "name": "Chosun Black Belt Academy",
+   "summary": "Chosun Black Belt Academy is a martial arts school in Franklin, WI at 7123 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chosun-black-belt-academy-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chosun-black-belt-academy-franklin.json",
+   "address": {
+    "streetAddress": "7123 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9150361,
+    "lon": -88.0100106
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175975586",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "coldwell-banker-franklin",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in Franklin, WI at 7194 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-franklin.json",
+   "address": {
+    "streetAddress": "7194 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9133219,
+    "lon": -88.0075545
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175952909",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "curves-franklin",
+   "name": "Curves",
+   "summary": "Curves is a gym in Franklin, WI at 7117 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/curves-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/curves-franklin.json",
+   "address": {
+    "streetAddress": "7117 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9152866,
+    "lon": -88.0100152
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175975582",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dawns-tailors-franklin",
+   "name": "Dawn's Tailors",
+   "summary": "Dawn's Tailors is a tailor in Franklin, WI at 7206 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dawns-tailors-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dawns-tailors-franklin.json",
+   "address": {
+    "streetAddress": "7206 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9131493,
+    "lon": -88.0077652
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175952911",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dental-associates-franklin-franklin",
+   "name": "Dental Associates Franklin",
+   "summary": "Dental Associates Franklin is a dentist in Franklin, WI at 6855 South 27th Street, Franklin, WI 53132.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-associates-franklin-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-associates-franklin-franklin.json",
+   "address": {
+    "streetAddress": "6855 South 27th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9206206,
+    "lon": -87.9504688
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/453603211",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-cigarettes-and-liquor-franklin",
+   "name": "Discount Cigarettes & Liquor",
+   "summary": "Discount Cigarettes & Liquor is a liquor store in Franklin, WI at 6507 South 27th Street, Franklin, WI 53132.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-cigarettes-and-liquor-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-cigarettes-and-liquor-franklin.json",
+   "address": {
+    "streetAddress": "6507 South 27th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.926223,
+    "lon": -87.9502638
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175397246",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dr-mark-wolff-franklin",
+   "name": "Dr. Mark Wolff",
+   "summary": "Dr. Mark Wolff is a chiropractor in Franklin, WI at 7186 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-mark-wolff-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-mark-wolff-franklin.json",
+   "address": {
+    "streetAddress": "7186 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9134725,
+    "lon": -88.0075551
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175952907",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-franklin",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Franklin, WI at 7162 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-franklin.json",
+   "address": {
+    "streetAddress": "7162 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9138255,
+    "lon": -88.0075706
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175952901",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "epic-nail-spa-franklin",
+   "name": "Epic Nail Spa",
+   "summary": "Epic Nail Spa is a nail salon in Franklin, WI at 7013 South 27th Street, Franklin, WI 53132.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/epic-nail-spa-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/epic-nail-spa-franklin.json",
+   "address": {
+    "streetAddress": "7013 South 27th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9182039,
+    "lon": -87.9509181
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175420538",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-franklin",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Franklin, WI at 6805 South 27th Street, Franklin, WI 53132.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-franklin.json",
+   "address": {
+    "streetAddress": "6805 South 27th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9218554,
+    "lon": -87.9528874
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175397280",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "f-and-f-tire-world-franklin",
+   "name": "F&F Tire World",
+   "summary": "F&F Tire World is a tire shop in Franklin, WI at 2930 West Rawson Avenue, Franklin, WI 53132.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/f-and-f-tire-world-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/f-and-f-tire-world-franklin.json",
+   "address": {
+    "streetAddress": "2930 West Rawson Avenue",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9167698,
+    "lon": -87.9534782
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664193338",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "forefront-dermatology-franklin",
+   "name": "Forefront Dermatology",
+   "summary": "Forefront Dermatology is a dermatologist in Franklin, WI at 10500 West Loomis Road, Franklin, WI 53132.",
+   "categories": [
+    "dermatologist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forefront-dermatology-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forefront-dermatology-franklin.json",
+   "address": {
+    "streetAddress": "10500 West Loomis Road",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.8831034,
+    "lon": -88.0476225
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/653291182",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "forwarddental-franklin",
+   "name": "ForwardDental",
+   "summary": "ForwardDental is a dentist in Franklin, WI at 7740 South Lovers Lane Road #450, Franklin, WI 53132.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forwarddental-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forwarddental-franklin.json",
+   "address": {
+    "streetAddress": "7740 South Lovers Lane Road #450",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9051337,
+    "lon": -88.035736
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176000057",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "franklin-dental-franklin",
+   "name": "Franklin Dental",
+   "summary": "Franklin Dental is a dentist in Franklin, WI at 7255 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/franklin-dental-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/franklin-dental-franklin.json",
+   "address": {
+    "streetAddress": "7255 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9134669,
+    "lon": -88.0109299
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175975597",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "franklin-rehabilitation-franklin",
+   "name": "Franklin Rehabilitation",
+   "summary": "Franklin Rehabilitation is a physical therapy clinic in Franklin, WI at 7253 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/franklin-rehabilitation-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/franklin-rehabilitation-franklin.json",
+   "address": {
+    "streetAddress": "7253 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9134856,
+    "lon": -88.0110097
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175975598",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "glitz-nail-boutique-franklin",
+   "name": "Glitz Nail Boutique",
+   "summary": "Glitz Nail Boutique is a nail salon in Franklin, WI at 7720 South Lovers Lane Road #230, Franklin, WI 53132.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glitz-nail-boutique-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glitz-nail-boutique-franklin.json",
+   "address": {
+    "streetAddress": "7720 South Lovers Lane Road #230",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9053876,
+    "lon": -88.0379367
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176000082",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-franklin",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Franklin, WI at 6535 South 27th Street, Franklin, WI 53132.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-franklin.json",
+   "address": {
+    "streetAddress": "6535 South 27th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9254402,
+    "lon": -87.9502519
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175397237",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-franklin-w1175975603",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Franklin, WI at 7237 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-franklin-w1175975603/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-franklin-w1175975603.json",
+   "address": {
+    "streetAddress": "7237 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9135641,
+    "lon": -88.01138
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175975603",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "habitat-for-humanity-restore-franklin",
+   "name": "Habitat for Humanity ReStore",
+   "summary": "Habitat for Humanity ReStore is a thrift store in Franklin, WI at 6939 South 27th Street, Franklin, WI 53132.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/habitat-for-humanity-restore-franklin.json",
+   "address": {
+    "streetAddress": "6939 South 27th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9194929,
+    "lon": -87.9531721
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664193287",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hallmark-franklin",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Franklin, WI at 7205 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-franklin.json",
+   "address": {
+    "streetAddress": "7205 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9136584,
+    "lon": -88.0120107
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175975609",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "happy-tails-pet-supplies-franklin",
+   "name": "Happy Tails Pet Supplies",
+   "summary": "Happy Tails Pet Supplies is a pet store in Franklin, WI at 7720 South Lovers Lane Road #210, Franklin, WI 53132.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-tails-pet-supplies-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-tails-pet-supplies-franklin.json",
+   "address": {
+    "streetAddress": "7720 South Lovers Lane Road #210",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9053905,
+    "lon": -88.0381038
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176000080",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "illume-cosmetic-surgery-and-medspa-franklin",
+   "name": "Illume Cosmetic Surgery & Medspa",
+   "summary": "Illume Cosmetic Surgery & Medspa is a plastic surgeon in Franklin, WI at 2826 West Rawson Avenue, Franklin, WI 53132.",
+   "categories": [
+    "plastic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/illume-cosmetic-surgery-and-medspa-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/illume-cosmetic-surgery-and-medspa-franklin.json",
+   "address": {
+    "streetAddress": "2826 West Rawson Avenue",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9167292,
+    "lon": -87.9516643
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175420541",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "innovative-health-and-fitness-franklin",
+   "name": "Innovative Health & Fitness",
+   "summary": "Innovative Health & Fitness is a gym in Franklin, WI at 8800 South 102nd Street, Franklin, WI 53132.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/innovative-health-and-fitness-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/innovative-health-and-fitness-franklin.json",
+   "address": {
+    "streetAddress": "8800 South 102nd Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.8850618,
+    "lon": -88.0403264
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/653290043",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "janacek-investments-franklin",
+   "name": "Janacek Investments",
+   "summary": "Janacek Investments is a real estate agency in Franklin, WI at 6528 South Lovers Lane Road, Franklin, WI 53132.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/janacek-investments-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/janacek-investments-franklin.json",
+   "address": {
+    "streetAddress": "6528 South Lovers Lane Road",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9261505,
+    "lon": -88.0463574
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176000110",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kindercare-franklin",
+   "name": "KinderCare",
+   "summary": "KinderCare is a preschool in Franklin, WI at 6350 South 108th Street, Franklin, WI 53132.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kindercare-franklin.json",
+   "address": {
+    "streetAddress": "6350 South 108th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9288799,
+    "lon": -88.0479498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664179092",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lectric-beach-wellness-and-sun-club-franklin",
+   "name": "Lectric Beach Wellness & Sun Club",
+   "summary": "Lectric Beach Wellness & Sun Club is a tanning salon in Franklin, WI at 7229 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lectric-beach-wellness-and-sun-club-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lectric-beach-wellness-and-sun-club-franklin.json",
+   "address": {
+    "streetAddress": "7229 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.913583,
+    "lon": -88.0114729
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175975604",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lulus-dog-pawlour-franklin",
+   "name": "Lulu's Dog Pawlour",
+   "summary": "Lulu's Dog Pawlour is a dog groomer in Franklin, WI at 7129 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lulus-dog-pawlour-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lulus-dog-pawlour-franklin.json",
+   "address": {
+    "streetAddress": "7129 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9148836,
+    "lon": -88.0100131
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175975588",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "michelle-lamers-dds-franklin",
+   "name": "Michelle Lamers, DDS",
+   "summary": "Michelle Lamers, DDS is a dentist in Franklin, WI at 7111 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/michelle-lamers-dds-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/michelle-lamers-dds-franklin.json",
+   "address": {
+    "streetAddress": "7111 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9154325,
+    "lon": -88.0100034
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175975580",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mos-barbershop-franklin",
+   "name": "Mo's Barbershop",
+   "summary": "Mo's Barbershop is a hair salon in Franklin, WI at 7005 South 27th Street, Franklin, WI 53132.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mos-barbershop-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mos-barbershop-franklin.json",
+   "address": {
+    "streetAddress": "7005 South 27th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9183233,
+    "lon": -87.9509141
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175420536",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "northwestern-mutual-life-insurance-franklin",
+   "name": "Northwestern Mutual Life Insurance",
+   "summary": "Northwestern Mutual Life Insurance is an insurance agent in Franklin, WI at 1 Northwestern Mutual Way, Franklin, WI 53132.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northwestern-mutual-life-insurance-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northwestern-mutual-life-insurance-franklin.json",
+   "address": {
+    "streetAddress": "1 Northwestern Mutual Way",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9060957,
+    "lon": -87.9530019
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/9230325",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nurture-massage-shop-franklin",
+   "name": "Nurture Massage Shop",
+   "summary": "Nurture Massage Shop is a massage studio in Franklin, WI at 6564 South Lovers Lane Road, Franklin, WI 53132.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nurture-massage-shop-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nurture-massage-shop-franklin.json",
+   "address": {
+    "streetAddress": "6564 South Lovers Lane Road",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9250523,
+    "lon": -88.0458995
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176000119",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "p-and-a-nail-spa-franklin",
+   "name": "P&A Nail Spa",
+   "summary": "P&A Nail Spa is a nail salon in Franklin, WI at 7121 South 76th Street #B, Franklin, WI 53132.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/p-and-a-nail-spa-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/p-and-a-nail-spa-franklin.json",
+   "address": {
+    "streetAddress": "7121 South 76th Street #B",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9150985,
+    "lon": -88.0100195
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175975585",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "q-nail-spa-franklin",
+   "name": "Q Nail Spa",
+   "summary": "Q Nail Spa is a nail salon in Franklin, WI at 7166 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/q-nail-spa-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/q-nail-spa-franklin.json",
+   "address": {
+    "streetAddress": "7166 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.913762,
+    "lon": -88.0075763
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175952902",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rhythm-of-life-chiropractic-franklin",
+   "name": "Rhythm of Life Chiropractic",
+   "summary": "Rhythm of Life Chiropractic is a chiropractor in Franklin, WI at 7133 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rhythm-of-life-chiropractic-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rhythm-of-life-chiropractic-franklin.json",
+   "address": {
+    "streetAddress": "7133 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9147774,
+    "lon": -88.0100107
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175975590",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "root-river-auto-body-shop-franklin",
+   "name": "Root River Auto Body Shop",
+   "summary": "Root River Auto Body Shop is an auto repair shop in Franklin, WI at 8595 South 27th Street, Franklin, WI 53132.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/root-river-auto-body-shop-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/root-river-auto-body-shop-franklin.json",
+   "address": {
+    "streetAddress": "8595 South 27th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.8887565,
+    "lon": -87.9518037
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/664659657",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "s-and-s-auto-repair-and-detailing-franklin",
+   "name": "S & S Auto Repair & Detailing",
+   "summary": "S & S Auto Repair & Detailing is an auto repair shop in Franklin, WI at 8853 South 27th Street, Franklin, WI 53132.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/s-and-s-auto-repair-and-detailing-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/s-and-s-auto-repair-and-detailing-franklin.json",
+   "address": {
+    "streetAddress": "8853 South 27th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.8843402,
+    "lon": -87.9515761
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/588245299",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-franklin",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Franklin, WI at 6809 South 27th Street, Franklin, WI 53132.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-franklin.json",
+   "address": {
+    "streetAddress": "6809 South 27th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9217678,
+    "lon": -87.9504716
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175420494",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-franklin-w1176000076",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Franklin, WI at 7700 South Lovers Lane Road, Franklin, WI 53132.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-franklin-w1176000076/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-franklin-w1176000076.json",
+   "address": {
+    "streetAddress": "7700 South Lovers Lane Road",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9050569,
+    "lon": -88.0384302
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176000076",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sweet-family-chiropractic-franklin",
+   "name": "Sweet Family Chiropractic",
+   "summary": "Sweet Family Chiropractic is a chiropractor in Franklin, WI at 2850 West Rawson Avenue, Franklin, WI 53132.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sweet-family-chiropractic-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sweet-family-chiropractic-franklin.json",
+   "address": {
+    "streetAddress": "2850 West Rawson Avenue",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9167288,
+    "lon": -87.9520813
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175420545",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "unique-care-dry-cleaners-franklin",
+   "name": "Unique Care Dry Cleaners",
+   "summary": "Unique Care Dry Cleaners is a dry cleaner in Franklin, WI at 7103 South 76th Street, Franklin, WI 53132.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/unique-care-dry-cleaners-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/unique-care-dry-cleaners-franklin.json",
+   "address": {
+    "streetAddress": "7103 South 76th Street",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9156864,
+    "lon": -88.0099962
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175975577",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "whitnall-dental-franklin",
+   "name": "Whitnall Dental",
+   "summary": "Whitnall Dental is a dentist in Franklin, WI at 6522 South Lovers Lane Road, Franklin, WI 53132.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/whitnall-dental-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/whitnall-dental-franklin.json",
+   "address": {
+    "streetAddress": "6522 South Lovers Lane Road",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "postalCode": "53132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "zip": "53132",
+   "geo": {
+    "lat": 42.9263148,
+    "lon": -88.046373
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176000108",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kids-connection-childcare-center-franklin",
+   "name": "Kids Connection Childcare Center",
+   "summary": "Kids Connection Childcare Center is a daycare in Franklin, WI at 3130 West Rawson Avenue, Franklin, WI.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kids-connection-childcare-center-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kids-connection-childcare-center-franklin.json",
+   "address": {
+    "streetAddress": "3130 West Rawson Avenue",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9168044,
+    "lon": -87.9551153
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1175420509",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-learning-experience-academy-of-early-education-franklin",
+   "name": "The Learning Experience Academy of Early Education",
+   "summary": "The Learning Experience Academy of Early Education is a daycare in Franklin, WI at 9651 West Drexel Avenue, Franklin, WI.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-learning-experience-academy-of-early-education-franklin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-learning-experience-academy-of-early-education-franklin.json",
+   "address": {
+    "streetAddress": "9651 West Drexel Avenue",
+    "addressLocality": "Franklin",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Franklin",
+   "state": "WI",
+   "geo": {
+    "lat": 42.9044326,
+    "lon": -88.0344185
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176000064",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

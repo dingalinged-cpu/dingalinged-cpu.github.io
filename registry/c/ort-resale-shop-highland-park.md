@@ -15,7 +15,7 @@ ORT Resale Shop is a thrift store in Highland Park, IL at 1710 1st Street, Highl
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ort-resale-shop-highland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ort-resale-shop-highland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/548466863 (license ODbL-1.0); source data as of 2026-06-01

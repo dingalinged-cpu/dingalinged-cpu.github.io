@@ -15,7 +15,7 @@ Gerber Collision & Glass is an auto repair shop in Melrose Park, IL at 2311 Nort
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-melrose-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-melrose-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1330653466 (license ODbL-1.0); source data as of 2026-06-01

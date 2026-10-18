@@ -15,7 +15,7 @@ LA Fitness is a gym in Brooklyn Center, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-brooklyn-center/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-brooklyn-center.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/746497280 (license ODbL-1.0); source data as of 2026-07-15

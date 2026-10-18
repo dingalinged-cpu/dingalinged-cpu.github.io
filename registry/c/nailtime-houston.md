@@ -1,0 +1,23 @@
+Nailtime is a nail salon in Houston, TX at 5535 Memorial Drive #M, Houston, TX 77007.
+
+# Nailtime
+
+- Category: nail salon
+- Services: nail salon
+- Address: 5535 Memorial Drive #M, Houston, TX 77007
+- City: Houston
+- State: TX
+- ZIP: 77007
+- Coordinates: 29.7606044, -95.4178584
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/nailtime-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/nailtime-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6240638909 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Luther Collision and Glass is an auto repair shop in Plymouth, MN at 9825 56th A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/luther-collision-and-glass-plymouth/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/luther-collision-and-glass-plymouth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9973988183 (license ODbL-1.0); source data as of 2026-06-01

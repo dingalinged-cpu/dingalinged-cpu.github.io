@@ -15,7 +15,7 @@ Habitat for Humanity ReStore is a thrift store in Arlington Heights, IL at 955 E
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/habitat-for-humanity-restore-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/relation/18251560 (license ODbL-1.0); source data as of 2026-06-01

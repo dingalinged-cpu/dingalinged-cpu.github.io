@@ -15,7 +15,7 @@ ARC Chiropractic is a chiropractor in Buffalo Grove, IL at 1176 McHenry Road, Bu
 - Opening hours (OSM syntax): Mo-Fr 7:00-19:00; Sa 7:00-15:00; Su 8:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/arc-chiropractic-buffalo-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/arc-chiropractic-buffalo-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11385513617 (license ODbL-1.0); source data as of 2026-07-28

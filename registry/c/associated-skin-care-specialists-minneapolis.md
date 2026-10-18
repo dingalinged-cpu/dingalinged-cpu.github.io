@@ -15,7 +15,7 @@ Associated Skin Care Specialists is a dermatologist in Minneapolis, MN at 4729 S
 - Opening hours (OSM syntax): Mo-We,Fr 08:00-14:30; Th 07:30-14:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/associated-skin-care-specialists-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/associated-skin-care-specialists-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3532499005 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Dry Clean Direct is a dry cleaner in Chicago, IL at 9300 South Commercial Avenue
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dry-clean-direct-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dry-clean-direct-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211362542 (license ODbL-1.0); source data as of 2026-06-01

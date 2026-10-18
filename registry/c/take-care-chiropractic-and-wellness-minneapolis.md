@@ -15,7 +15,7 @@ Take Care Chiropractic & Wellness is a chiropractor in Minneapolis, MN. Website:
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/take-care-chiropractic-and-wellness-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/take-care-chiropractic-and-wellness-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13030049621 (license ODbL-1.0); source data as of 2026-06-01

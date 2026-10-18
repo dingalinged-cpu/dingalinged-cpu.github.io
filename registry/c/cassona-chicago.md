@@ -15,7 +15,7 @@ Cassona is a furniture store in Chicago, IL at 5241 North Clark Street, Chicago,
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cassona-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cassona-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9220141271 (license ODbL-1.0); source data as of 2026-06-01

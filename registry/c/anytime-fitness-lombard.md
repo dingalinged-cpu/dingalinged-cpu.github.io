@@ -15,7 +15,7 @@ Anytime Fitness is a gym in Lombard, IL at 2830 South Highland Avenue, Lombard, 
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-lombard/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-lombard.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/198112718 (license ODbL-1.0); source data as of 2026-06-01

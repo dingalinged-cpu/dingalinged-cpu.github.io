@@ -15,7 +15,7 @@ Bystol Performance Center is a gym in Highland Park, IL at 1200 Old Skokie Valle
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bystol-performance-center-highland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bystol-performance-center-highland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12642054247 (license ODbL-1.0); source data as of 2026-06-01

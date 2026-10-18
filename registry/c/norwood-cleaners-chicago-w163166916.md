@@ -15,7 +15,7 @@ Norwood Cleaners is a dry cleaner in Chicago, IL at 6122-6124 West Irving Park R
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/norwood-cleaners-chicago-w163166916/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/norwood-cleaners-chicago-w163166916.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163166916 (license ODbL-1.0); source data as of 2026-06-01

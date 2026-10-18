@@ -15,7 +15,7 @@ Jenny Tailor Photography & Boudoir is a photographer in Naperville, IL. Website:
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jenny-tailor-photography-and-boudoir-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jenny-tailor-photography-and-boudoir-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/307024330 (license ODbL-1.0); source data as of 2026-06-01

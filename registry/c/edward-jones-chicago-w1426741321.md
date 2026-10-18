@@ -15,7 +15,7 @@ Edward Jones is a financial advisor in Chicago, IL at 5405 West Devon Avenue, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-jones-chicago-w1426741321/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-chicago-w1426741321.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1426741321 (license ODbL-1.0); source data as of 2026-07-28

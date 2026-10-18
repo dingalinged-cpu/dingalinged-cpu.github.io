@@ -15,7 +15,7 @@ Winnetka Liquors is a liquor store in New Hope, MN at 3544 Winnetka Avenue North
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/winnetka-liquors-new-hope/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/winnetka-liquors-new-hope.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4183839913 (license ODbL-1.0); source data as of 2026-06-01

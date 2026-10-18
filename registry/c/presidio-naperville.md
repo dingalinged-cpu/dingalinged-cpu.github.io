@@ -15,7 +15,7 @@ Presidio is an insurance agent in Naperville, IL at 55 Shuman Boulevard #900, Na
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/presidio-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/presidio-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9006891547 (license ODbL-1.0); source data as of 2026-07-28

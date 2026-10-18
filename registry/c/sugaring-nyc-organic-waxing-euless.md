@@ -1,0 +1,23 @@
+Sugaring NYC Organic Waxing is a waxing salon in Euless, TX at 1300 Red River Drive #400, Euless, TX 76039.
+
+# Sugaring NYC Organic Waxing
+
+- Category: waxing
+- Services: waxing
+- Address: 1300 Red River Drive #400, Euless, TX 76039
+- City: Euless
+- State: TX
+- ZIP: 76039
+- Coordinates: 32.8757467, -97.1034087
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/sugaring-nyc-organic-waxing-euless/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sugaring-nyc-organic-waxing-euless.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13768889545 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

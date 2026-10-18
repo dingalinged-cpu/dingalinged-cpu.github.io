@@ -15,7 +15,7 @@ Dahlia Blooms is a florist in Chicago, IL at 5858 West Irving Park Road, Chicago
 - Opening hours (OSM syntax): Mo-Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dahlia-blooms-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dahlia-blooms-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10881015646 (license ODbL-1.0); source data as of 2026-06-01

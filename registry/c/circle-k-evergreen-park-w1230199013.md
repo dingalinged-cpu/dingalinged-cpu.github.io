@@ -15,7 +15,7 @@ Circle K is a car wash in Evergreen Park, IL at 2635 West 87th Street, Evergreen
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/circle-k-evergreen-park-w1230199013/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/circle-k-evergreen-park-w1230199013.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1230199013 (license ODbL-1.0); source data as of 2026-07-28

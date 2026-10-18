@@ -15,7 +15,7 @@ Mobil is a car wash in Chicago, IL at 2550 North Pulaski Road, Chicago, IL 60639
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-chicago-n9350630133/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-chicago-n9350630133.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9350630133 (license ODbL-1.0); source data as of 2026-07-28

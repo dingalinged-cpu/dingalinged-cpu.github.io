@@ -15,7 +15,7 @@ Steinhafels is a furniture store in Harwood Heights, IL at 7304 West Lawrence Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/steinhafels-harwood-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/steinhafels-harwood-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/700029394 (license ODbL-1.0); source data as of 2026-06-01

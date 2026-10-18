@@ -1,0 +1,58 @@
+Keyword market for Pasadena, TX: 28 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Houston-Pasadena-The Woodlands, TX metro (US volume x population share).
+
+# Top keywords in Pasadena, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash pasadena tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-pasadena-tx/
+2. dentist pasadena tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-pasadena-tx/
+3. oil change pasadena tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-pasadena-tx/
+4. hair salon pasadena tx | searches/mo 35,000 (est) | CPC $0.55 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hair-salon-pasadena-tx/
+5. plumber pasadena tx | searches/mo 19,000 (est) | CPC $12.04 | value $230,000 | Google Ads equiv $15,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumber-pasadena-tx/
+6. mechanic pasadena tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-pasadena-tx/
+7. tire shop pasadena tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-pasadena-tx/
+8. haircut pasadena tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-pasadena-tx/
+9. auto repair pasadena tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-pasadena-tx/
+10. insurance agency pasadena tx | searches/mo 2,100 (est) | CPC $3.39 | value $7,100 | Google Ads equiv $590/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-pasadena-tx/
+11. attorney pasadena tx | searches/mo 1,700 (est) | CPC $9.87 | value $17,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/attorney-pasadena-tx/
+12. hvac repair pasadena tx | searches/mo 1,700 (est) | CPC $17.76 | value $30,000 | Google Ads equiv $1,900/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-pasadena-tx/
+13. insurance agents pasadena tx | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-pasadena-tx/
+14. lawyer pasadena tx | searches/mo 1,100 (est) | CPC $9.87 | value $11,000 | Google Ads equiv $650/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/lawyer-pasadena-tx/
+15. plumbing services pasadena tx | searches/mo 1,100 (est) | CPC $13.90 | value $15,000 | Google Ads equiv $970/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumbing-services-pasadena-tx/
+
+## By CPC
+1. hvac repair pasadena tx | searches/mo 1,700 (est) | CPC $17.76 | value $30,000 | Google Ads equiv $1,900/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-pasadena-tx/
+2. plumbing services pasadena tx | searches/mo 1,100 (est) | CPC $13.90 | value $15,000 | Google Ads equiv $970/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumbing-services-pasadena-tx/
+3. plumber pasadena tx | searches/mo 19,000 (est) | CPC $12.04 | value $230,000 | Google Ads equiv $15,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumber-pasadena-tx/
+4. attorney pasadena tx | searches/mo 1,700 (est) | CPC $9.87 | value $17,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/attorney-pasadena-tx/
+5. lawyer pasadena tx | searches/mo 1,100 (est) | CPC $9.87 | value $11,000 | Google Ads equiv $650/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/lawyer-pasadena-tx/
+6. heating and air pasadena tx | searches/mo 83.00 (est) | CPC $8.33 | value $690 | Google Ads equiv $44.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/heating-and-air-pasadena-tx/
+7. plumbers pasadena tx | searches/mo 83.00 (est) | CPC $8.33 | value $690 | Google Ads equiv $44.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumbers-pasadena-tx/
+8. dance studio pasadena tx | searches/mo 930 (est) | CPC $6.17 | value $5,700 | Google Ads equiv $410/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dance-studio-pasadena-tx/
+9. preschool pasadena tx | searches/mo 5,100 (est) | CPC $4.81 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/preschool-pasadena-tx/
+10. family doctor pasadena tx | searches/mo 770 (est) | CPC $4.76 | value $3,700 | Google Ads equiv $250/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/family-doctor-pasadena-tx/
+11. primary care physician pasadena tx | searches/mo 630 (est) | CPC $4.76 | value $3,000 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/primary-care-physician-pasadena-tx/
+12. dentist pasadena tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-pasadena-tx/
+13. haircut pasadena tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-pasadena-tx/
+14. auto repair pasadena tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-pasadena-tx/
+15. car wash pasadena tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-pasadena-tx/
+
+## By value (searches x CPC)
+1. plumber pasadena tx | searches/mo 19,000 (est) | CPC $12.04 | value $230,000 | Google Ads equiv $15,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumber-pasadena-tx/
+2. dentist pasadena tx | searches/mo 42,000 (est) | CPC $4.70 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-pasadena-tx/
+3. car wash pasadena tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-pasadena-tx/
+4. oil change pasadena tx | searches/mo 42,000 (est) | CPC $4.35 | value $180,000 | Google Ads equiv $10,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-pasadena-tx/
+5. mechanic pasadena tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-pasadena-tx/
+6. tire shop pasadena tx | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-pasadena-tx/
+7. haircut pasadena tx | searches/mo 8,500 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-pasadena-tx/
+8. auto repair pasadena tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-pasadena-tx/
+9. hvac repair pasadena tx | searches/mo 1,700 (est) | CPC $17.76 | value $30,000 | Google Ads equiv $1,900/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-pasadena-tx/
+10. hair salon pasadena tx | searches/mo 35,000 (est) | CPC $0.55 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hair-salon-pasadena-tx/
+11. attorney pasadena tx | searches/mo 1,700 (est) | CPC $9.87 | value $17,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/attorney-pasadena-tx/
+12. plumbing services pasadena tx | searches/mo 1,100 (est) | CPC $13.90 | value $15,000 | Google Ads equiv $970/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumbing-services-pasadena-tx/
+13. lawyer pasadena tx | searches/mo 1,100 (est) | CPC $9.87 | value $11,000 | Google Ads equiv $650/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/lawyer-pasadena-tx/
+14. insurance agency pasadena tx | searches/mo 2,100 (est) | CPC $3.39 | value $7,100 | Google Ads equiv $590/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-pasadena-tx/
+15. family doctor pasadena tx | searches/mo 770 (est) | CPC $4.76 | value $3,700 | Google Ads equiv $250/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/family-doctor-pasadena-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

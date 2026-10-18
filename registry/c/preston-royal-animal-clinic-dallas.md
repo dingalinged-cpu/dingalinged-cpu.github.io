@@ -1,0 +1,23 @@
+Preston Royal Animal Clinic is a veterinarian in Dallas, TX.
+
+# Preston Royal Animal Clinic
+
+- Category: vet
+- Services: vet
+- Address: Dallas, TX
+- City: Dallas
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.8937058, -96.8023153
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/preston-royal-animal-clinic-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/preston-royal-animal-clinic-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13415662246 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

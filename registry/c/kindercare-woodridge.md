@@ -15,7 +15,7 @@ KinderCare is a preschool in Woodridge, IL at 7450 Woodward Avenue, Woodridge, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kindercare-woodridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kindercare-woodridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/546143179 (license ODbL-1.0); source data as of 2026-07-28

@@ -1,0 +1,23 @@
+ATI Physical Therapy is a physical therapy clinic in Rockwall, TX at 2268 North Lakeshore Drive #106, Rockwall, TX 75087. Phone: +19729796577. Website: https://locations.atipt.com/rockwall-tx-n-lakeshore-dr.
+
+# ATI Physical Therapy
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 2268 North Lakeshore Drive #106, Rockwall, TX 75087
+- City: Rockwall
+- State: TX
+- ZIP: 75087
+- Coordinates: 32.9495542, -96.4638403
+- Phone: +19729796577
+- Website: https://locations.atipt.com/rockwall-tx-n-lakeshore-dr
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-19:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-rockwall/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-rockwall.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9695248878 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

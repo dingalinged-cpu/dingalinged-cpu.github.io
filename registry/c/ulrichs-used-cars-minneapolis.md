@@ -15,7 +15,7 @@ Ulrich's Used Cars is an used car dealer in Minneapolis, MN at 2642 Central Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ulrichs-used-cars-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ulrichs-used-cars-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/457361852 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Chiro One Wellness Center is a chiropractor in Chicago, IL at 2909 West Addison 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chiro-one-wellness-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chiro-one-wellness-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8923339305 (license ODbL-1.0); source data as of 2026-07-28

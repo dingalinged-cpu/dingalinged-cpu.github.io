@@ -15,7 +15,7 @@ North Shore Dental is a dentist in Evanston, IL at 635 Chicago Avenue #6, Evanst
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/north-shore-dental-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-shore-dental-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1843040172 (license ODbL-1.0); source data as of 2026-07-28

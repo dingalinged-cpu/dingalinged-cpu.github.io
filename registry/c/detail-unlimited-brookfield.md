@@ -15,7 +15,7 @@ Detail Unlimited is a car wash in Brookfield, IL. Website: https://www.detail-un
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/detail-unlimited-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/detail-unlimited-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9518398155 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Extra Space Storage is a self-storage facility in Lansing, IL at 2556 Bernice Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-lansing/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-lansing.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1272640887 (license ODbL-1.0); source data as of 2026-06-01

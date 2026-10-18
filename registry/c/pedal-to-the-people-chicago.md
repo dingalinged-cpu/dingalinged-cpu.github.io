@@ -15,7 +15,7 @@ Pedal to the People is a bike shop in Chicago, IL at 2030 West Hubbard Street, C
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa-Su 12:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pedal-to-the-people-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pedal-to-the-people-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12978351501 (license ODbL-1.0); source data as of 2026-06-01

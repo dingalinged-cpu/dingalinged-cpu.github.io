@@ -1,4 +1,4 @@
-The top unpaid gift shop listing for the United States is Attic Salt (a gift shop in Lombard, IL at 125 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16307853034. Website: https://www.atticsalt.com/store-details?code=FG3890). 215 gift shop businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for the United States is Attic Salt (a gift shop in Lombard, IL at 125 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16307853034. Website: https://www.atticsalt.com/store-details?code=FG3890). 466 gift shop businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in the United States?
 
@@ -7,231 +7,197 @@ Also answers: gift shop in the United States; gift shop near me (the United Stat
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
 1. Attic Salt | trust 20.0 | Attic Salt is a gift shop in Lombard, IL at 125 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16307853034. Website: https://www.atticsalt.com/store-details?code=FG3890. | https://dingalinged-cpu.github.io/registry/c/attic-salt-lombard/
-2. boreal | trust 20.0 | boreal is a gift shop in Saint Paul, MN at 2276 Como Avenue, Saint Paul, MN 55108. Phone: +16515609900. Website: https://boreal.life/. | https://dingalinged-cpu.github.io/registry/c/boreal-saint-paul/
-3. Celtica Gifts | trust 20.0 | Celtica Gifts is a gift shop in Chicago, IL at 1940 West Montrose Avenue, Chicago, IL 60613. Phone: +17737847712. Website: https://www.celticagifts.com/. | https://dingalinged-cpu.github.io/registry/c/celtica-gifts-chicago/
-4. Edible Arrangements | trust 20.0 | Edible Arrangements is a gift shop in Maple Grove, MN at 13712 Grove Drive North, Maple Grove, MN 55311. Phone: +17634203115. Website: https://www.ediblearrangements.com/. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-maple-grove/
-5. Edible Arrangements | trust 20.0 | Edible Arrangements is a gift shop in Roseville, MN at 1747 Lexington Avenue North, Roseville, MN 55113. Phone: +16514884500. Website: https://www.ediblearrangements.com/stores/1747-lexington-ave-n-roseville-mn-55113. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-roseville/
-6. Express Gifts | trust 20.0 | Express Gifts is a gift shop in Arlington Heights, IL at 2300 East Rand Road, Arlington Heights, IL 60004. Phone: +18477881000. Website: https://expressgiftsil.com/. | https://dingalinged-cpu.github.io/registry/c/express-gifts-arlington-heights/
-7. Gypsy Moon | trust 20.0 | Gypsy Moon is a gift shop in Saint Paul, MN at 1887 Randolph Avenue, Saint Paul, MN 55105. Phone: +16516999531. Website: https://gypsymoonstpaul.com/. | https://dingalinged-cpu.github.io/registry/c/gypsy-moon-saint-paul/
-8. Hallmark | trust 20.0 | Hallmark is a gift shop in Eagan, MN at 1283 Promenade Place #5, Eagan, MN 55121. Phone: +16516818424. Website: https://stores.hallmark.com/mn/eagan/jaynes-hallmark-shop-eagan-mn-062975.html. | https://dingalinged-cpu.github.io/registry/c/hallmark-eagan/
-9. Hallmark | trust 20.0 | Hallmark is a gift shop in Homer Glen, IL at 14154 South Bell Road, Homer Glen, IL 60491. Phone: +17083013402. Website: https://stores.hallmark.com/il/homerglen/amys-hallmark-shop-homerglen-il-061762.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local. | https://dingalinged-cpu.github.io/registry/c/hallmark-homer-glen/
-10. Lillstreet Gallery & Artisan Gift Shop | trust 20.0 | Lillstreet Gallery & Artisan Gift Shop is a gift shop in Chicago, IL at 4401 North Ravenswood Avenue, Chicago, IL 60640. Phone: +17737694226. Website: https://lillstreetgallery.com/. | https://dingalinged-cpu.github.io/registry/c/lillstreet-gallery-and-artisan-gift-shop-chicago/
-11. Lotus Lake Gifts & Decor | trust 20.0 | Lotus Lake Gifts & Decor is a gift shop in Chanhassen, MN at 412 West 78th Street, Chanhassen, MN 55317. Phone: +19529343485. Website: https://lotuslakegifts.com/. | https://dingalinged-cpu.github.io/registry/c/lotus-lake-gifts-and-decor-chanhassen/
-12. Nona Jo's | trust 20.0 | Nona Jo's is a gift shop in Naperville, IL at 410 West 5th Avenue, Naperville, IL 60563. Phone: +16303554488. Website: https://www.nonajos.com/. | https://dingalinged-cpu.github.io/registry/c/nona-jos-naperville/
-13. Paperish Mess | trust 20.0 | Paperish Mess is a gift shop in Chicago, IL at 1945 West Chicago Avenue, Chicago, IL 60622. Phone: +13122651497. Website: https://www.paperishmess.com/. | https://dingalinged-cpu.github.io/registry/c/paperish-mess-chicago/
-14. Patina | trust 20.0 | Patina is a gift shop in Minneapolis, MN at 821 West 50th Street, Minneapolis, MN 55419. Phone: +16128219315. Website: https://www.patinastores.com/locations/south-mpls.php. | https://dingalinged-cpu.github.io/registry/c/patina-minneapolis/
-15. Rogers Park Provisions | trust 20.0 | Rogers Park Provisions is a gift shop in Chicago, IL at 6928 North Glenwood Avenue, Chicago, IL 60626. Phone: +17739995943. Website: https://provisionschicago.square.site/. | https://dingalinged-cpu.github.io/registry/c/rogers-park-provisions-chicago/
-16. SaraBoo Creek | trust 20.0 | SaraBoo Creek is a gift shop in Naperville, IL at 107 West Jefferson Avenue, Naperville, IL 60540. Phone: +16304283671. Website: https://saraboocreek.com/downtown-naperville. | https://dingalinged-cpu.github.io/registry/c/saraboo-creek-naperville/
-17. Edible Arrangements | trust 19.0 | Edible Arrangements is a gift shop in Minneapolis, MN at 108 South 8th Street #103, Minneapolis, MN. Phone: +16124361152. Website: https://www.ediblearrangements.com/stores/108-8th-street-south-suite-103-minneapolis-mn-55402. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-minneapolis/
-18. ДЕЛЬТА | trust 19.0 | ДЕЛЬТА is a gift shop in Chicago, IL at 2242 West Chicago Avenue, Chicago, IL. Phone: +17732357788. Website: https://delta-ukrainian.com/. | https://dingalinged-cpu.github.io/registry/c/osm-n12645958901-chicago/
-19. 14 Hill | trust 16.0 | 14 Hill is a gift shop in Minneapolis, MN at 4737 Chicago Avenue South #Suite 2, Minneapolis, MN 55407. Phone: +16128247774. Website: https://www.14hill.com/. | https://dingalinged-cpu.github.io/registry/c/14-hill-minneapolis/
-20. Eglomise Designs | trust 16.0 | Eglomise Designs is a gift shop in Saint Louis Park, MN at 5701 36th Street West, Saint Louis Park, MN 55416. Phone: +18004438987. Website: https://eglomisedesigns.com/. | https://dingalinged-cpu.github.io/registry/c/eglomise-designs-saint-louis-park/
-21. Goldy's Locker Room | trust 16.0 | Goldy's Locker Room is a gift shop in Minneapolis, MN at 714 Southeast Washington Avenue ##106B, Minneapolis, MN 55414. Phone: +16123313009. Website: https://www.mygophersports.com/. | https://dingalinged-cpu.github.io/registry/c/goldys-locker-room-minneapolis/
-22. GoodThings | trust 16.0 | GoodThings is a gift shop in Saint Paul, MN at 1082 Grand Avenue, Saint Paul, MN 55105. Phone: +16512220321. Website: https://shopgoodthings.com/bibelot-goodthings-grand-avenue/. | https://dingalinged-cpu.github.io/registry/c/goodthings-saint-paul/
-23. Hallmark | trust 16.0 | Hallmark is a gift shop in Oak Lawn, IL at 10730 South Cicero Avenue #5, Oak Lawn, IL 60453. Phone: +17084250552. Website: https://stores.hallmark.com/il/oaklawn/katies-hallmark-shop-oaklawn-il-011166.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local. | https://dingalinged-cpu.github.io/registry/c/hallmark-oak-lawn/
-24. I like you too | trust 16.0 | I like you too is a gift shop in Saint Paul, MN at 416 Snelling Avenue South, Saint Paul, MN 55105. Phone: +16513409710. Website: https://i-like-you-minneapolis.myshopify.com/. | https://dingalinged-cpu.github.io/registry/c/i-like-you-too-saint-paul/
-25. Ingebretsen's Scandinavian Gifts & Foods | trust 16.0 | Ingebretsen's Scandinavian Gifts & Foods is a gift shop in Minneapolis, MN at 1601 East Lake Street, Minneapolis, MN 55407. Phone: +16127299333. Website: https://www.ingebretsens.com/. | https://dingalinged-cpu.github.io/registry/c/ingebretsens-scandinavian-gifts-and-foods-minneapolis/
-26. Jewelweed | trust 16.0 | Jewelweed is a gift shop in Excelsior, MN at 223 Water Street, Excelsior, MN 55331. Phone: +19524767631. Website: https://jewelweed.com/. | https://dingalinged-cpu.github.io/registry/c/jewelweed-excelsior/
-27. Legacy Art & Gifts | trust 16.0 | Legacy Art & Gifts is a gift shop in Saint Paul, MN at 1209 Grand Avenue, Saint Paul, MN 55105. Phone: +16512219094. Website: https://www.legacyartandgifts.com/. | https://dingalinged-cpu.github.io/registry/c/legacy-art-and-gifts-saint-paul/
-28. niceLena & Friends | trust 16.0 | niceLena & Friends is a gift shop in Evanston, IL at 1235 Chicago Avenue, Evanston, IL 60202. Phone: +18472713707. Website: https://www.nicelena.com/. | https://dingalinged-cpu.github.io/registry/c/nicelena-and-friends-evanston/
-29. SHOP in the CITY | trust 16.0 | SHOP in the CITY is a gift shop in Edina, MN. Phone: +19528004178. Website: https://www.shopinthecity.com/. | https://dingalinged-cpu.github.io/registry/c/shop-in-the-city-edina/
-30. The Inkling Shop | trust 16.0 | The Inkling Shop is a gift shop in Chicago, IL at 2917 North Broadway, Chicago, IL 60657. Phone: +17732488004. Website: https://www.theinklingshop.com/. | https://dingalinged-cpu.github.io/registry/c/the-inkling-shop-chicago/
-31. The Villager Card & Gift Shop | trust 16.0 | The Villager Card & Gift Shop is a gift shop in Flossmoor, IL at 1042 Sterling Avenue, Flossmoor, IL 60422. Phone: +17087994844. Website: https://thevillagergiftshop.com/. | https://dingalinged-cpu.github.io/registry/c/the-villager-card-and-gift-shop-flossmoor/
-32. Thistle | trust 16.0 | Thistle is a gift shop in Saint Paul, MN at 2228 Carter Avenue #Apartment 4, Saint Paul, MN 55108. Phone: +17634648470. Website: https://www.thistlemiltonsquare.com/. | https://dingalinged-cpu.github.io/registry/c/thistle-saint-paul/
-33. Piccadilly Prairie | trust 15.0 | Piccadilly Prairie is a gift shop in Minneapolis, MN at 4306 Upton Avenue South, Minneapolis, MN. Phone: +16122345014. Website: https://shop.piccadillyprairie.com/. | https://dingalinged-cpu.github.io/registry/c/piccadilly-prairie-minneapolis/
-34. Bleu Home Decor Shop | trust 14.0 | Bleu Home Decor Shop is a gift shop in Minneapolis, MN at 403 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +16125237673. | https://dingalinged-cpu.github.io/registry/c/bleu-home-decor-shop-minneapolis/
-35. Dozoles Creations | trust 14.0 | Dozoles Creations is a gift shop in Minneapolis, MN at 1828 East 42nd Street, Minneapolis, MN 55407. Website: https://www.dozoles.com/. | https://dingalinged-cpu.github.io/registry/c/dozoles-creations-minneapolis/
-36. E's Emporium | trust 14.0 | E's Emporium is a gift shop in Minneapolis, MN at 3911 Minnehaha Avenue, Minneapolis, MN 55406. Website: https://www.es-emporium.com/. | https://dingalinged-cpu.github.io/registry/c/es-emporium-minneapolis/
-37. I like You | trust 14.0 | I like You is a gift shop in Minneapolis, MN at 1955 Northeast Johnson Street, Minneapolis, MN 55418. Website: https://i-like-you-minneapolis.myshopify.com/. | https://dingalinged-cpu.github.io/registry/c/i-like-you-minneapolis/
-38. Kpop Nara | trust 14.0 | Kpop Nara is a gift shop in Chicago, IL at 900 South Wabash Avenue, Chicago, IL 60605. Website: https://kpopnara.com/. | https://dingalinged-cpu.github.io/registry/c/kpop-nara-chicago/
-39. Kpop Nara | trust 14.0 | Kpop Nara is a gift shop in Chicago, IL at 545 South State Street, Chicago, IL 60605. Website: https://shop.kpopnara.com/. | https://dingalinged-cpu.github.io/registry/c/kpop-nara-chicago-n12362772169/
-40. L1 | trust 14.0 | L1 is a gift shop in Chicago, IL at 301 East Garfield Boulevard, Chicago, IL 60637. Website: https://www.shopl1.org/. | https://dingalinged-cpu.github.io/registry/c/l1-chicago/
-41. Larissa Loden | trust 14.0 | Larissa Loden is a gift shop in Saint Paul, MN at 2032 Marshall Avenue, Saint Paul, MN 55104. Phone: +16128869134. | https://dingalinged-cpu.github.io/registry/c/larissa-loden-saint-paul/
-42. Laughing Water Gifts | trust 14.0 | Laughing Water Gifts is a gift shop in Minneapolis, MN at 2718 East 50th Street, Minneapolis, MN 55417. Phone: +16127210074. | https://dingalinged-cpu.github.io/registry/c/laughing-water-gifts-minneapolis/
-43. Little Luxuries | trust 14.0 | Little Luxuries is a gift shop in Naperville, IL at 212 South Main Street, Naperville, IL 60540. Phone: +16303571536. | https://dingalinged-cpu.github.io/registry/c/little-luxuries-naperville/
-44. Midway Crystals | trust 14.0 | Midway Crystals is a gift shop in Chicago, IL at 6457 West Archer Avenue, Chicago, IL 60638. Phone: +17087597347. | https://dingalinged-cpu.github.io/registry/c/midway-crystals-chicago/
-45. Painted Tree Boutiques | trust 14.0 | Painted Tree Boutiques is a gift shop in Bloomingdale, IL at 368 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16303134826. | https://dingalinged-cpu.github.io/registry/c/painted-tree-boutiques-bloomingdale/
-46. Patina | trust 14.0 | Patina is a gift shop in Saint Paul, MN at 1581 Selby Avenue, Saint Paul, MN 55104. Website: https://patinastores.com/. | https://dingalinged-cpu.github.io/registry/c/patina-saint-paul/
-47. Things Remembered | trust 14.0 | Things Remembered is a gift shop in Lombard, IL at 136 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16309161701. | https://dingalinged-cpu.github.io/registry/c/things-remembered-lombard/
-48. BoxLunch | trust 13.0 | BoxLunch is a gift shop in Bloomington, MN at 134 North Garden, Bloomington, MN. Phone: +19528549953. | https://dingalinged-cpu.github.io/registry/c/boxlunch-bloomington/
-49. Brighton Collectibles | trust 13.0 | Brighton Collectibles is a gift shop in Bloomington, MN at 224 South Avenue, Bloomington, MN. Phone: +19528548043. | https://dingalinged-cpu.github.io/registry/c/brighton-collectibles-bloomington/
-50. Indulge + Bloom | trust 13.0 | Indulge + Bloom is a gift shop in Bloomington, MN at 314 North Garden, Bloomington, MN. Phone: +16123430000. | https://dingalinged-cpu.github.io/registry/c/indulge-bloom-bloomington/
-51. Love From Minnesota | trust 13.0 | Love From Minnesota is a gift shop in Bloomington, MN at 380 West Market, Bloomington, MN. Phone: +19528547319. | https://dingalinged-cpu.github.io/registry/c/love-from-minnesota-bloomington/
-52. Minnesot-ah! | trust 13.0 | Minnesot-ah! is a gift shop in Bloomington, MN at 157 East Broadway, Bloomington, MN. Phone: +19528588531. | https://dingalinged-cpu.github.io/registry/c/minnesot-ah-bloomington/
-53. Pepper Palace | trust 13.0 | Pepper Palace is a gift shop in Bloomington, MN at 284 North Garden, Bloomington, MN. Phone: +19524562714. | https://dingalinged-cpu.github.io/registry/c/pepper-palace-bloomington/
-54. Spencer's | trust 13.0 | Spencer's is a gift shop in Bloomington, MN at 354 North Garden, Bloomington, MN. Phone: +18007620419. | https://dingalinged-cpu.github.io/registry/c/spencers-bloomington/
-55. Spencer's | trust 13.0 | Spencer's is a gift shop in Bloomington, MN at 275 North Garden, Bloomington, MN. Phone: +18007620419. | https://dingalinged-cpu.github.io/registry/c/spencers-bloomington-n5739829720/
-56. Typo | trust 13.0 | Typo is a gift shop in Bloomington, MN at 132 North Garden, Bloomington, MN. Phone: +19528545873. | https://dingalinged-cpu.github.io/registry/c/typo-bloomington/
-57. AngMir - Hecho con Cariño | trust 10.0 | AngMir - Hecho con Cariño is a gift shop in Chicago, IL at 1653 West 18th Street, Chicago, IL 60608. Website: https://angmir.com/. | https://dingalinged-cpu.github.io/registry/c/angmir-hecho-con-cari-o-chicago/
-58. AVALON | trust 10.0 | AVALON is a gift shop in Minneapolis, MN at 168 13th Ave NE, Minneapolis, MN 55413. Phone: +16124082934. | https://dingalinged-cpu.github.io/registry/c/avalon-minneapolis/
-59. Coccinella | trust 10.0 | Coccinella is a gift shop in Edina, MN at 4946 France Avenue South, Edina, MN 55410. Website: https://www.coccinellastore.com/. | https://dingalinged-cpu.github.io/registry/c/coccinella-edina/
-60. Color's Flowers and Gifts | trust 10.0 | Color's Flowers and Gifts is a gift shop in Chicago, IL at 2418 South Wentworth Avenue, Chicago, IL 60616. Phone: +13128428931. | https://dingalinged-cpu.github.io/registry/c/colors-flowers-and-gifts-chicago/
-61. Colored Squid | trust 10.0 | Colored Squid is a gift shop in Barrington, IL at 201 South Cook Street, Barrington, IL 60010. Phone: +18477745197. | https://dingalinged-cpu.github.io/registry/c/colored-squid-barrington/
-62. Doodle Bird Design + Gifts | trust 10.0 | Doodle Bird Design + Gifts is a gift shop in Minneapolis, MN at 2803 East 42nd Street, Minneapolis, MN 55406. Phone: +16123457961. | https://dingalinged-cpu.github.io/registry/c/doodle-bird-design-gifts-minneapolis/
-63. Edible Arrangements | trust 10.0 | Edible Arrangements is a gift shop in Chicago, IL at 9945 South Halsted Street, Chicago, IL 60628. Website: https://www.ediblearrangements.com/stores/9945-s-halsted-st-chicago-il-60628. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-chicago-n13514590393/
-64. Edible Arrangements | trust 10.0 | Edible Arrangements is a gift shop in Riverwoods, IL at 2045 North Milwaukee Avenue, Riverwoods, IL 60015. Website: https://www.ediblearrangements.com/stores/2045-milwaukee-ave-deerfield-il-60015. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-riverwoods/
-65. Frostbeard Studio | trust 10.0 | Frostbeard Studio is a gift shop in Minneapolis, MN. Website: https://www.rlmartstudio.com/. | https://dingalinged-cpu.github.io/registry/c/frostbeard-studio-minneapolis/
-66. iStore | trust 10.0 | iStore is a gift shop in Chicago, IL. Website: https://www.midwaypartnership.com/businesses/istore-b17/. | https://dingalinged-cpu.github.io/registry/c/istore-chicago/
-67. Lama Bazaar | trust 10.0 | Lama Bazaar is a gift shop in Saint Paul, MN at 1144 Grand Avenue, Saint Paul, MN 55105. Phone: +16128043690. | https://dingalinged-cpu.github.io/registry/c/lama-bazaar-saint-paul/
-68. Leipold's Gifts & Antiques | trust 10.0 | Leipold's Gifts & Antiques is a gift shop in Excelsior, MN at 239 Water Street, Excelsior, MN 55331. Phone: +19524745880. | https://dingalinged-cpu.github.io/registry/c/leipolds-gifts-and-antiques-excelsior/
-69. My Pillow | trust 10.0 | My Pillow is a gift shop in Roseville, MN. Phone: +16512036191. | https://dingalinged-cpu.github.io/registry/c/my-pillow-roseville/
-70. SENTi | trust 10.0 | SENTi is a gift shop in Edina, MN. Website: https://shopsenti.com/. | https://dingalinged-cpu.github.io/registry/c/senti-edina/
-71. Smitten Boutique | trust 10.0 | Smitten Boutique is a gift shop in Chicago, IL at 1047 West Madison Street, Chicago, IL 60607. Website: https://smittenboutique.com/. | https://dingalinged-cpu.github.io/registry/c/smitten-boutique-chicago/
-72. Spencer's | trust 10.0 | Spencer's is a gift shop in North Riverside, IL at 7501 Cermak Road #K5, North Riverside, IL 60546. Website: https://stores.spencersonline.com/il/northriverside/north-riverside-park-mall-00236.html. | https://dingalinged-cpu.github.io/registry/c/spencers-north-riverside/
-73. Stumble & Relish | trust 10.0 | Stumble & Relish is a gift shop in Evanston, IL at 1312 Chicago Avenue, Evanston, IL 60201. Website: https://stumbleandrelish.com/. | https://dingalinged-cpu.github.io/registry/c/stumble-and-relish-evanston/
-74. Crème de la Crème | trust 9.0 | Crème de la Crème is a gift shop in Lisle, IL at 4710-3 Main Street, Lisle, IL. Phone: +16309682500. | https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-lisle/
-75. Foursided | trust 9.0 | Foursided is a gift shop in Chicago, IL at 2958 North Clark Street, Chicago, IL. Website: https://foursided.com/. | https://dingalinged-cpu.github.io/registry/c/foursided-chicago-n13381814690/
-76. Andersonville Galleria | trust 8.0 | Andersonville Galleria is a gift shop in Chicago, IL at 5247 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/andersonville-galleria-chicago/
-77. Awakenings... | trust 8.0 | Awakenings... is a gift shop in Minneapolis, MN at 4165 Minnehaha Avenue, Minneapolis, MN 55406. | https://dingalinged-cpu.github.io/registry/c/awakenings-minneapolis/
-78. Blue Hummingbird Woman Indigenous Gift Shop | trust 8.0 | Blue Hummingbird Woman Indigenous Gift Shop is a gift shop in Saint Paul, MN at 30 7th Street East, Saint Paul, MN 55101. | https://dingalinged-cpu.github.io/registry/c/blue-hummingbird-woman-indigenous-gift-shop-saint-paul/
-79. Enjoy Andersonville | trust 8.0 | Enjoy Andersonville is a gift shop in Chicago, IL at 5307 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/enjoy-andersonville-chicago/
-80. Foursided | trust 8.0 | Foursided is a gift shop in Chicago, IL at 5061 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/foursided-chicago/
-81. Grace Trading | trust 8.0 | Grace Trading is a gift shop in Chicago, IL at 2236 South Wentworth Avenue, Chicago, IL 60616. | https://dingalinged-cpu.github.io/registry/c/grace-trading-chicago/
-82. I Love Chicago | trust 8.0 | I Love Chicago is a gift shop in Chicago, IL at 316 North Michigan Avenue, Chicago, IL 60601. | https://dingalinged-cpu.github.io/registry/c/i-love-chicago-chicago/
-83. Midtown Home Market | trust 8.0 | Midtown Home Market is a gift shop in Long Grove, IL at 217 Robert Parker Coffin Road, Long Grove, IL 60047. | https://dingalinged-cpu.github.io/registry/c/midtown-home-market-long-grove/
-84. Transit Tees | trust 8.0 | Transit Tees is a gift shop in Chicago, IL at 5226 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/transit-tees-chicago/
-85. Beef Jerky Experience | trust 7.0 | Beef Jerky Experience is a gift shop in Bloomington, MN at 341 North Garden, Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/beef-jerky-experience-bloomington/
-86. Creative Hands | trust 7.0 | Creative Hands is a gift shop in Long Grove, IL at 243 Robert Parker Coffin Road, Long Grove, IL. | https://dingalinged-cpu.github.io/registry/c/creative-hands-long-grove/
-87. Ebisu | trust 7.0 | Ebisu is a gift shop in Bloomington, MN at 306 North Garden, Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/ebisu-bloomington/
-88. I Love Minnesota | trust 7.0 | I Love Minnesota is a gift shop in Bloomington, MN at 372 West Market, Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/i-love-minnesota-bloomington/
-89. Mall of America Gift Store | trust 7.0 | Mall of America Gift Store is a gift shop in Bloomington, MN at 285 East Broadway, Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/mall-of-america-gift-store-bloomington/
-90. Mall of America Gift Store | trust 7.0 | Mall of America Gift Store is a gift shop in Bloomington, MN at 225 South Avenue, Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/mall-of-america-gift-store-bloomington-n5739830047/
-91. MINISO | trust 7.0 | MINISO is a gift shop in Bloomington, MN at 212 East Broadway, Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/miniso-bloomington/
-92. Stormcloud Trading | trust 7.0 | Stormcloud Trading is a gift shop in Saint Paul, MN at 725 Snelling Avenue, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/stormcloud-trading-saint-paul/
-93. Ka Oriental Gift | trust 6.0 | Ka Oriental Gift is a gift shop in Chicago, IL. Phone: +13128428839. | https://dingalinged-cpu.github.io/registry/c/ka-oriental-gift-chicago/
-94. Ana's Apothecary | trust 4.0 | Ana's Apothecary is a gift shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/anas-apothecary-minneapolis/
-95. Bad Luck Club | trust 4.0 | Bad Luck Club is a gift shop in Chicago, IL at 2114 West Montrose Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/bad-luck-club-chicago/
-96. Beatnix | trust 4.0 | Beatnix is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/beatnix-chicago/
-97. Bullseye Boutique | trust 4.0 | Bullseye Boutique is a gift shop in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/bullseye-boutique-brooklyn-park/
-98. Bye Bye Chicago | trust 4.0 | Bye Bye Chicago is a gift shop in Chicago, IL at 30 South Michigan Avenue, Chicago, IL 60603. | https://dingalinged-cpu.github.io/registry/c/bye-bye-chicago-chicago/
-99. Central Port Emporium | trust 4.0 | Central Port Emporium is a gift shop in Chicago, IL at 2324 South Wentworth Avenue, Chicago, IL 60616. | https://dingalinged-cpu.github.io/registry/c/central-port-emporium-chicago/
-100. CorAzoN | trust 4.0 | CorAzoN is a gift shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/corazon-minneapolis/
-101. Cubs Team Store | trust 4.0 | Cubs Team Store is a gift shop in Chicago, IL at 3637 North Clark Street, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/cubs-team-store-chicago/
-102. DGPilot | trust 4.0 | DGPilot is a gift shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/dgpilot-saint-paul/
-103. Edible Arrangements | trust 4.0 | Edible Arrangements is a gift shop in Calumet Park, IL at 12844 South Ashland Avenue, Calumet Park, IL 60827. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-calumet-park/
-104. Edible Arrangements | trust 4.0 | Edible Arrangements is a gift shop in Chicago, IL at 4333 West Irving Park Road, Chicago, IL 60641. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-chicago/
-105. Edible Arrangements | trust 4.0 | Edible Arrangements is a gift shop in Chicago, IL at 1453 East Hyde Park Boulevard, Chicago, IL 60615. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-chicago-n11663949608/
-106. Edible Arrangements | trust 4.0 | Edible Arrangements is a gift shop in Evanston, IL at 1630 Maple Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-evanston/
-107. Edible Arrangements | trust 4.0 | Edible Arrangements is a gift shop in Evergreen Park, IL at 8732 South Kedzie Avenue, Evergreen Park, IL 60805. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-evergreen-park/
-108. Edible Arrangements | trust 4.0 | Edible Arrangements is a gift shop in Homewood, IL at 18312 Governors Highway, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-homewood/
-109. Edible Arrangements | trust 4.0 | Edible Arrangements is a gift shop in Niles, IL at 7239 West Dempster Street, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-niles/
-110. Edible Arrangements | trust 4.0 | Edible Arrangements is a gift shop in Oak Forest, IL at 5447 West 159th Street, Oak Forest, IL 60452. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-oak-forest/
-111. Edible Arrangements | trust 4.0 | Edible Arrangements is a gift shop in Orland Park, IL at 9040 West 159th Street, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-orland-park/
-112. EK Souvenirs | trust 4.0 | EK Souvenirs is a gift shop in Chicago, IL at 2292 South Wentworth Avenue, Chicago, IL 60616. | https://dingalinged-cpu.github.io/registry/c/ek-souvenirs-chicago/
-113. Fleurish LLP | trust 4.0 | Fleurish LLP is a gift shop in Excelsior, MN at 261 Water Street, Excelsior, MN 55331. | https://dingalinged-cpu.github.io/registry/c/fleurish-llp-excelsior/
-114. Garfield Conservatory Gift Shop | trust 4.0 | Garfield Conservatory Gift Shop is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/garfield-conservatory-gift-shop-chicago/
-115. Gift-It | trust 4.0 | Gift-It is a gift shop in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/gift-it-skokie/
-116. Gifts R Us | trust 4.0 | Gifts R Us is a gift shop in Chicago, IL at 2220 South Wentworth Avenue, Chicago, IL 60616. | https://dingalinged-cpu.github.io/registry/c/gifts-r-us-chicago/
-117. Goonga Baloonga's | trust 4.0 | Goonga Baloonga's is a gift shop in Mound, MN at 2339 Commerce Boulevard, Mound, MN 55356. | https://dingalinged-cpu.github.io/registry/c/goonga-baloongas-mound/
-118. Hallmark | trust 4.0 | Hallmark is a gift shop in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/hallmark-mount-prospect/
-119. Hallmark | trust 4.0 | Hallmark is a gift shop in Park Ridge, IL at 19 South Prospect Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/hallmark-park-ridge/
-120. Hallmark | trust 4.0 | Hallmark is a gift shop in River Grove, IL at 3155 North Thatcher Avenue, River Grove, IL 60171. | https://dingalinged-cpu.github.io/registry/c/hallmark-river-grove/
-121. Hometown Gift Shop | trust 4.0 | Hometown Gift Shop is a gift shop in Wauconda, IL at 118 North Main Street #2, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/hometown-gift-shop-wauconda/
-122. Hoypoloi Gallery | trust 4.0 | Hoypoloi Gallery is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/hoypoloi-gallery-chicago/
-123. Incidentals | trust 4.0 | Incidentals is a gift shop in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/incidentals-downers-grove/
-124. Larue's | trust 4.0 | Larue's is a gift shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/larues-minneapolis/
-125. Liberty Duty Free | trust 4.0 | Liberty Duty Free is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/liberty-duty-free-chicago/
-126. Local Goods Chicago | trust 4.0 | Local Goods Chicago is a gift shop in Chicago, IL at 5422 West Devon Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/local-goods-chicago-chicago/
-127. Logan Arch | trust 4.0 | Logan Arch is a gift shop in Chicago, IL at 2066 North Milwaukee Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/logan-arch-chicago/
-128. Love From Minnesota | trust 4.0 | Love From Minnesota is a gift shop in Falcon Heights, MN at 1663 Dan Patch Avenue, Falcon Heights, MN 55113. | https://dingalinged-cpu.github.io/registry/c/love-from-minnesota-falcon-heights/
-129. MASHALLAH | trust 4.0 | MASHALLAH is a gift shop in Chicago, IL at 1134 West 18th Street, Chicago, IL 60608. | https://dingalinged-cpu.github.io/registry/c/mashallah-chicago/
-130. Minnesota Makers | trust 4.0 | Minnesota Makers is a gift shop in Robbinsdale, MN at 4180 West Broadway Avenue, Robbinsdale, MN 55422. | https://dingalinged-cpu.github.io/registry/c/minnesota-makers-robbinsdale/
-131. Minnesota Xplorer | trust 4.0 | Minnesota Xplorer is a gift shop in Falcon Heights, MN at 1352 Cooper Street, Falcon Heights, MN 55113. | https://dingalinged-cpu.github.io/registry/c/minnesota-xplorer-falcon-heights/
-132. MM Giftland | trust 4.0 | MM Giftland is a gift shop in Chicago, IL at 2316 South Wentworth Avenue, Chicago, IL 60616. | https://dingalinged-cpu.github.io/registry/c/mm-giftland-chicago/
-133. Pacific Furniture Inc | trust 4.0 | Pacific Furniture Inc is a gift shop in Chicago, IL at 2200 South Wentworth Avenue, Chicago, IL 60616. | https://dingalinged-cpu.github.io/registry/c/pacific-furniture-inc-chicago/
-134. Pixie and the Boy | trust 4.0 | Pixie and the Boy is a gift shop in Chicago, IL at 2605 North Milwaukee Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/pixie-and-the-boy-chicago/
-135. Shaker Traditions | trust 4.0 | Shaker Traditions is a gift shop in Evanston, IL at 613 Dempster Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/shaker-traditions-evanston/
-136. Souvenir City | trust 4.0 | Souvenir City is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/souvenir-city-chicago/
-137. Steel Petal Press | trust 4.0 | Steel Petal Press is a gift shop in Chicago, IL at 2321 North Milwaukee Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/steel-petal-press-chicago/
-138. Sun Catchers | trust 4.0 | Sun Catchers is a gift shop in Whiting, IN at 1348 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/sun-catchers-whiting/
-139. The Boeing Store | trust 4.0 | The Boeing Store is a gift shop in Chicago, IL at 410 West Washington Street, Chicago, IL 60606. | https://dingalinged-cpu.github.io/registry/c/the-boeing-store-chicago/
-140. The Field Museum Store | trust 4.0 | The Field Museum Store is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-field-museum-store-chicago/
-141. Edible Arrangements | trust 3.0 | Edible Arrangements is a gift shop in Chicago, IL at 1212 West Taylor Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-chicago-n12708709226/
-142. Inspire | trust 3.0 | Inspire is a gift shop in Minneapolis, MN at 108 West 14th Street, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/inspire-minneapolis/
-143. Marigold | trust 3.0 | Marigold is a gift shop in Minneapolis, MN at 3506 Nicollet Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/marigold-minneapolis/
-144. Patina | trust 3.0 | Patina is a gift shop in Roseville, MN at 2397 Fairview Avenue North, Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/patina-roseville/
-145. Patina | trust 3.0 | Patina is a gift shop in Saint Paul, MN at 2057 Ford Parkway, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/patina-saint-paul-n660909467/
-146. The Fig Tree | trust 3.0 | The Fig Tree is a gift shop in Chicago, IL at 1037 West Madison Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-fig-tree-chicago/
-147. Baggallini | trust 0.0 | Baggallini is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/baggallini-fort-snelling-unorganized-territory/
-148. Bear Crossing | trust 0.0 | Bear Crossing is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/bear-crossing-brookfield/
-149. Card Frenzy | trust 0.0 | Card Frenzy is a gift shop in Darien, IL. | https://dingalinged-cpu.github.io/registry/c/card-frenzy-darien/
-150. Coast Gifts | trust 0.0 | Coast Gifts is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/coast-gifts-brookfield/
-151. Colores Mexicanos | trust 0.0 | Colores Mexicanos is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/colores-mexicanos-chicago/
-152. Country Classics | trust 0.0 | Country Classics is a gift shop in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/country-classics-glenview/
-153. Dollar Depot | trust 0.0 | Dollar Depot is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/dollar-depot-chicago/
-154. Donegal Imports | trust 0.0 | Donegal Imports is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/donegal-imports-chicago/
-155. Duty Free Store | trust 0.0 | Duty Free Store is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/duty-free-store-chicago/
-156. Edible Arrangements | trust 0.0 | Edible Arrangements is a gift shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-countryside/
-157. Edible Arrangements | trust 0.0 | Edible Arrangements is a gift shop in Darien, IL. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-darien/
-158. Edible Arrangements | trust 0.0 | Edible Arrangements is a gift shop in Elmhurst, IL. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-elmhurst/
-159. Edible Arrangements | trust 0.0 | Edible Arrangements is a gift shop in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-mount-prospect/
-160. Exotic India Art | trust 0.0 | Exotic India Art is a gift shop in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/exotic-india-art-roseville/
-161. Fanatics by Lids | trust 0.0 | Fanatics by Lids is a gift shop in Albertville, MN. | https://dingalinged-cpu.github.io/registry/c/fanatics-by-lids-albertville/
-162. Fantasy Gifts | trust 0.0 | Fantasy Gifts is a gift shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/fantasy-gifts-saint-paul/
-163. Frivolous | trust 0.0 | Frivolous is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/frivolous-fort-snelling-unorganized-territory/
-164. Gathered Boutique & Workshop | trust 0.0 | Gathered Boutique & Workshop is a gift shop in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/gathered-boutique-and-workshop-mount-prospect/
-165. General Store of Minnetonka | trust 0.0 | General Store of Minnetonka is a gift shop in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/general-store-of-minnetonka-minnetonka/
-166. Glacier Gifts | trust 0.0 | Glacier Gifts is a gift shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/glacier-gifts-saint-paul/
-167. Hallmark | trust 0.0 | Hallmark is a gift shop in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/hallmark-arlington-heights/
-168. Hallmark | trust 0.0 | Hallmark is a gift shop in Carol Stream, IL. | https://dingalinged-cpu.github.io/registry/c/hallmark-carol-stream/
-169. Hallmark | trust 0.0 | Hallmark is a gift shop in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/hallmark-downers-grove/
-170. Hallmark | trust 0.0 | Hallmark is a gift shop in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/hallmark-la-grange/
-171. Hallmark | trust 0.0 | Hallmark is a gift shop in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/hallmark-orland-hills/
-172. Hallmark | trust 0.0 | Hallmark is a gift shop in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/hallmark-vernon-hills/
-173. Hinsdale News Agency | trust 0.0 | Hinsdale News Agency is a gift shop in Hinsdale, IL. | https://dingalinged-cpu.github.io/registry/c/hinsdale-news-agency-hinsdale/
-174. Hjem Home wares and gifts | trust 0.0 | Hjem Home wares and gifts is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/hjem-home-wares-and-gifts-fort-snelling-unorganized-territory/
-175. I Love Chicago | trust 0.0 | I Love Chicago is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/i-love-chicago-chicago-n11218702122/
-176. Inspired Life + Art | trust 0.0 | Inspired Life + Art is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/inspired-life-art-fort-snelling-unorganized-territory/
-177. Lakeshore Landing | trust 0.0 | Lakeshore Landing is a gift shop in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/lakeshore-landing-shakopee/
-178. Local Marketplace | trust 0.0 | Local Marketplace is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/local-marketplace-fort-snelling-unorganized-territory/
-179. Lolli and Pops | trust 0.0 | Lolli and Pops is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/lolli-and-pops-fort-snelling-unorganized-territory/
-180. Loring Park Essentials | trust 0.0 | Loring Park Essentials is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/loring-park-essentials-fort-snelling-unorganized-territory/
-181. Making History | trust 0.0 | Making History is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/making-history-chicago/
-182. Minnesota State of Nice | trust 0.0 | Minnesota State of Nice is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/minnesota-state-of-nice-fort-snelling-unorganized-territory/
-183. MSP Duty Free | trust 0.0 | MSP Duty Free is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/msp-duty-free-fort-snelling-unorganized-territory/
-184. MSP Duty Free | trust 0.0 | MSP Duty Free is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/msp-duty-free-fort-snelling-unorganized-territory-n6387495095/
-185. North Outpost | trust 0.0 | North Outpost is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/north-outpost-brookfield/
-186. Owl and Lark | trust 0.0 | Owl and Lark is a gift shop in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/owl-and-lark-rogers/
-187. Plaza Shopper | trust 0.0 | Plaza Shopper is a gift shop in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/plaza-shopper-shakopee/
-188. Prince | trust 0.0 | Prince is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/prince-fort-snelling-unorganized-territory/
-189. Red Barn | trust 0.0 | Red Barn is a gift shop in Andover, MN. | https://dingalinged-cpu.github.io/registry/c/red-barn-andover/
-190. Rise Up | trust 0.0 | Rise Up is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/rise-up-chicago/
-191. Seven Seas Gift Shop | trust 0.0 | Seven Seas Gift Shop is a gift shop in Riverside, IL. | https://dingalinged-cpu.github.io/registry/c/seven-seas-gift-shop-riverside/
-192. Snoopy Boutique | trust 0.0 | Snoopy Boutique is a gift shop in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/snoopy-boutique-shakopee/
-193. Spencer's | trust 0.0 | Spencer's is a gift shop in Chicago Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/spencers-chicago-ridge/
-194. Spencer's | trust 0.0 | Spencer's is a gift shop in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/spencers-maplewood/
-195. Spencer's | trust 0.0 | Spencer's is a gift shop in Norridge, IL. | https://dingalinged-cpu.github.io/registry/c/spencers-norridge/
-196. Spencer's | trust 0.0 | Spencer's is a gift shop in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/spencers-orland-park/
-197. Splashdown Supplies | trust 0.0 | Splashdown Supplies is a gift shop in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/splashdown-supplies-shakopee/
-198. State Street Souvenirs | trust 0.0 | State Street Souvenirs is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/state-street-souvenirs-chicago/
-199. Stony Hill Gifts and Home Decor | trust 0.0 | Stony Hill Gifts and Home Decor is a gift shop in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/stony-hill-gifts-and-home-decor-rogers/
-200. Tax And Duty Free | trust 0.0 | Tax And Duty Free is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/tax-and-duty-free-chicago/
-201. The Atrium | trust 0.0 | The Atrium is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-atrium-chicago/
-202. The Garden Shop | trust 0.0 | The Garden Shop is a gift shop in New Trier Township, IL. | https://dingalinged-cpu.github.io/registry/c/the-garden-shop-new-trier-township/
-203. The North Merchantile | trust 0.0 | The North Merchantile is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/the-north-merchantile-fort-snelling-unorganized-territory/
-204. Things Remembered | trust 0.0 | Things Remembered is a gift shop in Chicago Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/things-remembered-chicago-ridge/
-205. Things Remembered | trust 0.0 | Things Remembered is a gift shop in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/things-remembered-orland-park/
-206. Treasures Galore on 94 | trust 0.0 | Treasures Galore on 94 is a gift shop in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/treasures-galore-on-94-rogers/
-207. Tumi | trust 0.0 | Tumi is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/tumi-fort-snelling-unorganized-territory/
-208. Tân-Thanh Gift Shop | trust 0.0 | Tân-Thanh Gift Shop is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/t-n-thanh-gift-shop-chicago/
-209. Wild Gifts | trust 0.0 | Wild Gifts is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/wild-gifts-chicago/
-210. Wild Things gift shop | trust 0.0 | Wild Things gift shop is a gift shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/wild-things-gift-shop-chicago/
-211. Wildlife Trading Post | trust 0.0 | Wildlife Trading Post is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/wildlife-trading-post-brookfield/
-212. Woof-Field Gifts | trust 0.0 | Woof-Field Gifts is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/woof-field-gifts-brookfield/
-213. Words | trust 0.0 | Words is a gift shop in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/words-fort-snelling-unorganized-territory/
-214. Yankee Peddler | trust 0.0 | Yankee Peddler is a gift shop in Hinsdale, IL. | https://dingalinged-cpu.github.io/registry/c/yankee-peddler-hinsdale/
-215. Your Turn | trust 0.0 | Your Turn is a gift shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/your-turn-saint-paul/
+2. Atypic Gallery | trust 20.0 | Atypic Gallery is a gift shop in Bayside, WI at 333 West Brown Deer Road #E, Bayside, WI 53217. Phone: +14143510333. Website: https://www.atypicgallery.com/. | https://dingalinged-cpu.github.io/registry/c/atypic-gallery-bayside/
+3. boreal | trust 20.0 | boreal is a gift shop in Saint Paul, MN at 2276 Como Avenue, Saint Paul, MN 55108. Phone: +16515609900. Website: https://boreal.life/. | https://dingalinged-cpu.github.io/registry/c/boreal-saint-paul/
+4. Celtica Gifts | trust 20.0 | Celtica Gifts is a gift shop in Chicago, IL at 1940 West Montrose Avenue, Chicago, IL 60613. Phone: +17737847712. Website: https://www.celticagifts.com/. | https://dingalinged-cpu.github.io/registry/c/celtica-gifts-chicago/
+5. Edible Arrangements | trust 20.0 | Edible Arrangements is a gift shop in Maple Grove, MN at 13712 Grove Drive North, Maple Grove, MN 55311. Phone: +17634203115. Website: https://www.ediblearrangements.com/. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-maple-grove/
+6. Edible Arrangements | trust 20.0 | Edible Arrangements is a gift shop in Milwaukee, WI at 722 North Water Street, Milwaukee, WI 53202. Phone: +14142250300. Website: https://www.ediblearrangements.com/stores/722-N-Water-St-Milwaukee-WI-53202. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-milwaukee/
+7. Edible Arrangements | trust 20.0 | Edible Arrangements is a gift shop in Roseville, MN at 1747 Lexington Avenue North, Roseville, MN 55113. Phone: +16514884500. Website: https://www.ediblearrangements.com/stores/1747-lexington-ave-n-roseville-mn-55113. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-roseville/
+8. Express Gifts | trust 20.0 | Express Gifts is a gift shop in Arlington Heights, IL at 2300 East Rand Road, Arlington Heights, IL 60004. Phone: +18477881000. Website: https://expressgiftsil.com/. | https://dingalinged-cpu.github.io/registry/c/express-gifts-arlington-heights/
+9. Fiora Fine Crafts Gallery | trust 20.0 | Fiora Fine Crafts Gallery is a gift shop in Spring, TX at 134 Main Street, Spring, TX 77373. Phone: +12814675063. Website: https://fiorafinecraftsgallery.com/. | https://dingalinged-cpu.github.io/registry/c/fiora-fine-crafts-gallery-spring/
+10. Gnome Sweet Gnome | trust 20.0 | Gnome Sweet Gnome is a gift shop in Houston, TX at 16 North Main Street, Houston, TX 77339. Phone: +12815704713. Website: https://gnomegiftshop.com/. | https://dingalinged-cpu.github.io/registry/c/gnome-sweet-gnome-houston/
+11. Griff's Gifts | trust 20.0 | Griff's Gifts is a gift shop in Keller, TX at 2122 Rufe Snow Drive, Keller, TX 76248. Phone: +18173933335. Website: https://griffsgiftshop.com/. | https://dingalinged-cpu.github.io/registry/c/griffs-gifts-keller/
+12. Gypsy Moon | trust 20.0 | Gypsy Moon is a gift shop in Saint Paul, MN at 1887 Randolph Avenue, Saint Paul, MN 55105. Phone: +16516999531. Website: https://gypsymoonstpaul.com/. | https://dingalinged-cpu.github.io/registry/c/gypsy-moon-saint-paul/
+13. Hallmark | trust 20.0 | Hallmark is a gift shop in Eagan, MN at 1283 Promenade Place #5, Eagan, MN 55121. Phone: +16516818424. Website: https://stores.hallmark.com/mn/eagan/jaynes-hallmark-shop-eagan-mn-062975.html. | https://dingalinged-cpu.github.io/registry/c/hallmark-eagan/
+14. Hallmark | trust 20.0 | Hallmark is a gift shop in Homer Glen, IL at 14154 South Bell Road, Homer Glen, IL 60491. Phone: +17083013402. Website: https://stores.hallmark.com/il/homerglen/amys-hallmark-shop-homerglen-il-061762.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local. | https://dingalinged-cpu.github.io/registry/c/hallmark-homer-glen/
+15. Hallmark | trust 20.0 | Hallmark is a gift shop in Hurst, TX at 1404 West Pipeline Road, Hurst, TX 76053. Phone: +18175908996. Website: https://stores.hallmark.com/tx/hurst/amys-hallmark-shop-hurst-tx-067679.html. | https://dingalinged-cpu.github.io/registry/c/hallmark-hurst/
+16. Hallmark | trust 20.0 | Hallmark is a gift shop in Sachse, TX at 5120 State Highway 78 #900, Sachse, TX 75048. Phone: +19725303311. Website: https://stores.hallmark.com/tx/sachse/trudys-hallmark-shop-sachse-tx-019422.html. | https://dingalinged-cpu.github.io/registry/c/hallmark-sachse/
+17. Heart Cru Boutique | trust 20.0 | Heart Cru Boutique is a gift shop in Missouri City, TX at 3340 Murphy Road #140, Missouri City, TX 77459. Phone: +12819697605. Website: https://heartcru.com/. | https://dingalinged-cpu.github.io/registry/c/heart-cru-boutique-missouri-city/
+18. Jade & Clover | trust 20.0 | Jade & Clover is a gift shop in Dallas, TX at 2633 Main Street #150, Dallas, TX 75226. Phone: +14697302264. Website: https://jadeandclover.com/. | https://dingalinged-cpu.github.io/registry/c/jade-and-clover-dallas/
+19. Lillstreet Gallery & Artisan Gift Shop | trust 20.0 | Lillstreet Gallery & Artisan Gift Shop is a gift shop in Chicago, IL at 4401 North Ravenswood Avenue, Chicago, IL 60640. Phone: +17737694226. Website: https://lillstreetgallery.com/. | https://dingalinged-cpu.github.io/registry/c/lillstreet-gallery-and-artisan-gift-shop-chicago/
+20. Lone Chimney Mercantile | trust 20.0 | Lone Chimney Mercantile is a gift shop in Richardson, TX at 205 West Main Street, Richardson, TX 75081. Phone: +12147348691. Website: https://www.lonechimneymercantile.com/. | https://dingalinged-cpu.github.io/registry/c/lone-chimney-mercantile-richardson/
+21. Lotus Lake Gifts & Decor | trust 20.0 | Lotus Lake Gifts & Decor is a gift shop in Chanhassen, MN at 412 West 78th Street, Chanhassen, MN 55317. Phone: +19529343485. Website: https://lotuslakegifts.com/. | https://dingalinged-cpu.github.io/registry/c/lotus-lake-gifts-and-decor-chanhassen/
+22. Nona Jo's | trust 20.0 | Nona Jo's is a gift shop in Naperville, IL at 410 West 5th Avenue, Naperville, IL 60563. Phone: +16303554488. Website: https://www.nonajos.com/. | https://dingalinged-cpu.github.io/registry/c/nona-jos-naperville/
+23. O'Malley's European Foods | trust 20.0 | O'Malley's European Foods is a gift shop in Milwaukee, WI at 5423 West Vliet Street, Milwaukee, WI 53208. Phone: +14146627175. Website: https://omalleyseuropeanfoods.com/. | https://dingalinged-cpu.github.io/registry/c/omalleys-european-foods-milwaukee/
+24. Paperish Mess | trust 20.0 | Paperish Mess is a gift shop in Chicago, IL at 1945 West Chicago Avenue, Chicago, IL 60622. Phone: +13122651497. Website: https://www.paperishmess.com/. | https://dingalinged-cpu.github.io/registry/c/paperish-mess-chicago/
+25. Patina | trust 20.0 | Patina is a gift shop in Minneapolis, MN at 821 West 50th Street, Minneapolis, MN 55419. Phone: +16128219315. Website: https://www.patinastores.com/locations/south-mpls.php. | https://dingalinged-cpu.github.io/registry/c/patina-minneapolis/
+26. Rogers Park Provisions | trust 20.0 | Rogers Park Provisions is a gift shop in Chicago, IL at 6928 North Glenwood Avenue, Chicago, IL 60626. Phone: +17739995943. Website: https://provisionschicago.square.site/. | https://dingalinged-cpu.github.io/registry/c/rogers-park-provisions-chicago/
+27. SaraBoo Creek | trust 20.0 | SaraBoo Creek is a gift shop in Naperville, IL at 107 West Jefferson Avenue, Naperville, IL 60540. Phone: +16304283671. Website: https://saraboocreek.com/downtown-naperville. | https://dingalinged-cpu.github.io/registry/c/saraboo-creek-naperville/
+28. Shea's Random Treasures | trust 20.0 | Shea's Random Treasures is a gift shop in Spring, TX at 318 Main Street #B, Spring, TX 77373. Phone: +15127872910. Website: https://sheas-random-treasures.square.site/. | https://dingalinged-cpu.github.io/registry/c/sheas-random-treasures-spring/
+29. Spirit Quest Center | trust 20.0 | Spirit Quest Center is a gift shop in Spring, TX at 303 Main Street, Spring, TX 77373. Phone: +12812887815. Website: https://www.thespiritquestcenter.com/. | https://dingalinged-cpu.github.io/registry/c/spirit-quest-center-spring/
+30. Swoon | trust 20.0 | Swoon is a gift shop in Milwaukee, WI at 5422 West Vliet Street, Milwaukee, WI 53208. Phone: +14142049579. Website: https://www.swoonllc.com/. | https://dingalinged-cpu.github.io/registry/c/swoon-milwaukee/
+31. The Shop | trust 20.0 | The Shop is a gift shop in Milwaukee, WI at 401 West Canal Street, Milwaukee, WI 53203. Phone: +14142872770. Website: https://www.harley-davidson.com/us/en/museum/shop.html. | https://dingalinged-cpu.github.io/registry/c/the-shop-milwaukee/
+32. The Sleeping Lizard | trust 20.0 | The Sleeping Lizard is a gift shop in Denton, TX at 424 North Elm Street, Denton, TX 76201. Phone: +19404844056. Website: https://www.sleepinglizzard.com/. | https://dingalinged-cpu.github.io/registry/c/the-sleeping-lizard-denton/
+33. Urban Milwaukee | trust 20.0 | Urban Milwaukee is a gift shop in Milwaukee, WI at 755 North Milwaukee Street, Milwaukee, WI 53202. Phone: +14143950632. Website: https://urbanmilwaukeethestore.com/. | https://dingalinged-cpu.github.io/registry/c/urban-milwaukee-milwaukee/
+34. Yuyu | trust 20.0 | Yuyu is a gift shop in Dallas, TX at 369 West Jefferson Boulevard, Dallas, TX 75208. Phone: +12147339705. Website: https://yuyuculturalshop.com/. | https://dingalinged-cpu.github.io/registry/c/yuyu-dallas/
+35. Edible Arrangements | trust 19.0 | Edible Arrangements is a gift shop in Minneapolis, MN at 108 South 8th Street #103, Minneapolis, MN. Phone: +16124361152. Website: https://www.ediblearrangements.com/stores/108-8th-street-south-suite-103-minneapolis-mn-55402. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-minneapolis/
+36. Pretty Please Boutique & Gifts | trust 19.0 | Pretty Please Boutique & Gifts is a gift shop in Hedwig Village, TX at 8791 Katy Freeway, Hedwig Village, TX. Phone: +17134680933. Website: https://prettypleasehouston.com/. | https://dingalinged-cpu.github.io/registry/c/pretty-please-boutique-and-gifts-hedwig-village/
+37. ДЕЛЬТА | trust 19.0 | ДЕЛЬТА is a gift shop in Chicago, IL at 2242 West Chicago Avenue, Chicago, IL. Phone: +17732357788. Website: https://delta-ukrainian.com/. | https://dingalinged-cpu.github.io/registry/c/osm-n12645958901-chicago/
+38. 14 Hill | trust 16.0 | 14 Hill is a gift shop in Minneapolis, MN at 4737 Chicago Avenue South #Suite 2, Minneapolis, MN 55407. Phone: +16128247774. Website: https://www.14hill.com/. | https://dingalinged-cpu.github.io/registry/c/14-hill-minneapolis/
+39. Best Place Gift Shop | trust 16.0 | Best Place Gift Shop is a gift shop in Milwaukee, WI. Phone: +14142234709. Website: https://bestplacemilwaukee.com/index.php/shop. | https://dingalinged-cpu.github.io/registry/c/best-place-gift-shop-milwaukee/
+40. BoxLunch | trust 16.0 | BoxLunch is a gift shop in Wauwatosa, WI. Phone: +14147780904. Website: https://www.boxlunch.com/stores-details?StoreId=4534. | https://dingalinged-cpu.github.io/registry/c/boxlunch-wauwatosa/
+41. Bronzeville Collective | trust 16.0 | Bronzeville Collective is a gift shop in Milwaukee, WI at 2236 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14142532490. Website: https://www.bronzevillecollective.com/. | https://dingalinged-cpu.github.io/registry/c/bronzeville-collective-milwaukee/
+42. Edible Arrangements | trust 16.0 | Edible Arrangements is a gift shop in Dallas, TX. Phone: +12143618600. Website: https://www.ediblearrangements.com/stores/10455-n-central-expy-ste-103-dallas-tx-75231. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-dallas-n13252351571/
+43. Edible Arrangements | trust 16.0 | Edible Arrangements is a gift shop in Spring, TX at 2174 Spring Stuebner Road #Suite 330, Spring, TX 77389. Phone: +12812886666. Website: https://www.ediblearrangements.com/stores/2174-spring-stuebner-spring-tx-77388. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-spring/
+44. Eglomise Designs | trust 16.0 | Eglomise Designs is a gift shop in Saint Louis Park, MN at 5701 36th Street West, Saint Louis Park, MN 55416. Phone: +18004438987. Website: https://eglomisedesigns.com/. | https://dingalinged-cpu.github.io/registry/c/eglomise-designs-saint-louis-park/
+45. Goldy's Locker Room | trust 16.0 | Goldy's Locker Room is a gift shop in Minneapolis, MN at 714 Southeast Washington Avenue ##106B, Minneapolis, MN 55414. Phone: +16123313009. Website: https://www.mygophersports.com/. | https://dingalinged-cpu.github.io/registry/c/goldys-locker-room-minneapolis/
+46. GoodThings | trust 16.0 | GoodThings is a gift shop in Saint Paul, MN at 1082 Grand Avenue, Saint Paul, MN 55105. Phone: +16512220321. Website: https://shopgoodthings.com/bibelot-goodthings-grand-avenue/. | https://dingalinged-cpu.github.io/registry/c/goodthings-saint-paul/
+47. Hallmark | trust 16.0 | Hallmark is a gift shop in Oak Lawn, IL at 10730 South Cicero Avenue #5, Oak Lawn, IL 60453. Phone: +17084250552. Website: https://stores.hallmark.com/il/oaklawn/katies-hallmark-shop-oaklawn-il-011166.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local. | https://dingalinged-cpu.github.io/registry/c/hallmark-oak-lawn/
+48. Heart's Desire | trust 16.0 | Heart's Desire is a gift shop in Frisco, TX at 4760 Preston Road #200, Frisco, TX 75034. Phone: +19723351800. Website: https://heartsdesirefrisco.business.site/. | https://dingalinged-cpu.github.io/registry/c/hearts-desire-frisco/
+49. I like you too | trust 16.0 | I like you too is a gift shop in Saint Paul, MN at 416 Snelling Avenue South, Saint Paul, MN 55105. Phone: +16513409710. Website: https://i-like-you-minneapolis.myshopify.com/. | https://dingalinged-cpu.github.io/registry/c/i-like-you-too-saint-paul/
+50. Ingebretsen's Scandinavian Gifts & Foods | trust 16.0 | Ingebretsen's Scandinavian Gifts & Foods is a gift shop in Minneapolis, MN at 1601 East Lake Street, Minneapolis, MN 55407. Phone: +16127299333. Website: https://www.ingebretsens.com/. | https://dingalinged-cpu.github.io/registry/c/ingebretsens-scandinavian-gifts-and-foods-minneapolis/
+
+## More gift shop listings (466 total; top 50 unpaid shown)
+- Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/gift-shop.jsonl
+- Houston, TX: 62 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-houston-tx/
+- Chicago, IL: 60 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-chicago-il/
+- Grapevine, TX: 23 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-grapevine-tx/
+- Arlington, TX: 21 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-arlington-tx/
+- Minneapolis, MN: 20 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-minneapolis-mn/
+- The Woodlands, TX: 19 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-the-woodlands-tx/
+- Saint Paul, MN: 16 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-saint-paul-mn/
+- Bloomington, MN: 15 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-bloomington-mn/
+- Fort Snelling Unorganized Territory, MN: 14 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-fort-snelling-unorganized-territory-mn/
+- Dallas, TX: 13 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-dallas-tx/
+- Milwaukee, WI: 13 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-milwaukee-wi/
+- Harris County, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-harris-county-tx/
+- Frisco, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-frisco-tx/
+- Brookfield, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-brookfield-il/
+- Plano, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-plano-tx/
+- Roseville, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-roseville-mn/
+- Shakopee, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-shakopee-mn/
+- Evanston, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-evanston-il/
+- Wauwatosa, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-wauwatosa-wi/
+- Cedarburg, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-cedarburg-wi/
+- Racine, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-racine-wi/
+- Sugar Land, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-sugar-land-tx/
+- Richardson, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-richardson-tx/
+- Edina, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-edina-mn/
+- Excelsior, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-excelsior-mn/
+- Rogers, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-rogers-mn/
+- Mount Prospect, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-mount-prospect-il/
+- Orland Park, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-orland-park-il/
+- Naperville, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-naperville-il/
+- Denton, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-denton-tx/
+- Garland, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-garland-tx/
+- University Park, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-university-park-tx/
+- Kaufman, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-kaufman-tx/
+- Humble, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-humble-tx/
+- Lewisville, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-lewisville-tx/
+- Webster, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-webster-tx/
+- Southlake, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-southlake-tx/
+- Falcon Heights, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-falcon-heights-mn/
+- Lombard, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-lombard-il/
+- Darien, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-darien-il/
+- Long Grove, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-long-grove-il/
+- Arlington Heights, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-arlington-heights-il/
+- Downers Grove, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-downers-grove-il/
+- Hinsdale, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-hinsdale-il/
+- Chicago Ridge, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-chicago-ridge-il/
+- Tomball, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-tomball-tx/
+- Fulshear, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-fulshear-tx/
+- Texas City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-texas-city-tx/
+- Fairview, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-fairview-tx/
+- Farmers Branch, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-farmers-branch-tx/
+- Flower Mound, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-flower-mound-tx/
+- Mansfield, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-mansfield-tx/
+- Stafford, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-stafford-tx/
+- Fort Bend County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-fort-bend-county-tx/
+- Keller, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-keller-tx/
+- Carrollton, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-carrollton-tx/
+- Conroe, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-conroe-tx/
+- Corinth, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-corinth-tx/
+- Hurst, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-hurst-tx/
+- League City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-league-city-tx/
+- Pasadena, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-pasadena-tx/
+- Pearland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-pearland-tx/
+- Sachse, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-sachse-tx/
+- Missouri City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-missouri-city-tx/
+- Katy, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-katy-tx/
+- Bellaire, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-bellaire-tx/
+- Hedwig Village, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-hedwig-village-tx/
+- Rockwall, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-rockwall-tx/
+- Rosenberg, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-rosenberg-tx/
+- Allen, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-allen-tx/
+- Irving, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-irving-tx/
+- Wylie, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-wylie-tx/
+- Montgomery County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-montgomery-county-tx/
+- North Richland Hills, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-north-richland-hills-tx/
+- Cedar Hill, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-cedar-hill-tx/
+- Brooklyn Park, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-brooklyn-park-mn/
+- Maple Grove, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-maple-grove-mn/
+- Saint Louis Park, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-saint-louis-park-mn/
+- Albertville, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-albertville-mn/
+- Minnetonka, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-minnetonka-mn/
+- Mound, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-mound-mn/
+- Eagan, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-eagan-mn/
+- Chanhassen, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-chanhassen-mn/
+- Robbinsdale, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-robbinsdale-mn/
+- Andover, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-andover-mn/
+- Maplewood, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-maplewood-mn/
+- Barrington, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-barrington-il/
+- Glenview, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-glenview-il/
+- Lisle, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-lisle-il/
+- Calumet Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-calumet-park-il/
+- Countryside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-countryside-il/
+- Elmhurst, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-elmhurst-il/
+- Evergreen Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-evergreen-park-il/
+- Homewood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-homewood-il/
+- Niles, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-niles-il/
+- Oak Forest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-oak-forest-il/
+- Riverwoods, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-riverwoods-il/
+- Skokie, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-skokie-il/
+- Carol Stream, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-carol-stream-il/
+- Homer Glen, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-homer-glen-il/
+- La Grange, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-la-grange-il/
+- Oak Lawn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-oak-lawn-il/
+- Orland Hills, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-orland-hills-il/
+- Park Ridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-park-ridge-il/
+- River Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-river-grove-il/
+- Vernon Hills, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-vernon-hills-il/
+- Wauconda, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-wauconda-il/
+- Bloomingdale, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-bloomingdale-il/
+- Riverside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-riverside-il/
+- Norridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-norridge-il/
+- North Riverside, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-north-riverside-il/
+- New Trier Township, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-new-trier-township-il/
+- Flossmoor, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-flossmoor-il/
+- Bayside, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-bayside-wi/
+- Yorkville, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-yorkville-wi/
+- Burlington, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-burlington-wi/
+- Town Of Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-town-of-brookfield-wi/
+- Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-brookfield-wi/
+- Franklin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-franklin-wi/
+- Mequon, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-mequon-wi/
+- Mount Pleasant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-mount-pleasant-wi/
+- New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-new-berlin-wi/
+- Waukesha, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-waukesha-wi/
+- West Bend, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-west-bend-wi/
+- Greenfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-greenfield-wi/
+- Greendale, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-greendale-wi/
+- Menomonee Falls, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-menomonee-falls-wi/
+- Whiting, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/gift-shop-whiting-in/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
-- US monthly searches: 18,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 9,900-33,000)
+- US monthly searches: 18,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 9,900-33,000)
 - CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 215
+- Registry businesses competing: 466
 - Equivalent Google Ads cost per month: ~$6,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gift-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gift-shop | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gift-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gift-shop | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Integrative Massage Edina is a massage studio in Edina, MN at 4820 West 77th Str
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/integrative-massage-edina-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/integrative-massage-edina-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13006819700 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Meraki Hair Lounge is a hair salon in Minneapolis, MN at 837 Glenwood Avenue, Mi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/meraki-hair-lounge-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/meraki-hair-lounge-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/987582604 (license ODbL-1.0); source data as of 2026-06-01

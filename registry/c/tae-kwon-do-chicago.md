@@ -15,7 +15,7 @@ Tae Kwon Do is a martial arts school in Chicago, IL at 6344 West Gunnison Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tae-kwon-do-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tae-kwon-do-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4517784416 (license ODbL-1.0); source data as of 2026-07-28

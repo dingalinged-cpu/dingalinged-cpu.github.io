@@ -15,7 +15,7 @@ Body Tech Total Fitness is a gym in Joliet, IL at 3585 Hennepin Drive, Joliet, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/body-tech-total-fitness-joliet/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/body-tech-total-fitness-joliet.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/655493661 (license ODbL-1.0); source data as of 2026-06-01

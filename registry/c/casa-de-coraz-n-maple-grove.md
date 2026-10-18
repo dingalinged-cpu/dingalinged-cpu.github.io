@@ -15,7 +15,7 @@ Casa de Corazón is a preschool in Maple Grove, MN at 8351 Elm Creek Boulevard, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/casa-de-coraz-n-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/casa-de-coraz-n-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/606991669 (license ODbL-1.0); source data as of 2026-07-24

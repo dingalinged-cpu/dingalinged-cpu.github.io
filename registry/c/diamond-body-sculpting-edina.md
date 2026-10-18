@@ -15,7 +15,7 @@ Diamond Body Sculpting is a gym in Edina, MN at 3801 West 50th Street #Suite 150
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/diamond-body-sculpting-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/diamond-body-sculpting-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12138867433 (license ODbL-1.0); source data as of 2026-07-15

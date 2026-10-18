@@ -15,7 +15,7 @@ Tony's Auto Repair is an auto repair shop in Markham, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tonys-auto-repair-markham/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tonys-auto-repair-markham.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7518739634 (license ODbL-1.0); source data as of 2026-06-01

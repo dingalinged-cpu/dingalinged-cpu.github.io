@@ -15,7 +15,7 @@ Bolingbrook Glass & Mirror is a window repair service in Bolingbrook, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bolingbrook-glass-and-mirror-bolingbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bolingbrook-glass-and-mirror-bolingbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/369389017 (license ODbL-1.0); source data as of 2026-06-01

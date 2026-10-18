@@ -1,0 +1,180 @@
+{
+ "place": "Oak Ridge North, TX",
+ "slug": "oak-ridge-north-tx",
+ "count": 5,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "dry cleaners oak ridge north tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-oak-ridge-north-tx.json"
+  },
+  {
+   "keyword": "financial advisor oak ridge north tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-oak-ridge-north-tx.json"
+  },
+  {
+   "keyword": "furniture store oak ridge north tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-oak-ridge-north-tx.json"
+  },
+  {
+   "keyword": "insurance agency oak ridge north tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-oak-ridge-north-tx.json"
+  },
+  {
+   "keyword": "insurance agent oak ridge north tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-oak-ridge-north-tx.json"
+  },
+  {
+   "keyword": "insurance agents oak ridge north tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-oak-ridge-north-tx.json"
+  },
+  {
+   "keyword": "vet oak ridge north tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-oak-ridge-north-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "oak-ridge-animal-clinic-oak-ridge-north",
+   "name": "Oak Ridge Animal Clinic",
+   "summary": "Oak Ridge Animal Clinic is a veterinarian in Oak Ridge North, TX at 26446 Interstate 45 North Frontage Road, Oak Ridge North, TX 77386.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oak-ridge-animal-clinic-oak-ridge-north/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oak-ridge-animal-clinic-oak-ridge-north.json",
+   "address": {
+    "streetAddress": "26446 Interstate 45 North Frontage Road",
+    "addressLocality": "Oak Ridge North",
+    "addressRegion": "TX",
+    "postalCode": "77386",
+    "addressCountry": "US"
+   },
+   "city": "Oak Ridge North",
+   "state": "TX",
+   "zip": "77386",
+   "geo": {
+    "lat": 30.1476071,
+    "lon": -95.4464234
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11698621878",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aaa-insurance-oak-ridge-north",
+   "name": "AAA Insurance",
+   "summary": "AAA Insurance is an insurance agent in Oak Ridge North, TX.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aaa-insurance-oak-ridge-north/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aaa-insurance-oak-ridge-north.json",
+   "address": {
+    "addressLocality": "Oak Ridge North",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Oak Ridge North",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1638153,
+    "lon": -95.4493326
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6747298374",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "andys-cleaners-oak-ridge-north",
+   "name": "Andy's Cleaners",
+   "summary": "Andy's Cleaners is a dry cleaner in Oak Ridge North, TX.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/andys-cleaners-oak-ridge-north/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/andys-cleaners-oak-ridge-north.json",
+   "address": {
+    "addressLocality": "Oak Ridge North",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Oak Ridge North",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1560843,
+    "lon": -95.4336576
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13717390461",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-oak-ridge-north",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Oak Ridge North, TX.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-oak-ridge-north/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-oak-ridge-north.json",
+   "address": {
+    "addressLocality": "Oak Ridge North",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Oak Ridge North",
+   "state": "TX",
+   "geo": {
+    "lat": 30.1639359,
+    "lon": -95.4493433
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6747298373",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rooms-to-go-oak-ridge-north",
+   "name": "Rooms To Go",
+   "summary": "Rooms To Go is a furniture store in Oak Ridge North, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rooms-to-go-oak-ridge-north/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rooms-to-go-oak-ridge-north.json",
+   "address": {
+    "addressLocality": "Oak Ridge North",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Oak Ridge North",
+   "state": "TX",
+   "geo": {
+    "lat": 30.150446,
+    "lon": -95.446927
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3236915388",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+Cedar & Chest is a thrift store in Pearland, TX at 6063 West Broadway Street, Pearland, TX.
+
+# Cedar & Chest
+
+- Category: thrift store
+- Services: thrift store
+- Address: 6063 West Broadway Street, Pearland, TX
+- City: Pearland
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.5603566, -95.3132919
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/cedar-and-chest-pearland/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cedar-and-chest-pearland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12023733192 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

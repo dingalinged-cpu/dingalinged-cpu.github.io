@@ -15,7 +15,7 @@ Prairie Path Cycles is a bike shop in Winfield, IL at 27W181 Geneva #Road, Winfi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/prairie-path-cycles-winfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/prairie-path-cycles-winfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1790782092 (license ODbL-1.0); source data as of 2026-06-01

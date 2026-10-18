@@ -15,7 +15,7 @@ BP is a car wash in Evergreen Park, IL at 9816 South Kedzie Avenue, Evergreen Pa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bp-evergreen-park-w1232829017/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bp-evergreen-park-w1232829017.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1232829017 (license ODbL-1.0); source data as of 2026-07-28

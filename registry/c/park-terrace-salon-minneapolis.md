@@ -15,7 +15,7 @@ park terrace salon is a hair salon in Minneapolis, MN at 4358 Zenith Avenue Sout
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/park-terrace-salon-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/park-terrace-salon-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12171075668 (license ODbL-1.0); source data as of 2026-06-01

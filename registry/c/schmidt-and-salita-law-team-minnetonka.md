@@ -15,7 +15,7 @@ Schmidt & Salita Law Team is a lawyer in Minnetonka, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/schmidt-and-salita-law-team-minnetonka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/schmidt-and-salita-law-team-minnetonka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1478703251 (license ODbL-1.0); source data as of 2026-05-31

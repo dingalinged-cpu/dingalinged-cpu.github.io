@@ -15,7 +15,7 @@ Clover Cleaners is a dry cleaner in Bloomington, MN at 9342 Ensign Avenue South,
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/clover-cleaners-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/clover-cleaners-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1188081621 (license ODbL-1.0); source data as of 2026-06-01

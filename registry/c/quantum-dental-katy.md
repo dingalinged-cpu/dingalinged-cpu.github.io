@@ -1,0 +1,23 @@
+Quantum Dental is a dentist in Katy, TX at 1989 North Fry Road, Katy, TX 77449. Phone: +12817178199.
+
+# Quantum Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 1989 North Fry Road, Katy, TX 77449
+- City: Katy
+- State: TX
+- ZIP: 77449
+- Coordinates: 29.795317, -95.7194974
+- Phone: +12817178199
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/quantum-dental-katy/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/quantum-dental-katy.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/429294202 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

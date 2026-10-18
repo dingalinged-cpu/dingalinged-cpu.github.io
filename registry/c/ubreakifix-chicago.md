@@ -15,7 +15,7 @@ uBreakiFix is a phone repair shop in Chicago, IL at 106 West Chicago Avenue, Chi
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ubreakifix-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12117588147 (license ODbL-1.0); source data as of 2026-06-01

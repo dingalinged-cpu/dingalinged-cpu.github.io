@@ -15,7 +15,7 @@ Pendleton Tax & Accounting is a tax preparation service in New Brighton, MN at 8
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pendleton-tax-and-accounting-new-brighton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pendleton-tax-and-accounting-new-brighton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12968439208 (license ODbL-1.0); source data as of 2026-05-31

@@ -15,7 +15,7 @@ CARE Counseling is a therapy practice in Minneapolis, MN at 204 West Franklin Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/care-counseling-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/care-counseling-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/119004467 (license ODbL-1.0); source data as of 2026-06-01

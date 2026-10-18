@@ -15,7 +15,7 @@ Allstate is an insurance agent in Morton Grove, IL at 7907 Golf Road, Morton Gro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-morton-grove-n8332266679/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-morton-grove-n8332266679.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8332266679 (license ODbL-1.0); source data as of 2026-07-28

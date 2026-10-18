@@ -1,0 +1,23 @@
+Supercuts is a hair salon in Humble, TX at 202 FM 1960 Bypass Road East #A2, Humble, TX 77338.
+
+# Supercuts
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 202 FM 1960 Bypass Road East #A2, Humble, TX 77338
+- City: Humble
+- State: TX
+- ZIP: 77338
+- Coordinates: 30.0041329, -95.2656946
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/supercuts-humble/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/supercuts-humble.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7801154729 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

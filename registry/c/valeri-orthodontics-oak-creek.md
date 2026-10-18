@@ -1,0 +1,23 @@
+Valeri Orthodontics is a dentist in Oak Creek, WI at 8880 South Howell Avenue #1100, Oak Creek, WI 53154. Phone: +14144360835. Website: https://valeriortho.com/valeri-orthodontics-oak-creek/.
+
+# Valeri Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 8880 South Howell Avenue #1100, Oak Creek, WI 53154
+- City: Oak Creek
+- State: WI
+- ZIP: 53154
+- Coordinates: 42.8833657, -87.9114784
+- Phone: +14144360835
+- Website: https://valeriortho.com/valeri-orthodontics-oak-creek/
+- Email: info@valeriortho.com
+- Opening hours (OSM syntax): mo 9:30-18:00, tu-we 8:30-17:00, Th 6:30-15:00, Fr 8:30-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/valeri-orthodontics-oak-creek/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/valeri-orthodontics-oak-creek.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1177920236 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

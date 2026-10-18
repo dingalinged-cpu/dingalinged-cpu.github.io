@@ -1,0 +1,23 @@
+Therapy OPS is an occupational therapist in Red Oak, TX at 200 North Interstate 35E #C, Red Oak, TX 75154. Phone: +14699170805. Website: https://therapyopstx.com/.
+
+# Therapy OPS
+
+- Category: occupational therapist
+- Services: occupational therapist
+- Address: 200 North Interstate 35E #C, Red Oak, TX 75154
+- City: Red Oak
+- State: TX
+- ZIP: 75154
+- Coordinates: 32.5234096, -96.821317
+- Phone: +14699170805
+- Website: https://therapyopstx.com/
+- Email: info@therapyopstx.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/therapy-ops-red-oak/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/therapy-ops-red-oak.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9892595574 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

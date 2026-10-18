@@ -15,7 +15,7 @@ Heeling Touch is a shoe repair in Maple Grove, MN at 13565 Grove Drive North, Ma
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/heeling-touch-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/heeling-touch-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5759711981 (license ODbL-1.0); source data as of 2026-06-01

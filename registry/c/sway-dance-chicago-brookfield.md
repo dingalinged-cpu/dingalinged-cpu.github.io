@@ -15,7 +15,7 @@ Sway Dance Chicago is a dance studio in Brookfield, IL at 9152 Broadway Avenue, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sway-dance-chicago-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sway-dance-chicago-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13577889272 (license ODbL-1.0); source data as of 2026-07-28

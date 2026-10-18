@@ -15,7 +15,7 @@ Lee's Championship Tae Kwon Do Academy is a martial arts school in Shoreview, MN
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lees-championship-tae-kwon-do-academy-shoreview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lees-championship-tae-kwon-do-academy-shoreview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3886994608 (license ODbL-1.0); source data as of 2026-07-24

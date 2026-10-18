@@ -15,7 +15,7 @@ Lucille Resale is a thrift store in Arlington Heights, IL at 1101 East Rand Road
 - Opening hours (OSM syntax): Th-Fr 10:00-19:00; Sa 10:00-17:00; Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lucille-resale-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lucille-resale-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12312867253 (license ODbL-1.0); source data as of 2026-06-01

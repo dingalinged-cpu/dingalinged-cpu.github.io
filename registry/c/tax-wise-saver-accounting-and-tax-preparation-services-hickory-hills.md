@@ -15,7 +15,7 @@ Tax Wise Saver Accounting & Tax Preparation Services is an accountant in Hickory
 - Opening hours (OSM syntax): Sa-Su CLOSED, Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tax-wise-saver-accounting-and-tax-preparation-services-hickory-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tax-wise-saver-accounting-and-tax-preparation-services-hickory-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13331197194 (license ODbL-1.0); source data as of 2026-07-28

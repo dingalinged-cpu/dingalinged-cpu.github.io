@@ -1,0 +1,23 @@
+Brake Check is an auto repair shop in Houston, TX at 5637 Southwest Freeway, Houston, TX.
+
+# Brake Check
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 5637 Southwest Freeway, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7251898, -95.4787563
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/brake-check-houston-w1244771788/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/brake-check-houston-w1244771788.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1244771788 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

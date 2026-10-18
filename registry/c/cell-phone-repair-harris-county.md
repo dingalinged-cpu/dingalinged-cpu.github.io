@@ -1,0 +1,23 @@
+Cell Phone Repair is a phone repair shop in Harris County, TX.
+
+# Cell Phone Repair
+
+- Category: phone repair
+- Services: phone repair
+- Address: Harris County, TX
+- City: Harris County
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9977631, -95.1777504
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-harris-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cell-phone-repair-harris-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13838088404 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

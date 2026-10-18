@@ -15,7 +15,7 @@ hush Therapeutic Massage is a massage studio in Mendota Heights, MN at 776, Mend
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hush-therapeutic-massage-mendota-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hush-therapeutic-massage-mendota-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12292318418 (license ODbL-1.0); source data as of 2026-06-01

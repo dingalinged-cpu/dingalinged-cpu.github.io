@@ -1,0 +1,23 @@
+Family Club Massage & Facial is a skin care studio in Plano, TX at 109 Legacy Drive #130, Plano, TX.
+
+# Family Club Massage & Facial
+
+- Category: facial
+- Services: facial
+- Address: 109 Legacy Drive #130, Plano, TX
+- City: Plano
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.0676014, -96.6919032
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/family-club-massage-and-facial-plano/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/family-club-massage-and-facial-plano.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13174324963 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

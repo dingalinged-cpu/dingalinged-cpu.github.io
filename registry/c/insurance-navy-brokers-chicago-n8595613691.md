@@ -15,7 +15,7 @@ Insurance Navy Brokers is an insurance agent in Chicago, IL at 2559 West North A
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-chicago-n8595613691/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-chicago-n8595613691.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8595613691 (license ODbL-1.0); source data as of 2026-07-28

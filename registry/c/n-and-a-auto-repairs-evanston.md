@@ -15,7 +15,7 @@ N&A Auto Repairs is an auto repair shop in Evanston, IL at 1701 Howard Street, E
 - Opening hours (OSM syntax): 07:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/n-and-a-auto-repairs-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/n-and-a-auto-repairs-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/837638673 (license ODbL-1.0); source data as of 2026-06-01

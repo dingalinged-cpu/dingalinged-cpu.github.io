@@ -15,7 +15,7 @@ Orangetheory Fitness is a gym in Westmont, IL at 19 West Ogden Avenue, Westmont,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-westmont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-westmont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9604856023 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Orangetheory Fitness is a gym in Wheaton, IL at 223 Rice Lake Square, Wheaton, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-wheaton/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-wheaton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11102028085 (license ODbL-1.0); source data as of 2026-06-01

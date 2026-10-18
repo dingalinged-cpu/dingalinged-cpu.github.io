@@ -15,7 +15,7 @@ Safeway Insurance Group (Headquarters) is an insurance agent in Westmont, IL at 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/safeway-insurance-group-headquarters-westmont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/safeway-insurance-group-headquarters-westmont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6442973042 (license ODbL-1.0); source data as of 2026-07-28

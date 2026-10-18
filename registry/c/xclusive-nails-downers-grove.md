@@ -15,7 +15,7 @@ Xclusive Nails is a nail salon in Downers Grove, IL at 6307 Woodward Avenue, Dow
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/xclusive-nails-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/xclusive-nails-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9046308337 (license ODbL-1.0); source data as of 2026-06-01

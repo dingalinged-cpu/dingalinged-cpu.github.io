@@ -15,7 +15,7 @@ La Central Bakery is a bakery in Chicago, IL at 2422 West 47th Street, Chicago, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/la-central-bakery-chicago-n6319972694/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-central-bakery-chicago-n6319972694.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6319972694 (license ODbL-1.0); source data as of 2026-06-01

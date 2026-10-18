@@ -15,7 +15,7 @@ Pleasant House Pub is a bakery in Chicago, IL at 2119 South Halsted Street, Chic
 - Opening hours (OSM syntax): Fr-Sa 10:00-22:00; Su, Tu-Th 10:00-21:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pleasant-house-pub-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pleasant-house-pub-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210222910 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ University CoWork is a coworking space in Chicago, IL at 6127 South University A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/university-cowork-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/university-cowork-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6545346454 (license ODbL-1.0); source data as of 2026-07-28

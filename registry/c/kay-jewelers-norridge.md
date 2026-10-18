@@ -15,7 +15,7 @@ Kay Jewelers is a jewelry store in Norridge, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kay-jewelers-norridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-norridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7456845097 (license ODbL-1.0); source data as of 2026-06-01

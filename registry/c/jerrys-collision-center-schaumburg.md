@@ -15,7 +15,7 @@ Jerry's Collision Center is an auto repair shop in Schaumburg, IL at 817 Albion 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jerrys-collision-center-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jerrys-collision-center-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1313115066 (license ODbL-1.0); source data as of 2026-06-01

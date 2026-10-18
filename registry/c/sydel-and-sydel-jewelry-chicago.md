@@ -15,7 +15,7 @@ Sydel & Sydel Jewelry is a jewelry store in Chicago, IL at 222 West Adams Street
 - Opening hours (OSM syntax): Mo-Fr 10:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sydel-and-sydel-jewelry-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sydel-and-sydel-jewelry-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12272461288 (license ODbL-1.0); source data as of 2026-06-01

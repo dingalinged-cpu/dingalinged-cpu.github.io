@@ -15,7 +15,7 @@ Crank Revolution Bike Shop is a bike shop in Hoffman Estates, IL at 1744 Algonqu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crank-revolution-bike-shop-hoffman-estates/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crank-revolution-bike-shop-hoffman-estates.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12521819452 (license ODbL-1.0); source data as of 2026-06-01

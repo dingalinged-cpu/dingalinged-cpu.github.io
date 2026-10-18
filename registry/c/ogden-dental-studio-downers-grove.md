@@ -15,7 +15,7 @@ Ogden Dental Studio is a dentist in Downers Grove, IL at 518 Ogden Avenue, Downe
 - Opening hours (OSM syntax): Monday – 10 AM–6 PM, Tuesday – 8 AM–4 PM, Wednesday – 9 AM–5 PM, Thursday – 10 AM–6 PM, Friday – 8 AM–12 PM, Saturday – Closed, Sunday – Closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ogden-dental-studio-downers-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ogden-dental-studio-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12735908280 (license ODbL-1.0); source data as of 2026-07-28

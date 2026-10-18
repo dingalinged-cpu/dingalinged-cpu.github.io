@@ -15,7 +15,7 @@ Garden Chalet is an event venue in Worth, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/garden-chalet-worth/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/garden-chalet-worth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1323674935 (license ODbL-1.0); source data as of 2026-07-28

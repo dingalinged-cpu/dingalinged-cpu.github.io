@@ -15,7 +15,7 @@ River Parkway Chiropractic is a chiropractor in Richfield, MN at 1720 East 66th 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/river-parkway-chiropractic-richfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/river-parkway-chiropractic-richfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7168433516 (license ODbL-1.0); source data as of 2026-06-01

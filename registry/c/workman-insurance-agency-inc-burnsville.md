@@ -15,7 +15,7 @@ Workman Insurance Agency, Inc. is an insurance agent in Burnsville, MN at 1904 H
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/workman-insurance-agency-inc-burnsville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/workman-insurance-agency-inc-burnsville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13738653851 (license ODbL-1.0); source data as of 2026-05-31

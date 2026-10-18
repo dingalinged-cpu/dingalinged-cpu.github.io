@@ -15,7 +15,7 @@ The Forge is an event venue in Joliet, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-forge-joliet/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-forge-joliet.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8051312967 (license ODbL-1.0); source data as of 2026-07-28

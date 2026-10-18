@@ -15,7 +15,7 @@ The Lock Up is a self-storage facility in Chicago, IL at 2525 West Armitage Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-lock-up-chicago-w209405857/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-lock-up-chicago-w209405857.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209405857 (license ODbL-1.0); source data as of 2026-06-01

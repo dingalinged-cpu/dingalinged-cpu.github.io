@@ -1,0 +1,23 @@
+Art of Dentistry is a dentist in Milwaukee, WI at 9205,9211 West Auer Avenue, Milwaukee, WI 53222. Website: https://www.artsydentist.com/.
+
+# Art of Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 9205,9211 West Auer Avenue, Milwaukee, WI 53222
+- City: Milwaukee
+- State: WI
+- ZIP: 53222
+- Coordinates: 43.07677, -88.0280955
+- Phone: n/a
+- Website: https://www.artsydentist.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/art-of-dentistry-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/art-of-dentistry-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/661563136 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

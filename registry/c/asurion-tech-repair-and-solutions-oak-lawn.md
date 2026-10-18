@@ -15,7 +15,7 @@ Asurion Tech Repair & Solutions is a phone repair shop in Oak Lawn, IL at 5126 W
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/asurion-tech-repair-and-solutions-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10740590458 (license ODbL-1.0); source data as of 2026-06-01

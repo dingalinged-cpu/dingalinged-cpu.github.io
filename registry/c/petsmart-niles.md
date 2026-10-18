@@ -15,7 +15,7 @@ PetSmart is a pet store in Niles, IL at 8287 West Golf Road, Niles, IL 60714. Ph
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/petsmart-niles/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/petsmart-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/366203475 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Dick and Rick's Auto Interiors is an auto repair shop in Golden Valley, MN at 60
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dick-and-ricks-auto-interiors-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dick-and-ricks-auto-interiors-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4525048998 (license ODbL-1.0); source data as of 2026-06-01

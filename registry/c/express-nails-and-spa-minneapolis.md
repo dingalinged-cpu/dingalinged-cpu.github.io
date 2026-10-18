@@ -15,7 +15,7 @@ Express Nails & Spa is a nail salon in Minneapolis, MN at 2617 Southeast Univers
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 00:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/express-nails-and-spa-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/express-nails-and-spa-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6334601251 (license ODbL-1.0); source data as of 2026-06-01

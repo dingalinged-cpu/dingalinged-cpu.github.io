@@ -15,7 +15,7 @@ Mattress Firm is a mattress store in New Lenox, IL at 581 East Lincoln Highway, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7178476293 (license ODbL-1.0); source data as of 2026-06-01

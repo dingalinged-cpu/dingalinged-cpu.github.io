@@ -15,7 +15,7 @@ Gerber Collision & Glass is an auto repair shop in Chicago, IL at 6440 North Wes
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-chicago-w209572697/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-chicago-w209572697.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209572697 (license ODbL-1.0); source data as of 2026-06-01

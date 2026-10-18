@@ -15,7 +15,7 @@ Zorba’s Pastry Shop is a bakery in Chicago, IL at 3111 North Central Avenue, C
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/zorba-s-pastry-shop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/zorba-s-pastry-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6317128158 (license ODbL-1.0); source data as of 2026-06-01

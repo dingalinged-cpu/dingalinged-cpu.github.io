@@ -15,7 +15,7 @@ Jimmy John's is a caterer in Naperville, IL at 8 West Gartner Road #128, Napervi
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 10:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jimmy-johns-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jimmy-johns-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8591829832 (license ODbL-1.0); source data as of 2026-06-01

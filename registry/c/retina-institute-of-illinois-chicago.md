@@ -15,7 +15,7 @@ Retina Institute of Illinois is an eye care practice in Chicago, IL at 2326-2328
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/retina-institute-of-illinois-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/retina-institute-of-illinois-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209484377 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Shoe Shine is a shoe repair in Fort Snelling Unorganized Territory, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shoe-shine-fort-snelling-unorganized-territory/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shoe-shine-fort-snelling-unorganized-territory.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6387458186 (license ODbL-1.0); source data as of 2026-07-24

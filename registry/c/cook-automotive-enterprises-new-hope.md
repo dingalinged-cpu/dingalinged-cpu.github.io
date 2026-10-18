@@ -15,7 +15,7 @@ Cook Automotive Enterprises is an auto repair shop in New Hope, MN at 7100 42nd 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cook-automotive-enterprises-new-hope/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cook-automotive-enterprises-new-hope.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/763158450 (license ODbL-1.0); source data as of 2026-06-01

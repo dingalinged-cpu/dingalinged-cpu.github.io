@@ -15,7 +15,7 @@ Only One Boutique is a hair salon in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/only-one-boutique-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/only-one-boutique-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1483956930 (license ODbL-1.0); source data as of 2026-06-01

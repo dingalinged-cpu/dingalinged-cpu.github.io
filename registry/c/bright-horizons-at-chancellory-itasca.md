@@ -15,7 +15,7 @@ Bright Horizons at Chancellory is a preschool in Itasca, IL at 270 Windsor Drive
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bright-horizons-at-chancellory-itasca/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bright-horizons-at-chancellory-itasca.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/406358185 (license ODbL-1.0); source data as of 2026-07-28

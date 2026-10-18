@@ -1,0 +1,991 @@
+{
+ "place": "Pasadena, TX",
+ "slug": "pasadena-tx",
+ "count": 29,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-pasadena-tx.json"
+  },
+  {
+   "keyword": "auto repair pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-pasadena-tx.json"
+  },
+  {
+   "keyword": "car wash pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-pasadena-tx.json"
+  },
+  {
+   "keyword": "dance studio pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-pasadena-tx.json"
+  },
+  {
+   "keyword": "dentist pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-pasadena-tx.json"
+  },
+  {
+   "keyword": "family doctor pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-pasadena-tx.json"
+  },
+  {
+   "keyword": "furniture store pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-pasadena-tx.json"
+  },
+  {
+   "keyword": "gift shop pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-pasadena-tx.json"
+  },
+  {
+   "keyword": "hair salon pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-pasadena-tx.json"
+  },
+  {
+   "keyword": "haircut pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-pasadena-tx.json"
+  },
+  {
+   "keyword": "heating and air pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-pasadena-tx.json"
+  },
+  {
+   "keyword": "hvac repair pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-pasadena-tx.json"
+  },
+  {
+   "keyword": "insurance agency pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-pasadena-tx.json"
+  },
+  {
+   "keyword": "insurance agent pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-pasadena-tx.json"
+  },
+  {
+   "keyword": "insurance agents pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-pasadena-tx.json"
+  },
+  {
+   "keyword": "jewelry store pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-pasadena-tx.json"
+  },
+  {
+   "keyword": "lawyer pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-pasadena-tx.json"
+  },
+  {
+   "keyword": "mechanic pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-pasadena-tx.json"
+  },
+  {
+   "keyword": "motorcycle repair pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/motorcycle-repair-pasadena-tx.json"
+  },
+  {
+   "keyword": "oil change pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-pasadena-tx.json"
+  },
+  {
+   "keyword": "pet store pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-pasadena-tx.json"
+  },
+  {
+   "keyword": "plumber pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumber-pasadena-tx.json"
+  },
+  {
+   "keyword": "plumbers pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbers-pasadena-tx.json"
+  },
+  {
+   "keyword": "plumbing services pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbing-services-pasadena-tx.json"
+  },
+  {
+   "keyword": "preschool pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-pasadena-tx.json"
+  },
+  {
+   "keyword": "primary care physician pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-pasadena-tx.json"
+  },
+  {
+   "keyword": "thrift store pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-pasadena-tx.json"
+  },
+  {
+   "keyword": "tire shop pasadena tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-pasadena-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "first-primary-care-pasadena",
+   "name": "First Primary Care",
+   "summary": "First Primary Care is a family medicine practice in Pasadena, TX at 6243 Fairmont Parkway #104, Pasadena, TX 77505. Phone: +18324027856. Website: https://www.firstprimarycare.com/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-primary-care-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-primary-care-pasadena.json",
+   "address": {
+    "streetAddress": "6243 Fairmont Parkway #104",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77505",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77505",
+   "geo": {
+    "lat": 29.6511231,
+    "lon": -95.1442688
+   },
+   "phone": "+18324027856",
+   "website": "https://www.firstprimarycare.com/",
+   "opening_hours": "Mo-Th 08:30-16:30 Fr 08:30-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13603464597",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "infinite-aquatics-pasadena",
+   "name": "Infinite Aquatics",
+   "summary": "Infinite Aquatics is a pet store in Pasadena, TX at 7407 Spencer Highway #440, Pasadena, TX 77505. Phone: +12818848431. Website: https://infiniteaquatics.net/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/infinite-aquatics-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/infinite-aquatics-pasadena.json",
+   "address": {
+    "streetAddress": "7407 Spencer Highway #440",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77505",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77505",
+   "geo": {
+    "lat": 29.665317,
+    "lon": -95.1251967
+   },
+   "phone": "+12818848431",
+   "website": "https://infiniteaquatics.net/",
+   "opening_hours": "Mo-Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13659711953",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "insulators-local-22-pasadena",
+   "name": "Insulators Local 22",
+   "summary": "Insulators Local 22 is a HVAC contractor in Pasadena, TX at 2210 Wichita Street, Pasadena, TX 77502. Phone: +12814792220. Website: https://insulatorslocal22.org/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insulators-local-22-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insulators-local-22-pasadena.json",
+   "address": {
+    "streetAddress": "2210 Wichita Street",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77502",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77502",
+   "geo": {
+    "lat": 29.6798981,
+    "lon": -95.1782088
+   },
+   "phone": "+12814792220",
+   "website": "https://insulatorslocal22.org/",
+   "opening_hours": "Mo-Fr 07:30-16:00; Sa 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12849666501",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "insurance-navy-brokers-pasadena",
+   "name": "Insurance Navy Brokers",
+   "summary": "Insurance Navy Brokers is an insurance agent in Pasadena, TX at 509 Southmore Avenue ##100, Pasadena, TX 77502. Phone: +17137155155. Website: https://www.insurancenavy.com/locations/tx/pasadena/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-pasadena.json",
+   "address": {
+    "streetAddress": "509 Southmore Avenue ##100",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77502",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77502",
+   "geo": {
+    "lat": 29.6910408,
+    "lon": -95.2066183
+   },
+   "phone": "+17137155155",
+   "website": "https://www.insurancenavy.com/locations/tx/pasadena/",
+   "opening_hours": "Mo-Sa 09:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12316428671",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "marconi-dental-aesthetics-pasadena-tx-pasadena",
+   "name": "Marconi Dental Aesthetics - Pasadena, TX",
+   "summary": "Marconi Dental Aesthetics - Pasadena, TX is a dentist in Pasadena, TX at 4557 East Sam Houston Parkway South #160, Pasadena, TX 77505. Phone: +18326267444. Website: https://marconidentalaesthetics.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marconi-dental-aesthetics-pasadena-tx-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marconi-dental-aesthetics-pasadena-tx-pasadena.json",
+   "address": {
+    "streetAddress": "4557 East Sam Houston Parkway South #160",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77505",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77505",
+   "geo": {
+    "lat": 29.6418903,
+    "lon": -95.15567
+   },
+   "phone": "+18326267444",
+   "website": "https://marconidentalaesthetics.com/",
+   "opening_hours": "Tu-Th 09:00-17:00; Fr 09:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11971889011",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mission-ac-plumbing-and-electric-pasadena-pasadena",
+   "name": "Mission AC, Plumbing & Electric Pasadena",
+   "summary": "Mission AC, Plumbing & Electric Pasadena is a plumber in Pasadena, TX at 1220 Harris Avenue, Pasadena, TX 77506. Phone: +17139993740. Website: https://www.missionac.com/locations/pasadena-tx/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mission-ac-plumbing-and-electric-pasadena-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mission-ac-plumbing-and-electric-pasadena-pasadena.json",
+   "address": {
+    "streetAddress": "1220 Harris Avenue",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77506",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77506",
+   "geo": {
+    "lat": 29.6979389,
+    "lon": -95.1958061
+   },
+   "phone": "+17139993740",
+   "website": "https://www.missionac.com/locations/pasadena-tx/",
+   "opening_hours": "Mo-Fr 07:00-19:00, Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11771541574",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zerimar-tax-and-insurance-service-pasadena",
+   "name": "Zerimar Tax & Insurance Service",
+   "summary": "Zerimar Tax & Insurance Service is an insurance agent in Pasadena, TX at 301 Vista Road #170, Pasadena, TX 77504. Phone: +12819728268. Website: https://www.zerimartax.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zerimar-tax-and-insurance-service-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zerimar-tax-and-insurance-service-pasadena.json",
+   "address": {
+    "streetAddress": "301 Vista Road #170",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77504",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77504",
+   "geo": {
+    "lat": 29.6593056,
+    "lon": -95.205792
+   },
+   "phone": "+12819728268",
+   "website": "https://www.zerimartax.com/",
+   "opening_hours": "Mo-Sa 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13118879000",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tri-city-air-conditioning-pasadena",
+   "name": "Tri-City Air Conditioning",
+   "summary": "Tri-City Air Conditioning is a HVAC contractor in Pasadena, TX at 112 Pasadena Freeway Frontage Road, Pasadena, TX 77506. Phone: +17137409500. Website: https://www.tricityac.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tri-city-air-conditioning-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tri-city-air-conditioning-pasadena.json",
+   "address": {
+    "streetAddress": "112 Pasadena Freeway Frontage Road",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77506",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77506",
+   "geo": {
+    "lat": 29.7116386,
+    "lon": -95.2109201
+   },
+   "phone": "+17137409500",
+   "website": "https://www.tricityac.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1080908257",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bass-and-meineke-complete-auto-care-pasadena",
+   "name": "Bass & Meineke Complete Auto Care",
+   "summary": "Bass & Meineke Complete Auto Care is an auto repair shop in Pasadena, TX at 202 Pasadena Blvd, Pasadena, TX 77506. Phone: +17134735543.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bass-and-meineke-complete-auto-care-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bass-and-meineke-complete-auto-care-pasadena.json",
+   "address": {
+    "streetAddress": "202 Pasadena Blvd",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77506",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77506",
+   "geo": {
+    "lat": 29.7104785,
+    "lon": -95.20166
+   },
+   "phone": "+17134735543",
+   "opening_hours": "Mo-Fr 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1080908289",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "adorned-pasadena",
+   "name": "Adorned",
+   "summary": "Adorned is a hair salon in Pasadena, TX. Phone: +12815087257. Website: https://www.adornedbeautyparlor.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adorned-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adorned-pasadena.json",
+   "address": {
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.5734367,
+    "lon": -95.0588765
+   },
+   "phone": "+12815087257",
+   "website": "https://www.adornedbeautyparlor.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11035255033",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "service-department-pasadena",
+   "name": "Service Department",
+   "summary": "Service Department is a motorcycle repair shop in Pasadena, TX. Phone: +17133640827. Website: https://www.stubbshd.com/Departments/Service-Department.",
+   "categories": [
+    "motorcycle repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/service-department-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/service-department-pasadena.json",
+   "address": {
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.6561312,
+    "lon": -95.1573044
+   },
+   "phone": "+17133640827",
+   "website": "https://www.stubbshd.com/Departments/Service-Department",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7889750566",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-international-pasadena",
+   "name": "American International",
+   "summary": "American International is an insurance agent in Pasadena, TX at 110 Harris Avenue, Pasadena, TX 77506. Website: https://americaninternationalins.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-international-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-international-pasadena.json",
+   "address": {
+    "streetAddress": "110 Harris Avenue",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77506",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77506",
+   "geo": {
+    "lat": 29.6978404,
+    "lon": -95.2106539
+   },
+   "website": "https://americaninternationalins.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1263798831",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-pasadena",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Pasadena, TX at 3747 South Shaver Street, Pasadena, TX 77504. Phone: +17139444126.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-pasadena.json",
+   "address": {
+    "streetAddress": "3747 South Shaver Street",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77504",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77504",
+   "geo": {
+    "lat": 29.6533258,
+    "lon": -95.2075242
+   },
+   "phone": "+17139444126",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6299850831",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-pasadena-n6299868229",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Pasadena, TX at 514 Southmore Avenue, Pasadena, TX 77502. Phone: +17134725903.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-pasadena-n6299868229/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-pasadena-n6299868229.json",
+   "address": {
+    "streetAddress": "514 Southmore Avenue",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77502",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77502",
+   "geo": {
+    "lat": 29.6905974,
+    "lon": -95.2060505
+   },
+   "phone": "+17134725903",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6299868229",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-pasadena-n6299928987",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Pasadena, TX at 7304 Spencer Highway, Pasadena, TX 77505. Phone: +12814796427.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-pasadena-n6299928987/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-pasadena-n6299928987.json",
+   "address": {
+    "streetAddress": "7304 Spencer Highway",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77505",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77505",
+   "geo": {
+    "lat": 29.6633045,
+    "lon": -95.1265629
+   },
+   "phone": "+12814796427",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6299928987",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ghuneim-law-firm-pasadena",
+   "name": "Ghuneim Law Firm",
+   "summary": "Ghuneim Law Firm is a lawyer in Pasadena, TX at 3115 Preston Road, Pasadena, TX. Phone: +12814878929.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ghuneim-law-firm-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ghuneim-law-firm-pasadena.json",
+   "address": {
+    "streetAddress": "3115 Preston Road",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.6649667,
+    "lon": -95.1717362
+   },
+   "phone": "+12814878929",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9454322412",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-pasadena",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Pasadena, TX at Fairmont Parkway, Pasadena, TX.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-pasadena.json",
+   "address": {
+    "streetAddress": "Fairmont Parkway",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.6470644,
+    "lon": -95.1498717
+   },
+   "opening_hours": "Mo-Su 09:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11453885669",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vip-party-hall-2-pasadena",
+   "name": "VIP Party Hall #2",
+   "summary": "VIP Party Hall #2 is a dance studio in Pasadena, TX at 2900 South Shaver Street #1/2, Pasadena, TX 77502.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vip-party-hall-2-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vip-party-hall-2-pasadena.json",
+   "address": {
+    "streetAddress": "2900 South Shaver Street #1/2",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "postalCode": "77502",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "zip": "77502",
+   "geo": {
+    "lat": 29.6682103,
+    "lon": -95.2092571
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6444007345",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hallmark-pasadena",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Pasadena, TX at 5582 Fairmont Parkway, Pasadena, TX.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-pasadena.json",
+   "address": {
+    "streetAddress": "5582 Fairmont Parkway",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.6438282,
+    "lon": -95.156751
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12511071953",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "maris-hair-design-pasadena",
+   "name": "Mari's Hair Design",
+   "summary": "Mari's Hair Design is a hair salon in Pasadena, TX at 2110 Strawberry Road, Pasadena, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maris-hair-design-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maris-hair-design-pasadena.json",
+   "address": {
+    "streetAddress": "2110 Strawberry Road",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.6812771,
+    "lon": -95.1934567
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12121527760",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zales-pasadena",
+   "name": "Zales",
+   "summary": "Zales is a jewelry store in Pasadena, TX at 5608 Fairmont Parkway, Pasadena, TX.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zales-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zales-pasadena.json",
+   "address": {
+    "streetAddress": "5608 Fairmont Parkway",
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.6438758,
+    "lon": -95.1559014
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1930093032",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bel-furniture-pasadena",
+   "name": "Bel Furniture",
+   "summary": "Bel Furniture is a furniture store in Pasadena, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bel-furniture-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bel-furniture-pasadena.json",
+   "address": {
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.6519565,
+    "lon": -95.1499112
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12327744552",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bubbles-car-wash-pasadena",
+   "name": "Bubbles Car Wash",
+   "summary": "Bubbles Car Wash is a car wash in Pasadena, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bubbles-car-wash-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bubbles-car-wash-pasadena.json",
+   "address": {
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.6492208,
+    "lon": -95.1494275
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1930090337",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "car-wash-pasadena",
+   "name": "Car Wash",
+   "summary": "Car Wash is a car wash in Pasadena, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/car-wash-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/car-wash-pasadena.json",
+   "address": {
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.6641237,
+    "lon": -95.1193948
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1924259022",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "early-childhood-center-pasadena",
+   "name": "Early Childhood Center",
+   "summary": "Early Childhood Center is a preschool in Pasadena, TX.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/early-childhood-center-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/early-childhood-center-pasadena.json",
+   "address": {
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.7054328,
+    "lon": -95.1607475
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/51341049",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "family-thrift-center-pasadena",
+   "name": "Family Thrift Center",
+   "summary": "Family Thrift Center is a thrift store in Pasadena, TX.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-thrift-center-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-thrift-center-pasadena.json",
+   "address": {
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.701222,
+    "lon": -95.1826655
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5257171368",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "family-thrift-center-pasadena-n5257171400",
+   "name": "Family Thrift Center",
+   "summary": "Family Thrift Center is a thrift store in Pasadena, TX.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-thrift-center-pasadena-n5257171400/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-thrift-center-pasadena-n5257171400.json",
+   "address": {
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.6912601,
+    "lon": -95.2128758
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5257171400",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "landmark-furniture-pasadena",
+   "name": "Landmark Furniture",
+   "summary": "Landmark Furniture is a furniture store in Pasadena, TX.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/landmark-furniture-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/landmark-furniture-pasadena.json",
+   "address": {
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.6807078,
+    "lon": -95.147188
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11453878671",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-pasadena",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Pasadena, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-pasadena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-pasadena.json",
+   "address": {
+    "addressLocality": "Pasadena",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Pasadena",
+   "state": "TX",
+   "geo": {
+    "lat": 29.6490809,
+    "lon": -95.1521848
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1930090921",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

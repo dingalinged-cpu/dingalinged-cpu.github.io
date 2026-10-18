@@ -15,7 +15,7 @@ Law Office of Ronald D. Cummings is a lawyer in Plainfield, IL at 22600 Deer Pat
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/law-office-of-ronald-d-cummings-plainfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/law-office-of-ronald-d-cummings-plainfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10511364566 (license ODbL-1.0); source data as of 2026-07-28

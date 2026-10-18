@@ -15,7 +15,7 @@ Veterinary Emergency Group is a veterinarian in Chicago, IL at 1114 South Clinto
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/veterinary-emergency-group-chicago-n13474977203/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/veterinary-emergency-group-chicago-n13474977203.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13474977203 (license ODbL-1.0); source data as of 2026-07-28

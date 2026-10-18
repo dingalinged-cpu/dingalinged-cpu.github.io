@@ -15,7 +15,7 @@ K&B Hand Car Wash & Detailing is a car wash in Gary, IN. Phone: +12198840631.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/k-and-b-hand-car-wash-and-detailing-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/k-and-b-hand-car-wash-and-detailing-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1160299771 (license ODbL-1.0); source data as of 2026-07-28

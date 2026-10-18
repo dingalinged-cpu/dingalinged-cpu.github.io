@@ -15,7 +15,7 @@ Shop for Change is a thrift store in Golden Valley, MN at 1220 Zane Avenue North
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shop-for-change-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shop-for-change-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13046959606 (license ODbL-1.0); source data as of 2026-06-01

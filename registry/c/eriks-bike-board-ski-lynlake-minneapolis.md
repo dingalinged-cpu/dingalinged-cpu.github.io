@@ -15,7 +15,7 @@ Erik's - Bike Board Ski Lynlake is a bike shop in Minneapolis, MN at 2800 Lyndal
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa-Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/eriks-bike-board-ski-lynlake-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/eriks-bike-board-ski-lynlake-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5288561954 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Advocate Clinic at Walgreens is an urgent care clinic in Westmont, IL at 1 East 
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa,Su 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/advocate-clinic-at-walgreens-westmont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/advocate-clinic-at-walgreens-westmont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5564590870 (license ODbL-1.0); source data as of 2026-07-28

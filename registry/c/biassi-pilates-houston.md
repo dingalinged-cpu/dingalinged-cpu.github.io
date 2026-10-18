@@ -1,0 +1,23 @@
+Biassi Pilates is a gym in Houston, TX.
+
+# Biassi Pilates
+
+- Category: gym
+- Services: gym
+- Address: Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7132218, -95.4682947
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/biassi-pilates-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/biassi-pilates-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12537355339 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

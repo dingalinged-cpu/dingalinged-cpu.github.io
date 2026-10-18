@@ -15,7 +15,7 @@ Minneapolis Glass Company is a window repair service in Plymouth, MN. Phone: +17
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/minneapolis-glass-company-plymouth/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/minneapolis-glass-company-plymouth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11123454113 (license ODbL-1.0); source data as of 2026-07-24

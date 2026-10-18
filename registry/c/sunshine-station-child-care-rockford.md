@@ -15,7 +15,7 @@ Sunshine Station Child Care is a daycare in Rockford, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sunshine-station-child-care-rockford/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sunshine-station-child-care-rockford.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12843028080 (license ODbL-1.0); source data as of 2026-07-24

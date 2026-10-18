@@ -15,7 +15,7 @@ Crumb Crusher Cupcakes is a bakery in Oak Park, IL at 805 South Boulevard, Oak P
 - Opening hours (OSM syntax): Tu,We,Fr 10:00-19:00; Sa 10:00-15:00; Su 10:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crumb-crusher-cupcakes-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crumb-crusher-cupcakes-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13888221209 (license ODbL-1.0); source data as of 2026-06-01

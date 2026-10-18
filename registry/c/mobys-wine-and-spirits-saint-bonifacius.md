@@ -15,7 +15,7 @@ Moby's Wine and Spirits is a liquor store in Saint Bonifacius, MN at 4080 Tower 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobys-wine-and-spirits-saint-bonifacius/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobys-wine-and-spirits-saint-bonifacius.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10742711442 (license ODbL-1.0); source data as of 2026-06-01

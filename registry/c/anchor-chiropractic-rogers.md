@@ -15,7 +15,7 @@ Anchor Chiropractic is a chiropractor in Rogers, MN at 20965 South Diamond Lake 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anchor-chiropractic-rogers/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anchor-chiropractic-rogers.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10876738966 (license ODbL-1.0); source data as of 2026-06-01

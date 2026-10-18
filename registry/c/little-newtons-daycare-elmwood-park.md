@@ -15,7 +15,7 @@ Little Newtons Daycare is a daycare in Elmwood Park, IL at 1850 North Harlem Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/little-newtons-daycare-elmwood-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/little-newtons-daycare-elmwood-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12884591151 (license ODbL-1.0); source data as of 2026-07-28

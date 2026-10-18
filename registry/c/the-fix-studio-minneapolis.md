@@ -15,7 +15,7 @@ The Fix Studio is a gym in Minneapolis, MN at 3725 Minnehaha Avenue, Minneapolis
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-fix-studio-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-fix-studio-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8881094341 (license ODbL-1.0); source data as of 2026-07-15

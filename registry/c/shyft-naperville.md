@@ -15,7 +15,7 @@ Shyft is a yoga studio in Naperville, IL at 39 1/2 West Jefferson Avenue, Naperv
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shyft-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shyft-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8955665152 (license ODbL-1.0); source data as of 2026-06-01

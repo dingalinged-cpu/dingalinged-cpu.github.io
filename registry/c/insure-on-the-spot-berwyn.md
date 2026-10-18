@@ -15,7 +15,7 @@ Insure On The Spot is an insurance agent in Berwyn, IL at 7015 West Roosevelt Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/insure-on-the-spot-berwyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/insure-on-the-spot-berwyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4719492554 (license ODbL-1.0); source data as of 2026-07-28

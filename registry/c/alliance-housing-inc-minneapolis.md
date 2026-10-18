@@ -15,7 +15,7 @@ Alliance Housing Inc is a property management company in Minneapolis, MN at 2309
 - Opening hours (OSM syntax): Mo,We 14:00-16:00; Tu,Fr 09:00-11:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/alliance-housing-inc-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/alliance-housing-inc-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11035069533 (license ODbL-1.0); source data as of 2026-05-31

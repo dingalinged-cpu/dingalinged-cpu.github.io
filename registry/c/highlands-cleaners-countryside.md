@@ -15,7 +15,7 @@ Highland's Cleaners is a dry cleaner in Countryside, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/highlands-cleaners-countryside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/highlands-cleaners-countryside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10005177436 (license ODbL-1.0); source data as of 2026-06-01

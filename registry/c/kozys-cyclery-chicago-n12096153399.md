@@ -15,7 +15,7 @@ Kozy's Cyclery is a bike shop in Chicago, IL at 219 West Erie Street, Chicago, I
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kozys-cyclery-chicago-n12096153399/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kozys-cyclery-chicago-n12096153399.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12096153399 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Palermo Bakery is a bakery in Norridge, IL at 7312 West Irving Park Road, Norrid
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/palermo-bakery-norridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/palermo-bakery-norridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13289829861 (license ODbL-1.0); source data as of 2026-06-01

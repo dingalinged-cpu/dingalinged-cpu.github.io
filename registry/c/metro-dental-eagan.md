@@ -15,7 +15,7 @@ Metro Dental is a dentist in Eagan, MN at 1905 Plaza Drive, Eagan, MN 55122.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/metro-dental-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/metro-dental-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/531848023 (license ODbL-1.0); source data as of 2026-07-24

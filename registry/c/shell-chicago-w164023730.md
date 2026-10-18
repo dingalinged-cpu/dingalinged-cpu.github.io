@@ -15,7 +15,7 @@ Shell is a car wash in Chicago, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shell-chicago-w164023730/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shell-chicago-w164023730.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/164023730 (license ODbL-1.0); source data as of 2026-07-28

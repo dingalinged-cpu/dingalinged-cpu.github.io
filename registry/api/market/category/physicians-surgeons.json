@@ -2,7 +2,7 @@
  "title": "Keyword market data: Physicians & Surgeons",
  "description": "Top Physicians & Surgeons keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
  "industry": "Physicians & Surgeons",
  "keywords": 32,
  "lists": {
@@ -18,7 +18,7 @@
     "search_value_index_usd": 13000000,
     "equivalent_google_ads_cost_month_usd": 880000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 17,
+    "registry_competitors": 31,
     "ranked_by": "by_volume"
    },
    {
@@ -32,7 +32,7 @@
     "search_value_index_usd": 1200000,
     "equivalent_google_ads_cost_month_usd": 79000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 153,
+    "registry_competitors": 346,
     "ranked_by": "by_volume"
    },
    {
@@ -46,7 +46,7 @@
     "search_value_index_usd": 430000,
     "equivalent_google_ads_cost_month_usd": 29000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 28,
+    "registry_competitors": 84,
     "ranked_by": "by_volume"
    },
    {
@@ -60,7 +60,7 @@
     "search_value_index_usd": 160000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 42,
+    "registry_competitors": 126,
     "ranked_by": "by_volume"
    },
    {
@@ -88,7 +88,7 @@
     "search_value_index_usd": 130000,
     "equivalent_google_ads_cost_month_usd": 8700,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 42,
+    "registry_competitors": 126,
     "ranked_by": "by_volume"
    },
    {
@@ -174,7 +174,7 @@
     "search_value_index_usd": 1000000,
     "equivalent_google_ads_cost_month_usd": 70000,
     "featured_spot_min_usd": 500,
-    "registry_competitors": 80,
+    "registry_competitors": 198,
     "ranked_by": "by_cpc"
    },
    {
@@ -188,7 +188,7 @@
     "search_value_index_usd": 190000,
     "equivalent_google_ads_cost_month_usd": 13000,
     "featured_spot_min_usd": 500,
-    "registry_competitors": 5,
+    "registry_competitors": 7,
     "ranked_by": "by_cpc"
    },
    {
@@ -258,7 +258,7 @@
     "search_value_index_usd": 160000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 26,
+    "registry_competitors": 44,
     "ranked_by": "by_cpc"
    },
    {
@@ -272,7 +272,7 @@
     "search_value_index_usd": 160000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 6,
+    "registry_competitors": 19,
     "ranked_by": "by_cpc"
    },
    {
@@ -286,7 +286,7 @@
     "search_value_index_usd": 160000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 3,
+    "registry_competitors": 15,
     "ranked_by": "by_cpc"
    },
    {
@@ -300,7 +300,7 @@
     "search_value_index_usd": 1200000,
     "equivalent_google_ads_cost_month_usd": 79000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 153,
+    "registry_competitors": 346,
     "ranked_by": "by_cpc"
    },
    {
@@ -328,13 +328,13 @@
     "search_value_index_usd": 1000000,
     "equivalent_google_ads_cost_month_usd": 70000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 20,
+    "registry_competitors": 54,
     "ranked_by": "by_cpc"
    },
    {
     "keyword": "dietitian",
     "slug": "dietitian",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dietitian",
+    "url": "https://dingalinged-cpu.github.io/registry/k/dietitian/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -342,7 +342,7 @@
     "search_value_index_usd": 160000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
    {
@@ -356,7 +356,7 @@
     "search_value_index_usd": 1000000,
     "equivalent_google_ads_cost_month_usd": 70000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 88,
+    "registry_competitors": 210,
     "ranked_by": "by_cpc"
    },
    {
@@ -370,7 +370,7 @@
     "search_value_index_usd": 160000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 42,
+    "registry_competitors": 126,
     "ranked_by": "by_cpc"
    },
    {
@@ -398,7 +398,7 @@
     "search_value_index_usd": 1000000,
     "equivalent_google_ads_cost_month_usd": 70000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 9,
+    "registry_competitors": 28,
     "ranked_by": "by_cpc"
    },
    {
@@ -412,7 +412,7 @@
     "search_value_index_usd": 39000,
     "equivalent_google_ads_cost_month_usd": 2600,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 5,
+    "registry_competitors": 13,
     "ranked_by": "by_cpc"
    },
    {
@@ -426,7 +426,7 @@
     "search_value_index_usd": 160000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 9,
+    "registry_competitors": 31,
     "ranked_by": "by_cpc"
    }
   ],
@@ -442,7 +442,7 @@
     "search_value_index_usd": 13000000,
     "equivalent_google_ads_cost_month_usd": 880000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 17,
+    "registry_competitors": 31,
     "ranked_by": "by_value"
    },
    {
@@ -456,7 +456,7 @@
     "search_value_index_usd": 1200000,
     "equivalent_google_ads_cost_month_usd": 79000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 153,
+    "registry_competitors": 346,
     "ranked_by": "by_value"
    },
    {
@@ -470,7 +470,7 @@
     "search_value_index_usd": 430000,
     "equivalent_google_ads_cost_month_usd": 29000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 28,
+    "registry_competitors": 84,
     "ranked_by": "by_value"
    },
    {
@@ -484,7 +484,7 @@
     "search_value_index_usd": 160000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 42,
+    "registry_competitors": 126,
     "ranked_by": "by_value"
    },
    {
@@ -512,7 +512,7 @@
     "search_value_index_usd": 130000,
     "equivalent_google_ads_cost_month_usd": 8700,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 42,
+    "registry_competitors": 126,
     "ranked_by": "by_value"
    },
    {
@@ -574,7 +574,6 @@
   ]
  },
  "license": {
-  "registry_estimates": "CC-BY-4.0",
-  "url": "https://creativecommons.org/licenses/by/4.0/"
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
  }
 }

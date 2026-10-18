@@ -15,7 +15,7 @@ Vik Nail Salon is a nail salon in Arlington Heights, IL at 2304 East Rand Road, 
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:00; Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vik-nail-salon-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vik-nail-salon-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10074468928 (license ODbL-1.0); source data as of 2026-06-01

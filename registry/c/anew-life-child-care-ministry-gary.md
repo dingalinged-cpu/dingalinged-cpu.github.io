@@ -15,7 +15,7 @@ Anew Life Child Care Ministry is a daycare in Gary, IN at 30 East 6th Avenue, Ga
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anew-life-child-care-ministry-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anew-life-child-care-ministry-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11261268777 (license ODbL-1.0); source data as of 2026-07-28

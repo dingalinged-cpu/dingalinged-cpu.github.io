@@ -15,7 +15,7 @@ The Divorce Store is a lawyer in Naperville, IL at 411 East Ogden Avenue, Naperv
 - Opening hours (OSM syntax): Mo-Th 10:00-18:00; Fr 10:00-17:00; Sa, Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-divorce-store-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-divorce-store-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8971256417 (license ODbL-1.0); source data as of 2026-07-28

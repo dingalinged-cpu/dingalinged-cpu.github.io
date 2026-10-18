@@ -15,7 +15,7 @@ Tailoring by Monica is a tailor in Naperville, IL at 7 7th Avenue, Naperville, I
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:00; Sa 08:30-16:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tailoring-by-monica-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tailoring-by-monica-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/279621764 (license ODbL-1.0); source data as of 2026-06-01

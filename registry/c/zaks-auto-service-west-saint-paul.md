@@ -15,7 +15,7 @@ Zak's Auto Service is an auto repair shop in West Saint Paul, MN at 995 Dodd Roa
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/zaks-auto-service-west-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/zaks-auto-service-west-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/486838488 (license ODbL-1.0); source data as of 2026-06-01

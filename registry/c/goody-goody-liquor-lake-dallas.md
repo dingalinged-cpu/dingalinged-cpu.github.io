@@ -1,0 +1,23 @@
+Goody Goody Liquor is a liquor store in Lake Dallas, TX at 104 North Stemmons Freeway, Lake Dallas, TX 75065.
+
+# Goody Goody Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 104 North Stemmons Freeway, Lake Dallas, TX 75065
+- City: Lake Dallas
+- State: TX
+- ZIP: 75065
+- Coordinates: 33.1233178, -97.0339135
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/goody-goody-liquor-lake-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/goody-goody-liquor-lake-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/651725083 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

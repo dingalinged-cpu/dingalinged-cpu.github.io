@@ -15,7 +15,7 @@ Uroda Hair Design is a hair salon in Orland Park, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/uroda-hair-design-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/uroda-hair-design-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1000064856 (license ODbL-1.0); source data as of 2026-06-01

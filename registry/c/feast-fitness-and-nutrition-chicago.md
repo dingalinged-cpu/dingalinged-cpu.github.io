@@ -15,7 +15,7 @@ Feast Fitness and Nutrition is a gym in Chicago, IL at 4510 North Ravenswood Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/feast-fitness-and-nutrition-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/feast-fitness-and-nutrition-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12292910899 (license ODbL-1.0); source data as of 2026-06-01

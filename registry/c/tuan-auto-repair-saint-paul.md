@@ -15,7 +15,7 @@ Tuan Auto Repair is an auto repair shop in Saint Paul, MN at 1459 University Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tuan-auto-repair-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tuan-auto-repair-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12874417846 (license ODbL-1.0); source data as of 2026-06-01

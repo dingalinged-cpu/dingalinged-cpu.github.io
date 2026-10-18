@@ -1,0 +1,58 @@
+Keyword market for Allen, TX: 58 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Dallas-Fort Worth-Arlington, TX metro (US volume x population share).
+
+# Top keywords in Allen, TX
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage allen tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-allen-tx/
+2. car wash allen tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-allen-tx/
+3. dentist allen tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 11 | https://dingalinged-cpu.github.io/registry/k/dentist-allen-tx/
+4. gym allen tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/gym-allen-tx/
+5. hair salon allen tx | searches/mo 37,000 (est) | CPC $0.55 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/hair-salon-allen-tx/
+6. nail salon allen tx | searches/mo 25,000 (est) | CPC $0.61 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/nail-salon-allen-tx/
+7. mechanic allen tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/mechanic-allen-tx/
+8. tire shop allen tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-allen-tx/
+9. vet allen tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/vet-allen-tx/
+10. dog groomer allen tx | searches/mo 11,000 (est) | CPC $4.06 | value $45,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-allen-tx/
+11. haircut allen tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-allen-tx/
+12. auto repair allen tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/auto-repair-allen-tx/
+13. chiropractor allen tx | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-allen-tx/
+14. electrician allen tx | searches/mo 6,100 (est) | CPC $12.18 | value $74,000 | Google Ads equiv $4,700/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-allen-tx/
+15. real estate agent allen tx | searches/mo 5,000 (est) | CPC $3.61 | value $18,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-allen-tx/
+
+## By CPC
+1. electrician allen tx | searches/mo 6,100 (est) | CPC $12.18 | value $74,000 | Google Ads equiv $4,700/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-allen-tx/
+2. roofing contractor allen tx | searches/mo 3,300 (est) | CPC $11.79 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-allen-tx/
+3. roofer allen tx | searches/mo 1,200 (est) | CPC $10.70 | value $13,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofer-allen-tx/
+4. attorney allen tx | searches/mo 1,800 (est) | CPC $9.87 | value $18,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-allen-tx/
+5. lawyer allen tx | searches/mo 1,200 (est) | CPC $9.87 | value $12,000 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-allen-tx/
+6. exterminator allen tx | searches/mo 3,300 (est) | CPC $8.33 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/exterminator-allen-tx/
+7. pest control allen tx | searches/mo 4,100 (est) | CPC $8.33 | value $34,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pest-control-allen-tx/
+8. storage units allen tx | searches/mo 5,500 (est) | CPC $8.33 | value $46,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/storage-units-allen-tx/
+9. bakery allen tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/bakery-allen-tx/
+10. event venues allen tx | searches/mo 5,500 (est) | CPC $7.17 | value $39,000 | Google Ads equiv $3,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/event-venues-allen-tx/
+11. martial arts allen tx | searches/mo 7,400 (est) | CPC $6.17 | value $46,000 | Google Ads equiv $3,300/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/martial-arts-allen-tx/
+12. tax preparer allen tx | searches/mo 1,500 (est) | CPC $5.87 | value $8,800 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-allen-tx/
+13. daycare allen tx | searches/mo 5,500 (est) | CPC $4.81 | value $26,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/daycare-allen-tx/
+14. preschool allen tx | searches/mo 5,500 (est) | CPC $4.81 | value $26,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/preschool-allen-tx/
+15. allergist allen tx | searches/mo 820 (est) | CPC $4.76 | value $3,900 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/allergist-allen-tx/
+
+## By value (searches x CPC)
+1. massage allen tx | searches/mo 120,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $550,000 | Google Ads equiv $32,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-allen-tx/
+2. dentist allen tx | searches/mo 45,000 (est) | CPC $4.70 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 11 | https://dingalinged-cpu.github.io/registry/k/dentist-allen-tx/
+3. car wash allen tx | searches/mo 45,000 (est) | CPC $4.35 | value $200,000 | Google Ads equiv $11,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-allen-tx/
+4. gym allen tx | searches/mo 45,000 (est) | CPC $1.67 | value $75,000 | Google Ads equiv $5,400/mo | our featured min $50/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/gym-allen-tx/
+5. electrician allen tx | searches/mo 6,100 (est) | CPC $12.18 | value $74,000 | Google Ads equiv $4,700/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/electrician-allen-tx/
+6. mechanic allen tx | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/mechanic-allen-tx/
+7. tire shop allen tx | searches/mo 14,000 (est) | CPC $4.35 | value $61,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-allen-tx/
+8. vet allen tx | searches/mo 14,000 (est) | CPC $4.06 | value $57,000 | Google Ads equiv $3,700/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/vet-allen-tx/
+9. dog groomer allen tx | searches/mo 11,000 (est) | CPC $4.06 | value $45,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-allen-tx/
+10. haircut allen tx | searches/mo 9,100 (est) | CPC $4.62 | value $42,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-allen-tx/
+11. roofing contractor allen tx | searches/mo 3,300 (est) | CPC $11.79 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-allen-tx/
+12. pest control allen tx | searches/mo 4,100 (est) | CPC $8.33 | value $34,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pest-control-allen-tx/
+13. auto repair allen tx | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/auto-repair-allen-tx/
+14. chiropractor allen tx | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-allen-tx/
+15. exterminator allen tx | searches/mo 3,300 (est) | CPC $8.33 | value $27,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/exterminator-allen-tx/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

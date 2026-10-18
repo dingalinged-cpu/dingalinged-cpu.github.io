@@ -15,7 +15,7 @@ Take 5 Oil Change is an auto repair shop in Oak Lawn, IL at 10901 South Cicero A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1222640871 (license ODbL-1.0); source data as of 2026-06-01

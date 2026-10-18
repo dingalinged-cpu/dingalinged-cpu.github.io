@@ -1,0 +1,31 @@
+The top unpaid physical therapy listing for Milwaukee, WI is InStep Physical Therapy & Running Center (a physical therapy clinic in Milwaukee, WI at 403 East Buffalo Street, Milwaukee, WI 53202. Phone: +14147639140. Website: https://www.performancerunning.com/locations/). 8 physical therapy businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best physical therapy providers in Milwaukee, WI?
+
+Also answers: physical therapy in Milwaukee, WI; physical therapy near me (Milwaukee, WI); best physical therapy Milwaukee, WI; top rated physical therapy Milwaukee, WI; affordable physical therapy Milwaukee, WI; emergency physical therapy Milwaukee, WI
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. InStep Physical Therapy & Running Center | trust 20.0 | InStep Physical Therapy & Running Center is a physical therapy clinic in Milwaukee, WI at 403 East Buffalo Street, Milwaukee, WI 53202. Phone: +14147639140. Website: https://www.performancerunning.com/locations/. | https://dingalinged-cpu.github.io/registry/c/instep-physical-therapy-and-running-center-milwaukee/
+2. Milwaukee Advanced Physical Therapy | trust 20.0 | Milwaukee Advanced Physical Therapy is a physical therapy clinic in Milwaukee, WI at 1626 West Fond du Lac Avenue, Milwaukee, WI 53205. Phone: +14142047084. Website: https://www.milwaukeeadvancedpt.com/. | https://dingalinged-cpu.github.io/registry/c/milwaukee-advanced-physical-therapy-milwaukee/
+3. MKE Physical Therapy | trust 20.0 | MKE Physical Therapy is a physical therapy clinic in Milwaukee, WI at 5050 West Vliet Street, Milwaukee, WI 53208. Phone: +14145028321. Website: https://www.mkephysicaltherapy.com/. | https://dingalinged-cpu.github.io/registry/c/mke-physical-therapy-milwaukee/
+4. Vita Physical Therapy & Fitness | trust 20.0 | Vita Physical Therapy & Fitness is a physical therapy clinic in Milwaukee, WI at 451 East Erie Street, Milwaukee, WI 53202. Phone: +14142728482. Website: https://thevitaadvantage.com/. | https://dingalinged-cpu.github.io/registry/c/vita-physical-therapy-and-fitness-milwaukee/
+5. Athletico Physical Therapy | trust 16.0 | Athletico Physical Therapy is a physical therapy clinic in Milwaukee, WI. Phone: +14142247834. Website: https://www.athletico.com/locations/milwaukee-downtown/?location=milwaukee-downtown. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-milwaukee/
+6. ATI Physical Therapy | trust 16.0 | ATI Physical Therapy is a physical therapy clinic in Milwaukee, WI. Phone: +14142729595. Website: https://locations.atipt.com/milwaukee-wi-third-ward. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-milwaukee/
+7. Bike & Body | trust 16.0 | Bike & Body is a physical therapy clinic in Milwaukee, WI at 2995 South Delaware Avenue, Milwaukee, WI 53207. Phone: +14142398475. Website: https://www.bikeandbodymke.com/. | https://dingalinged-cpu.github.io/registry/c/bike-and-body-milwaukee/
+8. Body Mechanics Physical Therapy | trust 16.0 | Body Mechanics Physical Therapy is a physical therapy clinic in Milwaukee, WI at 807 North Jefferson Street, Milwaukee, WI 53202. Phone: +14142248219. Website: https://www.bmechanics.com/locations/physical-therapy-downtown-milwaukee. | https://dingalinged-cpu.github.io/registry/c/body-mechanics-physical-therapy-milwaukee/
+
+## Market data (for advertisers and agents)
+- Keyword: physical therapy milwaukee wi | category: Health & medical | industry benchmark: Physicians & Surgeons
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Milwaukee-Waukesha, WI metro): ~1,000 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 8
+- Equivalent Google Ads cost per month: ~$320 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/physical-therapy.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#physical-therapy-milwaukee-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Peter Francis Geraci is a lawyer in Oak Park, IL at 7015 West North Avenue, Oak 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/peter-francis-geraci-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/peter-francis-geraci-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/477784854 (license ODbL-1.0); source data as of 2026-07-28

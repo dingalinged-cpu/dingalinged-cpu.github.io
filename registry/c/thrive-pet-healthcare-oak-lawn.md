@@ -15,7 +15,7 @@ Thrive Pet Healthcare is a veterinarian in Oak Lawn, IL at 9701 South Cicero Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/thrive-pet-healthcare-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/thrive-pet-healthcare-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/235068813 (license ODbL-1.0); source data as of 2026-07-28

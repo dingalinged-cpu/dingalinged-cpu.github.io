@@ -15,7 +15,7 @@ Sugar Bliss Patisserie is a bakery in Chicago, IL at 122 South Wabash Avenue, Ch
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sugar-bliss-patisserie-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sugar-bliss-patisserie-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6322022179 (license ODbL-1.0); source data as of 2026-06-01

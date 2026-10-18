@@ -15,7 +15,7 @@ Love's Truck Wash is a car wash in Gary, IN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/loves-truck-wash-gary/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/loves-truck-wash-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12509207182 (license ODbL-1.0); source data as of 2026-07-28

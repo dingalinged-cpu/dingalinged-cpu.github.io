@@ -15,7 +15,7 @@ Allstate is an insurance agent in Saint Paul Park, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-saint-paul-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-saint-paul-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/787317515 (license ODbL-1.0); source data as of 2026-05-31

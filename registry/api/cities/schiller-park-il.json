@@ -91,7 +91,7 @@
    "trust_score": 10.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/406530019",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "caliber-collision-schiller-park",
@@ -121,7 +121,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/403524497",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "jackson-hewitt-schiller-park",
@@ -151,7 +151,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/7924922022",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "schiller-glass-schiller-park",
@@ -181,7 +181,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/281437418",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "shell-schiller-park",
@@ -211,7 +211,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/983561580",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "turtle-wax-schiller-park",
@@ -241,7 +241,7 @@
    "trust_score": 4.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/403561895",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "impact-body-works-schiller-park",
@@ -269,7 +269,7 @@
    "trust_score": 3.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1284412176",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "prostar-staffing-schiller-park",
@@ -296,7 +296,7 @@
    "trust_score": 0.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/11922993917",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "schiller-liquors-schiller-park",
@@ -323,7 +323,7 @@
    "trust_score": 0.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/11922993918",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "ut-nails-schiller-park",
@@ -350,7 +350,7 @@
    "trust_score": 0.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/11922993914",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   },
   {
    "slug": "waves-schiller-park",
@@ -377,7 +377,7 @@
    "trust_score": 0.0,
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/11923003073",
-   "last_checked": "2026-10-17"
+   "last_checked": "2026-10-18"
   }
  ]
 }

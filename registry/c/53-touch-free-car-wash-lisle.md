@@ -15,7 +15,7 @@
 - Opening hours (OSM syntax): Tu-Su 08:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/53-touch-free-car-wash-lisle/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/53-touch-free-car-wash-lisle.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/443607788 (license ODbL-1.0); source data as of 2026-07-28

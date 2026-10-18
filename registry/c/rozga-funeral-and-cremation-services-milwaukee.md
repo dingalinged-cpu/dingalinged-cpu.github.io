@@ -1,0 +1,23 @@
+Rozga Funeral & Cremation Services is a funeral home in Milwaukee, WI at 703 West Lincoln Avenue, Milwaukee, WI 53215. Phone: +14142817145. Website: https://www.rozgafuneral.com/.
+
+# Rozga Funeral & Cremation Services
+
+- Category: funeral home
+- Services: funeral home
+- Address: 703 West Lincoln Avenue, Milwaukee, WI 53215
+- City: Milwaukee
+- State: WI
+- ZIP: 53215
+- Coordinates: 43.0026046, -87.9201788
+- Phone: +14142817145
+- Website: https://www.rozgafuneral.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/rozga-funeral-and-cremation-services-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rozga-funeral-and-cremation-services-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/663419191 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

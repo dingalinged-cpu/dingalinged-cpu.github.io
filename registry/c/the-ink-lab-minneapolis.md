@@ -15,7 +15,7 @@ The Ink Lab is a tattoo shop in Minneapolis, MN at 919 West Lake Street, Minneap
 - Opening hours (OSM syntax): "By appointment"
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ink-lab-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ink-lab-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5334193685 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ For The Love Of Dogs is a pet store in Mendota Heights, MN at 2415 Pilot Knob Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/for-the-love-of-dogs-mendota-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/for-the-love-of-dogs-mendota-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13043822825 (license ODbL-1.0); source data as of 2026-06-01

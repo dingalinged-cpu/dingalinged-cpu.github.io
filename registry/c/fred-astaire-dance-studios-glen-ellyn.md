@@ -15,7 +15,7 @@ Fred Astaire Dance Studios is a dance studio in Glen Ellyn, IL at 19 North Park 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fred-astaire-dance-studios-glen-ellyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fred-astaire-dance-studios-glen-ellyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/304252069 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ All Seasons Canine Country Club is a dog boarding facility in Corcoran, MN at 10
 - Opening hours (OSM syntax): Su 10:00-18:00; Mo-Fr 07:00-18:00; Sa 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/all-seasons-canine-country-club-corcoran/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/all-seasons-canine-country-club-corcoran.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12987925872 (license ODbL-1.0); source data as of 2026-07-24

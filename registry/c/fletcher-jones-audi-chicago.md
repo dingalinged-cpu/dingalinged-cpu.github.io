@@ -15,7 +15,7 @@ Fletcher Jones Audi is an used car dealer in Chicago, IL at 1523 West North Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fletcher-jones-audi-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fletcher-jones-audi-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/337682191 (license ODbL-1.0); source data as of 2026-06-01

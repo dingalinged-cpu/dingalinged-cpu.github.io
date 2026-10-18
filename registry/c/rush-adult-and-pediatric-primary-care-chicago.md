@@ -15,7 +15,7 @@ RUSH Adult and Pediatric Primary Care is a pediatrician in Chicago, IL at 1645 W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rush-adult-and-pediatric-primary-care-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rush-adult-and-pediatric-primary-care-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11352719095 (license ODbL-1.0); source data as of 2026-07-28

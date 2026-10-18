@@ -15,7 +15,7 @@ Johnson / Turner Legal is a lawyer in Wayzata, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/johnson-turner-legal-wayzata/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/johnson-turner-legal-wayzata.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8541900856 (license ODbL-1.0); source data as of 2026-05-31

@@ -15,7 +15,7 @@ Fred's Barber Shoppe is a hair salon in Lake Forest, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/freds-barber-shoppe-lake-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/freds-barber-shoppe-lake-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8117571540 (license ODbL-1.0); source data as of 2026-06-01

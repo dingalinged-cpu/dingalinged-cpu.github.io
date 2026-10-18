@@ -15,7 +15,7 @@ Royal Palace Banquet is an event venue in Naperville, IL at 1570 West Ogden Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/royal-palace-banquet-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/royal-palace-banquet-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/975861141 (license ODbL-1.0); source data as of 2026-07-28

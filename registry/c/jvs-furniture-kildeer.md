@@ -15,7 +15,7 @@ JVS Furniture is a furniture store in Kildeer, IL at 20771 Rand Road, Kildeer, I
 - Opening hours (OSM syntax): Mo-Su 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jvs-furniture-kildeer/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jvs-furniture-kildeer.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12309592901 (license ODbL-1.0); source data as of 2026-06-01

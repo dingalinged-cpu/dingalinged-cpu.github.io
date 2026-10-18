@@ -15,7 +15,7 @@ Spencer's is a jewelry store in Roseville, MN.
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/spencers-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/spencers-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6982974943 (license ODbL-1.0); source data as of 2026-06-01

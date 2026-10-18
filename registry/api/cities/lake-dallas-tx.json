@@ -1,0 +1,276 @@
+{
+ "place": "Lake Dallas, TX",
+ "slug": "lake-dallas-tx",
+ "count": 8,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "car wash lake dallas tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-lake-dallas-tx.json"
+  },
+  {
+   "keyword": "hair salon lake dallas tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-lake-dallas-tx.json"
+  },
+  {
+   "keyword": "haircut lake dallas tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-lake-dallas-tx.json"
+  },
+  {
+   "keyword": "liquor store lake dallas tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-lake-dallas-tx.json"
+  },
+  {
+   "keyword": "massage lake dallas tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-lake-dallas-tx.json"
+  },
+  {
+   "keyword": "nail salon lake dallas tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-lake-dallas-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "beer-barn-lake-dallas",
+   "name": "Beer Barn",
+   "summary": "Beer Barn is a liquor store in Lake Dallas, TX at 307 West Hundley Drive, Lake Dallas, TX 75065.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beer-barn-lake-dallas/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beer-barn-lake-dallas.json",
+   "address": {
+    "streetAddress": "307 West Hundley Drive",
+    "addressLocality": "Lake Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75065",
+    "addressCountry": "US"
+   },
+   "city": "Lake Dallas",
+   "state": "TX",
+   "zip": "75065",
+   "geo": {
+    "lat": 33.1229174,
+    "lon": -97.033731
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9858514253",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "car-wash-lake-dallas",
+   "name": "Car Wash",
+   "summary": "Car Wash is a car wash in Lake Dallas, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/car-wash-lake-dallas/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/car-wash-lake-dallas.json",
+   "address": {
+    "addressLocality": "Lake Dallas",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Lake Dallas",
+   "state": "TX",
+   "geo": {
+    "lat": 33.120019,
+    "lon": -97.029681
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/804710449",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fossil-creek-liquor-lake-dallas",
+   "name": "Fossil Creek Liquor",
+   "summary": "Fossil Creek Liquor is a liquor store in Lake Dallas, TX at 304 West Swisher Road, Lake Dallas, TX 75065.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fossil-creek-liquor-lake-dallas/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fossil-creek-liquor-lake-dallas.json",
+   "address": {
+    "streetAddress": "304 West Swisher Road",
+    "addressLocality": "Lake Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75065",
+    "addressCountry": "US"
+   },
+   "city": "Lake Dallas",
+   "state": "TX",
+   "zip": "75065",
+   "geo": {
+    "lat": 33.1305262,
+    "lon": -97.0377467
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/565968123",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "good-foot-lake-dallas",
+   "name": "Good Foot",
+   "summary": "Good Foot is a massage studio in Lake Dallas, TX at 303 Swisher Road #Suite 220, Lake Dallas, TX 75065.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/good-foot-lake-dallas/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/good-foot-lake-dallas.json",
+   "address": {
+    "streetAddress": "303 Swisher Road #Suite 220",
+    "addressLocality": "Lake Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75065",
+    "addressCountry": "US"
+   },
+   "city": "Lake Dallas",
+   "state": "TX",
+   "zip": "75065",
+   "geo": {
+    "lat": 33.1302675,
+    "lon": -97.0370484
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9447940784",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goody-goody-liquor-lake-dallas",
+   "name": "Goody Goody Liquor",
+   "summary": "Goody Goody Liquor is a liquor store in Lake Dallas, TX at 104 North Stemmons Freeway, Lake Dallas, TX 75065.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goody-goody-liquor-lake-dallas/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goody-goody-liquor-lake-dallas.json",
+   "address": {
+    "streetAddress": "104 North Stemmons Freeway",
+    "addressLocality": "Lake Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75065",
+    "addressCountry": "US"
+   },
+   "city": "Lake Dallas",
+   "state": "TX",
+   "zip": "75065",
+   "geo": {
+    "lat": 33.1233178,
+    "lon": -97.0339135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/651725083",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "shaxs-liquor-lake-dallas",
+   "name": "Shax's Liquor",
+   "summary": "Shax's Liquor is a liquor store in Lake Dallas, TX at 311 West Hundley Drive, Lake Dallas, TX 75065.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shaxs-liquor-lake-dallas/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shaxs-liquor-lake-dallas.json",
+   "address": {
+    "streetAddress": "311 West Hundley Drive",
+    "addressLocality": "Lake Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75065",
+    "addressCountry": "US"
+   },
+   "city": "Lake Dallas",
+   "state": "TX",
+   "zip": "75065",
+   "geo": {
+    "lat": 33.1229152,
+    "lon": -97.0339349
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9858514252",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "shear-design-salon-lake-dallas",
+   "name": "Shear Design Salon",
+   "summary": "Shear Design Salon is a hair salon in Lake Dallas, TX at 308 South Shady Shores Road, Lake Dallas, TX 75065.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shear-design-salon-lake-dallas/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shear-design-salon-lake-dallas.json",
+   "address": {
+    "streetAddress": "308 South Shady Shores Road",
+    "addressLocality": "Lake Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75065",
+    "addressCountry": "US"
+   },
+   "city": "Lake Dallas",
+   "state": "TX",
+   "zip": "75065",
+   "geo": {
+    "lat": 33.1198977,
+    "lon": -97.0294348
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9858514249",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vip-nail-and-spa-lake-dallas",
+   "name": "VIP Nail & Spa",
+   "summary": "VIP Nail & Spa is a nail salon in Lake Dallas, TX at 303 Swisher Road #Suite 240, Lake Dallas, TX 75065.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vip-nail-and-spa-lake-dallas/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vip-nail-and-spa-lake-dallas.json",
+   "address": {
+    "streetAddress": "303 Swisher Road #Suite 240",
+    "addressLocality": "Lake Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75065",
+    "addressCountry": "US"
+   },
+   "city": "Lake Dallas",
+   "state": "TX",
+   "zip": "75065",
+   "geo": {
+    "lat": 33.1302732,
+    "lon": -97.0369371
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9447940786",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

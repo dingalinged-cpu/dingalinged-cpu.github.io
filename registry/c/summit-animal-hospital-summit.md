@@ -15,7 +15,7 @@ Summit Animal Hospital is a veterinarian in Summit, IL at 6050 South Harlem Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/summit-animal-hospital-summit/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/summit-animal-hospital-summit.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/282577567 (license ODbL-1.0); source data as of 2026-07-28

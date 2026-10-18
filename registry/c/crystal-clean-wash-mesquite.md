@@ -1,0 +1,23 @@
+Crystal Clean Wash is a car wash in Mesquite, TX at 160 West Cartwright Road, Mesquite, TX 75149.
+
+# Crystal Clean Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 160 West Cartwright Road, Mesquite, TX 75149
+- City: Mesquite
+- State: TX
+- ZIP: 75149
+- Coordinates: 32.7463404, -96.5978591
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/crystal-clean-wash-mesquite/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/crystal-clean-wash-mesquite.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/673946398 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

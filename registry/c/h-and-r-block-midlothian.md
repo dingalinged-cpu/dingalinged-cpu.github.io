@@ -15,7 +15,7 @@ H&R Block is a tax preparation service in Midlothian, IL at 4820 147th Street, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/h-and-r-block-midlothian/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-midlothian.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12392072476 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Ciara’s Hair Magic is a hair salon in Minneapolis, MN at 4547 Bloomington Aven
 - Opening hours (OSM syntax): Tu-We 10:00-19:00; Fr-Sa 10:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ciara-s-hair-magic-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ciara-s-hair-magic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4869038584 (license ODbL-1.0); source data as of 2026-06-01

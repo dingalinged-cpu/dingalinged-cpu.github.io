@@ -1,0 +1,155 @@
+{
+ "title": "Keyword market data: Town Of Burlington, WI",
+ "description": "Top Town Of Burlington, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "place": "Town Of Burlington, WI",
+ "geography": "Milwaukee-Waukesha, WI metro",
+ "keywords": 3,
+ "lists": {
+  "by_volume": [
+   {
+    "keyword": "vet town of burlington wi",
+    "slug": "vet-town-of-burlington-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/vet-town-of-burlington-wi/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 2500,
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "search_value_index_usd": 10000,
+    "equivalent_google_ads_cost_month_usd": 670,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "roofing contractor town of burlington wi",
+    "slug": "roofing-contractor-town-of-burlington-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-town-of-burlington-wi/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 620,
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "search_value_index_usd": 7300,
+    "equivalent_google_ads_cost_month_usd": 470,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "roofer town of burlington wi",
+    "slug": "roofer-town-of-burlington-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-town-of-burlington-wi/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 230,
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "search_value_index_usd": 2500,
+    "equivalent_google_ads_cost_month_usd": 160,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   }
+  ],
+  "by_cpc": [
+   {
+    "keyword": "roofing contractor town of burlington wi",
+    "slug": "roofing-contractor-town-of-burlington-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-town-of-burlington-wi/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 620,
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "search_value_index_usd": 7300,
+    "equivalent_google_ads_cost_month_usd": 470,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "roofer town of burlington wi",
+    "slug": "roofer-town-of-burlington-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-town-of-burlington-wi/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 230,
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "search_value_index_usd": 2500,
+    "equivalent_google_ads_cost_month_usd": 160,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "vet town of burlington wi",
+    "slug": "vet-town-of-burlington-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/vet-town-of-burlington-wi/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 2500,
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "search_value_index_usd": 10000,
+    "equivalent_google_ads_cost_month_usd": 670,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": [
+   {
+    "keyword": "vet town of burlington wi",
+    "slug": "vet-town-of-burlington-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/vet-town-of-burlington-wi/",
+    "us_monthly_searches": 550000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 2500,
+    "cpc_basis_usd": 4.06,
+    "cpc_median_usd": 4.06,
+    "search_value_index_usd": 10000,
+    "equivalent_google_ads_cost_month_usd": 670,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "roofing contractor town of burlington wi",
+    "slug": "roofing-contractor-town-of-burlington-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-town-of-burlington-wi/",
+    "us_monthly_searches": 135000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 620,
+    "cpc_basis_usd": 11.79,
+    "cpc_median_usd": 10.7,
+    "search_value_index_usd": 7300,
+    "equivalent_google_ads_cost_month_usd": 470,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "roofer town of burlington wi",
+    "slug": "roofer-town-of-burlington-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-town-of-burlington-wi/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 230,
+    "cpc_basis_usd": 10.7,
+    "cpc_median_usd": 10.7,
+    "search_value_index_usd": 2500,
+    "equivalent_google_ads_cost_month_usd": 160,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   }
+  ]
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

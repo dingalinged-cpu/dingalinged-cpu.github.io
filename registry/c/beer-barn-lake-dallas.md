@@ -1,0 +1,23 @@
+Beer Barn is a liquor store in Lake Dallas, TX at 307 West Hundley Drive, Lake Dallas, TX 75065.
+
+# Beer Barn
+
+- Category: liquor store
+- Services: liquor store
+- Address: 307 West Hundley Drive, Lake Dallas, TX 75065
+- City: Lake Dallas
+- State: TX
+- ZIP: 75065
+- Coordinates: 33.1229174, -97.033731
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/beer-barn-lake-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/beer-barn-lake-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9858514253 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

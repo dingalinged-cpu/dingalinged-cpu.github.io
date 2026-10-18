@@ -15,7 +15,7 @@ Bill's Lawn Maintenance and Landscaping is a landscaping company in Frankfort, I
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bills-lawn-maintenance-and-landscaping-frankfort/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bills-lawn-maintenance-and-landscaping-frankfort.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12030732640 (license ODbL-1.0); source data as of 2026-06-01

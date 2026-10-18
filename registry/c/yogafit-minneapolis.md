@@ -15,7 +15,7 @@ YogaFit is a yoga studio in Minneapolis, MN at 520 Northeast 1st Avenue, Minneap
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/yogafit-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/yogafit-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6773414139 (license ODbL-1.0); source data as of 2026-07-15

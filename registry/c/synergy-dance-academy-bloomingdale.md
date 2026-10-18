@@ -15,7 +15,7 @@ Synergy Dance Academy is a dance studio in Bloomingdale, IL at 160 South Bloomin
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/synergy-dance-academy-bloomingdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/synergy-dance-academy-bloomingdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13998270164 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Haben Funeral Home & Crematory is a funeral home in Skokie, IL at 8057 Niles Cen
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/haben-funeral-home-and-crematory-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/haben-funeral-home-and-crematory-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/339143921 (license ODbL-1.0); source data as of 2026-06-01

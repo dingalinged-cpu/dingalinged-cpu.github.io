@@ -15,7 +15,7 @@ GEICO is an insurance agent in Roseville, MN at 2174 Snelling Avenue North, Rose
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/geico-roseville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/geico-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/118402681 (license ODbL-1.0); source data as of 2026-05-31

@@ -15,7 +15,7 @@ Smile Cleaners is a dry cleaner in Chicago, IL at 1849 West Addison Street, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/smile-cleaners-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/smile-cleaners-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12312304501 (license ODbL-1.0); source data as of 2026-06-01

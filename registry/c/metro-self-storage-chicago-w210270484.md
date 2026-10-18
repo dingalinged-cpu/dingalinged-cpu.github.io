@@ -15,7 +15,7 @@ Metro Self Storage is a self-storage facility in Chicago, IL at 465 North Despla
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/metro-self-storage-chicago-w210270484/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/metro-self-storage-chicago-w210270484.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210270484 (license ODbL-1.0); source data as of 2026-06-01

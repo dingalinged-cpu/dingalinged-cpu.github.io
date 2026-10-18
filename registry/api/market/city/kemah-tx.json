@@ -1,0 +1,155 @@
+{
+ "title": "Keyword market data: Kemah, TX",
+ "description": "Top Kemah, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "place": "Kemah, TX",
+ "geography": "Houston-Pasadena-The Woodlands, TX metro",
+ "keywords": 3,
+ "lists": {
+  "by_volume": [
+   {
+    "keyword": "hair salon kemah tx",
+    "slug": "hair-salon-kemah-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-kemah-tx/",
+    "us_monthly_searches": 1500000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 35000,
+    "cpc_basis_usd": 0.55,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 19000,
+    "equivalent_google_ads_cost_month_usd": 1100,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "nail salon kemah tx",
+    "slug": "nail-salon-kemah-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-kemah-tx/",
+    "us_monthly_searches": 1000000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 23000,
+    "cpc_basis_usd": 0.61,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 14000,
+    "equivalent_google_ads_cost_month_usd": 800,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "haircut kemah tx",
+    "slug": "haircut-kemah-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-kemah-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 8500,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 39000,
+    "equivalent_google_ads_cost_month_usd": 2200,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_volume"
+   }
+  ],
+  "by_cpc": [
+   {
+    "keyword": "haircut kemah tx",
+    "slug": "haircut-kemah-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-kemah-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 8500,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 39000,
+    "equivalent_google_ads_cost_month_usd": 2200,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "nail salon kemah tx",
+    "slug": "nail-salon-kemah-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-kemah-tx/",
+    "us_monthly_searches": 1000000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 23000,
+    "cpc_basis_usd": 0.61,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 14000,
+    "equivalent_google_ads_cost_month_usd": 800,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "hair salon kemah tx",
+    "slug": "hair-salon-kemah-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-kemah-tx/",
+    "us_monthly_searches": 1500000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 35000,
+    "cpc_basis_usd": 0.55,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 19000,
+    "equivalent_google_ads_cost_month_usd": 1100,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": [
+   {
+    "keyword": "haircut kemah tx",
+    "slug": "haircut-kemah-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-kemah-tx/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 8500,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 39000,
+    "equivalent_google_ads_cost_month_usd": 2200,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "hair salon kemah tx",
+    "slug": "hair-salon-kemah-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-kemah-tx/",
+    "us_monthly_searches": 1500000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 35000,
+    "cpc_basis_usd": 0.55,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 19000,
+    "equivalent_google_ads_cost_month_usd": 1100,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "nail salon kemah tx",
+    "slug": "nail-salon-kemah-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-kemah-tx/",
+    "us_monthly_searches": 1000000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 23000,
+    "cpc_basis_usd": 0.61,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 14000,
+    "equivalent_google_ads_cost_month_usd": 800,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   }
+  ]
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

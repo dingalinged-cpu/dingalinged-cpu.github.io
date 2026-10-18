@@ -1,0 +1,23 @@
+Artistic Works Dentistry is a dentist in Spring Valley Village, TX at 8412 Katy Freeway #330, Spring Valley Village, TX.
+
+# Artistic Works Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 8412 Katy Freeway #330, Spring Valley Village, TX
+- City: Spring Valley Village
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7852316, -95.4934139
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/artistic-works-dentistry-spring-valley-village/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/artistic-works-dentistry-spring-valley-village.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8868990736 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

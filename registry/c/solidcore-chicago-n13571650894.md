@@ -15,7 +15,7 @@ Solidcore is a gym in Chicago, IL. Website: https://solidcore.co/studios/river-n
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/solidcore-chicago-n13571650894/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/solidcore-chicago-n13571650894.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13571650894 (license ODbL-1.0); source data as of 2026-06-01

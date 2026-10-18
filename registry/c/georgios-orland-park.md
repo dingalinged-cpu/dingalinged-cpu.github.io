@@ -15,7 +15,7 @@ Georgio's is an event venue in Orland Park, IL at 8800 West 159th Street, Orland
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/georgios-orland-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/georgios-orland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10310231584 (license ODbL-1.0); source data as of 2026-07-28

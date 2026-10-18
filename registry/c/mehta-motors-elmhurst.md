@@ -15,7 +15,7 @@ Mehta Motors is an auto repair shop in Elmhurst, IL at 463 Spring Road, Elmhurst
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mehta-motors-elmhurst/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mehta-motors-elmhurst.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2375385750 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Princeton's Main Street Liquor is a liquor store in Osseo, MN at 341 Central Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/princetons-main-street-liquor-osseo/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/princetons-main-street-liquor-osseo.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/762299290 (license ODbL-1.0); source data as of 2026-06-01

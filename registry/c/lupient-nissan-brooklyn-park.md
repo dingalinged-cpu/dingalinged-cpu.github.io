@@ -15,7 +15,7 @@ Lupient Nissan is an used car dealer in Brooklyn Park, MN at 7910 Lakeland Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lupient-nissan-brooklyn-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lupient-nissan-brooklyn-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/759167183 (license ODbL-1.0); source data as of 2026-06-01

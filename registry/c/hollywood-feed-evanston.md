@@ -15,7 +15,7 @@ Hollywood Feed is a pet store in Evanston, IL at 2672 Green Bay Road, Evanston, 
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:30; Su 10:00-18:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hollywood-feed-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hollywood-feed-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2295254798 (license ODbL-1.0); source data as of 2026-06-01

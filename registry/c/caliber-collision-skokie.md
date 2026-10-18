@@ -15,7 +15,7 @@ Caliber Collision is an auto repair shop in Skokie, IL at 5950 Howard Street, Sk
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/caliber-collision-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/203683260 (license ODbL-1.0); source data as of 2026-06-01

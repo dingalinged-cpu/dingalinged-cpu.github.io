@@ -15,7 +15,7 @@ Adair Liquor is a liquor store in Crystal, MN at 6001 42nd Avenue North, Crystal
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/adair-liquor-crystal/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/adair-liquor-crystal.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1223321513 (license ODbL-1.0); source data as of 2026-06-01

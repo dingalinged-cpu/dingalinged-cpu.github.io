@@ -15,7 +15,7 @@ Little Lion Studio is a photographer in Minneapolis, MN. Website: https://www.li
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/little-lion-studio-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/little-lion-studio-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12139116024 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ My Sister's Closet is a thrift store in Chicago, IL at 5413-5417 West Devon Aven
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/my-sisters-closet-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/my-sisters-closet-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162836624 (license ODbL-1.0); source data as of 2026-06-01

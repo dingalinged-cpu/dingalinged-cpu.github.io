@@ -15,7 +15,7 @@ Mobil is a car wash in Des Plaines, IL at 9660 Golf Road, Des Plaines, IL 60016.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1376511172 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Compass is a real estate agency in Chicago, IL at 5500 West Devon Avenue, Chicag
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/compass-chicago-w1536035447/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/compass-chicago-w1536035447.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1536035447 (license ODbL-1.0); source data as of 2026-07-28

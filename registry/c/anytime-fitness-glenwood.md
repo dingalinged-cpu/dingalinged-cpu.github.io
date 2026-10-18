@@ -15,7 +15,7 @@ Anytime Fitness is a gym in Glenwood, IL at 18345 Halsted Street, Glenwood, IL 6
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-glenwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-glenwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7716125881 (license ODbL-1.0); source data as of 2026-06-01

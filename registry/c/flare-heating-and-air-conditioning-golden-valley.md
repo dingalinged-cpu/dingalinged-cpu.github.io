@@ -15,7 +15,7 @@ Flare Heating and Air Conditioning is a HVAC contractor in Golden Valley, MN at 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/flare-heating-and-air-conditioning-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/flare-heating-and-air-conditioning-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12751755439 (license ODbL-1.0); source data as of 2026-07-24

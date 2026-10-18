@@ -1,0 +1,23 @@
+Today's Vision is an eye care practice in Harris County, TX.
+
+# Today's Vision
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: Harris County, TX
+- City: Harris County
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.9930879, -95.1774937
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/todays-vision-harris-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/todays-vision-harris-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13815306891 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

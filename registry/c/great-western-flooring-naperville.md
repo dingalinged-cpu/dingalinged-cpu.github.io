@@ -15,7 +15,7 @@ Great Western Flooring is a flooring company in Naperville, IL at 720 North Wash
 - Opening hours (OSM syntax): Tu,We,Fr,Sa 10:00-16:00, Th 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/great-western-flooring-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-western-flooring-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8498743292 (license ODbL-1.0); source data as of 2026-06-01

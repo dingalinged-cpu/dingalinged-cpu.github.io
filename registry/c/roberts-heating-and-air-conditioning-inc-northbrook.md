@@ -15,7 +15,7 @@ Roberts Heating & Air Conditioning, Inc. is a HVAC contractor in Northbrook, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/roberts-heating-and-air-conditioning-inc-northbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/roberts-heating-and-air-conditioning-inc-northbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8483100379 (license ODbL-1.0); source data as of 2026-06-01

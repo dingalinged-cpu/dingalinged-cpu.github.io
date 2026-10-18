@@ -15,7 +15,7 @@ Life Time is a gym in Minneapolis, MN at 600 1st Avenue North, Minneapolis, MN 5
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/life-time-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/life-time-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/318601934 (license ODbL-1.0); source data as of 2026-07-15

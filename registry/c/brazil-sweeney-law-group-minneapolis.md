@@ -15,7 +15,7 @@ Brazil Sweeney Law Group is a lawyer in Minneapolis, MN at 1622 West Lake Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/brazil-sweeney-law-group-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/brazil-sweeney-law-group-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6450215743 (license ODbL-1.0); source data as of 2026-05-31

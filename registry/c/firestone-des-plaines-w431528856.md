@@ -15,7 +15,7 @@ Firestone is an auto repair shop in Des Plaines, IL at 1424 Lee Street, Des Plai
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/firestone-des-plaines-w431528856/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/firestone-des-plaines-w431528856.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/431528856 (license ODbL-1.0); source data as of 2026-06-01

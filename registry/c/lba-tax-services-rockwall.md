@@ -1,0 +1,23 @@
+LBA Tax Services is a tax preparation service in Rockwall, TX.
+
+# LBA Tax Services
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: Rockwall, TX
+- City: Rockwall
+- State: TX
+- ZIP: n/a
+- Coordinates: 32.9178838, -96.4526202
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lba-tax-services-rockwall/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lba-tax-services-rockwall.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12214473494 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Medinah Barber Shop is a hair salon in Chicago, IL. Website: https://www.yelp.co
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/medinah-barber-shop-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/medinah-barber-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2622813465 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,4 +1,4 @@
-The top unpaid preschool listing for the United States is Academia Elze Spanish Immersion Early Learning Center (a preschool in Minneapolis, MN at 4 West Franklin Avenue, Minneapolis, MN 55403. Phone: +16123455370. Website: https://www.academiaelze.com/). 221 preschool businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for the United States is Academia Elze Spanish Immersion Early Learning Center (a preschool in Minneapolis, MN at 4 West Franklin Avenue, Minneapolis, MN 55403. Phone: +16123455370. Website: https://www.academiaelze.com/). 387 preschool businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in the United States?
 
@@ -7,237 +7,226 @@ Also answers: preschool in the United States; preschool near me (the United Stat
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
 1. Academia Elze Spanish Immersion Early Learning Center | trust 20.0 | Academia Elze Spanish Immersion Early Learning Center is a preschool in Minneapolis, MN at 4 West Franklin Avenue, Minneapolis, MN 55403. Phone: +16123455370. Website: https://www.academiaelze.com/. | https://dingalinged-cpu.github.io/registry/c/academia-elze-spanish-immersion-early-learning-center-minneapolis/
-2. Bright Horizons | trust 20.0 | Bright Horizons is a preschool in Chicago, IL at 360 East South Water Street, Chicago, IL 60601. Phone: +13125657300. Website: https://child-care-preschool.brighthorizons.com/il/chicago/lakeshoreeast. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-chicago/
-3. Cornerstone Children's Learning Center | trust 20.0 | Cornerstone Children's Learning Center is a preschool in Chicago, IL at 1111 North Wells Street ##200, Chicago, IL 60610. Phone: +13125738900. Website: https://cornerstonechildrenslearningcenter.com/. | https://dingalinged-cpu.github.io/registry/c/cornerstone-childrens-learning-center-chicago/
-4. Council Oak Montessori School | trust 20.0 | Council Oak Montessori School is a preschool in Blue Island, IL at 2521 Grove Street, Blue Island, IL 60406. Phone: +17089269720. Website: https://counciloakmontessori.org/. | https://dingalinged-cpu.github.io/registry/c/council-oak-montessori-school-blue-island/
-5. Deerfield Montessori School | trust 20.0 | Deerfield Montessori School is a preschool in Deerfield, IL at 760 North Avenue, Deerfield, IL 60015. Phone: +18479457580. Website: https://montessori-schools.com/. | https://dingalinged-cpu.github.io/registry/c/deerfield-montessori-school-deerfield/
-6. KinderCare | trust 20.0 | KinderCare is a preschool in Lisle, IL at 6420 College Road, Lisle, IL 60532. Phone: +16303690988. Website: https://www.kindercare.com/our-centers/lisle/il/300935. | https://dingalinged-cpu.github.io/registry/c/kindercare-lisle/
-7. KinderCare | trust 20.0 | KinderCare is a preschool in Maple Grove, MN at 13380 Grove Drive North, Maple Grove, MN 55369. Phone: +17634209200. Website: https://www.kindercare.com/our-centers/maple-grove/mn/301287. | https://dingalinged-cpu.github.io/registry/c/kindercare-maple-grove/
-8. KinderCare | trust 20.0 | KinderCare is a preschool in Naperville, IL at 1228 West Ogden Avenue, Naperville, IL 60563. Phone: +16309619400. Website: https://www.kindercare.com/our-centers/naperville/il/000551. | https://dingalinged-cpu.github.io/registry/c/kindercare-naperville/
-9. KinderCare | trust 20.0 | KinderCare is a preschool in Naperville, IL at 889 Benedetti Drive, Naperville, IL 60563. Phone: +16303693050. Website: https://www.kindercare.com/our-centers/naperville/il/000529. | https://dingalinged-cpu.github.io/registry/c/kindercare-naperville-w280270396/
-10. KinderCare | trust 20.0 | KinderCare is a preschool in Naperville, IL at 1239 Rickert Drive, Naperville, IL 60540. Phone: +16307788767. Website: https://www.kindercare.com/our-centers/naperville/il/301459. | https://dingalinged-cpu.github.io/registry/c/kindercare-naperville-w312152232/
-11. KinderCare | trust 19.0 | KinderCare is a preschool in Woodridge, IL at 7040 Woodward Avenue, Woodridge, IL. Phone: +16308522611. Website: https://www.kindercare.com/our-centers/woodridge/il/000881. | https://dingalinged-cpu.github.io/registry/c/kindercare-woodridge-w565563655/
-12. Bright Horizons | trust 16.0 | Bright Horizons is a preschool in Northbrook, IL at 1101 Techny Road, Northbrook, IL 60062. Phone: +18473883871. Website: https://brighthorizons.com/. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-northbrook/
-13. Casa de Corazón | trust 16.0 | Casa de Corazón is a preschool in Maple Grove, MN at 8351 Elm Creek Boulevard, Maple Grove, MN 55369. Phone: +17634163992. Website: https://casaearlylearning.com/. | https://dingalinged-cpu.github.io/registry/c/casa-de-coraz-n-maple-grove/
-14. Creative Kidz Learning Center | trust 16.0 | Creative Kidz Learning Center is a preschool in Chicago, IL at 5776 North Lincoln Avenue, Chicago, IL 60659. Phone: +17739897400. Website: https://creativekidzlearning.com/. | https://dingalinged-cpu.github.io/registry/c/creative-kidz-learning-center-chicago/
-15. Domowe Przedszkole w Des Plaines | trust 16.0 | Domowe Przedszkole w Des Plaines is a preschool in Des Plaines, IL at 31 Terrace Lane, Des Plaines, IL 60016. Phone: +18472984739. Website: https://www.facebook.com/domoweprzedszkolewdesplaines. | https://dingalinged-cpu.github.io/registry/c/domowe-przedszkole-w-des-plaines-des-plaines/
-16. Elk Grove Village KinderCare | trust 16.0 | Elk Grove Village KinderCare is a preschool in Elk Grove Village, IL at 800 South Arlington Heights Road, Elk Grove Village, IL 60007. Phone: +18479567123. Website: https://www.kindercare.com/. | https://dingalinged-cpu.github.io/registry/c/elk-grove-village-kindercare-elk-grove-village/
-17. Glenview Montessori School | trust 16.0 | Glenview Montessori School is a preschool in Northfield, IL at 305 Waukegan Road, Northfield, IL 60093. Phone: +18474467584. Website: https://montessori-schools.com/. | https://dingalinged-cpu.github.io/registry/c/glenview-montessori-school-northfield/
-18. Indian Hill School | trust 16.0 | Indian Hill School is a preschool in Palos Heights, IL at 12800 South Austin Avenue, Palos Heights, IL 60463. Phone: +17085974230. Website: https://indianhill.palos128.org/. | https://dingalinged-cpu.github.io/registry/c/indian-hill-school-palos-heights/
-19. Jubilee Kids Preschool and Childcare | trust 16.0 | Jubilee Kids Preschool and Childcare is a preschool in Naperville, IL at 420 West 5th Avenue, Naperville, IL 60563. Phone: +16303699180. Website: https://jubileekidspreschool.com/. | https://dingalinged-cpu.github.io/registry/c/jubilee-kids-preschool-and-childcare-naperville/
-20. KinderCare | trust 16.0 | KinderCare is a preschool in Minneapolis, MN at 525 Southeast Huron Boulevard, Minneapolis, MN 55414. Phone: +16126234642. Website: https://www.kindercare.com/our-centers/minneapolis/mn/000855. | https://dingalinged-cpu.github.io/registry/c/kindercare-minneapolis/
-21. KinderCare | trust 16.0 | KinderCare is a preschool in Woodridge, IL at 7450 Woodward Avenue, Woodridge, IL 60517. Phone: +16308524485. Website: https://www.kindercare.com/. | https://dingalinged-cpu.github.io/registry/c/kindercare-woodridge/
-22. McKnight Early Childhood Family Development Center | trust 16.0 | McKnight Early Childhood Family Development Center is a preschool in Minneapolis, MN at 4225 3rd Avenue South, Minneapolis, MN 55409. Phone: +16128257422. Website: https://www.picaheadstart.org/locations/mcknight.html. | https://dingalinged-cpu.github.io/registry/c/mcknight-early-childhood-family-development-center-minneapolis/
-23. Milestones Early Learning Center Lino Lakes | trust 16.0 | Milestones Early Learning Center Lino Lakes is a preschool in Lino Lakes, MN at 595 Lilac St., Lino Lakes, MN 55014. Phone: +16519642277. Website: https://www.milestoneselc.com/locations/lino-lakes. | https://dingalinged-cpu.github.io/registry/c/milestones-early-learning-center-lino-lakes-lino-lakes/
-24. New Horizon Academy | trust 16.0 | New Horizon Academy is a preschool in Coon Rapids, MN at 11441 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637553064. Website: https://www.newhorizonacademy.net/location/coon-rapids/. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-coon-rapids-w1002158993/
-25. Primrose School | trust 16.0 | Primrose School is a preschool in Saint Paul, MN at 1533 Dayton Avenue, Saint Paul, MN 55104. Phone: +16512023144. Website: https://www.primroseschools.com/schools/st-paul-at-merriam-park/. | https://dingalinged-cpu.github.io/registry/c/primrose-school-saint-paul/
-26. Richton Square School | trust 16.0 | Richton Square School is a preschool in Richton Park, IL at 22700 Richton Square Road, Richton Park, IL 60471. Phone: +17082832706. Website: https://richton.sd162.org/. | https://dingalinged-cpu.github.io/registry/c/richton-square-school-richton-park/
-27. Riverwoods Montessori School | trust 16.0 | Riverwoods Montessori School is a preschool in Riverwoods, IL at 3140 Riverwoods Road, Riverwoods, IL 60015. Phone: +18479457582. Website: https://montessori-schools.com/. | https://dingalinged-cpu.github.io/registry/c/riverwoods-montessori-school-riverwoods/
-28. The Goddard School | trust 16.0 | The Goddard School is a preschool in Mokena, IL at 11900 Francis Road, Mokena, IL 60448. Phone: +17083908880. Website: https://www.goddardschool.com/. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-mokena/
-29. Unity Preschool | trust 16.0 | Unity Preschool is a preschool in Evanston, IL at 926 Noyes Street, Evanston, IL 60201. Phone: +18478697170. Website: https://unitypreschoolevanston.com/. | https://dingalinged-cpu.github.io/registry/c/unity-preschool-evanston/
-30. Wee Care Preschool | trust 16.0 | Wee Care Preschool is a preschool in Chicago, IL at 3826 North Broadway, Chicago, IL 60613. Phone: +17732482273. Website: https://www.weecare.com/. | https://dingalinged-cpu.github.io/registry/c/wee-care-preschool-chicago/
-31. Yellow Brick Road | trust 16.0 | Yellow Brick Road is a preschool in Maple Grove, MN at 9745 Revere Lane North, Maple Grove, MN 55369. Phone: +16129273232. Website: https://www.ybrecdc.org/. | https://dingalinged-cpu.github.io/registry/c/yellow-brick-road-maple-grove/
-32. Mano's Highland Village Montessori School | trust 15.0 | Mano's Highland Village Montessori School is a preschool in Saint Paul, MN at 1882 Ford Parkway, Saint Paul, MN. Phone: +16516909363. Website: https://www.highlandvillagemontessorichildcare.com/. | https://dingalinged-cpu.github.io/registry/c/manos-highland-village-montessori-school-saint-paul/
-33. The Little School | trust 15.0 | The Little School is a preschool in Saint Paul, MN at 1795 Ford Parkway, Saint Paul, MN. Phone: +16516905110. Website: https://www.thelittleschoolsaintpaul.com/. | https://dingalinged-cpu.github.io/registry/c/the-little-school-saint-paul/
-34. Knowledge Beginnings | trust 14.0 | Knowledge Beginnings is a preschool in Glenview, IL at 2401 Compass Road, Glenview, IL 60026. Phone: +18477290204. | https://dingalinged-cpu.github.io/registry/c/knowledge-beginnings-glenview/
-35. Sound Garden Learning Center | trust 14.0 | Sound Garden Learning Center is a preschool in Lake Zurich, IL at 116 Lions Drive, Lake Zurich, IL 60047. Phone: +18474382440. | https://dingalinged-cpu.github.io/registry/c/sound-garden-learning-center-lake-zurich/
-36. Ann Reid Early Childhood Center | trust 12.0 | Ann Reid Early Childhood Center is a preschool in Naperville, IL. Phone: +16304206899. Website: https://www.naperville203.org/annreid. | https://dingalinged-cpu.github.io/registry/c/ann-reid-early-childhood-center-naperville/
-37. Highland Park Montessori School | trust 12.0 | Highland Park Montessori School is a preschool in Saint Paul, MN. Phone: +16516905327. Website: https://www.highlandpark-ms.org/. | https://dingalinged-cpu.github.io/registry/c/highland-park-montessori-school-saint-paul/
-38. Queen Bee Early Childhood Center | trust 12.0 | Queen Bee Early Childhood Center is a preschool in Glendale Heights, IL. Phone: +16303445600. Website: https://www.queenbee16.org/Queen%20Bee%20Early%20Childhood%20Center. | https://dingalinged-cpu.github.io/registry/c/queen-bee-early-childhood-center-glendale-heights/
-39. Blair Early Childhood Center | trust 10.0 | Blair Early Childhood Center is a preschool in Chicago, IL at 6751 West 63rd Place, Chicago, IL 60638. Website: https://blair.cps.edu/. | https://dingalinged-cpu.github.io/registry/c/blair-early-childhood-center-chicago/
-40. Bright Horizons | trust 10.0 | Bright Horizons is a preschool in Evanston, IL at 1629 Sherman Avenue, Evanston, IL 60201. Phone: +18474919032. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-evanston/
-41. Bright Horizons at Chancellory | trust 10.0 | Bright Horizons at Chancellory is a preschool in Itasca, IL at 270 Windsor Drive, Itasca, IL 60143. Phone: +16302164672. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-at-chancellory-itasca/
-42. Bubbles Academy | trust 10.0 | Bubbles Academy is a preschool in Chicago, IL at 2184 North Elston Avenue, Chicago, IL 60614. Website: https://bubblesacademy.com/bubbles-academy-at-2184-n-elston-ave/. | https://dingalinged-cpu.github.io/registry/c/bubbles-academy-chicago/
-43. Catalpa Early Childhood Center | trust 10.0 | Catalpa Early Childhood Center is a preschool in Chicago, IL at 5252 North Long Avenue, Chicago, IL 60630. Website: https://sites.google.com/cps.edu/catalpa. | https://dingalinged-cpu.github.io/registry/c/catalpa-early-childhood-center-chicago/
-44. Chesterbrook Academy | trust 10.0 | Chesterbrook Academy is a preschool in Naperville, IL at 1587 Oswego Road, Naperville, IL 60540. Website: https://www.chesterbrookacademy.com/preschools/chicago/naperville-oswego-rd/. | https://dingalinged-cpu.github.io/registry/c/chesterbrook-academy-naperville-w312152035/
-45. Children’s Land Learning Center at Park Ridge | trust 10.0 | Children’s Land Learning Center at Park Ridge is a preschool in Park Ridge, IL at 400 Higgins Road, Park Ridge, IL 60068. Website: https://www.childrensland.com/locations/park-ridge. | https://dingalinged-cpu.github.io/registry/c/children-s-land-learning-center-at-park-ridge-park-ridge/
-46. Dever Early Childhood Center | trust 10.0 | Dever Early Childhood Center is a preschool in Chicago, IL at 3418 North Osceola Avenue, Chicago, IL 60634. Website: https://dever.cps.edu/apps/pages/index.jsp?uREC_ID=626593&type=d. | https://dingalinged-cpu.github.io/registry/c/dever-early-childhood-center-chicago/
-47. Dore Early Childhood Center | trust 10.0 | Dore Early Childhood Center is a preschool in Chicago, IL at 6108 South Natoma Avenue, Chicago, IL 60638. Website: https://www.dorebulldogschicago.org/. | https://dingalinged-cpu.github.io/registry/c/dore-early-childhood-center-chicago/
-48. Dr. James Mitchem Early Childhood Center | trust 10.0 | Dr. James Mitchem Early Childhood Center is a preschool in Romeoville, IL at 753 Dalhart Avenue, Romeoville, IL 60446. Website: https://www.vvsd.org/ec. | https://dingalinged-cpu.github.io/registry/c/dr-james-mitchem-early-childhood-center-romeoville/
-49. Edwards Center For Young Learners | trust 10.0 | Edwards Center For Young Learners is a preschool in Chicago, IL at 4950 South Laporte Avenue, Chicago, IL 60638. Website: https://edwards.cps.edu/apps/pages/index.jsp?uREC_ID=239886&type=d. | https://dingalinged-cpu.github.io/registry/c/edwards-center-for-young-learners-chicago/
-50. First Steps Preschool | trust 10.0 | First Steps Preschool is a preschool in Des Plaines, IL at 10000 North Dee Road, Des Plaines, IL 60016. Website: https://emsd63.org/firststeps. | https://dingalinged-cpu.github.io/registry/c/first-steps-preschool-des-plaines/
-51. Hearst Elementary School | trust 10.0 | Hearst Elementary School is a preschool in Chicago, IL at 4640 South Lamon Avenue, Chicago, IL 60638. Website: https://www.hearst.cps.edu/. | https://dingalinged-cpu.github.io/registry/c/hearst-elementary-school-chicago/
-52. Independence School | trust 10.0 | Independence School is a preschool in Bartlett, IL at 200 Taylor Avenue, Bartlett, IL 60103. Website: https://independence.u-46.org/. | https://dingalinged-cpu.github.io/registry/c/independence-school-bartlett/
-53. Kiddie Academy of Glenview | trust 10.0 | Kiddie Academy of Glenview is a preschool in Glenview, IL at 662 Waukegan Road, Glenview, IL 60025. Website: https://kiddieacademy.com/academies/glenview/. | https://dingalinged-cpu.github.io/registry/c/kiddie-academy-of-glenview-glenview/
-54. Lincoln Early Learning Center | trust 10.0 | Lincoln Early Learning Center is a preschool in Dixmoor, IL at 14100 Honore Avenue, Dixmoor, IL 60426. Website: https://www.whd147.org/schools/lincoln-early-learning-center/. | https://dingalinged-cpu.github.io/registry/c/lincoln-early-learning-center-dixmoor/
-55. Lincoln Primary School | trust 10.0 | Lincoln Primary School is a preschool in Bellwood, IL at 3519 Wilcox Street, Bellwood, IL 60104. Website: https://sd88-ecc.edlioschool.com/. | https://dingalinged-cpu.github.io/registry/c/lincoln-primary-school-bellwood/
-56. Marycrest Early Childhood Center | trust 10.0 | Marycrest Early Childhood Center is a preschool in Joliet, IL at 303 Purdue Court, Joliet, IL 60436. Website: https://www.joliet86.org/our-schools/marycrest/. | https://dingalinged-cpu.github.io/registry/c/marycrest-early-childhood-center-joliet/
-57. New Horizon Academy | trust 10.0 | New Horizon Academy is a preschool in Coon Rapids, MN at 13130 Riverdale Drive NW, Coon Rapids, MN 55448. Phone: +17635533099. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-coon-rapids/
-58. New Horizon Academy | trust 10.0 | New Horizon Academy is a preschool in Minneapolis, MN. Phone: +16123542470. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-minneapolis/
-59. New Horizon Academy | trust 10.0 | New Horizon Academy is a preschool in Saint Louis Park, MN at 2460 State Highway 100, Saint Louis Park, MN 55416. Phone: +19526812658. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-saint-louis-park/
-60. Riley Early Childhood Center | trust 10.0 | Riley Early Childhood Center is a preschool in Harvey, IL at 16001 South Lincoln Avenue, Harvey, IL 60426. Website: https://www.harvey152.org/o/riley. | https://dingalinged-cpu.github.io/registry/c/riley-early-childhood-center-harvey/
-61. Stock Preschool | trust 10.0 | Stock Preschool is a preschool in Chicago, IL at 7507 West Birchwood Avenue, Chicago, IL 60631. Website: https://www.stock.cps.edu/. | https://dingalinged-cpu.github.io/registry/c/stock-preschool-chicago/
-62. The Goddard School | trust 10.0 | The Goddard School is a preschool in Chicago, IL at 776 West Quincy Street, Chicago, IL 60661. Website: https://www.goddardschool.com/. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-chicago/
-63. The Goddard School | trust 10.0 | The Goddard School is a preschool in Vernon Hills, IL at 461 Townline Road, Vernon Hills, IL 60061. Phone: +18476801886. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-vernon-hills/
-64. The Goddard School of Chicago (Roscoe Village) | trust 10.0 | The Goddard School of Chicago (Roscoe Village) is a preschool in Chicago, IL at 2500 West Bradley Place, Chicago, IL 60618. Website: https://www.goddardschool.com/schools/il/chicago/chicago-roscoe-village. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-of-chicago-roscoe-village-chicago/
-65. The Goddard School of Hawthorn Woods (Lake Zurich) | trust 10.0 | The Goddard School of Hawthorn Woods (Lake Zurich) is a preschool in Hawthorn Woods, IL at 50 Landover Parkway, Hawthorn Woods, IL 60047. Website: https://www.goddardschool.com/Hawthorn-WoodsIL. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-of-hawthorn-woods-lake-zurich-hawthorn-woods/
-66. The Goddard School of Skokie (Evanston/Wilmette) | trust 10.0 | The Goddard School of Skokie (Evanston/Wilmette) is a preschool in Skokie, IL at 9651 Gross Point Road, Skokie, IL 60076. Website: https://www.goddardschool.com/schools/il/skokie/skokie-evanston-wilmette. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-of-skokie-evanston-wilmette-skokie/
-67. Toddler Town Day Care | trust 10.0 | Toddler Town Day Care is a preschool in Evanston, IL at 1501 Howard Street, Evanston, IL 60202. Website: https://www.toddlertownchicago.com/. | https://dingalinged-cpu.github.io/registry/c/toddler-town-day-care-evanston/
-68. Velma Thomas Early Childhood Center | trust 10.0 | Velma Thomas Early Childhood Center is a preschool in Chicago, IL at 3625 South Hoyne Avenue, Chicago, IL 60609. Website: https://thomas.cps.edu/. | https://dingalinged-cpu.github.io/registry/c/velma-thomas-early-childhood-center-chicago/
-69. Bright Horizons | trust 8.0 | Bright Horizons is a preschool in Schaumburg, IL at 1410 North Roosevelt Boulevard, Schaumburg, IL 60173. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-schaumburg/
-70. Barbara Vick Early Childhood Center | trust 6.0 | Barbara Vick Early Childhood Center is a preschool in Chicago, IL. Website: https://barbaravick.cps.edu/. | https://dingalinged-cpu.github.io/registry/c/barbara-vick-early-childhood-center-chicago/
-71. Chesterbrook Academy | trust 6.0 | Chesterbrook Academy is a preschool in Lisle, IL. Website: https://www.chesterbrookacademy.com/preschools/chicago/lisle/. | https://dingalinged-cpu.github.io/registry/c/chesterbrook-academy-lisle/
-72. Chesterbrook Academy | trust 6.0 | Chesterbrook Academy is a preschool in Naperville, IL. Website: https://www.chesterbrookacademy.com/preschools/chicago/naperville-south-naper-blvd/. | https://dingalinged-cpu.github.io/registry/c/chesterbrook-academy-naperville/
-73. Everbrook Academy | trust 6.0 | Everbrook Academy is a preschool in Chicago, IL. Website: https://www.everbrookacademy.com/our-schools/chicago-il-4809/. | https://dingalinged-cpu.github.io/registry/c/everbrook-academy-chicago/
-74. Gartner School | trust 6.0 | Gartner School is a preschool in Minneapolis, MN. Website: https://www.thegardnerschool.com/schools/minneapolis/. | https://dingalinged-cpu.github.io/registry/c/gartner-school-minneapolis/
-75. Jefferson Early Childhood Center | trust 6.0 | Jefferson Early Childhood Center is a preschool in Wheaton, IL. Website: https://www.cusd200.org/jefferson. | https://dingalinged-cpu.github.io/registry/c/jefferson-early-childhood-center-wheaton/
-76. Mary Meyer School | trust 6.0 | Mary Meyer School is a preschool in Chicago, IL. Website: https://www.marymeyer.org/. | https://dingalinged-cpu.github.io/registry/c/mary-meyer-school-chicago/
-77. The Compass School | trust 6.0 | The Compass School is a preschool in Naperville, IL. Website: https://www.thecompassschool.com/locations/naperville-north/. | https://dingalinged-cpu.github.io/registry/c/the-compass-school-naperville/
-78. Ada S. McKinley, Ersula Howard Child Care Center | trust 4.0 | Ada S. McKinley, Ersula Howard Child Care Center is a preschool in Chicago, IL at 7220-7222 South Exchange Avenue, Chicago, IL 60649. | https://dingalinged-cpu.github.io/registry/c/ada-s-mckinley-ersula-howard-child-care-center-chicago/
-79. Algonquin PreKindergarten Center | trust 4.0 | Algonquin PreKindergarten Center is a preschool in Park Forest, IL at 170 Algonquin Street, Park Forest, IL 60466. | https://dingalinged-cpu.github.io/registry/c/algonquin-prekindergarten-center-park-forest/
-80. Barbereaux School | trust 4.0 | Barbereaux School is a preschool in Evanston, IL at 3333 Culver Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/barbereaux-school-evanston/
-81. Bright Horizons | trust 4.0 | Bright Horizons is a preschool in Chicago, IL at 500 West Monroe Street, Chicago, IL 60661. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-chicago-n13332981528/
-82. Bright Horizons | trust 4.0 | Bright Horizons is a preschool in Deerfield, IL at 1 Horizon Way, Deerfield, IL 60015. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-deerfield/
-83. Bright Horizons | trust 4.0 | Bright Horizons is a preschool in Downers Grove, IL at 3400 Lacey Road, Downers Grove, IL 60515. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-downers-grove/
-84. Bright Horizons | trust 4.0 | Bright Horizons is a preschool in Rosemont, IL at 6107 North River Road, Rosemont, IL 60018. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-rosemont/
-85. Care-A-Lot Early Learning Center | trust 4.0 | Care-A-Lot Early Learning Center is a preschool in Chicago, IL at 5522 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/care-a-lot-early-learning-center-chicago/
-86. Children's Land Learning Center | trust 4.0 | Children's Land Learning Center is a preschool in Glenview, IL at 222 Greenwood Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/childrens-land-learning-center-glenview/
-87. Cortland Preschool | trust 4.0 | Cortland Preschool is a preschool in Chicago, IL at 2625 West Cortland Street, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/cortland-preschool-chicago/
-88. Crème de la Crème | trust 4.0 | Crème de la Crème is a preschool in Glenview, IL at 2401 Patriot Boulevard, Glenview, IL 60026. | https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-glenview/
-89. Dorie Miller Child Parent Center | trust 4.0 | Dorie Miller Child Parent Center is a preschool in Chicago, IL at 3030 West Harrison Street, Chicago, IL 60612. | https://dingalinged-cpu.github.io/registry/c/dorie-miller-child-parent-center-chicago/
-90. Dr. Fisher Early Learning Center | trust 4.0 | Dr. Fisher Early Learning Center is a preschool in Chicago, IL at 1840 North Clark Street, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/dr-fisher-early-learning-center-chicago/
-91. Early Childhood Program | trust 4.0 | Early Childhood Program is a preschool in Chicago Heights, IL at 828 Willow Drive, Chicago Heights, IL 60411. | https://dingalinged-cpu.github.io/registry/c/early-childhood-program-chicago-heights/
-92. Elizabeth Meyer School | trust 4.0 | Elizabeth Meyer School is a preschool in Skokie, IL at 8100 Tripp Avenue, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/elizabeth-meyer-school-skokie/
-93. F.B. McCord Elementary School | trust 4.0 | F.B. McCord Elementary School is a preschool in Burbank, IL at 8450 Nashville Avenue, Burbank, IL 60459. | https://dingalinged-cpu.github.io/registry/c/f-b-mccord-elementary-school-burbank/
-94. George W Lutz Family Center | trust 4.0 | George W Lutz Family Center is a preschool in Highland Park, IL at 800 Clavey Road, Highland Park, IL 60035. | https://dingalinged-cpu.github.io/registry/c/george-w-lutz-family-center-highland-park/
-95. Guidepost Montessori | trust 4.0 | Guidepost Montessori is a preschool in Chicago, IL at 1530 North Damen Avenue, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/guidepost-montessori-chicago-w209864931/
-96. Guidepost Montessori | trust 4.0 | Guidepost Montessori is a preschool in Evanston, IL at 1012 Davis Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/guidepost-montessori-evanston/
-97. Hoffman Estates KinderCare | trust 4.0 | Hoffman Estates KinderCare is a preschool in Hoffman Estates, IL at 1351 West Palatine Road, Hoffman Estates, IL 60192. | https://dingalinged-cpu.github.io/registry/c/hoffman-estates-kindercare-hoffman-estates/
-98. Horace Mann Elementary School | trust 4.0 | Horace Mann Elementary School is a preschool in Blue Island, IL at 2975 Broadway, Blue Island, IL 60406. | https://dingalinged-cpu.github.io/registry/c/horace-mann-elementary-school-blue-island/
-99. Jefferson School | trust 4.0 | Jefferson School is a preschool in Niles, IL at 8200 Greendale Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/jefferson-school-niles/
-100. Kensington School of Glenview | trust 4.0 | Kensington School of Glenview is a preschool in Glenview, IL at 2160 Chestnut Avenue, Glenview, IL 60026. | https://dingalinged-cpu.github.io/registry/c/kensington-school-of-glenview-glenview/
-101. Kinder Care | trust 4.0 | Kinder Care is a preschool in Schaumburg, IL at 650 West Wise Road, Schaumburg, IL 60193. | https://dingalinged-cpu.github.io/registry/c/kinder-care-schaumburg/
-102. KinderCare | trust 4.0 | KinderCare is a preschool in Chicago, IL at 1501 South State Street, Chicago, IL 60605. | https://dingalinged-cpu.github.io/registry/c/kindercare-chicago/
-103. Kindercare | trust 4.0 | Kindercare is a preschool in Eagan, MN at 1865 Plaza Drive, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/kindercare-eagan/
-104. KinderCare | trust 4.0 | KinderCare is a preschool in Hoffman Estates, IL at 1275 Jones Road, Hoffman Estates, IL 60169. | https://dingalinged-cpu.github.io/registry/c/kindercare-hoffman-estates/
-105. KinderCare | trust 4.0 | KinderCare is a preschool in Mundelein, IL at 695 South Illinois 83, Mundelein, IL 60060. | https://dingalinged-cpu.github.io/registry/c/kindercare-mundelein/
-106. KinderCare | trust 4.0 | KinderCare is a preschool in South Holland, IL at 17025 South Park Avenue, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/kindercare-south-holland/
-107. KinderCare | trust 4.0 | KinderCare is a preschool in West Saint Paul, MN at 1541 Humboldt Avenue, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/kindercare-west-saint-paul/
-108. KinderCare | trust 4.0 | KinderCare is a preschool in White Bear Township, MN at 1000 Meadowlands Drive, White Bear Township, MN 55127. | https://dingalinged-cpu.github.io/registry/c/kindercare-white-bear-township/
-109. Montessori | trust 4.0 | Montessori is a preschool in Eagan, MN at 1960 Cliff Lake Road, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/montessori-eagan/
-110. Morningside Children's Academy | trust 4.0 | Morningside Children's Academy is a preschool in Oak Park, IL at 1192 South Cuyler Avenue, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/morningside-childrens-academy-oak-park/
-111. Mosaic Early Childhood Center | trust 4.0 | Mosaic Early Childhood Center is a preschool in Skokie, IL at 4023 Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/mosaic-early-childhood-center-skokie/
-112. New Horizon Academy | trust 4.0 | New Horizon Academy is a preschool in Eden Prairie, MN at 6350 Point Chase, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-eden-prairie/
-113. New Horizon Academy | trust 4.0 | New Horizon Academy is a preschool in Ramsey, MN at 7800 Sunwood Drive Northwest, Ramsey, MN 55303. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-ramsey/
-114. New Horizon Academy | trust 4.0 | New Horizon Academy is a preschool in Saint Paul, MN at 2204 Lower Afton Road, Saint Paul, MN 55119. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-saint-paul-w1093265065/
-115. New Horizon Child Care Center | trust 4.0 | New Horizon Child Care Center is a preschool in Eagan, MN at 4565 Scott Trail, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/new-horizon-child-care-center-eagan/
-116. Niles Township Community Day Care | trust 4.0 | Niles Township Community Day Care is a preschool in Skokie, IL at 8341 Lockwood Avenue, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/niles-township-community-day-care-skokie/
-117. Pinocchio Child Care | trust 4.0 | Pinocchio Child Care is a preschool in Chicago, IL at 5932-5936 West Gunnison Street, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/pinocchio-child-care-chicago/
-118. Primrose School of St. Louis Park West | trust 4.0 | Primrose School of St. Louis Park West is a preschool in Saint Louis Park, MN at 8955 36th Street West, Saint Louis Park, MN 55426. | https://dingalinged-cpu.github.io/registry/c/primrose-school-of-st-louis-park-west-saint-louis-park/
-119. Ronald Knox Montessori School | trust 4.0 | Ronald Knox Montessori School is a preschool in Wilmette, IL at 2031 Elmwood Avenue, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/ronald-knox-montessori-school-wilmette/
-120. School For The Young Years | trust 4.0 | School For The Young Years is a preschool in Chicago, IL at 4600 West Peterson Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/school-for-the-young-years-chicago/
-121. Spencer Trail School | trust 4.0 | Spencer Trail School is a preschool in New Lenox, IL at 1701 Spencer Road, New Lenox, IL 60423. | https://dingalinged-cpu.github.io/registry/c/spencer-trail-school-new-lenox/
-122. Sunny Days Kid's Academy | trust 4.0 | Sunny Days Kid's Academy is a preschool in Berwyn, IL at 6227 West Roosevelt Road, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/sunny-days-kids-academy-berwyn/
-123. TC Scholars Preschool | trust 4.0 | TC Scholars Preschool is a preschool in Chicago, IL at 3633 North California Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/tc-scholars-preschool-chicago/
-124. The Goddard School | trust 4.0 | The Goddard School is a preschool in Chicago, IL at 209 East Cullerton Street, Chicago, IL 60616. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-chicago-w841813145/
-125. Tutor Time | trust 4.0 | Tutor Time is a preschool in Lake Zurich, IL at 759 South Rand Road, Lake Zurich, IL 60047. | https://dingalinged-cpu.github.io/registry/c/tutor-time-lake-zurich/
-126. Tutor Time of Downers Grove | trust 4.0 | Tutor Time of Downers Grove is a preschool in Downers Grove, IL at 460 75th Street, Downers Grove, IL 60516. | https://dingalinged-cpu.github.io/registry/c/tutor-time-of-downers-grove-downers-grove/
-127. UChicago Child Development Center - Drexel | trust 4.0 | UChicago Child Development Center - Drexel is a preschool in Chicago, IL at 5610 South Drexel Avenue, Chicago, IL 60637. | https://dingalinged-cpu.github.io/registry/c/uchicago-child-development-center-drexel-chicago/
-128. Creative Minds Daycare | trust 3.0 | Creative Minds Daycare is a preschool in Minneapolis, MN at 3801 Portland Avenue, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/creative-minds-daycare-minneapolis/
-129. Jardin Spanish Immersion Academy | trust 3.0 | Jardin Spanish Immersion Academy is a preschool in Minneapolis, MN at 4040 Bloomington Avenue, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/jardin-spanish-immersion-academy-minneapolis/
-130. New Horizon Academy | trust 3.0 | New Horizon Academy is a preschool in Saint Paul, MN at 1975 Ford Parkway, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-saint-paul/
-131. Alphabet Learning Center | trust 0.0 | Alphabet Learning Center is a preschool in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/alphabet-learning-center-brookfield-n9793701286/
-132. Auburn-Gresham Preschool | trust 0.0 | Auburn-Gresham Preschool is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/auburn-gresham-preschool-chicago/
-133. Augsburg Park Montesorri School | trust 0.0 | Augsburg Park Montesorri School is a preschool in Richfield, MN. | https://dingalinged-cpu.github.io/registry/c/augsburg-park-montesorri-school-richfield/
-134. Barnsdale Road Kindergarten | trust 0.0 | Barnsdale Road Kindergarten is a preschool in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/barnsdale-road-kindergarten-la-grange-park/
-135. Barrington Early Learning Center | trust 0.0 | Barrington Early Learning Center is a preschool in Barrington Township, IL. | https://dingalinged-cpu.github.io/registry/c/barrington-early-learning-center-barrington-township/
-136. Basic Beginnings | trust 0.0 | Basic Beginnings is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/basic-beginnings-chicago/
-137. Bright Horizons | trust 0.0 | Bright Horizons is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-chicago-n13765894107/
-138. CCSD 93 Early Childhood Center | trust 0.0 | CCSD 93 Early Childhood Center is a preschool in Bloomingdale, IL. | https://dingalinged-cpu.github.io/registry/c/ccsd-93-early-childhood-center-bloomingdale/
-139. Child Care and Learning Center | trust 0.0 | Child Care and Learning Center is a preschool in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/child-care-and-learning-center-romeoville/
-140. Children of America | trust 0.0 | Children of America is a preschool in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/children-of-america-orland-park/
-141. Children's Center Montessori | trust 0.0 | Children's Center Montessori is a preschool in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/childrens-center-montessori-saint-paul/
-142. Children's Developmental Institute | trust 0.0 | Children's Developmental Institute is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/childrens-developmental-institute-chicago/
-143. Children's Developmental Institute | trust 0.0 | Children's Developmental Institute is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/childrens-developmental-institute-chicago-w446707592/
-144. Childrens Hour Pre-School Center | trust 0.0 | Childrens Hour Pre-School Center is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/childrens-hour-pre-school-center-chicago/
-145. Childrens House Preschool | trust 0.0 | Childrens House Preschool is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/childrens-house-preschool-chicago/
-146. Crete-Monee Early Childhood Center | trust 0.0 | Crete-Monee Early Childhood Center is a preschool in Crete, IL. | https://dingalinged-cpu.github.io/registry/c/crete-monee-early-childhood-center-crete/
-147. Crème de la Crème Learning Center of Lincoln Park | trust 0.0 | Crème de la Crème Learning Center of Lincoln Park is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-learning-center-of-lincoln-park-chicago/
-148. Delia Turner Elementary School | trust 0.0 | Delia Turner Elementary School is a preschool in Crestwood, IL. | https://dingalinged-cpu.github.io/registry/c/delia-turner-elementary-school-crestwood/
-149. District 45 Early Childhood Center | trust 0.0 | District 45 Early Childhood Center is a preschool in Villa Park, IL. | https://dingalinged-cpu.github.io/registry/c/district-45-early-childhood-center-villa-park/
-150. Dorn Primary Center | trust 0.0 | Dorn Primary Center is a preschool in Hickory Hills, IL. | https://dingalinged-cpu.github.io/registry/c/dorn-primary-center-hickory-hills/
-151. Duke and Duchess Pre-School | trust 0.0 | Duke and Duchess Pre-School is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/duke-and-duchess-pre-school-chicago/
-152. Early Childhood Center | trust 0.0 | Early Childhood Center is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/early-childhood-center-schaumburg/
-153. Early Childhood Education Center | trust 0.0 | Early Childhood Education Center is a preschool in Wood Dale, IL. | https://dingalinged-cpu.github.io/registry/c/early-childhood-education-center-wood-dale/
-154. Early Learning Center | trust 0.0 | Early Learning Center is a preschool in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/early-learning-center-mount-prospect/
-155. Early Learning Centers of Excellence | trust 0.0 | Early Learning Centers of Excellence is a preschool in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/early-learning-centers-of-excellence-romeoville/
-156. Everbrook Academy | trust 0.0 | Everbrook Academy is a preschool in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/everbrook-academy-minnetonka/
-157. Galewood Pre-School and Day Care Center | trust 0.0 | Galewood Pre-School and Day Care Center is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/galewood-pre-school-and-day-care-center-chicago/
-158. Gladness V Player Early Childhood Center | trust 0.0 | Gladness V Player Early Childhood Center is a preschool in Justice, IL. | https://dingalinged-cpu.github.io/registry/c/gladness-v-player-early-childhood-center-justice/
-159. Guidepost Montessori | trust 0.0 | Guidepost Montessori is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/guidepost-montessori-chicago/
-160. Guidepost Montessori | trust 0.0 | Guidepost Montessori is a preschool in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/guidepost-montessori-roseville/
-161. Guidepost Montessori | trust 0.0 | Guidepost Montessori is a preschool in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/guidepost-montessori-vernon-hills/
-162. Hawthorn School for Young Learners | trust 0.0 | Hawthorn School for Young Learners is a preschool in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/hawthorn-school-for-young-learners-vernon-hills/
-163. Herzl Child-Parent Center | trust 0.0 | Herzl Child-Parent Center is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/herzl-child-parent-center-chicago/
-164. Incarnation Head Start Center | trust 0.0 | Incarnation Head Start Center is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/incarnation-head-start-center-chicago/
-165. Intergenerational Learning Center | trust 0.0 | Intergenerational Learning Center is a preschool in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/intergenerational-learning-center-eagan/
-166. John Schroeder Early Childhood Center | trust 0.0 | John Schroeder Early Childhood Center is a preschool in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/john-schroeder-early-childhood-center-lombard/
-167. Kiddie Garden Child Care Center | trust 0.0 | Kiddie Garden Child Care Center is a preschool in Niles, IL. | https://dingalinged-cpu.github.io/registry/c/kiddie-garden-child-care-center-niles/
-168. Kimberley Heights School | trust 0.0 | Kimberley Heights School is a preschool in Tinley Park, IL. | https://dingalinged-cpu.github.io/registry/c/kimberley-heights-school-tinley-park/
-169. KinderCare | trust 0.0 | KinderCare is a preschool in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-arlington-heights/
-170. Kindercare | trust 0.0 | Kindercare is a preschool in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-downers-grove/
-171. KinderCare | trust 0.0 | KinderCare is a preschool in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-mount-prospect/
-172. KinderCare | trust 0.0 | KinderCare is a preschool in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/kindercare-rogers/
-173. KinderCare | trust 0.0 | KinderCare is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-schaumburg/
-174. Kindercare | trust 0.0 | Kindercare is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-schaumburg-w650458919/
-175. Kindercare | trust 0.0 | Kindercare is a preschool in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-vernon-hills/
-176. Kindercare | trust 0.0 | Kindercare is a preschool in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-wheaton/
-177. Knowledge Beginnings | trust 0.0 | Knowledge Beginnings is a preschool in Naperville, IL. | https://dingalinged-cpu.github.io/registry/c/knowledge-beginnings-naperville/
-178. Learning Experience Childcare | trust 0.0 | Learning Experience Childcare is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/learning-experience-childcare-schaumburg/
-179. Li'l Rascals | trust 0.0 | Li'l Rascals is a preschool in St. John, IN. | https://dingalinged-cpu.github.io/registry/c/lil-rascals-st-john/
-180. Little Flower School | trust 0.0 | Little Flower School is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/little-flower-school-chicago/
-181. Little Lambs Preschool | trust 0.0 | Little Lambs Preschool is a preschool in Saint Paul Park, MN. | https://dingalinged-cpu.github.io/registry/c/little-lambs-preschool-saint-paul-park/
-182. Little People Montessori Academy | trust 0.0 | Little People Montessori Academy is a preschool in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/little-people-montessori-academy-lyons/
-183. Little People's Country | trust 0.0 | Little People's Country is a preschool in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/little-peoples-country-la-grange/
-184. Lolly Pop Nursery School and Kindergarten | trust 0.0 | Lolly Pop Nursery School and Kindergarten is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/lolly-pop-nursery-school-and-kindergarten-chicago/
-185. Luis Munoz Marin Primary Center | trust 0.0 | Luis Munoz Marin Primary Center is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/luis-munoz-marin-primary-center-chicago/
-186. Madison Early Childhood Center | trust 0.0 | Madison Early Childhood Center is a preschool in Elmhurst, IL. | https://dingalinged-cpu.github.io/registry/c/madison-early-childhood-center-elmhurst/
-187. Mary Sears Children's Academy | trust 0.0 | Mary Sears Children's Academy is a preschool in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/mary-sears-childrens-academy-orland-park/
-188. Merry Go Round Nursery School | trust 0.0 | Merry Go Round Nursery School is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/merry-go-round-nursery-school-chicago/
-189. Meyers Road KinderCare | trust 0.0 | Meyers Road KinderCare is a preschool in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/meyers-road-kindercare-lombard/
-190. Midwest Pre-School-South Commons | trust 0.0 | Midwest Pre-School-South Commons is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/midwest-pre-school-south-commons-chicago/
-191. Mis Amigos Preschool | trust 0.0 | Mis Amigos Preschool is a preschool in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/mis-amigos-preschool-saint-paul/
-192. Mississippi Valley Montessori School | trust 0.0 | Mississippi Valley Montessori School is a preschool in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/mississippi-valley-montessori-school-west-saint-paul/
-193. Montessori Children's Community | trust 0.0 | Montessori Children's Community is a preschool in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/montessori-childrens-community-brookfield/
-194. Montessori Children's Place | trust 0.0 | Montessori Children's Place is a preschool in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/montessori-childrens-place-la-grange-park/
-195. New Horizon Academy | trust 0.0 | New Horizon Academy is a preschool in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-brooklyn-park/
-196. New Horizon Academy | trust 0.0 | New Horizon Academy is a preschool in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-minneapolis-n10925436338/
-197. New Horizon Academy | trust 0.0 | New Horizon Academy is a preschool in Shorewood, MN. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-shorewood/
-198. Peachtree Nursery and Preschool | trust 0.0 | Peachtree Nursery and Preschool is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/peachtree-nursery-and-preschool-chicago/
-199. Perfect Balance Child Care | trust 0.0 | Perfect Balance Child Care is a preschool in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/perfect-balance-child-care-minneapolis/
-200. Prairie Trails School | trust 0.0 | Prairie Trails School is a preschool in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/prairie-trails-school-mount-prospect/
-201. Primary Learning Center | trust 0.0 | Primary Learning Center is a preschool in Markham, IL. | https://dingalinged-cpu.github.io/registry/c/primary-learning-center-markham/
-202. Primrose School | trust 0.0 | Primrose School is a preschool in Carol Stream, IL. | https://dingalinged-cpu.github.io/registry/c/primrose-school-carol-stream/
-203. Ridge Early Childhood Center | trust 0.0 | Ridge Early Childhood Center is a preschool in Oak Forest, IL. | https://dingalinged-cpu.github.io/registry/c/ridge-early-childhood-center-oak-forest/
-204. Safari Childcare | trust 0.0 | Safari Childcare is a preschool in Streamwood, IL. | https://dingalinged-cpu.github.io/registry/c/safari-childcare-streamwood/
-205. Saint Clara Headstart | trust 0.0 | Saint Clara Headstart is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/saint-clara-headstart-chicago/
-206. Saint Elizabeth Headstart | trust 0.0 | Saint Elizabeth Headstart is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/saint-elizabeth-headstart-chicago/
-207. Shiloh Nursery | trust 0.0 | Shiloh Nursery is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/shiloh-nursery-chicago/
-208. South Elementary School | trust 0.0 | South Elementary School is a preschool in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/south-elementary-school-westmont/
-209. Southwest Cooperative Pre-School | trust 0.0 | Southwest Cooperative Pre-School is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/southwest-cooperative-pre-school-chicago/
-210. Spaulding School | trust 0.0 | Spaulding School is a preschool in Midlothian, IL. | https://dingalinged-cpu.github.io/registry/c/spaulding-school-midlothian/
-211. St. Paul's Childcare Center | trust 0.0 | St. Paul's Childcare Center is a preschool in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/st-pauls-childcare-center-saint-paul/
-212. Teddy Bear Pre-School | trust 0.0 | Teddy Bear Pre-School is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/teddy-bear-pre-school-chicago/
-213. Teddy Bear Pre-School #3 | trust 0.0 | Teddy Bear Pre-School #3 is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/teddy-bear-pre-school-3-chicago/
-214. Terry Town Nursery School and Kindergarten | trust 0.0 | Terry Town Nursery School and Kindergarten is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/terry-town-nursery-school-and-kindergarten-chicago/
-215. The Goddard School | trust 0.0 | The Goddard School is a preschool in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-brooklyn-park/
-216. Three Kittens Day Nursery and Kindergarten | trust 0.0 | Three Kittens Day Nursery and Kindergarten is a preschool in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/three-kittens-day-nursery-and-kindergarten-chicago/
-217. Tutor Time | trust 0.0 | Tutor Time is a preschool in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/tutor-time-blaine/
-218. Tutor Time | trust 0.0 | Tutor Time is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/tutor-time-schaumburg/
-219. Tutor Time | trust 0.0 | Tutor Time is a preschool in White Bear Lake, MN. | https://dingalinged-cpu.github.io/registry/c/tutor-time-white-bear-lake/
-220. Tutor Time of Maple Grove | trust 0.0 | Tutor Time of Maple Grove is a preschool in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/tutor-time-of-maple-grove-maple-grove/
-221. Willow Grove Early Learning Center | trust 0.0 | Willow Grove Early Learning Center is a preschool in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/willow-grove-early-learning-center-buffalo-grove/
+2. Acelero Learning Walton Center | trust 20.0 | Acelero Learning Walton Center is a preschool in Milwaukee, WI at 7833 West Capitol Drive, Milwaukee, WI 53222. Phone: +14146165000. Website: https://acelerolearning.com/center/walton/. | https://dingalinged-cpu.github.io/registry/c/acelero-learning-walton-center-milwaukee/
+3. American Montessori Campus | trust 20.0 | American Montessori Campus is a preschool in Plano, TX at 6529 West Plano Parkway #A, Plano, TX 75093. Phone: +19724732600. Website: https://kidsamc.com/. | https://dingalinged-cpu.github.io/registry/c/american-montessori-campus-plano/
+4. Bright Horizons | trust 20.0 | Bright Horizons is a preschool in Chicago, IL at 360 East South Water Street, Chicago, IL 60601. Phone: +13125657300. Website: https://child-care-preschool.brighthorizons.com/il/chicago/lakeshoreeast. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-chicago/
+5. Bright Horizons at Legacy | trust 20.0 | Bright Horizons at Legacy is a preschool in Plano, TX at 6501 Legacy Drive, Plano, TX 75024. Phone: +19724274905. Website: https://child-care-preschool.brighthorizons.com/tx/plano/legacy?IMS_SOURCE_SPECIFY=google%7Corganic%7Cgmb%7Cweblink%7Ccenterwebsite. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-at-legacy-plano/
+6. Cornerstone Children's Learning Center | trust 20.0 | Cornerstone Children's Learning Center is a preschool in Chicago, IL at 1111 North Wells Street ##200, Chicago, IL 60610. Phone: +13125738900. Website: https://cornerstonechildrenslearningcenter.com/. | https://dingalinged-cpu.github.io/registry/c/cornerstone-childrens-learning-center-chicago/
+7. Council Oak Montessori School | trust 20.0 | Council Oak Montessori School is a preschool in Blue Island, IL at 2521 Grove Street, Blue Island, IL 60406. Phone: +17089269720. Website: https://counciloakmontessori.org/. | https://dingalinged-cpu.github.io/registry/c/council-oak-montessori-school-blue-island/
+8. Deerfield Montessori School | trust 20.0 | Deerfield Montessori School is a preschool in Deerfield, IL at 760 North Avenue, Deerfield, IL 60015. Phone: +18479457580. Website: https://montessori-schools.com/. | https://dingalinged-cpu.github.io/registry/c/deerfield-montessori-school-deerfield/
+9. Ebenezer Child Care | trust 20.0 | Ebenezer Child Care is a preschool in Milwaukee, WI at 340 West Saint Paul Avenue, Milwaukee, WI 53203. Phone: +14142240990. Website: https://www.ebenezerchildcare.com/locations/downtown-milwaukee/. | https://dingalinged-cpu.github.io/registry/c/ebenezer-child-care-milwaukee/
+10. Everbrook Academy | trust 20.0 | Everbrook Academy is a preschool in Rockwall, TX at 320 Dalton Road, Rockwall, TX 75087. Phone: +19729280224. Website: https://www.everbrookacademy.com/our-schools/rockwall-tx-4892/. | https://dingalinged-cpu.github.io/registry/c/everbrook-academy-rockwall/
+11. Hopson's Kiddie Kare | trust 20.0 | Hopson's Kiddie Kare is a preschool in Milwaukee, WI at 323 East Garfield Avenue, Milwaukee, WI 53212. Phone: +14144558397. Website: https://www.hopsonskiddiekare.com.previewc45.carrierzone.com/. | https://dingalinged-cpu.github.io/registry/c/hopsons-kiddie-kare-milwaukee/
+12. Kidz It Iz Child Care Center | trust 20.0 | Kidz It Iz Child Care Center is a preschool in Milwaukee, WI at 2378 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14143729990. Website: https://www.kidzitizccc.com/. | https://dingalinged-cpu.github.io/registry/c/kidz-it-iz-child-care-center-milwaukee/
+13. KinderCare | trust 20.0 | KinderCare is a preschool in Lisle, IL at 6420 College Road, Lisle, IL 60532. Phone: +16303690988. Website: https://www.kindercare.com/our-centers/lisle/il/300935. | https://dingalinged-cpu.github.io/registry/c/kindercare-lisle/
+14. KinderCare | trust 20.0 | KinderCare is a preschool in Maple Grove, MN at 13380 Grove Drive North, Maple Grove, MN 55369. Phone: +17634209200. Website: https://www.kindercare.com/our-centers/maple-grove/mn/301287. | https://dingalinged-cpu.github.io/registry/c/kindercare-maple-grove/
+15. KinderCare | trust 20.0 | KinderCare is a preschool in Naperville, IL at 1228 West Ogden Avenue, Naperville, IL 60563. Phone: +16309619400. Website: https://www.kindercare.com/our-centers/naperville/il/000551. | https://dingalinged-cpu.github.io/registry/c/kindercare-naperville/
+16. KinderCare | trust 20.0 | KinderCare is a preschool in Naperville, IL at 889 Benedetti Drive, Naperville, IL 60563. Phone: +16303693050. Website: https://www.kindercare.com/our-centers/naperville/il/000529. | https://dingalinged-cpu.github.io/registry/c/kindercare-naperville-w280270396/
+17. KinderCare | trust 20.0 | KinderCare is a preschool in Naperville, IL at 1239 Rickert Drive, Naperville, IL 60540. Phone: +16307788767. Website: https://www.kindercare.com/our-centers/naperville/il/301459. | https://dingalinged-cpu.github.io/registry/c/kindercare-naperville-w312152232/
+18. KinderCare | trust 20.0 | KinderCare is a preschool in Oak Creek, WI at 7677 South Howell Avenue, Oak Creek, WI 53154. Phone: +14147629050. Website: https://www.kindercare.com/our-centers/oak-creek/wi/000579. | https://dingalinged-cpu.github.io/registry/c/kindercare-oak-creek/
+19. KinderCare | trust 20.0 | KinderCare is a preschool in Plano, TX at 6900 Preston Meadow Drive, Plano, TX 75024. Phone: +19726181499. Website: https://www.kindercare.com/. | https://dingalinged-cpu.github.io/registry/c/kindercare-plano/
+20. Parent Day Out | trust 20.0 | Parent Day Out is a preschool in Dallas, TX at 1920 McKinney Avenue, Dallas, TX 75201. Phone: +14154329100. Website: https://www.parentdayout.com/. | https://dingalinged-cpu.github.io/registry/c/parent-day-out-dallas/
+21. Primrose School | trust 20.0 | Primrose School is a preschool in Grapevine, TX at 2300 Hall Johnson Road, Grapevine, TX 76051. Phone: +18174160404. Website: https://www.primroseschools.com/schools/grapevine-colleyville/. | https://dingalinged-cpu.github.io/registry/c/primrose-school-grapevine/
+22. Primrose School of Kingwood at Oakhurst | trust 20.0 | Primrose School of Kingwood at Oakhurst is a preschool in Houston, TX at 19514 Northpark Drive, Houston, TX 77339. Phone: +12813121150. Website: https://www.primroseschools.com/schools/kingwood-at-oakhurst/. | https://dingalinged-cpu.github.io/registry/c/primrose-school-of-kingwood-at-oakhurst-houston/
+23. Renaissance Child Development Center | trust 20.0 | Renaissance Child Development Center is a preschool in Milwaukee, WI at 1306 North Marshall Street, Milwaukee, WI 53202. Phone: +14142761133. Website: https://www.renaissancecdc.org/. | https://dingalinged-cpu.github.io/registry/c/renaissance-child-development-center-milwaukee/
+24. The Nurturing Nook | trust 20.0 | The Nurturing Nook is a preschool in Fox Point, WI at 8647 North Port Washington Road, Fox Point, WI 53217. Phone: +14143526115. Website: https://www.thenurturingnook.com/riverpoint. | https://dingalinged-cpu.github.io/registry/c/the-nurturing-nook-fox-point/
+25. Tomorrow's Future Early Childhood Center | trust 20.0 | Tomorrow's Future Early Childhood Center is a preschool in Milwaukee, WI at 1451 North 6th Street, Milwaukee, WI 53205. Phone: +14142768337. Website: https://www.hacm.org/programs/Hillside/hillside.htm. | https://dingalinged-cpu.github.io/registry/c/tomorrows-future-early-childhood-center-milwaukee/
+26. KinderCare | trust 19.0 | KinderCare is a preschool in Woodridge, IL at 7040 Woodward Avenue, Woodridge, IL. Phone: +16308522611. Website: https://www.kindercare.com/our-centers/woodridge/il/000881. | https://dingalinged-cpu.github.io/registry/c/kindercare-woodridge-w565563655/
+27. Alianza ECO School | trust 16.0 | Alianza ECO School is a preschool in Spring, TX at 21401 Rhodes Road, Spring, TX 77388. Phone: +18325851589. Website: https://alianzaecoschool.com/spring/. | https://dingalinged-cpu.github.io/registry/c/alianza-eco-school-spring/
+28. Angels Christian Preschool and Daycare | trust 16.0 | Angels Christian Preschool and Daycare is a preschool in The Colony, TX. Phone: +19726250016. Website: https://www.angelchristianpreschool.com/. | https://dingalinged-cpu.github.io/registry/c/angels-christian-preschool-and-daycare-the-colony/
+29. Bright Horizons | trust 16.0 | Bright Horizons is a preschool in Northbrook, IL at 1101 Techny Road, Northbrook, IL 60062. Phone: +18473883871. Website: https://brighthorizons.com/. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-northbrook/
+30. Casa de Corazón | trust 16.0 | Casa de Corazón is a preschool in Maple Grove, MN at 8351 Elm Creek Boulevard, Maple Grove, MN 55369. Phone: +17634163992. Website: https://casaearlylearning.com/. | https://dingalinged-cpu.github.io/registry/c/casa-de-coraz-n-maple-grove/
+31. Challenger School - Legacy | trust 16.0 | Challenger School - Legacy is a preschool in Plano, TX at 6700 Communications Parkway, Plano, TX 75024. Phone: +14695730077. Website: https://www.challengerschool.com/campus/texas/plano/legacy. | https://dingalinged-cpu.github.io/registry/c/challenger-school-legacy-plano/
+32. Children's Learning Adventure | trust 16.0 | Children's Learning Adventure is a preschool in Keller, TX at 1841 Rufe Snow Drive, Keller, TX 76248. Phone: +16825931178. Website: https://www.childrenslearningadventure.com/. | https://dingalinged-cpu.github.io/registry/c/childrens-learning-adventure-keller/
+33. Children’s Lighthouse | trust 16.0 | Children’s Lighthouse is a preschool in Fate, TX at 1774 South Farm to Market 551, Fate, TX 75189. Phone: +14694377796. Website: https://childrenslighthouse.com/fate. | https://dingalinged-cpu.github.io/registry/c/children-s-lighthouse-fate/
+34. Children’s Lighthouse | trust 16.0 | Children’s Lighthouse is a preschool in Rockwall, TX at 3009 North Goliad Street, Rockwall, TX 75087. Phone: +19724497813. Website: https://childrenslighthouse.com/rockwall. | https://dingalinged-cpu.github.io/registry/c/children-s-lighthouse-rockwall/
+35. Christian Montessori Academy | trust 16.0 | Christian Montessori Academy is a preschool in North Richland Hills, TX at 7601 Precinct Line Road, North Richland Hills, TX 76182. Phone: +18173821099. Website: https://christianmontessoriacademy.com/. | https://dingalinged-cpu.github.io/registry/c/christian-montessori-academy-north-richland-hills/
+36. Creative Kidz Learning Center | trust 16.0 | Creative Kidz Learning Center is a preschool in Chicago, IL at 5776 North Lincoln Avenue, Chicago, IL 60659. Phone: +17739897400. Website: https://creativekidzlearning.com/. | https://dingalinged-cpu.github.io/registry/c/creative-kidz-learning-center-chicago/
+37. Discovery Montessori Academy | trust 16.0 | Discovery Montessori Academy is a preschool in Plano, TX at 9105 Custer Road, Plano, TX 75025. Phone: +12145504910. Website: https://tydiscoverymontessori.com/. | https://dingalinged-cpu.github.io/registry/c/discovery-montessori-academy-plano/
+38. Domowe Przedszkole w Des Plaines | trust 16.0 | Domowe Przedszkole w Des Plaines is a preschool in Des Plaines, IL at 31 Terrace Lane, Des Plaines, IL 60016. Phone: +18472984739. Website: https://www.facebook.com/domoweprzedszkolewdesplaines. | https://dingalinged-cpu.github.io/registry/c/domowe-przedszkole-w-des-plaines-des-plaines/
+39. Elk Grove Village KinderCare | trust 16.0 | Elk Grove Village KinderCare is a preschool in Elk Grove Village, IL at 800 South Arlington Heights Road, Elk Grove Village, IL 60007. Phone: +18479567123. Website: https://www.kindercare.com/. | https://dingalinged-cpu.github.io/registry/c/elk-grove-village-kindercare-elk-grove-village/
+40. Glenview Montessori School | trust 16.0 | Glenview Montessori School is a preschool in Northfield, IL at 305 Waukegan Road, Northfield, IL 60093. Phone: +18474467584. Website: https://montessori-schools.com/. | https://dingalinged-cpu.github.io/registry/c/glenview-montessori-school-northfield/
+41. Greater Heights School | trust 16.0 | Greater Heights School is a preschool in Houston, TX at 4780 North Main Street, Houston, TX 77009. Phone: +17134922720. Website: https://greaterheightsschool.com/. | https://dingalinged-cpu.github.io/registry/c/greater-heights-school-houston/
+42. Horizon Lighthouse Private School and Childcare Center | trust 16.0 | Horizon Lighthouse Private School and Childcare Center is a preschool in Heath, TX at 5600 Horizon Road, Heath, TX 75032. Phone: +19722959241. Website: https://lighthouse-school.com/. | https://dingalinged-cpu.github.io/registry/c/horizon-lighthouse-private-school-and-childcare-center-heath/
+43. Imaginare School | trust 16.0 | Imaginare School is a preschool in Richmond, TX at 748 Crabb River Road, Richmond, TX 77469. Phone: +12815458386. Website: https://imaginareschool.net/. | https://dingalinged-cpu.github.io/registry/c/imaginare-school-richmond/
+44. Indian Hill School | trust 16.0 | Indian Hill School is a preschool in Palos Heights, IL at 12800 South Austin Avenue, Palos Heights, IL 60463. Phone: +17085974230. Website: https://indianhill.palos128.org/. | https://dingalinged-cpu.github.io/registry/c/indian-hill-school-palos-heights/
+45. Ingenious | trust 16.0 | Ingenious is a preschool in Franklin, WI at 7260 South 76th Street, Franklin, WI 53132. Phone: +14143778296. Website: https://ingeniouswi.com/. | https://dingalinged-cpu.github.io/registry/c/ingenious-franklin/
+46. Jubilee Kids Preschool and Childcare | trust 16.0 | Jubilee Kids Preschool and Childcare is a preschool in Naperville, IL at 420 West 5th Avenue, Naperville, IL 60563. Phone: +16303699180. Website: https://jubileekidspreschool.com/. | https://dingalinged-cpu.github.io/registry/c/jubilee-kids-preschool-and-childcare-naperville/
+47. KinderCare | trust 16.0 | KinderCare is a preschool in Minneapolis, MN at 525 Southeast Huron Boulevard, Minneapolis, MN 55414. Phone: +16126234642. Website: https://www.kindercare.com/our-centers/minneapolis/mn/000855. | https://dingalinged-cpu.github.io/registry/c/kindercare-minneapolis/
+48. KinderCare | trust 16.0 | KinderCare is a preschool in Woodridge, IL at 7450 Woodward Avenue, Woodridge, IL 60517. Phone: +16308524485. Website: https://www.kindercare.com/. | https://dingalinged-cpu.github.io/registry/c/kindercare-woodridge/
+49. Lightbridge Academy Cypress | trust 16.0 | Lightbridge Academy Cypress is a preschool in Harris County, TX at 8742 Barker Cypress Road, Harris County, TX 77433. Phone: +18329521100. Website: https://lightbridgeacademy.com/cypress-tx/. | https://dingalinged-cpu.github.io/registry/c/lightbridge-academy-cypress-harris-county/
+50. Lighthouse Academy At The Shores | trust 16.0 | Lighthouse Academy At The Shores is a preschool in Rockwall, TX at 951 North Lakeshore Drive, Rockwall, TX 75087. Phone: +19727725800. Website: https://lighthouseacademyrockwall.com/. | https://dingalinged-cpu.github.io/registry/c/lighthouse-academy-at-the-shores-rockwall/
+
+## More preschool listings (387 total; top 50 unpaid shown)
+- Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/preschool.jsonl
+- Chicago, IL: 58 listings: https://dingalinged-cpu.github.io/registry/k/preschool-chicago-il/
+- Milwaukee, WI: 19 listings: https://dingalinged-cpu.github.io/registry/k/preschool-milwaukee-wi/
+- Houston, TX: 17 listings: https://dingalinged-cpu.github.io/registry/k/preschool-houston-tx/
+- Harris County, TX: 12 listings: https://dingalinged-cpu.github.io/registry/k/preschool-harris-county-tx/
+- Minneapolis, MN: 9 listings: https://dingalinged-cpu.github.io/registry/k/preschool-minneapolis-mn/
+- Saint Paul, MN: 9 listings: https://dingalinged-cpu.github.io/registry/k/preschool-saint-paul-mn/
+- Naperville, IL: 9 listings: https://dingalinged-cpu.github.io/registry/k/preschool-naperville-il/
+- Plano, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/preschool-plano-tx/
+- Schaumburg, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/preschool-schaumburg-il/
+- Mesquite, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/preschool-mesquite-tx/
+- Rockwall, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/preschool-rockwall-tx/
+- Lewisville, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/preschool-lewisville-tx/
+- Frisco, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/preschool-frisco-tx/
+- Evanston, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/preschool-evanston-il/
+- Glenview, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/preschool-glenview-il/
+- Maple Grove, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/preschool-maple-grove-mn/
+- Eagan, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/preschool-eagan-mn/
+- Dallas, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/preschool-dallas-tx/
+- Skokie, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/preschool-skokie-il/
+- Vernon Hills, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/preschool-vernon-hills-il/
+- The Colony, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/preschool-the-colony-tx/
+- Forney, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/preschool-forney-tx/
+- Keller, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/preschool-keller-tx/
+- Mckinney, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/preschool-mckinney-tx/
+- Irving, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/preschool-irving-tx/
+- Downers Grove, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/preschool-downers-grove-il/
+- Romeoville, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/preschool-romeoville-il/
+- Mount Prospect, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/preschool-mount-prospect-il/
+- Franklin, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-franklin-wi/
+- West Saint Paul, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-west-saint-paul-mn/
+- Brooklyn Park, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-brooklyn-park-mn/
+- Coon Rapids, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-coon-rapids-mn/
+- Saint Louis Park, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-saint-louis-park-mn/
+- The Woodlands, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-the-woodlands-tx/
+- Corinth, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-corinth-tx/
+- Wylie, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-wylie-tx/
+- Magnolia, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-magnolia-tx/
+- North Richland Hills, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-north-richland-hills-tx/
+- Fort Bend County, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-fort-bend-county-tx/
+- Brazoria County, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-brazoria-county-tx/
+- Richmond, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-richmond-tx/
+- Carrollton, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-carrollton-tx/
+- Flower Mound, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-flower-mound-tx/
+- Grapevine, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-grapevine-tx/
+- Coppell, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-coppell-tx/
+- Brookfield, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-brookfield-il/
+- La Grange Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-la-grange-park-il/
+- Deerfield, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-deerfield-il/
+- Lisle, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-lisle-il/
+- Orland Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-orland-park-il/
+- Blue Island, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-blue-island-il/
+- Des Plaines, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-des-plaines-il/
+- Hoffman Estates, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-hoffman-estates-il/
+- Wheaton, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-wheaton-il/
+- Niles, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-niles-il/
+- Lombard, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-lombard-il/
+- Woodridge, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-woodridge-il/
+- Lake Zurich, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/preschool-lake-zurich-il/
+- West Allis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-west-allis-wi/
+- Mequon, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-mequon-wi/
+- Whitefish Bay, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-whitefish-bay-wi/
+- Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-brookfield-wi/
+- Brown Deer, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-brown-deer-wi/
+- Cedarburg, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-cedarburg-wi/
+- Oak Creek, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-oak-creek-wi/
+- Racine, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-racine-wi/
+- Saint Francis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-saint-francis-wi/
+- Bayside, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-bayside-wi/
+- Waukesha, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-waukesha-wi/
+- Fox Point, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-fox-point-wi/
+- Richfield, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-richfield-mn/
+- Minnetonka, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-minnetonka-mn/
+- Roseville, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-roseville-mn/
+- Rogers, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-rogers-mn/
+- White Bear Township, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-white-bear-township-mn/
+- Saint Paul Park, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-saint-paul-park-mn/
+- Lino Lakes, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-lino-lakes-mn/
+- Eden Prairie, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-eden-prairie-mn/
+- Ramsey, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-ramsey-mn/
+- Shorewood, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-shorewood-mn/
+- Blaine, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-blaine-mn/
+- White Bear Lake, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-white-bear-lake-mn/
+- Sunnyvale, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-sunnyvale-tx/
+- Fate, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-fate-tx/
+- Crandall, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-crandall-tx/
+- Pasadena, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-pasadena-tx/
+- Cedar Hill, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-cedar-hill-tx/
+- Katy, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-katy-tx/
+- Farmers Branch, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-farmers-branch-tx/
+- Heath, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-heath-tx/
+- Pearland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-pearland-tx/
+- Little Elm, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-little-elm-tx/
+- Grand Prairie, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-grand-prairie-tx/
+- Euless, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-euless-tx/
+- Southlake, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-southlake-tx/
+- Richardson, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-richardson-tx/
+- Prosper, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-prosper-tx/
+- Westlake, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-westlake-tx/
+- Allen, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-allen-tx/
+- Sugar Land, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-sugar-land-tx/
+- Hurst, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-hurst-tx/
+- Fulshear, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-fulshear-tx/
+- Northlake, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-northlake-tx/
+- Mansfield, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-mansfield-tx/
+- Garland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-garland-tx/
+- Missouri City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-missouri-city-tx/
+- Park Forest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-park-forest-il/
+- Barrington Township, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-barrington-township-il/
+- Itasca, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-itasca-il/
+- Northbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-northbrook-il/
+- Rosemont, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-rosemont-il/
+- Bloomingdale, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-bloomingdale-il/
+- Park Ridge, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-park-ridge-il/
+- Crete, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-crete-il/
+- Crestwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-crestwood-il/
+- Villa Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-villa-park-il/
+- Hickory Hills, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-hickory-hills-il/
+- Wood Dale, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-wood-dale-il/
+- Chicago Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-chicago-heights-il/
+- Elk Grove Village, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-elk-grove-village-il/
+- Burbank, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-burbank-il/
+- Maine Township, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-maine-township-il/
+- Highland Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-highland-park-il/
+- Justice, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-justice-il/
+- Northfield, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-northfield-il/
+- Robbins, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-robbins-il/
+- Bartlett, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-bartlett-il/
+- Worth Township, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-worth-township-il/
+- Palos Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-palos-heights-il/
+- Tinley Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-tinley-park-il/
+- Arlington Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-arlington-heights-il/
+- Mundelein, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-mundelein-il/
+- South Holland, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-south-holland-il/
+- Dixmoor, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-dixmoor-il/
+- Bellwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-bellwood-il/
+- Lyons, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-lyons-il/
+- La Grange, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-la-grange-il/
+- Elmhurst, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-elmhurst-il/
+- Joliet, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-joliet-il/
+- Oak Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-oak-park-il/
+- Markham, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-markham-il/
+- Carol Stream, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-carol-stream-il/
+- Glendale Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-glendale-heights-il/
+- Richton Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-richton-park-il/
+- Oak Forest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-oak-forest-il/
+- Harvey, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-harvey-il/
+- Riverwoods, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-riverwoods-il/
+- Wilmette, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-wilmette-il/
+- Streamwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-streamwood-il/
+- Westmont, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-westmont-il/
+- Midlothian, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-midlothian-il/
+- New Lenox, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-new-lenox-il/
+- Berwyn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-berwyn-il/
+- Mokena, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-mokena-il/
+- Hawthorn Woods, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-hawthorn-woods-il/
+- Buffalo Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-buffalo-grove-il/
+- St. John, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/preschool-st-john-in/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool | category: Education & childcare | industry benchmark: Education & Instruction
-- US monthly searches: 220,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
 - CPC benchmark: low $4.81, median $4.81, high $6.23 (Education & Instruction median CPC 2026 $4.81 [https://www.localiq.com/blog/search-advertising-benchmarks]; Education & Instruction median CPC 2025 $6.23 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 221
+- Registry businesses competing: 387
 - Equivalent Google Ads cost per month: ~$61,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/preschool.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#preschool | Estimates CC-BY-4.0; as of 2026-10-18
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/preschool.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#preschool | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -15,7 +15,7 @@ Vision One is an eye care practice in Whiting, IN at 1538 119th Street, Whiting,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/vision-one-whiting/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/vision-one-whiting.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1232448665 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ AAA Insurance is an insurance agent in Coon Rapids, MN at 2150 Northdale Bouleva
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Sa-Su closed
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/aaa-insurance-coon-rapids/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/aaa-insurance-coon-rapids.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9319816189 (license ODbL-1.0); source data as of 2026-05-31

@@ -15,7 +15,7 @@ Helzberg Diamonds is a jewelry store in Rosemont, IL at 5220 Fashion Outlets Way
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-rosemont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/helzberg-diamonds-rosemont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10597410272 (license ODbL-1.0); source data as of 2026-06-01

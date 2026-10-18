@@ -15,7 +15,7 @@ Mosaic Early Childhood Center is a preschool in Skokie, IL at 4023 Dempster Stre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mosaic-early-childhood-center-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mosaic-early-childhood-center-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/156963424 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Bloomington Collision Center is an auto repair shop in Bloomington, MN at 9735 H
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bloomington-collision-center-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bloomington-collision-center-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5901643423 (license ODbL-1.0); source data as of 2026-06-01

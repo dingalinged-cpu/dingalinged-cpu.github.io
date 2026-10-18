@@ -15,7 +15,7 @@ I-Tanaka Dental Products is a dentist in Skokie, IL at 8170 McCormick Boulevard 
 - Opening hours (OSM syntax): Mo-Fr 10:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/i-tanaka-dental-products-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/i-tanaka-dental-products-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10293153690 (license ODbL-1.0); source data as of 2026-07-28

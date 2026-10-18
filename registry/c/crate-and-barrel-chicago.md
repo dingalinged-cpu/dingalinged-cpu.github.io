@@ -15,7 +15,7 @@ Crate & Barrel is a furniture store in Chicago, IL at 850 West North Avenue, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/crate-and-barrel-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/crate-and-barrel-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/198989205 (license ODbL-1.0); source data as of 2026-06-01

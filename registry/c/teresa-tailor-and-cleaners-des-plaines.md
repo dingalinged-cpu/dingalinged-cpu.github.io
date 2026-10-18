@@ -15,7 +15,7 @@ Teresa Tailor & Cleaners is a dry cleaner in Des Plaines, IL at Miner Street, De
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/teresa-tailor-and-cleaners-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/teresa-tailor-and-cleaners-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1022754608 (license ODbL-1.0); source data as of 2026-06-01

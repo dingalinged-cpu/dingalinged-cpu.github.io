@@ -15,7 +15,7 @@ SCUBE Marketing is a marketing agency in Oakbrook Terrace, IL at 1 Mid America P
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/scube-marketing-oakbrook-terrace/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/scube-marketing-oakbrook-terrace.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13659405565 (license ODbL-1.0); source data as of 2026-07-28

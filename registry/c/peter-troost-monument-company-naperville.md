@@ -15,7 +15,7 @@ Peter Troost Monument Company is a concrete contractor in Naperville, IL. Phone:
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/peter-troost-monument-company-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/peter-troost-monument-company-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/61699039 (license ODbL-1.0); source data as of 2026-06-01

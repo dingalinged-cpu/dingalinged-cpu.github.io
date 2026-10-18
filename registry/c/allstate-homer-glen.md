@@ -15,7 +15,7 @@ Allstate is an insurance agent in Homer Glen, IL at 13205 West 143rd Street, Hom
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11126901192 (license ODbL-1.0); source data as of 2026-07-28

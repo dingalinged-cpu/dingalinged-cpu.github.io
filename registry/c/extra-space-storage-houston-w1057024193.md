@@ -1,0 +1,23 @@
+Extra Space Storage is a self-storage facility in Houston, TX at 10615 South Gessner Drive, Houston, TX 77071. Website: https://www.extraspace.com/storage/facilities/us/texas/houston/6501.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 10615 South Gessner Drive, Houston, TX 77071
+- City: Houston
+- State: TX
+- ZIP: 77071
+- Coordinates: 29.6657271, -95.5277369
+- Phone: n/a
+- Website: https://www.extraspace.com/storage/facilities/us/texas/houston/6501
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-houston-w1057024193/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-houston-w1057024193.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1057024193 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

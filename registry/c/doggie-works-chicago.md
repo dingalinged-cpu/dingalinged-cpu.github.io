@@ -15,7 +15,7 @@ Doggie Works is a dog boarding facility in Chicago, IL at 2340 West Nelson Stree
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa-Su 09:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/doggie-works-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/doggie-works-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12141260595 (license ODbL-1.0); source data as of 2026-07-28

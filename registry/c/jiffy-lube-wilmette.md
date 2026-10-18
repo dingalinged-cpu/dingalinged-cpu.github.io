@@ -15,7 +15,7 @@ Jiffy Lube is an auto repair shop in Wilmette, IL at 1115 Green Bay Road, Wilmet
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-wilmette/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-wilmette.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/880831182 (license ODbL-1.0); source data as of 2026-06-01

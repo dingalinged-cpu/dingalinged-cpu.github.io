@@ -15,7 +15,7 @@ Amy's Nails is a nail salon in Des Plaines, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/amys-nails-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/amys-nails-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6265137969 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ J&K Cleaners is a dry cleaner in Naperville, IL at 1484 East Chicago Avenue, Nap
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/j-and-k-cleaners-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/j-and-k-cleaners-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1421473662 (license ODbL-1.0); source data as of 2026-06-01

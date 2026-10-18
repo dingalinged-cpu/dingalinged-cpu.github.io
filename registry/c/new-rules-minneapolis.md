@@ -15,7 +15,7 @@ New Rules is a coworking space in Minneapolis, MN at 2015 North Lowry Avenue, Mi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-rules-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-rules-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/912609082 (license ODbL-1.0); source data as of 2026-07-24

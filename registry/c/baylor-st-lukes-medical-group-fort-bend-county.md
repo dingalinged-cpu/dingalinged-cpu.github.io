@@ -1,0 +1,23 @@
+Baylor St. Luke's Medical Group is a family medicine practice in Fort Bend County, TX at 10615, Fort Bend County, TX.
+
+# Baylor St. Luke's Medical Group
+
+- Category: family doctor
+- Services: family doctor, primary care physician
+- Address: 10615, Fort Bend County, TX
+- City: Fort Bend County
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.6512221, -95.7093744
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/baylor-st-lukes-medical-group-fort-bend-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/baylor-st-lukes-medical-group-fort-bend-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1233980723 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

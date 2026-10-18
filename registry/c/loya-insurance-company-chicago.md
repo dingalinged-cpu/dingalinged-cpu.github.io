@@ -15,7 +15,7 @@ Loya Insurance Company is an insurance agent in Chicago, IL at South Halsted Str
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/loya-insurance-company-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/loya-insurance-company-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11390331901 (license ODbL-1.0); source data as of 2026-07-28

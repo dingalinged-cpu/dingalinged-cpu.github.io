@@ -15,7 +15,7 @@ Sound Specialists is a business consultant in Chicago, IL at 1661 North Elston A
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sound-specialists-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sound-specialists-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/209866182 (license ODbL-1.0); source data as of 2026-07-28

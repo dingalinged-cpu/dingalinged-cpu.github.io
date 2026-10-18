@@ -1,0 +1,23 @@
+Tu y Yo at Ofelia's Salon is a hair salon in Houston, TX at 7505 Southwest Freeway #150, Houston, TX.
+
+# Tu y Yo at Ofelia's Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 7505 Southwest Freeway #150, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.6979511, -95.5188691
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/tu-y-yo-at-ofelias-salon-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tu-y-yo-at-ofelias-salon-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6789521097 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

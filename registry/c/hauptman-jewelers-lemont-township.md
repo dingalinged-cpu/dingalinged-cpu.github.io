@@ -15,7 +15,7 @@ Hauptman Jewelers is a jewelry store in Lemont Township, IL at 1052 State Street
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hauptman-jewelers-lemont-township/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hauptman-jewelers-lemont-township.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5443933512 (license ODbL-1.0); source data as of 2026-06-01

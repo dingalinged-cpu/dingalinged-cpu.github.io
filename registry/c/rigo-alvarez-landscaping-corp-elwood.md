@@ -15,7 +15,7 @@ Rigo Alvarez Landscaping Corp. is a landscaping company in Elwood, IL at 19250 Q
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/rigo-alvarez-landscaping-corp-elwood/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/rigo-alvarez-landscaping-corp-elwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12349034328 (license ODbL-1.0); source data as of 2026-06-01

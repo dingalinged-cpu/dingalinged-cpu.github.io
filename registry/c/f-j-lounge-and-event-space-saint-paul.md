@@ -15,7 +15,7 @@ Fàájì Lounge & Event Space is an event venue in Saint Paul, MN at 824 White B
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/f-j-lounge-and-event-space-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/f-j-lounge-and-event-space-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1524486949 (license ODbL-1.0); source data as of 2026-07-24

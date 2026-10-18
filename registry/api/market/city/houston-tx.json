@@ -2,7 +2,7 @@
  "title": "Keyword market data: Houston, TX",
  "description": "Top Houston, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
  "place": "Houston, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage houston tx",
     "slug": "massage-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/massage-houston-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -20,13 +20,13 @@
     "search_value_index_usd": 550000,
     "equivalent_google_ads_cost_month_usd": 32000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 53,
     "ranked_by": "by_volume"
    },
    {
     "keyword": "urgent care houston tx",
     "slug": "urgent-care-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-houston-tx/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 63000,
@@ -35,13 +35,13 @@
     "search_value_index_usd": 300000,
     "equivalent_google_ads_cost_month_usd": 20000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_volume"
    },
    {
     "keyword": "dentist houston tx",
     "slug": "dentist-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-houston-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -50,13 +50,13 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 176,
     "ranked_by": "by_volume"
    },
    {
     "keyword": "gym houston tx",
     "slug": "gym-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/gym-houston-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -65,13 +65,13 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 5000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 82,
     "ranked_by": "by_volume"
    },
    {
     "keyword": "car wash houston tx",
     "slug": "car-wash-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-houston-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -80,13 +80,13 @@
     "search_value_index_usd": 180000,
     "equivalent_google_ads_cost_month_usd": 10000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 68,
     "ranked_by": "by_volume"
    },
    {
     "keyword": "oil change houston tx",
     "slug": "oil-change-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-houston-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -95,13 +95,13 @@
     "search_value_index_usd": 180000,
     "equivalent_google_ads_cost_month_usd": 10000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 14,
     "ranked_by": "by_volume"
    },
    {
     "keyword": "hair salon houston tx",
     "slug": "hair-salon-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-houston-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -110,13 +110,13 @@
     "search_value_index_usd": 19000,
     "equivalent_google_ads_cost_month_usd": 1100,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 191,
     "ranked_by": "by_volume"
    },
    {
     "keyword": "nail salon houston tx",
     "slug": "nail-salon-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-houston-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -125,7 +125,7 @@
     "search_value_index_usd": 14000,
     "equivalent_google_ads_cost_month_usd": 800,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 106,
     "ranked_by": "by_volume"
    },
    {
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber houston tx",
     "slug": "plumber-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-houston-tx/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -155,7 +155,7 @@
     "search_value_index_usd": 230000,
     "equivalent_google_ads_cost_month_usd": 15000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 4,
     "ranked_by": "by_volume"
    },
    {
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop houston tx",
     "slug": "barber-shop-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-houston-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -200,7 +200,7 @@
     "search_value_index_usd": 11000,
     "equivalent_google_ads_cost_month_usd": 640,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 10,
     "ranked_by": "by_volume"
    },
    {
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic houston tx",
     "slug": "mechanic-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-houston-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -230,7 +230,7 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 213,
     "ranked_by": "by_volume"
    }
   ],
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair houston tx",
     "slug": "hvac-repair-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-houston-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -277,7 +277,7 @@
     "search_value_index_usd": 30000,
     "equivalent_google_ads_cost_month_usd": 1900,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 9,
     "ranked_by": "by_cpc"
    },
    {
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services houston tx",
     "slug": "plumbing-services-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-houston-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -352,7 +352,7 @@
     "search_value_index_usd": 15000,
     "equivalent_google_ads_cost_month_usd": 970,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 4,
     "ranked_by": "by_cpc"
    },
    {
@@ -403,7 +403,7 @@
    {
     "keyword": "painters houston tx",
     "slug": "painters-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/painters-houston-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -412,13 +412,13 @@
     "search_value_index_usd": 19000,
     "equivalent_google_ads_cost_month_usd": 1200,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
    {
     "keyword": "moving company houston tx",
     "slug": "moving-company-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/moving-company-houston-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -427,7 +427,7 @@
     "search_value_index_usd": 57000,
     "equivalent_google_ads_cost_month_usd": 3600,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 3,
     "ranked_by": "by_cpc"
    },
    {
@@ -465,7 +465,7 @@
    {
     "keyword": "massage houston tx",
     "slug": "massage-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/massage-houston-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -474,13 +474,13 @@
     "search_value_index_usd": 550000,
     "equivalent_google_ads_cost_month_usd": 32000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 53,
     "ranked_by": "by_value"
    },
    {
     "keyword": "urgent care houston tx",
     "slug": "urgent-care-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-houston-tx/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 63000,
@@ -489,7 +489,7 @@
     "search_value_index_usd": 300000,
     "equivalent_google_ads_cost_month_usd": 20000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_value"
    },
    {
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber houston tx",
     "slug": "plumber-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-houston-tx/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -519,13 +519,13 @@
     "search_value_index_usd": 230000,
     "equivalent_google_ads_cost_month_usd": 15000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 4,
     "ranked_by": "by_value"
    },
    {
     "keyword": "dentist houston tx",
     "slug": "dentist-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-houston-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -534,13 +534,13 @@
     "search_value_index_usd": 200000,
     "equivalent_google_ads_cost_month_usd": 11000,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 176,
     "ranked_by": "by_value"
    },
    {
     "keyword": "car wash houston tx",
     "slug": "car-wash-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-houston-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -549,13 +549,13 @@
     "search_value_index_usd": 180000,
     "equivalent_google_ads_cost_month_usd": 10000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 68,
     "ranked_by": "by_value"
    },
    {
     "keyword": "oil change houston tx",
     "slug": "oil-change-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-houston-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -564,7 +564,7 @@
     "search_value_index_usd": 180000,
     "equivalent_google_ads_cost_month_usd": 10000,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 14,
     "ranked_by": "by_value"
    },
    {
@@ -615,7 +615,7 @@
    {
     "keyword": "gym houston tx",
     "slug": "gym-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/gym-houston-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -624,13 +624,13 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 5000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 82,
     "ranked_by": "by_value"
    },
    {
     "keyword": "mechanic houston tx",
     "slug": "mechanic-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-houston-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -639,13 +639,13 @@
     "search_value_index_usd": 70000,
     "equivalent_google_ads_cost_month_usd": 3900,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 213,
     "ranked_by": "by_value"
    },
    {
     "keyword": "electrician houston tx",
     "slug": "electrician-houston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-houston-tx",
+    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-houston-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -654,7 +654,7 @@
     "search_value_index_usd": 69000,
     "equivalent_google_ads_cost_month_usd": 4400,
     "featured_spot_min_usd": 100,
-    "registry_competitors": 0,
+    "registry_competitors": 6,
     "ranked_by": "by_value"
    },
    {
@@ -690,7 +690,6 @@
   ]
  },
  "license": {
-  "registry_estimates": "CC-BY-4.0",
-  "url": "https://creativecommons.org/licenses/by/4.0/"
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
  }
 }

@@ -15,7 +15,7 @@ Ana's Beauty Salon is a hair salon in Whiting, IN at 1440 119th Street, Whiting,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anas-beauty-salon-whiting/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anas-beauty-salon-whiting.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1232078541 (license ODbL-1.0); source data as of 2026-06-01

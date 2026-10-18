@@ -15,7 +15,7 @@ Citywide Supply and Service is a HVAC contractor in Chicago, IL at 6101 West Mon
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/citywide-supply-and-service-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/citywide-supply-and-service-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10752047478 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ ATI Physical Therapy is a physical therapy clinic in Evanston, IL at 805 Davis S
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-evanston/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2295226715 (license ODbL-1.0); source data as of 2026-07-28

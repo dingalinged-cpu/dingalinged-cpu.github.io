@@ -1,0 +1,23 @@
+NEW IMAGE BARBER SHOP is a hair salon in Racine, WI at 5201 Washington Avenue #F, Racine, WI 53406.
+
+# NEW IMAGE BARBER SHOP
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 5201 Washington Avenue #F, Racine, WI 53406
+- City: Racine
+- State: WI
+- ZIP: 53406
+- Coordinates: 42.7178071, -87.842073
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/new-image-barber-shop-racine/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-image-barber-shop-racine.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9928088413 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

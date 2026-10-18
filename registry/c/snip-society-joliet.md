@@ -15,7 +15,7 @@ Snip Society is a veterinarian in Joliet, IL at 2201 Glenwood Avenue, Joliet, IL
 - Opening hours (OSM syntax): Mo, We-Fr 08:00-17:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/snip-society-joliet/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/snip-society-joliet.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13766703201 (license ODbL-1.0); source data as of 2026-07-28

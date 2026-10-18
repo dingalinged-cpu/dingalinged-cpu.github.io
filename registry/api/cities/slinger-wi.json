@@ -1,0 +1,692 @@
+{
+ "place": "Slinger, WI",
+ "slug": "slinger-wi",
+ "count": 22,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-slinger-wi.json"
+  },
+  {
+   "keyword": "car wash slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-slinger-wi.json"
+  },
+  {
+   "keyword": "chiropractor slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-slinger-wi.json"
+  },
+  {
+   "keyword": "dentist slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-slinger-wi.json"
+  },
+  {
+   "keyword": "dog boarding slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-boarding-slinger-wi.json"
+  },
+  {
+   "keyword": "financial advisor slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-slinger-wi.json"
+  },
+  {
+   "keyword": "flooring companies slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-slinger-wi.json"
+  },
+  {
+   "keyword": "gym slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-slinger-wi.json"
+  },
+  {
+   "keyword": "hair salon slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-slinger-wi.json"
+  },
+  {
+   "keyword": "haircut slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-slinger-wi.json"
+  },
+  {
+   "keyword": "insurance agency slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-slinger-wi.json"
+  },
+  {
+   "keyword": "insurance agent slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-slinger-wi.json"
+  },
+  {
+   "keyword": "insurance agents slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-slinger-wi.json"
+  },
+  {
+   "keyword": "mechanic slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-slinger-wi.json"
+  },
+  {
+   "keyword": "pet store slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-slinger-wi.json"
+  },
+  {
+   "keyword": "printing services slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-slinger-wi.json"
+  },
+  {
+   "keyword": "storage units slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-slinger-wi.json"
+  },
+  {
+   "keyword": "tattoo shop slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-slinger-wi.json"
+  },
+  {
+   "keyword": "thrift store slinger wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-slinger-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "saint-vincent-de-paul-thrift-store-slinger",
+   "name": "Saint Vincent de Paul Thrift Store",
+   "summary": "Saint Vincent de Paul Thrift Store is a thrift store in Slinger, WI. Website: https://www.svdpwc.com/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saint-vincent-de-paul-thrift-store-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3288101,
+    "lon": -88.277237
+   },
+   "website": "https://www.svdpwc.com/",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/37096704",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "birds-eye-view-tattoo-slinger",
+   "name": "Bird's Eye View Tattoo",
+   "summary": "Bird's Eye View Tattoo is a tattoo shop in Slinger, WI at 425B East Washington Street, Slinger, WI.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/birds-eye-view-tattoo-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/birds-eye-view-tattoo-slinger.json",
+   "address": {
+    "streetAddress": "425B East Washington Street",
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3297704,
+    "lon": -88.2784416
+   },
+   "opening_hours": "Mo-Su 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13948692445",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-trip-slinger",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Slinger, WI. Website: https://www.kwiktrip.com/locator/store?id=450.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.325396,
+    "lon": -88.2597084
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=450",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/442139354",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "friends-of-nature-pet-foods-and-supplies-slinger",
+   "name": "Friends of Nature Pet Foods & Supplies",
+   "summary": "Friends of Nature Pet Foods & Supplies is a pet store in Slinger, WI.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/friends-of-nature-pet-foods-and-supplies-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/friends-of-nature-pet-foods-and-supplies-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3295382,
+    "lon": -88.2778854
+   },
+   "opening_hours": "Su 10:00-16:00; Mo-Fr 10:00-19:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13948778443",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zurns-flooring-slinger",
+   "name": "Zurn's Flooring",
+   "summary": "Zurn's Flooring is a flooring company in Slinger, WI.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zurns-flooring-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zurns-flooring-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3313675,
+    "lon": -88.2891844
+   },
+   "opening_hours": "Mo-Fr 10:00-16:00; Sa-Su \"by appointment\"; Mo,Fr off \"Limited due to staff shorage\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14029092350",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anchor-of-life-chiropractic-slinger",
+   "name": "Anchor of Life Chiropractic",
+   "summary": "Anchor of Life Chiropractic is a chiropractor in Slinger, WI at 415 East Washington Street, Slinger, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anchor-of-life-chiropractic-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anchor-of-life-chiropractic-slinger.json",
+   "address": {
+    "streetAddress": "415 East Washington Street",
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3297031,
+    "lon": -88.2787722
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13948757914",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-family-insurance-slinger",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Slinger, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3233179,
+    "lon": -88.2695447
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6830981233",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brandt-printing-slinger",
+   "name": "Brandt Printing",
+   "summary": "Brandt Printing is a printing service in Slinger, WI.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brandt-printing-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brandt-printing-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3279146,
+    "lon": -88.2809845
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/477193415",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "central-bark-doggy-day-care-slinger",
+   "name": "Central Bark Doggy Day Care",
+   "summary": "Central Bark Doggy Day Care is a dog boarding facility in Slinger, WI.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-bark-doggy-day-care-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-bark-doggy-day-care-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3237279,
+    "lon": -88.2769175
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/729117585",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "d-and-m-auto-body-slinger",
+   "name": "D & M Auto Body",
+   "summary": "D & M Auto Body is an auto repair shop in Slinger, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/d-and-m-auto-body-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/d-and-m-auto-body-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3240723,
+    "lon": -88.275322
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/729117583",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dr-timothy-e-hartley-dds-slinger",
+   "name": "Dr. Timothy E. Hartley, DDS",
+   "summary": "Dr. Timothy E. Hartley, DDS is a dentist in Slinger, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-timothy-e-hartley-dds-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-timothy-e-hartley-dds-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3299385,
+    "lon": -88.2765198
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/599489925",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gundrum-insurance-slinger",
+   "name": "Gundrum Insurance",
+   "summary": "Gundrum Insurance is an insurance agent in Slinger, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gundrum-insurance-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gundrum-insurance-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3341201,
+    "lon": -88.2851887
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/37096572",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hello-gorgeous-slinger",
+   "name": "Hello Gorgeous",
+   "summary": "Hello Gorgeous is a hair salon in Slinger, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hello-gorgeous-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hello-gorgeous-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.330018,
+    "lon": -88.2791106
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/599489926",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "joes-slinger-service-slinger",
+   "name": "Joe's Slinger Service",
+   "summary": "Joe's Slinger Service is an auto repair shop in Slinger, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joes-slinger-service-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joes-slinger-service-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3240529,
+    "lon": -88.2760554
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/729117584",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lake-country-storage-slinger",
+   "name": "Lake Country Storage",
+   "summary": "Lake Country Storage is a self-storage facility in Slinger, WI.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-country-storage-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-country-storage-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3279084,
+    "lon": -88.2814186
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13978429677",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lgh-wealth-management-slinger",
+   "name": "LGH Wealth Management",
+   "summary": "LGH Wealth Management is a financial advisor in Slinger, WI.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lgh-wealth-management-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lgh-wealth-management-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3301606,
+    "lon": -88.2790387
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13948775732",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "riegleman-chiropractic-slinger",
+   "name": "Riegleman Chiropractic",
+   "summary": "Riegleman Chiropractic is a chiropractor in Slinger, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riegleman-chiropractic-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riegleman-chiropractic-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.325309,
+    "lon": -88.2898994
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3322655261",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "schaefers-service-center-slinger",
+   "name": "Schaefer's Service Center",
+   "summary": "Schaefer's Service Center is an auto repair shop in Slinger, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schaefers-service-center-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schaefers-service-center-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3256971,
+    "lon": -88.2630498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/732745676",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "schaefers-slinger-service-slinger",
+   "name": "Schaefers Slinger Service",
+   "summary": "Schaefers Slinger Service is an auto repair shop in Slinger, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schaefers-slinger-service-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schaefers-slinger-service-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3255735,
+    "lon": -88.2628893
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/683366654",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "snap-fitness-slinger",
+   "name": "Snap Fitness",
+   "summary": "Snap Fitness is a gym in Slinger, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snap-fitness-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3253071,
+    "lon": -88.2687466
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6861372878",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-slinger",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Slinger, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3361004,
+    "lon": -88.282473
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/376557301",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wholesale-pet-supplies-slinger",
+   "name": "Wholesale Pet Supplies",
+   "summary": "Wholesale Pet Supplies is a pet store in Slinger, WI.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wholesale-pet-supplies-slinger/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wholesale-pet-supplies-slinger.json",
+   "address": {
+    "addressLocality": "Slinger",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Slinger",
+   "state": "WI",
+   "geo": {
+    "lat": 43.3291079,
+    "lon": -88.2775836
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13948714873",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

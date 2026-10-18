@@ -15,7 +15,7 @@ Garfield's Beveragew Warehouse is a liquor store in Norridge, IL at 4601 North H
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/garfields-beveragew-warehouse-norridge/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/garfields-beveragew-warehouse-norridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1303166626 (license ODbL-1.0); source data as of 2026-06-01

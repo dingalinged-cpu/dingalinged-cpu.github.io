@@ -15,7 +15,7 @@ MJ Miller & Co is a jewelry store in Barrington, IL at 123 West Main Street, Bar
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mj-miller-and-co-barrington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mj-miller-and-co-barrington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7432088137 (license ODbL-1.0); source data as of 2026-06-01

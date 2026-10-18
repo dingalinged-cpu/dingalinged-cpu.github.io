@@ -15,7 +15,7 @@ National Pride Car Wash is a car wash in Chicago, IL at 2637 East 100th Street, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/national-pride-car-wash-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/national-pride-car-wash-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211277604 (license ODbL-1.0); source data as of 2026-07-28

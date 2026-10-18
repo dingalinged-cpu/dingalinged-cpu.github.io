@@ -15,7 +15,7 @@ Ktenas Injury Attorneys is a lawyer in Chicago, IL at 401 South LaSalle Street, 
 - Opening hours (OSM syntax): Mo-Th 08:30-18:30; Fr 09:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ktenas-injury-attorneys-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ktenas-injury-attorneys-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11340601375 (license ODbL-1.0); source data as of 2026-07-28

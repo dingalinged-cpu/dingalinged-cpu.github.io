@@ -1,0 +1,23 @@
+Gina Biedermann DDS is a dentist in Keller, TX at 940 Keller Parkway #170, Keller, TX 76248. Website: https://www.docbiedermann.com/.
+
+# Gina Biedermann DDS
+
+- Category: dentist
+- Services: dentist
+- Address: 940 Keller Parkway #170, Keller, TX 76248
+- City: Keller
+- State: TX
+- ZIP: 76248
+- Coordinates: 32.9324572, -97.2310942
+- Phone: n/a
+- Website: https://www.docbiedermann.com/
+- Email: ginabiedermanndds1@gmail.com
+- Opening hours (OSM syntax): Mo,We 08:00-17:00, Tu,Th 08:00-15:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/gina-biedermann-dds-keller/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gina-biedermann-dds-keller.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12585251996 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

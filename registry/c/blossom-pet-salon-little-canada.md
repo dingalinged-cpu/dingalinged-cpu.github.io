@@ -15,7 +15,7 @@ Blossom Pet Salon is a pet store in Little Canada, MN at 2900 Rice Street #260, 
 - Opening hours (OSM syntax): Tu-Sa 08:30-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/blossom-pet-salon-little-canada/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/blossom-pet-salon-little-canada.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7554622685 (license ODbL-1.0); source data as of 2026-06-01

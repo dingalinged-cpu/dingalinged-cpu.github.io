@@ -2,7 +2,7 @@
  "title": "Keyword market data: Beauty & Personal Care",
  "description": "Top Beauty & Personal Care keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
  "industry": "Beauty & Personal Care",
  "keywords": 24,
  "lists": {
@@ -18,7 +18,7 @@
     "search_value_index_usd": 23000000,
     "equivalent_google_ads_cost_month_usd": 1300000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 124,
+    "registry_competitors": 434,
     "ranked_by": "by_volume"
    },
    {
@@ -32,7 +32,7 @@
     "search_value_index_usd": 830000,
     "equivalent_google_ads_cost_month_usd": 47000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 1001,
+    "registry_competitors": 2166,
     "ranked_by": "by_volume"
    },
    {
@@ -46,7 +46,7 @@
     "search_value_index_usd": 610000,
     "equivalent_google_ads_cost_month_usd": 35000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 353,
+    "registry_competitors": 1012,
     "ranked_by": "by_volume"
    },
    {
@@ -60,7 +60,7 @@
     "search_value_index_usd": 470000,
     "equivalent_google_ads_cost_month_usd": 27000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 74,
+    "registry_competitors": 221,
     "ranked_by": "by_volume"
    },
    {
@@ -88,7 +88,7 @@
     "search_value_index_usd": 1700000,
     "equivalent_google_ads_cost_month_usd": 97000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 1075,
+    "registry_competitors": 2387,
     "ranked_by": "by_volume"
    },
    {
@@ -102,7 +102,7 @@
     "search_value_index_usd": 1100000,
     "equivalent_google_ads_cost_month_usd": 65000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 21,
+    "registry_competitors": 69,
     "ranked_by": "by_volume"
    },
    {
@@ -130,7 +130,7 @@
     "search_value_index_usd": 340000,
     "equivalent_google_ads_cost_month_usd": 20000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 45,
+    "registry_competitors": 139,
     "ranked_by": "by_volume"
    },
    {
@@ -150,7 +150,7 @@
    {
     "keyword": "lash extensions",
     "slug": "lash-extensions",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lash-extensions",
+    "url": "https://dingalinged-cpu.github.io/registry/k/lash-extensions/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -158,7 +158,7 @@
     "search_value_index_usd": 150000,
     "equivalent_google_ads_cost_month_usd": 8700,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_volume"
    },
    {
@@ -314,7 +314,7 @@
     "search_value_index_usd": 340000,
     "equivalent_google_ads_cost_month_usd": 20000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 45,
+    "registry_competitors": 139,
     "ranked_by": "by_cpc"
    },
    {
@@ -356,7 +356,7 @@
     "search_value_index_usd": 1700000,
     "equivalent_google_ads_cost_month_usd": 97000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 1075,
+    "registry_competitors": 2387,
     "ranked_by": "by_cpc"
    },
    {
@@ -390,7 +390,7 @@
    {
     "keyword": "lash extensions",
     "slug": "lash-extensions",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lash-extensions",
+    "url": "https://dingalinged-cpu.github.io/registry/k/lash-extensions/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -398,7 +398,7 @@
     "search_value_index_usd": 150000,
     "equivalent_google_ads_cost_month_usd": 8700,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
    {
@@ -454,7 +454,7 @@
     "search_value_index_usd": 23000000,
     "equivalent_google_ads_cost_month_usd": 1300000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 124,
+    "registry_competitors": 434,
     "ranked_by": "by_cpc"
    },
    {
@@ -482,7 +482,7 @@
     "search_value_index_usd": 4300000,
     "equivalent_google_ads_cost_month_usd": 250000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 2,
+    "registry_competitors": 7,
     "ranked_by": "by_cpc"
    },
    {
@@ -496,7 +496,7 @@
     "search_value_index_usd": 1100000,
     "equivalent_google_ads_cost_month_usd": 65000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 21,
+    "registry_competitors": 69,
     "ranked_by": "by_cpc"
    },
    {
@@ -510,7 +510,7 @@
     "search_value_index_usd": 140000,
     "equivalent_google_ads_cost_month_usd": 7900,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 41,
+    "registry_competitors": 93,
     "ranked_by": "by_cpc"
    },
    {
@@ -524,7 +524,7 @@
     "search_value_index_usd": 4300000,
     "equivalent_google_ads_cost_month_usd": 250000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 89,
+    "registry_competitors": 206,
     "ranked_by": "by_cpc"
    }
   ],
@@ -540,7 +540,7 @@
     "search_value_index_usd": 23000000,
     "equivalent_google_ads_cost_month_usd": 1300000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 124,
+    "registry_competitors": 434,
     "ranked_by": "by_value"
    },
    {
@@ -568,7 +568,7 @@
     "search_value_index_usd": 1700000,
     "equivalent_google_ads_cost_month_usd": 97000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 1075,
+    "registry_competitors": 2387,
     "ranked_by": "by_value"
    },
    {
@@ -582,7 +582,7 @@
     "search_value_index_usd": 1100000,
     "equivalent_google_ads_cost_month_usd": 65000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 21,
+    "registry_competitors": 69,
     "ranked_by": "by_value"
    },
    {
@@ -596,7 +596,7 @@
     "search_value_index_usd": 830000,
     "equivalent_google_ads_cost_month_usd": 47000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 1001,
+    "registry_competitors": 2166,
     "ranked_by": "by_value"
    },
    {
@@ -610,7 +610,7 @@
     "search_value_index_usd": 610000,
     "equivalent_google_ads_cost_month_usd": 35000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 353,
+    "registry_competitors": 1012,
     "ranked_by": "by_value"
    },
    {
@@ -624,7 +624,7 @@
     "search_value_index_usd": 470000,
     "equivalent_google_ads_cost_month_usd": 27000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 74,
+    "registry_competitors": 221,
     "ranked_by": "by_value"
    },
    {
@@ -652,7 +652,7 @@
     "search_value_index_usd": 340000,
     "equivalent_google_ads_cost_month_usd": 20000,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 45,
+    "registry_competitors": 139,
     "ranked_by": "by_value"
    },
    {
@@ -672,7 +672,7 @@
    {
     "keyword": "lash extensions",
     "slug": "lash-extensions",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lash-extensions",
+    "url": "https://dingalinged-cpu.github.io/registry/k/lash-extensions/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -680,7 +680,7 @@
     "search_value_index_usd": 150000,
     "equivalent_google_ads_cost_month_usd": 8700,
     "featured_spot_min_usd": 250,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_value"
    },
    {
@@ -770,7 +770,6 @@
   ]
  },
  "license": {
-  "registry_estimates": "CC-BY-4.0",
-  "url": "https://creativecommons.org/licenses/by/4.0/"
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
  }
 }

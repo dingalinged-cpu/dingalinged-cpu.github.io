@@ -15,7 +15,7 @@ Insurance Navy Brokers is an insurance agent in Chicago, IL at 4300 South Archer
 - Opening hours (OSM syntax): Mo-Sa 10:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-chicago-n12316382761/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-chicago-n12316382761.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12316382761 (license ODbL-1.0); source data as of 2026-07-28

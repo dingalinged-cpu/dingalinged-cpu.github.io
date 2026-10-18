@@ -15,7 +15,7 @@ Kenyatta's Day Care and Learning Center is a daycare in Chicago, IL at 2334-2336
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kenyattas-day-care-and-learning-center-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kenyattas-day-care-and-learning-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/211317879 (license ODbL-1.0); source data as of 2026-07-28

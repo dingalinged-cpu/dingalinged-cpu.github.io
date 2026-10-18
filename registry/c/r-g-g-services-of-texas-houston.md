@@ -1,0 +1,23 @@
+R.G.G. Services of Texas is an accountant in Houston, TX at 4800 West 34th Street #C7, Houston, TX 77092. Phone: +17134617614. Website: https://taxsrvcsrgg.com/.
+
+# R.G.G. Services of Texas
+
+- Category: accountant
+- Services: accountant, accounting services
+- Address: 4800 West 34th Street #C7, Houston, TX 77092
+- City: Houston
+- State: TX
+- ZIP: 77092
+- Coordinates: 29.8200194, -95.4609351
+- Phone: +17134617614
+- Website: https://taxsrvcsrgg.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 09:00-21:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/r-g-g-services-of-texas-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/r-g-g-services-of-texas-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6059971288 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

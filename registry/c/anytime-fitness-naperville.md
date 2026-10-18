@@ -15,7 +15,7 @@ Anytime Fitness is a gym in Naperville, IL at 1271 Rickert Drive #111, Napervill
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1339742450 (license ODbL-1.0); source data as of 2026-06-01

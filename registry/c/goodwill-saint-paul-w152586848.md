@@ -15,7 +15,7 @@ Goodwill is a thrift store in Saint Paul, MN at 1239 University Avenue West, Sai
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-saint-paul-w152586848/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-saint-paul-w152586848.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/152586848 (license ODbL-1.0); source data as of 2026-06-01

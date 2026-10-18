@@ -15,7 +15,7 @@ Arlington Heights Animal Hospital is a veterinarian in Arlington Heights, IL at 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/arlington-heights-animal-hospital-arlington-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/arlington-heights-animal-hospital-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/94485404 (license ODbL-1.0); source data as of 2026-07-28

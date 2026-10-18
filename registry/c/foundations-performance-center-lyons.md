@@ -15,7 +15,7 @@ Foundations Performance Center is a dance studio in Lyons, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/foundations-performance-center-lyons/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/foundations-performance-center-lyons.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/625216063 (license ODbL-1.0); source data as of 2026-06-01

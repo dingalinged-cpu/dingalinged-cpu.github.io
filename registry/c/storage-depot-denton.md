@@ -1,0 +1,23 @@
+Storage Depot is a self-storage facility in Denton, TX at 1201 South Loop 288, Denton, TX.
+
+# Storage Depot
+
+- Category: storage units
+- Services: storage units
+- Address: 1201 South Loop 288, Denton, TX
+- City: Denton
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.19831, -97.0906798
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/storage-depot-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/storage-depot-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5105823408 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

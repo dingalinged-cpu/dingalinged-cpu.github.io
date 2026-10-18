@@ -15,7 +15,7 @@ Luke is a car wash in East Chicago, IN at 5695 Indianapolis Boulevard, East Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/luke-east-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/luke-east-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1528629717 (license ODbL-1.0); source data as of 2026-07-28

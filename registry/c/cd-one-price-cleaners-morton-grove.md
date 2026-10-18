@@ -15,7 +15,7 @@ CD One Price Cleaners is a dry cleaner in Morton Grove, IL at 6949 West Dempster
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-morton-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cd-one-price-cleaners-morton-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10172784557 (license ODbL-1.0); source data as of 2026-06-01

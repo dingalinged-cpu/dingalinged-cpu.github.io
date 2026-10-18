@@ -15,7 +15,7 @@ Jesse's Flowers & Balloons is a florist in Chicago, IL at 2625 South Central Par
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jesses-flowers-and-balloons-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jesses-flowers-and-balloons-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8647946962 (license ODbL-1.0); source data as of 2026-06-01

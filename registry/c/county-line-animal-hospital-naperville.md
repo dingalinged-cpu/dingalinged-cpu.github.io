@@ -15,7 +15,7 @@ County Line Animal Hospital is a veterinarian in Naperville, IL at 2200 South Wa
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/county-line-animal-hospital-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/county-line-animal-hospital-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/998234217 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Meyers & Flowers is a lawyer in Chicago, IL at 225 West Wacker Dr ##1515, Chicag
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/meyers-and-flowers-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/meyers-and-flowers-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/14000866421 (license ODbL-1.0); source data as of 2026-07-28

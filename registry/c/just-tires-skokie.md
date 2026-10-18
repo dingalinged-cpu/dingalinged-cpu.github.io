@@ -15,7 +15,7 @@ Just Tires is a tire shop in Skokie, IL at 3540 West Touhy Avenue, Skokie, IL 60
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/just-tires-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/just-tires-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1040135401 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Jackson Hewitt is a tax preparation service in West Allis, WI at 6714 West Greenfield Avenue, West Allis, WI 53214. Phone: +12622071883. Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/wi/west-allis/6714-w-greenfield-ave/19995.
+
+# Jackson Hewitt
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 6714 West Greenfield Avenue, West Allis, WI 53214
+- City: West Allis
+- State: WI
+- ZIP: 53214
+- Coordinates: 43.0177226, -87.9963267
+- Phone: +12622071883
+- Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/wi/west-allis/6714-w-greenfield-ave/19995
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-west-allis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-west-allis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12006377362 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

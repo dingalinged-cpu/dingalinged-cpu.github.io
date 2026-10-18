@@ -15,7 +15,7 @@ Color It is a painting contractor in New Lenox, IL at 308 West Maple Street, New
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/color-it-new-lenox/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/color-it-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1306998302 (license ODbL-1.0); source data as of 2026-06-01

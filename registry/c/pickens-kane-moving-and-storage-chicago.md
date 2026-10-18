@@ -15,7 +15,7 @@ Pickens Kane Moving & Storage is a moving company in Chicago, IL at 411 North Ha
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/pickens-kane-moving-and-storage-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/pickens-kane-moving-and-storage-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210270355 (license ODbL-1.0); source data as of 2026-07-28

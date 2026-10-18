@@ -15,7 +15,7 @@ Mak's is an auto repair shop in Brookfield, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/maks-brookfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/maks-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9502897946 (license ODbL-1.0); source data as of 2026-06-01

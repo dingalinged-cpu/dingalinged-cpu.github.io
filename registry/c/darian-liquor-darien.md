@@ -15,7 +15,7 @@ Darian Liquor is a liquor store in Darien, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/darian-liquor-darien/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/darian-liquor-darien.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13519801951 (license ODbL-1.0); source data as of 2026-06-01

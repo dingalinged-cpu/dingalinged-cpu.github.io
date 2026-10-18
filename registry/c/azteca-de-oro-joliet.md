@@ -15,7 +15,7 @@ Azteca de Oro is an event venue in Joliet, IL at 1013 Collins Street, Joliet, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/azteca-de-oro-joliet/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/azteca-de-oro-joliet.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/961796208 (license ODbL-1.0); source data as of 2026-07-28

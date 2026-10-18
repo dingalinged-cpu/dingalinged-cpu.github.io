@@ -15,7 +15,7 @@ Oak Cleaners is a dry cleaner in Oak Park, IL at 900 South Ridgeland Avenue, Oak
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/oak-cleaners-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/oak-cleaners-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4630605189 (license ODbL-1.0); source data as of 2026-06-01

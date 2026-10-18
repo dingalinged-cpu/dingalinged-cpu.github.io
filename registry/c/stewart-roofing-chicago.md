@@ -15,7 +15,7 @@ Stewart Roofing is a roofer in Chicago, IL at 361 East 115th Street, Chicago, IL
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/stewart-roofing-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/stewart-roofing-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210695072 (license ODbL-1.0); source data as of 2026-06-01

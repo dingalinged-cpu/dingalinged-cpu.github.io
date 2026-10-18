@@ -15,7 +15,7 @@ Grove Health Dental is a dentist in Maple Grove, MN at 9907 Maple Grove Parkway,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/grove-health-dental-maple-grove/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/grove-health-dental-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9291222004 (license ODbL-1.0); source data as of 2026-07-24

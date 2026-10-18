@@ -1,0 +1,23 @@
+SuperSplash Car Wash & Lube is an auto repair shop in Prosper, TX at 400 South Preston Road, Prosper, TX.
+
+# SuperSplash Car Wash & Lube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 400 South Preston Road, Prosper, TX
+- City: Prosper
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.2331708, -96.7926692
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/supersplash-car-wash-and-lube-prosper/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/supersplash-car-wash-and-lube-prosper.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1128282538 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

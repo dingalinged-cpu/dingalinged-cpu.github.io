@@ -15,7 +15,7 @@ Birdman's Parrots is a pet store in Des Plaines, IL at 710 Lee Street, Des Plain
 - Opening hours (OSM syntax): Tu-Su 12:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/birdmans-parrots-des-plaines/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/birdmans-parrots-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1483062473 (license ODbL-1.0); source data as of 2026-06-01

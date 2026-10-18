@@ -1,0 +1,23 @@
+Gomez Tire Shop is a tire shop in Hempstead, TX.
+
+# Gomez Tire Shop
+
+- Category: tire shop
+- Services: tire shop
+- Address: Hempstead, TX
+- City: Hempstead
+- State: TX
+- ZIP: n/a
+- Coordinates: 30.0970067, -96.0660113
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/gomez-tire-shop-hempstead/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gomez-tire-shop-hempstead.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12762542385 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

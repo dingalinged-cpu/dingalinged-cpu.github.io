@@ -1,0 +1,23 @@
+Crystal's Nails is a nail salon in Houston, TX at 5901 Westheimer Road #J, Houston, TX.
+
+# Crystal's Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: 5901 Westheimer Road #J, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7369245, -95.4852057
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/crystals-nails-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/crystals-nails-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9007346054 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

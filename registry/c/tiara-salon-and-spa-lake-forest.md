@@ -15,7 +15,7 @@ Tiara Salon & Spa is a hair salon in Lake Forest, IL at 1385 North Western Avenu
 - Opening hours (OSM syntax): Mo-Su 09:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/tiara-salon-and-spa-lake-forest/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/tiara-salon-and-spa-lake-forest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7687945046 (license ODbL-1.0); source data as of 2026-06-01

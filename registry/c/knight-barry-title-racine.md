@@ -1,0 +1,23 @@
+Knight Barry Title is an insurance agent in Racine, WI at 400 Wisconsin Avenue, Racine, WI.
+
+# Knight Barry Title
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 400 Wisconsin Avenue, Racine, WI
+- City: Racine
+- State: WI
+- ZIP: n/a
+- Coordinates: 42.728843, -87.7846159
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/knight-barry-title-racine/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/knight-barry-title-racine.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/364821376 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

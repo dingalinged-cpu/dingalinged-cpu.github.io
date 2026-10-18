@@ -1,0 +1,23 @@
+L.A. Nails & Spa is a nail salon in Addison, TX at 3756 Belt Line Road, Addison, TX 75001.
+
+# L.A. Nails & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 3756 Belt Line Road, Addison, TX 75001
+- City: Addison
+- State: TX
+- ZIP: 75001
+- Coordinates: 32.9507147, -96.8532573
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/l-a-nails-and-spa-addison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/l-a-nails-and-spa-addison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8925095036 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Flip N Styles is a hair salon in Milwaukee, WI at 817 West National Avenue, Milwaukee, WI 53204. Phone: +14146350009.
+
+# Flip N Styles
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 817 West National Avenue, Milwaukee, WI 53204
+- City: Milwaukee
+- State: WI
+- ZIP: 53204
+- Coordinates: 43.0231016, -87.92175
+- Phone: +14146350009
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo 10:00-18:00; Tu,We,Th 10:00-19:00; Fr 08:00-19:00; Sa 08:00-17:00; Su off
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/flip-n-styles-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/flip-n-styles-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11288423226 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

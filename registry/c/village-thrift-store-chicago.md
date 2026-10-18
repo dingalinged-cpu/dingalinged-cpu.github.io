@@ -15,7 +15,7 @@ Village Thrift Store is a thrift store in Chicago, IL at 4027 North Kedzie Avenu
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/village-thrift-store-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/village-thrift-store-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2274321350 (license ODbL-1.0); source data as of 2026-06-01

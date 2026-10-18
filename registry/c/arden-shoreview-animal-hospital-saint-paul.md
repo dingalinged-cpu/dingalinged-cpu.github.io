@@ -15,7 +15,7 @@ Arden Shoreview Animal Hospital is a veterinarian in Saint Paul, MN at 1261 Coun
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/arden-shoreview-animal-hospital-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/arden-shoreview-animal-hospital-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1333410638 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Ebenezer Tower Apartments is an assisted living facility in Minneapolis, MN at 2
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ebenezer-tower-apartments-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ebenezer-tower-apartments-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/125841033 (license ODbL-1.0); source data as of 2026-07-24

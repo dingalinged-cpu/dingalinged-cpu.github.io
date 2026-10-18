@@ -15,7 +15,7 @@ Northwood Dental is a dentist in Eagan, MN at 1227 Northwood Parkway, Eagan, MN 
 - Opening hours (OSM syntax): Mo-Th 07:00-17:00; Fr-Su off
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northwood-dental-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northwood-dental-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/350242398 (license ODbL-1.0); source data as of 2026-07-24

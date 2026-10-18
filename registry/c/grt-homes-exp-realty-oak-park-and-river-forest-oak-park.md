@@ -15,7 +15,7 @@ GRT Homes | eXp Realty Oak Park & River Forest is a real estate agency in Oak Pa
 - Opening hours (OSM syntax): 24/7
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/grt-homes-exp-realty-oak-park-and-river-forest-oak-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/grt-homes-exp-realty-oak-park-and-river-forest-oak-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8288863776 (license ODbL-1.0); source data as of 2026-07-28

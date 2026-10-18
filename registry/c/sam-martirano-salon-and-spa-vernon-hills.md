@@ -15,7 +15,7 @@ Sam Martirano Salon & Spa is a hair salon in Vernon Hills, IL. Phone: +184747861
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sam-martirano-salon-and-spa-vernon-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sam-martirano-salon-and-spa-vernon-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6687972165 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Bizik Glass Block Corp is a window repair service in Whiting, IN at 2435 Indiana
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bizik-glass-block-corp-whiting/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bizik-glass-block-corp-whiting.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1211633500 (license ODbL-1.0); source data as of 2026-06-01

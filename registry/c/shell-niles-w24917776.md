@@ -15,7 +15,7 @@ Shell is a car wash in Niles, IL at 5900 West Touhy Avenue, Niles, IL 60714.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/shell-niles-w24917776/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/shell-niles-w24917776.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/24917776 (license ODbL-1.0); source data as of 2026-07-28

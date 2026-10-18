@@ -15,7 +15,7 @@ Einstein Bros. Bagels is a bakery in Chicago, IL at 3455 North Clark Street, Chi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/einstein-bros-bagels-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/einstein-bros-bagels-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210329577 (license ODbL-1.0); source data as of 2026-06-01

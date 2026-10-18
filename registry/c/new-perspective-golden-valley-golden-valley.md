@@ -15,7 +15,7 @@ New Perspective Golden Valley is an assisted living facility in Golden Valley, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/new-perspective-golden-valley-golden-valley/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-perspective-golden-valley-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/480658107 (license ODbL-1.0); source data as of 2026-07-24

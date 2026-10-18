@@ -15,7 +15,7 @@ Matsock is an insurance agent in Naperville, IL at 1750 North Washington Street 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/matsock-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/matsock-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9046416047 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Paris Baguette is a bakery in Naperville, IL at 1295 East Ogden Avenue, Napervil
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/paris-baguette-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/paris-baguette-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12695573640 (license ODbL-1.0); source data as of 2026-06-01

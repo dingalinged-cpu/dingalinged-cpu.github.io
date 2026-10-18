@@ -1,0 +1,23 @@
+Jiffy Lube is an auto repair shop in Deer Park, TX at 3417 Center Street, Deer Park, TX 77536.
+
+# Jiffy Lube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 3417 Center Street, Deer Park, TX 77536
+- City: Deer Park
+- State: TX
+- ZIP: 77536
+- Coordinates: 29.6802531, -95.1224415
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-deer-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-deer-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/727818282 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

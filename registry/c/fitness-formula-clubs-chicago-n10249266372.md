@@ -15,7 +15,7 @@ Fitness Formula Clubs is a gym in Chicago, IL at 939 West North Avenue, Chicago,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fitness-formula-clubs-chicago-n10249266372/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fitness-formula-clubs-chicago-n10249266372.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10249266372 (license ODbL-1.0); source data as of 2026-06-01

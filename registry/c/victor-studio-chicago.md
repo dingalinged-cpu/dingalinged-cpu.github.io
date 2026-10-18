@@ -15,7 +15,7 @@ Victor Studio is a photographer in Chicago, IL at 6600 West Irving Park Road, Ch
 - Opening hours (OSM syntax): Mo 12:00-20:00; Tu-Fr 10:00-20:00; Sa 10:00-16:00; Su 11:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/victor-studio-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/victor-studio-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11201174107 (license ODbL-1.0); source data as of 2026-06-01

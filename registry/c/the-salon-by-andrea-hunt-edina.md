@@ -15,7 +15,7 @@ The Salon By Andrea Hunt is a hair salon in Edina, MN. Website: https://thesalon
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-salon-by-andrea-hunt-edina/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-salon-by-andrea-hunt-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12139116049 (license ODbL-1.0); source data as of 2026-06-01

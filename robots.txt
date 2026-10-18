@@ -2,75 +2,195 @@
 # Every crawler, including AI crawlers and assistants, is allowed.
 
 User-agent: *
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: GPTBot
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: OAI-SearchBot
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: ChatGPT-User
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: ClaudeBot
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: Claude-User
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: Claude-SearchBot
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: anthropic-ai
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: PerplexityBot
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: Perplexity-User
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: Google-Extended
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: GoogleOther
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: Googlebot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: Google-CloudVertexBot
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: Bingbot
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: Applebot
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: Applebot-Extended
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: Amazonbot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: NovaAct
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: meta-externalagent
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: FacebookBot
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: CCBot
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: cohere-ai
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: cohere-training-data-crawler
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: DuckAssistBot
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: MistralAI-User
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: Bytespider
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: TikTokSpider
+Disallow: /registry/view/kw/
 Allow: /
 
 User-agent: YouBot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: PhindBot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: Diffbot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: Timpibot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: PetalBot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: YandexBot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: YandexAdditional
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: Baiduspider
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: DeepSeekBot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: Kangaroo Bot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: ImagesiftBot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: AI2Bot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: Ai2Bot-Dolma
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: OmgiliBot
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: webzio-extended
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: iaskspider
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: ICC-Crawler
+Disallow: /registry/view/kw/
+Allow: /
+
+User-agent: Brightbot
+Disallow: /registry/view/kw/
 Allow: /
 
 Sitemap: https://dingalinged-cpu.github.io/registry/sitemap.xml

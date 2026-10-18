@@ -15,7 +15,7 @@ Carepointe Ear . Nose . Throat . Sinus, Hearing Center is an audiologist in Merr
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-12:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/carepointe-ear-nose-throat-sinus-hearing-center-merrillville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/carepointe-ear-nose-throat-sinus-hearing-center-merrillville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1236492094 (license ODbL-1.0); source data as of 2026-07-28

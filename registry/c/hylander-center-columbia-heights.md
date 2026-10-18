@@ -15,7 +15,7 @@ Hylander Center is a gym in Columbia Heights, MN at 1400 49th Avenue Northeast, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hylander-center-columbia-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hylander-center-columbia-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8105529341 (license ODbL-1.0); source data as of 2026-07-15

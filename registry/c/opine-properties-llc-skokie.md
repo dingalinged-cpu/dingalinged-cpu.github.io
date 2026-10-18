@@ -15,7 +15,7 @@ Opine Properties LLC is a property management company in Skokie, IL at 4909 Oakt
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/opine-properties-llc-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/opine-properties-llc-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6609201111 (license ODbL-1.0); source data as of 2026-07-28

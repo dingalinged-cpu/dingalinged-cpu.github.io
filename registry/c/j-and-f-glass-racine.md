@@ -1,0 +1,23 @@
+J&F Glass is a window repair service in Racine, WI at 725 Center Street, Racine, WI.
+
+# J&F Glass
+
+- Category: window repair
+- Services: window repair
+- Address: 725 Center Street, Racine, WI
+- City: Racine
+- State: WI
+- ZIP: n/a
+- Coordinates: 42.7249512, -87.7891535
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/j-and-f-glass-racine/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/j-and-f-glass-racine.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/372284358 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

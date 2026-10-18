@@ -1,0 +1,23 @@
+Mattress Firm is a mattress store in Webster, TX at 20798 Gulf Freeway #10, Webster, TX 77598. Phone: +12813326272. Website: https://www.mattressfirm.com/en-us/stores/tx/webster/001005/.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 20798 Gulf Freeway #10, Webster, TX 77598
+- City: Webster
+- State: TX
+- ZIP: 77598
+- Coordinates: 29.524046, -95.1275012
+- Phone: +12813326272
+- Website: https://www.mattressfirm.com/en-us/stores/tx/webster/001005/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-webster/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-webster.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8123180660 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

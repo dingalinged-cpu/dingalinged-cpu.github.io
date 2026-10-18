@@ -15,7 +15,7 @@ The Hope Chest is a thrift store in La Grange, IL at 305 West Hillgrove Avenue, 
 - Opening hours (OSM syntax): Tu-Th 09:30-17:00; Fr-Sa 09:30-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-hope-chest-la-grange/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-hope-chest-la-grange.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13539185057 (license ODbL-1.0); source data as of 2026-06-01

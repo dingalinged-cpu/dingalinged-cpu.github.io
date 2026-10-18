@@ -15,7 +15,7 @@ Sage Prairie Treatment Center is a therapy practice in Eagan, MN at 1440 Duckwoo
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sage-prairie-treatment-center-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sage-prairie-treatment-center-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7787676228 (license ODbL-1.0); source data as of 2026-06-01

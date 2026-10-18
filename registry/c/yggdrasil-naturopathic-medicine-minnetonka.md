@@ -15,7 +15,7 @@ Yggdrasil Naturopathic Medicine is a chiropractor in Minnetonka, MN at 14525 Hig
 - Opening hours (OSM syntax): Mo-Fr 10:00-16:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/yggdrasil-naturopathic-medicine-minnetonka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/yggdrasil-naturopathic-medicine-minnetonka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10057831737 (license ODbL-1.0); source data as of 2026-06-01

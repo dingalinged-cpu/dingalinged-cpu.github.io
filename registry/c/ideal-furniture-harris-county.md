@@ -1,0 +1,23 @@
+Ideal Furniture is a furniture store in Harris County, TX.
+
+# Ideal Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: Harris County, TX
+- City: Harris County
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.8727367, -95.6468286
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ideal-furniture-harris-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ideal-furniture-harris-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5250817433 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

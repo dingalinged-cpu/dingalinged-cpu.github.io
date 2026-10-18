@@ -15,7 +15,7 @@ Naper Auto Works is an auto repair shop in Naperville, IL at 320 North Mill Stre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/naper-auto-works-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/naper-auto-works-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/122480484 (license ODbL-1.0); source data as of 2026-06-01

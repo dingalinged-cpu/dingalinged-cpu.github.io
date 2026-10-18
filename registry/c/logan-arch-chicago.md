@@ -15,7 +15,7 @@ Logan Arch is a gift shop in Chicago, IL at 2066 North Milwaukee Avenue, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/logan-arch-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/logan-arch-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11289409773 (license ODbL-1.0); source data as of 2026-06-01

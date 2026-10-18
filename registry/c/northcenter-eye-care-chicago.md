@@ -15,7 +15,7 @@ Northcenter Eye Care is an eye care practice in Chicago, IL at 1926 West Irving 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/northcenter-eye-care-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/northcenter-eye-care-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13147918301 (license ODbL-1.0); source data as of 2026-07-28

@@ -15,7 +15,7 @@ Cell Phone Repair is a phone repair shop in Merrillville, IN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-merrillville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/cell-phone-repair-merrillville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/747474002 (license ODbL-1.0); source data as of 2026-06-01

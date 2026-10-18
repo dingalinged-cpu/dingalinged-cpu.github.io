@@ -15,7 +15,7 @@ Peaceful Heights is a daycare in West Saint Paul, MN at 375 Marie Avenue East, W
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/peaceful-heights-west-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/peaceful-heights-west-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/531845218 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Skokie Car Wash is a car wash in Skokie, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/skokie-car-wash-skokie/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/skokie-car-wash-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1205038361 (license ODbL-1.0); source data as of 2026-07-28

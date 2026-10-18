@@ -15,7 +15,7 @@ Busse Automotive And Detail Center is an auto repair shop in Mount Prospect, IL 
 - Opening hours (OSM syntax): Mo-Th 07:00-18:00; Fr 07:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/busse-automotive-and-detail-center-mount-prospect/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/busse-automotive-and-detail-center-mount-prospect.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13796166101 (license ODbL-1.0); source data as of 2026-06-01

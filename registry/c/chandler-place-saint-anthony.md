@@ -15,7 +15,7 @@ Chandler Place is an assisted living facility in Saint Anthony, MN at 3701 Chand
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chandler-place-saint-anthony/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chandler-place-saint-anthony.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12894885492 (license ODbL-1.0); source data as of 2026-07-24

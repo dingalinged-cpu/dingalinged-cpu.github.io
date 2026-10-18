@@ -15,7 +15,7 @@ Goonga Baloonga's is a gift shop in Mound, MN at 2339 Commerce Boulevard, Mound,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/goonga-baloongas-mound/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/goonga-baloongas-mound.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6724562305 (license ODbL-1.0); source data as of 2026-06-01

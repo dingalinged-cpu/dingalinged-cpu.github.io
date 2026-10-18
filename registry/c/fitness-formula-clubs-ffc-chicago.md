@@ -15,7 +15,7 @@ Fitness Formula Clubs (FFC) is a gym in Chicago, IL at 10 South Clinton Street, 
 - Opening hours (OSM syntax): Mo-Th 05:00-23:00; Fr 05:00-21:00; Sa-Su 07:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fitness-formula-clubs-ffc-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fitness-formula-clubs-ffc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12327487721 (license ODbL-1.0); source data as of 2026-06-01

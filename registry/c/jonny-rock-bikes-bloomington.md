@@ -15,7 +15,7 @@ Jonny Rock Bikes is a bike shop in Bloomington, MN at 9150 Old Cedar Avenue Sout
 - Opening hours (OSM syntax): Su 12:00-16:00, Mo-Tu 10:00-18:00, Fr 10:00-18:00, Sa 10:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jonny-rock-bikes-bloomington/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jonny-rock-bikes-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10830063340 (license ODbL-1.0); source data as of 2026-06-01

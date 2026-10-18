@@ -1,0 +1,23 @@
+Hilltop Bicycle Center is a bike shop in Mansfield, TX at 130 North Main Street, Mansfield, TX 76063. Phone: +18172256275. Website: https://hilltop.bike/.
+
+# Hilltop Bicycle Center
+
+- Category: bike shop
+- Services: bike shop
+- Address: 130 North Main Street, Mansfield, TX 76063
+- City: Mansfield
+- State: TX
+- ZIP: 76063
+- Coordinates: 32.5646048, -97.1416699
+- Phone: +18172256275
+- Website: https://hilltop.bike/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 11:00-19:00; Fi 11:00-18:00; Sa 11:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hilltop-bicycle-center-mansfield/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hilltop-bicycle-center-mansfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6040470789 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

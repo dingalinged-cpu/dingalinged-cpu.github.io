@@ -1,0 +1,23 @@
+High Class Nails is a nail salon in Webster, TX at 1841 West Bay Area Boulevard, Webster, TX 77598. Phone: +12815571234.
+
+# High Class Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: 1841 West Bay Area Boulevard, Webster, TX 77598
+- City: Webster
+- State: TX
+- ZIP: 77598
+- Coordinates: 29.5362665, -95.1521443
+- Phone: +12815571234
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/high-class-nails-webster/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/high-class-nails-webster.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9722242731 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

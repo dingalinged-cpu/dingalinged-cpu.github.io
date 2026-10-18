@@ -15,7 +15,7 @@ Kenwood Pet Clinic is a veterinarian in Minneapolis, MN at 2107 Penn Avenue Sout
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kenwood-pet-clinic-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kenwood-pet-clinic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9175674007 (license ODbL-1.0); source data as of 2026-07-24

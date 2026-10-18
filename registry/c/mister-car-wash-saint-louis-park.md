@@ -15,7 +15,7 @@ Mister Car Wash is a car wash in Saint Louis Park, MN at 8650 Minnesota State Hi
 - Opening hours (OSM syntax): Mo-Sa 07:30-18:00; Su 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/mister-car-wash-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/48383509 (license ODbL-1.0); source data as of 2026-07-24

@@ -15,7 +15,7 @@ Penny Mustard Furnishing is a furniture store in Schaumburg, IL at 950 East Golf
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/penny-mustard-furnishing-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/penny-mustard-furnishing-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/242544373 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Clare Bridge Assisted Living is an assisted living facility in Eagan, MN at 1365
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/clare-bridge-assisted-living-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/clare-bridge-assisted-living-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/529048532 (license ODbL-1.0); source data as of 2026-07-24

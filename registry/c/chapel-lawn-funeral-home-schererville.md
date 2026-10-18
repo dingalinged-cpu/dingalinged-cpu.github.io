@@ -15,7 +15,7 @@ Chapel Lawn Funeral Home is a funeral home in Schererville, IN at 8187 Cline Ave
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/chapel-lawn-funeral-home-schererville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/chapel-lawn-funeral-home-schererville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/386098169 (license ODbL-1.0); source data as of 2026-06-01

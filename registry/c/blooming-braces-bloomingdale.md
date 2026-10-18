@@ -15,7 +15,7 @@ Blooming Braces is a dentist in Bloomingdale, IL at 125 South Bloomingdale Road 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/blooming-braces-bloomingdale/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/blooming-braces-bloomingdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13082057539 (license ODbL-1.0); source data as of 2026-07-28

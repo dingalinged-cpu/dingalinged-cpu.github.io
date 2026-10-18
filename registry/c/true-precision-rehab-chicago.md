@@ -15,7 +15,7 @@ True Precision Rehab is a chiropractor in Chicago, IL at 2130 West Belmont Avenu
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/true-precision-rehab-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/true-precision-rehab-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13308094244 (license ODbL-1.0); source data as of 2026-07-28

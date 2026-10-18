@@ -15,7 +15,7 @@ BP is a car wash in Chicago, IL at 1221 South Wabash Avenue, Chicago, IL 60605.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bp-chicago-w210542784/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bp-chicago-w210542784.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210542784 (license ODbL-1.0); source data as of 2026-07-28

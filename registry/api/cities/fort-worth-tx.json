@@ -1,0 +1,773 @@
+{
+ "place": "Fort Worth, TX",
+ "slug": "fort-worth-tx",
+ "count": 22,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-fort-worth-tx.json"
+  },
+  {
+   "keyword": "car wash fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-fort-worth-tx.json"
+  },
+  {
+   "keyword": "caterers fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/caterers-fort-worth-tx.json"
+  },
+  {
+   "keyword": "daycare fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-fort-worth-tx.json"
+  },
+  {
+   "keyword": "dentist fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-fort-worth-tx.json"
+  },
+  {
+   "keyword": "florist fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-fort-worth-tx.json"
+  },
+  {
+   "keyword": "general contractor fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/general-contractor-fort-worth-tx.json"
+  },
+  {
+   "keyword": "hair salon fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-fort-worth-tx.json"
+  },
+  {
+   "keyword": "haircut fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-fort-worth-tx.json"
+  },
+  {
+   "keyword": "liquor store fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-fort-worth-tx.json"
+  },
+  {
+   "keyword": "mechanic fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-fort-worth-tx.json"
+  },
+  {
+   "keyword": "property management companies fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-companies-fort-worth-tx.json"
+  },
+  {
+   "keyword": "property management company fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-company-fort-worth-tx.json"
+  },
+  {
+   "keyword": "real estate agent fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-fort-worth-tx.json"
+  },
+  {
+   "keyword": "realtor fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-fort-worth-tx.json"
+  },
+  {
+   "keyword": "storage units fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-fort-worth-tx.json"
+  },
+  {
+   "keyword": "tax preparation fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-fort-worth-tx.json"
+  },
+  {
+   "keyword": "tax preparer fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-fort-worth-tx.json"
+  },
+  {
+   "keyword": "thrift store fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-fort-worth-tx.json"
+  },
+  {
+   "keyword": "tire shop fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-fort-worth-tx.json"
+  },
+  {
+   "keyword": "used cars for sale fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-fort-worth-tx.json"
+  },
+  {
+   "keyword": "yoga classes fort worth tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-fort-worth-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "edged-and-fades-barbershop-and-hair-salon-fort-worth",
+   "name": "Edged & Fades Barbershop & Hair Salon",
+   "summary": "Edged & Fades Barbershop & Hair Salon is a hair salon in Fort Worth, TX at 1225 Woodhaven Boulevard, Fort Worth, TX 76112. Phone: +16822132224. Website: https://edgesandfades.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edged-and-fades-barbershop-and-hair-salon-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edged-and-fades-barbershop-and-hair-salon-fort-worth.json",
+   "address": {
+    "streetAddress": "1225 Woodhaven Boulevard",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76112",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76112",
+   "geo": {
+    "lat": 32.7621882,
+    "lon": -97.2393657
+   },
+   "phone": "+16822132224",
+   "website": "https://edgesandfades.com/",
+   "opening_hours": "Mo 09:00-17:00; Tu-Fr 09:00-19:00; Sa 07:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11803554772",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lawn-escapades-fort-worth",
+   "name": "Lawn Escapades",
+   "summary": "Lawn Escapades is a general contractor in Fort Worth, TX at 5601 Bridge Street #300, Fort Worth, TX 76112. Phone: +16822382349. Website: https://www.lawnescapades.com/.",
+   "categories": [
+    "general contractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lawn-escapades-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lawn-escapades-fort-worth.json",
+   "address": {
+    "streetAddress": "5601 Bridge Street #300",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76112",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76112",
+   "geo": {
+    "lat": 32.761567,
+    "lon": -97.2359488
+   },
+   "phone": "+16822382349",
+   "website": "https://www.lawnescapades.com/",
+   "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11782698783",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lone-star-real-estate-fort-worth",
+   "name": "Lone Star Real Estate",
+   "summary": "Lone Star Real Estate is a real estate agency in Fort Worth, TX at 7601 Flagstone Street, Fort Worth, TX 76118. Phone: +18173015495. Website: https://www.fortworth-texas-real-estate.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lone-star-real-estate-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lone-star-real-estate-fort-worth.json",
+   "address": {
+    "streetAddress": "7601 Flagstone Street",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76118",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76118",
+   "geo": {
+    "lat": 32.7917329,
+    "lon": -97.2151057
+   },
+   "phone": "+18173015495",
+   "website": "https://www.fortworth-texas-real-estate.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5729589105",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "r-and-a-auto-repair-fort-worth",
+   "name": "R&A Auto Repair",
+   "summary": "R&A Auto Repair is an auto repair shop in Fort Worth, TX at 5730 Craig Street, Fort Worth, TX. Phone: +18172710416. Website: https://randaautorepairtx.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-and-a-auto-repair-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-and-a-auto-repair-fort-worth.json",
+   "address": {
+    "streetAddress": "5730 Craig Street",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7375678,
+    "lon": -97.2310502
+   },
+   "phone": "+18172710416",
+   "website": "https://randaautorepairtx.com/",
+   "opening_hours": "Mo-Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10899480950",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "audras-tax-center-fort-worth",
+   "name": "Audra's Tax Center",
+   "summary": "Audra's Tax Center is a tax preparation service in Fort Worth, TX at 1201 Downshill Court #1205, Fort Worth, TX 76112. Phone: +16822132122. Website: https://kcamp1611.wixsite.com/audrastaxservice.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/audras-tax-center-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/audras-tax-center-fort-worth.json",
+   "address": {
+    "streetAddress": "1201 Downshill Court #1205",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76112",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76112",
+   "geo": {
+    "lat": 32.7624309,
+    "lon": -97.2395598
+   },
+   "phone": "+16822132122",
+   "website": "https://kcamp1611.wixsite.com/audrastaxservice",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11803554774",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lyzettes-catering-fort-worth",
+   "name": "Lyzette's Catering",
+   "summary": "Lyzette's Catering is a caterer in Fort Worth, TX at 4817 Brentwood Stair Road, Fort Worth, TX 76103. Phone: +16823011255. Website: https://www.lyzettescatering.com/.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lyzettes-catering-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lyzettes-catering-fort-worth.json",
+   "address": {
+    "streetAddress": "4817 Brentwood Stair Road",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76103",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76103",
+   "geo": {
+    "lat": 32.7587683,
+    "lon": -97.250096
+   },
+   "phone": "+16823011255",
+   "website": "https://www.lyzettescatering.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/498319194",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-toddlers-den-early-learning-center-fort-worth",
+   "name": "The Toddler's Den Early Learning Center",
+   "summary": "The Toddler's Den Early Learning Center is a daycare in Fort Worth, TX at 7509 John T White Rd, Fort Worth, TX 76120. Phone: +18178511499. Website: https://thetoddlersden.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-toddlers-den-early-learning-center-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-toddlers-den-early-learning-center-fort-worth.json",
+   "address": {
+    "streetAddress": "7509 John T White Rd",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76120",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76120",
+   "geo": {
+    "lat": 32.7661736,
+    "lon": -97.1933171
+   },
+   "phone": "+18178511499",
+   "website": "https://thetoddlersden.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9726862418",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "florer-a-reyes-fort-worth",
+   "name": "Florería Reyes",
+   "summary": "Florería Reyes is a florist in Fort Worth, TX at 2617 Handley Drive, Fort Worth, TX 76112. Phone: +16822870074.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/florer-a-reyes-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/florer-a-reyes-fort-worth.json",
+   "address": {
+    "streetAddress": "2617 Handley Drive",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76112",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76112",
+   "geo": {
+    "lat": 32.7419773,
+    "lon": -97.2158299
+   },
+   "phone": "+16822870074",
+   "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-14:00; Su 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13647298269",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-fort-worth",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Fort Worth, TX at 5600 East Interstate 20, Fort Worth, TX 76140. Phone: +18174765960.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-fort-worth.json",
+   "address": {
+    "streetAddress": "5600 East Interstate 20",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76140",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76140",
+   "geo": {
+    "lat": 32.6655787,
+    "lon": -97.239823
+   },
+   "phone": "+18174765960",
+   "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9698119494",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nancys-liquour-fort-worth",
+   "name": "Nancy's Liquour",
+   "summary": "Nancy's Liquour is a liquor store in Fort Worth, TX at 1302 West Kennedale Parkway, Fort Worth, TX 76140. Phone: +18174785370.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nancys-liquour-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nancys-liquour-fort-worth.json",
+   "address": {
+    "streetAddress": "1302 West Kennedale Parkway",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76140",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76140",
+   "geo": {
+    "lat": 32.6652354,
+    "lon": -97.2403842
+   },
+   "phone": "+18174785370",
+   "opening_hours": "Mo-Sa 10:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9698119493",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-cottages-at-bell-station-fort-worth",
+   "name": "The Cottages at Bell Station",
+   "summary": "The Cottages at Bell Station is a property management company in Fort Worth, TX. Phone: +14699154580. Website: https://theblacksandlegacy.com/properties/the-cottages-at-bell-station/.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-cottages-at-bell-station-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-cottages-at-bell-station-fort-worth.json",
+   "address": {
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "geo": {
+    "lat": 32.8097693,
+    "lon": -97.1511342
+   },
+   "phone": "+14699154580",
+   "website": "https://theblacksandlegacy.com/properties/the-cottages-at-bell-station/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1535126982",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carmax-fort-worth",
+   "name": "CarMax",
+   "summary": "CarMax is an used car dealer in Fort Worth, TX at 8650 Anderson Boulevard, Fort Worth, TX 76120. Website: https://www.carmax.com/stores/7112.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-fort-worth.json",
+   "address": {
+    "streetAddress": "8650 Anderson Boulevard",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76120",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76120",
+   "geo": {
+    "lat": 32.7617997,
+    "lon": -97.1711117
+   },
+   "website": "https://www.carmax.com/stores/7112",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/504807700",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-fort-worth",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Fort Worth, TX at 1000 East Loop 820, Fort Worth, TX 76112. Phone: +18174460692.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-fort-worth.json",
+   "address": {
+    "streetAddress": "1000 East Loop 820",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76112",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76112",
+   "geo": {
+    "lat": 32.7657138,
+    "lon": -97.2141366
+   },
+   "phone": "+18174460692",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/497781387",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "yogali-fort-worth",
+   "name": "Yogali",
+   "summary": "Yogali is a yoga studio in Fort Worth, TX at 6517 East Lancaster Avenue, Fort Worth, TX 76112. Website: https://www.yogalitx.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yogali-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yogali-fort-worth.json",
+   "address": {
+    "streetAddress": "6517 East Lancaster Avenue",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76112",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76112",
+   "geo": {
+    "lat": 32.7328719,
+    "lon": -97.2186734
+   },
+   "website": "https://www.yogalitx.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6388010280",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-fort-worth",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Fort Worth, TX at 6750 Mandy Lane, Fort Worth, TX 76112.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-fort-worth.json",
+   "address": {
+    "streetAddress": "6750 Mandy Lane",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76112",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76112",
+   "geo": {
+    "lat": 32.7698072,
+    "lon": -97.2134918
+   },
+   "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13930044501",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "amigo-liquor-beer-and-wine-fort-worth",
+   "name": "Amigo Liquor Beer & Wine",
+   "summary": "Amigo Liquor Beer & Wine is a liquor store in Fort Worth, TX at 1247 Woodhaven Boulevard, Fort Worth, TX 76112.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/amigo-liquor-beer-and-wine-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/amigo-liquor-beer-and-wine-fort-worth.json",
+   "address": {
+    "streetAddress": "1247 Woodhaven Boulevard",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76112",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "zip": "76112",
+   "geo": {
+    "lat": 32.7617296,
+    "lon": -97.239173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11803554769",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bru-city-euless",
+   "name": "Bru City",
+   "summary": "Bru City is a liquor store in Euless, TX at 13000 Trinity Boulevard, Euless, TX 76040.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bru-city-euless/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bru-city-euless.json",
+   "address": {
+    "streetAddress": "13000 Trinity Boulevard",
+    "addressLocality": "Euless",
+    "addressRegion": "TX",
+    "postalCode": "76040",
+    "addressCountry": "US"
+   },
+   "city": "Euless",
+   "state": "TX",
+   "zip": "76040",
+   "geo": {
+    "lat": 32.8188957,
+    "lon": -97.0833401
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/834846367",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specs-fort-worth",
+   "name": "Spec's",
+   "summary": "Spec's is a liquor store in Fort Worth, TX at 8550 East Freeway, Fort Worth, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specs-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specs-fort-worth.json",
+   "address": {
+    "streetAddress": "8550 East Freeway",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7565245,
+    "lon": -97.1701797
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/504804188",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "caliber-car-wash-fort-worth",
+   "name": "Caliber Car Wash",
+   "summary": "Caliber Car Wash is a car wash in Fort Worth, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-car-wash-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-car-wash-fort-worth.json",
+   "address": {
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7531319,
+    "lon": -97.1717599
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1266026026",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mighty-smiles-fort-worth",
+   "name": "Mighty Smiles",
+   "summary": "Mighty Smiles is a dentist in Fort Worth, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mighty-smiles-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mighty-smiles-fort-worth.json",
+   "address": {
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7582318,
+    "lon": -97.1707117
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11760374100",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "monica-nobles-family-dentistry-fort-worth",
+   "name": "Monica Nobles Family Dentistry",
+   "summary": "Monica Nobles Family Dentistry is a dentist in Fort Worth, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/monica-nobles-family-dentistry-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/monica-nobles-family-dentistry-fort-worth.json",
+   "address": {
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "geo": {
+    "lat": 32.7522949,
+    "lon": -97.1709513
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10576928829",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-fort-worth",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Fort Worth, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-fort-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-fort-worth.json",
+   "address": {
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Fort Worth",
+   "state": "TX",
+   "geo": {
+    "lat": 32.82126,
+    "lon": -97.0585466
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/672350742",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

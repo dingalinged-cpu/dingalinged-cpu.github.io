@@ -15,7 +15,7 @@ Deerfield Cyclery is a bike shop in Deerfield, IL at 705 Waukegan Road, Deerfiel
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-17:30; Th 09:00-20:00; Sa 09:00-17:00; Su 10:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/deerfield-cyclery-deerfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/deerfield-cyclery-deerfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2499068736 (license ODbL-1.0); source data as of 2026-06-01

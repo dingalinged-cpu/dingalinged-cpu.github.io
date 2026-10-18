@@ -1,0 +1,23 @@
+Hotworx is a gym in Montgomery County, TX.
+
+# Hotworx
+
+- Category: gym
+- Services: gym
+- Address: Montgomery County, TX
+- City: Montgomery County
+- State: TX
+- ZIP: n/a
+- Coordinates: 30.1335745, -95.2342233
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hotworx-montgomery-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hotworx-montgomery-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11359397474 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

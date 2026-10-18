@@ -15,7 +15,7 @@ Kitty Klinic is a veterinarian in Minneapolis, MN at 3447 Lyndale Avenue South, 
 - Opening hours (OSM syntax): 08:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/kitty-klinic-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/kitty-klinic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4806273389 (license ODbL-1.0); source data as of 2026-07-24

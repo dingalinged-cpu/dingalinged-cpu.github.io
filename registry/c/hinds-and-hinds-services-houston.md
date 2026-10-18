@@ -1,0 +1,23 @@
+Hinds and Hinds Services is an auto repair shop in Houston, TX at 11430 Bissonnet Street, Houston, TX 77099. Phone: +13464208714. Website: https://dandmqualitygraphics.wixsite.com/auto.
+
+# Hinds and Hinds Services
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 11430 Bissonnet Street, Houston, TX 77099
+- City: Houston
+- State: TX
+- ZIP: 77099
+- Coordinates: 29.675321, -95.5802368
+- Phone: +13464208714
+- Website: https://dandmqualitygraphics.wixsite.com/auto
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 06:00-22:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hinds-and-hinds-services-houston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hinds-and-hinds-services-houston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13634850700 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

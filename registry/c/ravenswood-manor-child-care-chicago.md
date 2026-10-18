@@ -15,7 +15,7 @@ Ravenswood Manor Child Care is a daycare in Chicago, IL at 2758 West Montrose Av
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ravenswood-manor-child-care-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ravenswood-manor-child-care-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6177625464 (license ODbL-1.0); source data as of 2026-07-28

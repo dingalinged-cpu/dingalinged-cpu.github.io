@@ -15,7 +15,7 @@ ABC Dentistry & Orthodontics is a dentist in Schaumburg, IL at 80 West Hillcrest
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:30-14:00; Sa 08:00-12:30
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/abc-dentistry-and-orthodontics-schaumburg/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/abc-dentistry-and-orthodontics-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5624160758 (license ODbL-1.0); source data as of 2026-07-28

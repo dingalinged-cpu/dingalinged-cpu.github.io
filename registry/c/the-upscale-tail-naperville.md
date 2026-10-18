@@ -15,7 +15,7 @@ The Upscale Tail is a dog groomer in Naperville, IL at 1419 Plainfield Napervill
 - Opening hours (OSM syntax): Tu-Fr 07:30-17:00; Sa 08:00-15:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/the-upscale-tail-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-upscale-tail-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7771727980 (license ODbL-1.0); source data as of 2026-06-01

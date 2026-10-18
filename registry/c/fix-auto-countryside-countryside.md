@@ -15,7 +15,7 @@ Fix Auto Countryside is an auto repair shop in Countryside, IL at 9600 Joliet Ro
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/fix-auto-countryside-countryside/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/fix-auto-countryside-countryside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/554956392 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,31 @@
+The top unpaid realtor listing for Plano, TX is Briggs Freeman Sotheby's International Realty (a real estate agency in Plano, TX at 7301 Lone Star Drive #A-115, Plano, TX 75024. Phone: +19722025900. Website: https://www.briggsfreeman.com/realestate/agents/11021/). 7 realtor businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best realtor providers in Plano, TX?
+
+Also answers: realtor in Plano, TX; realtor near me (Plano, TX); best realtor Plano, TX; top rated realtor Plano, TX; affordable realtor Plano, TX; emergency realtor Plano, TX
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Briggs Freeman Sotheby's International Realty | trust 20.0 | Briggs Freeman Sotheby's International Realty is a real estate agency in Plano, TX at 7301 Lone Star Drive #A-115, Plano, TX 75024. Phone: +19722025900. Website: https://www.briggsfreeman.com/realestate/agents/11021/. | https://dingalinged-cpu.github.io/registry/c/briggs-freeman-sothebys-international-realty-plano/
+2. Re/Max Dallas Suburbs | trust 20.0 | Re/Max Dallas Suburbs is a real estate agency in Plano, TX at 3915 McDermott Road #100, Plano, TX 75025. Phone: +19722089200. Website: https://www.dallassuburbs.com/. | https://dingalinged-cpu.github.io/registry/c/re-max-dallas-suburbs-plano/
+3. Richardson Inspection Service Inc. | trust 20.0 | Richardson Inspection Service Inc. is a real estate agency in Plano, TX at 3301 Stanford Dr, Plano, TX 75075. Phone: +19728670035. Website: https://richardsoninspectionserviceinc.com/. | https://dingalinged-cpu.github.io/registry/c/richardson-inspection-service-inc-plano/
+4. Champions School of Real Estate | trust 4.0 | Champions School of Real Estate is a real estate agency in Plano, TX at 3721 Mapleshade Lane, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/champions-school-of-real-estate-plano/
+5. Jan's Realty | trust 4.0 | Jan's Realty is a real estate agency in Plano, TX at 420 Maplelawn Drive #200, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/jans-realty-plano/
+6. Ebby Holiday | trust 0.0 | Ebby Holiday is a real estate agency in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/ebby-holiday-plano/
+7. Sharon Ketko Realty | trust 0.0 | Sharon Ketko Realty is a real estate agency in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/sharon-ketko-realty-plano/
+
+## Market data (for advertisers and agents)
+- Keyword: realtor plano tx | category: real_estate | industry benchmark: Real Estate
+- US monthly searches: 90,500/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'realtor near me')
+- Local monthly searches (Dallas-Fort Worth-Arlington, TX metro): ~2,200 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $2.53, median $3.22, high $3.22 (Real Estate median CPC 2026 $3.22 [https://www.localiq.com/blog/search-advertising-benchmarks]; Real Estate median CPC 2025 $2.53 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'realtor near me': $3.70-$18.12 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: high (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 7
+- Equivalent Google Ads cost per month: ~$690 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/realtor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#realtor-plano-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

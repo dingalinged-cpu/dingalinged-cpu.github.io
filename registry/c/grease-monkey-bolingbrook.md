@@ -15,7 +15,7 @@ Grease Monkey is an auto repair shop in Bolingbrook, IL.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/grease-monkey-bolingbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/grease-monkey-bolingbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/457111148 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ Homer Wine & Liquor is a liquor store in Homer Glen, IL at 13007 West 143rd Stre
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/homer-wine-and-liquor-homer-glen/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/homer-wine-and-liquor-homer-glen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11132972533 (license ODbL-1.0); source data as of 2026-06-01

@@ -15,7 +15,7 @@ uBreakiFix is a phone repair shop in Naperville, IL at 118 South Webster Street,
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ubreakifix-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6510200550 (license ODbL-1.0); source data as of 2026-06-01

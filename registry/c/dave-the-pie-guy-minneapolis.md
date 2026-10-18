@@ -15,7 +15,7 @@ Dave the Pie Guy is a bakery in Minneapolis, MN at 3544 Grand Avenue South, Minn
 - Opening hours (OSM syntax): Tu-Su 12:00-18:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/dave-the-pie-guy-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/dave-the-pie-guy-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13711958001 (license ODbL-1.0); source data as of 2026-06-01

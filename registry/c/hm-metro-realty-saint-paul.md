@@ -15,7 +15,7 @@ HM Metro Realty is a real estate agency in Saint Paul, MN.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hm-metro-realty-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hm-metro-realty-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/605096335 (license ODbL-1.0); source data as of 2026-05-31

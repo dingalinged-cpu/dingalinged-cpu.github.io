@@ -1,0 +1,23 @@
+Family Thrift Center is a thrift store in Houston, TX at 610 South Wayside Drive, Houston, TX.
+
+# Family Thrift Center
+
+- Category: thrift store
+- Services: thrift store
+- Address: 610 South Wayside Drive, Houston, TX
+- City: Houston
+- State: TX
+- ZIP: n/a
+- Coordinates: 29.7326271, -95.3099182
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/family-thrift-center-houston-w54179788/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/family-thrift-center-houston-w54179788.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/54179788 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

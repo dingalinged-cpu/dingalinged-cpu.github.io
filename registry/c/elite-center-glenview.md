@@ -15,7 +15,7 @@ Elite Center is a yoga studio in Glenview, IL at 1841 Waukegan Road, Glenview, I
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/elite-center-glenview/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/elite-center-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/802048914 (license ODbL-1.0); source data as of 2026-06-01

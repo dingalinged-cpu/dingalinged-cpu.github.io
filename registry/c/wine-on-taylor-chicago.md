@@ -15,7 +15,7 @@ Wine on Taylor is a liquor store in Chicago, IL at 1160 West Taylor Street, Chic
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wine-on-taylor-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wine-on-taylor-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12187329124 (license ODbL-1.0); source data as of 2026-06-01

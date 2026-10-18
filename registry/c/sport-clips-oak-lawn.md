@@ -15,7 +15,7 @@ Sport Clips is a hair salon in Oak Lawn, IL at 10549 South Cicero Avenue, Oak La
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sport-clips-oak-lawn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9658051844 (license ODbL-1.0); source data as of 2026-06-01

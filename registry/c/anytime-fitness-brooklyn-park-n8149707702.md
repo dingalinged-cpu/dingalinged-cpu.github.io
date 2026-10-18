@@ -15,7 +15,7 @@ Anytime Fitness is a gym in Brooklyn Park, MN at 4646 85th Avenue North, Brookly
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-brooklyn-park-n8149707702/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-brooklyn-park-n8149707702.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8149707702 (license ODbL-1.0); source data as of 2026-07-15

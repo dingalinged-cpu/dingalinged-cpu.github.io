@@ -15,7 +15,7 @@ Bongo's & Bud's is a music school in Hopkins, MN at 820 Mainstreet, Hopkins, MN 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/bongos-and-buds-hopkins/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/bongos-and-buds-hopkins.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8690947763 (license ODbL-1.0); source data as of 2026-07-24

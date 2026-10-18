@@ -15,7 +15,7 @@ Ramiro's Hair Studio is a hair salon in Forest Park, IL at 7522 Harrison Street,
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ramiros-hair-studio-forest-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ramiros-hair-studio-forest-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4201276889 (license ODbL-1.0); source data as of 2026-06-01

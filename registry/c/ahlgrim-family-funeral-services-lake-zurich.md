@@ -15,7 +15,7 @@ Ahlgrim Family Funeral Services is a funeral home in Lake Zurich, IL at 415 Sout
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ahlgrim-family-funeral-services-lake-zurich/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ahlgrim-family-funeral-services-lake-zurich.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/906015160 (license ODbL-1.0); source data as of 2026-06-01

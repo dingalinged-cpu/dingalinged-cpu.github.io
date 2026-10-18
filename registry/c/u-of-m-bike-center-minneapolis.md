@@ -15,7 +15,7 @@ U of M Bike Center is a bike shop in Minneapolis, MN at 401 Southeast Oak Street
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 10:00-17:00; We 11:00-17:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/u-of-m-bike-center-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-of-m-bike-center-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6773142608 (license ODbL-1.0); source data as of 2026-06-01

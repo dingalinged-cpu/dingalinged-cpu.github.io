@@ -15,7 +15,7 @@ Montessori is a preschool in Eagan, MN at 1960 Cliff Lake Road, Eagan, MN 55122.
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/montessori-eagan/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/montessori-eagan.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3269922276 (license ODbL-1.0); source data as of 2026-07-24

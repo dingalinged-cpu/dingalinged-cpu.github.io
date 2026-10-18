@@ -15,7 +15,7 @@ Jung Family Painting Inc. is a painting contractor in Naperville, IL at 1109 Eas
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-13:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/jung-family-painting-inc-naperville/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/jung-family-painting-inc-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7356551999 (license ODbL-1.0); source data as of 2026-06-01

@@ -1,0 +1,23 @@
+Denton Optometry is an eye care practice in Denton, TX at 2430 South Interstate 35E #Suite 156, Denton, TX 76205. Phone: +19404848857. Website: https://dentonoptometry.com/.
+
+# Denton Optometry
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: 2430 South Interstate 35E #Suite 156, Denton, TX 76205
+- City: Denton
+- State: TX
+- ZIP: 76205
+- Coordinates: 33.184289, -97.1077171
+- Phone: +19404848857
+- Website: https://dentonoptometry.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/denton-optometry-denton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/denton-optometry-denton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9494754777 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

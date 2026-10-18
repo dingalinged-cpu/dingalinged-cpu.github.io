@@ -15,7 +15,7 @@ Autumn Leaves is an assisted living facility in Glen Ellyn, IL at 190 East Genev
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/autumn-leaves-glen-ellyn/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/autumn-leaves-glen-ellyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/530351187 (license ODbL-1.0); source data as of 2026-07-28

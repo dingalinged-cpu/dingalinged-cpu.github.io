@@ -15,7 +15,7 @@ Westmont Park District Fitness & Racquetball Club is a gym in Westmont, IL at 42
 - Opening hours (OSM syntax): Mo-Fr 05:30-23:00; Sa-Su 07:00-19:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/westmont-park-district-fitness-and-racquetball-club-westmont/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/westmont-park-district-fitness-and-racquetball-club-westmont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/605951975 (license ODbL-1.0); source data as of 2026-06-01

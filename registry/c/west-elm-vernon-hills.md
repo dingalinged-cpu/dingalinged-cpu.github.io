@@ -15,7 +15,7 @@ west elm is a furniture store in Vernon Hills, IL at 901 North Milwaukee Avenue 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/west-elm-vernon-hills/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/west-elm-vernon-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/relation/10017034 (license ODbL-1.0); source data as of 2026-06-01

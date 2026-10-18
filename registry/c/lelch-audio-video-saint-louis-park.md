@@ -15,7 +15,7 @@ Lelch Audio Video is a business consultant in Saint Louis Park, MN at 2600 Excel
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/lelch-audio-video-saint-louis-park/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/lelch-audio-video-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9590592417 (license ODbL-1.0); source data as of 2026-05-31

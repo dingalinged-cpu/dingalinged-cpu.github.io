@@ -15,7 +15,7 @@ Via Rose Hair Studio is a hair salon in Chicago, IL at 5124 North Clark Street, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/via-rose-hair-studio-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/via-rose-hair-studio-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13669703743 (license ODbL-1.0); source data as of 2026-06-01

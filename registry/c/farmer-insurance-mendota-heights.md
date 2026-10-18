@@ -15,7 +15,7 @@ Farmer Insurance is an insurance agent in Mendota Heights, MN at 800 Plaza Drive
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/farmer-insurance-mendota-heights/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/farmer-insurance-mendota-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/529046068 (license ODbL-1.0); source data as of 2026-05-31

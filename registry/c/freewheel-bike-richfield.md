@@ -15,7 +15,7 @@ Freewheel Bike is a bike shop in Richfield, MN at 6824 Penn Avenue South, Richfi
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/freewheel-bike-richfield/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/freewheel-bike-richfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/311813502 (license ODbL-1.0); source data as of 2026-06-01

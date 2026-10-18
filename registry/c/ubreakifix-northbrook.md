@@ -15,7 +15,7 @@ uBreakiFix is a phone repair shop in Northbrook, IL at 239 Skokie Boulevard, Nor
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/ubreakifix-northbrook/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-northbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1186166603 (license ODbL-1.0); source data as of 2026-06-01

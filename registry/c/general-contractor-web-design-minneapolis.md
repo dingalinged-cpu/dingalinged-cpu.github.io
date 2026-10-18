@@ -15,7 +15,7 @@ General Contractor Web Design is an IT support company in Minneapolis, MN at 120
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/general-contractor-web-design-minneapolis/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/general-contractor-web-design-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5063454776 (license ODbL-1.0); source data as of 2026-05-31

@@ -1,0 +1,23 @@
+Jason Scott Realty & Management, LLC is a real estate agency in West Milwaukee, WI at 4931 West Greenfield Avenue, West Milwaukee, WI 53214. Phone: +14144678665. Website: https://jsrm.net/about/.
+
+# Jason Scott Realty & Management, LLC
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 4931 West Greenfield Avenue, West Milwaukee, WI 53214
+- City: West Milwaukee
+- State: WI
+- ZIP: 53214
+- Coordinates: 43.0166838, -87.9757096
+- Phone: +14144678665
+- Website: https://jsrm.net/about/
+- Email: info@jsrm.net
+- Opening hours (OSM syntax): Mo-Fr 09:30-17:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jason-scott-realty-and-management-llc-west-milwaukee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jason-scott-realty-and-management-llc-west-milwaukee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12059296078 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

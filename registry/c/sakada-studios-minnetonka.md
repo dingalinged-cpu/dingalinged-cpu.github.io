@@ -15,7 +15,7 @@ Sakada Studios is a hair salon in Minnetonka, MN at 14525 Minnesota State Highwa
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-16:00
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/sakada-studios-minnetonka/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/sakada-studios-minnetonka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12379274297 (license ODbL-1.0); source data as of 2026-06-01

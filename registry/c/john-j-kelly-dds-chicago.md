@@ -15,7 +15,7 @@ John J. Kelly DDS is a dentist in Chicago, IL at 5350 West Devon Avenue, Chicago
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/john-j-kelly-dds-chicago/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/john-j-kelly-dds-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6307590964 (license ODbL-1.0); source data as of 2026-07-28

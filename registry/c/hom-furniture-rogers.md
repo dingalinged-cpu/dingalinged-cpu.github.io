@@ -15,7 +15,7 @@ HOM Furniture is a furniture store in Rogers, MN at 13800 Rogers Drive, Rogers, 
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/hom-furniture-rogers/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/hom-furniture-rogers.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/556516035 (license ODbL-1.0); source data as of 2026-06-01

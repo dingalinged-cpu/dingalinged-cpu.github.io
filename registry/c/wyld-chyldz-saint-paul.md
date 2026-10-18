@@ -15,7 +15,7 @@ Wyld Chyldz is a hair salon in Saint Paul, MN at 880 Payne Avenue, Saint Paul, M
 - Opening hours (OSM syntax): n/a
 - Verified by owner: no
 - Claimable: yes
-- Last checked: 2026-10-17
+- Last checked: 2026-10-18
 - Registry URL: https://dingalinged-cpu.github.io/registry/c/wyld-chyldz-saint-paul/
 - JSON: https://dingalinged-cpu.github.io/registry/api/companies/wyld-chyldz-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12264854810 (license ODbL-1.0); source data as of 2026-06-01
